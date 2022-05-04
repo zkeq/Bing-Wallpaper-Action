@@ -1,0 +1,47 @@
+name: GetDataBase
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  # star and watch events
+  watch:
+    types: [started]
+    
+
+jobs:
+  builds:
+    name: GetDataBase
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v3
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7
+
+      - name: 'Install requirements'
+        run: |
+          pip install -r ./requirements.txt
+
+      - name: 'Run Bing API'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./main.py
+
+      - name: "POST to Redis"
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./post_to_redis.py
+
+      - name: Push clone
+    # 将写入的文件推送到仓库
+        run: |
+         git init && git add .
+         git config user.name "zkeq"
+         git config user.email "admin@icodeq.com"
+         git add .
+         git commit -m "GitHub Actions Clone at $(date +'%Y-%m-%d %H:%M:%S')"
+         git push --quiet "https://${{ secrets.MY_TOKEN }}@github.com/zkeq/Bing-Wallpaper-Action" main:main
