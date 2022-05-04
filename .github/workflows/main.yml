@@ -5,10 +5,10 @@ on:
     - cron:  '0 9 * * *'  
   watch:
     types: [started]
-    
+
 jobs:
   zh-CN:
-    name: GetDataBase
+    name: zh-CN
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -47,7 +47,7 @@ jobs:
           branch: main
 
   en-US:
-    name: GetDataBase
+    name: en-US
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -86,7 +86,7 @@ jobs:
           branch: main
 
   ja-JP:
-    name: GetDataBase
+    name: ja-JP
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
