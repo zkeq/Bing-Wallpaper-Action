@@ -38,6 +38,8 @@ jobs:
       - name: Commit files
         run: |
           ls -al
+          git config --global user.email "admin@icodeq.com"
+          git config --global user.name "Zkeq"
           git add .
           git commit -m "Update"
           
