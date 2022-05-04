@@ -24,53 +24,49 @@ jobs:
         run: |
           pip install -r ./requirements.txt
 
-      - name: 'Run Bing API'
+      - name: 'Run zh-CN Bing API'
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./zh-CN_main.py
 
-      - name: "POST to Redis"
+      - name: "POST zh-CN to Redis"
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./zh-CN_post_to_redis.py
             
-      - name: Commit files
+      - name: Commit zh-CN files
         run: |
           git config --local user.email "admin@icodeq.com"
           git config --local user.name "zkeq"
           git add .
           git commit -m "GitHub Actions Crawler zh-CN at $(date +'%Y-%m-%d %H:%M:%S')"
 
-      - name: 'Install requirements'
-        run: |
-          pip install -r ./requirements.txt
-
-      - name: 'Run Bing API'
+      - name: 'Run en-US Bing API'
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./en-US_main.py
 
-      - name: "POST to Redis"
+      - name: "POST en-US to Redis"
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./en-US_post_to_redis.py
 
-      - name: Commit files
+      - name: Commit en-US files
         run: |
           git add .
           git commit -m "GitHub Actions Crawler en-US at $(date +'%Y-%m-%d %H:%M:%S')"
 
-      - name: 'Run Bing API'
+      - name: 'Run ja-JP Bing API'
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./ja-JP_main.py
 
-      - name: "POST to Redis"
+      - name: "POST ja-JP to Redis"
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./ja-JP_post_to_redis.py
 
-      - name: Commit files
+      - name: Commit ja-JP files
         run: |
           git add .
           git commit -m "GitHub Actions Crawler ja-JP at $(date +'%Y-%m-%d %H:%M:%S')"
