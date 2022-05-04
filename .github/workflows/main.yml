@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out source code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: 'Set up Python'
         uses: actions/setup-python@v1
@@ -37,7 +37,7 @@ jobs:
         run: python ./post_to_redis.py
 
       - name: Push clone
-    # 将写入的文件推送到仓库
+          # 将写入的文件推送到仓库
         run: |
          git init && git add .
          git config user.name "zkeq"
