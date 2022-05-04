@@ -5,7 +5,7 @@ on:
     - cron:  '0 9 * * *'  
 
 jobs:
-  builds:
+  zh-CN:
     name: GetDataBase
     runs-on: ubuntu-latest
     steps:
@@ -25,19 +25,97 @@ jobs:
       - name: 'Run Bing API'
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
-        run: python ./main.py
+        run: python ./zh-CN_main.py
 
       - name: "POST to Redis"
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
-        run: python ./post_to_redis.py
+        run: python ./zh-CN_post_to_redis.py
             
       - name: Commit files
         run: |
           git config --local user.email "admin@icodeq.com"
           git config --local user.name "zkeq"
           git add .
-          git commit -m "GitHub Actions Crawler at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions Crawler `zh-CN` at $(date +'%Y-%m-%d %H:%M:%S')"
+      - name: Push changes
+        uses:  ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
+
+  en-US:
+    name: GetDataBase
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7
+
+      - name: 'Install requirements'
+        run: |
+          pip install -r ./requirements.txt
+
+      - name: 'Run Bing API'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./en-US_main.py
+
+      - name: "POST to Redis"
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./en-US_post_to_redis.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "admin@icodeq.com"
+          git config --local user.name "zkeq"
+          git add .
+          git commit -m "GitHub Actions Crawler `en-US` at $(date +'%Y-%m-%d %H:%M:%S')"
+      - name: Push changes
+        uses:  ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
+
+  ja-JP:
+    name: GetDataBase
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7
+
+      - name: 'Install requirements'
+        run: |
+          pip install -r ./requirements.txt
+
+      - name: 'Run Bing API'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ja-JP_main.py
+
+      - name: "POST to Redis"
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ja-JP_post_to_redis.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "admin@icodeq.com"
+          git config --local user.name "zkeq"
+          git add .
+          git commit -m "GitHub Actions Crawler `ja-JP` at $(date +'%Y-%m-%d %H:%M:%S')"
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
