@@ -35,38 +35,33 @@ jobs:
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./post_to_redis.py
-
-  Backup:
-    name: Backup To Private Project 
-    runs-on: ubuntu-latest 
-    
-    steps:
-    # check it to your workflow can access it
-    # from: https://github.com/actions/checkout
-    - name: Checkout Repository master branch
-      uses: actions/checkout@master 
-      
-    - name: Setup Git Infomation
-      run: | 
-        git config --global user.name 'zkeq' 
-        git config --global user.email 'admin@icodeq.com'  
+          
+      # check it to your workflow can access it
+      # from: https://github.com/actions/checkout
+      - name: Checkout Repository master branch
+        uses: actions/checkout@master 
         
-    - name: Setup SSH Private Key
-      env:
-        token_Private_Keys: ${{ secrets.token_Private_Keys }}
-      run: |
-        mkdir -p ~/.ssh/
-        echo "$token_Private_Keys" > ~/.ssh/id_rsa 
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
-    
-    - name: Get Latest Commit Message 
-      run: |
-        git log --pretty=format:"%s from Github Actions at `date +"%Y-%m-%d %H:%M:%S"`" --date=short -n 1  > commit-message.log
-    
-    - name: Backup To Gitee Private Project
-      env:
-        Gitee_Blog: github.com:zkeq/Bing-Wallpaper-Action.git
-      run: |
-        git add .
-        git push --force --quiet "git@${Gitee_Blog}"
+      - name: Setup Git Infomation
+        run: | 
+          git config --global user.name 'zkeq' 
+          git config --global user.email 'admin@icodeq.com'  
+          
+      - name: Setup SSH Private Key
+        env:
+          token_Private_Keys: ${{ secrets.token_Private_Keys }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$token_Private_Keys" > ~/.ssh/id_rsa 
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+      
+      - name: Get Latest Commit Message 
+        run: |
+          git log --pretty=format:"%s from Github Actions at `date +"%Y-%m-%d %H:%M:%S"`" --date=short -n 1  > commit-message.log
+      
+      - name: Backup To Gitee Private Project
+        env:
+          Gitee_Blog: github.com:zkeq/Bing-Wallpaper-Action.git
+        run: |
+          git add .
+          git push --force --quiet "git@${Gitee_Blog}"
