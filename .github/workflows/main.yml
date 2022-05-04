@@ -69,5 +69,4 @@ jobs:
         Gitee_Blog: github.com:zkeq/Bing-Wallpaper-Action.git
       run: |
         git add .
-        git commit -F ../commit-message.log
         git push --force --quiet "git@${Gitee_Blog}"
