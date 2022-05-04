@@ -7,8 +7,8 @@ on:
     types: [started]
 
 jobs:
-  zh-CN:
-    name: zh-CN
+  Crawler:
+    name: Crawler
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -41,20 +41,6 @@ jobs:
           git add .
           git commit -m "GitHub Actions Crawler `zh-CN` at $(date +'%Y-%m-%d %H:%M:%S')"
 
-  en-US:
-    name: en-US
-    runs-on: ubuntu-latest
-    needs: [zh-CN]
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-
-      - name: 'Set up Python'
-        uses: actions/setup-python@v1
-        with:
-           python-version: 3.7
-
       - name: 'Install requirements'
         run: |
           pip install -r ./requirements.txt
@@ -75,24 +61,6 @@ jobs:
           git config --local user.name "zkeq"
           git add .
           git commit -m "GitHub Actions Crawler `en-US` at $(date +'%Y-%m-%d %H:%M:%S')"
-
-  ja-JP:
-    name: ja-JP
-    runs-on: ubuntu-latest
-    needs: [en-US]
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-
-      - name: 'Set up Python'
-        uses: actions/setup-python@v1
-        with:
-           python-version: 3.7
-
-      - name: 'Install requirements'
-        run: |
-          pip install -r ./requirements.txt
 
       - name: 'Run Bing API'
         env:
