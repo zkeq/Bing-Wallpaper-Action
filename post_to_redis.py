@@ -26,6 +26,6 @@ print("[{}] 开始更新 redis".format(get_now_time()))
 
 for i in data:
     print("[{}] 更新图片：{}".format(get_now_time(), i["title"]))
-    r.sadd("bing_images", json.dumps(i["url"]))
+    r.sadd("bing_images", i["url"])
 
 print("[{}] 更新完成".format(get_now_time()))
