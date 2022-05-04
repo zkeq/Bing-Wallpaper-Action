@@ -19,7 +19,7 @@ def get_now_time():
 
 
 # 读取 data/temo.json
-with open('data/temp.json', 'r', encoding="utf-8") as f:
+with open('data/en-US_temp.json', 'r', encoding="utf-8") as f:
     data = json.load(f)
 
 print("[{}] 开始更新 redis".format(get_now_time()))
