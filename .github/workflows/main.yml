@@ -40,11 +40,6 @@ jobs:
           git config --local user.name "zkeq"
           git add .
           git commit -m "GitHub Actions Crawler `zh-CN` at $(date +'%Y-%m-%d %H:%M:%S')"
-      - name: Push changes
-        uses:  ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: main
 
   en-US:
     name: en-US
@@ -80,11 +75,6 @@ jobs:
           git config --local user.name "zkeq"
           git add .
           git commit -m "GitHub Actions Crawler `en-US` at $(date +'%Y-%m-%d %H:%M:%S')"
-      - name: Push changes
-        uses:  ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: main
 
   ja-JP:
     name: ja-JP
