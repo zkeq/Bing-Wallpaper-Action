@@ -39,7 +39,7 @@ jobs:
           git config --local user.email "admin@icodeq.com"
           git config --local user.name "zkeq"
           git add .
-          git commit -m "GitHub Actions Crawler `zh-CN` at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions Crawler zh-CN at $(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: 'Install requirements'
         run: |
@@ -57,10 +57,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "admin@icodeq.com"
-          git config --local user.name "zkeq"
           git add .
-          git commit -m "GitHub Actions Crawler `en-US` at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions Crawler en-US at $(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: 'Run Bing API'
         env:
@@ -74,10 +72,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "admin@icodeq.com"
-          git config --local user.name "zkeq"
           git add .
-          git commit -m "GitHub Actions Crawler `ja-JP` at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions Crawler ja-JP at $(date +'%Y-%m-%d %H:%M:%S')"
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
