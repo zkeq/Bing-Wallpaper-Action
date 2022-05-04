@@ -42,4 +42,4 @@ jobs:
           git config --global user.name "Zkeq"
           git add .
           git commit -m "Update"
-          
+          git push origin main
