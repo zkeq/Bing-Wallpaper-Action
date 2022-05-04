@@ -3,7 +3,9 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 9 * * *'  
-
+  watch:
+    types: [started]
+    
 jobs:
   zh-CN:
     name: GetDataBase
