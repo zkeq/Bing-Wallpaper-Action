@@ -37,12 +37,7 @@ jobs:
           
       - name: Commit files
         run: |
-          git config --local user.email "admin@icodeq.com"
-          git config --local user.name "zkeq"
+          ls -al
           git add .
-          git commit -m "update bing daily data"
-      - name: Push changes
-        uses:  ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: main
+          git commit -m "Update"
+          
