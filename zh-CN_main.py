@@ -80,3 +80,4 @@ with open('data/zh-CN_update.json', 'w', encoding="utf-8") as f:
 
 print("[{}] 更新 zh-CN_update.json 成功".format(get_now_time()))
 
+
