@@ -49,6 +49,7 @@ jobs:
   en-US:
     name: en-US
     runs-on: ubuntu-latest
+    needs: [zh-CN]
     steps:
       - uses: actions/checkout@v2
         with:
@@ -88,6 +89,7 @@ jobs:
   ja-JP:
     name: ja-JP
     runs-on: ubuntu-latest
+    needs: [en-US]
     steps:
       - uses: actions/checkout@v2
         with:
