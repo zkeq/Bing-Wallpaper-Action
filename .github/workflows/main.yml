@@ -3,6 +3,8 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 36 * * *'
+  watch:
+    types: [started]
     
 
 jobs:
@@ -38,7 +40,7 @@ jobs:
           git config --local user.email "admin@icodeq.com"
           git config --local user.name "zkeq"
           git add .
-          git commit -m "update readme.md"
+          git commit -m "GitHub Actions Crawler at $(date +'%Y-%m-%d %H:%M:%S')"
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
