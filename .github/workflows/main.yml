@@ -1,12 +1,8 @@
 name: GetDataBase
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  # star and watch events
-  watch:
-    types: [started]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 36 * * *'
     
 
 jobs:
