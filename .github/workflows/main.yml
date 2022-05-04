@@ -36,12 +36,15 @@ jobs:
         env:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: python ./post_to_redis.py
-          
+            
       - name: Commit files
         run: |
-          ls -al
-          git config --global user.email "admin@icodeq.com"
-          git config --global user.name "Zkeq"
+          git config --local user.email "admin@icodeq.com"
+          git config --local user.name "zkeq"
           git add .
-          git commit -m "Update"
-          git push origin main
+          git commit -m "update readme.md"
+      - name: Push changes
+        uses:  ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
