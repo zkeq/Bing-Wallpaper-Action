@@ -20,7 +20,7 @@ with open('data/ja-JP_all.json', 'r', encoding='utf-8') as f:
 all_day = len(zh_data['data'])
 print("[{}] all day: {}".format(get_now_time(), all_day))
 
-head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
+head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg"
 head_des = zh_data['data'][0]['copyright']
 head_title = zh_data['data'][0]['title']
 
@@ -42,8 +42,8 @@ for i in range(all_day):
     en_date_format = "{}-{}-{}".format(en_date[0:4], en_date[4:6], en_date[6:8])
     ja_date = ja_day['startdate']
     ja_date_format = "{}-{}-{}".format(ja_date[0:4], ja_date[4:6], ja_date[6:8])
-    zh_url_full = "https://www.bing.com" + zh_day['urlbase'] + "_UHD.jpg"
-    en_url_full = "https://www.bing.com" + en_day['urlbase'] + "_UHD.jpg"
-    ja_url_full = "https://www.bing.com" + ja_day['urlbase'] + "_UHD.jpg"
+    zh_url_full = "https://www.bing.com" + zh_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
+    en_url_full = "https://www.bing.com" + en_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
+    ja_url_full = "https://www.bing.com" + ja_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
     f.write("| ![{0}]({1}) {0} [download 4k]({1})| ![{2}]({3}) {2} [download 4k]({3})| ![{4}]({5}) {4} [download 4k]({5})|\n".format(zh_date_format, zh_url_full, en_date_format, en_url_full, ja_date_format, ja_url_full))
 f.close()
