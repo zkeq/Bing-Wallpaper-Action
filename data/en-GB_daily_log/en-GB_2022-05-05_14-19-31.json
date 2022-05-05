@@ -1,6 +1,5 @@
 {
-    "LastUpdate": "2022-05-05 14:19:31",
-    "data": [
+    "images": [
         {
             "startdate": "20220504",
             "fullstartdate": "202205042300",
@@ -137,5 +136,12 @@
             "bot": 1,
             "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Loading...",
+        "previous": "Previous image",
+        "next": "Next image",
+        "walle": "This image is not available to download as wallpaper.",
+        "walls": "Download this image. Use of this image is restricted to wallpaper only."
+    }
 }

@@ -1,6 +1,5 @@
 {
-    "LastUpdate": "2022-05-05 14:19:40",
-    "data": [
+    "images": [
         {
             "startdate": "20220504",
             "fullstartdate": "202205042200",
@@ -137,5 +136,12 @@
             "bot": 1,
             "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Chargement en cours...",
+        "previous": "Image précédente",
+        "next": "Image suivante",
+        "walle": "Cette image n’est pas disponible pour téléchargement en tant que papier peint.",
+        "walls": "Téléchargez cette image. L’utilisation de cette image est réservée à des fins de papier peint uniquement."
+    }
 }
