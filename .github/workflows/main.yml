@@ -73,6 +73,15 @@ jobs:
         run: |
           git add .
           git commit -m "GitHub Actions Crawler ja-JP at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: "MAKE readme.md file"
+        run: python ./make_readme.py
+
+      - name: Commit ja-JP files
+        run: |
+          git add README.md
+          git commit -m "GitHub Actions MAKE README.md at $(date +'%Y-%m-%d %H:%M:%S')"
+
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:

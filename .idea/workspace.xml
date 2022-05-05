@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403fa1de-e93b-47f4-9e33-6a5e587eba81" name="变更" comment="提交初版代码">
-      <change afterPath="$PROJECT_DIR$/data/en-US_daily_log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/en-US_update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ja-JP_all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ja-JP_daily_log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/zh-CN_all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/zh-CN_daily_log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ja-JP_post_to_redis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zh-CN_post_to_redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_readme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post_to_redis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-US_all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_log/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/daily_log/2022-05-04_18-06-08.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_to_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/en-US_post_to_redis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/zh-CN_all.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/zh-CN_all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en-US_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/en-US_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en-US_post_to_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/en-US_post_to_redis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ja-JP_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ja-JP_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ja-JP_post_to_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ja-JP_post_to_redis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-CN_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zh-CN_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-CN_post_to_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/zh-CN_post_to_redis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +28,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Json 文件" />
-        <option value="Python Script" />
         <option value=".gitignore" />
         <option value="requirements" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -66,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/Bing-Wallpaper-Action/data/zh-CN_daily_log",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/Bing-Wallpaper-Action/zh-CN_main.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,7 +83,7 @@
       <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.JP-main">
+  <component name="RunManager" selected="Python.make_read_me">
     <configuration name="CN-main" type="PythonConfigurationType" factoryName="Python">
       <module name="Bing-Wallpaper-Action" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zh-CN-main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zh-CN_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +142,28 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_read_me" type="PythonConfigurationType" factoryName="Python">
+      <module name="Bing-Wallpaper-Action" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_readme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +268,7 @@
       <item itemvalue="Python.mysql" />
       <item itemvalue="Python.CN-main" />
       <item itemvalue="Python.JP-main" />
+      <item itemvalue="Python.make_read_me" />
       <item itemvalue="Python.redis" />
       <item itemvalue="Python.test" />
     </list>
@@ -267,6 +286,7 @@
       <workItem from="1651651886007" duration="280000" />
       <workItem from="1651652188018" duration="9242000" />
       <workItem from="1651670361236" duration="7212000" />
+      <workItem from="1651723533295" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="获取数据写好了">
       <created>1651661243949</created>
@@ -305,10 +325,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交初版代码" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$make_read_me.coverage" NAME="make_read_me 覆盖结果" MODIFIED="1651728884063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$main.coverage" NAME="main 覆盖结果" MODIFIED="1651658154935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$mysql.coverage" NAME="mysql 覆盖结果" MODIFIED="1651661714987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$JP_main.coverage" NAME="JP-main 覆盖结果" MODIFIED="1651690186220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$CN_main.coverage" NAME="CN-main 覆盖结果" MODIFIED="1651690084539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$CN_main.coverage" NAME="CN-main 覆盖结果" MODIFIED="1651726676804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$test.coverage" NAME="test 覆盖结果" MODIFIED="1651670420017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$redis.coverage" NAME="redis 覆盖结果" MODIFIED="1651658193643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
