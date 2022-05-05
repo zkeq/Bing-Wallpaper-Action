@@ -14,9 +14,10 @@ jobs:
     name: Crawler
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+      - name: Check out source code
+        uses: actions/checkout@v3
+        # with:
+        #   persist-credentials: false
 
       - name: 'Set up Python'
         uses: actions/setup-python@v1
@@ -76,5 +77,5 @@ jobs:
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
