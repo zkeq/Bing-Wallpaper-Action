@@ -1,5 +1,5 @@
 # Bing Wallpaper
-<!--2022-05-05 14:17:16-->
+<!--2022-05-05 14:19:52-->
 ![这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg&w=1000) Today: [这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
 
 |  Chinese – China   |   English – United Kingdom   |   Japanese – Japan   |
@@ -13,7 +13,6 @@
 | ![2022-04-28](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)| ![2022-04-29](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-29 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)| ![2022-04-28](https://www.bing.com/th?id=OHR.FoxSkills_JA-JP1416966654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.FoxSkills_JA-JP1416966654_UHD.jpg)|
 | ![2022-04-27](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-27 [download 4k](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg)| ![2022-04-28](https://www.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg)| ![2022-04-27](https://www.bing.com/th?id=OHR.Kawachi_JA-JP1288148218_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-27 [download 4k](https://www.bing.com/th?id=OHR.Kawachi_JA-JP1288148218_UHD.jpg)|
 -------------------
-![这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg&w=1000) Today: [这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
 
 |  German – Germany   |   English – Canada   |   English – United States   |
 | :----: | :----: | :----: |
@@ -26,7 +25,6 @@
 | ![2022-04-28](https://www.bing.com/th?id=OHR.RedwoodSprout_DE-DE5551680654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_DE-DE5551680654_UHD.jpg)| ![2022-04-29](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-29 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_UHD.jpg)| ![2022-04-28](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_UHD.jpg)|
 | ![2022-04-27](https://www.bing.com/th?id=OHR.FoxSkills_DE-DE5428471267_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-27 [download 4k](https://www.bing.com/th?id=OHR.FoxSkills_DE-DE5428471267_UHD.jpg)| ![2022-04-28](https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg)| ![2022-04-27](https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2022-04-27 [download 4k](https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg)|
 -------------------
-![这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg&w=1000) Today: [这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
 
 |  English – India  |   French – France   |   Italian – Italy   |
 | :----: | :----: | :----: |
