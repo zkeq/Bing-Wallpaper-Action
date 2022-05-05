@@ -1,5 +1,7 @@
 # coding:utf-8
 import os
+import time
+
 import main
 import post_to_redis
 
@@ -66,4 +68,5 @@ for i in work_list:
         os.mkdir(f"data/{i}_daily_log")
     main.main(i)
     post_to_redis.main(i)
+    time.sleep(10)
 
