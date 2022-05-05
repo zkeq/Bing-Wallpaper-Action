@@ -20,7 +20,7 @@ with open('data/ja-JP_all.json', 'r', encoding='utf-8') as f:
 all_day = len(zh_data['data'])
 print("[{}] all day: {}".format(get_now_time(), all_day))
 
-head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg"
+head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
 head_des = zh_data['data'][0]['copyright']
 head_title = zh_data['data'][0]['title']
 

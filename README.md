@@ -1,5 +1,5 @@
 # Bing Wallpaper
-![这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg) Today: [这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
+![这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) Today: [这种蓝色多汁的植物就像黄金一样珍贵](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
 |  zh-CN   |   en-US   |   ja-JP   |
 | :----: | :----: | :----: |
