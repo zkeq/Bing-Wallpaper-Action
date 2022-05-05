@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403fa1de-e93b-47f4-9e33-6a5e587eba81" name="变更" comment="提交初版代码">
+      <change afterPath="$PROJECT_DIR$/ALL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/template_all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/template_update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Json 文件" />
         <option value=".gitignore" />
         <option value="requirements" />
+        <option value="Json 文件" />
         <option value="Python Script" />
       </list>
     </option>
@@ -51,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/Bing-Wallpaper-Action/zh-CN_main.py",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/Bing-Wallpaper-Action/ALL.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,13 +69,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action" />
       <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action\data\zh-CN_daily_log" />
       <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action\data\ja-JP_daily_log" />
-      <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action" />
       <recent name="C:\Users\Admin\Documents\GitHub\Bing-Wallpaper-Action\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.make_read_me">
+  <component name="RunManager" selected="Python.all">
     <configuration name="CN-main" type="PythonConfigurationType" factoryName="Python">
       <module name="Bing-Wallpaper-Action" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +134,28 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="PythonConfigurationType" factoryName="Python">
+      <module name="Bing-Wallpaper-Action" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,6 +283,7 @@
       <item itemvalue="Python.CN-main" />
       <item itemvalue="Python.JP-main" />
       <item itemvalue="Python.make_read_me" />
+      <item itemvalue="Python.all" />
       <item itemvalue="Python.redis" />
       <item itemvalue="Python.test" />
     </list>
@@ -275,7 +301,8 @@
       <workItem from="1651651886007" duration="280000" />
       <workItem from="1651652188018" duration="9242000" />
       <workItem from="1651670361236" duration="7212000" />
-      <workItem from="1651723533295" duration="8492000" />
+      <workItem from="1651723533295" duration="9701000" />
+      <workItem from="1651744936383" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="获取数据写好了">
       <created>1651661243949</created>
@@ -321,5 +348,6 @@
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$CN_main.coverage" NAME="CN-main 覆盖结果" MODIFIED="1651726676804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$test.coverage" NAME="test 覆盖结果" MODIFIED="1651670420017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$redis.coverage" NAME="redis 覆盖结果" MODIFIED="1651658193643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bing_Wallpaper_Action$all.coverage" NAME="all 覆盖结果" MODIFIED="1651747804248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
