@@ -20,14 +20,14 @@ with open('data/ja-JP_all.json', 'r', encoding='utf-8') as f:
 all_day = len(zh_data['data'])
 print("[{}] all day: {}".format(get_now_time(), all_day))
 
-head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg" + "&w=1000"
+head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg"
 head_des = zh_data['data'][0]['copyright']
 head_title = zh_data['data'][0]['title']
 
 f = open('README.md', 'w', encoding='utf-8')
 f.write("# Bing Wallpaper\n")
 f.write(f"<!--{get_now_time()}-->\n")
-f.write("![{0}]({1}) Today: [{0}]({1})\n".format(head_title, head_img))
+f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
 f.write("""
 |  zh-CN   |   en-US   |   ja-JP   |
 | :----: | :----: | :----: |
