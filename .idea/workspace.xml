@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403fa1de-e93b-47f4-9e33-6a5e587eba81" name="变更" comment="提交初版代码">
-      <change afterPath="$PROJECT_DIR$/ALL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/template_all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/template_update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en-US_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en-US_post_to_redis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ja-JP_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ja-JP_post_to_redis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-CN_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-CN_post_to_redis.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +306,7 @@
       <workItem from="1651652188018" duration="9242000" />
       <workItem from="1651670361236" duration="7212000" />
       <workItem from="1651723533295" duration="9701000" />
-      <workItem from="1651744936383" duration="3112000" />
+      <workItem from="1651744936383" duration="3442000" />
     </task>
     <task id="LOCAL-00001" summary="获取数据写好了">
       <created>1651661243949</created>
