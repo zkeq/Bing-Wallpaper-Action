@@ -71,6 +71,9 @@ for i in range(all_day):
     ja_readme_url = ja_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
     f.write("| ![{0}]({1}) {0} [download 4k]({6})| ![{2}]({3}) {2} [download 4k]({7})| ![{4}]({5}) {4} [download 4k]({8})|\n".format(zh_date_format, zh_readme_url, en_date_format, en_readme_url, ja_date_format, ja_readme_url, zh_url_full, en_url_full, ja_url_full))
 
+f.write("-------------------\n")
+
+f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
 
 f.write("""
 |  German – Germany   |   English – Canada   |   English – United States   |
@@ -95,6 +98,9 @@ for i in range(all_day):
     en_gb_readme_url = en_gb_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
     f.write("| ![{0}]({1}) {0} [download 4k]({6})| ![{2}]({3}) {2} [download 4k]({7})| ![{4}]({5}) {4} [download 4k]({8})|\n".format(de_date_format, de_readme_url, en_ca_date_format, en_ca_readme_url, en_gb_date_format, en_gb_readme_url, de_url_full, en_ca_url_full, en_gb_url_full))
 
+f.write("-------------------\n")
+
+f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
 
 f.write("""
 |  English – India  |   French – France   |   Italian – Italy   |
