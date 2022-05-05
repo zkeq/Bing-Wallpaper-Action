@@ -73,8 +73,6 @@ for i in range(all_day):
 
 f.write("-------------------\n")
 
-f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
-
 f.write("""
 |  German – Germany   |   English – Canada   |   English – United States   |
 | :----: | :----: | :----: |
@@ -99,8 +97,6 @@ for i in range(all_day):
     f.write("| ![{0}]({1}) {0} [download 4k]({6})| ![{2}]({3}) {2} [download 4k]({7})| ![{4}]({5}) {4} [download 4k]({8})|\n".format(de_date_format, de_readme_url, en_ca_date_format, en_ca_readme_url, en_gb_date_format, en_gb_readme_url, de_url_full, en_ca_url_full, en_gb_url_full))
 
 f.write("-------------------\n")
-
-f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
 
 f.write("""
 |  English – India  |   French – France   |   Italian – Italy   |
