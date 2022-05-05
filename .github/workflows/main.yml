@@ -79,7 +79,7 @@ jobs:
 
       - name: Commit ja-JP files
         run: |
-          git add README.md
+          git add .
           git commit -m "GitHub Actions MAKE README.md at $(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: Push changes
