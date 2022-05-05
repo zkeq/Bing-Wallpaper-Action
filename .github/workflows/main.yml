@@ -77,7 +77,7 @@ jobs:
       - name: "MAKE readme.md file"
         run: python ./make_readme.py
 
-      - name: Commit ja-JP files
+      - name: Commit readme.md files
         run: |
           git add .
           git commit -m "GitHub Actions MAKE README.md at $(date +'%Y-%m-%d %H:%M:%S')"
