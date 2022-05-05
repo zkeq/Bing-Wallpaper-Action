@@ -43,8 +43,11 @@ for i in range(all_day):
     en_date_format = "{}-{}-{}".format(en_date[0:4], en_date[4:6], en_date[6:8])
     ja_date = ja_day['startdate']
     ja_date_format = "{}-{}-{}".format(ja_date[0:4], ja_date[4:6], ja_date[6:8])
-    zh_url_full = "https://www.bing.com" + zh_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
-    en_url_full = "https://www.bing.com" + en_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
-    ja_url_full = "https://www.bing.com" + ja_day['urlbase'] + "_UHD.jpg" + "&pid=hp&w=384&h=216&rs=1&c=4"
-    f.write("| ![{0}]({1}) {0} [download 4k]({1})| ![{2}]({3}) {2} [download 4k]({3})| ![{4}]({5}) {4} [download 4k]({5})|\n".format(zh_date_format, zh_url_full, en_date_format, en_url_full, ja_date_format, ja_url_full))
+    zh_url_full = "https://www.bing.com" + zh_day['urlbase'] + "_UHD.jpg"
+    zh_readme_url = zh_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
+    en_url_full = "https://www.bing.com" + en_day['urlbase'] + "_UHD.jpg"
+    en_readme_url = en_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
+    ja_url_full = "https://www.bing.com" + ja_day['urlbase'] + "_UHD.jpg"
+    ja_readme_url = ja_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
+    f.write("| ![{0}]({1}) {0} [download 4k]({6})| ![{2}]({3}) {2} [download 4k]({7})| ![{4}]({5}) {4} [download 4k]({8})|\n".format(zh_date_format, zh_readme_url, en_date_format, en_readme_url, ja_date_format, ja_readme_url, zh_url_full, en_url_full, ja_url_full))
 f.close()
