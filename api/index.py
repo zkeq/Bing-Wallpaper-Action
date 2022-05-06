@@ -15,7 +15,8 @@ r = redis.Redis(
 
 def get_bing():
     _params_data = r.srandmember("bing_images", -1)[0].decode('utf-8')
-    full_uel = "https://bing.com" + _params_data.split("_1920x1080")[0] + "_UHD.jpg"
+    # full_uel = "https://bing.com" + _params_data.split("_1920x1080")[0] + "_UHD.jpg"
+    full_uel = "https://bing.com" + _params_data
     return full_uel
 
 
