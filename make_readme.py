@@ -67,11 +67,11 @@ for i in range(all_day):
     zh_day = zh_data['data'][i]
     en_day = en_data['data'][i]
     ja_day = ja_data['data'][i]
-    zh_date = zh_day['startdate']
+    zh_date = zh_day['enddate']
     zh_date_format = "{}-{}-{}".format(zh_date[0:4], zh_date[4:6], zh_date[6:8])
-    en_date = en_day['startdate']
+    en_date = en_day['enddate']
     en_date_format = "{}-{}-{}".format(en_date[0:4], en_date[4:6], en_date[6:8])
-    ja_date = ja_day['startdate']
+    ja_date = ja_day['enddate']
     ja_date_format = "{}-{}-{}".format(ja_date[0:4], ja_date[4:6], ja_date[6:8])
     zh_url_full = "https://www.bing.com" + zh_day['urlbase'] + "_UHD.jpg"
     zh_readme_url = zh_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
@@ -92,11 +92,11 @@ for i in range(all_day):
     de_day = de_data['data'][i]
     en_ca_day = en_ca_data['data'][i]
     en_gb_day = en_gb_data['data'][i]
-    de_date = de_day['startdate']
+    de_date = de_day['enddate']
     de_date_format = "{}-{}-{}".format(de_date[0:4], de_date[4:6], de_date[6:8])
-    en_ca_date = en_ca_day['startdate']
+    en_ca_date = en_ca_day['enddate']
     en_ca_date_format = "{}-{}-{}".format(en_ca_date[0:4], en_ca_date[4:6], en_ca_date[6:8])
-    en_gb_date = en_gb_day['startdate']
+    en_gb_date = en_gb_day['enddate']
     en_gb_date_format = "{}-{}-{}".format(en_gb_date[0:4], en_gb_date[4:6], en_gb_date[6:8])
     de_url_full = "https://www.bing.com" + de_day['urlbase'] + "_UHD.jpg"
     de_readme_url = de_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
@@ -118,11 +118,11 @@ for i in range(all_day):
     en_in_day = en_in_data['data'][i]
     fr_fr_day = fr_data['data'][i]
     it_it_day = it_data['data'][i]
-    en_in_date = en_in_day['startdate']
+    en_in_date = en_in_day['enddate']
     en_in_date_format = "{}-{}-{}".format(en_in_date[0:4], en_in_date[4:6], en_in_date[6:8])
-    fr_fr_date = fr_fr_day['startdate']
+    fr_fr_date = fr_fr_day['enddate']
     fr_fr_date_format = "{}-{}-{}".format(fr_fr_date[0:4], fr_fr_date[4:6], fr_fr_date[6:8])
-    it_it_date = it_it_day['startdate']
+    it_it_date = it_it_day['enddate']
     it_it_date_format = "{}-{}-{}".format(it_it_date[0:4], it_it_date[4:6], it_it_date[6:8])
     en_in_url_full = "https://www.bing.com" + en_in_day['urlbase'] + "_UHD.jpg"
     en_in_readme_url = en_in_url_full + "&pid=hp&w=384&h=216&rs=1&c=4"
