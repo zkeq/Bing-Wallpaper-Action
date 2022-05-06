@@ -27,17 +27,111 @@ jobs:
         run: |
           pip install -r ./requirements.txt
 
-      - name: 'ALL IN ONE'
-        env:
-          PASSWORD: ${{ secrets.PASSWORD }}
-        run: python ./ALL.py
-
-      - name: Commit ALL IN ONE files
+      - name: "GIT CONFIG SETUP"
         run: |
           git config --local user.email "admin@icodeq.com"
           git config --local user.name "zkeq"
+
+      - name: 'CRAWLER zh-CN BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py zh-CN
+
+
+      - name: 'Commit zh-CN CRAWLER files'
+        run: |
           git add .
-          git commit -m "GitHub Actions Crawler ALL IN ONE at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions Crawler zh-CN at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-US BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-US
+
+
+      - name: 'Commit en-US CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-US at $(date +'%Y-%m-%d %H:%M:%S')"
+          
+
+      - name: 'CRAWLER ja-JP BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py ja-JP
+
+
+      - name: 'Commit ja-JP CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler ja-JP at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER de-DE BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py de-DE
+
+
+      - name: 'Commit de-DE CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler de-DE at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-CA BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-CA
+
+
+      - name: 'Commit en-CA CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-CA at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-GB BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-GB
+
+
+      - name: 'Commit en-GB CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-GB at $(date +'%Y-%m-%d %H:%M:%S')"
+          
+
+      - name: 'CRAWLER en-IN BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-IN
+
+
+      - name: 'Commit en-IN CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-IN at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER fr-FR BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py fr-FR
+
+
+      - name: 'Commit fr-FR CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler fr-FR at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER it-IT BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py it-IT
+
+
+      - name: 'Commit it-IT CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler it-IT at $(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: "MAKE readme.md file"
         run: python ./make_readme.py
