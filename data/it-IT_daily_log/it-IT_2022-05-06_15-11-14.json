@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 15:11:14",
-    "Total": 9,
-    "Language": "it-IT",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205052200",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204272200",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.FoxSkills_IT-IT9509868918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_IT-IT9509868918",
-            "copyright": "Cuccioli di volpe rossa si esercitano nelle attività di caccia, Quebec, Canada (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=volpe+rossa&form=hpcapt",
-            "title": "Fate molta pratica, piccoli cuccioli",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "9397af4697362bbff8d3538000e32e70",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Caricamento in corso...",
+        "previous": "Immagine precedente",
+        "next": "Immagine successiva",
+        "walle": "Impossibile scaricare l'immagine come sfondo.",
+        "walls": "Scarica l'immagine. Questa immagine può essere utilizzata esclusivamente come sfondo."
+    }
 }
