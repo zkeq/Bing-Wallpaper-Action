@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 01:52:49",
-    "Total": 9,
-    "Language": "zh-CN",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205051600",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204271600",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.GreatRidge_ZH-CN6165605288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.GreatRidge_ZH-CN6165605288",
-            "copyright": "大脊山，英格兰峰区国家公园 (© John Finney Photography/Moment/Getty Images)",
-            "copyrightlink": "https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B3%B0%E5%8C%BA%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
-            "title": "庆祝漫游权",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_GreatRidge%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "bbab6facc103349e7cc6a2d6dd5e24c0",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "正在加载...",
+        "previous": "上一个图像",
+        "next": "下一个图像",
+        "walle": "此图片不能下载用作壁纸。",
+        "walls": "下载今日美图。仅限用作桌面壁纸。"
+    }
 }
