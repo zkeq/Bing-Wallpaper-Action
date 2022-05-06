@@ -1,5 +1,5 @@
 # Bing Wallpaper
-<!--2022-05-06 01:10:39-->
+<!--2022-05-06 01:52:52-->
 ![是否有胆量穿过这片蓝铃花丛？](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg&w=1000) Today: [是否有胆量穿过这片蓝铃花丛？](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg)
 
 |  Chinese – China   |   English – United Kingdom   |   Japanese – Japan   |
