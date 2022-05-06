@@ -1,6 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 01:10:23",
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205050700",
@@ -136,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204270700",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.SvalbardSun_EN-US2348209213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.SvalbardSun_EN-US2348209213",
-            "copyright": "Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)",
-            "copyrightlink": "https://www.bing.com/search?q=midnight+sun+norway&form=hpcapt&filters=HpDate%3a%2220220427_0700%22",
-            "title": "Endless summer",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_SvalbardSun%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "aecc1d10f731efa664029109d3ea7a71",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Loading...",
+        "previous": "Previous image",
+        "next": "Next image",
+        "walle": "This image is not available to download as wallpaper.",
+        "walls": "Download this image. Use of this image is restricted to wallpaper only."
+    }
 }
