@@ -52,6 +52,11 @@ def main(run_type):
 
     data_data = {
         "LastUpdate": get_now_time(),
+        "Total": len(write_list),
+        "Language": run_type,
+        "message": "ok",
+        "status": True,
+        "success": True,
         "data": write_list
     }
 
