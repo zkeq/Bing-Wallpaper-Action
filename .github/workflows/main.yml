@@ -2,7 +2,7 @@ name: GetDataBase Execute Every Day .
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 9 * * *'  
+    - cron:  '30 0 * * *'  
   repository_dispatch:
     types:
       - GetDataBase
