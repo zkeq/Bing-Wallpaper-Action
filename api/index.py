@@ -23,7 +23,7 @@ def get_bing():
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         params_data = get_bing()
-        self.send_response(308)  # vercel 只有 308 跳转才可以缓存 详情见官方文档
+        self.send_response(307)  # vercel 只有 308 跳转才可以缓存 详情见官方文档
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('location', params_data)  # 这个是主要的
         self.send_header('Refresh', '0;url={}'.format(params_data))
