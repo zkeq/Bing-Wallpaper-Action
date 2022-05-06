@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 02:20:01",
-    "Total": 9,
-    "Language": "en-GB",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205052300",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204272300",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.EileanNaMoine_EN-GB5424366083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.EileanNaMoine_EN-GB5424366083",
-            "copyright": "Dawn light on Eilean Na Mòine island, Loch Eilt, West Highlands (© Lilly Husbands/Offset)",
-            "copyrightlink": "https://www.bing.com/search?q=Loch+Eilt&form=hpcapt&filters=HpDate%3a%2220220427_2300%22",
-            "title": "A magical resting place",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_EileanNaMoine%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "9c45b502491f47f564b2409ef673dfea",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Loading...",
+        "previous": "Previous image",
+        "next": "Next image",
+        "walle": "This image is not available to download as wallpaper.",
+        "walls": "Download this image. Use of this image is restricted to wallpaper only."
+    }
 }
