@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 02:19:55",
-    "Total": 9,
-    "Language": "de-DE",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205052200",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204272200",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.FoxSkills_DE-DE5428471267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_DE-DE5428471267",
-            "copyright": "Fuchsjunge beim Einüben ihrer Jagdfähigkeiten, Quebec, Kanada (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=Rotfuchs&form=hpcapt&filters=HpDate%3a%2220220427_2200%22",
-            "title": "Immer schön fleißig weiterüben, kleiner Kerl!",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "a533e3edf2287c9ef24775bc0994fcd8",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Wird geladen...",
+        "previous": "Vorheriges Bild",
+        "next": "Nächstes Bild",
+        "walle": "Dieses Bild steht nicht zum Download als Hintergrundbild zur Verfügung.",
+        "walls": "Dieses Bild herunterladen. Dieses Bild darf nur als Hintergrundbild verwendet werden."
+    }
 }
