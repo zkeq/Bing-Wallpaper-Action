@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 01:52:27",
-    "Total": 8,
-    "Language": "en-CA",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205050400",
@@ -142,5 +136,12 @@
             "bot": 1,
             "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Loading...",
+        "previous": "Previous image",
+        "next": "Next image",
+        "walle": "This image is not available to download as wallpaper.",
+        "walls": "Download this image. Use of this image is restricted to wallpaper only."
+    }
 }
