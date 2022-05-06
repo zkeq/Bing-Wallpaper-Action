@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-06 15:11:11",
-    "Total": 9,
-    "Language": "fr-FR",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205052200",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204272200",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.FoxSkills_FR-FR0159001473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_FR-FR0159001473",
-            "copyright": "Renardeaux roux s’entrainant à sauter, Québec, Canada (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=renard+roux&form=hpcapt&filters=HpDate%3a%2220220427_2200%22",
-            "title": "L’heure d’apprendre",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "8fb880b1601ed4ac966f140e57a5e143",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Chargement en cours...",
+        "previous": "Image précédente",
+        "next": "Image suivante",
+        "walle": "Cette image n’est pas disponible pour téléchargement en tant que papier peint.",
+        "walls": "Téléchargez cette image. L’utilisation de cette image est réservée à des fins de papier peint uniquement."
+    }
 }
