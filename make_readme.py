@@ -37,7 +37,17 @@ with open('data/it-IT_all.json', 'r', encoding='utf-8') as f:
     it_data = json.load(f)
 
 
-all_day = len(zh_data['data'])
+all_day = min(
+    len(zh_data['data']),
+    len(en_data['data']),
+    len(ja_data['data']),
+    len(de_data['data']),
+    len(en_ca_data['data']),
+    len(en_gb_data['data']),
+    len(en_in_data['data']),
+    len(fr_data['data']),
+    len(it_data['data'])
+)
 print("[{}] all day: {}".format(get_now_time(), all_day))
 
 head_img = "https://www.bing.com" + zh_data['data'][0]['urlbase'] + "_UHD.jpg"
