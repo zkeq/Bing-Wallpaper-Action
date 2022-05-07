@@ -1,28 +1,5 @@
 {
-    "LastUpdate": "2022-05-07 02:13:55",
-    "Total": 10,
-    "Language": "de-DE",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
-        {
-            "startdate": "20220506",
-            "fullstartdate": "202205062200",
-            "enddate": "20220507",
-            "url": "/th?id=OHR.GlassBridge_DE-DE2318675548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.GlassBridge_DE-DE2318675548",
-            "copyright": "Glasbrücke Zhangjiajie, Provinz Hunan, Volksrepublik China (© MediaProduction/Getty Images)",
-            "copyrightlink": "https://www.bing.com/search?q=Glasbr%C3%BCcke+Zhangjiajie&form=hpcapt&filters=HpDate%3a%2220220506_2200%22",
-            "title": "Blick durch Glas – 260 Meter über dem Boden",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220506_GlassBridge%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "d8666f92e84303735508415536e0ac98",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
-        },
+    "images": [
         {
             "startdate": "20220505",
             "fullstartdate": "202205052200",
@@ -158,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204272200",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.FoxSkills_DE-DE5428471267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_DE-DE5428471267",
-            "copyright": "Fuchsjunge beim Einüben ihrer Jagdfähigkeiten, Quebec, Kanada (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=Rotfuchs&form=hpcapt&filters=HpDate%3a%2220220427_2200%22",
-            "title": "Immer schön fleißig weiterüben, kleiner Kerl!",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "a533e3edf2287c9ef24775bc0994fcd8",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Wird geladen...",
+        "previous": "Vorheriges Bild",
+        "next": "Nächstes Bild",
+        "walle": "Dieses Bild steht nicht zum Download als Hintergrundbild zur Verfügung.",
+        "walls": "Dieses Bild herunterladen. Dieses Bild darf nur als Hintergrundbild verwendet werden."
+    }
 }
