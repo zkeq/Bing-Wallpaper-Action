@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-07 02:13:59",
-    "Total": 9,
-    "Language": "en-CA",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220506",
             "fullstartdate": "202205060400",
@@ -141,23 +135,13 @@
             "top": 1,
             "bot": 1,
             "hs": []
-        },
-        {
-            "startdate": "20220428",
-            "fullstartdate": "202204280400",
-            "enddate": "20220429",
-            "url": "/th?id=OHR.FoxSkills_EN-CA9100915774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_EN-CA9100915774",
-            "copyright": "Fox kits practice their hunting skills, Quebec (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=red+fox+animal&form=hpcapt&filters=HpDate%3a%2220220428_0400%22",
-            "title": "Keep practicing, little guy",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220428_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "4df7ab118050609952a15a743c5e355f",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "Loading...",
+        "previous": "Previous image",
+        "next": "Next image",
+        "walle": "This image is not available to download as wallpaper.",
+        "walls": "Download this image. Use of this image is restricted to wallpaper only."
+    }
 }
