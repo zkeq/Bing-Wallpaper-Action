@@ -1,11 +1,5 @@
 {
-    "LastUpdate": "2022-05-07 02:13:52",
-    "Total": 10,
-    "Language": "ja-JP",
-    "message": "ok",
-    "status": true,
-    "success": true,
-    "data": [
+    "images": [
         {
             "startdate": "20220506",
             "fullstartdate": "202205061500",
@@ -51,7 +45,7 @@
             "title": "今日は「こどもの日」",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220504_ChildrenDay2022%22&FORM=HPQUIZ",
             "wp": true,
-            "hsh": "e953b1e273b358237dd76168da77a531",
+            "hsh": "88137be64528de3cb015f1dc1542504c",
             "drk": 1,
             "top": 1,
             "bot": 1,
@@ -68,7 +62,7 @@
             "title": "今日は「みどりの日」",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220503_RedwoodSprout%22&FORM=HPQUIZ",
             "wp": true,
-            "hsh": "0691b9903c24a0b5819bc9f5c2c53188",
+            "hsh": "c328a3f9d03216b6157e64db5267807f",
             "drk": 1,
             "top": 1,
             "bot": 1,
@@ -85,7 +79,7 @@
             "title": "初夏のバンデューセン植物園",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220502_VanBlooms%22&FORM=HPQUIZ",
             "wp": true,
-            "hsh": "df0c50666de76d8d516a8d09d4544230",
+            "hsh": "8a46543807066371c26935a7ab752396",
             "drk": 1,
             "top": 1,
             "bot": 1,
@@ -102,7 +96,7 @@
             "title": "今日は「八十八夜」",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220501_Hatchju22%22&FORM=HPQUIZ",
             "wp": true,
-            "hsh": "885c7f05942f1aa73bb3a093bbc19ece",
+            "hsh": "e6e513f9a366eb9b664692e08aa3e968",
             "drk": 1,
             "top": 1,
             "bot": 1,
@@ -119,7 +113,7 @@
             "title": "オカラ国定森林の巨大な泉",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220430_OcalaNF%22&FORM=HPQUIZ",
             "wp": true,
-            "hsh": "82d02582dbccef749eb08b1d828f0cd3",
+            "hsh": "b8faeb8848553e3519f86a112cece61a",
             "drk": 1,
             "top": 1,
             "bot": 1,
@@ -136,45 +130,18 @@
             "title": "今日は「国際ジャズ・デー」",
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220429_NorthBeachJazz%22&FORM=HPQUIZ",
             "wp": false,
-            "hsh": "099e3a1c4762be907588126a19a76e8f",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
-        },
-        {
-            "startdate": "20220428",
-            "fullstartdate": "202204281500",
-            "enddate": "20220429",
-            "url": "/th?id=OHR.FoxSkills_JA-JP1416966654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.FoxSkills_JA-JP1416966654",
-            "copyright": "狩りの練習をする子ギツネ, カナダ ケベック州 (© Vlad Kamenski/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=%E5%AD%90%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220220428_1500%22",
-            "title": "ケベック州の自然とキツネたち",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220428_FoxSkills%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "17a642d0d3cba3c408e77c11a46692a8",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
-        },
-        {
-            "startdate": "20220427",
-            "fullstartdate": "202204271500",
-            "enddate": "20220428",
-            "url": "/th?id=OHR.Kawachi_JA-JP1288148218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.Kawachi_JA-JP1288148218",
-            "copyright": "河内藤園, 福岡県 北九州市 (© Steve Tan C K Photography/Getty Images)",
-            "copyrightlink": "https://www.bing.com/search?q=%E6%B2%B3%E5%86%85%E8%97%A4%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220220427_1500%22",
-            "title": "北九州が誇る藤の名所",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220427_Kawachi%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "2ead9adbca53438930b9a13d705a07ab",
+            "hsh": "962282d15b4f7b2bd64317aafd04a78a",
             "drk": 1,
             "top": 1,
             "bot": 1,
             "hs": []
         }
-    ]
+    ],
+    "tooltips": {
+        "loading": "読み込み中...",
+        "previous": "前の画像へ",
+        "next": "次の画像へ",
+        "walle": "この画像を壁紙としてダウンロードすることはできません。",
+        "walls": "この画像をダウンロードできます。画像の用途は壁紙に限定されています。"
+    }
 }
