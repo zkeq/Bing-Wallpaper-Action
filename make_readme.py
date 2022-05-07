@@ -57,7 +57,7 @@ head_title = zh_data['data'][0]['title']
 f = open('README.md', 'w', encoding='utf-8')
 f.write("# Bing Wallpaper\n")
 f.write(f"<!--{get_now_time()}-->\n")
-f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1000"))
+f.write("![{0}]({2}) Today: [{0}]({1})\n".format(head_title, head_img, head_img + "&w=1920"))
 f.write("""
 |  Chinese – China   |   English – United Kingdom   |   Japanese – Japan   |
 | :----: | :----: | :----: |

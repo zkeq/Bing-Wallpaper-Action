@@ -30,7 +30,10 @@
 # print("https://bing.com" + r_remote.srandmember("bing_images", -1)[0].decode('utf-8'))
 # print("https://bing.com" + r_remote.srandmember("bing_images", -1)[0].decode('utf-8'))
 # print("https://bing.com" + r_remote.srandmember("bing_images", -1)[0].decode('utf-8'))
-import sys
-
-a = sys.argv
-print(a)
+# import sys
+#
+# a = sys.argv
+# print(a)
+import requests
+data = requests.get("https://api.github.com/users/valetzx/starred", verify=False).json()
+print(data)
