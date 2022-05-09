@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-05-08 02:30:58",
-    "Total": 11,
+    "LastUpdate": "2022-05-09 02:34:53",
+    "Total": 12,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220508",
+            "fullstartdate": "202205082200",
+            "enddate": "20220509",
+            "url": "/th?id=OHR.GoremeNationalPark_DE-DE2607260675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoremeNationalPark_DE-DE2607260675",
+            "copyright": "Blick von einer Aussichtsplattform auf Göreme, Göreme-Nationalpark, Kappadokien, Türkei (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=G%C3%B6reme&form=hpcapt&filters=HpDate%3a%2220220508_2200%22",
+            "title": "Lebende Felsen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220508_GoremeNationalPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02d3aab26e598e35d6739e668091a655",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220507",
             "fullstartdate": "202205072200",
