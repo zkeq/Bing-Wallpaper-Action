@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-05-10 02:03:44",
-    "Total": 13,
+    "LastUpdate": "2022-05-11 02:32:40",
+    "Total": 14,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220510",
+            "fullstartdate": "202205102200",
+            "enddate": "20220511",
+            "url": "/th?id=OHR.GiffordPinchot_DE-DE3574487425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiffordPinchot_DE-DE3574487425",
+            "copyright": "Panther Creek Falls im Gifford Pinchot National Forest, Bundesstaat Washington, USA (© Stephen Matera/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Gifford+Pinchot+National+Forest+Waldgebiet&form=hpcapt&filters=HpDate%3a%2220220510_2200%22",
+            "title": "Ein Wald mit 6.000-jähriger Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220510_GiffordPinchot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f0604b2a611b8b0d1fbdd08dabb9f9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220509",
             "fullstartdate": "202205092200",
