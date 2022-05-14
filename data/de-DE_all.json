@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-05-13 02:56:05",
-    "Total": 16,
+    "LastUpdate": "2022-05-14 02:59:29",
+    "Total": 17,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220513",
+            "fullstartdate": "202205132200",
+            "enddate": "20220514",
+            "url": "/th?id=OHR.WindmillDay_DE-DE4138742437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WindmillDay_DE-DE4138742437",
+            "copyright": "Windmühlen, Kinderdijk, Niederlande (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kinderdijk&form=hpcapt&filters=HpDate%3a%2220220513_2200%22",
+            "title": "Zuverlässige Windpumpen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220513_WindmillDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6e4acd194a1f3984f43cbb88c550a04",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220512",
             "fullstartdate": "202205122200",
