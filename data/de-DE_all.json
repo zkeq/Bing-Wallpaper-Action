@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-05-15 02:33:38",
-    "Total": 18,
+    "LastUpdate": "2022-05-16 02:17:33",
+    "Total": 19,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220515",
+            "fullstartdate": "202205152200",
+            "enddate": "20220516",
+            "url": "/th?id=OHR.DuesseldorfOberkassel_DE-DE4515756656_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuesseldorfOberkassel_DE-DE4515756656",
+            "copyright": "Luftbild des Düsseldorfer Stadtteils Oberkassel mit Rheinkniebrücke und Oberkasseler Brücke, Nordrhein-Westfalen (© Hans Blossey/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Oberkassel+D%C3%BCsseldorf&form=hpcapt&filters=HpDate%3a%2220220515_2200%22",
+            "title": "Stadtteil am Rheinknie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220515_DuesseldorfOberkassel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d06b93e6809de87291ae43671eccdc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220514",
             "fullstartdate": "202205142200",
