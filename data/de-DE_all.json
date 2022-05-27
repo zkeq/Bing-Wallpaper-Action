@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-05-26 02:39:43",
-    "Total": 29,
+    "LastUpdate": "2022-05-27 02:35:27",
+    "Total": 30,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220526",
+            "fullstartdate": "202205262200",
+            "enddate": "20220527",
+            "url": "/th?id=OHR.MarinHeadlands_DE-DE2403924056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarinHeadlands_DE-DE2403924056",
+            "copyright": "Golden Gate Bridge und Küstenlandschaft Marin Headlands, San Francisco, Kalifornien, USA (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Gate+Bridge&form=hpcapt&filters=HpDate%3a%2220220526_2200%22",
+            "title": "San Franciscos Wahrzeichen wird 85",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220526_MarinHeadlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a1d5b7d9cde541e8c5e7839d1744945b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220525",
             "fullstartdate": "202205252200",
