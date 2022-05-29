@@ -36,7 +36,7 @@ jobs:
       - name: "GIT CONFIG SETUP"
         run: |
           git config --local user.email "admin@icodeq.com"
-          git config --local user.name "Icodeq"
+          git config --local user.name "Zkeq"
           git config --global commit.gpgsign true
 
       - name: 'CRAWLER zh-CN BING DATABASE'
