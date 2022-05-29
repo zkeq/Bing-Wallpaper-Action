@@ -27,10 +27,17 @@ jobs:
         run: |
           pip install -r ./requirements.txt
 
+      - name: Import GPG Key
+        uses: crazy-max/ghaction-import-gpg@v1
+        env:
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+          PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+
       - name: "GIT CONFIG SETUP"
         run: |
           git config --local user.email "admin@icodeq.com"
-          git config --local user.name "zkeq"
+          git config --local user.name "Zkeq"
+          git config --global commit.gpgsign true
 
       - name: 'CRAWLER zh-CN BING DATABASE'
         env:
