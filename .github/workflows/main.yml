@@ -33,11 +33,10 @@ jobs:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
 
-      # - name: "GIT CONFIG SETUP"
-      #   run: |
-      #     git config --local user.email "admin@icodeq.com"
-      #     git config --local user.name "Zkeq"
-      #     git config --global commit.gpgsign true
+      - name: "GIT CONFIG SETUP"
+        run: |
+          git config --global user.signingkey 8AA837492A2A4853D73A6B4FE51708AB7BACA4A9
+          git config --global commit.gpgsign true
 
       - name: 'CRAWLER zh-CN BING DATABASE'
         env:
