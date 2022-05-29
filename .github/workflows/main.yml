@@ -35,6 +35,8 @@ jobs:
 
       - name: "GIT CONFIG SETUP"
         run: |
+          git config --local user.email "admin@icodeq.com"
+          git config --local user.name "Zkeq"
           git config --global user.signingkey 8AA837492A2A4853D73A6B4FE51708AB7BACA4A9
           git config --global commit.gpgsign true
 
