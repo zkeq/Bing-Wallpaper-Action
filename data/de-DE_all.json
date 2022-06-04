@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-03 02:26:42",
-    "Total": 37,
+    "LastUpdate": "2022-06-04 02:21:03",
+    "Total": 38,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220603",
+            "fullstartdate": "202206032200",
+            "enddate": "20220604",
+            "url": "/th?id=OHR.BannerPeak_DE-DE9454389675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BannerPeak_DE-DE9454389675",
+            "copyright": "Blick auf den Banner Peak vom Thousand Islands Pass, Ansel Adams Wilderness, Kalifornien, USA (© Michael DeYoung Photography/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Ansel+Adams+Wilderness&form=hpcapt&filters=HpDate%3a%2220220603_2200%22",
+            "title": "Wunderschöne Wanderwege",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220603_BannerPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2202e90035ba298e7566f30e483fdec2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220602",
             "fullstartdate": "202206022200",
