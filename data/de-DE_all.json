@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-11 02:31:27",
-    "Total": 45,
+    "LastUpdate": "2022-06-12 02:41:05",
+    "Total": 46,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220611",
+            "fullstartdate": "202206112200",
+            "enddate": "20220612",
+            "url": "/th?id=OHR.KampLintfortGarten_DE-DE0909224487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KampLintfortGarten_DE-DE0909224487",
+            "copyright": "Luftaufnahme von Kleingärten, Kamp-Lintfort, Nordrhein-Westfalen, (© Hans Blossey/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220220611_2200%22",
+            "title": "In luftiger Höhe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220611_KampLintfortGarten%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cb914e3d6150b938996c3f3cc676683",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220610",
             "fullstartdate": "202206102200",
