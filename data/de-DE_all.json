@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-13 02:40:20",
-    "Total": 47,
+    "LastUpdate": "2022-06-14 02:52:33",
+    "Total": 48,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220613",
+            "fullstartdate": "202206132200",
+            "enddate": "20220614",
+            "url": "/th?id=OHR.MuseumMile_DE-DE1271432019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuseumMile_DE-DE1271432019",
+            "copyright": "Das Metropolitan Museum of Art in New York City, USA (© Susanne Pommer/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Metropolitan+Museum+of+Art&form=hpcapt&filters=HpDate%3a%2220220613_2200%22",
+            "title": "Der Spitzname lautet „The Met“",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220613_MuseumMile%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a42679c0ab69e72040db4002027cd8b8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220612",
             "fullstartdate": "202206122200",
