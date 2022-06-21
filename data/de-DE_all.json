@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-20 02:32:20",
-    "Total": 54,
+    "LastUpdate": "2022-06-21 02:37:35",
+    "Total": 55,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220620",
+            "fullstartdate": "202206202200",
+            "enddate": "20220621",
+            "url": "/th?id=OHR.GlastonburySolstice_DE-DE8254627770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlastonburySolstice_DE-DE8254627770",
+            "copyright": "Blick vom Walton Hill auf den Glastonbury Tor, Somerset, England, Vereinigtes Königreich (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Sommersonnenwende&form=hpcapt&filters=HpDate%3a%2220220620_2200%22",
+            "title": "Heute beginnt der Sommer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220620_GlastonburySolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "784136bccb314e3e7a5a9fdc3169ba2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220619",
             "fullstartdate": "202206192200",
