@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-24 02:41:07",
-    "Total": 58,
+    "LastUpdate": "2022-06-25 02:49:05",
+    "Total": 59,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220624",
+            "fullstartdate": "202206242200",
+            "enddate": "20220625",
+            "url": "/th?id=OHR.MuenchenWelt_DE-DE9487283103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuenchenWelt_DE-DE9487283103",
+            "copyright": "BMW-Welt, München, Bayern (© Stefan Huwiler/agefotostock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+der+Architektur&form=hpcapt&filters=HpDate%3a%2220220624_2200%22",
+            "title": "Futuristische Architektur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220624_MuenchenWelt%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "699a5c0613e499a238a405c3c50f5d32",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220623",
             "fullstartdate": "202206232200",
