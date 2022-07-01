@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-06-30 02:53:32",
-    "Total": 64,
+    "LastUpdate": "2022-07-01 03:03:27",
+    "Total": 65,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220630",
+            "fullstartdate": "202206302200",
+            "enddate": "20220701",
+            "url": "/th?id=OHR.WeatherGirls_FR-FR3672739777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WeatherGirls_FR-FR3672739777",
+            "copyright": "La sculpture ‘Vejrpigerne’ (“Les filles météo”) dominant la place de la mairie à Copenhague, Danemark (© Stig Alenas/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220220630_2200%22",
+            "title": "Les filles météo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220630_WeatherGirls%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "cf3db09160b114e8fffc536824bf9190",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220629",
             "fullstartdate": "202206292200",
