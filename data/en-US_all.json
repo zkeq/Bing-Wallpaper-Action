@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-07-01 03:03:02",
-    "Total": 65,
+    "LastUpdate": "2022-07-02 02:51:48",
+    "Total": 66,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220701",
+            "fullstartdate": "202207010700",
+            "enddate": "20220702",
+            "url": "/th?id=OHR.WeatherGirls_EN-US6924387788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WeatherGirls_EN-US6924387788",
+            "copyright": "'Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220220701_0700%22",
+            "title": "Perfect day for a ride",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220701_WeatherGirls%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "aff525074b0c4d4de16e752ae7e67b9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220630",
             "fullstartdate": "202206300700",
