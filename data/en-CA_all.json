@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-07-01 03:03:15",
-    "Total": 64,
+    "LastUpdate": "2022-07-02 02:52:01",
+    "Total": 65,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220701",
+            "fullstartdate": "202207010400",
+            "enddate": "20220702",
+            "url": "/th?id=OHR.OttawaRiver_EN-CA6009390564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OttawaRiver_EN-CA6009390564",
+            "copyright": "The Parliament buildings across the Ottawa River in Ottawa (© AWL Images/Danita Delimont)",
+            "copyrightlink": "https://www.bing.com/search?q=canada+day&form=hpcapt&filters=HpDate%3a%2220220701_0400%22",
+            "title": "Happy Canada Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220701_OttawaRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b256fd40c9427465f5923f5802de05e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220630",
             "fullstartdate": "202206300400",
