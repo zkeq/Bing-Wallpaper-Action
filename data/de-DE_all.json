@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-07-19 03:04:37",
-    "Total": 83,
+    "LastUpdate": "2022-07-20 02:52:18",
+    "Total": 84,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220719",
+            "fullstartdate": "202207192200",
+            "enddate": "20220720",
+            "url": "/th?id=OHR.MoonPhases_DE-DE5980621881_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoonPhases_DE-DE5980621881",
+            "copyright": "Ein aus mehreren Aufnahmen zusammengesetztes Foto zeigt die verschiedenen Mondphasen (© Delpixart/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mond&form=hpcapt&filters=HpDate%3a%2220220719_2200%22",
+            "title": "Ein kleiner Schritt für die Menschheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220719_MoonPhases%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63589cd7d9471178005f4227a9fa7aae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220718",
             "fullstartdate": "202207182200",
