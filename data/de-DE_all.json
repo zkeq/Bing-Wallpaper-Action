@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-08-01 03:08:52",
-    "Total": 96,
+    "LastUpdate": "2022-08-02 03:11:15",
+    "Total": 97,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220801",
+            "fullstartdate": "202208012200",
+            "enddate": "20220802",
+            "url": "/th?id=OHR.HickmanBridge_DE-DE9976205458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HickmanBridge_DE-DE9976205458",
+            "copyright": "Hickman Bridge im Capitol-Reef-Nationalpark, Utah, USA (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Capitol-Reef-Nationalpark&form=hpcapt&filters=HpDate%3a%2220220801_2200%22",
+            "title": "Nehmen Sie den am meisten begangenen Weg",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220801_HickmanBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2966ea0724a0a707f36032b9aad13d86",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220731",
             "fullstartdate": "202207312200",
