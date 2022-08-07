@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-08-06 02:35:09",
-    "Total": 100,
+    "LastUpdate": "2022-08-07 02:41:47",
+    "Total": 101,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220806",
+            "fullstartdate": "202208060400",
+            "enddate": "20220807",
+            "url": "/th?id=OHR.SFSaltFlats_EN-CA4765139719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SFSaltFlats_EN-CA4765139719",
+            "copyright": "Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=san+francisco+bay+salt+ponds&form=hpcapt&filters=HpDate%3a%2220220806_0400%22",
+            "title": "A salty situation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220806_SFSaltFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2a95d691bf5de92e8988050e3db42a2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220805",
             "fullstartdate": "202208050400",
