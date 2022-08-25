@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-08-24 03:08:47",
-    "Total": 119,
+    "LastUpdate": "2022-08-25 03:11:31",
+    "Total": 120,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220824",
+            "fullstartdate": "202208242200",
+            "enddate": "20220825",
+            "url": "/th?id=OHR.KoelnRheinDom_DE-DE6331737573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KoelnRheinDom_DE-DE6331737573",
+            "copyright": "Skyline von Köln im Sonnenuntergang, Nordrhein-Westfalen (© SnapRapid/Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%B6ln&form=hpcapt&filters=HpDate%3a%2220220824_2200%22",
+            "title": "Eine Stadt im Spielefieber",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220824_KoelnRheinDom%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "9e8d7372f928f9b5304339942984e771",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220823",
             "fullstartdate": "202208232200",
