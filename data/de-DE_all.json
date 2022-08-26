@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-08-25 03:11:31",
-    "Total": 120,
+    "LastUpdate": "2022-08-26 03:17:28",
+    "Total": 121,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220825",
+            "fullstartdate": "202208252200",
+            "enddate": "20220826",
+            "url": "/th?id=OHR.PeljesacWind_DE-DE4404788622_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeljesacWind_DE-DE4404788622",
+            "copyright": "Kitesurfer und Windsurfer in der Nähe der Halbinsel Pelješac, Kroatien (© helivideo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Peljesac+Halbinsel&form=hpcapt&filters=HpDate%3a%2220220825_2200%22",
+            "title": "Die Verbindung von Wind und Wasser",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220825_PeljesacWind%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "762ec470cecbcabfd1a91e9b697235cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220824",
             "fullstartdate": "202208242200",
