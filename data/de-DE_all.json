@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-09-01 03:09:36",
-    "Total": 127,
+    "LastUpdate": "2022-09-02 03:17:38",
+    "Total": 128,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220901",
+            "fullstartdate": "202209012200",
+            "enddate": "20220902",
+            "url": "/th?id=OHR.FernsehturmNah_DE-DE6988853815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FernsehturmNah_DE-DE6988853815",
+            "copyright": "Nahaufnahme des Berliner Fernsehturms (© Nico Gel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Berliner+Fernsehturm&form=hpcapt&filters=HpDate%3a%2220220901_2200%22",
+            "title": "Deutschlands höchstes Bauwerk",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220901_FernsehturmNah%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "de9cf81ce947664446e0f976cbe7a2f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220831",
             "fullstartdate": "202208312200",
