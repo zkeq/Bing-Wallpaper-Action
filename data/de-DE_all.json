@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-09-10 03:15:50",
-    "Total": 136,
+    "LastUpdate": "2022-09-11 03:14:46",
+    "Total": 137,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220910",
+            "fullstartdate": "202209102200",
+            "enddate": "20220911",
+            "url": "/th?id=OHR.AugustusburgBruehl_DE-DE6067708049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AugustusburgBruehl_DE-DE6067708049",
+            "copyright": "Treppenhaus im Schloss Augustusburg, Brühl, Nordrhein-Westfalen (© Florian Monheim/age fotostock)",
+            "copyrightlink": "https://www.bing.com/search?q=Augustusburg+Falkenlust+Br%C3%BChl&form=hpcapt&filters=HpDate%3a%2220220910_2200%22",
+            "title": "Schlossbesichtigung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220910_AugustusburgBruehl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "657fe34c54a46a4ad302097e37221a10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220909",
             "fullstartdate": "202209092200",
