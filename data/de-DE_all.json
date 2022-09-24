@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-09-23 03:22:58",
-    "Total": 149,
+    "LastUpdate": "2022-09-24 03:23:54",
+    "Total": 150,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20220923",
+            "fullstartdate": "202209232200",
+            "enddate": "20220924",
+            "url": "/th?id=OHR.DarkSkyAcadia_DE-DE9904110113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DarkSkyAcadia_DE-DE9904110113",
+            "copyright": "Die Milchstraße über dem Acadia-Nationalpark, Maine, USA (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Acadia-Nationalpark&form=hpcapt&filters=HpDate%3a%2220220923_2200%22",
+            "title": "Sternenklare Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20220923_DarkSkyAcadia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d9f89d60c83359b6a4245da18a5f115",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20220922",
             "fullstartdate": "202209222200",
