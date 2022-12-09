@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-12-08 00:48:43",
-    "Total": 225,
+    "LastUpdate": "2022-12-09 00:48:49",
+    "Total": 226,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20221208",
+            "fullstartdate": "202212082300",
+            "enddate": "20221209",
+            "url": "/th?id=OHR.FlorenceAerial_DE-DE6146682535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlorenceAerial_DE-DE6146682535",
+            "copyright": "Kathedrale von Florenz, Italien (© Alexander Baert/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Florentiner+Dom+Kathedrale&form=hpcapt&filters=HpDate%3a%2220221208_2300%22",
+            "title": "Geburtsstätte der Renaissance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221208_FlorenceAerial%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b59c5aeeb47db47b8c4479a9d411cd0c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20221207",
             "fullstartdate": "202212072300",
