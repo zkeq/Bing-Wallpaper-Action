@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-12-19 00:48:39",
-    "Total": 236,
+    "LastUpdate": "2022-12-20 00:48:46",
+    "Total": 237,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20221219",
+            "fullstartdate": "202212192300",
+            "enddate": "20221220",
+            "url": "/th?id=OHR.PalaceBelvedere_DE-DE3706375084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalaceBelvedere_DE-DE3706375084",
+            "copyright": "Weihnachtsmarkt am Schloss Belvedere, Wien, Österreich (© Diyana Dimitrova/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Schloss+Belvedere+Wien+Schlossanlage&form=hpcapt&filters=HpDate%3a%2220221219_2300%22",
+            "title": "Barocker Weihnachtszauber in Wien",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221219_PalaceBelvedere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "610dad42b52559ecc180431ecef515b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20221218",
             "fullstartdate": "202212182300",
