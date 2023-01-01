@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2022-12-31 00:48:28",
-    "Total": 248,
+    "LastUpdate": "2023-01-01 00:49:13",
+    "Total": 249,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20221231",
+            "fullstartdate": "202212312300",
+            "enddate": "20230101",
+            "url": "/th?id=OHR.NorwayNYD_DE-DE5087400553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayNYD_DE-DE5087400553",
+            "copyright": "Eisbär, Spitzbergen, Norwegen (© Dennis Stogsdill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Spitzbergen&form=hpcapt&filters=HpDate%3a%2220221231_2300%22",
+            "title": "Nickerchen am Nordpol",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20221231_NorwayNYD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "69ba7e17f20e2ab7ac4e8b5a3a4f0da8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20221230",
             "fullstartdate": "202212302300",
