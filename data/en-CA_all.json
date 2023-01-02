@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-01 00:49:17",
-    "Total": 248,
+    "LastUpdate": "2023-01-02 00:48:37",
+    "Total": 249,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230101",
+            "fullstartdate": "202301010500",
+            "enddate": "20230102",
+            "url": "/th?id=OHR.NorwayNYD_EN-CA2849289725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayNYD_EN-CA2849289725",
+            "copyright": "Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Svalbard+Norway&form=hpcapt&filters=HpDate%3a%2220230101_0500%22",
+            "title": "Napping near the North Pole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230101_NorwayNYD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99265c83e1570d59d346096a9460071e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20221231",
             "fullstartdate": "202212310500",
