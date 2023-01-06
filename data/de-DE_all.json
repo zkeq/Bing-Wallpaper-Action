@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-05 00:48:54",
-    "Total": 253,
+    "LastUpdate": "2023-01-06 00:48:40",
+    "Total": 254,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230105",
+            "fullstartdate": "202301052300",
+            "enddate": "20230106",
+            "url": "/th?id=OHR.HermelinSchnee_DE-DE5463277737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HermelinSchnee_DE-DE5463277737",
+            "copyright": "Hermelin im Winterfell, Oberbayern, Bayern (© Konrad Wothe/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=Hermelin+Mustela+erminea&form=hpcapt&filters=HpDate%3a%2220230105_2300%22",
+            "title": "Gut getarnt jagt es sich besser",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230105_HermelinSchnee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2e5d1aaf99312ccfb699e22c7a6848b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230104",
             "fullstartdate": "202301042300",
