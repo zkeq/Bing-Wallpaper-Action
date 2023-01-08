@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-07 00:48:53",
-    "Total": 255,
+    "LastUpdate": "2023-01-08 00:48:56",
+    "Total": 256,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230107",
+            "fullstartdate": "202301072300",
+            "enddate": "20230108",
+            "url": "/th?id=OHR.Breckenridge_DE-DE5751584348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Breckenridge_DE-DE5751584348",
+            "copyright": "Breckenridge, Colorado, USA (© Sean Pavone/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Breckenridge+Colorado+Stadt&form=hpcapt&filters=HpDate%3a%2220230107_2300%22",
+            "title": "Winter in Colorado",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230107_Breckenridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d26f90cca02b7b7bdc597af18d6b834",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230106",
             "fullstartdate": "202301062300",
