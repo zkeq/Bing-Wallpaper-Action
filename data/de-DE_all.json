@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-14 00:48:52",
-    "Total": 262,
+    "LastUpdate": "2023-01-15 00:48:46",
+    "Total": 263,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230114",
+            "fullstartdate": "202301142300",
+            "enddate": "20230115",
+            "url": "/th?id=OHR.Turku_DE-DE9090739425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Turku_DE-DE9090739425",
+            "copyright": "Aurajoki in Turku, Finnland (© Jarmo Piironen/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Aurajoki+fluss&form=hpcapt&filters=HpDate%3a%2220230114_2300%22",
+            "title": "Aurajoki in Turku",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230114_Turku%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d877ef40b04f3a8ec7510bfb33dbe274",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230113",
             "fullstartdate": "202301132300",
