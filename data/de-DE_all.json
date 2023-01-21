@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-20 00:48:36",
-    "Total": 268,
+    "LastUpdate": "2023-01-21 00:48:44",
+    "Total": 269,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230120",
+            "fullstartdate": "202301202300",
+            "enddate": "20230121",
+            "url": "/th?id=OHR.WaschbaerBirke_DE-DE2456768412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaschbaerBirke_DE-DE2456768412",
+            "copyright": "Waschbär (Procyon Lotor) zwei Babys klettern auf den Baum (© Tim Fitzharris/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=weltknuddeltag&form=hpcapt&filters=HpDate%3a%2220230120_2300%22",
+            "title": "Wenn nur eine Umarmung genügt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230120_WaschbaerBirke%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6d5afed96ffb878a3e4350f9d5af9b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230119",
             "fullstartdate": "202301192300",
