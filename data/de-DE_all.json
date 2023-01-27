@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-26 00:48:48",
-    "Total": 274,
+    "LastUpdate": "2023-01-27 00:48:38",
+    "Total": 275,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230126",
+            "fullstartdate": "202301262300",
+            "enddate": "20230127",
+            "url": "/th?id=OHR.RedMangrove_DE-DE1625406419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedMangrove_DE-DE1625406419",
+            "copyright": "Rote Mangrove im Guanahacabibes Nationalpark, Kuba (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Guanahacabibes+Nationalpark%2c+Kuba&form=hpcapt&filters=HpDate%3a%2220230126_2300%22",
+            "title": "Hoch lebe die mächtige Mangrove!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230126_RedMangrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22a744ca2d39b2a4a2bdc7dcf5369c2c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230125",
             "fullstartdate": "202301252300",
