@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-01-31 00:49:11",
-    "Total": 279,
+    "LastUpdate": "2023-02-01 00:49:22",
+    "Total": 280,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230131",
+            "fullstartdate": "202301312300",
+            "enddate": "20230201",
+            "url": "/th?id=OHR.SunriseCastle_DE-DE6987321313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunriseCastle_DE-DE6987321313",
+            "copyright": "Das Château de Pierrefonds im Departement Oise in der Picardie, Frankreich (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Pierrefonds+im+Departement+Oise+in+der+Picardie&form=hpcapt&filters=HpDate%3a%2220230131_2300%22",
+            "title": "Ein Schloss voller Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230131_SunriseCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4ffbb6bb3fd2c149354e47ed32e9686",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230130",
             "fullstartdate": "202301302300",
