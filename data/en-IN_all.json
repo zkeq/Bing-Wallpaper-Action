@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-02-01 00:49:35",
-    "Total": 280,
+    "LastUpdate": "2023-02-02 00:49:00",
+    "Total": 281,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230201",
+            "fullstartdate": "202302011830",
+            "enddate": "20230202",
+            "url": "/th?id=OHR.GroundhogThree_EN-IN0846491116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GroundhogThree_EN-IN0846491116",
+            "copyright": "Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=marmota+marmota&form=hpcapt&filters=HpDate%3a%2220230201_1830%22",
+            "title": "Spring is coming",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230201_GroundhogThree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5dfed307fa8ece5aa2abdb85766e2b45",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230131",
             "fullstartdate": "202301311830",
