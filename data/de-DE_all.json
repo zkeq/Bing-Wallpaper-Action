@@ -1,11 +1,28 @@
 {
-    "LastUpdate": "2023-02-03 00:48:53",
-    "Total": 282,
+    "LastUpdate": "2023-02-04 00:48:29",
+    "Total": 283,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "data": [
+        {
+            "startdate": "20230203",
+            "fullstartdate": "202302032300",
+            "enddate": "20230204",
+            "url": "/th?id=OHR.FeldbergSchnee_DE-DE7352246825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FeldbergSchnee_DE-DE7352246825",
+            "copyright": "Feldbergturm im Schwarzwald, Baden-Württemberg (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=feldbergturm+schwarzwald&form=hpcapt&filters=HpDate%3a%2220230203_2300%22",
+            "title": "Turm mit traumhafter Aussicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230203_FeldbergSchnee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98d82e7a08412fd8d82a50ff62c45a1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230202",
             "fullstartdate": "202302022300",
