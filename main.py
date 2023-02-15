@@ -59,7 +59,7 @@ def main(run_type):
         "success": True,
         "info": {
             "repo": "https://github.com/zkeq/Bing-Wallpaper-Action",
-            "docs": "https://bing-wallpaper.apifox.cn/docs",
+            "docs": "https://bing-wallpaper.apifox.cn",
             "format": "https://{domain}{data.urlbase}_{hd}.{ext}&{query}",
             "domainList": ["bing.com", "cn.bing.com"],
             "hdList": [
