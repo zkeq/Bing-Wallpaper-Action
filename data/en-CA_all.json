@@ -1,5 +1,5 @@
 {
-    "LastUpdate": "2023-02-15 01:48:28",
+    "LastUpdate": "2023-02-15 02:00:55",
     "Total": 293,
     "Language": "en-CA",
     "message": "ok",
@@ -7,7 +7,7 @@
     "success": true,
     "info": {
         "repo": "https://github.com/zkeq/Bing-Wallpaper-Action",
-        "docs": "https://bing-wallpaper.apifox.cn/docs",
+        "docs": "https://bing-wallpaper.apifox.cn",
         "format": "https://{domain}{data.urlbase}_{hd}.{ext}&{query}",
         "domainList": [
             "bing.com",
