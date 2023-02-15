@@ -1,10 +1,44 @@
 {
-    "LastUpdate": "2023-02-15 00:49:07",
+    "LastUpdate": "2023-02-15 01:48:43",
     "Total": 294,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
+    "info": {
+        "repo": "https://github.com/zkeq/Bing-Wallpaper-Action",
+        "docs": "https://bing-wallpaper.apifox.cn/docs",
+        "format": "https://{domain}{data.urlbase}_{hd}.{ext}&{query}",
+        "domainList": [
+            "bing.com",
+            "cn.bing.com"
+        ],
+        "hdList": [
+            "UHD",
+            "1920x1200",
+            "1920x1080",
+            "1366x768",
+            "1280x768",
+            "1024x768",
+            "800x600",
+            "800x480",
+            "768x1280",
+            "720x1280",
+            "640x480",
+            "480x800",
+            "400x240",
+            "320x240",
+            "240x320"
+        ],
+        "ext": "jpg",
+        "query": {
+            "w": "width",
+            "h": "height"
+        },
+        "example": "https://cn.bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_1920x1080.jpg&w=384&h=216",
+        "UHD_example": "https://www.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg",
+        "ad": "https://cdn.onmicrosoft.cn"
+    },
     "data": [
         {
             "startdate": "20230214",
