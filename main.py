@@ -57,7 +57,7 @@ def main(run_type):
         "message": "ok",
         "status": True,
         "success": True,
-        "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json".
+        "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
         "data": write_list
     }
 
