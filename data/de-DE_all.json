@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-16 12:25:31",
-    "Total": 295,
+    "LastUpdate": "2023-02-17 00:48:45",
+    "Total": 296,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230216",
+            "fullstartdate": "202302162300",
+            "enddate": "20230217",
+            "url": "/th?id=OHR.BirdcountAllen_DE-DE9670864483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BirdcountAllen_DE-DE9670864483",
+            "copyright": "Allen-Kolibri auf roter Kängurupflanze (© GypsyPictureShow/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Allenkolibri&form=hpcapt&filters=HpDate%3a%2220230216_2300%22",
+            "title": "Der Great Backyard Bird Count kann nun beginnen!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230216_BirdcountAllen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95e477c05f3cc6371a8fbcccd5c7e15a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230215",
             "fullstartdate": "202302152300",
