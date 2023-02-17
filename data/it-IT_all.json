@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-16 12:25:50",
-    "Total": 295,
+    "LastUpdate": "2023-02-17 00:49:06",
+    "Total": 296,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230216",
+            "fullstartdate": "202302162300",
+            "enddate": "20230217",
+            "url": "/th?id=OHR.AbruzzoNationalPark_IT-IT9956945803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AbruzzoNationalPark_IT-IT9956945803",
+            "copyright": "Parco Nazionale del Gran Sasso, chiesa Madonna della Pietà, L'Aquila (© Maurizio Rellini/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=parco+nazionale+del+gran+sasso+e+monti+laga&form=hpcapt",
+            "title": "La chiesa sul Gran Sasso",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230216_AbruzzoNationalPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a5e8ae1d3902c47ae06f19b3b34a4d97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230215",
             "fullstartdate": "202302152300",
