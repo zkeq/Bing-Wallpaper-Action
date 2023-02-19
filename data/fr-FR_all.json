@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-18 00:49:01",
-    "Total": 297,
+    "LastUpdate": "2023-02-19 00:49:55",
+    "Total": 298,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230218",
+            "fullstartdate": "202302182300",
+            "enddate": "20230219",
+            "url": "/th?id=OHR.MauiWhale_FR-FR0915020107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiWhale_FR-FR0915020107",
+            "copyright": "Baleines à bosse, Maui, Hawaii, USA (© Flip Nicklin/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=+baleine+%C3%A0+bosse&form=hpcapt&filters=HpDate%3a%2220230218_2300%22",
+            "title": "La reine des océans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230218_MauiWhale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1a3f547825fd578ab5bc21ef46be3c98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230217",
             "fullstartdate": "202302172300",
