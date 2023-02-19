@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-18 00:48:43",
-    "Total": 297,
+    "LastUpdate": "2023-02-19 00:49:38",
+    "Total": 298,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230218",
+            "fullstartdate": "202302182300",
+            "enddate": "20230219",
+            "url": "/th?id=OHR.MauiWhale_DE-DE2654887932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiWhale_DE-DE2654887932",
+            "copyright": "Buckelwale, Maui, Hawaii, USA (© Flip Nicklin/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=buckelwal&form=hpcapt&filters=HpDate%3a%2220230218_2300%22",
+            "title": "König der Ozeane",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230218_MauiWhale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "432a033c617ed727664c6977ffb87488",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230217",
             "fullstartdate": "202302172300",
