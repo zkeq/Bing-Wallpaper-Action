@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-18 00:48:29",
-    "Total": 297,
+    "LastUpdate": "2023-02-19 00:49:24",
+    "Total": 298,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230218",
+            "fullstartdate": "202302181600",
+            "enddate": "20230219",
+            "url": "/th?id=OHR.MauiWhale_ZH-CN6664793962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiWhale_ZH-CN6664793962",
+            "copyright": "毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "海洋之王",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230218_MauiWhale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1034acb028ad9adf7e3444015dfffa74",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230217",
             "fullstartdate": "202302171600",
