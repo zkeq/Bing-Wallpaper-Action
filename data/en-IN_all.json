@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-19 00:49:51",
-    "Total": 298,
+    "LastUpdate": "2023-02-20 00:49:12",
+    "Total": 299,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230219",
+            "fullstartdate": "202302191830",
+            "enddate": "20230220",
+            "url": "/th?id=OHR.WinterberryBush_EN-IN5907653699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterberryBush_EN-IN5907653699",
+            "copyright": "A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)",
+            "copyrightlink": "https://www.bing.com/search?q=Northern+cardinal&form=hpcapt&filters=HpDate%3a%2220230219_1830%22",
+            "title": "A splash of colour",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230219_WinterberryBush%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "da4d26c7176cd3c660aae022d8f4fb7a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230218",
             "fullstartdate": "202302181830",
