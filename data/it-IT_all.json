@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-19 00:50:00",
-    "Total": 298,
+    "LastUpdate": "2023-02-20 00:49:21",
+    "Total": 299,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230219",
+            "fullstartdate": "202302192300",
+            "enddate": "20230220",
+            "url": "/th?id=OHR.Itaimbezinho_IT-IT1948336726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Itaimbezinho_IT-IT1948336726",
+            "copyright": "Canyon di Itaimbezinho, Brasile (© NidoHuebl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=canyon+itaimbezinho+brasile&form=hpcapt",
+            "title": "Passeggiata in mezzo alla natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230219_Itaimbezinho%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81efa596b73196fd19ec9835941e6b6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230218",
             "fullstartdate": "202302182300",
