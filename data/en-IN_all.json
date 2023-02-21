@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-20 00:49:12",
-    "Total": 299,
+    "LastUpdate": "2023-02-21 00:49:06",
+    "Total": 300,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230220",
+            "fullstartdate": "202302201830",
+            "enddate": "20230221",
+            "url": "/th?id=OHR.MardiGrasNOLA_EN-IN2690617612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MardiGrasNOLA_EN-IN2690617612",
+            "copyright": "French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=French+Quarter+New+Orleans&form=hpcapt&filters=HpDate%3a%2220230220_1830%22",
+            "title": "Bring out the king cakes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230220_MardiGrasNOLA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4b924d98d2916b3cd1d492cc5928509",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230219",
             "fullstartdate": "202302191830",
