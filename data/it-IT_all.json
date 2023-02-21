@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-20 00:49:21",
-    "Total": 299,
+    "LastUpdate": "2023-02-21 00:49:15",
+    "Total": 300,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230220",
+            "fullstartdate": "202302202300",
+            "enddate": "20230221",
+            "url": "/th?id=OHR.MardiGrasNOLA_IT-IT1573841276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MardiGrasNOLA_IT-IT1573841276",
+            "copyright": "Quartiere francese, New Orleans, Louisiana, USA (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Quartiere+francese+di+New+Orleans&form=hpcapt",
+            "title": "Portate i dolci al re",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230220_MardiGrasNOLA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4ef6f8b0967f023418856c035fff1c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230219",
             "fullstartdate": "202302192300",
