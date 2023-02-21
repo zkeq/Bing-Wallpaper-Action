@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-20 00:48:44",
-    "Total": 299,
+    "LastUpdate": "2023-02-21 00:48:39",
+    "Total": 300,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230220",
+            "fullstartdate": "202302201600",
+            "enddate": "20230221",
+            "url": "/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934",
+            "copyright": "新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E5%A5%A5%E5%B0%94%E8%89%AF%E6%B3%95%E8%AF%AD%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "带上国王饼",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230220_MardiGrasNOLA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17dbd561d07f21ae26b36775b6495707",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230219",
             "fullstartdate": "202302191600",
