@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-21 00:49:06",
-    "Total": 300,
+    "LastUpdate": "2023-02-22 00:48:50",
+    "Total": 301,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230221",
+            "fullstartdate": "202302211830",
+            "enddate": "20230222",
+            "url": "/th?id=OHR.GlassOctopus_EN-IN5956583508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlassOctopus_EN-IN5956583508",
+            "copyright": "Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=world+octopus+day&form=hpcapt&filters=HpDate%3a%2220230221_1830%22",
+            "title": "See-through cephalopod",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230221_GlassOctopus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f51d576e00d82ba3698d0cf34961322",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230220",
             "fullstartdate": "202302201830",
