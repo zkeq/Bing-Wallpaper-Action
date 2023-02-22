@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-21 00:48:53",
-    "Total": 300,
+    "LastUpdate": "2023-02-22 00:48:37",
+    "Total": 301,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230221",
+            "fullstartdate": "202302212300",
+            "enddate": "20230222",
+            "url": "/th?id=OHR.FriedensglockeFichtelberg_DE-DE0791222522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FriedensglockeFichtelberg_DE-DE0791222522",
+            "copyright": "Friedensglocke auf dem Gipfel des Fichtelbergs, Sachsen (© Jan Drahokoupil/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=fichtelberg+friedensglocke&form=hpcapt&filters=HpDate%3a%2220230221_2300%22",
+            "title": "Eine Glocke für den Frieden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230221_FriedensglockeFichtelberg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4137052f98e72ec57c363a10c1313376",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230220",
             "fullstartdate": "202302202300",
