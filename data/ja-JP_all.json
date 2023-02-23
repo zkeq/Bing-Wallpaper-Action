@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-22 00:48:33",
-    "Total": 301,
+    "LastUpdate": "2023-02-23 00:48:22",
+    "Total": 302,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230222",
+            "fullstartdate": "202302221500",
+            "enddate": "20230223",
+            "url": "/th?id=OHR.MtFuji2023_JA-JP4634811404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtFuji2023_JA-JP4634811404",
+            "copyright": "水面に映る紅富士, 山梨 (© Nyoman Sundra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B0%B4%E9%9D%A2%E3%81%AB%E6%98%A0%E3%82%8B%E7%B4%85%E5%AF%8C%E5%A3%AB&form=hpcapt&filters=HpDate%3a%2220230222_1500%22",
+            "title": "今日は富士山の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230222_MtFuji2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb93dce3f9eab9b5a88f51df89483321",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230221",
             "fullstartdate": "202302211500",
