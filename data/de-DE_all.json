@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-22 00:48:37",
-    "Total": 301,
+    "LastUpdate": "2023-02-23 00:48:26",
+    "Total": 302,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230222",
+            "fullstartdate": "202302222300",
+            "enddate": "20230223",
+            "url": "/th?id=OHR.ParisWinter_DE-DE2319621841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisWinter_DE-DE2319621841",
+            "copyright": "Paris, Frankreich (© somchaij/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220230222_2300%22",
+            "title": "Ist diese Aussicht nicht faszinierend?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230222_ParisWinter%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "174465f8ae5673e6a5b8e193a7ff33ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230221",
             "fullstartdate": "202302212300",
