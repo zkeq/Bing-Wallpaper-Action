@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-22 00:48:55",
-    "Total": 301,
+    "LastUpdate": "2023-02-23 00:48:44",
+    "Total": 302,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230222",
+            "fullstartdate": "202302222300",
+            "enddate": "20230223",
+            "url": "/th?id=OHR.ParisWinter_FR-FR1302095709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisWinter_FR-FR1302095709",
+            "copyright": "Paris, France (© somchaij/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=paris&form=hpcapt&filters=HpDate%3a%2220230222_2300%22",
+            "title": "Paris ville lumière",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230222_ParisWinter%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "3fb777042ba6698fea6ee786e7cb2404",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230221",
             "fullstartdate": "202302212300",
