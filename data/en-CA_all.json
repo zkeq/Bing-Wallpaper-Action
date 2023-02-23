@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-22 00:48:42",
-    "Total": 300,
+    "LastUpdate": "2023-02-23 00:48:31",
+    "Total": 301,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230222",
+            "fullstartdate": "202302220500",
+            "enddate": "20230223",
+            "url": "/th?id=OHR.FosterCoveredBridge_EN-CA4173074432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FosterCoveredBridge_EN-CA4173074432",
+            "copyright": "Foster Covered Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=AM+Foster+Covered+Bridge&form=hpcapt&filters=HpDate%3a%2220230222_0500%22",
+            "title": "A modern recreation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230222_FosterCoveredBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8c78034c2f9f32026f12b77431b5b74",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230221",
             "fullstartdate": "202302210500",
