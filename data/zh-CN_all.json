@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-23 00:48:12",
-    "Total": 302,
+    "LastUpdate": "2023-02-24 00:48:22",
+    "Total": 303,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230223",
+            "fullstartdate": "202302231600",
+            "enddate": "20230224",
+            "url": "/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RichmondParkDuck_ZH-CN4956127005",
+            "copyright": "里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%B8%B3%E9%B8%AF&form=hpcapt&mkt=zh-cn",
+            "title": "一只华丽招摇的鸳鸯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230223_RichmondParkDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cfaedf871edb8df8a8af4e7fb6facd3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230222",
             "fullstartdate": "202302221600",
