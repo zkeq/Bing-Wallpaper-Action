@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-23 00:48:48",
-    "Total": 302,
+    "LastUpdate": "2023-02-24 00:48:58",
+    "Total": 303,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230223",
+            "fullstartdate": "202302232300",
+            "enddate": "20230224",
+            "url": "/th?id=OHR.RichmondParkDuck_IT-IT1853497820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RichmondParkDuck_IT-IT1853497820",
+            "copyright": "Anatra mandarina, Richmond Park, Londra, Regno Unito (© Oscar Dewhurst/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=anatra+mandarina&form=hpcapt",
+            "title": "Un infreddolito uccello acquatico",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230223_RichmondParkDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88d648745e01ec75e3790f4ff21299b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230222",
             "fullstartdate": "202302222300",
