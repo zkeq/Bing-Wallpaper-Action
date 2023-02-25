@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-24 00:48:41",
-    "Total": 302,
+    "LastUpdate": "2023-02-25 00:48:36",
+    "Total": 303,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230224",
+            "fullstartdate": "202302240500",
+            "enddate": "20230225",
+            "url": "/th?id=OHR.RichmondParkDuck_EN-CA4912515800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RichmondParkDuck_EN-CA4912515800",
+            "copyright": "Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=mandarin+duck&form=hpcapt&filters=HpDate%3a%2220230224_0500%22",
+            "title": "A flashy, frigid waterfowl",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230224_RichmondParkDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d293860dbdec2075e5d2c3e3c6b2a00",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230223",
             "fullstartdate": "202302230500",
