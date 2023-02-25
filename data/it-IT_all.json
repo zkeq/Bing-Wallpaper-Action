@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-24 00:48:58",
-    "Total": 303,
+    "LastUpdate": "2023-02-25 00:48:53",
+    "Total": 304,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230224",
+            "fullstartdate": "202302242300",
+            "enddate": "20230225",
+            "url": "/th?id=OHR.TempleE_IT-IT9523677064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TempleE_IT-IT9523677064",
+            "copyright": "Tempio E di Selinunte, Parco archeologico, Trapani (© Antonino Bartuccio/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=tempio+E+di+selinunte&form=hpcapt",
+            "title": "Chi lo avrà costruito?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230224_TempleE%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d007f06b6f263853babee84bd1f2f1dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230223",
             "fullstartdate": "202302232300",
