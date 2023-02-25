@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-24 00:48:32",
-    "Total": 303,
+    "LastUpdate": "2023-02-25 00:48:27",
+    "Total": 304,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230224",
+            "fullstartdate": "202302241500",
+            "enddate": "20230225",
+            "url": "/th?id=OHR.BryceAnniv_JA-JP4970037032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceAnniv_JA-JP4970037032",
+            "copyright": "ブライスキャニオン国立公園, 米国 ユタ州 (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230224_1500%22",
+            "title": "雪に覆われた尖塔群",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230224_BryceAnniv%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "03094d2279673c56de1c47cee8f6dbbe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230223",
             "fullstartdate": "202302231500",
