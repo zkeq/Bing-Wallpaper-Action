@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-25 00:48:23",
-    "Total": 304,
+    "LastUpdate": "2023-02-26 00:48:44",
+    "Total": 305,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230225",
+            "fullstartdate": "202302250800",
+            "enddate": "20230226",
+            "url": "/th?id=OHR.BryceAnniv_EN-US9498074213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceAnniv_EN-US9498074213",
+            "copyright": "Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bryce+canyon+national+park&form=hpcapt&filters=HpDate%3a%2220230225_0800%22",
+            "title": "A huddle of hoodoos",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230225_BryceAnniv%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "586af720405a5affeba52802cea77a6c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230224",
             "fullstartdate": "202302240800",
