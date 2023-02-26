@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-25 00:48:40",
-    "Total": 304,
+    "LastUpdate": "2023-02-26 00:49:01",
+    "Total": 305,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230226",
+            "fullstartdate": "202302260000",
+            "enddate": "20230227",
+            "url": "/th?id=OHR.CanopyPeru_EN-GB1970787018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanopyPeru_EN-GB1970787018",
+            "copyright": "Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=tambopata+national+reserve&form=hpcapt&filters=HpDate%3a%2220230226_0000%22",
+            "title": "Sway with the Amazonian canopy",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230226_CanopyPeru%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8aa5f76f96d5a2f8a3d0655db4c8d91",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230225",
             "fullstartdate": "202302250000",
