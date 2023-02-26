@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-25 00:48:36",
-    "Total": 303,
+    "LastUpdate": "2023-02-26 00:48:57",
+    "Total": 304,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230225",
+            "fullstartdate": "202302250500",
+            "enddate": "20230226",
+            "url": "/th?id=OHR.BryceAnniv_EN-CA5218484569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceAnniv_EN-CA5218484569",
+            "copyright": "Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bryce+canyon+national+park&form=hpcapt&filters=HpDate%3a%2220230225_0500%22",
+            "title": "Bryce Canyon hoodoos in winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230225_BryceAnniv%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa433b2aab362d08796910c2fc4503ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230224",
             "fullstartdate": "202302240500",
