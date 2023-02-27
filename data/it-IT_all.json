@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-26 00:49:14",
-    "Total": 305,
+    "LastUpdate": "2023-02-27 00:49:09",
+    "Total": 306,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230226",
+            "fullstartdate": "202302262300",
+            "enddate": "20230227",
+            "url": "/th?id=OHR.PolarBearFrost_IT-IT2519594160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearFrost_IT-IT2519594160",
+            "copyright": "Orsi polari addormentati in Canada (© David Pike/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=orso+polare&form=hpcapt",
+            "title": "Un caldo abbraccio nel gelido nord",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230226_PolarBearFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b45f05a56f708a48abdd585ca5c5a3bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230225",
             "fullstartdate": "202302252300",
