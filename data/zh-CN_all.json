@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-26 00:48:39",
-    "Total": 305,
+    "LastUpdate": "2023-02-27 00:48:34",
+    "Total": 306,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230226",
+            "fullstartdate": "202302261600",
+            "enddate": "20230227",
+            "url": "/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearFrost_ZH-CN5918160947",
+            "copyright": "北极熊在加拿大沉睡 (© David Pike/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "冰冷的北极，温暖的拥抱",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230226_PolarBearFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6680087fa2e6f794453de5daab0425f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230225",
             "fullstartdate": "202302251600",
