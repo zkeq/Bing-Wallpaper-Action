@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-26 00:48:53",
-    "Total": 305,
+    "LastUpdate": "2023-02-27 00:48:48",
+    "Total": 306,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230226",
+            "fullstartdate": "202302262300",
+            "enddate": "20230227",
+            "url": "/th?id=OHR.PolarBearFrost_DE-DE6073981048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearFrost_DE-DE6073981048",
+            "copyright": "Schlafende Eisbären in Kanada (© David Pike/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eisb%C3%A4r&form=hpcapt&filters=HpDate%3a%2220230226_2300%22",
+            "title": "Herzliche Umarmungen im eiskalten Norden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230226_PolarBearFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43e026cb087264fcaa6a8ea07fe34a9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230225",
             "fullstartdate": "202302252300",
