@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-27 00:48:48",
-    "Total": 306,
+    "LastUpdate": "2023-02-28 00:48:44",
+    "Total": 307,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230227",
+            "fullstartdate": "202302272300",
+            "enddate": "20230228",
+            "url": "/th?id=OHR.AtraniAmalfi_DE-DE5478327830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtraniAmalfi_DE-DE5478327830",
+            "copyright": "Atrani, Amalfiküste, Italien (© Amazing Aerial/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Atrani+Amalfik%C3%BCste&form=hpcapt&filters=HpDate%3a%2220230227_2300%22",
+            "title": "Postkarten aus Italien",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230227_AtraniAmalfi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04c1fa51ae3f32911bd69ead0514f551",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230226",
             "fullstartdate": "202302262300",
