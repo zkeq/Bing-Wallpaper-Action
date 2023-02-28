@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-27 00:49:05",
-    "Total": 306,
+    "LastUpdate": "2023-02-28 00:49:01",
+    "Total": 307,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230227",
+            "fullstartdate": "202302272300",
+            "enddate": "20230228",
+            "url": "/th?id=OHR.AtraniAmalfi_FR-FR5793259433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtraniAmalfi_FR-FR5793259433",
+            "copyright": "Atrani, Côte Amalfitaine, Italie (© Amazing Aerial/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Cote+Amalfitaine&form=hpcapt&filters=HpDate%3a%2220230227_2300%22",
+            "title": "Carte postale italienne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230227_AtraniAmalfi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34b0800c17391fc49e13f035c73ff7d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230226",
             "fullstartdate": "202302262300",
