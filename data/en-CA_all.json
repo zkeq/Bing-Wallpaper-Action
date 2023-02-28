@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-27 00:48:52",
-    "Total": 305,
+    "LastUpdate": "2023-02-28 00:48:49",
+    "Total": 306,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230227",
+            "fullstartdate": "202302270500",
+            "enddate": "20230228",
+            "url": "/th?id=OHR.PolarBearFrost_EN-CA5779985371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearFrost_EN-CA5779985371",
+            "copyright": "Polar bears asleep in Canada (© David Pike/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220230227_0500%22",
+            "title": "A warm hug in the icy north",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230227_PolarBearFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90b2b076efdbc6d89a4a48db47ee9955",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230226",
             "fullstartdate": "202302260500",
