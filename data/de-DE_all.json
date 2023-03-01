@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-28 00:48:44",
-    "Total": 307,
+    "LastUpdate": "2023-03-01 00:49:19",
+    "Total": 308,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230228",
+            "fullstartdate": "202302282300",
+            "enddate": "20230301",
+            "url": "/th?id=OHR.LuebeckCityGate_DE-DE8410564862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LuebeckCityGate_DE-DE8410564862",
+            "copyright": "Holstentor in Lübeck (© Harald Nachtmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Holstentor&form=hpcapt&filters=HpDate%3a%2220230228_2300%22",
+            "title": "Das Wahrzeichen Lübecks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230228_LuebeckCityGate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2cc28814c3109bea9d6074298ef85d18",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230227",
             "fullstartdate": "202302272300",
