@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-28 00:48:36",
-    "Total": 307,
+    "LastUpdate": "2023-03-01 00:49:10",
+    "Total": 308,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230228",
+            "fullstartdate": "202302280800",
+            "enddate": "20230301",
+            "url": "/th?id=OHR.AtraniAmalfi_EN-US0095082556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtraniAmalfi_EN-US0095082556",
+            "copyright": "Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Atrani+Italy&form=hpcapt&filters=HpDate%3a%2220230228_0800%22",
+            "title": "Allure of the Amalfi Coast",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230228_AtraniAmalfi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8b6c51a79252774cb01ba27ead3acb96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230227",
             "fullstartdate": "202302270800",
