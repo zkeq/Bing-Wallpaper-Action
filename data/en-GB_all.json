@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-02-28 00:48:53",
-    "Total": 307,
+    "LastUpdate": "2023-03-01 00:49:28",
+    "Total": 308,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230301",
+            "fullstartdate": "202303010000",
+            "enddate": "20230302",
+            "url": "/th?id=OHR.ManchesterSerenity_EN-GB3487230863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManchesterSerenity_EN-GB3487230863",
+            "copyright": "Women’s suffrage centenary, Manchester, UK (© Christopher Furlong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=manchester+serenity+art&form=hpcapt&filters=HpDate%3a%2220230301_0000%22",
+            "title": "Art beyond beauty",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230301_ManchesterSerenity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f562fc327d9e06f057e2d7c454f647fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230228",
             "fullstartdate": "202302280000",
