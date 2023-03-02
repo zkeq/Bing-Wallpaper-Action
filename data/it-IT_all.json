@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-01 00:49:41",
-    "Total": 308,
+    "LastUpdate": "2023-03-02 00:49:29",
+    "Total": 309,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230301",
+            "fullstartdate": "202303012300",
+            "enddate": "20230302",
+            "url": "/th?id=OHR.NegratinSpain_IT-IT2219466753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NegratinSpain_IT-IT2219466753",
+            "copyright": "Lago di Negratín, Granada, Spagna (© Andres Martinez Olmedo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Negratin+granada&form=hpcapt",
+            "title": "La tela della natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230301_NegratinSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c357c00b8a11c4cf9a54bf86b312a8d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230228",
             "fullstartdate": "202302282300",
