@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-01 00:49:05",
-    "Total": 308,
+    "LastUpdate": "2023-03-02 00:48:53",
+    "Total": 309,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230301",
+            "fullstartdate": "202303011600",
+            "enddate": "20230302",
+            "url": "/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NegratinSpain_ZH-CN5916944876",
+            "copyright": "内格拉廷湖，格拉纳达，西班牙 (© Andres Martinez Olmedo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E6%8B%89%E7%BA%B3%E8%BE%BE&form=hpcapt&mkt=zh-cn",
+            "title": "大自然的画作",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230301_NegratinSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cf03e9216bd32a88342729efead854e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230228",
             "fullstartdate": "202302281600",
