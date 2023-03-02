@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-01 00:49:15",
-    "Total": 308,
+    "LastUpdate": "2023-03-02 00:49:03",
+    "Total": 309,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230301",
+            "fullstartdate": "202303011500",
+            "enddate": "20230302",
+            "url": "/th?id=OHR.NegratinSpain_JA-JP8343250865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NegratinSpain_JA-JP8343250865",
+            "copyright": "ネグラティン貯水池, スペイン アンダルシア州 (© Andres Martinez Olmedo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Negratin+Reservoir&form=hpcapt&filters=HpDate%3a%2220230301_1500%22",
+            "title": "砂漠にある静かな湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230301_NegratinSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e51ac149fd5b3ad3750f9cd80150265a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230228",
             "fullstartdate": "202302281500",
