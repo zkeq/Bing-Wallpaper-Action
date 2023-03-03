@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-02 00:49:08",
-    "Total": 309,
+    "LastUpdate": "2023-03-03 02:05:52",
+    "Total": 310,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230302",
+            "fullstartdate": "202303022300",
+            "enddate": "20230303",
+            "url": "/th?id=OHR.OrcaNorway_DE-DE0674543604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrcaNorway_DE-DE0674543604",
+            "copyright": "Schwertwale in Spildra, Norwegen (© Alex Mustard/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Schwertwal&form=hpcapt&filters=HpDate%3a%2220230302_2300%22",
+            "title": "Was treiben diese Raubtiere?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230302_OrcaNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b967987cdf2ffa58903bbf31174cce9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230301",
             "fullstartdate": "202303012300",
