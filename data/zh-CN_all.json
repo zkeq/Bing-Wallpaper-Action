@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-03 02:05:38",
-    "Total": 310,
+    "LastUpdate": "2023-03-04 00:48:22",
+    "Total": 311,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230303",
+            "fullstartdate": "202303031600",
+            "enddate": "20230304",
+            "url": "/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PicoVolcano_ZH-CN6865997792",
+            "copyright": "通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9A%AE%E5%BA%93%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "人迹罕至的一条路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230303_PicoVolcano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb2e11fb4d3b8aaee6f163ed1764322c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230302",
             "fullstartdate": "202303021600",
