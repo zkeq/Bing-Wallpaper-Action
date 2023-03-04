@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-03 02:05:52",
-    "Total": 310,
+    "LastUpdate": "2023-03-04 00:48:36",
+    "Total": 311,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230303",
+            "fullstartdate": "202303032300",
+            "enddate": "20230304",
+            "url": "/th?id=OHR.PicoVolcano_DE-DE1654567075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PicoVolcano_DE-DE1654567075",
+            "copyright": "Pico-Berg, Azoren, Portugal (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pico+Berg&form=hpcapt&filters=HpDate%3a%2220230303_2300%22",
+            "title": "Der Weg ist das Ziel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230303_PicoVolcano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75951a122641538670b21becb12a2f4e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230302",
             "fullstartdate": "202303022300",
