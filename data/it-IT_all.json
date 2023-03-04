@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-03 02:06:13",
-    "Total": 310,
+    "LastUpdate": "2023-03-04 00:48:57",
+    "Total": 311,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230303",
+            "fullstartdate": "202303032300",
+            "enddate": "20230304",
+            "url": "/th?id=OHR.PicoVolcano_IT-IT1449882802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PicoVolcano_IT-IT1449882802",
+            "copyright": "Strada per il Monte Pico, Portogallo (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Monte+Pico+Portogallo&form=hpcapt",
+            "title": "La strada meno battuta?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230303_PicoVolcano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "759cf5f6c38e544b900b932a6d6c7159",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230302",
             "fullstartdate": "202303022300",
