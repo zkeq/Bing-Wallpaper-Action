@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-03 02:05:47",
-    "Total": 310,
+    "LastUpdate": "2023-03-04 00:48:32",
+    "Total": 311,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230303",
+            "fullstartdate": "202303031500",
+            "enddate": "20230304",
+            "url": "/th?id=OHR.PicoVolcano_JA-JP2263214276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PicoVolcano_JA-JP2263214276",
+            "copyright": "ピコ山, ポルトガル (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%94%E3%82%B3%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220230303_1500%22",
+            "title": "火山が作った絶景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230303_PicoVolcano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7be56b3579ac9f4d682b5904c0eca341",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230302",
             "fullstartdate": "202303021500",
