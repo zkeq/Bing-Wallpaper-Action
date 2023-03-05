@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-04 00:48:22",
-    "Total": 311,
+    "LastUpdate": "2023-03-05 00:48:48",
+    "Total": 312,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230304",
+            "fullstartdate": "202303041600",
+            "enddate": "20230305",
+            "url": "/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HuggingKanga_ZH-CN1045131695",
+            "copyright": "袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A2%8B%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+            "title": "来自妈妈的拥抱和爱",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230304_HuggingKanga%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b674472888e1f283f60704c0710d43cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230303",
             "fullstartdate": "202303031600",
