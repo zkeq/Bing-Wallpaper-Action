@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-04 00:48:40",
-    "Total": 310,
+    "LastUpdate": "2023-03-05 00:49:06",
+    "Total": 311,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230304",
+            "fullstartdate": "202303040500",
+            "enddate": "20230305",
+            "url": "/th?id=OHR.PicoVolcano_EN-CA7378437603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PicoVolcano_EN-CA7378437603",
+            "copyright": "Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mount+pico&form=hpcapt&filters=HpDate%3a%2220230304_0500%22",
+            "title": "The road less taken?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230304_PicoVolcano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7648c2f57ff484df4367704631d81dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230303",
             "fullstartdate": "202303030500",
