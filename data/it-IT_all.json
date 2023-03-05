@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-04 00:48:57",
-    "Total": 311,
+    "LastUpdate": "2023-03-05 00:49:24",
+    "Total": 312,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230304",
+            "fullstartdate": "202303042300",
+            "enddate": "20230305",
+            "url": "/th?id=OHR.EpidaurusGreece_IT-IT2036947217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EpidaurusGreece_IT-IT2036947217",
+            "copyright": "Antico teatro di Epidauro, Grecia (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=teatro+antico+di+epidauro&form=hpcapt",
+            "title": "Un capolavoro dell’acustica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230304_EpidaurusGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9798cfcf62acadb3d8a1c6815b8e73c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230303",
             "fullstartdate": "202303032300",
