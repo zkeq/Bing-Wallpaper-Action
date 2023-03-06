@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-05 00:49:02",
-    "Total": 312,
+    "LastUpdate": "2023-03-06 00:48:39",
+    "Total": 313,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230305",
+            "fullstartdate": "202303052300",
+            "enddate": "20230306",
+            "url": "/th?id=OHR.IcelandHorses_DE-DE4227259344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandHorses_DE-DE4227259344",
+            "copyright": "Islandpferde, Island (© Rodrigo Lourezini/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Islandpferd&form=hpcapt&filters=HpDate%3a%2220230305_2300%22",
+            "title": "Islandpferde, einfach einzigartige Geschöpfe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230305_IcelandHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bdedfc5e541a371b3d51b5ea8a1acf44",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230304",
             "fullstartdate": "202303042300",
