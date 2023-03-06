@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-05 00:49:24",
-    "Total": 312,
+    "LastUpdate": "2023-03-06 00:49:01",
+    "Total": 313,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230305",
+            "fullstartdate": "202303052300",
+            "enddate": "20230306",
+            "url": "/th?id=OHR.IcelandHorses_IT-IT0936310690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandHorses_IT-IT0936310690",
+            "copyright": "Cavalli islandesi a passeggio in un campo, Islanda (© Rodrigo Lourezini/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=cavallo+islandese&form=hpcapt",
+            "title": "Cosa sono queste creature uniche?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230305_IcelandHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cf722da93932279d93f045353c894d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230304",
             "fullstartdate": "202303042300",
