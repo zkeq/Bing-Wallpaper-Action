@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-05 00:49:15",
-    "Total": 312,
+    "LastUpdate": "2023-03-06 00:48:52",
+    "Total": 313,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230305",
+            "fullstartdate": "202303051830",
+            "enddate": "20230306",
+            "url": "/th?id=OHR.IcelandHorses_EN-IN2749043988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandHorses_EN-IN2749043988",
+            "copyright": "Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=icelandic+horse&form=hpcapt&filters=HpDate%3a%2220230305_1830%22",
+            "title": "What are these unique creatures?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230305_IcelandHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d6596c0deb8d182348f444d695756d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230304",
             "fullstartdate": "202303041830",
