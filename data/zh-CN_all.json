@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-06 00:48:25",
-    "Total": 313,
+    "LastUpdate": "2023-03-07 00:48:54",
+    "Total": 314,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230306",
+            "fullstartdate": "202303061600",
+            "enddate": "20230307",
+            "url": "/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YuanyangChina_ZH-CN7360249295",
+            "copyright": "梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E5%85%83%E9%98%B3&form=hpcapt&mkt=zh-cn",
+            "title": "彩虹般的风景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230306_YuanyangChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "be72a7063afee4905b50eab9187c5725",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230305",
             "fullstartdate": "202303051600",
