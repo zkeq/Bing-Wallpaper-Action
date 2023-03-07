@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-06 00:48:39",
-    "Total": 313,
+    "LastUpdate": "2023-03-07 00:49:08",
+    "Total": 314,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230306",
+            "fullstartdate": "202303062300",
+            "enddate": "20230307",
+            "url": "/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455",
+            "copyright": "Parktheater im Kurhaus Göggingen, Architekt Jean Keller, Bayern (© imageBROKER/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=G%C3%B6ggingen+Kurhaus+Augsburg&form=hpcapt&filters=HpDate%3a%2220230306_2300%22",
+            "title": "Kurhaus Göggingen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230306_ParktheaterGoeggingen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5806f0529cf88ed334a2008214dc861a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230305",
             "fullstartdate": "202303052300",
