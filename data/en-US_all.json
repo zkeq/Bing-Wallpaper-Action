@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-07 00:48:59",
-    "Total": 314,
+    "LastUpdate": "2023-03-08 00:49:25",
+    "Total": 315,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230307",
+            "fullstartdate": "202303070800",
+            "enddate": "20230308",
+            "url": "/th?id=OHR.YuanyangChina_EN-US0997293657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YuanyangChina_EN-US0997293657",
+            "copyright": "Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=yuanyang+china&form=hpcapt&filters=HpDate%3a%2220230307_0800%22",
+            "title": "Shining through the centuries",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230307_YuanyangChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5a687fc73d20d8f5daa852562d20421",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230306",
             "fullstartdate": "202303060800",
