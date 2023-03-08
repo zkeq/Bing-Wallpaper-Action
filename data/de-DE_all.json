@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-07 00:49:08",
-    "Total": 314,
+    "LastUpdate": "2023-03-08 00:49:34",
+    "Total": 315,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230307",
+            "fullstartdate": "202303072300",
+            "enddate": "20230308",
+            "url": "/th?id=OHR.IntlWomensDayChange_DE-DE5354248480_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IntlWomensDayChange_DE-DE5354248480",
+            "copyright": "Der Cibeles-Brunnen ist anlässlich des Internationalen Frauentags beleuchtet, Madrid, Spanien (© dpa picture alliance/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=internationaler+frauentag&form=hpcapt&filters=HpDate%3a%2220230307_2300%22",
+            "title": "Wir feiern die Frauen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230307_IntlWomensDayChange%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e6d2942ed6e26e18e860c9250ed481ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230306",
             "fullstartdate": "202303062300",
