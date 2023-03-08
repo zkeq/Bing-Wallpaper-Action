@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-07 00:49:12",
-    "Total": 313,
+    "LastUpdate": "2023-03-08 00:49:38",
+    "Total": 314,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230307",
+            "fullstartdate": "202303070500",
+            "enddate": "20230308",
+            "url": "/th?id=OHR.ValleyForge_EN-CA8209689981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValleyForge_EN-CA8209689981",
+            "copyright": "Cabins in Valley Forge National Historic Site, Pennsylvania (© Mark C. Morris/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Valley+Forge+National+Historic+Site+Pennsylvania&form=hpcapt&filters=HpDate%3a%2220230307_0500%22",
+            "title": "Winter at Valley Forge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230307_ValleyForge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "317a2b4361232b6b90b4ae9ac335e327",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230306",
             "fullstartdate": "202303060500",
