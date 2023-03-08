@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-07 00:48:54",
-    "Total": 314,
+    "LastUpdate": "2023-03-08 00:49:20",
+    "Total": 315,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230307",
+            "fullstartdate": "202303071600",
+            "enddate": "20230308",
+            "url": "/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhitehorseAurora_ZH-CN0978404088",
+            "copyright": "极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%80%80%E7%89%B9%E9%9C%8D%E6%96%AF%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn",
+            "title": "守候浪漫的极光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230307_WhitehorseAurora%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a06c01b7a31c2972f094f0adb2924bad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230306",
             "fullstartdate": "202303061600",
