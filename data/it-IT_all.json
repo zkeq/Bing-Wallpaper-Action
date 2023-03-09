@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-08 00:49:56",
-    "Total": 315,
+    "LastUpdate": "2023-03-09 00:50:28",
+    "Total": 316,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230308",
+            "fullstartdate": "202303082300",
+            "enddate": "20230309",
+            "url": "/th?id=OHR.BasilicataMatera_IT-IT9374730410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BasilicataMatera_IT-IT9374730410",
+            "copyright": "Tramonto a Matera, Basilicata, Italia (© Riccardo Spila/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=matera+dove+si+trova&form=hpcapt",
+            "title": "Dov'è questo posto da favola?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230308_BasilicataMatera%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ba4bfddef720dff56c09ecd7a084a9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230307",
             "fullstartdate": "202303072300",
