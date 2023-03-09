@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-08 00:49:34",
-    "Total": 315,
+    "LastUpdate": "2023-03-09 00:50:05",
+    "Total": 316,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230308",
+            "fullstartdate": "202303082300",
+            "enddate": "20230309",
+            "url": "/th?id=OHR.WaimeaRainbow_DE-DE5723243026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaimeaRainbow_DE-DE5723243026",
+            "copyright": "Regenbogen über Waimea Canyon, Kauai, Hawaii, USA (© Beverley Van Praagh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Waimea+Canyon+auf+der+Insel+Kauai+Hawaii&form=hpcapt&filters=HpDate%3a%2220230308_2300%22",
+            "title": "Magischer Regenbogen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230308_WaimeaRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "add15a1fdc7ad133aab1608db44fc8e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230307",
             "fullstartdate": "202303072300",
