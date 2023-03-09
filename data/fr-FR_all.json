@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-08 00:49:51",
-    "Total": 315,
+    "LastUpdate": "2023-03-09 00:50:23",
+    "Total": 316,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230308",
+            "fullstartdate": "202303082300",
+            "enddate": "20230309",
+            "url": "/th?id=OHR.WaimeaRainbow_FR-FR0655264803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaimeaRainbow_FR-FR0655264803",
+            "copyright": "Arc-en-ciel au-dessus du Grand Canyon du Pacifique, Hawaii, Etats-Unis (© Beverley Van Praagh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Waimea+Canyon&form=hpcapt&filters=HpDate%3a%2220230308_2300%22",
+            "title": "Un arc en ciel dans la brume",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230308_WaimeaRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99b578b4fcc7acc2d8b1a61ed25d39c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230307",
             "fullstartdate": "202303072300",
