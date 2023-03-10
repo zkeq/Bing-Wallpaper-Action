@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-09 00:50:28",
-    "Total": 316,
+    "LastUpdate": "2023-03-10 00:48:58",
+    "Total": 317,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230309",
+            "fullstartdate": "202303092300",
+            "enddate": "20230310",
+            "url": "/th?id=OHR.shutterstock_1344992492_IT-IT1465751252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.shutterstock_1344992492_IT-IT1465751252",
+            "copyright": "Veduta aerea di Castel del Monte, Andria (© Fabio Dell/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=castel+del+monte&form=hpcapt",
+            "title": "La fortezza di Federico II",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230309_shutterstock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1a23996f9884159430898cac9fbb4648",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230308",
             "fullstartdate": "202303082300",
