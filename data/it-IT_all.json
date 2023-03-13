@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-12 00:50:08",
-    "Total": 319,
+    "LastUpdate": "2023-03-13 00:49:01",
+    "Total": 320,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230312",
+            "fullstartdate": "202303122300",
+            "enddate": "20230313",
+            "url": "/th?id=OHR.Cihan_Bektas_B03_03_IT-IT7231382966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Cihan_Bektas_B03_03_IT-IT7231382966",
+            "copyright": "Quartieri Spagnoli, Napoli, Italia (© Cihan Bektas/Amazing Aerial)",
+            "copyrightlink": "https://www.bing.com/search?q=Cosa+vedere+nei+Quartieri+Spagnoli+di+Napoli&form=hpcapt",
+            "title": "Il quartiere ha un che di esotico",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230312_Cihan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c9fc7ed65b1d309197f61926c1bf1a09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230311",
             "fullstartdate": "202303112300",
