@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-12 00:49:47",
-    "Total": 319,
+    "LastUpdate": "2023-03-13 00:48:40",
+    "Total": 320,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230312",
+            "fullstartdate": "202303122300",
+            "enddate": "20230313",
+            "url": "/th?id=OHR.LionessesNap_DE-DE5075026430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LionessesNap_DE-DE5075026430",
+            "copyright": "Schlafende Löwen, Serengeti-Nationalpark, Tansania (© Cavan Images/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Serengeti+Nationalpark+in+Tansania&form=hpcapt&filters=HpDate%3a%2220230312_2300%22",
+            "title": "Schlaf deine Sorgen weg",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230312_LionessesNap%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b01dae1d0f83bef27d2100cd0c7a357d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230311",
             "fullstartdate": "202303112300",
