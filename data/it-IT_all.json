@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-13 00:49:01",
-    "Total": 320,
+    "LastUpdate": "2023-03-14 00:48:56",
+    "Total": 321,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230313",
+            "fullstartdate": "202303132300",
+            "enddate": "20230314",
+            "url": "/th?id=OHR.CyprusMaze_IT-IT7940627451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CyprusMaze_IT-IT7940627451",
+            "copyright": "Parco botanico di Ayia Napa, Cipro (© Tpopova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+botanico+e+labirinto+di+Cyherbia+&form=hpcapt",
+            "title": "Un bellissimo labirinto",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230313_CyprusMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4e707ed8d64e32c10bacdefff632192",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230312",
             "fullstartdate": "202303122300",
