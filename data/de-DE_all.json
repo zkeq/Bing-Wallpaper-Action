@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-13 00:48:40",
-    "Total": 320,
+    "LastUpdate": "2023-03-14 00:48:34",
+    "Total": 321,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230313",
+            "fullstartdate": "202303132300",
+            "enddate": "20230314",
+            "url": "/th?id=OHR.CyprusMaze_DE-DE4969951002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CyprusMaze_DE-DE4969951002",
+            "copyright": "Botanischer Garten Cyherbia, Zypern (© Tpopova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Der+Botanische+Garten&form=hpcapt&filters=HpDate%3a%2220230313_2300%22",
+            "title": "Ein wunderschönes Labyrinth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230313_CyprusMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "490180258a7cd4c9056b13a7453c4ae6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230312",
             "fullstartdate": "202303122300",
