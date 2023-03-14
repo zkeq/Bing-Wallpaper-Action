@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-13 00:48:57",
-    "Total": 320,
+    "LastUpdate": "2023-03-14 00:48:52",
+    "Total": 321,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230313",
+            "fullstartdate": "202303132300",
+            "enddate": "20230314",
+            "url": "/th?id=OHR.CyprusMaze_FR-FR4848139536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CyprusMaze_FR-FR4848139536",
+            "copyright": "Parc botanique de Cyherbia, Chypre (© Tpopova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+botanique+de+Cyherbia%2c+Chypre&form=hpcapt&filters=HpDate%3a%2220230313_2300%22",
+            "title": "C’est la journée des matheux !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230313_CyprusMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6db4a149d65ab0906232727ae6e47cc2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230312",
             "fullstartdate": "202303122300",
