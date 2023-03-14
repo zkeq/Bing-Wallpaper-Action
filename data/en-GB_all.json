@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-13 00:48:49",
-    "Total": 320,
+    "LastUpdate": "2023-03-14 00:48:43",
+    "Total": 321,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230314",
+            "fullstartdate": "202303140000",
+            "enddate": "20230315",
+            "url": "/th?id=OHR.CyprusMaze_EN-GB7326379930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CyprusMaze_EN-GB7326379930",
+            "copyright": "Labyrinth in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cyherbia+botanical+park+Ayia+Napa+Cyprus&form=hpcapt&filters=HpDate%3a%2220230314_0000%22",
+            "title": "A beautiful labyrinth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230314_CyprusMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "339bf350be921c2646d956cfdedff962",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230313",
             "fullstartdate": "202303130000",
