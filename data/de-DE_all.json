@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-14 00:48:34",
-    "Total": 321,
+    "LastUpdate": "2023-03-15 00:49:02",
+    "Total": 322,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230314",
+            "fullstartdate": "202303142300",
+            "enddate": "20230315",
+            "url": "/th?id=OHR.AgueroSpain_DE-DE4821398047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AgueroSpain_DE-DE4821398047",
+            "copyright": "Agüero, Spanien (© Andrea Comi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ag%C3%BCero+Spanien&form=hpcapt&filters=HpDate%3a%2220230314_2300%22",
+            "title": "Wo kann man diesen spektakulären Ausblick genießen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230314_AgueroSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ca4c6f01d123ff05c19e1c576b99996",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230313",
             "fullstartdate": "202303132300",
