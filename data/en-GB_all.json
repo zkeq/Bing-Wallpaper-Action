@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-14 00:48:43",
-    "Total": 321,
+    "LastUpdate": "2023-03-15 00:49:11",
+    "Total": 322,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230315",
+            "fullstartdate": "202303150000",
+            "enddate": "20230316",
+            "url": "/th?id=OHR.AgueroSpain_EN-GB7390476214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AgueroSpain_EN-GB7390476214",
+            "copyright": "Agüero, Spain (© Andrea Comi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Aguero+village&form=hpcapt&filters=HpDate%3a%2220230315_0000%22",
+            "title": "Where is this scenic view?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230315_AgueroSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9fd11135272fb91eef270b7120226f71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230314",
             "fullstartdate": "202303140000",
