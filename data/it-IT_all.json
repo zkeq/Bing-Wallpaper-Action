@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-18 00:49:13",
-    "Total": 325,
+    "LastUpdate": "2023-03-19 00:49:05",
+    "Total": 326,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230318",
+            "fullstartdate": "202303182300",
+            "enddate": "20230319",
+            "url": "/th?id=OHR.BarnOwlWinter_IT-IT0593848383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BarnOwlWinter_IT-IT0593848383",
+            "copyright": "Barbagianni, Inghilterra (© Ondrej Prosicky/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=barbagianni&form=hpcapt",
+            "title": "Chi è il più saggio di tutti?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230318_BarnOwlWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e23808214935f1f11870f789e22c8d2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230317",
             "fullstartdate": "202303172300",
