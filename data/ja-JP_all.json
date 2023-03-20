@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-19 00:48:39",
-    "Total": 326,
+    "LastUpdate": "2023-03-20 00:48:51",
+    "Total": 327,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230319",
+            "fullstartdate": "202303191500",
+            "enddate": "20230320",
+            "url": "/th?id=OHR.ColourDay_JA-JP2821743864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColourDay_JA-JP2821743864",
+            "copyright": "カラフルなパステル (© Stephen Shepherd/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220230319_1500%22",
+            "title": "明日はインターナショナル・カラー・デイ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230319_ColourDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2df068eec719a275edf896cf7b99c190",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230318",
             "fullstartdate": "202303181500",
