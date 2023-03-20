@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-19 00:48:44",
-    "Total": 326,
+    "LastUpdate": "2023-03-20 00:48:55",
+    "Total": 327,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230319",
+            "fullstartdate": "202303192300",
+            "enddate": "20230320",
+            "url": "/th?id=OHR.PurpleCrocus_DE-DE5881094519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PurpleCrocus_DE-DE5881094519",
+            "copyright": "Violetter Krokus (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Der+Fr%C3%BChling&form=hpcapt&filters=HpDate%3a%2220230319_2300%22",
+            "title": "Frühlingsfarben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230319_PurpleCrocus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44c0be72496d4160e85bcfc5e0816086",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230318",
             "fullstartdate": "202303182300",
