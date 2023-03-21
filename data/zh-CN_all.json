@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-20 00:48:41",
-    "Total": 327,
+    "LastUpdate": "2023-03-21 00:48:45",
+    "Total": 328,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230320",
+            "fullstartdate": "202303201600",
+            "enddate": "20230321",
+            "url": "/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColourDay_ZH-CN1032554089",
+            "copyright": "彩色粉笔 (© Stephen Shepherd/Plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BD%A9%E8%89%B2%E7%B2%89%E7%AC%94&form=hpcapt&mkt=zh-cn",
+            "title": "你最喜欢什么颜色？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230320_ColourDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e1bddee24be4e7bc8942b05dc23496b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230319",
             "fullstartdate": "202303191600",
