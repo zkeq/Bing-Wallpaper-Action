@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-20 00:49:13",
-    "Total": 327,
+    "LastUpdate": "2023-03-21 00:49:17",
+    "Total": 328,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230320",
+            "fullstartdate": "202303202300",
+            "enddate": "20230321",
+            "url": "/th?id=OHR.ColourDay_FR-FR6000896151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColourDay_FR-FR6000896151",
+            "copyright": "Craies couleur pastel (© Stephen Shepherd/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=pastel&form=hpcapt&filters=HpDate%3a%2220230320_2300%22",
+            "title": "Quelle est votre couleur préférée ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230320_ColourDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c807323f7744a0f2e7a087d7eca9f9e8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230319",
             "fullstartdate": "202303192300",
