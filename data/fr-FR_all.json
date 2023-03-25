@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-24 00:49:43",
-    "Total": 331,
+    "LastUpdate": "2023-03-25 00:49:05",
+    "Total": 332,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230324",
+            "fullstartdate": "202303242300",
+            "enddate": "20230325",
+            "url": "/th?id=OHR.JavaBromo_FR-FR1016370360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JavaBromo_FR-FR1016370360",
+            "copyright": "Mont Bromo, dans l’est de Java, Indonésie (© Bento Fotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Bromo&form=hpcapt&filters=HpDate%3a%2220230324_2300%22",
+            "title": "Un volcan qui semble flotter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230324_JavaBromo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8911ca0c7ab7b60d6979da30dcfd31ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230323",
             "fullstartdate": "202303232300",
