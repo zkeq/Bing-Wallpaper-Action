@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-24 00:49:47",
-    "Total": 331,
+    "LastUpdate": "2023-03-25 00:49:10",
+    "Total": 332,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230324",
+            "fullstartdate": "202303242300",
+            "enddate": "20230325",
+            "url": "/th?id=OHR.BasilicaAssisi_IT-IT3784069099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BasilicaAssisi_IT-IT3784069099",
+            "copyright": "Basilica di Assisi (© Maurizio Rellini/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Basilica+di+San+Francesco+dov%27%ef%bf%bd%25A&form=hpcapt",
+            "title": "Le luci della sera sulla Basilica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230324_BasilicaAssisi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf023ee99723e1b8dd1a9b26f7c7d10b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230323",
             "fullstartdate": "202303232300",
