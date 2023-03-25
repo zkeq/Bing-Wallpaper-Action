@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-24 00:49:39",
-    "Total": 331,
+    "LastUpdate": "2023-03-25 00:49:01",
+    "Total": 332,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230324",
+            "fullstartdate": "202303241830",
+            "enddate": "20230325",
+            "url": "/th?id=OHR.CecilBrewerStaircase_EN-IN7826094970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CecilBrewerStaircase_EN-IN7826094970",
+            "copyright": "Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=what+is+cecil+brewer+staircase&form=hpcapt&filters=HpDate%3a%2220230324_1830%22",
+            "title": "Stairway to heaven?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230324_CecilBrewerStaircase%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ddd9451280c67cc98702ef18ceb7897",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230323",
             "fullstartdate": "202303231830",
