@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-25 00:49:10",
-    "Total": 332,
+    "LastUpdate": "2023-03-26 00:49:04",
+    "Total": 333,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230325",
+            "fullstartdate": "202303252300",
+            "enddate": "20230326",
+            "url": "/th?id=OHR.WildAnza_IT-IT5465335805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildAnza_IT-IT5465335805",
+            "copyright": "Fiori selvatici nel Parco Statale del Deserto di Anza-Borrego, California (© Ron and Patty Thomas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Deserto+di+Anza-Borrego+Fioritura+deserto+&form=hpcapt",
+            "title": "La natura in tutto il suo essere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230325_WildAnza%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7fd7aa2b3b6564816a1a27c74d40dbe2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230324",
             "fullstartdate": "202303242300",
