@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-25 00:49:05",
-    "Total": 332,
+    "LastUpdate": "2023-03-26 00:48:59",
+    "Total": 333,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230325",
+            "fullstartdate": "202303252200",
+            "enddate": "20230326",
+            "url": "/th?id=OHR.WildAnza_FR-FR7767737739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildAnza_FR-FR7767737739",
+            "copyright": "Fleurs sauvages dans le Désert d’Anza Borrego, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=D%C3%A9sert+d%27Anza+Borrego+%C3%A9tats+unis&form=hpcapt&filters=HpDate%3a%2220230325_2200%22",
+            "title": "La Nature dans toute sa beauté colorée",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230325_WildAnza%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2228ad88028c49a6effb44b44da3f661",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230324",
             "fullstartdate": "202303242300",
