@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-26 00:48:59",
-    "Total": 333,
+    "LastUpdate": "2023-03-27 00:48:40",
+    "Total": 334,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230326",
+            "fullstartdate": "202303262200",
+            "enddate": "20230327",
+            "url": "/th?id=OHR.NYCClouds_FR-FR8477676948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NYCClouds_FR-FR8477676948",
+            "copyright": "New York dans les nuages (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=gratte-ciels+new+york&form=hpcapt&filters=HpDate%3a%2220230326_2200%22",
+            "title": "La Grosse Pomme dans les nuages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230326_NYCClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d594463c0320bf1ddbf0c0899ca4d5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230325",
             "fullstartdate": "202303252200",
