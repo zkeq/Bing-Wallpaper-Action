@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-26 00:49:04",
-    "Total": 333,
+    "LastUpdate": "2023-03-27 00:48:44",
+    "Total": 334,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230326",
+            "fullstartdate": "202303262200",
+            "enddate": "20230327",
+            "url": "/th?id=OHR.NYCClouds_IT-IT2520444146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NYCClouds_IT-IT2520444146",
+            "copyright": "Lo skyline di New York tra la nebbia (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grattacieli+di+New+York&form=hpcapt",
+            "title": "La Grande Mela coperta dalla nebbia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230326_NYCClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2c08a9aeabab8f3739c5a33dcb89242",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230325",
             "fullstartdate": "202303252300",
