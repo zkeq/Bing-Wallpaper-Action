@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-26 00:48:27",
-    "Total": 333,
+    "LastUpdate": "2023-03-27 00:48:09",
+    "Total": 334,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230326",
+            "fullstartdate": "202303261600",
+            "enddate": "20230327",
+            "url": "/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NYCClouds_ZH-CN2585785154",
+            "copyright": "云层中的纽约市天际线 (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%B8%82%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC&form=hpcapt&mkt=zh-cn",
+            "title": "云雾缭绕的纽约市",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230326_NYCClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "623d4178b326bb3cd3ca66c45c11cd6c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230325",
             "fullstartdate": "202303251600",
