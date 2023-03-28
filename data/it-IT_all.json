@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-27 00:48:44",
-    "Total": 334,
+    "LastUpdate": "2023-03-28 00:49:02",
+    "Total": 335,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230327",
+            "fullstartdate": "202303272200",
+            "enddate": "20230328",
+            "url": "/th?id=OHR.MWDolomites_IT-IT9623800923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MWDolomites_IT-IT9623800923",
+            "copyright": "La Via Lattea sopra le Tre Cime di Lavaredo, Tirolo, Italia  (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tre+Cime+di+Lavaredo+simbolo+delle+Dolomiti+storia&form=hpcapt",
+            "title": "Dove si trovano queste vette?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230327_MWDolomites%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c76564f29a3271a306552be97c0a3a8d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230326",
             "fullstartdate": "202303262200",
