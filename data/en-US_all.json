@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-27 00:48:14",
-    "Total": 334,
+    "LastUpdate": "2023-03-28 00:48:31",
+    "Total": 335,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230327",
+            "fullstartdate": "202303270700",
+            "enddate": "20230328",
+            "url": "/th?id=OHR.NYCClouds_EN-US7251713390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NYCClouds_EN-US7251713390",
+            "copyright": "New York City skyline in fog (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=new+york+city+skyscrapers&form=hpcapt&filters=HpDate%3a%2220230327_0700%22",
+            "title": "Cloud City",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230327_NYCClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c6a9e27f5fd1fed0da5c50487d359c03",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230326",
             "fullstartdate": "202303260700",
