@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-28 00:48:36",
-    "Total": 335,
+    "LastUpdate": "2023-03-29 00:48:42",
+    "Total": 336,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230328",
+            "fullstartdate": "202303281500",
+            "enddate": "20230329",
+            "url": "/th?id=OHR.NuzzleManatee_JA-JP7643985529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuzzleManatee_JA-JP7643985529",
+            "copyright": "クリスタルリバー, 米国  フロリダ州 (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220230328_1500%22",
+            "title": "今日はマナティー感謝の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230328_NuzzleManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d70ee6b567b92c9e32e2e336e8c9d54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230327",
             "fullstartdate": "202303271500",
