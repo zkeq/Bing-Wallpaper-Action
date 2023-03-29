@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-28 00:48:26",
-    "Total": 335,
+    "LastUpdate": "2023-03-29 00:48:33",
+    "Total": 336,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230328",
+            "fullstartdate": "202303281600",
+            "enddate": "20230329",
+            "url": "/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuzzleManatee_ZH-CN3263788190",
+            "copyright": "两只海牛，佛罗里达州的水晶河，美国 (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%89%9B&form=hpcapt&mkt=zh-cn",
+            "title": "世界海牛日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230328_NuzzleManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0b011f7cb7d805d4e5217fc05b129b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230327",
             "fullstartdate": "202303271600",
