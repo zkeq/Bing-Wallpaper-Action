@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-28 00:49:02",
-    "Total": 335,
+    "LastUpdate": "2023-03-29 00:49:08",
+    "Total": 336,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230328",
+            "fullstartdate": "202303282200",
+            "enddate": "20230329",
+            "url": "/th?id=OHR.NuzzleManatee_IT-IT0566309775_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuzzleManatee_IT-IT0566309775",
+            "copyright": "Due Lamantini, Crystal River, Florida, Stati Uniti (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lamantino+mammifero&form=hpcapt",
+            "title": "Guardate queste mucche marine!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230328_NuzzleManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2cd06ad37bf439d30080c49c26d6add9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230327",
             "fullstartdate": "202303272200",
