@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-28 00:48:58",
-    "Total": 335,
+    "LastUpdate": "2023-03-29 00:49:04",
+    "Total": 336,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230328",
+            "fullstartdate": "202303282200",
+            "enddate": "20230329",
+            "url": "/th?id=OHR.NuzzleManatee_FR-FR9539786613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuzzleManatee_FR-FR9539786613",
+            "copyright": "Deux lamantins, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lamantin&form=hpcapt&filters=HpDate%3a%2220230328_2200%22",
+            "title": "“Vache des mers” ou sirène ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230328_NuzzleManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d132ac62c033b1b74f41366b56501b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230327",
             "fullstartdate": "202303272200",
