@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-29 00:49:08",
-    "Total": 336,
+    "LastUpdate": "2023-03-30 00:49:11",
+    "Total": 337,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230329",
+            "fullstartdate": "202303292200",
+            "enddate": "20230330",
+            "url": "/th?id=OHR.PeacockFeathers_IT-IT3031908961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeacockFeathers_IT-IT3031908961",
+            "copyright": "Piume di pavone (© Sarayut Thaneerat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pavone+piume&form=hpcapt",
+            "title": "Di chi sono queste piume?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230329_PeacockFeathers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b88fa65998c5c15de535a918c19098e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230328",
             "fullstartdate": "202303282200",
