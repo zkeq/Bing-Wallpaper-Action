@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-29 00:48:46",
-    "Total": 336,
+    "LastUpdate": "2023-03-30 00:48:49",
+    "Total": 337,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230329",
+            "fullstartdate": "202303292200",
+            "enddate": "20230330",
+            "url": "/th?id=OHR.PeacockFeathers_DE-DE6056099620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeacockFeathers_DE-DE6056099620",
+            "copyright": "Pfauenfedern (© Sarayut Thaneerat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Blauer+Pfau&form=hpcapt&filters=HpDate%3a%2220230329_2200%22",
+            "title": "Königlicher Glanz",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230329_PeacockFeathers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f74bb1b3179ff1ac19219b6e9de5fd1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230328",
             "fullstartdate": "202303282200",
