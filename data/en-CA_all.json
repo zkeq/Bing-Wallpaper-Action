@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-29 00:48:51",
-    "Total": 335,
+    "LastUpdate": "2023-03-30 00:48:53",
+    "Total": 336,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230329",
+            "fullstartdate": "202303290400",
+            "enddate": "20230330",
+            "url": "/th?id=OHR.NuzzleManatee_EN-CA3173261936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuzzleManatee_EN-CA3173261936",
+            "copyright": "Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatees&form=hpcapt&filters=HpDate%3a%2220230329_0400%22",
+            "title": "Check out these ‘sea cows’",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230329_NuzzleManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a21102322cd64c9f826ea6d35eaa796",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230328",
             "fullstartdate": "202303280400",
