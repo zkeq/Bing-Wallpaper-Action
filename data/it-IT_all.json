@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-30 00:49:11",
-    "Total": 337,
+    "LastUpdate": "2023-03-31 00:49:11",
+    "Total": 338,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230330",
+            "fullstartdate": "202303302200",
+            "enddate": "20230331",
+            "url": "/th?id=OHR.SteyrRiver_IT-IT3416305819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SteyrRiver_IT-IT3416305819",
+            "copyright": "Fiume Steyr, Austria (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fiume+Steyr+dell%27Alta+Austria&form=hpcapt",
+            "title": "La meraviglia azzurra della natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230330_SteyrRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "db2405a1750f3d63510bfe2283d599aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230329",
             "fullstartdate": "202303292200",
