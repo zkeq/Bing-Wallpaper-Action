@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-30 00:48:49",
-    "Total": 337,
+    "LastUpdate": "2023-03-31 00:48:49",
+    "Total": 338,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230330",
+            "fullstartdate": "202303302200",
+            "enddate": "20230331",
+            "url": "/th?id=OHR.SteyrRiver_DE-DE6443128128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SteyrRiver_DE-DE6443128128",
+            "copyright": "Fluss Steyr, Österreich (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fluss+Steyr%2c+%C3%96sterreich&form=hpcapt&filters=HpDate%3a%2220230330_2200%22",
+            "title": "Wunder der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230330_SteyrRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bfe619220103d6c43a8bb95b22989418",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230329",
             "fullstartdate": "202303292200",
