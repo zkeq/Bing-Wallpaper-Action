@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-31 00:49:03",
-    "Total": 338,
+    "LastUpdate": "2023-04-01 00:48:47",
+    "Total": 339,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230331",
+            "fullstartdate": "202303311830",
+            "enddate": "20230401",
+            "url": "/th?id=OHR.FrogMonth_EN-IN8624430207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrogMonth_EN-IN8624430207",
+            "copyright": "Javan tree frog (© kuritafsheen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Javan+tree+frog&form=hpcapt&filters=HpDate%3a%2220230331_1830%22",
+            "title": "Is it green with envy?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230331_FrogMonth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "68ecc75ae148e06cd630c19fcc0f5f36",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230330",
             "fullstartdate": "202303301830",
