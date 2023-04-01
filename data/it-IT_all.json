@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-31 00:49:11",
-    "Total": 338,
+    "LastUpdate": "2023-04-01 00:48:55",
+    "Total": 339,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230331",
+            "fullstartdate": "202303312200",
+            "enddate": "20230401",
+            "url": "/th?id=OHR.FrogMonth_IT-IT3655283450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrogMonth_IT-IT3655283450",
+            "copyright": "Rana volante di Giava (© kuritafsheen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rana+volante+di+Giava&form=hpcapt",
+            "title": "È verde d'invidia?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230331_FrogMonth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33650ad4572b2d183ef5d81e4eb46e26",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230330",
             "fullstartdate": "202303302200",
