@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-31 00:48:58",
-    "Total": 337,
+    "LastUpdate": "2023-04-01 00:48:42",
+    "Total": 338,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230331",
+            "fullstartdate": "202303312300",
+            "enddate": "20230401",
+            "url": "/th?id=OHR.TowerBridge_EN-GB5189458174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TowerBridge_EN-GB5189458174",
+            "copyright": "Tower Bridge, London, England (© Pajor Pawel/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=london+tower+bridge&form=hpcapt&filters=HpDate%3a%2220230331_2300%22",
+            "title": "Beauty beyond imagination",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230331_TowerBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "da96b7dfd4fde374682264879c05e0b0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230330",
             "fullstartdate": "202303302300",
