@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-31 00:48:45",
-    "Total": 338,
+    "LastUpdate": "2023-04-01 00:48:29",
+    "Total": 339,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230331",
+            "fullstartdate": "202303311500",
+            "enddate": "20230401",
+            "url": "/th?id=OHR.JavaBromo_JA-JP8216089017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JavaBromo_JA-JP8216089017",
+            "copyright": "ブロモ山, インドネシア ジャワ島東部 (© Bento Fotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%AD%E3%83%A2%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220230331_1500%22",
+            "title": "煙霞に聳え立つブロモ山",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230331_JavaBromo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dae3edf23b9f334da78aeedf31bebfb4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230330",
             "fullstartdate": "202303301500",
