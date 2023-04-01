@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-03-31 00:49:07",
-    "Total": 338,
+    "LastUpdate": "2023-04-01 00:48:51",
+    "Total": 339,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230331",
+            "fullstartdate": "202303312200",
+            "enddate": "20230401",
+            "url": "/th?id=OHR.MinouLighthouse_FR-FR1992597632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinouLighthouse_FR-FR1992597632",
+            "copyright": "Phare du Petit-Minou, Plouzané, France (© RooM the Agency/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=+phare+du+petit+minou&form=hpcapt&filters=HpDate%3a%2220230331_2200%22",
+            "title": "Ce phare vous fait les yeux doux",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230331_MinouLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb5fda5093ffdd095dedf6ca261a1165",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230330",
             "fullstartdate": "202303302200",
