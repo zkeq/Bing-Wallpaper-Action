@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-01 00:48:33",
-    "Total": 339,
+    "LastUpdate": "2023-04-02 00:49:00",
+    "Total": 340,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230401",
+            "fullstartdate": "202304012200",
+            "enddate": "20230402",
+            "url": "/th?id=OHR.JavaBromo_DE-DE6568221020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JavaBromo_DE-DE6568221020",
+            "copyright": "Der Berg Bromo in Ost-Java, Indonesien (© Bento Fotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bromo+Berg&form=hpcapt&filters=HpDate%3a%2220230401_2200%22",
+            "title": "Schwebende Berge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230401_JavaBromo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "174f2183dc3f122fbb278129882c55b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230331",
             "fullstartdate": "202303312200",
