@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-01 00:48:55",
-    "Total": 339,
+    "LastUpdate": "2023-04-02 00:49:21",
+    "Total": 340,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230401",
+            "fullstartdate": "202304012200",
+            "enddate": "20230402",
+            "url": "/th?id=OHR.JavaBromo_IT-IT3947328382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JavaBromo_IT-IT3947328382",
+            "copyright": "Monte Bromo, Giava Est, Indonesia  (© Bento Fotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Monte+Bromo&form=hpcapt",
+            "title": "Dove si trova questa montagna?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230401_JavaBromo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3c41e30acb39396ab9270c541c3f9550",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230331",
             "fullstartdate": "202303312200",
