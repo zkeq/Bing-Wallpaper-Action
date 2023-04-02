@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-01 00:48:51",
-    "Total": 339,
+    "LastUpdate": "2023-04-02 00:49:17",
+    "Total": 340,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230401",
+            "fullstartdate": "202304012200",
+            "enddate": "20230402",
+            "url": "/th?id=OHR.ParisRunners_FR-FR1912252678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisRunners_FR-FR1912252678",
+            "copyright": "Coureurs lors du Marathon de Paris, Obélisque de la place de la Concorde, Paris (© REUTERS/Regis Duvignau)",
+            "copyrightlink": "https://www.bing.com/search?q=schneider+electric+marathon+de+paris&form=hpcapt&filters=HpDate%3a%2220230401_2200%22",
+            "title": "À vos marques !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230401_ParisRunners%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51f217f64e86a7bbcc19c2b5bff311fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230331",
             "fullstartdate": "202303312200",
