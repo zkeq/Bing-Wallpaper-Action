@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-02 00:48:46",
-    "Total": 340,
+    "LastUpdate": "2023-04-03 00:48:23",
+    "Total": 341,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230402",
+            "fullstartdate": "202304021600",
+            "enddate": "20230403",
+            "url": "/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HonaunauNP_ZH-CN4491662962",
+            "copyright": "大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9C%8D%E7%91%99%E7%91%99%E5%9B%BD%E5%AE%B6%E5%8E%86%E5%8F%B2%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "追逐彩虹",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230402_HonaunauNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1216eea4c984eb7488722eba133b68c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230401",
             "fullstartdate": "202304011600",
