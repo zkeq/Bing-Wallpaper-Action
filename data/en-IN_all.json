@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-02 00:49:13",
-    "Total": 340,
+    "LastUpdate": "2023-04-03 00:48:50",
+    "Total": 341,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230402",
+            "fullstartdate": "202304021830",
+            "enddate": "20230403",
+            "url": "/th?id=OHR.AgraFort_EN-IN2182877120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AgraFort_EN-IN2182877120",
+            "copyright": "India Aerial view above of Agra Fort (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Agra+Fort&form=hpcapt&filters=HpDate%3a%2220230402_1830%22",
+            "title": "The picturesque Mughal architecture",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230402_AgraFort%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5c1ba1c368f3a3cd9b99dfbc5793fc1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230401",
             "fullstartdate": "202304011830",
