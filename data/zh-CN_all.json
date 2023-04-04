@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-03 00:48:23",
-    "Total": 341,
+    "LastUpdate": "2023-04-04 00:48:03",
+    "Total": 342,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230403",
+            "fullstartdate": "202304031600",
+            "enddate": "20230404",
+            "url": "/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RomanBridge_ZH-CN4699931052",
+            "copyright": "科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E5%B0%94%E5%A4%9A%E7%93%A6&form=hpcapt&mkt=zh-cn",
+            "title": "这座古桥在哪呢？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230403_RomanBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "023e618c13f376da0139a6bec85dfdb5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230402",
             "fullstartdate": "202304021600",
