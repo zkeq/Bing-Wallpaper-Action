@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-03 00:48:59",
-    "Total": 341,
+    "LastUpdate": "2023-04-04 00:48:39",
+    "Total": 342,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230403",
+            "fullstartdate": "202304032200",
+            "enddate": "20230404",
+            "url": "/th?id=OHR.RomanBridge_IT-IT4591008383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RomanBridge_IT-IT4591008383",
+            "copyright": "Ponte romano a Cordoba, Spagna (© Jeremy Woodhouse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Ponte+romano+di+Cordoba&form=hpcapt",
+            "title": "Dove si trova questo storico ponte?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230403_RomanBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c607a18c7b736b96368f5bffac0369b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230402",
             "fullstartdate": "202304022200",
