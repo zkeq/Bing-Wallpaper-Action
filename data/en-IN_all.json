@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-04 00:48:30",
-    "Total": 342,
+    "LastUpdate": "2023-04-05 00:48:02",
+    "Total": 343,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230404",
+            "fullstartdate": "202304041830",
+            "enddate": "20230405",
+            "url": "/th?id=OHR.BlackGrouseLekking_EN-IN4229465462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackGrouseLekking_EN-IN4229465462",
+            "copyright": "Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=black+grouse&form=hpcapt&filters=HpDate%3a%2220230404_1830%22",
+            "title": "Which bird wore it best?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230404_BlackGrouseLekking%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f10a6e7ac2cca59e1856e9ebf10f8809",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230403",
             "fullstartdate": "202304031830",
