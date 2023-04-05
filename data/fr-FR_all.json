@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-04 00:48:34",
-    "Total": 342,
+    "LastUpdate": "2023-04-05 00:48:07",
+    "Total": 343,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230404",
+            "fullstartdate": "202304042200",
+            "enddate": "20230405",
+            "url": "/th?id=OHR.BlackGrouseLekking_FR-FR9040681909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackGrouseLekking_FR-FR9040681909",
+            "copyright": "Petits coqs de bruyère à Kuusamo, Finlande (© Markus Varesvuo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=t%C3%A9tras+lyre&form=hpcapt&filters=HpDate%3a%2220230404_2200%22",
+            "title": "C’est qui le plus beau ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230404_BlackGrouseLekking%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "000a010f0bc5cbcdd66699df26e9e668",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230403",
             "fullstartdate": "202304032200",
