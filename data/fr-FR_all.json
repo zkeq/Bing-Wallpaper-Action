@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:48:07",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:40",
+    "Total": 344,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304052200",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.ArizonaPinkMoon_FR-FR8317584588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArizonaPinkMoon_FR-FR8317584588",
+            "copyright": "Pleine lune, Tucson, Arizona, États-Unis (© Tim Murphy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=+lune+rose+printemps&form=hpcapt&filters=HpDate%3a%2220230405_2200%22",
+            "title": "Lune rose de printemps en Arizona",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_ArizonaPinkMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "61dc69b77f25200c3148142fc08bd3a2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304042200",
