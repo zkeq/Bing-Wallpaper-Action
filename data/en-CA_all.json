@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:47:54",
-    "Total": 342,
+    "LastUpdate": "2023-04-06 00:48:27",
+    "Total": 343,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304050400",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.BlackGrouseLekking_EN-CA3757244382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackGrouseLekking_EN-CA3757244382",
+            "copyright": "Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=black+grouse&form=hpcapt&filters=HpDate%3a%2220230405_0400%22",
+            "title": "Let’s have a lek, see?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_BlackGrouseLekking%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e76744423b79aab09061eece3dab2c52",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304040400",
