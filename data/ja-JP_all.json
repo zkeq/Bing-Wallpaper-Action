@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:47:45",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:18",
+    "Total": 344,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304051500",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.CastleDay2023_JA-JP9603602149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleDay2023_JA-JP9603602149",
+            "copyright": "姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A7%AB%E8%B7%AF%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220230405_1500%22",
+            "title": "今日は城の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_CastleDay2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "87169c71979f3fc0f0999668603b98bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304041500",
