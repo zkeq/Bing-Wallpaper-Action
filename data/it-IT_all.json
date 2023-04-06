@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:48:11",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:44",
+    "Total": 344,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304052200",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.ArizonaPinkMoon_IT-IT4213896448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArizonaPinkMoon_IT-IT4213896448",
+            "copyright": "Luna crescente, Tucson, Arizona, USA  (© Tim Murphy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Luna+rosa+di+aprile+Arizona+USA&form=hpcapt",
+            "title": "Una luna rosa sull'Arizona",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_ArizonaPinkMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "951438d5847984b6683c979362a2c8eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304042200",
