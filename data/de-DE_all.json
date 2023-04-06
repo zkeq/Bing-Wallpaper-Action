@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:47:49",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:22",
+    "Total": 344,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304052200",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.ArizonaPinkMoon_DE-DE9682915155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArizonaPinkMoon_DE-DE9682915155",
+            "copyright": "Mondaufgang, Tucson, Arizona, USA (© Tim Murphy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mond&form=hpcapt&filters=HpDate%3a%2220230405_2200%22",
+            "title": "Pink Moon über Arizona",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_ArizonaPinkMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8345618c0dae7eb8f1118987ff3f16c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304042200",
