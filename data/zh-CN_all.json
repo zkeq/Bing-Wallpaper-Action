@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:47:35",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:08",
+    "Total": 344,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304051600",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389",
+            "copyright": "月亮升起，图森，亚利桑那州，美国 (© Tim Murphy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B2%89%E7%BA%A2%E8%89%B2%E6%9C%88%E4%BA%AE&form=hpcapt&mkt=zh-cn",
+            "title": "亚利桑那州空中的粉月亮",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_ArizonaPinkMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ab591ebfad21386b6f36da52bc11421e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304041600",
