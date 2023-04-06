@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-05 00:48:02",
-    "Total": 343,
+    "LastUpdate": "2023-04-06 00:48:35",
+    "Total": 344,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230405",
+            "fullstartdate": "202304051830",
+            "enddate": "20230406",
+            "url": "/th?id=OHR.ArizonaPinkMoon_EN-IN4652684709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArizonaPinkMoon_EN-IN4652684709",
+            "copyright": "Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=pink+moon+astronomy&form=hpcapt&filters=HpDate%3a%2220230405_1830%22",
+            "title": "A pink moon over Arizona",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230405_ArizonaPinkMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5351e7963a0ca8a5b610ca7f8eacf69",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230404",
             "fullstartdate": "202304041830",
