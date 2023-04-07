@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-06 00:48:31",
-    "Total": 343,
+    "LastUpdate": "2023-04-07 00:48:29",
+    "Total": 344,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230406",
+            "fullstartdate": "202304062300",
+            "enddate": "20230407",
+            "url": "/th?id=OHR.KitsAspen_EN-GB5526308393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KitsAspen_EN-GB5526308393",
+            "copyright": "Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=eurasian+beaver&form=hpcapt&filters=HpDate%3a%2220230406_2300%22",
+            "title": "Two hungry baby beavers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230406_KitsAspen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59f1cd60c416adcd802ec40f7042ff5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230405",
             "fullstartdate": "202304052300",
