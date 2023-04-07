@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-06 00:48:22",
-    "Total": 344,
+    "LastUpdate": "2023-04-07 00:48:21",
+    "Total": 345,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230406",
+            "fullstartdate": "202304062200",
+            "enddate": "20230407",
+            "url": "/th?id=OHR.KitsAspen_DE-DE9335178847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KitsAspen_DE-DE9335178847",
+            "copyright": "Europäische Biberbabys, Finnland (© Danny Green/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4ischer+Biber&form=hpcapt&filters=HpDate%3a%2220230406_2200%22",
+            "title": "Zwei hungrige Biberbabys",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230406_KitsAspen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f986fe5ba949e16891f85e6ea0afb85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230405",
             "fullstartdate": "202304052200",
