@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-07 00:48:16",
-    "Total": 345,
+    "LastUpdate": "2023-04-08 00:48:07",
+    "Total": 346,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230407",
+            "fullstartdate": "202304071500",
+            "enddate": "20230408",
+            "url": "/th?id=OHR.BuddhasBirthday2023_JA-JP8498198391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BuddhasBirthday2023_JA-JP8498198391",
+            "copyright": "池に咲く睡蓮 (© Masahiro Noguchi/GettyImages)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%81%8C%E4%BB%8F%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220230407_1500%22",
+            "title": "今日は灌仏会",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230407_BuddhasBirthday2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e175432e61e85a8da3f4c4c500d3b64",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230406",
             "fullstartdate": "202304061500",
