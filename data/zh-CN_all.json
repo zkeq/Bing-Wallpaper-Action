@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-07 00:48:07",
-    "Total": 345,
+    "LastUpdate": "2023-04-08 00:47:57",
+    "Total": 346,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230407",
+            "fullstartdate": "202304071600",
+            "enddate": "20230408",
+            "url": "/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NIrelandGiants_ZH-CN6110576507",
+            "copyright": "巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E4%B9%8B%E8%B7%AF&form=hpcapt&mkt=zh-cn",
+            "title": "从地下起源的传说",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230407_NIrelandGiants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c7bcc68c825a419efc10dae578d44cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230406",
             "fullstartdate": "202304061600",
