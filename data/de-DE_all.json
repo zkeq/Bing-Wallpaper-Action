@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-08 00:48:11",
-    "Total": 346,
+    "LastUpdate": "2023-04-09 00:48:23",
+    "Total": 347,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230408",
+            "fullstartdate": "202304082200",
+            "enddate": "20230409",
+            "url": "/th?id=OHR.LithuanianEggs_DE-DE6834482239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LithuanianEggs_DE-DE6834482239",
+            "copyright": "Litauische dekorierte Ostereier (© fotomem/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Osterei&form=hpcapt&filters=HpDate%3a%2220230408_2200%22",
+            "title": "Ein herrlich verziertes Osterbild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230408_LithuanianEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e01e1133e653e5f6fedecce0fa2ad5a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230407",
             "fullstartdate": "202304072200",
