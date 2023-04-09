@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-08 00:48:07",
-    "Total": 346,
+    "LastUpdate": "2023-04-09 00:48:19",
+    "Total": 347,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230408",
+            "fullstartdate": "202304081500",
+            "enddate": "20230409",
+            "url": "/th?id=OHR.LithuanianEggs_JA-JP7482896378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LithuanianEggs_JA-JP7482896378",
+            "copyright": "華やかなイースターエッグ (© fotomem/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0&form=hpcapt&filters=HpDate%3a%2220230408_1500%22",
+            "title": "今日は復活祭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230408_LithuanianEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "264dc222bd7ecd33713193c0c11fb0d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230407",
             "fullstartdate": "202304071500",
