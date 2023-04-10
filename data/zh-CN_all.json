@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-09 00:48:09",
-    "Total": 347,
+    "LastUpdate": "2023-04-10 00:48:16",
+    "Total": 348,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230409",
+            "fullstartdate": "202304091600",
+            "enddate": "20230410",
+            "url": "/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTwins_ZH-CN6743766062",
+            "copyright": "安博塞利国家公园的大象，肯尼亚 (© Diana Robinson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E5%A4%A7%E8%B1%A1&form=hpcapt&mkt=zh-cn",
+            "title": "强大的亲缘纽带",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230409_ElephantTwins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2261046cf67e6cbf3809621a7221d877",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230408",
             "fullstartdate": "202304081600",
