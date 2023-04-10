@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-09 00:48:14",
-    "Total": 347,
+    "LastUpdate": "2023-04-10 00:48:22",
+    "Total": 348,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230409",
+            "fullstartdate": "202304090700",
+            "enddate": "20230410",
+            "url": "/th?id=OHR.LithuanianEggs_EN-US5086451033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LithuanianEggs_EN-US5086451033",
+            "copyright": "Lithuanian Easter eggs (© fotomem/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=easter+eggs&form=hpcapt&filters=HpDate%3a%2220230409_0700%22",
+            "title": "Happy Easter!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230409_LithuanianEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3e6a352df13e29d7d22680bb09ba4d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230408",
             "fullstartdate": "202304080700",
