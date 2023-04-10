@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-09 00:48:23",
-    "Total": 347,
+    "LastUpdate": "2023-04-10 00:48:31",
+    "Total": 348,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230409",
+            "fullstartdate": "202304092200",
+            "enddate": "20230410",
+            "url": "/th?id=OHR.ElephantTwins_DE-DE7828425452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTwins_DE-DE7828425452",
+            "copyright": "Elefanten im Amboseli-Nationalpark, Kenia (© Diana Robinson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Amboseli+Nationalpark+Kenia&form=hpcapt&filters=HpDate%3a%2220230409_2200%22",
+            "title": "Starke Geschwisterbindung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230409_ElephantTwins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6876c51068d175e13ad750d63a9dd7bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230408",
             "fullstartdate": "202304082200",
