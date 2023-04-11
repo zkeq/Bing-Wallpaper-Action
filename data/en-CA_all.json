@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-10 00:48:35",
-    "Total": 347,
+    "LastUpdate": "2023-04-11 00:48:40",
+    "Total": 348,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230410",
+            "fullstartdate": "202304100400",
+            "enddate": "20230411",
+            "url": "/th?id=OHR.ElephantTwins_EN-CA6312430461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTwins_EN-CA6312430461",
+            "copyright": "Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=african+elephants&form=hpcapt&filters=HpDate%3a%2220230410_0400%22",
+            "title": "Strong sibling bonds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230410_ElephantTwins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "05479cde9a6f05793d19f0e1fb176a68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230409",
             "fullstartdate": "202304090400",
