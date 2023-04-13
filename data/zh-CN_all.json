@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-12 00:48:19",
-    "Total": 350,
+    "LastUpdate": "2023-04-13 00:48:15",
+    "Total": 351,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230412",
+            "fullstartdate": "202304121600",
+            "enddate": "20230413",
+            "url": "/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowdoniaNational_ZH-CN7415540950",
+            "copyright": "斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E8%AF%BA%E7%99%BB%E5%B0%BC%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "徒步旅行者的向往之地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230412_SnowdoniaNational%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23c6bc20066aa8692651709847ba04ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230411",
             "fullstartdate": "202304111600",
