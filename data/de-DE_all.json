@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-13 00:48:30",
-    "Total": 351,
+    "LastUpdate": "2023-04-14 00:48:15",
+    "Total": 352,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230413",
+            "fullstartdate": "202304132200",
+            "enddate": "20230414",
+            "url": "/th?id=OHR.Mannheim_DE-DE1609561804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Mannheim_DE-DE1609561804",
+            "copyright": "Wasserturm, Mannheim (© tichr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wasserturm%2c+Mannheim%2c+Baden+W%C3%BCrttemberg&form=hpcapt&filters=HpDate%3a%2220230413_2200%22",
+            "title": "Die Stadt der Musik",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230413_Mannheim%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8fd711def5a7ebd835c72d74967d007",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230412",
             "fullstartdate": "202304122200",
