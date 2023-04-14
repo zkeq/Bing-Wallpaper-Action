@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-13 00:48:52",
-    "Total": 351,
+    "LastUpdate": "2023-04-14 00:48:36",
+    "Total": 352,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230413",
+            "fullstartdate": "202304132200",
+            "enddate": "20230414",
+            "url": "/th?id=OHR.RedSeaStars_IT-IT1751132764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedSeaStars_IT-IT1751132764",
+            "copyright": "Stelle marine rosse, Mar Mediterraneo (© Hans Leijnse/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=+Asteroidea+animale&form=hpcapt",
+            "title": "Ma sono piante o animali?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230413_RedSeaStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d483bf7d10c6cecb514e515bf522a5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230412",
             "fullstartdate": "202304122200",
