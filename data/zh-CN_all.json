@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-13 00:48:15",
-    "Total": 351,
+    "LastUpdate": "2023-04-14 00:48:01",
+    "Total": 352,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230413",
+            "fullstartdate": "202304131600",
+            "enddate": "20230414",
+            "url": "/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedSeaStars_ZH-CN6243743747",
+            "copyright": "红海星, 地中海 (© Hans Leijnse/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E6%B5%B7%E6%98%9F&form=hpcapt&mkt=zh-cn",
+            "title": "日光下的星星",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230413_RedSeaStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af5dbfc4178de1c97c55f70b3376805e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230412",
             "fullstartdate": "202304121600",
