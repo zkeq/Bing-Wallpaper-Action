@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-14 00:48:06",
-    "Total": 352,
+    "LastUpdate": "2023-04-15 00:48:36",
+    "Total": 353,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230414",
+            "fullstartdate": "202304140700",
+            "enddate": "20230415",
+            "url": "/th?id=OHR.RedSeaStars_EN-US6473635643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedSeaStars_EN-US6473635643",
+            "copyright": "Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=sea+star&form=hpcapt&filters=HpDate%3a%2220230414_0700%22",
+            "title": "Stars in daylight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230414_RedSeaStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "61fb50c8fb2ebc9375818d213e633c8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230413",
             "fullstartdate": "202304130700",
