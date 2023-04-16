@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-15 00:48:53",
-    "Total": 352,
+    "LastUpdate": "2023-04-16 00:48:38",
+    "Total": 353,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230415",
+            "fullstartdate": "202304152300",
+            "enddate": "20230416",
+            "url": "/th?id=OHR.KiteDay_EN-GB6715857463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KiteDay_EN-GB6715857463",
+            "copyright": "Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=flying+kites&form=hpcapt&filters=HpDate%3a%2220230415_2300%22",
+            "title": "Go fly a kite!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230415_KiteDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bafe997f07e67fad187b6b1914dc4ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230414",
             "fullstartdate": "202304142300",
