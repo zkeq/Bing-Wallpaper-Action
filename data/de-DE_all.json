@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-15 00:48:44",
-    "Total": 353,
+    "LastUpdate": "2023-04-16 00:48:29",
+    "Total": 354,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230415",
+            "fullstartdate": "202304152200",
+            "enddate": "20230416",
+            "url": "/th?id=OHR.KiteDay_DE-DE5544963216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KiteDay_DE-DE5544963216",
+            "copyright": "Drachenfestival von Adelaide, Australien (© Andrey Moisseyev/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Fesseldrachen&form=hpcapt&filters=HpDate%3a%2220230415_2200%22",
+            "title": "Lassen Sie Ihren Drachen steigen!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230415_KiteDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0789c06186350b2a685b3a18f212046",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230414",
             "fullstartdate": "202304142200",
