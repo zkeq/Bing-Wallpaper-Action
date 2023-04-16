@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-15 00:48:36",
-    "Total": 353,
+    "LastUpdate": "2023-04-16 00:48:20",
+    "Total": 354,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230415",
+            "fullstartdate": "202304150700",
+            "enddate": "20230416",
+            "url": "/th?id=OHR.LorenzoQuinn_EN-US6997686421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LorenzoQuinn_EN-US6997686421",
+            "copyright": "'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=great+pyramid+of+giza+wiki&form=hpcapt&filters=HpDate%3a%2220230415_0700%22",
+            "title": "When art imitates life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230415_LorenzoQuinn%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ac5bb1493dfd7f004ba97fca8c5aed4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230414",
             "fullstartdate": "202304140700",
