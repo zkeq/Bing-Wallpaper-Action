@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-15 00:49:02",
-    "Total": 353,
+    "LastUpdate": "2023-04-16 00:48:46",
+    "Total": 354,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230415",
+            "fullstartdate": "202304152200",
+            "enddate": "20230416",
+            "url": "/th?id=OHR.KiteDay_FR-FR4632887565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KiteDay_FR-FR4632887565",
+            "copyright": "Festival International de Cerfs-Volants d’Adelaïde, Australie (© Andrey Moisseyev/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=cerf-volant&form=hpcapt&filters=HpDate%3a%2220230415_2200%22",
+            "title": "Prêts pour le décollage?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230415_KiteDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1633fb647173f88c3fd7fd31f123c9a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230414",
             "fullstartdate": "202304142200",
