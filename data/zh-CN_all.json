@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-16 00:48:15",
-    "Total": 354,
+    "LastUpdate": "2023-04-17 00:48:20",
+    "Total": 355,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230416",
+            "fullstartdate": "202304161600",
+            "enddate": "20230417",
+            "url": "/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinouLighthouse_ZH-CN7940024247",
+            "copyright": "布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E5%88%97%E5%A1%94%E5%B0%BC%E5%A4%A7%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "有点孤单，有点浪漫",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230416_MinouLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c1e5b6d30fec2d472d3a78f55983591f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230415",
             "fullstartdate": "202304151600",
