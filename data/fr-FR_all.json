@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-16 00:48:46",
-    "Total": 354,
+    "LastUpdate": "2023-04-17 00:48:51",
+    "Total": 355,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230416",
+            "fullstartdate": "202304162200",
+            "enddate": "20230417",
+            "url": "/th?id=OHR.OneThousandSprings_FR-FR4920641576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OneThousandSprings_FR-FR4920641576",
+            "copyright": "Installation artistique Haïku, Jardins Botaniques Royaux de Kew, Londres (© Guy Bell/Alamy Live News)",
+            "copyrightlink": "https://www.bing.com/search?q=jardins+botaniques+royaux+kew&form=hpcapt&filters=HpDate%3a%2220230416_2200%22",
+            "title": "Poésie suspendue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230416_OneThousandSprings%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a2bfe07023c07b906d77524ffdafe608",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230415",
             "fullstartdate": "202304152200",
