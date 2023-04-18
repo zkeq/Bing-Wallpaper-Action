@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-17 00:48:34",
-    "Total": 355,
+    "LastUpdate": "2023-04-18 00:48:25",
+    "Total": 356,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230417",
+            "fullstartdate": "202304172200",
+            "enddate": "20230418",
+            "url": "/th?id=OHR.MPPUnesco_DE-DE9476422795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MPPUnesco_DE-DE9476422795",
+            "copyright": "Machu Picchu, Peru (© Dora Dalton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Machu+Picchu&form=hpcapt&filters=HpDate%3a%2220230417_2200%22",
+            "title": "Ein architektonisches Weltwunder weit oben auf den Anden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230417_MPPUnesco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1422cf0e553d558714c6748d56864b1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230416",
             "fullstartdate": "202304162200",
