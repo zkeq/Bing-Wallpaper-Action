@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-17 00:48:56",
-    "Total": 355,
+    "LastUpdate": "2023-04-18 00:48:47",
+    "Total": 356,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230417",
+            "fullstartdate": "202304172200",
+            "enddate": "20230418",
+            "url": "/th?id=OHR.MPPUnesco_IT-IT3824162238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MPPUnesco_IT-IT3824162238",
+            "copyright": "Machu Picchu, Peru (© Dora Dalton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+Machu+Picchu+sito+archeologico+storia&form=hpcapt",
+            "title": "Dov'è questa città perduta?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230417_MPPUnesco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5200ffbbc2339f529ba495d888d4dad3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230416",
             "fullstartdate": "202304162200",
