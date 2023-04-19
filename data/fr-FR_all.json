@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-18 00:48:43",
-    "Total": 356,
+    "LastUpdate": "2023-04-19 00:49:04",
+    "Total": 357,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230418",
+            "fullstartdate": "202304182200",
+            "enddate": "20230419",
+            "url": "/th?id=OHR.BourgesFestival_FR-FR2048973185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BourgesFestival_FR-FR2048973185",
+            "copyright": "Hugh Coltman sur la scène du Printemps de Bourges (© Guillaume Souvant/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=printemps+de+bourges+festival+histoire&form=hpcapt&filters=HpDate%3a%2220230418_2200%22",
+            "title": "La musique adoucit les cœurs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230418_BourgesFestival%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "77eda846febb362001692617a8991e55",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230417",
             "fullstartdate": "202304172200",
