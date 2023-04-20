@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-19 00:48:55",
-    "Total": 356,
+    "LastUpdate": "2023-04-20 00:48:40",
+    "Total": 357,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230419",
+            "fullstartdate": "202304192300",
+            "enddate": "20230420",
+            "url": "/th?id=OHR.NIrelandGiants_EN-GB9278166109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NIrelandGiants_EN-GB9278166109",
+            "copyright": "The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=giant%27s+causeway&form=hpcapt&filters=HpDate%3a%2220230419_2300%22",
+            "title": "A legend sprung from the ground",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230419_NIrelandGiants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42f0d4c7310466d8b07e426bc9f7cdde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230418",
             "fullstartdate": "202304182300",
