@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-19 00:49:09",
-    "Total": 357,
+    "LastUpdate": "2023-04-20 00:48:53",
+    "Total": 358,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230419",
+            "fullstartdate": "202304192200",
+            "enddate": "20230420",
+            "url": "/th?id=OHR.NIrelandGiants_IT-IT5231557937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NIrelandGiants_IT-IT5231557937",
+            "copyright": "La Strada del gigante, Irlanda del Nord, Regno Unito (© Dieter Meyrl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=il+selciato+del+gigante+cos%27%C3%A8&form=hpcapt",
+            "title": "Un ponte per giganti?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230419_NIrelandGiants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5235c820fe242e68cd2aedfbd5f2c0da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230418",
             "fullstartdate": "202304182200",
