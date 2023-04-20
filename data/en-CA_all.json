@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-19 00:48:51",
-    "Total": 356,
+    "LastUpdate": "2023-04-20 00:48:36",
+    "Total": 357,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230419",
+            "fullstartdate": "202304190400",
+            "enddate": "20230420",
+            "url": "/th?id=OHR.TaiwanYuhina_EN-CA4124062370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TaiwanYuhina_EN-CA4124062370",
+            "copyright": "Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Taiwan+Yuhina&form=hpcapt&filters=HpDate%3a%2220230419_0400%22",
+            "title": "A cuddling pair of Taiwan yuhina",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230419_TaiwanYuhina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63e8e4e42bc82d33481304ef26378b9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230418",
             "fullstartdate": "202304180400",
