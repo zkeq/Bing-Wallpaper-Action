@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-20 00:48:36",
-    "Total": 357,
+    "LastUpdate": "2023-04-21 00:48:42",
+    "Total": 358,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230420",
+            "fullstartdate": "202304200400",
+            "enddate": "20230421",
+            "url": "/th?id=OHR.YuanyangChina_EN-CA2675419063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YuanyangChina_EN-CA2675419063",
+            "copyright": "Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=yuanyang+china&form=hpcapt&filters=HpDate%3a%2220230420_0400%22",
+            "title": "An iridescent view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230420_YuanyangChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4f234fb253a65effe97fcaa986369c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230419",
             "fullstartdate": "202304190400",
