@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-20 00:48:49",
-    "Total": 358,
+    "LastUpdate": "2023-04-21 00:48:55",
+    "Total": 359,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230420",
+            "fullstartdate": "202304202200",
+            "enddate": "20230421",
+            "url": "/th?id=OHR.Gevaudan_FR-FR8210514398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Gevaudan_FR-FR8210514398",
+            "copyright": "Saugues et de sa sculpture en bois de la bête du Gevaudan, Haute-Loire (© Gautier Stephane/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=b%C3%AAte+du+g%C3%A9vaudan&form=hpcapt&filters=HpDate%3a%2220230420_2200%22",
+            "title": "La bête veille sur la vallée",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230420_Gevaudan%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7a3e65e87381e98205f75b4fac5f4dc6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230419",
             "fullstartdate": "202304192200",
