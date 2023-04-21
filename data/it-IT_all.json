@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-20 00:48:53",
-    "Total": 358,
+    "LastUpdate": "2023-04-21 00:48:59",
+    "Total": 359,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230420",
+            "fullstartdate": "202304202200",
+            "enddate": "20230421",
+            "url": "/th?id=OHR.ProcidaItaly_IT-IT5234311599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ProcidaItaly_IT-IT5234311599",
+            "copyright": "Procida, Campania, Italia (© Sean Pavone/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=procida+%C3%A8+un+comune+italiano&form=hpcapt",
+            "title": "Una vista da sogno",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230420_ProcidaItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7cfcf9941f1c5138758b8e0e547841f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230419",
             "fullstartdate": "202304192200",
