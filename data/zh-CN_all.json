@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-21 00:48:22",
-    "Total": 359,
+    "LastUpdate": "2023-04-22 00:48:55",
+    "Total": 360,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230421",
+            "fullstartdate": "202304211600",
+            "enddate": "20230422",
+            "url": "/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EarthDayFox_ZH-CN7926350207",
+            "copyright": "岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B2%9B%E5%B1%BF%E7%81%B0%E7%8B%90&form=hpcapt&mkt=zh-cn",
+            "title": "国家公园中狡猾的常住居民",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230421_EarthDayFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "521e656ebd50f38ffc2a3bfd9d3c3fde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230420",
             "fullstartdate": "202304201600",
