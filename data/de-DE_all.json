@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-21 00:48:37",
-    "Total": 359,
+    "LastUpdate": "2023-04-22 00:49:09",
+    "Total": 360,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230421",
+            "fullstartdate": "202304212200",
+            "enddate": "20230422",
+            "url": "/th?id=OHR.EarthDayFox_DE-DE8965516064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EarthDayFox_DE-DE8965516064",
+            "copyright": "Insel-Graufuchs im Channel-Islands Nationalpark, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Insel-Graufuchs&form=hpcapt&filters=HpDate%3a%2220230421_2200%22",
+            "title": "Einer der schlausten Bewohner unserer Nationalparks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230421_EarthDayFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ca37ac4fa614a3b2584f9907b80565a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230420",
             "fullstartdate": "202304202200",
