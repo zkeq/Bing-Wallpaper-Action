@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-22 00:49:05",
-    "Total": 360,
+    "LastUpdate": "2023-04-23 00:48:40",
+    "Total": 361,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230422",
+            "fullstartdate": "202304221500",
+            "enddate": "20230423",
+            "url": "/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542",
+            "copyright": "シュトゥットガルト公共図書館, ドイツ (© Axel Brunst/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%A5%E3%83%88%E3%82%A5%E3%83%83%E3%83%88%E3%82%AC%E3%83%AB%E3%83%88%E5%85%AC%E5%85%B1%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220230422_1500%22",
+            "title": "今日は世界本の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230422_StuttgartPublicLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "c711b6737f08e159fe0c811e44e620ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230421",
             "fullstartdate": "202304211500",
