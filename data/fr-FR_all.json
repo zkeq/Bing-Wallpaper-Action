@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-22 00:49:27",
-    "Total": 360,
+    "LastUpdate": "2023-04-23 00:49:02",
+    "Total": 361,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230422",
+            "fullstartdate": "202304222200",
+            "enddate": "20230423",
+            "url": "/th?id=OHR.StuttgartPublicLibrary_FR-FR1520907172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StuttgartPublicLibrary_FR-FR1520907172",
+            "copyright": "Bibliothèque municipale de Stuttgart, Allemagne (© Axel Brunst/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=bibiloth%C3%A8que+municipale+de+stuttgart&form=hpcapt&filters=HpDate%3a%2220230422_2200%22",
+            "title": "Un paradis pour les amoureux des livres",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230422_StuttgartPublicLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7d61afb33efe2cc4f77222720835de94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230421",
             "fullstartdate": "202304212200",
