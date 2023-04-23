@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-22 00:49:22",
-    "Total": 360,
+    "LastUpdate": "2023-04-23 00:48:58",
+    "Total": 361,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230422",
+            "fullstartdate": "202304221830",
+            "enddate": "20230423",
+            "url": "/th?id=OHR.BandhavgarhNationalPark_EN-IN1237060270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BandhavgarhNationalPark_EN-IN1237060270",
+            "copyright": "Early morning shafts of light through deciduous forest, Bandhavgarh National Park, India (© plainpicture/NPL/Nick Garbutt)",
+            "copyrightlink": "https://www.bing.com/search?q=Bandhavgarh+National+Park&form=hpcapt&filters=HpDate%3a%2220230422_1830%22",
+            "title": "In the spotlight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230422_BandhavgarhNationalPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d9341df6470d5522fdfc9e1d7f76430",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230421",
             "fullstartdate": "202304211830",
