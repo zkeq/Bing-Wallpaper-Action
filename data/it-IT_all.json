@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-23 00:49:06",
-    "Total": 361,
+    "LastUpdate": "2023-04-24 00:49:01",
+    "Total": 362,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230423",
+            "fullstartdate": "202304232200",
+            "enddate": "20230424",
+            "url": "/th?id=OHR.FranconianWineCellar_IT-IT2051034569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FranconianWineCellar_IT-IT2051034569",
+            "copyright": "Cantina nella Foresta Bavarese, Germania (© Andreas Zerndl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Foresta+bavarese+cantina&form=hpcapt",
+            "title": "Un nascondiglio nel bosco",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230423_FranconianWineCellar%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ca13747e2f2c67e01f80073c2b0ba96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230422",
             "fullstartdate": "202304222200",
