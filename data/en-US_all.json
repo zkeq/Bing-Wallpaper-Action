@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-24 00:48:30",
-    "Total": 362,
+    "LastUpdate": "2023-04-25 00:48:38",
+    "Total": 363,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230424",
+            "fullstartdate": "202304240700",
+            "enddate": "20230425",
+            "url": "/th?id=OHR.FranconianWineCellar_EN-US3287515626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FranconianWineCellar_EN-US3287515626",
+            "copyright": "Old underground cellar, Bavaria, Germany (© Andreas Zerndl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bavaria+Germany&form=hpcapt&filters=HpDate%3a%2220230424_0700%22",
+            "title": "Beneath the woods",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230424_FranconianWineCellar%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0765a708af9c80c7c7a1be4e0e7aabc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230423",
             "fullstartdate": "202304230700",
