@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-24 00:48:39",
-    "Total": 362,
+    "LastUpdate": "2023-04-25 00:48:47",
+    "Total": 363,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230424",
+            "fullstartdate": "202304242200",
+            "enddate": "20230425",
+            "url": "/th?id=OHR.NaturalHeritageCenter_DE-DE0230268232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaturalHeritageCenter_DE-DE0230268232",
+            "copyright": "Baumwipfelpfad Naturerbezentrum Rügen bei Prora, Rügen (© Sabine Lubenow/Huber/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Prora&form=hpcapt&filters=HpDate%3a%2220230424_2200%22",
+            "title": "Wo steht dieser imposante Baum?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230424_NaturalHeritageCenter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c9363f4a521ac71988a0357ac9dd1868",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230423",
             "fullstartdate": "202304232200",
