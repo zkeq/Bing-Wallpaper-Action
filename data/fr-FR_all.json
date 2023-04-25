@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-24 00:48:56",
-    "Total": 362,
+    "LastUpdate": "2023-04-25 00:49:05",
+    "Total": 363,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230424",
+            "fullstartdate": "202304242200",
+            "enddate": "20230425",
+            "url": "/th?id=OHR.AdelieWPD_FR-FR1082449253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdelieWPD_FR-FR1082449253",
+            "copyright": "Manchots Adélie en Antarctique (© David Merron Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=manchot+adelie+&form=hpcapt&filters=HpDate%3a%2220230424_2200%22",
+            "title": "Une petite pause sur la banquise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230424_AdelieWPD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9209414aa30b28a3d5f3e3f41aa3ddd5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230423",
             "fullstartdate": "202304232200",
