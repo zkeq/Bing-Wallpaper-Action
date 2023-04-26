@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-25 00:49:09",
-    "Total": 363,
+    "LastUpdate": "2023-04-26 00:48:58",
+    "Total": 364,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230425",
+            "fullstartdate": "202304252200",
+            "enddate": "20230426",
+            "url": "/th?id=OHR.GHOAudubonDay_IT-IT7709502144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GHOAudubonDay_IT-IT7709502144",
+            "copyright": "Gufi della Virginia (© Michael Morse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+gufo+della+Virginia+&form=hpcapt",
+            "title": "Cosa sono queste creature?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230425_GHOAudubonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8dc3a870f6c95ec57d2b44c70b80969",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230424",
             "fullstartdate": "202304242200",
