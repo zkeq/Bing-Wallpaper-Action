@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-25 00:48:52",
-    "Total": 362,
+    "LastUpdate": "2023-04-26 00:48:40",
+    "Total": 363,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230425",
+            "fullstartdate": "202304250400",
+            "enddate": "20230426",
+            "url": "/th?id=OHR.AdelieWPD_EN-CA9843813633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdelieWPD_EN-CA9843813633",
+            "copyright": "Adélie penguins in Antarctica (© David Merron Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=adelie+penguins&form=hpcapt&filters=HpDate%3a%2220230425_0400%22",
+            "title": "Chilling out on an ice floe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230425_AdelieWPD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ac8f66b055f635649e64ef850728c95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230424",
             "fullstartdate": "202304240400",
