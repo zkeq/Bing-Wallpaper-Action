@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-25 00:49:05",
-    "Total": 363,
+    "LastUpdate": "2023-04-26 00:48:53",
+    "Total": 364,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230425",
+            "fullstartdate": "202304252200",
+            "enddate": "20230426",
+            "url": "/th?id=OHR.GHOAudubonDay_FR-FR1843319126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GHOAudubonDay_FR-FR1843319126",
+            "copyright": "Grand-duc d’Amérique (© Michael Morse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand-duc+d%E2%80%99Am%C3%A9rique&form=hpcapt&filters=HpDate%3a%2220230425_2200%22",
+            "title": "Chouette, deux hibous !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230425_GHOAudubonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0100dc8b51e1a4c574edec8008c3e51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230424",
             "fullstartdate": "202304242200",
