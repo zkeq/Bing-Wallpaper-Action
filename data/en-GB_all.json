@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-26 00:48:44",
-    "Total": 363,
+    "LastUpdate": "2023-04-27 00:48:46",
+    "Total": 364,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230426",
+            "fullstartdate": "202304262300",
+            "enddate": "20230427",
+            "url": "/th?id=OHR.SouthPadre_EN-GB5459420407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthPadre_EN-GB5459420407",
+            "copyright": "South Padre Island, Texas (© Jeff R Clow/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=South+Padre+Island&form=hpcapt&filters=HpDate%3a%2220230426_2300%22",
+            "title": "An endless stretch of sky",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230426_SouthPadre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a56b627cb959c82bbd8f29a729b412a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230425",
             "fullstartdate": "202304252300",
