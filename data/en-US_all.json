@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-26 00:48:27",
-    "Total": 364,
+    "LastUpdate": "2023-04-27 00:48:29",
+    "Total": 365,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230426",
+            "fullstartdate": "202304260700",
+            "enddate": "20230427",
+            "url": "/th?id=OHR.GHOAudubonDay_EN-US1034364185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GHOAudubonDay_EN-US1034364185",
+            "copyright": "Great horned owl fledglings (© Michael Morse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+horned+owl&form=hpcapt&filters=HpDate%3a%2220230426_0700%22",
+            "title": "Destined for greatness",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230426_GHOAudubonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fbc093640248580f483e996a3576103",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230425",
             "fullstartdate": "202304250700",
