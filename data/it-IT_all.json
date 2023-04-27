@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-26 00:48:58",
-    "Total": 364,
+    "LastUpdate": "2023-04-27 00:48:59",
+    "Total": 365,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230426",
+            "fullstartdate": "202304262200",
+            "enddate": "20230427",
+            "url": "/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227",
+            "copyright": "Alpe di Siusi, Dolomiti, Italia (© primeimages/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=L%27Alpe+di+Siusi+%C3%A8+un+altopiano&form=hpcapt",
+            "title": "La meraviglia fatta natura!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230426_ItalyDolomitesSeiserAlm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3be7be982bcc16479462e3fd26dba798",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230425",
             "fullstartdate": "202304252200",
