@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-27 00:48:24",
-    "Total": 365,
+    "LastUpdate": "2023-04-28 00:48:26",
+    "Total": 366,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230427",
+            "fullstartdate": "202304271600",
+            "enddate": "20230428",
+            "url": "/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MariposaGrove_ZH-CN8957145435",
+            "copyright": "优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E9%87%8C%E6%B3%A2%E8%90%A8%E8%B0%B7%E5%B7%A8%E6%9D%89%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "温暖的阳光穿过古老森林",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230427_MariposaGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1beaced6fe0d356b46b6d5656b927c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230426",
             "fullstartdate": "202304261600",
