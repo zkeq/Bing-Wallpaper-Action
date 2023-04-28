@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-27 00:48:33",
-    "Total": 365,
+    "LastUpdate": "2023-04-28 00:48:36",
+    "Total": 366,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230427",
+            "fullstartdate": "202304271500",
+            "enddate": "20230428",
+            "url": "/th?id=OHR.MariposaGrove_JA-JP1724100743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MariposaGrove_JA-JP1724100743",
+            "copyright": "ヨセミテ国立公園にあるマリポサグローブ, 米国 カリフォルニア州 (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AA%E3%83%9D%E3%82%B5%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96&form=hpcapt&filters=HpDate%3a%2220230427_1500%22",
+            "title": "今日は米国の植樹祭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230427_MariposaGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6afad573bc636546b619f8399bbcd76d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230426",
             "fullstartdate": "202304261500",
