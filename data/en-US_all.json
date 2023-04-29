@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-28 00:48:31",
-    "Total": 366,
+    "LastUpdate": "2023-04-29 00:48:10",
+    "Total": 367,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230428",
+            "fullstartdate": "202304280700",
+            "enddate": "20230429",
+            "url": "/th?id=OHR.MariposaGrove_EN-US0790407793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MariposaGrove_EN-US0790407793",
+            "copyright": "Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mariposa+Grove&form=hpcapt&filters=HpDate%3a%2220230428_0700%22",
+            "title": "The giants of Yosemite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230428_MariposaGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d37ff4b6eb53b8185705de65f78f2b2d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230427",
             "fullstartdate": "202304270700",
