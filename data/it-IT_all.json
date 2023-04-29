@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-28 00:49:02",
-    "Total": 366,
+    "LastUpdate": "2023-04-29 00:48:42",
+    "Total": 367,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230428",
+            "fullstartdate": "202304282200",
+            "enddate": "20230429",
+            "url": "/th?id=OHR.JTNPMilkyWay_IT-IT0241234588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JTNPMilkyWay_IT-IT0241234588",
+            "copyright": "La Via Lattea vista dal Parco Nazionale di Joshua Tree, California, Stati Uniti (© Schroptschop/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+di+Joshua+Tree+di+notte&form=hpcapt",
+            "title": "E questo paradiso stellato?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230428_JTNPMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1e7fd0d1a157f8537a3380503939a74",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230427",
             "fullstartdate": "202304272200",
