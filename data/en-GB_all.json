@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-04-30 00:48:49",
-    "Total": 367,
+    "LastUpdate": "2023-05-01 00:48:57",
+    "Total": 368,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230430",
+            "fullstartdate": "202304302300",
+            "enddate": "20230501",
+            "url": "/th?id=OHR.QuebecCityBridge_EN-GB5878837587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecCityBridge_EN-GB5878837587",
+            "copyright": "Quebec Bridge across the lower Saint Lawrence River, Canada (© Ronald Santerre/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Quebec+Bridge&form=hpcapt&filters=HpDate%3a%2220230430_2300%22",
+            "title": "Spanning the soft sunlight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230430_QuebecCityBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24dae8edd130c7e88a852d963d71b9d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230429",
             "fullstartdate": "202304292300",
