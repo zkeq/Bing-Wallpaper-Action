@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-01 00:49:09",
-    "Total": 369,
+    "LastUpdate": "2023-05-02 00:49:03",
+    "Total": 370,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230501",
+            "fullstartdate": "202305012200",
+            "enddate": "20230502",
+            "url": "/th?id=OHR.KlostersSerneus_IT-IT3251495028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KlostersSerneus_IT-IT3251495028",
+            "copyright": "I laghi di Jöriseen nelle Alpi del Silvretta, Svizzera (© Florin Baumann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alpi+del+Silvretta+laghi+J%C3%B6riseen&form=hpcapt",
+            "title": "Dove e cosa sono i Jöriseen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230501_KlostersSerneus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "46e4b9fb7d9c91877a68db151a4e802f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230430",
             "fullstartdate": "202304302200",
