@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-03 00:48:28",
-    "Total": 371,
+    "LastUpdate": "2023-05-04 00:49:14",
+    "Total": 372,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230503",
+            "fullstartdate": "202305032200",
+            "enddate": "20230504",
+            "url": "/th?id=OHR.RebelBase_DE-DE2573028901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RebelBase_DE-DE2573028901",
+            "copyright": "Maya-Ruinen in Tikal, Guatemala  (© THP Creative/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tikal+Ruinen+in+Guatemala&form=hpcapt&filters=HpDate%3a%2220230503_2200%22",
+            "title": "„Möge die Macht mit dir sein”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230503_RebelBase%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d300b00966c48f8667fc42674e6210f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230502",
             "fullstartdate": "202305022200",
