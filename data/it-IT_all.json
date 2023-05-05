@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-04 00:49:36",
-    "Total": 372,
+    "LastUpdate": "2023-05-05 00:48:39",
+    "Total": 373,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230504",
+            "fullstartdate": "202305042200",
+            "enddate": "20230505",
+            "url": "/th?id=OHR.Popocatepetl_IT-IT2263518716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Popocatepetl_IT-IT2263518716",
+            "copyright": "Chiesa di Nuestra Señora de los Remedios, Puebla, Messico (© Radius Images/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Piramide+e+Chiesa+della+nostra+Signora+dei+rimedi+Cholula&form=hpcapt",
+            "title": "Dalla vittoria alla celebrazione",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230504_Popocatepetl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae8bff9f1c92725d5bfae4265f3a1142",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230503",
             "fullstartdate": "202305032200",
