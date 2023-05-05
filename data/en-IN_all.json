@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-04 00:49:27",
-    "Total": 372,
+    "LastUpdate": "2023-05-05 00:48:30",
+    "Total": 373,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230504",
+            "fullstartdate": "202305041830",
+            "enddate": "20230505",
+            "url": "/th?id=OHR.Popocatepetl_EN-IN7907317303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Popocatepetl_EN-IN7907317303",
+            "copyright": "Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Church+of+Nuestra+Senora+de+los+Remedios&form=hpcapt&filters=HpDate%3a%2220230504_1830%22",
+            "title": "A church atop a hill",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230504_Popocatepetl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "da4b156525098acf2cbfb87dbc8a5867",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230503",
             "fullstartdate": "202305031830",
