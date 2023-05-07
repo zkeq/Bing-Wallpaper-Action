@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-06 00:48:15",
-    "Total": 374,
+    "LastUpdate": "2023-05-07 00:49:30",
+    "Total": 375,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230506",
+            "fullstartdate": "202305061600",
+            "enddate": "20230507",
+            "url": "/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealLaughing_ZH-CN5809094643",
+            "copyright": "海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%81%B0%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn",
+            "title": "什么事这么好笑？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "612007936ad08722b5ed523f4c051ea4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230505",
             "fullstartdate": "202305051600",
