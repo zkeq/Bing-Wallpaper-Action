@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-06 00:48:51",
-    "Total": 374,
+    "LastUpdate": "2023-05-07 00:50:06",
+    "Total": 375,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230506",
+            "fullstartdate": "202305062200",
+            "enddate": "20230507",
+            "url": "/th?id=OHR.SealLaughing_IT-IT6694983805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealLaughing_IT-IT6694983805",
+            "copyright": "Cucciolo di foca, isola di Lundy, Inghilterra (© Henley Spiers/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=La+foca+grigia&form=hpcapt",
+            "title": "Cosa c'è da ridere?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f6064073b95e5a6e759a3c79baab17b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230505",
             "fullstartdate": "202305052200",
