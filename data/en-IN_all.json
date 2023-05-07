@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-06 00:48:43",
-    "Total": 374,
+    "LastUpdate": "2023-05-07 00:49:57",
+    "Total": 375,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230506",
+            "fullstartdate": "202305061830",
+            "enddate": "20230507",
+            "url": "/th?id=OHR.SealLaughing_EN-IN5379477699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealLaughing_EN-IN5379477699",
+            "copyright": "Seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=gray+seal&form=hpcapt&filters=HpDate%3a%2220230506_1830%22",
+            "title": "What's so funny?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb3e78efb17ee34cbcec735788a25534",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230505",
             "fullstartdate": "202305051830",
