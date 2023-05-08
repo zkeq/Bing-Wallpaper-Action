@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-07 00:49:44",
-    "Total": 375,
+    "LastUpdate": "2023-05-08 00:48:29",
+    "Total": 376,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230507",
+            "fullstartdate": "202305072200",
+            "enddate": "20230508",
+            "url": "/th?id=OHR.TheChaps_DE-DE9445128977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TheChaps_DE-DE9445128977",
+            "copyright": "Delicate Arch, Arches Nationalpark, Utah, Vereinigte Staaten (© Mark Brodkin Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Arches+Nationalpark+Utah%2c+USA&form=hpcapt&filters=HpDate%3a%2220230507_2200%22",
+            "title": "Jahrhunderte Geschichte allein in diesem Bogen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230507_TheChaps%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a831d65a5513c9bf0c8887fa3ca754c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230506",
             "fullstartdate": "202305062200",
