@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-08 00:48:50",
-    "Total": 376,
+    "LastUpdate": "2023-05-09 00:49:23",
+    "Total": 377,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230508",
+            "fullstartdate": "202305082200",
+            "enddate": "20230509",
+            "url": "/th?id=OHR.Pompei_IT-IT4615926702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Pompei_IT-IT4615926702",
+            "copyright": "Rovine di Pompei, Campania (© Massimo Ripani/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Gli+scavi+di+Pompei+immagini&form=hpcapt",
+            "title": "Che è successo a questa città?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230508_Pompei%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2bb6b92bb81e181e1e1f451907ef5c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230507",
             "fullstartdate": "202305072200",
