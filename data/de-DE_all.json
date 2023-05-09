@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-08 00:48:29",
-    "Total": 376,
+    "LastUpdate": "2023-05-09 00:49:01",
+    "Total": 377,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230508",
+            "fullstartdate": "202305082200",
+            "enddate": "20230509",
+            "url": "/th?id=OHR.Atoll_DE-DE0099170564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Atoll_DE-DE0099170564",
+            "copyright": "Kauehi-Atoll, Tuamotu-Archipel, Französisch-Polynesien (© WaterFrame/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Kauehi-Atoll&form=hpcapt&filters=HpDate%3a%2220230508_2200%22",
+            "title": "Weißer Strand, kristallblaues Meer. Sind wir hier im Paradies?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230508_Atoll%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35b392b677177b973500b6b0ae5362fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230507",
             "fullstartdate": "202305072200",
