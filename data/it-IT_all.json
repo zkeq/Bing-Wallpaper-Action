@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-09 00:49:23",
-    "Total": 377,
+    "LastUpdate": "2023-05-10 00:48:56",
+    "Total": 378,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230509",
+            "fullstartdate": "202305092200",
+            "enddate": "20230510",
+            "url": "/th?id=OHR.CordouanLighthouse_IT-IT6579555278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CordouanLighthouse_IT-IT6579555278",
+            "copyright": "Faro di Cordouan, Royan, Charente, Francia (© FRTimelapse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+faro+di+Cordouan&form=hpcapt",
+            "title": "Un faro di luce dorata",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230509_CordouanLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb6bb1b9d41a8c24230eecf76fa70ebf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230508",
             "fullstartdate": "202305082200",
