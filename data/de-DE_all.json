@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-14 00:48:53",
-    "Total": 382,
+    "LastUpdate": "2023-05-15 00:48:33",
+    "Total": 383,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230514",
+            "fullstartdate": "202305142200",
+            "enddate": "20230515",
+            "url": "/th?id=OHR.MorroJable_DE-DE3676958507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MorroJable_DE-DE3676958507",
+            "copyright": "Morro Jable und Playa del Matorral, Fuerteventura, Kanarische Inseln, Spanien (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fuerteventura+Kanarische+Inseln&form=hpcapt&filters=HpDate%3a%2220230514_2200%22",
+            "title": "Eine Insel an der sich Kulturen kreuzen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230514_MorroJable%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "157ae62ea0471785623dc1b45f260bb2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230513",
             "fullstartdate": "202305132200",
