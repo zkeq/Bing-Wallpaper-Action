@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-15 00:48:55",
-    "Total": 383,
+    "LastUpdate": "2023-05-16 00:49:10",
+    "Total": 384,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230515",
+            "fullstartdate": "202305152200",
+            "enddate": "20230516",
+            "url": "/th?id=OHR.AmericanWetlands_IT-IT8776833543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmericanWetlands_IT-IT8776833543",
+            "copyright": "Pagaiare in canoa nell'Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=palude+okefenokee&form=hpcapt",
+            "title": "Acque serene su una \"terra tremante\"",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230515_AmericanWetlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c60a0712b0e6931ff7fd727e849985a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230514",
             "fullstartdate": "202305142200",
