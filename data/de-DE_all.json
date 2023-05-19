@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-18 00:48:49",
-    "Total": 386,
+    "LastUpdate": "2023-05-19 00:48:23",
+    "Total": 387,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230518",
+            "fullstartdate": "202305182200",
+            "enddate": "20230519",
+            "url": "/th?id=OHR.SumatranRhino_DE-DE8687965425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SumatranRhino_DE-DE8687965425",
+            "copyright": "Sumatra-Nashorn, Nationalpark Way Kambas, Indonesien (© Cyril Ruoso/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Sumatra-Nashorn&form=hpcapt&filters=HpDate%3a%2220230518_2200%22",
+            "title": "Wie können wir gefährdeten Tieren helfen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230518_SumatranRhino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f06cd5a5ec0e4c3d38d3ec1f1f83dab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230517",
             "fullstartdate": "202305172200",
