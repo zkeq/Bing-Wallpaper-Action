@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-20 00:48:44",
-    "Total": 388,
+    "LastUpdate": "2023-05-21 00:49:30",
+    "Total": 389,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230520",
+            "fullstartdate": "202305202200",
+            "enddate": "20230521",
+            "url": "/th?id=OHR.PontdArcole_IT-IT0136817375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontdArcole_IT-IT0136817375",
+            "copyright": "Fiume Senna, Parigi, Francia (© StockByM/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fiume+Senna&form=hpcapt",
+            "title": "Che fiume attraversa questo ponte?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230520_PontdArcole%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ac3c6f86eac5c9bca8b99c43ec013f1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230519",
             "fullstartdate": "202305192200",
