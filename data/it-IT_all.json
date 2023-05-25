@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-24 00:48:59",
-    "Total": 392,
+    "LastUpdate": "2023-05-25 00:48:40",
+    "Total": 393,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230524",
+            "fullstartdate": "202305242200",
+            "enddate": "20230525",
+            "url": "/th?id=OHR.OrvietoWell_IT-IT7164285597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrvietoWell_IT-IT7164285597",
+            "copyright": "Pozzo del Papa scala e finestra a doppia elica, Orvieto (© Ben Robson Hull Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pozzo+di+san+patrizio+orvieto&form=hpcapt",
+            "title": "Le scale a doppia elica del pozzo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230524_OrvietoWell%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "67c95bc059b9efd53d499f130f67a11e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230523",
             "fullstartdate": "202305232200",
