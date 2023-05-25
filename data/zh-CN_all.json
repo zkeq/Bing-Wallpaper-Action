@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-24 00:48:22",
-    "Total": 392,
+    "LastUpdate": "2023-05-25 00:48:04",
+    "Total": 393,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230524",
+            "fullstartdate": "202305241600",
+            "enddate": "20230525",
+            "url": "/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaksunFaroe_ZH-CN7150180006",
+            "copyright": "法罗群岛，丹麦 (© miroslav_1/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E7%BD%97%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "童话照进现实",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230524_SaksunFaroe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a943c8588c202c1a962b15a4ba21c550",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230523",
             "fullstartdate": "202305231600",
