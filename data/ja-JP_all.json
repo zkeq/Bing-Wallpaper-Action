@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-25 00:48:14",
-    "Total": 393,
+    "LastUpdate": "2023-05-26 00:48:21",
+    "Total": 394,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230525",
+            "fullstartdate": "202305251500",
+            "enddate": "20230526",
+            "url": "/th?id=OHR.WatSriSawai_JA-JP2219268493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WatSriSawai_JA-JP2219268493",
+            "copyright": "ワット・シー・サワイ, タイ (© Casper1774 Studio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220230525_1500%22",
+            "title": "タイの栄光を語るスコータイ歴史公園",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230525_WatSriSawai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ffa31d3eabc29a5ed78af77d38f7a5aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230524",
             "fullstartdate": "202305241500",
