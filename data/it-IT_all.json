@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-26 00:48:48",
-    "Total": 394,
+    "LastUpdate": "2023-05-27 00:49:16",
+    "Total": 395,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230526",
+            "fullstartdate": "202305262200",
+            "enddate": "20230527",
+            "url": "/th?id=OHR.AloeDichotomum_IT-IT2593431941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AloeDichotomum_IT-IT2593431941",
+            "copyright": "La vita delle piante in Namibia (© Fotofeeling/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=albero+faretra&form=hpcapt",
+            "title": "Che tipo di piante sono queste?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230526_AloeDichotomum%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4261050b66f30f1f44a43c0e2230312a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230525",
             "fullstartdate": "202305252200",
