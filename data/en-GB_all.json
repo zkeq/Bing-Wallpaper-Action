@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-26 00:48:35",
-    "Total": 393,
+    "LastUpdate": "2023-05-27 00:49:03",
+    "Total": 394,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230526",
+            "fullstartdate": "202305262300",
+            "enddate": "20230527",
+            "url": "/th?id=OHR.AloeDichotomum_EN-GB7507888619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AloeDichotomum_EN-GB7507888619",
+            "copyright": "Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=quiver+tree&form=hpcapt&filters=HpDate%3a%2220230526_2300%22",
+            "title": "Stretching to the sky",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230526_AloeDichotomum%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f30f452ff035a6058e3d16c9e7c36ae2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230525",
             "fullstartdate": "202305252300",
