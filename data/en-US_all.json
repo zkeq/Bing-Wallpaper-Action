@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-26 00:48:17",
-    "Total": 394,
+    "LastUpdate": "2023-05-27 00:48:46",
+    "Total": 395,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230526",
+            "fullstartdate": "202305260700",
+            "enddate": "20230527",
+            "url": "/th?id=OHR.WatSriSawai_EN-US3779091241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WatSriSawai_EN-US3779091241",
+            "copyright": "Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Wat+Sri+Sawai+Thailand&form=hpcapt&filters=HpDate%3a%2220230526_0700%22",
+            "title": "The splendors of Sukhothai",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230526_WatSriSawai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81f7a296e1b74f60401498f17c4371b0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230525",
             "fullstartdate": "202305250700",
