@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-27 00:49:16",
-    "Total": 395,
+    "LastUpdate": "2023-05-28 00:49:54",
+    "Total": 396,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230527",
+            "fullstartdate": "202305272200",
+            "enddate": "20230528",
+            "url": "/th?id=OHR.TegallalangTerrace_IT-IT1569351575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TegallalangTerrace_IT-IT1569351575",
+            "copyright": "Fattorie a terrazza di Tegallalang a Ubud, Indonesia  (© Cavan Images/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ubud+Indonesia&form=hpcapt",
+            "title": "Dove si trova questo intricato punto di riferimento?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230527_TegallalangTerrace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8fa78bb684c1b8776214c2987ae91761",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230526",
             "fullstartdate": "202305262200",
