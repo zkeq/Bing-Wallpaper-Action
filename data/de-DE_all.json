@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-27 00:48:55",
-    "Total": 395,
+    "LastUpdate": "2023-05-28 00:49:32",
+    "Total": 396,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230527",
+            "fullstartdate": "202305272200",
+            "enddate": "20230528",
+            "url": "/th?id=OHR.TegallalangTerrace_DE-DE5316253421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TegallalangTerrace_DE-DE5316253421",
+            "copyright": "Tegalalang-Terrassenbetriebe in Ubud, Indonesien (© Cavan Images/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ubud&form=hpcapt&filters=HpDate%3a%2220230527_2200%22",
+            "title": "Über Reisterrassen schweben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230527_TegallalangTerrace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "91a222be89eaadc346cc9a4246a10298",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230526",
             "fullstartdate": "202305262200",
