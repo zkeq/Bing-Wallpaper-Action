@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-29 00:49:17",
-    "Total": 397,
+    "LastUpdate": "2023-05-30 00:48:59",
+    "Total": 398,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230529",
+            "fullstartdate": "202305292200",
+            "enddate": "20230530",
+            "url": "/th?id=OHR.HiddenBeach_IT-IT5182417860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HiddenBeach_IT-IT5182417860",
+            "copyright": "Playa del Amor, Isole Marietas, Puerto Vallarta, Messico  (© ferrantraite/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Playa+del+Amor+Isole+Marieta+dove+si+trova&form=hpcapt",
+            "title": "Siamo stati in questo paradiso isolato?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230529_HiddenBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4283621de22bdf4cbad83b3311837d18",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230528",
             "fullstartdate": "202305282200",
