@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-29 00:48:41",
-    "Total": 397,
+    "LastUpdate": "2023-05-30 00:48:24",
+    "Total": 398,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230529",
+            "fullstartdate": "202305291600",
+            "enddate": "20230530",
+            "url": "/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HiddenBeach_ZH-CN8410568637",
+            "copyright": "埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%E5%9F%83%E5%A1%94%E6%96%AF%E7%BE%A4%E5%B2%9B%E5%9F%83%E8%8E%AB%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn",
+            "title": "墨西哥的隐秘海滩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230529_HiddenBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f28433d6e4a41f2c529001165a3126f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230528",
             "fullstartdate": "202305281600",
