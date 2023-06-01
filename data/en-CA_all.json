@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-05-31 00:48:59",
-    "Total": 398,
+    "LastUpdate": "2023-06-01 00:49:30",
+    "Total": 399,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230531",
+            "fullstartdate": "202305310400",
+            "enddate": "20230601",
+            "url": "/th?id=OHR.WorldOtterDay_EN-CA3068812460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WorldOtterDay_EN-CA3068812460",
+            "copyright": "Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=sea+otter&form=hpcapt&filters=HpDate%3a%2220230531_0400%22",
+            "title": "A curious little otter pup",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230531_WorldOtterDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9494cfa549b0cf02ebf20a6411563cac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230530",
             "fullstartdate": "202305300400",
