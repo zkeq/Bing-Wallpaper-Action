@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-01 00:49:21",
-    "Total": 400,
+    "LastUpdate": "2023-06-02 00:48:45",
+    "Total": 401,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230601",
+            "fullstartdate": "202306011500",
+            "enddate": "20230602",
+            "url": "/th?id=OHR.GemsbokNamibia_JA-JP7883114248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokNamibia_JA-JP7883114248",
+            "copyright": "砂丘にたたずむオリックス, ナミビア (© Sergey Gorshkov/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2+%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220230601_1500%22",
+            "title": "砂漠地帯で生き抜く不思議な動物",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_GemsbokNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2464cbb62c10d977e78d668ffda0f05f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230531",
             "fullstartdate": "202305311500",
