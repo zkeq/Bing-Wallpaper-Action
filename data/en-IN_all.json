@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-01 00:49:39",
-    "Total": 400,
+    "LastUpdate": "2023-06-02 00:49:03",
+    "Total": 401,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230601",
+            "fullstartdate": "202306011830",
+            "enddate": "20230602",
+            "url": "/th?id=OHR.TelenganaDay_EN-IN9741280835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TelenganaDay_EN-IN9741280835",
+            "copyright": "Charminar during Eid celebrations, Hyderabad, India (© Prudhvi Chowdary/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=charminar&form=hpcapt&filters=HpDate%3a%2220230601_1830%22",
+            "title": "A proud symbol of the City of Nizams",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_TelenganaDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22cb537b689ceedce5e5925488e36f1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230531",
             "fullstartdate": "202305311830",
