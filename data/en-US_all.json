@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-01 00:49:17",
-    "Total": 400,
+    "LastUpdate": "2023-06-02 00:48:41",
+    "Total": 401,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230601",
+            "fullstartdate": "202306010700",
+            "enddate": "20230602",
+            "url": "/th?id=OHR.ReefAwareness_EN-US4807167780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReefAwareness_EN-US4807167780",
+            "copyright": "Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Barrier+Reef&form=hpcapt&filters=HpDate%3a%2220230601_0700%22",
+            "title": "Blue as far as the eye can see",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_ReefAwareness%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e46daa34f22f8f6500d9825907854be5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230531",
             "fullstartdate": "202305310700",
