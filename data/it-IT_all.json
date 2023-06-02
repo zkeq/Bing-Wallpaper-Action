@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-01 00:49:48",
-    "Total": 400,
+    "LastUpdate": "2023-06-02 00:49:12",
+    "Total": 401,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230601",
+            "fullstartdate": "202306012200",
+            "enddate": "20230602",
+            "url": "/th?id=OHR.FestadellaRepubblica_IT-IT4688847105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestadellaRepubblica_IT-IT4688847105",
+            "copyright": "Festa della Repubblica Italiana, Roma, Italia (© Kiparisas/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Festa+della+repubblica+Italiana&form=hpcapt",
+            "title": "È già repubblica!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_FestadellaRepubblica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "932bffd8b57509a0195fce3398fb00fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230531",
             "fullstartdate": "202305312200",
