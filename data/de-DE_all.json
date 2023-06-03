@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:48:49",
-    "Total": 401,
+    "LastUpdate": "2023-06-03 00:49:10",
+    "Total": 402,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306022200",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.SouthKaibabTrail_DE-DE3610470806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthKaibabTrail_DE-DE3610470806",
+            "copyright": "South Kaibab Trail im Grand-Canyon-Nationalpark, Arizona, USA (© Roman Khomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+Nationalpark%2c+USA&form=hpcapt&filters=HpDate%3a%2220230602_2200%22",
+            "title": "Wo ist diese herrliche Aussicht?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_SouthKaibabTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8dfbd1f662dd57a1547ffe5a9c96e79",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306012200",
