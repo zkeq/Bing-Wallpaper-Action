@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:49:12",
-    "Total": 401,
+    "LastUpdate": "2023-06-03 00:49:31",
+    "Total": 402,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306022200",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.SouthKaibabTrail_IT-IT5648929650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthKaibabTrail_IT-IT5648929650",
+            "copyright": "Sentiero South Kaibab nel Parco Nazionale del Grand Canyon, Arizona, Stati Uniti (© Roman Khomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=dov%27%C3%A8+il+grand+canyon+&form=hpcapt",
+            "title": "Dov’è questo splendido panorama?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_SouthKaibabTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d34617c57d3ed4a9ad97a4423cbc149",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306012200",
