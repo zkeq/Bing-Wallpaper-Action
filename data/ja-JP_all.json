@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:48:45",
-    "Total": 401,
+    "LastUpdate": "2023-06-03 00:49:06",
+    "Total": 402,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306021500",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.SouthKaibabTrail_JA-JP4245325462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthKaibabTrail_JA-JP4245325462",
+            "copyright": "グランド・キャニオン国立公園, 米国 アリゾナ州 (© Roman Khomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230602_1500%22",
+            "title": "今日は米国のトレイルデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_SouthKaibabTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3a6053c237da115a4b16f1c8d170e1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306011500",
