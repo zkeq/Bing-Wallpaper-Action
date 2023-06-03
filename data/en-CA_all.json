@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:48:54",
-    "Total": 400,
+    "LastUpdate": "2023-06-03 00:49:14",
+    "Total": 401,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306020400",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.GemsbokNamibia_EN-CA6914215947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokNamibia_EN-CA6914215947",
+            "copyright": "Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=gemsbok&form=hpcapt&filters=HpDate%3a%2220230602_0400%22",
+            "title": "Surrounded by a sea of sand",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_GemsbokNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "957103f48ee200949e41a75c5bf32bee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306010400",
