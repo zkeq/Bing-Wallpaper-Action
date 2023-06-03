@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:49:08",
-    "Total": 401,
+    "LastUpdate": "2023-06-03 00:49:27",
+    "Total": 402,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306022200",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.SouthKaibabTrail_FR-FR1870154872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthKaibabTrail_FR-FR1870154872",
+            "copyright": "Sentier Kaibab Sud dans le Parc National du Grand Canyon, Arizona, États-Unis (© Roman Khomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=grand+canyon&form=hpcapt&filters=HpDate%3a%2220230602_2200%22",
+            "title": "Un canyon mythique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_SouthKaibabTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89bb3896e0d8820808fc831c986eefcb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306012200",
