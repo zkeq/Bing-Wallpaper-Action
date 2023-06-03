@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-02 00:48:41",
-    "Total": 401,
+    "LastUpdate": "2023-06-03 00:49:02",
+    "Total": 402,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230602",
+            "fullstartdate": "202306020700",
+            "enddate": "20230603",
+            "url": "/th?id=OHR.GemsbokNamibia_EN-US7844189674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokNamibia_EN-US7844189674",
+            "copyright": "Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=gemsbok&form=hpcapt&filters=HpDate%3a%2220230602_0700%22",
+            "title": "Hello? Anybody else out here?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_GemsbokNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0cbc720873e2e85e96680bd23aaddede",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230601",
             "fullstartdate": "202306010700",
