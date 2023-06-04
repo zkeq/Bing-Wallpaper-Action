@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-03 00:49:02",
-    "Total": 402,
+    "LastUpdate": "2023-06-04 00:49:30",
+    "Total": 403,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230603",
+            "fullstartdate": "202306030700",
+            "enddate": "20230604",
+            "url": "/th?id=OHR.SouthKaibabTrail_EN-US7932080032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthKaibabTrail_EN-US7932080032",
+            "copyright": "South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=grand+canyon&form=hpcapt&filters=HpDate%3a%2220230603_0700%22",
+            "title": "A glimpse of the grandest of canyons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230603_SouthKaibabTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e237c5e80e74c396d5d6c37480d546b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230602",
             "fullstartdate": "202306020700",
