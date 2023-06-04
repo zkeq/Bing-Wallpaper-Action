@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-03 00:49:06",
-    "Total": 402,
+    "LastUpdate": "2023-06-04 00:49:35",
+    "Total": 403,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230603",
+            "fullstartdate": "202306031500",
+            "enddate": "20230604",
+            "url": "/th?id=OHR.MauiBeach_JA-JP8405948672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiBeach_JA-JP8405948672",
+            "copyright": "ワイアナパナパ州立公園, 米国 ハワイ州 (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%8A%E3%83%91%E3%83%8A%E3%83%91%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230603_1500%22",
+            "title": "熱帯の楽園の黒い砂浜",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230603_MauiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e0db11a10b2807db83422bd6453a127",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230602",
             "fullstartdate": "202306021500",
