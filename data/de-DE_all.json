@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-03 00:49:10",
-    "Total": 402,
+    "LastUpdate": "2023-06-04 00:49:39",
+    "Total": 403,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230603",
+            "fullstartdate": "202306032200",
+            "enddate": "20230604",
+            "url": "/th?id=OHR.MauiBeach_DE-DE6881454131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiBeach_DE-DE6881454131",
+            "copyright": "Schwarzer Sandstrand, Wai'anapanapa State Park, Maui, Hawaii, USA (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wai%27anapanapa%2c+Hawaii&form=hpcapt&filters=HpDate%3a%2220230603_2200%22",
+            "title": "Schwarzer Sand im tropischen Paradies",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230603_MauiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "09f184dd487c207333775e1bd483e168",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230602",
             "fullstartdate": "202306022200",
