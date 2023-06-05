@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-04 00:49:35",
-    "Total": 403,
+    "LastUpdate": "2023-06-05 00:48:54",
+    "Total": 404,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230604",
+            "fullstartdate": "202306041500",
+            "enddate": "20230605",
+            "url": "/th?id=OHR.PlasticParrotfish_JA-JP8663724178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlasticParrotfish_JA-JP8663724178",
+            "copyright": "プラスチックごみで構成されたインスタレーション (© Michael Siluk/UCG/Universal Images Group via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E6%B4%8B%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%94%E3%81%BF&form=hpcapt&filters=HpDate%3a%2220230604_1500%22",
+            "title": "今日は世界環境デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230604_PlasticParrotfish%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1d9960387153383c64dd7f30d818d5f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230603",
             "fullstartdate": "202306031500",
