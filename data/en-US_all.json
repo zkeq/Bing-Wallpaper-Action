@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-04 00:49:30",
-    "Total": 403,
+    "LastUpdate": "2023-06-05 00:48:49",
+    "Total": 404,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230604",
+            "fullstartdate": "202306040700",
+            "enddate": "20230605",
+            "url": "/th?id=OHR.MauiBeach_EN-US7999098369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MauiBeach_EN-US7999098369",
+            "copyright": "Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=waianapanapa+state+park&form=hpcapt&filters=HpDate%3a%2220230604_0700%22",
+            "title": "Maui's volcanic shores",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230604_MauiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d4c6597b1aae68abc7a2ec5fc586dd4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230603",
             "fullstartdate": "202306030700",
