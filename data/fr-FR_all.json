@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-04 00:49:57",
-    "Total": 403,
+    "LastUpdate": "2023-06-05 00:49:16",
+    "Total": 404,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230604",
+            "fullstartdate": "202306042200",
+            "enddate": "20230605",
+            "url": "/th?id=OHR.PlasticParrotfish_FR-FR2781868476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlasticParrotfish_FR-FR2781868476",
+            "copyright": "Œuvre d’art” Priscilla the Parrotfish\", Como Park, St. Paul, Minnesota, États-Unis (© Michael Siluk/UCG/Universal Images Group via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+de+l%27environnement&form=hpcapt&filters=HpDate%3a%2220230604_2200%22",
+            "title": "Devinez avec quel matériel a été construite cette œuvre colorée ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230604_PlasticParrotfish%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "263db2e5f39606d3f790b137d07c68d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230603",
             "fullstartdate": "202306032200",
