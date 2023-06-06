@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-05 00:48:58",
-    "Total": 404,
+    "LastUpdate": "2023-06-06 00:50:09",
+    "Total": 405,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230605",
+            "fullstartdate": "202306052200",
+            "enddate": "20230606",
+            "url": "/th?id=OHR.CliffsEtretat_DE-DE8092248382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CliffsEtretat_DE-DE8092248382",
+            "copyright": "Küste von Étretat, Normandie, Frankreich (© MarcelloLand/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Normandie&form=hpcapt&filters=HpDate%3a%2220230605_2200%22",
+            "title": "Erinnerung an den D-Day",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_CliffsEtretat%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96b924c20f82578e8c6bfcb0cf85807e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230604",
             "fullstartdate": "202306042200",
