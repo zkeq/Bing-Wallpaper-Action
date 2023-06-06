@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-05 00:49:20",
-    "Total": 404,
+    "LastUpdate": "2023-06-06 00:50:31",
+    "Total": 405,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230605",
+            "fullstartdate": "202306052200",
+            "enddate": "20230606",
+            "url": "/th?id=OHR.CliffsEtretat_IT-IT8813187873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CliffsEtretat_IT-IT8813187873",
+            "copyright": "Le falesie di Etretat, Normandia, Francia (© MarcelloLand/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Le+falesie+di+Etretat+cosa+sono&form=hpcapt",
+            "title": "Dove si trovano queste scogliere?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_CliffsEtretat%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e06519f4fd8ff16059d595db4c219322",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230604",
             "fullstartdate": "202306042200",
