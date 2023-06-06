@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-05 00:48:54",
-    "Total": 404,
+    "LastUpdate": "2023-06-06 00:50:04",
+    "Total": 405,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230605",
+            "fullstartdate": "202306051500",
+            "enddate": "20230606",
+            "url": "/th?id=OHR.Mangzhong2023_JA-JP8970616377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Mangzhong2023_JA-JP8970616377",
+            "copyright": "森の中で輝く蛍たち (© Trevor Williams/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A3%AE%E3%81%AE%E8%9B%8D&form=hpcapt&filters=HpDate%3a%2220230605_1500%22",
+            "title": "今日は芒種",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_Mangzhong2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51c5164c953c6ab5cf73f600885a7dca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230604",
             "fullstartdate": "202306041500",
