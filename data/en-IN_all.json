@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-05 00:49:12",
-    "Total": 404,
+    "LastUpdate": "2023-06-06 00:50:22",
+    "Total": 405,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230605",
+            "fullstartdate": "202306051830",
+            "enddate": "20230606",
+            "url": "/th?id=OHR.CliffsEtretat_EN-IN0698688174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CliffsEtretat_EN-IN0698688174",
+            "copyright": "The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chalk+cliffs+of+Etretat+in+Normandy&form=hpcapt&filters=HpDate%3a%2220230605_1830%22",
+            "title": "Where are these magnificent cliffs?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_CliffsEtretat%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c35c2baae6877a507ae6af2ec01dbd0e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230604",
             "fullstartdate": "202306041830",
