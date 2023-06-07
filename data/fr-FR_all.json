@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-06 00:50:26",
-    "Total": 405,
+    "LastUpdate": "2023-06-07 00:49:57",
+    "Total": 406,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230606",
+            "fullstartdate": "202306062200",
+            "enddate": "20230607",
+            "url": "/th?id=OHR.ChacoCulture_FR-FR3333828021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChacoCulture_FR-FR3333828021",
+            "copyright": "Pueblo Bonito, parc du Chaco Culture, Nouveau Mexique, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Chaco+Culture+nouveau+mexique&form=hpcapt&filters=HpDate%3a%2220230606_2200%22",
+            "title": "Des vestiges hors du temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230606_ChacoCulture%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4caad64173d7c92a355633be83899c63",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230605",
             "fullstartdate": "202306052200",
