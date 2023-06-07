@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-06 00:50:04",
-    "Total": 405,
+    "LastUpdate": "2023-06-07 00:49:35",
+    "Total": 406,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230606",
+            "fullstartdate": "202306061500",
+            "enddate": "20230607",
+            "url": "/th?id=OHR.ChacoCulture_JA-JP9246689243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChacoCulture_JA-JP9246689243",
+            "copyright": "チャコ文化国立歴史公園, 米国 ニューメキシコ州 (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%82%B3%E6%96%87%E5%8C%96%E5%9B%BD%E7%AB%8B%E6%AD%B4%E5%8F%B2%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230606_1500%22",
+            "title": "砂漠にある神秘的な遺跡",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230606_ChacoCulture%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "881f786a702d8b9ab82595d85890a746",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230605",
             "fullstartdate": "202306051500",
