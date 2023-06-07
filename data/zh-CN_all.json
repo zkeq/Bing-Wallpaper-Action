@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-06 00:49:55",
-    "Total": 405,
+    "LastUpdate": "2023-06-07 00:49:25",
+    "Total": 406,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230606",
+            "fullstartdate": "202306061600",
+            "enddate": "20230607",
+            "url": "/th?id=OHR.ChacoCulture_ZH-CN2098865361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChacoCulture_ZH-CN2098865361",
+            "copyright": "普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州 (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9F%A5%E7%A7%91%E6%96%87%E5%8C%96%E5%9B%BD%E5%AE%B6%E5%8E%86%E5%8F%B2%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "如果这些墙会说话······",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230606_ChacoCulture%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c703d3e9c3837311a421e8dc44db7f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230605",
             "fullstartdate": "202306051600",
