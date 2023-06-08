@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-07 00:49:25",
-    "Total": 406,
+    "LastUpdate": "2023-06-08 00:48:37",
+    "Total": 407,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230607",
+            "fullstartdate": "202306071600",
+            "enddate": "20230608",
+            "url": "/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayfulHumpback_ZH-CN2241016258",
+            "copyright": "座头鲸 (© Philip Thurston/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "座头鲸唱歌的地方",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f4ddf2a35ac95197d3463aeed7b7249",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230606",
             "fullstartdate": "202306061600",
