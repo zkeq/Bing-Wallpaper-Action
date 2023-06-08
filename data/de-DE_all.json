@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-07 00:49:39",
-    "Total": 406,
+    "LastUpdate": "2023-06-08 00:48:51",
+    "Total": 407,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230607",
+            "fullstartdate": "202306072200",
+            "enddate": "20230608",
+            "url": "/th?id=OHR.PlayfulHumpback_DE-DE4104793691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayfulHumpback_DE-DE4104793691",
+            "copyright": "Buckelwal (© Philip Thurston/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220230607_2200%22",
+            "title": "Dort, wo der Buckelwal singt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b1c22eedf01d85644409e86ab2f26805",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230606",
             "fullstartdate": "202306062200",
