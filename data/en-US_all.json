@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-07 00:49:30",
-    "Total": 406,
+    "LastUpdate": "2023-06-08 00:48:43",
+    "Total": 407,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230607",
+            "fullstartdate": "202306070700",
+            "enddate": "20230608",
+            "url": "/th?id=OHR.ChacoCulture_EN-US8179442556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChacoCulture_EN-US8179442556",
+            "copyright": "Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Chaco+Culture+National+Historical+Park&form=hpcapt&filters=HpDate%3a%2220230607_0700%22",
+            "title": "If these walls could talk...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_ChacoCulture%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3344c864aff234868bc167484f3c5330",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230606",
             "fullstartdate": "202306060700",
