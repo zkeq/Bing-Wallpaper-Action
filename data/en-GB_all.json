@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-07 00:49:48",
-    "Total": 405,
+    "LastUpdate": "2023-06-08 00:49:00",
+    "Total": 406,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230607",
+            "fullstartdate": "202306072300",
+            "enddate": "20230608",
+            "url": "/th?id=OHR.PlayfulHumpback_EN-GB9991991463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayfulHumpback_EN-GB9991991463",
+            "copyright": "Humpback whale (© Philip Thurston/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Humpback+whale&form=hpcapt&filters=HpDate%3a%2220230607_2300%22",
+            "title": "Where the humpback whale sings",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e0d1cc3acbbdbc6d781501438d16f2f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230606",
             "fullstartdate": "202306062300",
