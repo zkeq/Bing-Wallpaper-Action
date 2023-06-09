@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-08 00:48:47",
-    "Total": 407,
+    "LastUpdate": "2023-06-09 00:49:03",
+    "Total": 408,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230608",
+            "fullstartdate": "202306081500",
+            "enddate": "20230609",
+            "url": "/th?id=OHR.BalloonsTurkey_JA-JP9770662368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonsTurkey_JA-JP9770662368",
+            "copyright": "カッパドキア, トルコ (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220230608_1500%22",
+            "title": "カッパドキアの上空を飛行する気球",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230608_BalloonsTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "254cedeba3a71296df8f08961e80ae7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230607",
             "fullstartdate": "202306071500",
