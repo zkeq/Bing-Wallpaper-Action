@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-08 00:49:00",
-    "Total": 406,
+    "LastUpdate": "2023-06-09 00:49:16",
+    "Total": 407,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230608",
+            "fullstartdate": "202306082300",
+            "enddate": "20230609",
+            "url": "/th?id=OHR.BalloonsTurkey_EN-GB0119846047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonsTurkey_EN-GB0119846047",
+            "copyright": "Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cappadocia&form=hpcapt&filters=HpDate%3a%2220230608_2300%22",
+            "title": "Rising with the sun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230608_BalloonsTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1ffb3a4c98f5eedd7c85a32624afc60",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230607",
             "fullstartdate": "202306072300",
