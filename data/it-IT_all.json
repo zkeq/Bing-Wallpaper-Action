@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-10 00:49:02",
-    "Total": 409,
+    "LastUpdate": "2023-06-11 00:50:39",
+    "Total": 410,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230610",
+            "fullstartdate": "202306102200",
+            "enddate": "20230611",
+            "url": "/th?id=OHR.GoliathHeron_IT-IT7577072381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoliathHeron_IT-IT7577072381",
+            "copyright": "Airone golia, Parco nazionale di Kruger, Sudafrica (© Johan Swanepoel/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=airone+golia&form=hpcapt",
+            "title": "Mimetizzati e caccia!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230610_GoliathHeron%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b140d56ded61c4eb21095a6e4ec866dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230609",
             "fullstartdate": "202306092200",
