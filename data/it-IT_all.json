@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-11 00:50:39",
-    "Total": 410,
+    "LastUpdate": "2023-06-12 00:49:35",
+    "Total": 411,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230611",
+            "fullstartdate": "202306112200",
+            "enddate": "20230612",
+            "url": "/th?id=OHR.BigBendAnniv_IT-IT0010435736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendAnniv_IT-IT0010435736",
+            "copyright": "Pianta di fico d'India, Parco Nazionale di Big Bend, Texas, Stati Uniti (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+di+big+bend+dov%27%C3%A8+&form=hpcapt",
+            "title": "Il compleanno del Parco di Big Bend",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230611_BigBendAnniv%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63d98614c5bf592a8cd4f0120aa46a2b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230610",
             "fullstartdate": "202306102200",
