@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-11 00:50:35",
-    "Total": 410,
+    "LastUpdate": "2023-06-12 00:49:31",
+    "Total": 411,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230611",
+            "fullstartdate": "202306112200",
+            "enddate": "20230612",
+            "url": "/th?id=OHR.BigBendAnniv_FR-FR4667898386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendAnniv_FR-FR4667898386",
+            "copyright": "Figuier de barbarie, Parc National de Big Bend, Texas, États-Unis (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+de+big+bend&form=hpcapt&filters=HpDate%3a%2220230611_2200%22",
+            "title": "C’est l’anniversaire de Big Bend !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230611_BigBendAnniv%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e36ba274ca37d326fa536dd575c0ff60",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230610",
             "fullstartdate": "202306102200",
