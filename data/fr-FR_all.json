@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-12 00:49:31",
-    "Total": 411,
+    "LastUpdate": "2023-06-13 00:49:47",
+    "Total": 412,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230612",
+            "fullstartdate": "202306122200",
+            "enddate": "20230613",
+            "url": "/th?id=OHR.OkefenokeeSwamp_FR-FR4899553604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OkefenokeeSwamp_FR-FR4899553604",
+            "copyright": "Mousse espagnole le long de la promenade dans le marais d'Okefenokee, Géorgie, États-Unis (© Emmer Photo/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=marais+okefenokee&form=hpcapt&filters=HpDate%3a%2220230612_2200%22",
+            "title": "Osez vous aventurer dans ce marais !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230612_OkefenokeeSwamp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "05f405aafbdf3a773c4b627a71ed4f59",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230611",
             "fullstartdate": "202306112200",
