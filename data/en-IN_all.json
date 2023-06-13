@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-12 00:49:26",
-    "Total": 411,
+    "LastUpdate": "2023-06-13 00:49:42",
+    "Total": 412,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230612",
+            "fullstartdate": "202306121830",
+            "enddate": "20230613",
+            "url": "/th?id=OHR.OkefenokeeSwamp_EN-IN7944133748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OkefenokeeSwamp_EN-IN7944133748",
+            "copyright": "Spanish moss trees over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Okefenokee+Swamp&form=hpcapt&filters=HpDate%3a%2220230612_1830%22",
+            "title": "Dare to delve into this dense swamp",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230612_OkefenokeeSwamp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43df6ef0a8c67e6461d1833f16ffe5b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230611",
             "fullstartdate": "202306111830",
