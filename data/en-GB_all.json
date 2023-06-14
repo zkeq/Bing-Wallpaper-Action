@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-13 00:49:37",
-    "Total": 411,
+    "LastUpdate": "2023-06-14 00:49:07",
+    "Total": 412,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230613",
+            "fullstartdate": "202306132300",
+            "enddate": "20230614",
+            "url": "/th?id=OHR.BrightonPalacePier_EN-GB0672120721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrightonPalacePier_EN-GB0672120721",
+            "copyright": "Brighton Pier at sunset, England, UK (© Peppy Graphics/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Brighton+Palace+Pier&form=hpcapt&filters=HpDate%3a%2220230613_2300%22",
+            "title": "Rides above the tide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230613_BrightonPalacePier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d4cf191ccbc78328f09f1294844b116",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230612",
             "fullstartdate": "202306122300",
