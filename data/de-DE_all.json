@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-14 00:48:58",
-    "Total": 413,
+    "LastUpdate": "2023-06-15 00:48:42",
+    "Total": 414,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230614",
+            "fullstartdate": "202306142200",
+            "enddate": "20230615",
+            "url": "/th?id=OHR.SmokyFireflies_DE-DE9996840868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmokyFireflies_DE-DE9996840868",
+            "copyright": "Synchrone Leuchtkäfer, Great-Smoky-Mountains-Nationalpark, Tennessee, USA (© Floris Van Bruegel/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Leuchtk%C3%A4fer&form=hpcapt&filters=HpDate%3a%2220230614_2200%22",
+            "title": "Magische Nacht der Glühwürmchen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230614_SmokyFireflies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a85b73d4d659a32c305822f089327c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230613",
             "fullstartdate": "202306132200",
