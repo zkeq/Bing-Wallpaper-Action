@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-15 00:48:46",
-    "Total": 413,
+    "LastUpdate": "2023-06-16 00:48:46",
+    "Total": 414,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230615",
+            "fullstartdate": "202306150400",
+            "enddate": "20230616",
+            "url": "/th?id=OHR.SmokyFireflies_EN-CA2162258786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmokyFireflies_EN-CA2162258786",
+            "copyright": "Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Fireflies&form=hpcapt&filters=HpDate%3a%2220230615_0400%22",
+            "title": "Twinkle twinkle, little bugs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_SmokyFireflies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d98cc67d3532e8690133ff8e0027b623",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230614",
             "fullstartdate": "202306140400",
