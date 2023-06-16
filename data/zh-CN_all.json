@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-15 00:48:28",
-    "Total": 414,
+    "LastUpdate": "2023-06-16 00:48:27",
+    "Total": 415,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230615",
+            "fullstartdate": "202306151600",
+            "enddate": "20230616",
+            "url": "/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawksbillTurtle_ZH-CN0562063994",
+            "copyright": "游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%B9%B0%E5%98%B4%E6%B5%B7%E9%BE%9F&form=hpcapt&mkt=zh-cn",
+            "title": "鹰嘴海龟",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_HawksbillTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f77936405fc0468dcfa09065a1472821",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230614",
             "fullstartdate": "202306141600",
