@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-16 00:48:46",
-    "Total": 414,
+    "LastUpdate": "2023-06-17 00:48:41",
+    "Total": 415,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230616",
+            "fullstartdate": "202306160400",
+            "enddate": "20230617",
+            "url": "/th?id=OHR.HawksbillTurtle_EN-CA4618217864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawksbillTurtle_EN-CA4618217864",
+            "copyright": "Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hawksbill+Sea+Turtle+&form=hpcapt&filters=HpDate%3a%2220230616_0400%22",
+            "title": "Shell-ebrating sea turtles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230616_HawksbillTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c96650fbe4d981950115e32544dd7f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230615",
             "fullstartdate": "202306150400",
