@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-16 00:48:59",
-    "Total": 415,
+    "LastUpdate": "2023-06-17 00:48:54",
+    "Total": 416,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230616",
+            "fullstartdate": "202306162200",
+            "enddate": "20230617",
+            "url": "/th?id=OHR.SurfSanDiego_FR-FR5933823345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SurfSanDiego_FR-FR5933823345",
+            "copyright": "« Pagaie pour la solidarité » à San Diego, Californie, États-Unis (© Brandon Colbert Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=sport+nautique+&form=hpcapt&filters=HpDate%3a%2220230616_2200%22",
+            "title": "Surf power !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230616_SurfSanDiego%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83259917adc6087e7da650f44ee8ec87",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230615",
             "fullstartdate": "202306152200",
