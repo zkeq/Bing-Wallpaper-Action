@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-16 00:48:55",
-    "Total": 415,
+    "LastUpdate": "2023-06-17 00:48:50",
+    "Total": 416,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230616",
+            "fullstartdate": "202306161830",
+            "enddate": "20230617",
+            "url": "/th?id=OHR.HampiTemple_EN-IN8875081235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HampiTemple_EN-IN8875081235",
+            "copyright": "Aerial View of Achyutaraya temple, Hampi, India (© ImagesofIndia/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=achyutaraya+temple&form=hpcapt&filters=HpDate%3a%2220230616_1830%22",
+            "title": "Revered ruins",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230616_HampiTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9af28eb4bd0e96c222f010186ec8cd54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230615",
             "fullstartdate": "202306151830",
