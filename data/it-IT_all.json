@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-16 00:49:03",
-    "Total": 415,
+    "LastUpdate": "2023-06-17 00:48:58",
+    "Total": 416,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230616",
+            "fullstartdate": "202306162200",
+            "enddate": "20230617",
+            "url": "/th?id=OHR.SurfSanDiego_IT-IT5610851115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SurfSanDiego_IT-IT5610851115",
+            "copyright": "Il “Pagaiare per l'unità” di San Diego, California, USA  (© Brandon Colbert Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=giornata+internazionale+del+surf+cos%27%C3%A8+&form=hpcapt",
+            "title": "Il potere della pagaia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230616_SurfSanDiego%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2592d8d194d1cf2927ee2fc5ac74a0c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230615",
             "fullstartdate": "202306152200",
