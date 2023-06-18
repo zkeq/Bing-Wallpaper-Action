@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-17 00:48:32",
-    "Total": 416,
+    "LastUpdate": "2023-06-18 00:49:06",
+    "Total": 417,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230617",
+            "fullstartdate": "202306171500",
+            "enddate": "20230618",
+            "url": "/th?id=OHR.TernFather_JA-JP1363160491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TernFather_JA-JP1363160491",
+            "copyright": "ニッカーソン・ビーチ・パークの仲睦まじいアジサシの親子, 米国 ニューヨーク州 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%B8%E3%82%B5%E3%82%B7%E3%81%AE%E8%A6%AA%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220230617_1500%22",
+            "title": "今日は父の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230617_TernFather%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8c19b71ebf86fa72b0e34b13f9ccd7f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230616",
             "fullstartdate": "202306161500",
