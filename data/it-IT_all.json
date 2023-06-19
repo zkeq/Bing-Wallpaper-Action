@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-18 00:49:33",
-    "Total": 417,
+    "LastUpdate": "2023-06-19 00:49:16",
+    "Total": 418,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230618",
+            "fullstartdate": "202306182200",
+            "enddate": "20230619",
+            "url": "/th?id=OHR.Fawn_IT-IT6416189711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fawn_IT-IT6416189711",
+            "copyright": "Piccolo di capriolo che corre sull'erba in Normandia, Francia (© Gerard Lacz/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=Capriolo&form=hpcapt",
+            "title": "Eccoci qua!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_Fawn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "998c439b7505960d29c027456a717b3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230617",
             "fullstartdate": "202306172200",
