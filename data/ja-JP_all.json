@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-18 00:49:06",
-    "Total": 417,
+    "LastUpdate": "2023-06-19 00:48:50",
+    "Total": 418,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230618",
+            "fullstartdate": "202306181500",
+            "enddate": "20230619",
+            "url": "/th?id=OHR.QuebecCityBridge_JA-JP1534549481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecCityBridge_JA-JP1534549481",
+            "copyright": "ケベック橋, カナダ ケベック州 (© Ronald Santerre/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E6%A9%8B%E3%80%80%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220230618_1500%22",
+            "title": "柔らかい日差しを浴びる巨大な橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_QuebecCityBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f26b14c5e530ad7cd8e5b56dfc1e37a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230617",
             "fullstartdate": "202306171500",
