@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-18 00:48:56",
-    "Total": 417,
+    "LastUpdate": "2023-06-19 00:48:40",
+    "Total": 418,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230618",
+            "fullstartdate": "202306181600",
+            "enddate": "20230619",
+            "url": "/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fawn_ZH-CN2172152960",
+            "copyright": "奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8B%8D&form=hpcapt&mkt=zh-cn",
+            "title": "这只小可爱在哪里?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_Fawn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1591ca2e8e8c12e215b4b433412a00e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230617",
             "fullstartdate": "202306171600",
