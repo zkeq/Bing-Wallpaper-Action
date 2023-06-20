@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-19 00:48:54",
-    "Total": 418,
+    "LastUpdate": "2023-06-20 00:48:40",
+    "Total": 419,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230619",
+            "fullstartdate": "202306192200",
+            "enddate": "20230620",
+            "url": "/th?id=OHR.EagleTree_DE-DE3991605617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EagleTree_DE-DE3991605617",
+            "copyright": "Weißkopfseeadler, Tongass National Forest, Alaska, USA (© Jaynes Gallery/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Wei%C3%9Fkopfseeadler&form=hpcapt&filters=HpDate%3a%2220230619_2200%22",
+            "title": "Der Herr der Lüfte!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230619_EagleTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42f7b8dc1e9ed39878e67426af16723f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230618",
             "fullstartdate": "202306182200",
