@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-19 00:48:45",
-    "Total": 418,
+    "LastUpdate": "2023-06-20 00:48:31",
+    "Total": 419,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230619",
+            "fullstartdate": "202306190700",
+            "enddate": "20230620",
+            "url": "/th?id=OHR.SanFranHall_EN-US0993956473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanFranHall_EN-US0993956473",
+            "copyright": "City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=juneteenth&form=hpcapt&filters=HpDate%3a%2220230619_0700%22",
+            "title": "Happy Juneteenth!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230619_SanFranHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a488f138740b42592e11e4a20689f18c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230618",
             "fullstartdate": "202306180700",
