@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-19 00:49:16",
-    "Total": 418,
+    "LastUpdate": "2023-06-20 00:49:02",
+    "Total": 419,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230619",
+            "fullstartdate": "202306192200",
+            "enddate": "20230620",
+            "url": "/th?id=OHR.EagleTree_IT-IT7463150874_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EagleTree_IT-IT7463150874",
+            "copyright": "Aquila di mare testabianca, Foresta Nazionale di Tongass, Alaska (© Jaynes Gallery/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=haliaeetus+leucocephalus&form=hpcapt",
+            "title": "Celebrando un'icona americana",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230619_EagleTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f065883e81608f40a8f42c6185c994cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230618",
             "fullstartdate": "202306182200",
