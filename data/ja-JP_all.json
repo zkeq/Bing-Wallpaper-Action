@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-19 00:48:50",
-    "Total": 418,
+    "LastUpdate": "2023-06-20 00:48:36",
+    "Total": 419,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230619",
+            "fullstartdate": "202306191500",
+            "enddate": "20230620",
+            "url": "/th?id=OHR.EagleTree_JA-JP2152046616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EagleTree_JA-JP2152046616",
+            "copyright": "トンガス国立森林公園のハクトウワシ, 米国 アラスカ州 (© Jaynes Gallery/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%82%AF%E3%83%88%E3%82%A6%E3%83%AF%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220230619_1500%22",
+            "title": "今日は米国のイーグルデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230619_EagleTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94c262e8d40c5bde9c90e0c0857e25b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230618",
             "fullstartdate": "202306181500",
