@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-19 00:49:11",
-    "Total": 418,
+    "LastUpdate": "2023-06-20 00:48:58",
+    "Total": 419,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230619",
+            "fullstartdate": "202306192200",
+            "enddate": "20230620",
+            "url": "/th?id=OHR.EagleTree_FR-FR7274315529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EagleTree_FR-FR7274315529",
+            "copyright": "Pygargue à tête blanche, forêt nationale de Tongass, Alaska, États-Unis (© Jaynes Gallery/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=pygargue+%C3%A0+t%C3%AAte+blanche&form=hpcapt&filters=HpDate%3a%2220230619_2200%22",
+            "title": "Une icône de la nature américaine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230619_EagleTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "57076dcc024f6b2d33554cf5b353488c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230618",
             "fullstartdate": "202306182200",
