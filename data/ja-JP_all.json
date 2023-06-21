@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-20 00:48:36",
-    "Total": 419,
+    "LastUpdate": "2023-06-21 00:49:40",
+    "Total": 420,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230620",
+            "fullstartdate": "202306201500",
+            "enddate": "20230621",
+            "url": "/th?id=OHR.Summersolstice2023_JA-JP3731281630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Summersolstice2023_JA-JP3731281630",
+            "copyright": "奥入瀬渓流, 青森県 (© yspbqh14/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81&form=hpcapt&filters=HpDate%3a%2220230620_1500%22",
+            "title": "今日は夏至",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230620_Summersolstice2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c9002d02f752e282c11c6b6c3ef3c8dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230619",
             "fullstartdate": "202306191500",
