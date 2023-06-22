@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-21 00:49:57",
-    "Total": 420,
+    "LastUpdate": "2023-06-22 00:49:47",
+    "Total": 421,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230621",
+            "fullstartdate": "202306211830",
+            "enddate": "20230622",
+            "url": "/th?id=OHR.PeruAmazon_EN-IN1074414647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeruAmazon_EN-IN1074414647",
+            "copyright": "Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Peruvian+Amazonia&form=hpcapt&filters=HpDate%3a%2220230621_1830%22",
+            "title": "A world within a world",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230621_PeruAmazon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de7b78701a45e42ca38999916fd23ed5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230620",
             "fullstartdate": "202306201830",
