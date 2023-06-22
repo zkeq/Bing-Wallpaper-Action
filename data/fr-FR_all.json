@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-21 00:50:01",
-    "Total": 420,
+    "LastUpdate": "2023-06-22 00:49:52",
+    "Total": 421,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230621",
+            "fullstartdate": "202306212200",
+            "enddate": "20230622",
+            "url": "/th?id=OHR.PeruAmazon_FR-FR7280583164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeruAmazon_FR-FR7280583164",
+            "copyright": "Forêt amazonienne, Pérou (© Rhett Ayers Butler/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=For%C3%AAt+amazonienne+&form=hpcapt&filters=HpDate%3a%2220230621_2200%22",
+            "title": "Un monde extraordinaire se cache ici",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230621_PeruAmazon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d78cfa351c83c5ecf5aff63f22b861ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230620",
             "fullstartdate": "202306202200",
