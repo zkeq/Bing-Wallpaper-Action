@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-21 00:49:48",
-    "Total": 419,
+    "LastUpdate": "2023-06-22 00:49:38",
+    "Total": 420,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230621",
+            "fullstartdate": "202306210400",
+            "enddate": "20230622",
+            "url": "/th?id=OHR.NationalIndigenousPeoplesDay_EN-CA7883814929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NationalIndigenousPeoplesDay_EN-CA7883814929",
+            "copyright": "Ancient rock carvings at Petroglyph Provincial Park in Nanaimo, Canada (© Chase Clausen/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Petroglyph+Provincial+Park+in+Nanaimo%2c+Canada&form=hpcapt&filters=HpDate%3a%2220230621_0400%22",
+            "title": "Past below, future ahead",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230621_NationalIndigenousPeoplesDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3280d44f7e2c04e1bab807c47383353",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230620",
             "fullstartdate": "202306200400",
