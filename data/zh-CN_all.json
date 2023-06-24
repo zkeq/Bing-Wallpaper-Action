@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-23 00:48:58",
-    "Total": 422,
+    "LastUpdate": "2023-06-24 00:49:47",
+    "Total": 423,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230623",
+            "fullstartdate": "202306231600",
+            "enddate": "20230624",
+            "url": "/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NhaTrang_ZH-CN5834700560",
+            "copyright": "芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%BD%E5%BA%84&form=hpcapt&mkt=zh-cn",
+            "title": "海湾之美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230623_NhaTrang%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0048caeb33e77438acf028cd958b53c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230622",
             "fullstartdate": "202306221600",
