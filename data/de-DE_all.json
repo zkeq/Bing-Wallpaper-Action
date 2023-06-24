@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-23 00:49:12",
-    "Total": 422,
+    "LastUpdate": "2023-06-24 00:50:01",
+    "Total": 423,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230623",
+            "fullstartdate": "202306232200",
+            "enddate": "20230624",
+            "url": "/th?id=OHR.SonyCenterDome_DE-DE4567605388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonyCenterDome_DE-DE4567605388",
+            "copyright": "Beleuchteter Innenraum, Sony Center, Berlin (© travelstock44/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Berlin+Sonycenter&form=hpcapt&filters=HpDate%3a%2220230623_2200%22",
+            "title": "Architektonische Perfektion",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230623_SonyCenterDome%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "59531bd356d795ddc0ef16c4136e4c47",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230622",
             "fullstartdate": "202306222200",
