@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-23 00:49:25",
-    "Total": 422,
+    "LastUpdate": "2023-06-24 00:50:14",
+    "Total": 423,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230623",
+            "fullstartdate": "202306231830",
+            "enddate": "20230624",
+            "url": "/th?id=OHR.NhaTrang_EN-IN1083266975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NhaTrang_EN-IN1083266975",
+            "copyright": "Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nha+trang&form=hpcapt&filters=HpDate%3a%2220230623_1830%22",
+            "title": "Beauty by the bay",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230623_NhaTrang%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "62126937aa8c7e60b04575a4973980e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230622",
             "fullstartdate": "202306221830",
