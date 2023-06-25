@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-24 00:50:14",
-    "Total": 423,
+    "LastUpdate": "2023-06-25 00:49:27",
+    "Total": 424,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230624",
+            "fullstartdate": "202306241830",
+            "enddate": "20230625",
+            "url": "/th?id=OHR.PetraTreasury_EN-IN1889012799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PetraTreasury_EN-IN1889012799",
+            "copyright": "The Treasury of Petra, Jordan (© WitthayaP/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Al-Khazneh+of+Petra+Jordan&form=hpcapt&filters=HpDate%3a%2220230624_1830%22",
+            "title": "A temple to treasure",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230624_PetraTreasury%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48ef91f0bcbe21a5cadc49c426bd68dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230623",
             "fullstartdate": "202306231830",
