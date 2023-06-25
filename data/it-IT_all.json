@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-24 00:50:23",
-    "Total": 423,
+    "LastUpdate": "2023-06-25 00:49:36",
+    "Total": 424,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230624",
+            "fullstartdate": "202306242200",
+            "enddate": "20230625",
+            "url": "/th?id=OHR.PetraTreasury_IT-IT8544676447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PetraTreasury_IT-IT8544676447",
+            "copyright": "Il Tesoro, Petra, Giornadia (© WitthayaP/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=al-khazneh+petra%2c+giordania&form=hpcapt",
+            "title": "Un tempio da custodire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230624_PetraTreasury%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d56d57c4360ed55bd7f79a5d2e3b0c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230623",
             "fullstartdate": "202306232200",
