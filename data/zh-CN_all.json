@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-25 00:48:59",
-    "Total": 424,
+    "LastUpdate": "2023-06-26 00:48:44",
+    "Total": 425,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230625",
+            "fullstartdate": "202306251600",
+            "enddate": "20230626",
+            "url": "/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VillandryGarden_ZH-CN6140359139",
+            "copyright": "维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BB%B4%E6%9C%97%E5%BE%B7%E9%87%8C%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "奢华的迷宫",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230625_VillandryGarden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "778e9f1a88215ed87e63c10d1fc3f8ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230624",
             "fullstartdate": "202306241600",
