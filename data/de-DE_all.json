@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-26 00:48:59",
-    "Total": 425,
+    "LastUpdate": "2023-06-27 00:50:57",
+    "Total": 426,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230626",
+            "fullstartdate": "202306262200",
+            "enddate": "20230627",
+            "url": "/th?id=OHR.SedonaSunset_DE-DE6870001404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SedonaSunset_DE-DE6870001404",
+            "copyright": "Sedona, Arizona, USA (© Jonathan Ross/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sedona+Arizona&form=hpcapt&filters=HpDate%3a%2220230626_2200%22",
+            "title": "Das Land der roten Felsen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230626_SedonaSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5f07ae21182b00ff183311b8de6a514",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230625",
             "fullstartdate": "202306252200",
