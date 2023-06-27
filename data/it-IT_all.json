@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-26 00:49:21",
-    "Total": 425,
+    "LastUpdate": "2023-06-27 00:51:19",
+    "Total": 426,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230626",
+            "fullstartdate": "202306262200",
+            "enddate": "20230627",
+            "url": "/th?id=OHR.SedonaSunset_IT-IT6775743952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SedonaSunset_IT-IT6775743952",
+            "copyright": "Sedona, Arizona, USA (© Jonathan Ross/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sedona&form=hpcapt",
+            "title": "Paese delle rocce rosse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230626_SedonaSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe058e0a1bbc032b61f1418a1c8c4ac6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230625",
             "fullstartdate": "202306252200",
