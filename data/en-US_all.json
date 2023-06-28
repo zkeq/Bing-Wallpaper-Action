@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-27 00:50:49",
-    "Total": 426,
+    "LastUpdate": "2023-06-28 00:49:34",
+    "Total": 427,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230627",
+            "fullstartdate": "202306270700",
+            "enddate": "20230628",
+            "url": "/th?id=OHR.SedonaSunset_EN-US2192383635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SedonaSunset_EN-US2192383635",
+            "copyright": "Sedona, Arizona (© Jonathan Ross/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sedona&form=hpcapt&filters=HpDate%3a%2220230627_0700%22",
+            "title": "Red Rock Country",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230627_SedonaSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "714204fa38537ab8b3de17fd1b23f6e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230626",
             "fullstartdate": "202306260700",
