@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-27 00:51:15",
-    "Total": 426,
+    "LastUpdate": "2023-06-28 00:50:00",
+    "Total": 427,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230627",
+            "fullstartdate": "202306272200",
+            "enddate": "20230628",
+            "url": "/th?id=OHR.PrideIceland_FR-FR0295897543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideIceland_FR-FR0295897543",
+            "copyright": "Juin, mois des fiertés (© Arctic-Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=marche+des+fiert%C3%A9s&form=hpcapt&filters=HpDate%3a%2220230627_2200%22",
+            "title": "La fierté sur le toit du monde !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230627_PrideIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecbf99761256ad53c99d959794090c63",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230626",
             "fullstartdate": "202306262200",
