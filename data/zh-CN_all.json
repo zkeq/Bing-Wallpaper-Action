@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-27 00:50:43",
-    "Total": 426,
+    "LastUpdate": "2023-06-28 00:49:28",
+    "Total": 427,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230627",
+            "fullstartdate": "202306271600",
+            "enddate": "20230628",
+            "url": "/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228",
+            "copyright": "韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E&form=hpcapt&mkt=zh-cn",
+            "title": "天堂之景！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230627_ItalyCinqueTerre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d369f71f5b9232be2a02e9aac6693325",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230626",
             "fullstartdate": "202306261600",
