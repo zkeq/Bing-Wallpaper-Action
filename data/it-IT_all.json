@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-28 00:50:04",
-    "Total": 427,
+    "LastUpdate": "2023-06-29 00:49:46",
+    "Total": 428,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230628",
+            "fullstartdate": "202306282200",
+            "enddate": "20230629",
+            "url": "/th?id=OHR.AlgheroCapoCaccia_IT-IT6529245223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlgheroCapoCaccia_IT-IT6529245223",
+            "copyright": "Capo Caccia, Alghero (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Capo+Caccia+scheda&form=hpcapt",
+            "title": "Un panorama incantevole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230628_AlgheroCapoCaccia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fffe92d252ac21dd35d83ed50effb23e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230627",
             "fullstartdate": "202306272200",
