@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-28 00:49:34",
-    "Total": 427,
+    "LastUpdate": "2023-06-29 00:49:16",
+    "Total": 428,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230628",
+            "fullstartdate": "202306280700",
+            "enddate": "20230629",
+            "url": "/th?id=OHR.PrideIceland_EN-US2263138010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideIceland_EN-US2263138010",
+            "copyright": "Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pride+month&form=hpcapt&filters=HpDate%3a%2220230628_0700%22",
+            "title": "The colors of Pride",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230628_PrideIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00caa3be5de8eefa8aaf0a444a51cdf9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230627",
             "fullstartdate": "202306270700",
