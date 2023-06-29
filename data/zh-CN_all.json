@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-28 00:49:28",
-    "Total": 427,
+    "LastUpdate": "2023-06-29 00:49:10",
+    "Total": 428,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230628",
+            "fullstartdate": "202306281600",
+            "enddate": "20230629",
+            "url": "/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BanyakIslands_ZH-CN6620304821",
+            "copyright": "巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%B0%BC%E4%BA%9A%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "赞美热带",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230628_BanyakIslands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f6d5f8b33a21d9c2d5dcf52eef476192",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230627",
             "fullstartdate": "202306271600",
