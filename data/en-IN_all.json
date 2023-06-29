@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-28 00:49:55",
-    "Total": 427,
+    "LastUpdate": "2023-06-29 00:49:37",
+    "Total": 428,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230628",
+            "fullstartdate": "202306281830",
+            "enddate": "20230629",
+            "url": "/th?id=OHR.BanyakIslands_EN-IN2988100966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BanyakIslands_EN-IN2988100966",
+            "copyright": "Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Banyak+Islands&form=hpcapt&filters=HpDate%3a%2220230628_1830%22",
+            "title": "Celebrating the tropics",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230628_BanyakIslands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "324edd223295ad94c768466e169c0855",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230627",
             "fullstartdate": "202306271830",
