@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-29 00:49:37",
-    "Total": 428,
+    "LastUpdate": "2023-06-30 00:49:18",
+    "Total": 429,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230629",
+            "fullstartdate": "202306291830",
+            "enddate": "20230630",
+            "url": "/th?id=OHR.ClamBears_EN-IN4861399396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ClamBears_EN-IN4861399396",
+            "copyright": "Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska, USA (© Carlos Carreno/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220230629_1830%22",
+            "title": "Where did you drop the fish, son?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230629_ClamBears%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "951ba63524092bbc6d1e8e6296fd1bee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230628",
             "fullstartdate": "202306281830",
