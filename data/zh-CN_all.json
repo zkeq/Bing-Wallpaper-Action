@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-30 00:48:50",
-    "Total": 429,
+    "LastUpdate": "2023-07-01 00:48:49",
+    "Total": 430,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230630",
+            "fullstartdate": "202306301600",
+            "enddate": "20230701",
+            "url": "/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RomeView_ZH-CN5882212305",
+            "copyright": "从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BD%97%E9%A9%AC&form=hpcapt&mkt=zh-cn",
+            "title": "超凡脱俗的风景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_RomeView%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c6cab5be8c49fa0324e7a0d3f825cd55",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230629",
             "fullstartdate": "202306291600",
