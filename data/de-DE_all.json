@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-06-30 00:49:04",
-    "Total": 429,
+    "LastUpdate": "2023-07-01 00:49:03",
+    "Total": 430,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230630",
+            "fullstartdate": "202306302200",
+            "enddate": "20230701",
+            "url": "/th?id=OHR.PelotonPont_DE-DE1709743153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PelotonPont_DE-DE1709743153",
+            "copyright": "Radfahrer der Tour de France überqueren den Pont du Gard, Frankreich (© Gonzalo Fuentes/Reuters)",
+            "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220230630_2200%22",
+            "title": "Bereit für den Grand Départ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_PelotonPont%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "2bffbf729d56763133b811b05a1866d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230629",
             "fullstartdate": "202306292200",
