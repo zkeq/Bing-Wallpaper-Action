@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-01 00:49:20",
-    "Total": 430,
+    "LastUpdate": "2023-07-02 00:49:21",
+    "Total": 431,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230701",
+            "fullstartdate": "202307012200",
+            "enddate": "20230702",
+            "url": "/th?id=OHR.HalfwayBoats_FR-FR9069255217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalfwayBoats_FR-FR9069255217",
+            "copyright": "Aqueduc de Veluwemeer, Pays-Bas (© Frolova_Elena/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=aqueduc+Veluwemeer+pays+bas&form=hpcapt&filters=HpDate%3a%2220230701_2200%22",
+            "title": "Le juste milieu… de l’année !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230701_HalfwayBoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4460fbfc2e2d8d6ddb62b6b3e7313ceb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230630",
             "fullstartdate": "202306302200",
