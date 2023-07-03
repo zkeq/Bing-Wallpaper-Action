@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-02 00:49:25",
-    "Total": 431,
+    "LastUpdate": "2023-07-03 00:49:39",
+    "Total": 432,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230702",
+            "fullstartdate": "202307022200",
+            "enddate": "20230703",
+            "url": "/th?id=OHR.CoyoteBanff_IT-IT2529436922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoyoteBanff_IT-IT2529436922",
+            "copyright": "Un coyote a Banff, Canada (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=coyote+animale&form=hpcapt",
+            "title": "Abbastanza caldo da ululare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230702_CoyoteBanff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dbd596ad3fb97d01c39c7a1b549cf0dd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230701",
             "fullstartdate": "202307012200",
