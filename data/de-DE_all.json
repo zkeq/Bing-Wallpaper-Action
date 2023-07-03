@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-02 00:49:03",
-    "Total": 431,
+    "LastUpdate": "2023-07-03 00:49:17",
+    "Total": 432,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230702",
+            "fullstartdate": "202307022200",
+            "enddate": "20230703",
+            "url": "/th?id=OHR.CoyoteBanff_DE-DE4348536684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoyoteBanff_DE-DE4348536684",
+            "copyright": "Ein Kojote in Banff, Alberta, Kanada  (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kojote&form=hpcapt&filters=HpDate%3a%2220230702_2200%22",
+            "title": "Hundstage des Sommers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230702_CoyoteBanff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f2c3e6b341db3020ec49ba6d7af97cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230701",
             "fullstartdate": "202307012200",
