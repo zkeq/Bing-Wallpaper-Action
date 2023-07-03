@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-02 00:49:08",
-    "Total": 430,
+    "LastUpdate": "2023-07-03 00:49:21",
+    "Total": 431,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230702",
+            "fullstartdate": "202307020400",
+            "enddate": "20230703",
+            "url": "/th?id=OHR.HalfwayBoats_EN-CA7959103505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalfwayBoats_EN-CA7959103505",
+            "copyright": "Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=veluwemeer+aqueduct&form=hpcapt&filters=HpDate%3a%2220230702_0400%22",
+            "title": "We're halfway there",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230702_HalfwayBoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de3cf8db908408eb6b2f03bb7580d7f1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230701",
             "fullstartdate": "202307010400",
