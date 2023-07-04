@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-03 00:49:30",
-    "Total": 432,
+    "LastUpdate": "2023-07-04 00:50:30",
+    "Total": 433,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230703",
+            "fullstartdate": "202307031830",
+            "enddate": "20230704",
+            "url": "/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948",
+            "copyright": "Grasslands National Park, Saskatchewan, Canada (© Robert Postma/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=grasslands+national+park&form=hpcapt&filters=HpDate%3a%2220230703_1830%22",
+            "title": "Nature’s art installation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_GrasslandsNationalParkSaskachewan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "896d61f2c5f400b21c46874d4b3516ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230702",
             "fullstartdate": "202307021830",
