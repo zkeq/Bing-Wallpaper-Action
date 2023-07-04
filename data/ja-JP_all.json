@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-03 00:49:12",
-    "Total": 432,
+    "LastUpdate": "2023-07-04 00:50:12",
+    "Total": 433,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230703",
+            "fullstartdate": "202307031500",
+            "enddate": "20230704",
+            "url": "/th?id=OHR.SomersetLavender_JA-JP1412605129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SomersetLavender_JA-JP1412605129",
+            "copyright": "サマセットのラベンダー畑, イギリス  (© Doug Chinnery/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9+%E3%82%B5%E3%83%9E%E3%82%BB%E3%83%83%E3%83%88%E3%81%AE%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91&form=hpcapt&filters=HpDate%3a%2220230703_1500%22",
+            "title": "一面に広がる紫",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_SomersetLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8b9bc25bbc460e0e792b0dd8fcae8d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230702",
             "fullstartdate": "202307021500",
