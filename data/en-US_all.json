@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-03 00:49:08",
-    "Total": 432,
+    "LastUpdate": "2023-07-04 00:50:08",
+    "Total": 433,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230703",
+            "fullstartdate": "202307030700",
+            "enddate": "20230704",
+            "url": "/th?id=OHR.CoyoteBanff_EN-US9716853560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoyoteBanff_EN-US9716853560",
+            "copyright": "A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=coyote+animal&form=hpcapt&filters=HpDate%3a%2220230703_0700%22",
+            "title": "Hot enough to howl",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_CoyoteBanff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5478f7acbc7c95cb5db659a27a52178",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230702",
             "fullstartdate": "202307020700",
