@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-04 00:50:30",
-    "Total": 433,
+    "LastUpdate": "2023-07-05 00:49:42",
+    "Total": 434,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230704",
+            "fullstartdate": "202307041830",
+            "enddate": "20230705",
+            "url": "/th?id=OHR.CorfuBeach_EN-IN7425688753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorfuBeach_EN-IN7425688753",
+            "copyright": "Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=corfu&form=hpcapt&filters=HpDate%3a%2220230704_1830%22",
+            "title": "Pick your paradise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230704_CorfuBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34ff8d254fd7439d6164d89f7a218b92",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230703",
             "fullstartdate": "202307031830",
