@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-04 00:50:38",
-    "Total": 433,
+    "LastUpdate": "2023-07-05 00:49:51",
+    "Total": 434,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230704",
+            "fullstartdate": "202307042200",
+            "enddate": "20230705",
+            "url": "/th?id=OHR.CorfuBeach_IT-IT3660908629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorfuBeach_IT-IT3660908629",
+            "copyright": "Spiaggia di Porto Timoni a Corfù, Grecia (© nantonov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Corf%C3%B9+dov%27%C3%A8&form=hpcapt",
+            "title": "Scegliete il vostro paradiso",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230704_CorfuBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe338c98e7ed84161c0bf2fbf13c6060",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230703",
             "fullstartdate": "202307032200",
