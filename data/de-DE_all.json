@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-05 00:49:29",
-    "Total": 434,
+    "LastUpdate": "2023-07-06 00:49:14",
+    "Total": 435,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230705",
+            "fullstartdate": "202307052200",
+            "enddate": "20230706",
+            "url": "/th?id=OHR.KissingPenguins_DE-DE4462202063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KissingPenguins_DE-DE4462202063",
+            "copyright": "Südliche Felsenpinguine, Falklandinseln (© Tony Beck/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Felsenpinguin&form=hpcapt&filters=HpDate%3a%2220230705_2200%22",
+            "title": "Küssende Pinguine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230705_KissingPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8ed7b5a21d52d719663775b1f8632da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230704",
             "fullstartdate": "202307042200",
