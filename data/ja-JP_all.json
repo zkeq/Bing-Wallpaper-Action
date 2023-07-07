@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-06 00:49:10",
-    "Total": 435,
+    "LastUpdate": "2023-07-07 00:49:24",
+    "Total": 436,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230706",
+            "fullstartdate": "202307061500",
+            "enddate": "20230707",
+            "url": "/th?id=OHR.Tanabata2023_JA-JP8370002660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Tanabata2023_JA-JP8370002660",
+            "copyright": "燕岳の星空, 長野県 (© Nuttapoom Amornpashara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%87%95%E5%B2%B3%E3%81%AE%E6%98%9F%E7%A9%BA&form=hpcapt&filters=HpDate%3a%2220230706_1500%22",
+            "title": "今日は七夕",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230706_Tanabata2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9c17e837f5ba36db15294cb4a4f290cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230705",
             "fullstartdate": "202307051500",
