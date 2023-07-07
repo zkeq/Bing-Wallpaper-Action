@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-06 00:49:32",
-    "Total": 435,
+    "LastUpdate": "2023-07-07 00:49:46",
+    "Total": 436,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230706",
+            "fullstartdate": "202307062200",
+            "enddate": "20230707",
+            "url": "/th?id=OHR.CocoaPods_FR-FR2382052379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CocoaPods_FR-FR2382052379",
+            "copyright": "Fèves de cacao d'Ambanja, Madagascar (© pierivb/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cacao+f%C3%A8ve&form=hpcapt&filters=HpDate%3a%2220230706_2200%22",
+            "title": "Le fruit préféré des amoureux du chocolat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230706_CocoaPods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f9afd2baab2f113b11d73076b18d1bc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230705",
             "fullstartdate": "202307052200",
