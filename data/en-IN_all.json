@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-06 00:49:27",
-    "Total": 435,
+    "LastUpdate": "2023-07-07 00:49:42",
+    "Total": 436,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230706",
+            "fullstartdate": "202307061830",
+            "enddate": "20230707",
+            "url": "/th?id=OHR.CocoaPods_EN-IN8131654634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CocoaPods_EN-IN8131654634",
+            "copyright": "Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cocoa+bean&form=hpcapt&filters=HpDate%3a%2220230706_1830%22",
+            "title": "A chocolate lover's favorite fruit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230706_CocoaPods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc4b68ed8c9b8f38c58a06614eba5552",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230705",
             "fullstartdate": "202307051830",
