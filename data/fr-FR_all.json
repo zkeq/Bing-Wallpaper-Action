@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-07 00:49:46",
-    "Total": 436,
+    "LastUpdate": "2023-07-08 00:49:49",
+    "Total": 437,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230707",
+            "fullstartdate": "202307072200",
+            "enddate": "20230708",
+            "url": "/th?id=OHR.Holidays_FR-FR3009549793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Holidays_FR-FR3009549793",
+            "copyright": "Les célèbres parasols multicolores de la plage de Deauville, Normandie (© Kiszon Pascal/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parasol+plage+de+deauville&form=hpcapt&filters=HpDate%3a%2220230707_2200%22",
+            "title": "Vive les vacances d’été !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230707_Holidays%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fa066517f38388189320c620f387c17",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230706",
             "fullstartdate": "202307062200",
