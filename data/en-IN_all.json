@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-07 00:49:42",
-    "Total": 436,
+    "LastUpdate": "2023-07-08 00:49:45",
+    "Total": 437,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230707",
+            "fullstartdate": "202307071830",
+            "enddate": "20230708",
+            "url": "/th?id=OHR.CooperChapel_EN-IN8582362149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CooperChapel_EN-IN8582362149",
+            "copyright": "Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas, USA (© Eddie Brady/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mildred+B.+Cooper+Memorial+Chapel&form=hpcapt&filters=HpDate%3a%2220230707_1830%22",
+            "title": "Sanctuary among the trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230707_CooperChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "863cc16d1b03234cd3f2f0a25431a6d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230706",
             "fullstartdate": "202307061830",
