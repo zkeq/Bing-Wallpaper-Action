@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-07 00:49:29",
-    "Total": 436,
+    "LastUpdate": "2023-07-08 00:49:32",
+    "Total": 437,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230707",
+            "fullstartdate": "202307072200",
+            "enddate": "20230708",
+            "url": "/th?id=OHR.CooperChapel_DE-DE3457658081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CooperChapel_DE-DE3457658081",
+            "copyright": "Mildred B. Cooper Gedächtniskapelle, Bella Vista, Arkansas, USA (© Eddie Brady/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kapelle&form=hpcapt&filters=HpDate%3a%2220230707_2200%22",
+            "title": "Heiligtum unter den Bäumen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230707_CooperChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a109e0d7bd58ac6359d1c83adfcdd08d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230706",
             "fullstartdate": "202307062200",
