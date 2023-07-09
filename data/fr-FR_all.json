@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-08 00:49:49",
-    "Total": 437,
+    "LastUpdate": "2023-07-09 00:49:46",
+    "Total": 438,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230708",
+            "fullstartdate": "202307082200",
+            "enddate": "20230709",
+            "url": "/th?id=OHR.MoselleRiver_FR-FR3280555983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoselleRiver_FR-FR3280555983",
+            "copyright": "Boucle de la Moselle près de Kröv, Allemagne (© Jorg Greuel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Moselle+riviere&form=hpcapt&filters=HpDate%3a%2220230708_2200%22",
+            "title": "Le joyau de la Moselle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230708_MoselleRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ba85831b07323a3daf06ae8a32a4b10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230707",
             "fullstartdate": "202307072200",
