@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-10 00:49:33",
-    "Total": 439,
+    "LastUpdate": "2023-07-11 00:50:38",
+    "Total": 440,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230710",
+            "fullstartdate": "202307102200",
+            "enddate": "20230711",
+            "url": "/th?id=OHR.WorldPopDay_IT-IT9604532087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WorldPopDay_IT-IT9604532087",
+            "copyright": "Hong Kong (© leungchopan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hongkong&form=hpcapt",
+            "title": "8 miliardi e più",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230710_WorldPopDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "191033656d419a94f741ae8cfe776556",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230709",
             "fullstartdate": "202307092200",
