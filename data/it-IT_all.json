@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-11 00:50:38",
-    "Total": 440,
+    "LastUpdate": "2023-07-12 00:50:48",
+    "Total": 441,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230711",
+            "fullstartdate": "202307112200",
+            "enddate": "20230712",
+            "url": "/th?id=OHR.NakupendaBeach_IT-IT0086147539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NakupendaBeach_IT-IT0086147539",
+            "copyright": "Bar sulla sabbia nella Riserva Naturale di Nakupenda Beach, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Zanzibar&form=hpcapt",
+            "title": "Un pezzo di paradiso?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230711_NakupendaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ec300393b7dfffe32f3a31b03507c9a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230710",
             "fullstartdate": "202307102200",
