@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-11 00:50:33",
-    "Total": 440,
+    "LastUpdate": "2023-07-12 00:50:43",
+    "Total": 441,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230711",
+            "fullstartdate": "202307112200",
+            "enddate": "20230712",
+            "url": "/th?id=OHR.NakupendaBeach_FR-FR4192491040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NakupendaBeach_FR-FR4192491040",
+            "copyright": "Banc de sable dans la réserve naturelle de Nakupenda Beach, Zanzibar, Tanzanie (© Lubos Paukeje/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=nakupenda+beach+r%C3%A9serve+naturelle&form=hpcapt&filters=HpDate%3a%2220230711_2200%22",
+            "title": "La plage la plus chic du monde ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230711_NakupendaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c2360efe71944377a44202dc14ef052",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230710",
             "fullstartdate": "202307102200",
