@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-11 00:50:01",
-    "Total": 440,
+    "LastUpdate": "2023-07-12 00:50:12",
+    "Total": 441,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230711",
+            "fullstartdate": "202307111600",
+            "enddate": "20230712",
+            "url": "/th?id=OHR.NakupendaBeach_ZH-CN7913805608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NakupendaBeach_ZH-CN7913805608",
+            "copyright": "“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E6%A1%91%E7%BB%99%E5%B7%B4%E5%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "世界上最独特的海滩？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230711_NakupendaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "11ec21c3913f74b8885cbb989c0aa477",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230710",
             "fullstartdate": "202307101600",
