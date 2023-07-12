@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-11 00:50:16",
-    "Total": 440,
+    "LastUpdate": "2023-07-12 00:50:26",
+    "Total": 441,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230711",
+            "fullstartdate": "202307112200",
+            "enddate": "20230712",
+            "url": "/th?id=OHR.HinterseeBavaria_DE-DE6864169933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HinterseeBavaria_DE-DE6864169933",
+            "copyright": "Hintersee bei Ramsau, Bayern (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bundesland+Bayern&form=hpcapt&filters=HpDate%3a%2220230711_2200%22",
+            "title": "Boote, Berge und Bäume",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230711_HinterseeBavaria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9eff7e7848de29080adbf3def47d37a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230710",
             "fullstartdate": "202307102200",
