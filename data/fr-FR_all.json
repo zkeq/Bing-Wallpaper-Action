@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-12 00:50:43",
-    "Total": 441,
+    "LastUpdate": "2023-07-13 00:50:38",
+    "Total": 442,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230712",
+            "fullstartdate": "202307122200",
+            "enddate": "20230713",
+            "url": "/th?id=OHR.ZhangyeGeopark_FR-FR4605249470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZhangyeGeopark_FR-FR4605249470",
+            "copyright": "Parc géologique national de Zhangye Danxia, Gansu, Chine (© TONNAJA/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+g%C3%A9ologique+national+de+Zhangye+Danxia&form=hpcapt&filters=HpDate%3a%2220230712_2200%22",
+            "title": "Un arc-en-ciel rocheux",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230712_ZhangyeGeopark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50e4e5dd756e6ac6127da28067e2d981",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230711",
             "fullstartdate": "202307112200",
