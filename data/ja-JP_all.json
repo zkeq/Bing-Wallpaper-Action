@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-12 00:50:22",
-    "Total": 441,
+    "LastUpdate": "2023-07-13 00:50:16",
+    "Total": 442,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230712",
+            "fullstartdate": "202307121500",
+            "enddate": "20230713",
+            "url": "/th?id=OHR.ZhangyeGeopark_JA-JP7668560160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZhangyeGeopark_JA-JP7668560160",
+            "copyright": "甘粛張掖国家地質公園, 中国 甘粛省 (© TONNAJA/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%94%98%E7%B2%9B%E5%BC%B5%E6%8E%96%E5%9B%BD%E5%AE%B6%E5%9C%B0%E8%B3%AA%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230712_1500%22",
+            "title": "今日は国際ロックの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230712_ZhangyeGeopark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4f9d264e5677cc1655a341192b6e97f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230711",
             "fullstartdate": "202307111500",
