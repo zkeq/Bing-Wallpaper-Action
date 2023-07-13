@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-12 00:50:18",
-    "Total": 441,
+    "LastUpdate": "2023-07-13 00:50:12",
+    "Total": 442,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230712",
+            "fullstartdate": "202307120700",
+            "enddate": "20230713",
+            "url": "/th?id=OHR.NakupendaBeach_EN-US3130365422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NakupendaBeach_EN-US3130365422",
+            "copyright": "Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=nakupenda+beach+nature+reserve&form=hpcapt&filters=HpDate%3a%2220230712_0700%22",
+            "title": "The world's most exclusive beach?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230712_NakupendaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "189242cddb89c5c38d0e78bb4b0050dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230711",
             "fullstartdate": "202307110700",
