@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-13 00:50:33",
-    "Total": 442,
+    "LastUpdate": "2023-07-14 00:49:38",
+    "Total": 443,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230713",
+            "fullstartdate": "202307131830",
+            "enddate": "20230714",
+            "url": "/th?id=OHR.PassauSunsetJune_EN-IN9912207369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PassauSunsetJune_EN-IN9912207369",
+            "copyright": "The city of Passau reflected in the Danube, Bavaria, Germany (© Scott Wilson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Passau%2c+Germany&form=hpcapt&filters=HpDate%3a%2220230713_1830%22",
+            "title": "Blue Skies in Beautiful Bavaria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230713_PassauSunsetJune%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e72e1588ad05d0e2452564795c52198",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230712",
             "fullstartdate": "202307121830",
