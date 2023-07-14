@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-13 00:50:25",
-    "Total": 441,
+    "LastUpdate": "2023-07-14 00:49:29",
+    "Total": 442,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230713",
+            "fullstartdate": "202307130400",
+            "enddate": "20230714",
+            "url": "/th?id=OHR.ZhangyeGeopark_EN-CA4785678107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZhangyeGeopark_EN-CA4785678107",
+            "copyright": "Zhangye Danxia National Geopark, Gansu, China (© TONNAJA/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zhangye+National+Geopark&form=hpcapt&filters=HpDate%3a%2220230713_0400%22",
+            "title": "Walking a rocky rainbow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230713_ZhangyeGeopark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e84da359e16b4e094c8185fc5a0a841",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230712",
             "fullstartdate": "202307120400",
