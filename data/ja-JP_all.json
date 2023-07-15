@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:20",
-    "Total": 443,
+    "LastUpdate": "2023-07-15 00:48:48",
+    "Total": 444,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307141500",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.CastelmazzanoSunrise_JA-JP6748977928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastelmazzanoSunrise_JA-JP6748977928",
+            "copyright": "カステルメッツァーノ, イタリア (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%82%B9%E3%83%86%E3%83%AB%E3%83%A1%E3%83%83%E3%83%84%E3%82%A1%E3%83%BC%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220230714_1500%22",
+            "title": "岩山に張り付く美しい村",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_CastelmazzanoSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b6de078df5bcc724d7a42acc6cef47c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307131500",
