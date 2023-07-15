@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:43",
-    "Total": 443,
+    "LastUpdate": "2023-07-15 00:49:10",
+    "Total": 444,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307142200",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.AvignonPope_FR-FR9286778521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvignonPope_FR-FR9286778521",
+            "copyright": "Le pont d’Avignon et le palais des Papes, Provence Alpes Côte d’Azur (© travelstock44/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=festival+avignon&form=hpcapt&filters=HpDate%3a%2220230714_2200%22",
+            "title": "Sous le pont d’Avignon…",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_AvignonPope%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcaf4c2ddd1b60a7b34987fd05a9dd58",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307132200",
