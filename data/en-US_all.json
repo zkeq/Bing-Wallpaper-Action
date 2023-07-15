@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:16",
-    "Total": 443,
+    "LastUpdate": "2023-07-15 00:48:43",
+    "Total": 444,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307140700",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.BlacktipSharks_EN-US9224288033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlacktipSharks_EN-US9224288033",
+            "copyright": "Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Blacktip+reef+sharks+Maldives&form=hpcapt&filters=HpDate%3a%2220230714_0700%22",
+            "title": "A shiver of sharks on the hunt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_BlacktipSharks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0461e7ebb19483a18528ce5f3e519894",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307130700",
