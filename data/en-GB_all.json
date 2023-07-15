@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:34",
-    "Total": 442,
+    "LastUpdate": "2023-07-15 00:49:01",
+    "Total": 443,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307142300",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.CastelmazzanoSunrise_EN-GB5103184672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastelmazzanoSunrise_EN-GB5103184672",
+            "copyright": "Castelmezzano, Italy (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Castelmezzano+Italy&form=hpcapt&filters=HpDate%3a%2220230714_2300%22",
+            "title": "A postcard-perfect landscape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_CastelmazzanoSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50c1df2840a1e76b33f3bc915ad3351f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307132300",
