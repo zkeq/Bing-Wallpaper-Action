@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:10",
-    "Total": 443,
+    "LastUpdate": "2023-07-15 00:48:37",
+    "Total": 444,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307141600",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019",
+            "copyright": "卡斯泰尔梅扎诺，意大利 (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%A1%E6%96%AF%E6%B3%B0%E5%B0%94%E6%A2%85%E6%89%8E%E8%AF%BA&form=hpcapt&mkt=zh-cn",
+            "title": "明信片般完美的风景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_CastelmazzanoSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1366eba63159027524eea87c44626407",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307131600",
