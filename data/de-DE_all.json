@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-14 00:49:25",
-    "Total": 443,
+    "LastUpdate": "2023-07-15 00:48:52",
+    "Total": 444,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230714",
+            "fullstartdate": "202307142200",
+            "enddate": "20230715",
+            "url": "/th?id=OHR.CastelmazzanoSunrise_DE-DE1863686096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastelmazzanoSunrise_DE-DE1863686096",
+            "copyright": "Castelmezzano, Basilikata, Italien (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Castelmezzano&form=hpcapt&filters=HpDate%3a%2220230714_2200%22",
+            "title": "Italienische Postkartenidylle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230714_CastelmazzanoSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7497557b5167835287835d2b6ce56675",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230713",
             "fullstartdate": "202307132200",
