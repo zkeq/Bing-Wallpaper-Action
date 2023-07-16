@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-15 00:49:01",
-    "Total": 443,
+    "LastUpdate": "2023-07-16 00:49:44",
+    "Total": 444,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230715",
+            "fullstartdate": "202307152300",
+            "enddate": "20230716",
+            "url": "/th?id=OHR.BearHoleBrook_EN-GB5612823763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearHoleBrook_EN-GB5612823763",
+            "copyright": "Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Catskill+Mountains&form=hpcapt&filters=HpDate%3a%2220230715_2300%22",
+            "title": "Babbling on and on",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230715_BearHoleBrook%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a8f19bc44b2fba2a5e057c88f375e30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230714",
             "fullstartdate": "202307142300",
