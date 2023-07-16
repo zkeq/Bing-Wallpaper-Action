@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-15 00:49:10",
-    "Total": 444,
+    "LastUpdate": "2023-07-16 00:49:52",
+    "Total": 445,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230715",
+            "fullstartdate": "202307152200",
+            "enddate": "20230716",
+            "url": "/th?id=OHR.BearHoleBrook_FR-FR1214130795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearHoleBrook_FR-FR1214130795",
+            "copyright": "Ruisseau Bear Hole, montagnes Catskill, New York, États-Unis (© GummyBone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=monts+Catskill&form=hpcapt&filters=HpDate%3a%2220230715_2200%22",
+            "title": "L'écho mélodieux du ruisseau",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230715_BearHoleBrook%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d2eefe4cc75a16742be9c9f6076837f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230714",
             "fullstartdate": "202307142200",
