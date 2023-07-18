@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-17 00:49:20",
-    "Total": 446,
+    "LastUpdate": "2023-07-18 00:52:00",
+    "Total": 447,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230717",
+            "fullstartdate": "202307172200",
+            "enddate": "20230718",
+            "url": "/th?id=OHR.HinterseeLake_DE-DE7814491503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HinterseeLake_DE-DE7814491503",
+            "copyright": "Hintersee, Ramsau, Bayern (© boule13/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Hintersee+Ramsauer+Ache+&form=hpcapt&filters=HpDate%3a%2220230717_2200%22",
+            "title": "Die magische Kunst der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230717_HinterseeLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9167a666cbd5c801f5fb1485b0d6439c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230716",
             "fullstartdate": "202307162200",
