@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-18 00:51:51",
-    "Total": 447,
+    "LastUpdate": "2023-07-19 00:56:52",
+    "Total": 448,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230718",
+            "fullstartdate": "202307180700",
+            "enddate": "20230719",
+            "url": "/th?id=OHR.BucerosBicornis_EN-US0841652066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BucerosBicornis_EN-US0841652066",
+            "copyright": "Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+hornbill&form=hpcapt&filters=HpDate%3a%2220230718_0700%22",
+            "title": "This bird is peak beak",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230718_BucerosBicornis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef8c19844d6639f0540dcf60fc8beeb7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230717",
             "fullstartdate": "202307170700",
