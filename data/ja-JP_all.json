@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-20 00:49:47",
-    "Total": 449,
+    "LastUpdate": "2023-07-21 00:49:42",
+    "Total": 450,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230720",
+            "fullstartdate": "202307201500",
+            "enddate": "20230721",
+            "url": "/th?id=OHR.BridgeNorway_JA-JP8975329344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeNorway_JA-JP8975329344",
+            "copyright": "大西洋道路のストルセイスンデット橋, ノルウェー ムーレ・オ・ロムスダール県 (© Morten Falch Sortland/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%AB%E3%82%BB%E3%82%A4%E3%82%B9%E3%83%B3%E3%83%87%E3%83%83%E3%83%88%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220230720_1500%22",
+            "title": "小さな島々を飛び越える橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230720_BridgeNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6593117522fc15240528f1d410c2ca7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230719",
             "fullstartdate": "202307191500",
