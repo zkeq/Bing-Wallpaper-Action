@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-20 00:50:09",
-    "Total": 449,
+    "LastUpdate": "2023-07-21 00:50:03",
+    "Total": 450,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230720",
+            "fullstartdate": "202307202200",
+            "enddate": "20230721",
+            "url": "/th?id=OHR.BridgeNorway_FR-FR0244724672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeNorway_FR-FR0244724672",
+            "copyright": "Pont Storseisundet, route de l'océan Atlantique, Norvège (© Morten Falch Sortland/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Storseisundet+pont+atlantique+&form=hpcapt&filters=HpDate%3a%2220230720_2200%22",
+            "title": "Un pont au-dessus de l’Atlantique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230720_BridgeNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ab5f2ab485050911a8fd2b2624e7f04",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230719",
             "fullstartdate": "202307192200",
