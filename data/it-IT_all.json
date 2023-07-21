@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-20 00:50:13",
-    "Total": 449,
+    "LastUpdate": "2023-07-21 00:50:07",
+    "Total": 450,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230720",
+            "fullstartdate": "202307202200",
+            "enddate": "20230721",
+            "url": "/th?id=OHR.BridgeNorway_IT-IT5538215979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeNorway_IT-IT5538215979",
+            "copyright": "Ponte di Storseisundet, Strada dell'Oceano Atlantico, Norvegia (© Morten Falch Sortland/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ponte+di+Storseisundet%2c+Strada+dell%27Oceano+Atlantico%2c+Norvegia&form=hpcapt",
+            "title": "Unendo i puntini",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230720_BridgeNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c6d9a092ac2db7003d45c0e5c3dccb0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230719",
             "fullstartdate": "202307192200",
