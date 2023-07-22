@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-21 00:50:03",
-    "Total": 450,
+    "LastUpdate": "2023-07-22 00:50:10",
+    "Total": 451,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230721",
+            "fullstartdate": "202307212200",
+            "enddate": "20230722",
+            "url": "/th?id=OHR.HammockDay_FR-FR0846527389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HammockDay_FR-FR0846527389",
+            "copyright": "Hamac campé dans un cyprès chauve, Floride, USA (© Mac Stone/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=hamac+histoire&form=hpcapt&filters=HpDate%3a%2220230721_2200%22",
+            "title": "En suspens au-dessus de l’eau",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_HammockDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b5abed72a934d2e7462561a62131c7b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230720",
             "fullstartdate": "202307202200",
