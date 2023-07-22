@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-21 00:49:37",
-    "Total": 450,
+    "LastUpdate": "2023-07-22 00:49:44",
+    "Total": 451,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230721",
+            "fullstartdate": "202307210700",
+            "enddate": "20230722",
+            "url": "/th?id=OHR.BridgeNorway_EN-US1530199433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeNorway_EN-US1530199433",
+            "copyright": "Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Storseisundet+Bridge&form=hpcapt&filters=HpDate%3a%2220230721_0700%22",
+            "title": "Connecting the dots",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_BridgeNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd70bc865e61cb18d912c88f8b2a87de",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230720",
             "fullstartdate": "202307200700",
