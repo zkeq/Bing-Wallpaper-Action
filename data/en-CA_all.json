@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-23 00:48:54",
-    "Total": 451,
+    "LastUpdate": "2023-07-24 00:48:53",
+    "Total": 452,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230723",
+            "fullstartdate": "202307230400",
+            "enddate": "20230724",
+            "url": "/th?id=OHR.CalgaryCentralLibrary_EN-CA0835286541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalgaryCentralLibrary_EN-CA0835286541",
+            "copyright": "The Calgary Central Library, also known as the Calgary New Central Library (© Rick Rudnicki/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Calgary+Central+Library%2c+Canada&form=hpcapt&filters=HpDate%3a%2220230723_0400%22",
+            "title": "Books are man's best friend",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230723_CalgaryCentralLibrary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a555eb956377a7db249a4b7d0d6554e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230722",
             "fullstartdate": "202307220400",
