@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-23 00:48:58",
-    "Total": 451,
+    "LastUpdate": "2023-07-24 00:48:57",
+    "Total": 452,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230723",
+            "fullstartdate": "202307232300",
+            "enddate": "20230724",
+            "url": "/th?id=OHR.ZebraCousins_EN-GB9257719327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZebraCousins_EN-GB9257719327",
+            "copyright": "Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cousins+and+cousins+day&form=hpcapt&filters=HpDate%3a%2220230723_2300%22",
+            "title": "A day for cousins of every stripe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230723_ZebraCousins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b78250fff6ae6f786e0f2322c245bf2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230722",
             "fullstartdate": "202307222300",
