@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-24 00:48:49",
-    "Total": 453,
+    "LastUpdate": "2023-07-25 00:49:08",
+    "Total": 454,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230724",
+            "fullstartdate": "202307242200",
+            "enddate": "20230725",
+            "url": "/th?id=OHR.LasLagunas_DE-DE3855429319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LasLagunas_DE-DE3855429319",
+            "copyright": "Lagune von Torrevieja, Alicante, Spanien (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lagune+von+Torrevieja%2c+Alicante%2c+Spanien&form=hpcapt&filters=HpDate%3a%2220230724_2200%22",
+            "title": "Rosa, rosa, rosa ist alles, was ich sehe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230724_LasLagunas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "065f4244b5407f3e85c22d916b85ad6c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230723",
             "fullstartdate": "202307232200",
