@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-24 00:49:06",
-    "Total": 453,
+    "LastUpdate": "2023-07-25 00:49:26",
+    "Total": 454,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230724",
+            "fullstartdate": "202307242200",
+            "enddate": "20230725",
+            "url": "/th?id=OHR.LasLagunas_FR-FR3669539536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LasLagunas_FR-FR3669539536",
+            "copyright": "Lagune de Torrevieja, Alicante, Espagne (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lagune+rose+Torrevieja&form=hpcapt&filters=HpDate%3a%2220230724_2200%22",
+            "title": "La vie en rose",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230724_LasLagunas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b22afdad999d8273037a916054c5f1f8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230723",
             "fullstartdate": "202307232200",
