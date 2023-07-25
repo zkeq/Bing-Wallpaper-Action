@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-24 00:48:44",
-    "Total": 453,
+    "LastUpdate": "2023-07-25 00:49:03",
+    "Total": 454,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230724",
+            "fullstartdate": "202307241500",
+            "enddate": "20230725",
+            "url": "/th?id=OHR.LasLagunas_JA-JP0416165627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LasLagunas_JA-JP0416165627",
+            "copyright": "サラダ・デ・トレビエハ湖, スペイン アリカンテ県 (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%BB%E3%83%87%E3%83%BB%E3%83%88%E3%83%AC%E3%83%93%E3%82%A8%E3%83%8F%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220230724_1500%22",
+            "title": "ピンクに輝く湖水",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230724_LasLagunas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f9f6844ea36e7f1df6910657311c59ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230723",
             "fullstartdate": "202307231500",
