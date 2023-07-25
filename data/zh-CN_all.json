@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-24 00:48:34",
-    "Total": 453,
+    "LastUpdate": "2023-07-25 00:48:53",
+    "Total": 454,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230724",
+            "fullstartdate": "202307241600",
+            "enddate": "20230725",
+            "url": "/th?id=OHR.LasLagunas_ZH-CN9917702340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LasLagunas_ZH-CN9917702340",
+            "copyright": "托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%89%98%E9%9B%B7%E7%BB%B4%E8%80%B6%E5%93%88&form=hpcapt&mkt=zh-cn",
+            "title": "粉红色，很好看",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230724_LasLagunas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00aa3facad59173acfc8c22c5683f796",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230723",
             "fullstartdate": "202307231600",
