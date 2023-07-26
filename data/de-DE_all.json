@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-25 00:49:08",
-    "Total": 454,
+    "LastUpdate": "2023-07-26 00:50:57",
+    "Total": 455,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230725",
+            "fullstartdate": "202307252200",
+            "enddate": "20230726",
+            "url": "/th?id=OHR.MangrovePark_DE-DE4871717543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangrovePark_DE-DE4871717543",
+            "copyright": "Jubail Mangrovenpark in Abu Dhabi, Vereinigte Arabische Emirate  (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mangroven+Baum&form=hpcapt&filters=HpDate%3a%2220230725_2200%22",
+            "title": "Halophyten, soweit das Auge reicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230725_MangrovePark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e13343981813569bb149872beb93220c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230724",
             "fullstartdate": "202307242200",
