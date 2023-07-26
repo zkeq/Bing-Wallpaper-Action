@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-25 00:49:12",
-    "Total": 453,
+    "LastUpdate": "2023-07-26 00:51:02",
+    "Total": 454,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230725",
+            "fullstartdate": "202307250400",
+            "enddate": "20230726",
+            "url": "/th?id=OHR.LasLagunas_EN-CA3169197805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LasLagunas_EN-CA3169197805",
+            "copyright": "Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=laguna+de+torrevieja&form=hpcapt&filters=HpDate%3a%2220230725_0400%22",
+            "title": "Pretty in pink",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230725_LasLagunas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "029b8539e3c7dba2dc83e7c5f3b3ff73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230724",
             "fullstartdate": "202307240400",
