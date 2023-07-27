@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-26 00:50:52",
-    "Total": 455,
+    "LastUpdate": "2023-07-27 00:48:27",
+    "Total": 456,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230726",
+            "fullstartdate": "202307261500",
+            "enddate": "20230727",
+            "url": "/th?id=OHR.ParisLouvre_JA-JP0935023821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisLouvre_JA-JP0935023821",
+            "copyright": "カルーゼル凱旋門とルーヴル・ピラミッド, フランス パリ (© Jon Hicks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BC%E3%83%AB%E5%87%B1%E6%97%8B%E9%96%80%E3%81%A8%E3%83%AB%E3%83%BC%E3%83%B4%E3%83%AB%E3%83%BB%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89&form=hpcapt&filters=HpDate%3a%2220230726_1500%22",
+            "title": "夕焼けを浴びるカルーゼル凱旋門",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_ParisLouvre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "45d38612b0ef9246d2ad64332978048a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230725",
             "fullstartdate": "202307251500",
