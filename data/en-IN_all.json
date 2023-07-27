@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-26 00:51:11",
-    "Total": 455,
+    "LastUpdate": "2023-07-27 00:48:45",
+    "Total": 456,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230726",
+            "fullstartdate": "202307261830",
+            "enddate": "20230727",
+            "url": "/th?id=OHR.ParisLouvre_EN-IN3403483883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisLouvre_EN-IN3403483883",
+            "copyright": "Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=arc+de+triomphe+du+carrousel&form=hpcapt&filters=HpDate%3a%2220230726_1830%22",
+            "title": "A triumphant pose",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_ParisLouvre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d03ed8e6945d6f8d167374ca32faa56",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230725",
             "fullstartdate": "202307251830",
