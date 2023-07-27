@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-26 00:50:42",
-    "Total": 455,
+    "LastUpdate": "2023-07-27 00:48:17",
+    "Total": 456,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230726",
+            "fullstartdate": "202307261600",
+            "enddate": "20230727",
+            "url": "/th?id=OHR.ParisLouvre_ZH-CN0341884841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisLouvre_ZH-CN0341884841",
+            "copyright": "卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E9%B2%81%E5%A1%9E%E5%B0%94%E5%87%AF%E6%97%8B%E9%97%A8&form=hpcapt&mkt=zh-cn",
+            "title": "凯旋的姿态",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_ParisLouvre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "64546466f986ce699ae75617f760f755",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230725",
             "fullstartdate": "202307251600",
