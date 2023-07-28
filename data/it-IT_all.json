@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-27 00:48:54",
-    "Total": 456,
+    "LastUpdate": "2023-07-28 00:48:14",
+    "Total": 457,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230727",
+            "fullstartdate": "202307272200",
+            "enddate": "20230728",
+            "url": "/th?id=OHR.PandiZucchero_IT-IT1428407618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PandiZucchero_IT-IT1428407618",
+            "copyright": "Faraglione Pan di Zucchero, Sardegna, Italia (© DaLiu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=scoglio+Pan+di+zucchero+masua&form=hpcapt",
+            "title": "Lo scoglio dei titani",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230727_PandiZucchero%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33507ecb08934991a2210ef2f499339e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230726",
             "fullstartdate": "202307262200",
