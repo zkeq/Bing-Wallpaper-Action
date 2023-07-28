@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-27 00:48:23",
-    "Total": 456,
+    "LastUpdate": "2023-07-28 00:47:43",
+    "Total": 457,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230727",
+            "fullstartdate": "202307270700",
+            "enddate": "20230728",
+            "url": "/th?id=OHR.ParisLouvre_EN-US2282259448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisLouvre_EN-US2282259448",
+            "copyright": "Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=arc+de+triomphe+du+carrousel&form=hpcapt&filters=HpDate%3a%2220230727_0700%22",
+            "title": "Another Arc de Triomphe?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230727_ParisLouvre%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3f960fea7ddc21998922dfb8ec39b71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230726",
             "fullstartdate": "202307260700",
