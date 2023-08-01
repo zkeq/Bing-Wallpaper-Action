@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-07-31 00:38:34",
-    "Total": 460,
+    "LastUpdate": "2023-08-01 00:40:00",
+    "Total": 461,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230731",
+            "fullstartdate": "202307311500",
+            "enddate": "20230801",
+            "url": "/th?id=OHR.Neputa2023_JA-JP9406912677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Neputa2023_JA-JP9406912677",
+            "copyright": "絢爛華麗な弘前ねぷた, 青森県 弘前市 (© David Parker/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F&form=hpcapt&filters=HpDate%3a%2220230731_1500%22",
+            "title": "今日から弘前ねぷたまつり",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230731_Neputa2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a43570d14cb4a65617fa26765466a1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230730",
             "fullstartdate": "202307301500",
