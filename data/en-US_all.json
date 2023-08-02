@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-01 00:39:56",
-    "Total": 461,
+    "LastUpdate": "2023-08-02 00:40:19",
+    "Total": 462,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230801",
+            "fullstartdate": "202308010700",
+            "enddate": "20230802",
+            "url": "/th?id=OHR.DenaliClimber_EN-US1974827525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DenaliClimber_EN-US1974827525",
+            "copyright": "Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=denali+mountain&form=hpcapt&filters=HpDate%3a%2220230801_0700%22",
+            "title": "There's no denying the power of Denali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230801_DenaliClimber%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0dac9e24b7740d1ee3dfd265b1b0707",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230731",
             "fullstartdate": "202307310700",
