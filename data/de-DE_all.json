@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-01 00:40:05",
-    "Total": 461,
+    "LastUpdate": "2023-08-02 00:40:27",
+    "Total": 462,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230801",
+            "fullstartdate": "202308012200",
+            "enddate": "20230802",
+            "url": "/th?id=OHR.CapitolButte_DE-DE2292807711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapitolButte_DE-DE2292807711",
+            "copyright": "Sandsteinfelsen im Capitol-Reef-Nationalpark, Utah, USA (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Der+Capitol-Reef-Nationalpark&form=hpcapt&filters=HpDate%3a%2220230801_2200%22",
+            "title": "Imposante Sandsteinfelsen und pittoresker Himmel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230801_CapitolButte%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b6c7783c265119d1db2e18193d73bb6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230731",
             "fullstartdate": "202307312200",
