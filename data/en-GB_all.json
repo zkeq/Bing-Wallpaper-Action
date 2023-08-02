@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-01 00:40:13",
-    "Total": 460,
+    "LastUpdate": "2023-08-02 00:40:36",
+    "Total": 461,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230801",
+            "fullstartdate": "202308012300",
+            "enddate": "20230802",
+            "url": "/th?id=OHR.CapitolButte_EN-GB7380981920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapitolButte_EN-GB7380981920",
+            "copyright": "Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=hpcapt&filters=HpDate%3a%2220230801_2300%22",
+            "title": "A painter's palette of nature's hues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230801_CapitolButte%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59af8368db2749b9ec7a908d04e6f2c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230731",
             "fullstartdate": "202307312300",
