@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-01 00:40:09",
-    "Total": 460,
+    "LastUpdate": "2023-08-02 00:40:32",
+    "Total": 461,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230801",
+            "fullstartdate": "202308010400",
+            "enddate": "20230802",
+            "url": "/th?id=OHR.ConfederationBridge_EN-CA0324940251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConfederationBridge_EN-CA0324940251",
+            "copyright": "Confederation Bridge, Prince Edward Island, Canada (© Henryk Sadura/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Confederation+Bridge+Prince+Edward+Island&form=hpcapt&filters=HpDate%3a%2220230801_0400%22",
+            "title": "The only road to P.E.I.",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230801_ConfederationBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92e2693f7dc238e21eb23ac3913332fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230731",
             "fullstartdate": "202307310400",
