@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-02 00:40:49",
-    "Total": 462,
+    "LastUpdate": "2023-08-03 00:48:56",
+    "Total": 463,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230802",
+            "fullstartdate": "202308022200",
+            "enddate": "20230803",
+            "url": "/th?id=OHR.ZelenciSprings_IT-IT8957946104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZelenciSprings_IT-IT8957946104",
+            "copyright": "Riserva naturale di Zelenci, Slovenia (© Andrey Danilovich/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=riserva+naturale+di+zelenci+dov%C3%A8+&form=hpcapt",
+            "title": "Il turchese della natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230802_ZelenciSprings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a07a70321ae6d963500f5316f3e0a605",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230801",
             "fullstartdate": "202308012200",
