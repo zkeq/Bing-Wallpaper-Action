@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-03 00:48:42",
-    "Total": 462,
+    "LastUpdate": "2023-08-04 00:46:08",
+    "Total": 463,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230803",
+            "fullstartdate": "202308032300",
+            "enddate": "20230804",
+            "url": "/th?id=OHR.GothicRuins_EN-GB8583804853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GothicRuins_EN-GB8583804853",
+            "copyright": "Tintern Abbey, Wales (© matthibcn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tintern+Abbey+Wales&form=hpcapt&filters=HpDate%3a%2220230803_2300%22",
+            "title": "A cantilevered window to the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230803_GothicRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf8f96d3aba4978305bd0dd5c0216acf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230802",
             "fullstartdate": "202308022300",
