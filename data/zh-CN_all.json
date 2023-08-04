@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-03 00:48:19",
-    "Total": 463,
+    "LastUpdate": "2023-08-04 00:45:44",
+    "Total": 464,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230803",
+            "fullstartdate": "202308031600",
+            "enddate": "20230804",
+            "url": "/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GothicRuins_ZH-CN8317467997",
+            "copyright": "廷特恩修道院，威尔士 (© matthibcn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%BB%B7%E7%89%B9%E6%81%A9%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn",
+            "title": "一扇通向过去的窗",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230803_GothicRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06a604524259454d23e879782945a6e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230802",
             "fullstartdate": "202308021600",
