@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-04 00:45:44",
-    "Total": 464,
+    "LastUpdate": "2023-08-05 00:48:13",
+    "Total": 465,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230804",
+            "fullstartdate": "202308041600",
+            "enddate": "20230805",
+            "url": "/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtlanticPuffin_ZH-CN8523220989",
+            "copyright": "大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E9%B9%A6&form=hpcapt&mkt=zh-cn",
+            "title": "海鹦繁殖季",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_AtlanticPuffin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "201ea50f189fddd7a94c91f6c94aa068",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230803",
             "fullstartdate": "202308031600",
