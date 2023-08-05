@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-04 00:46:21",
-    "Total": 464,
+    "LastUpdate": "2023-08-05 00:48:50",
+    "Total": 465,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230804",
+            "fullstartdate": "202308042200",
+            "enddate": "20230805",
+            "url": "/th?id=OHR.AtlanticPuffin_IT-IT2092454905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtlanticPuffin_IT-IT2092454905",
+            "copyright": "Pulcinella di mare, Islanda (© Peter Hering/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=pulcinella+di+mare+atlantica&form=hpcapt",
+            "title": "È la stagione del puffling!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_AtlanticPuffin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "97164cd9d61b0db9eeb92215e0fa205b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230803",
             "fullstartdate": "202308032200",
