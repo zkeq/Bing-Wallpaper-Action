@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-04 00:46:08",
-    "Total": 463,
+    "LastUpdate": "2023-08-05 00:48:36",
+    "Total": 464,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230804",
+            "fullstartdate": "202308042300",
+            "enddate": "20230805",
+            "url": "/th?id=OHR.AtlanticPuffin_EN-GB2052526705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtlanticPuffin_EN-GB2052526705",
+            "copyright": "Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Atlantic+puffin+Iceland&form=hpcapt&filters=HpDate%3a%2220230804_2300%22",
+            "title": "It's puffling season!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_AtlanticPuffin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d1d9a511d4d2d66d225f7c50006273e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230803",
             "fullstartdate": "202308032300",
