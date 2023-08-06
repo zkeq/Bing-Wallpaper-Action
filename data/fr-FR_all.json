@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-05 00:48:45",
-    "Total": 465,
+    "LastUpdate": "2023-08-06 00:48:30",
+    "Total": 466,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230805",
+            "fullstartdate": "202308052200",
+            "enddate": "20230806",
+            "url": "/th?id=OHR.NaganoPond_FR-FR1287961189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaganoPond_FR-FR1287961189",
+            "copyright": "Kagami-ike (étang miroir), Nagano, Japon (© Shoji Fujita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nagano&form=hpcapt&filters=HpDate%3a%2220230805_2200%22",
+            "title": "Un miroir qui reflète la beauté de la nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230805_NaganoPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65a82d01542c68ae1a6b601221252ea7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230804",
             "fullstartdate": "202308042200",
