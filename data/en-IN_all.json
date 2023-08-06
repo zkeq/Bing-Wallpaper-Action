@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-05 00:48:41",
-    "Total": 465,
+    "LastUpdate": "2023-08-06 00:48:26",
+    "Total": 466,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230805",
+            "fullstartdate": "202308051830",
+            "enddate": "20230806",
+            "url": "/th?id=OHR.NaganoPond_EN-IN2550312141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaganoPond_EN-IN2550312141",
+            "copyright": "Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nagano&form=hpcapt&filters=HpDate%3a%2220230805_1830%22",
+            "title": "A mirror reflecting nature's beauty",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230805_NaganoPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66b139ec90038452c46ce7723bf91a03",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230804",
             "fullstartdate": "202308041830",
