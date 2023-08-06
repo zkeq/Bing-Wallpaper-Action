@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-05 00:48:27",
-    "Total": 465,
+    "LastUpdate": "2023-08-06 00:48:12",
+    "Total": 466,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230805",
+            "fullstartdate": "202308052200",
+            "enddate": "20230806",
+            "url": "/th?id=OHR.NaganoPond_DE-DE6341491566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaganoPond_DE-DE6341491566",
+            "copyright": "Kagami-ike (Spiegelteich), Nagano, Japan (© Shoji Fujita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nagano+Pr%C3%A4fektur&form=hpcapt&filters=HpDate%3a%2220230805_2200%22",
+            "title": "Spiegelteich und Meditation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230805_NaganoPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4da638acf92b8bac6cfe9dc242fc061",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230804",
             "fullstartdate": "202308042200",
