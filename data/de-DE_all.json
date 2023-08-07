@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-06 00:48:12",
-    "Total": 466,
+    "LastUpdate": "2023-08-07 00:48:25",
+    "Total": 467,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230806",
+            "fullstartdate": "202308062200",
+            "enddate": "20230807",
+            "url": "/th?id=OHR.BodieNC_DE-DE6827272449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieNC_DE-DE6827272449",
+            "copyright": "Bodie Island Leuchtturm, Nags Head, North Carolina, USA (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=North+Carolina%2c+USA&form=hpcapt&filters=HpDate%3a%2220230806_2200%22",
+            "title": "Leuchtturm bei Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_BodieNC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f72089ecb184390eac772c9a5d0790e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230805",
             "fullstartdate": "202308052200",
