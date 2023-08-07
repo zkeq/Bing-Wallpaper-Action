@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-06 00:48:03",
-    "Total": 466,
+    "LastUpdate": "2023-08-07 00:48:16",
+    "Total": 467,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230806",
+            "fullstartdate": "202308060700",
+            "enddate": "20230807",
+            "url": "/th?id=OHR.NaganoPond_EN-US2600828175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaganoPond_EN-US2600828175",
+            "copyright": "Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nagano&form=hpcapt&filters=HpDate%3a%2220230806_0700%22",
+            "title": "A peaceful place for self-reflection",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_NaganoPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d65d96e12ee697471250aa345e3ca4e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230805",
             "fullstartdate": "202308050700",
