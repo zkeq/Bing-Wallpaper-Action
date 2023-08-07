@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-06 00:48:30",
-    "Total": 466,
+    "LastUpdate": "2023-08-07 00:48:42",
+    "Total": 467,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230806",
+            "fullstartdate": "202308062200",
+            "enddate": "20230807",
+            "url": "/th?id=OHR.BodieNC_FR-FR1484385172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieNC_FR-FR1484385172",
+            "copyright": "Phare de Bodie Island, Nags Head, Caroline du Nord, États-Unis (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=phare+de+bodie+island&form=hpcapt&filters=HpDate%3a%2220230806_2200%22",
+            "title": "Une lumière parmi les étoiles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_BodieNC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f84af00629f09c1413b5dc0e64d88982",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230805",
             "fullstartdate": "202308052200",
