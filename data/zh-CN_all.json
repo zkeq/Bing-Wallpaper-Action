@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-06 00:47:58",
-    "Total": 466,
+    "LastUpdate": "2023-08-07 00:48:10",
+    "Total": 467,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230806",
+            "fullstartdate": "202308061600",
+            "enddate": "20230807",
+            "url": "/th?id=OHR.BodieNC_ZH-CN9027999004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieNC_ZH-CN9027999004",
+            "copyright": "博迪岛灯塔，马头城，北卡罗来纳州，美国 (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%9A%E8%BF%AA%E5%B2%9B%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "地上一点，天上万千",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_BodieNC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d0b07e889ed02ad02e9529ee84b096c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230805",
             "fullstartdate": "202308051600",
