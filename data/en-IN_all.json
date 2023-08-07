@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-06 00:48:26",
-    "Total": 466,
+    "LastUpdate": "2023-08-07 00:48:38",
+    "Total": 467,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230806",
+            "fullstartdate": "202308061830",
+            "enddate": "20230807",
+            "url": "/th?id=OHR.BodieNC_EN-IN4440410782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieNC_EN-IN4440410782",
+            "copyright": "Bodie Island Lighthouse, Nags Head, North Carolina, USA (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bodie+island+lighthouse&form=hpcapt&filters=HpDate%3a%2220230806_1830%22",
+            "title": "One on land, a million in space",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_BodieNC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41f1b2071fd3ed8d704c622fd30bafdd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230805",
             "fullstartdate": "202308051830",
