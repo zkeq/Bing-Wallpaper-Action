@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-07 00:48:42",
-    "Total": 467,
+    "LastUpdate": "2023-08-08 00:49:43",
+    "Total": 468,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230807",
+            "fullstartdate": "202308072200",
+            "enddate": "20230808",
+            "url": "/th?id=OHR.LavenderFrance_FR-FR1870932466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LavenderFrance_FR-FR1870932466",
+            "copyright": "Champ de lavande sur le plateau de Valensole au lever du jour, Alpes-de-Haute-Provence (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=valensole&form=hpcapt&filters=HpDate%3a%2220230807_2200%22",
+            "title": "Un petit coin de paradis provençal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_LavenderFrance%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "26c3e81b53abe4faa5551506b6b99bdb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230806",
             "fullstartdate": "202308062200",
