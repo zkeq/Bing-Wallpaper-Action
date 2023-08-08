@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-07 00:48:20",
-    "Total": 467,
+    "LastUpdate": "2023-08-08 00:49:21",
+    "Total": 468,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230807",
+            "fullstartdate": "202308071500",
+            "enddate": "20230808",
+            "url": "/th?id=OHR.InfinityTaipei_JA-JP1456482125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.InfinityTaipei_JA-JP1456482125",
+            "copyright": "「無限」の高速道路, 台湾 台北市 (© Tavarius/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8F%B0%E5%8C%97%E3%81%AE%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF&form=hpcapt&filters=HpDate%3a%2220230807_1500%22",
+            "title": "今日は無限大の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_InfinityTaipei%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "85a87e1919a96125c0f0332ea7c6e96f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230806",
             "fullstartdate": "202308061500",
