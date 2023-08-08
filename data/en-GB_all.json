@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-07 00:48:34",
-    "Total": 466,
+    "LastUpdate": "2023-08-08 00:49:34",
+    "Total": 467,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230807",
+            "fullstartdate": "202308072300",
+            "enddate": "20230808",
+            "url": "/th?id=OHR.MichaelsMountCornwall_EN-GB2571189638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichaelsMountCornwall_EN-GB2571189638",
+            "copyright": "View of St Michael's Mount in Cornwall at sunset, Penzance, Cornwall, United Kingdom (© Valerie2000/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=St+Michael%27s+Mount+in+Cornwall&form=hpcapt&filters=HpDate%3a%2220230807_2300%22",
+            "title": "Cheerful colours of a Cornwall classic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_MichaelsMountCornwall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77f26eda95a4ca685eeda4abd8f02680",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230806",
             "fullstartdate": "202308062300",
