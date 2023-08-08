@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-07 00:48:16",
-    "Total": 467,
+    "LastUpdate": "2023-08-08 00:49:16",
+    "Total": 468,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230807",
+            "fullstartdate": "202308070700",
+            "enddate": "20230808",
+            "url": "/th?id=OHR.BodieNC_EN-US2693689463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieNC_EN-US2693689463",
+            "copyright": "Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bodie+island+lighthouse&form=hpcapt&filters=HpDate%3a%2220230807_0700%22",
+            "title": "Sentinels of the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_BodieNC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d6f6eaf75aa64088ea607bad6dc606c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230806",
             "fullstartdate": "202308060700",
