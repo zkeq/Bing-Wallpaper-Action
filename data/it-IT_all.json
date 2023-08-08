@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-07 00:48:47",
-    "Total": 467,
+    "LastUpdate": "2023-08-08 00:49:47",
+    "Total": 468,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230807",
+            "fullstartdate": "202308072200",
+            "enddate": "20230808",
+            "url": "/th?id=OHR.InfinityTaipei_IT-IT6968967057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.InfinityTaipei_IT-IT6968967057",
+            "copyright": "Autostrade a Taipei, Taiwan (© Tavarius/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=citt%C3%A0+di+taipei+scheda&form=hpcapt",
+            "title": "Verso l'infinito e ritorno",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_InfinityTaipei%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4c74f210e8d17da075834e9cdce51f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230806",
             "fullstartdate": "202308062200",
