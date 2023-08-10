@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-09 00:48:33",
-    "Total": 469,
+    "LastUpdate": "2023-08-10 00:38:31",
+    "Total": 470,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230809",
+            "fullstartdate": "202308092200",
+            "enddate": "20230810",
+            "url": "/th?id=OHR.WorldLionDay_FR-FR2264324589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WorldLionDay_FR-FR2264324589",
+            "copyright": "Lion au Masaï Mara, Kenya (© Scott Davis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=lion+d%27Afrique&form=hpcapt&filters=HpDate%3a%2220230809_2200%22",
+            "title": "\"Roi de la jungle\" ? En fait, non !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230809_WorldLionDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ce8733d20633809900696905fc1af3b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230808",
             "fullstartdate": "202308082200",
