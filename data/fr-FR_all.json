@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-10 00:38:31",
-    "Total": 470,
+    "LastUpdate": "2023-08-11 00:48:08",
+    "Total": 471,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230810",
+            "fullstartdate": "202308102200",
+            "enddate": "20230811",
+            "url": "/th?id=OHR.JupiterArtland_FR-FR3158432015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JupiterArtland_FR-FR3158432015",
+            "copyright": "Piscine \"Gateway\" du parc d’Art Jupiter Artland, Édimbourg, Écosse (© Owen Humphreys/PA Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=jupiter+artland+edimbourg&form=hpcapt&filters=HpDate%3a%2220230810_2200%22",
+            "title": "Un grand bain d’art contemporain !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230810_JupiterArtland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "811b34fd97836231151eb3a184c87574",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230809",
             "fullstartdate": "202308092200",
