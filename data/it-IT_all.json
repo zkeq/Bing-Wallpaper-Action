@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-10 00:38:36",
-    "Total": 470,
+    "LastUpdate": "2023-08-11 00:48:13",
+    "Total": 471,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230810",
+            "fullstartdate": "202308102200",
+            "enddate": "20230811",
+            "url": "/th?id=OHR.MarsalaSalt_IT-IT4114634251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarsalaSalt_IT-IT4114634251",
+            "copyright": "Saline al tramonto, Marsala (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Marsala&form=hpcapt",
+            "title": "Marsala, una delle meraviglie della Sicilia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230810_MarsalaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98c11dbca03b76a6b1de95704fabadd1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230809",
             "fullstartdate": "202308092200",
