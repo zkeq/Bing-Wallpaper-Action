@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-11 00:47:35",
-    "Total": 471,
+    "LastUpdate": "2023-08-12 00:47:28",
+    "Total": 472,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230811",
+            "fullstartdate": "202308111600",
+            "enddate": "20230812",
+            "url": "/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThreeElephants_ZH-CN8708711085",
+            "copyright": "大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "保护温柔的巨人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230811_ThreeElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf454d257729df2644f0ea2b0828390e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230810",
             "fullstartdate": "202308101600",
