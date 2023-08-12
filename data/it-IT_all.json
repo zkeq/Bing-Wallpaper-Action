@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-11 00:48:13",
-    "Total": 471,
+    "LastUpdate": "2023-08-12 00:48:05",
+    "Total": 472,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230811",
+            "fullstartdate": "202308112200",
+            "enddate": "20230812",
+            "url": "/th?id=OHR.ThreeElephants_IT-IT7027027610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThreeElephants_IT-IT7027027610",
+            "copyright": "Una famiglia di elefanti presso il Parco nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=elefante+africano+cosa+%C3%A8&form=hpcapt",
+            "title": "Proteggiamo i giganti buoni!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230811_ThreeElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43f6e11e25db465d439bf933c7589e5a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230810",
             "fullstartdate": "202308102200",
