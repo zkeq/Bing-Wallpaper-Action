@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-11 00:47:50",
-    "Total": 471,
+    "LastUpdate": "2023-08-12 00:47:43",
+    "Total": 472,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230811",
+            "fullstartdate": "202308112200",
+            "enddate": "20230812",
+            "url": "/th?id=OHR.ThreeElephants_DE-DE4887796804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThreeElephants_DE-DE4887796804",
+            "copyright": "Elefantenfamilie im Amboseli-Nationalpark, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Elefanten&form=hpcapt&filters=HpDate%3a%2220230811_2200%22",
+            "title": "Schützen wir die sanften Riesen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230811_ThreeElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f01db04b3cf2517f1225a9c28bb3b26a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230810",
             "fullstartdate": "202308102200",
