@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-12 00:47:47",
-    "Total": 471,
+    "LastUpdate": "2023-08-13 00:48:06",
+    "Total": 472,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230812",
+            "fullstartdate": "202308120400",
+            "enddate": "20230813",
+            "url": "/th?id=OHR.ThreeElephants_EN-CA2249169958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThreeElephants_EN-CA2249169958",
+            "copyright": "Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=world+elephant+day&form=hpcapt&filters=HpDate%3a%2220230812_0400%22",
+            "title": "Protecting the gentle giants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230812_ThreeElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65dae9fb0b4b5a3167e7a0aa154de3fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230811",
             "fullstartdate": "202308110400",
