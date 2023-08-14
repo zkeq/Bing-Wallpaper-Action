@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-13 00:48:20",
-    "Total": 473,
+    "LastUpdate": "2023-08-14 00:48:15",
+    "Total": 474,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230813",
+            "fullstartdate": "202308132200",
+            "enddate": "20230814",
+            "url": "/th?id=OHR.VerdonCanyon_FR-FR4159848707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VerdonCanyon_FR-FR4159848707",
+            "copyright": "Canyon des gorges du Verdon, Provence-Alpes-Côte d’Azur (© luisapuccini/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=gorges+du+verdon&form=hpcapt&filters=HpDate%3a%2220230813_2200%22",
+            "title": "Le Grand Canyon de la Provence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230813_VerdonCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8056bc2b5f57098ceb7a848a971b69b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230812",
             "fullstartdate": "202308122200",
