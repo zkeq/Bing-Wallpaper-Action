@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-14 00:47:42",
-    "Total": 474,
+    "LastUpdate": "2023-08-15 00:47:39",
+    "Total": 475,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230814",
+            "fullstartdate": "202308141600",
+            "enddate": "20230815",
+            "url": "/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TaorminaSquare_ZH-CN0273325652",
+            "copyright": "四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%99%B6%E5%B0%94%E7%B1%B3%E7%BA%B3&form=hpcapt&mkt=zh-cn",
+            "title": "发光的矩形广场",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230814_TaorminaSquare%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef73644edcab56a80101f27b3a87c9a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230813",
             "fullstartdate": "202308131600",
