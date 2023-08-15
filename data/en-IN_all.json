@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-14 00:48:10",
-    "Total": 474,
+    "LastUpdate": "2023-08-15 00:48:07",
+    "Total": 475,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230814",
+            "fullstartdate": "202308141830",
+            "enddate": "20230815",
+            "url": "/th?id=OHR.IndependenceDay_EN-IN6025298765_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndependenceDay_EN-IN6025298765",
+            "copyright": "Indian flags selling on Independence Day (© yogesh more/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Independence+day&form=hpcapt&filters=HpDate%3a%2220230814_1830%22",
+            "title": "76 glorious years of independence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230814_IndependenceDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f7bf7c0d72efd8943f61137eae1d494",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230813",
             "fullstartdate": "202308131830",
