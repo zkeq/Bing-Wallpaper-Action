@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-15 00:47:49",
-    "Total": 475,
+    "LastUpdate": "2023-08-16 00:47:42",
+    "Total": 476,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230815",
+            "fullstartdate": "202308151500",
+            "enddate": "20230816",
+            "url": "/th?id=OHR.GozanOkuribi2023_JA-JP6571429669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GozanOkuribi2023_JA-JP6571429669",
+            "copyright": "東山・大文字山の送り火, 京都 (© gyro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%B1%E5%B1%B1%E3%83%BB%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1%E3%81%AE%E9%80%81%E3%82%8A%E7%81%AB&form=hpcapt&filters=HpDate%3a%2220230815_1500%22",
+            "title": "今日は五山送り火",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_GozanOkuribi2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2a328d6894d8d4c20c0ec846f96c36f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230814",
             "fullstartdate": "202308141500",
