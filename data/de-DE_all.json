@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-15 00:47:53",
-    "Total": 475,
+    "LastUpdate": "2023-08-16 00:47:48",
+    "Total": 476,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230815",
+            "fullstartdate": "202308152200",
+            "enddate": "20230816",
+            "url": "/th?id=OHR.KeyWestBridge_DE-DE0913922445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeyWestBridge_DE-DE0913922445",
+            "copyright": "Der Overseas Highway, Florida, USA (© Evgeny Vasenev/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Der+Overseas+Highway+&form=hpcapt&filters=HpDate%3a%2220230815_2200%22",
+            "title": "Auf dem Weg zu Hemingways Haus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_KeyWestBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "488c8fdeeccd62b7fb977e16231f47d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230814",
             "fullstartdate": "202308142200",
