@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-15 00:48:07",
-    "Total": 475,
+    "LastUpdate": "2023-08-16 00:48:01",
+    "Total": 476,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230815",
+            "fullstartdate": "202308151830",
+            "enddate": "20230816",
+            "url": "/th?id=OHR.KeyWestBridge_EN-IN2793637493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeyWestBridge_EN-IN2793637493",
+            "copyright": "Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=overseas+highway&form=hpcapt&filters=HpDate%3a%2220230815_1830%22",
+            "title": "On the open ocean road",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_KeyWestBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "28b5aca367e35b95800768df6a2a965d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230814",
             "fullstartdate": "202308141830",
