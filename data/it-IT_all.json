@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-15 00:48:16",
-    "Total": 475,
+    "LastUpdate": "2023-08-16 00:48:10",
+    "Total": 476,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230815",
+            "fullstartdate": "202308152200",
+            "enddate": "20230816",
+            "url": "/th?id=OHR.KeyWestBridge_IT-IT1027953700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeyWestBridge_IT-IT1027953700",
+            "copyright": "Seven Mile Bridge di Key West, Florida, Stati Uniti (© Evgeny Vasenev/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=seven+mile+bridge+ponte+dov%27%C3%A8&form=hpcapt",
+            "title": "Di isola in isola...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_KeyWestBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2bdb99c43b9c7209cd21f2d92221f5dd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230814",
             "fullstartdate": "202308142200",
