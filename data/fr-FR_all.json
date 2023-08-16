@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-15 00:48:11",
-    "Total": 475,
+    "LastUpdate": "2023-08-16 00:48:05",
+    "Total": 476,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230815",
+            "fullstartdate": "202308152200",
+            "enddate": "20230816",
+            "url": "/th?id=OHR.KeyWestBridge_FR-FR4621663062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeyWestBridge_FR-FR4621663062",
+            "copyright": "Pont Seven Mile à Key West, Floride, États-Unis (© Evgeny Vasenev/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pont+des+sept+milles&form=hpcapt&filters=HpDate%3a%2220230815_2200%22",
+            "title": "La clé des îles Keys",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_KeyWestBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72e465c0f29af9e1e3da2b0e24ff9b62",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230814",
             "fullstartdate": "202308142200",
