@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-16 00:47:32",
-    "Total": 476,
+    "LastUpdate": "2023-08-17 00:47:38",
+    "Total": 477,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230816",
+            "fullstartdate": "202308161600",
+            "enddate": "20230817",
+            "url": "/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761",
+            "copyright": "罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E6%96%AF%E6%A0%BC%E9%9B%B7%E7%9C%81%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "听它咆哮！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_HelmckenWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8d661de0353657f367c461c34ed104e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230815",
             "fullstartdate": "202308151600",
