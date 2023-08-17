@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-16 00:48:01",
-    "Total": 476,
+    "LastUpdate": "2023-08-17 00:48:05",
+    "Total": 477,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230816",
+            "fullstartdate": "202308161830",
+            "enddate": "20230817",
+            "url": "/th?id=OHR.TaorminaSquare_EN-IN6021512448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TaorminaSquare_EN-IN6021512448",
+            "copyright": "Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=taormina&form=hpcapt&filters=HpDate%3a%2220230816_1830%22",
+            "title": "A glowing square of squares",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_TaorminaSquare%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ea59bbc4c87472ea3cb3ff07ac81a14",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230815",
             "fullstartdate": "202308151830",
