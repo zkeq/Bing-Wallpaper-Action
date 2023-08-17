@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-16 00:48:10",
-    "Total": 476,
+    "LastUpdate": "2023-08-17 00:48:14",
+    "Total": 477,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230816",
+            "fullstartdate": "202308162200",
+            "enddate": "20230817",
+            "url": "/th?id=OHR.ManhattanAerial_IT-IT8257270083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManhattanAerial_IT-IT8257270083",
+            "copyright": "Vista aerea di Manhattan, New York City (© Wojtek Zagorski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manhattan+cos%27%C3%A8&form=hpcapt",
+            "title": "Così alti da toccare il cielo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_ManhattanAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a39e7797da5fc08bf84e76188342adda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230815",
             "fullstartdate": "202308152200",
