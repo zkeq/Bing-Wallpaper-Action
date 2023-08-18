@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-17 00:47:57",
-    "Total": 476,
+    "LastUpdate": "2023-08-18 00:47:52",
+    "Total": 477,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230817",
+            "fullstartdate": "202308170400",
+            "enddate": "20230818",
+            "url": "/th?id=OHR.AvatarMountain_EN-CA1615371871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvatarMountain_EN-CA1615371871",
+            "copyright": "'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Zhangjiajie+National+Forest+Park&form=hpcapt&filters=HpDate%3a%2220230817_0400%22",
+            "title": "Gravity-defying wonders of the world",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_AvatarMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a81ae71549a0048074d9d6cbe1a96326",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230816",
             "fullstartdate": "202308160400",
