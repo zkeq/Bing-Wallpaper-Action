@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-17 00:48:10",
-    "Total": 477,
+    "LastUpdate": "2023-08-18 00:48:05",
+    "Total": 478,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230817",
+            "fullstartdate": "202308172200",
+            "enddate": "20230818",
+            "url": "/th?id=OHR.AvatarMountain_FR-FR5022202394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvatarMountain_FR-FR5022202394",
+            "copyright": "Montagnes du film “Avatar”, Parc national forestier de Zhangjiajie, Chine (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Zhangjiajie+ville-pr%C3%A9fecture+chinoise&form=hpcapt&filters=HpDate%3a%2220230817_2200%22",
+            "title": "Un trésor naturel défiant la gravité",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_AvatarMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "baeb89e1fa2b068b482014e46a2dca21",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230816",
             "fullstartdate": "202308162200",
