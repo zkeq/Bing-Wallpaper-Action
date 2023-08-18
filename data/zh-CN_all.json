@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-17 00:47:38",
-    "Total": 477,
+    "LastUpdate": "2023-08-18 00:47:33",
+    "Total": 478,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230817",
+            "fullstartdate": "202308171600",
+            "enddate": "20230818",
+            "url": "/th?id=OHR.AvatarMountain_ZH-CN3268610045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvatarMountain_ZH-CN3268610045",
+            "copyright": "哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "挑战地心引力的世界奇观",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_AvatarMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d55d01dc7eae8b4bc1f4fd696450eca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230816",
             "fullstartdate": "202308161600",
