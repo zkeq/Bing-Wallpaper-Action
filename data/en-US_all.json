@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-17 00:47:43",
-    "Total": 477,
+    "LastUpdate": "2023-08-18 00:47:39",
+    "Total": 478,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230817",
+            "fullstartdate": "202308170700",
+            "enddate": "20230818",
+            "url": "/th?id=OHR.SequoiaSunlight_EN-US6214316930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SequoiaSunlight_EN-US6214316930",
+            "copyright": "Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=sequoia+and+kings+canyon+national+parks+california&form=hpcapt&filters=HpDate%3a%2220230817_0700%22",
+            "title": "Things are looking up",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_SequoiaSunlight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dee1c73e0f42a4a67dc20ce740c84293",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230816",
             "fullstartdate": "202308160700",
