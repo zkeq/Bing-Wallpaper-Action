@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-18 00:47:57",
-    "Total": 477,
+    "LastUpdate": "2023-08-19 00:47:56",
+    "Total": 478,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230818",
+            "fullstartdate": "202308182300",
+            "enddate": "20230819",
+            "url": "/th?id=OHR.CameraSquirrel_EN-GB8816985093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CameraSquirrel_EN-GB8816985093",
+            "copyright": "Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=photography&form=hpcapt&filters=HpDate%3a%2220230818_2300%22",
+            "title": "I'm ready for my close-up, Mr. DeSquirrel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230818_CameraSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5be7c637b3f8aac3e5ec4b41c37ed348",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230817",
             "fullstartdate": "202308172300",
