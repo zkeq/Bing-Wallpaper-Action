@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-18 00:47:33",
-    "Total": 478,
+    "LastUpdate": "2023-08-19 00:47:32",
+    "Total": 479,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230818",
+            "fullstartdate": "202308181600",
+            "enddate": "20230819",
+            "url": "/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CameraSquirrel_ZH-CN3580119980",
+            "copyright": "看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%91%84%E5%BD%B1&form=hpcapt&mkt=zh-cn",
+            "title": "我准备好拍特写了，松鼠先生",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230818_CameraSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf63490566ca8799e5035177b1cc355c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230817",
             "fullstartdate": "202308171600",
