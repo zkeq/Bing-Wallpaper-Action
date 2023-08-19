@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-18 00:47:43",
-    "Total": 478,
+    "LastUpdate": "2023-08-19 00:47:43",
+    "Total": 479,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230818",
+            "fullstartdate": "202308181500",
+            "enddate": "20230819",
+            "url": "/th?id=OHR.CameraSquirrel_JA-JP2800387213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CameraSquirrel_JA-JP2800387213",
+            "copyright": "カメラを覗き込んでいるリス (© Alfredo Piedrafita/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E8%A6%97%E3%81%8D%E8%BE%BC%E3%82%80%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220230818_1500%22",
+            "title": "今日は世界写真の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230818_CameraSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6846c9e61a617a7565cd55619999fae2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230817",
             "fullstartdate": "202308171500",
