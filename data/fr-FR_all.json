@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-18 00:48:05",
-    "Total": 478,
+    "LastUpdate": "2023-08-19 00:48:05",
+    "Total": 479,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230818",
+            "fullstartdate": "202308182200",
+            "enddate": "20230819",
+            "url": "/th?id=OHR.Morbihan_FR-FR5973672727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Morbihan_FR-FR5973672727",
+            "copyright": "Alignements de Carnac, Golfe du Morbihan, France (© Guy Ozenne/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=carnac&form=hpcapt&filters=HpDate%3a%2220230818_2200%22",
+            "title": "Des menhirs à perte de vue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230818_Morbihan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a4cf7d5d4cb70fdb0257e1bd8179861",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230817",
             "fullstartdate": "202308172200",
