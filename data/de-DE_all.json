@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-19 00:47:47",
-    "Total": 479,
+    "LastUpdate": "2023-08-20 00:48:05",
+    "Total": 480,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230819",
+            "fullstartdate": "202308192200",
+            "enddate": "20230820",
+            "url": "/th?id=OHR.StartPointLight_DE-DE0396922418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StartPointLight_DE-DE0396922418",
+            "copyright": "Start Point Leuchtturm, South Devon, England (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Start+Point+Leuchtturm%2c+South+Devon%2c+England&form=hpcapt&filters=HpDate%3a%2220230819_2200%22",
+            "title": "Wächter der See",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230819_StartPointLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "897880885e22380cf9c34ea2cff6d412",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230818",
             "fullstartdate": "202308182200",
