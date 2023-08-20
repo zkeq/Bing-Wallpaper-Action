@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-19 00:47:43",
-    "Total": 479,
+    "LastUpdate": "2023-08-20 00:48:00",
+    "Total": 480,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230819",
+            "fullstartdate": "202308191500",
+            "enddate": "20230820",
+            "url": "/th?id=OHR.StartPointLight_JA-JP3029099538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StartPointLight_JA-JP3029099538",
+            "copyright": "スタートポイント灯台, イングランド デヴォン州 (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220230819_1500%22",
+            "title": "今日は国際灯台ウィークエンド",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230819_StartPointLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "be3dbdd41dde293c6a9b8e48d2eaf323",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230818",
             "fullstartdate": "202308181500",
