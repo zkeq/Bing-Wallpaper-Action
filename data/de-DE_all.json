@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-20 00:48:05",
-    "Total": 480,
+    "LastUpdate": "2023-08-21 00:47:51",
+    "Total": 481,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230820",
+            "fullstartdate": "202308202200",
+            "enddate": "20230821",
+            "url": "/th?id=OHR.EmeraldLakeYukon_DE-DE3171972927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EmeraldLakeYukon_DE-DE3171972927",
+            "copyright": "Emerald See, South Klondike Highway, Yukon, Kanada (© artherng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Emerald+Lake%2c+South+Klondike+Highway%2c+Yukon%2c+Kanada&form=hpcapt&filters=HpDate%3a%2220230820_2200%22",
+            "title": "Gold- oder Wasserrausch?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_EmeraldLakeYukon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ea17248dcd1258eca8cc63cddd30251",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230819",
             "fullstartdate": "202308192200",
