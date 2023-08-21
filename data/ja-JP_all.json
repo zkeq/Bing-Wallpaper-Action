@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-20 00:48:00",
-    "Total": 480,
+    "LastUpdate": "2023-08-21 00:47:46",
+    "Total": 481,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230820",
+            "fullstartdate": "202308201500",
+            "enddate": "20230821",
+            "url": "/th?id=OHR.EmeraldLakeYukon_JA-JP3388151344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EmeraldLakeYukon_JA-JP3388151344",
+            "copyright": "エメラルド湖, カナダ ユーコン準州 (© artherng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Emerald+Lake+Yukon&form=hpcapt&filters=HpDate%3a%2220230820_1500%22",
+            "title": "今日はカナダのディスカバリーデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_EmeraldLakeYukon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8dbb50e48b3334882afefd456fb5f98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230819",
             "fullstartdate": "202308191500",
