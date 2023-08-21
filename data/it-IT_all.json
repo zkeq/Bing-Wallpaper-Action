@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-20 00:48:27",
-    "Total": 480,
+    "LastUpdate": "2023-08-21 00:48:13",
+    "Total": 481,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230820",
+            "fullstartdate": "202308202200",
+            "enddate": "20230821",
+            "url": "/th?id=OHR.EmeraldLakeYukon_IT-IT7373029287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EmeraldLakeYukon_IT-IT7373029287",
+            "copyright": "Lago Emerald, South Klondike Highway, Canada (© artherng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=yukon+canada&form=hpcapt",
+            "title": "Brillante dall'interno",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_EmeraldLakeYukon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed4f1af464369c29d6f4d8da7dcd0c67",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230819",
             "fullstartdate": "202308192200",
