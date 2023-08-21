@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-20 00:48:14",
-    "Total": 479,
+    "LastUpdate": "2023-08-21 00:48:00",
+    "Total": 480,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230820",
+            "fullstartdate": "202308202300",
+            "enddate": "20230821",
+            "url": "/th?id=OHR.CotswoldEngland_EN-GB8705579866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CotswoldEngland_EN-GB8705579866",
+            "copyright": "Cotswolds village of Snowshill, Gloucestershire, England, United Kingdom, Europe (© Gavin Hellier/robertharding/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cotswolds+England&form=hpcapt&filters=HpDate%3a%2220230820_2300%22",
+            "title": "'Cot' in this town's charms",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_CotswoldEngland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f43f9dcfcab11979e76a6d3940af4236",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230819",
             "fullstartdate": "202308192300",
