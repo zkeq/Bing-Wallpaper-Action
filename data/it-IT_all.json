@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-22 00:48:16",
-    "Total": 482,
+    "LastUpdate": "2023-08-23 00:48:12",
+    "Total": 483,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230822",
+            "fullstartdate": "202308222200",
+            "enddate": "20230823",
+            "url": "/th?id=OHR.SkogafossWaterfall_IT-IT4739675900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkogafossWaterfall_IT-IT4739675900",
+            "copyright": "Cascata di Skógafoss, Islanda (© Maridav/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=cascata+di+sk%C3%B3gafoss+islanda+cos%27%C3%A8&form=hpcapt",
+            "title": "Fai il pieno di energia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230822_SkogafossWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "421ffb6dac1e4f5f025c9d7bd2c818ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230821",
             "fullstartdate": "202308212200",
