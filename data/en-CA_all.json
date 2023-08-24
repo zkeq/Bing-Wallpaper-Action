@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-23 00:47:54",
-    "Total": 482,
+    "LastUpdate": "2023-08-24 00:48:00",
+    "Total": 483,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230823",
+            "fullstartdate": "202308230400",
+            "enddate": "20230824",
+            "url": "/th?id=OHR.SkogafossWaterfall_EN-CA7806747245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkogafossWaterfall_EN-CA7806747245",
+            "copyright": "Skógafoss waterfall, Iceland (© Maridav/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Skogafoss+Iceland&form=hpcapt&filters=HpDate%3a%2220230823_0400%22",
+            "title": "Making a splash",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230823_SkogafossWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb26b5659aa07f1599adb54106842a38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230822",
             "fullstartdate": "202308220400",
