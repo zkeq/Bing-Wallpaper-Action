@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-23 00:47:35",
-    "Total": 483,
+    "LastUpdate": "2023-08-24 00:47:40",
+    "Total": 484,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230823",
+            "fullstartdate": "202308231600",
+            "enddate": "20230824",
+            "url": "/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SharkFinCove_ZH-CN4952934195",
+            "copyright": "鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E8%9A%80%E6%9F%B1&form=hpcapt&mkt=zh-cn",
+            "title": "自然“鳍”观",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230823_SharkFinCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c583506339305f6507a8d8971a9a7c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230822",
             "fullstartdate": "202308221600",
