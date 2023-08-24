@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-23 00:47:59",
-    "Total": 482,
+    "LastUpdate": "2023-08-24 00:48:04",
+    "Total": 483,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230823",
+            "fullstartdate": "202308232300",
+            "enddate": "20230824",
+            "url": "/th?id=OHR.SharkFinCove_EN-GB1405629426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SharkFinCove_EN-GB1405629426",
+            "copyright": "Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Davenport+California&form=hpcapt&filters=HpDate%3a%2220230823_2300%22",
+            "title": "What a fin-tastic view!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230823_SharkFinCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8f73b750c887b12aeaa3f428675b88b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230822",
             "fullstartdate": "202308222300",
