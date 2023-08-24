@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-23 00:48:08",
-    "Total": 483,
+    "LastUpdate": "2023-08-24 00:48:13",
+    "Total": 484,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230823",
+            "fullstartdate": "202308232200",
+            "enddate": "20230824",
+            "url": "/th?id=OHR.SharkFinCove_FR-FR0012058027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SharkFinCove_FR-FR0012058027",
+            "copyright": "Crique Shark Fin, Davenport, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=erosion+du+littoral&form=hpcapt&filters=HpDate%3a%2220230823_2200%22",
+            "title": "Une crique qui porte bien son nom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230823_SharkFinCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b303066cead233b3bdcee25fc35ff1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230822",
             "fullstartdate": "202308222200",
