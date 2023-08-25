@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-24 00:48:00",
-    "Total": 483,
+    "LastUpdate": "2023-08-25 00:48:03",
+    "Total": 484,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230824",
+            "fullstartdate": "202308240400",
+            "enddate": "20230825",
+            "url": "/th?id=OHR.SharkFinCove_EN-CA8445194301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SharkFinCove_EN-CA8445194301",
+            "copyright": "Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=sea+stacks&form=hpcapt&filters=HpDate%3a%2220230824_0400%22",
+            "title": "What a fin-tastic view!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230824_SharkFinCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b2f1f2a63c63defe9c36f71e6fe624a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230823",
             "fullstartdate": "202308230400",
