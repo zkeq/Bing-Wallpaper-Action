@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-25 00:47:59",
-    "Total": 485,
+    "LastUpdate": "2023-08-26 00:47:50",
+    "Total": 486,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230825",
+            "fullstartdate": "202308252200",
+            "enddate": "20230826",
+            "url": "/th?id=OHR.MuseumIsland_DE-DE4387476793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuseumIsland_DE-DE4387476793",
+            "copyright": "Berliner Dom und die Museumsinsel, Berlin (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Museumsinsel+Berlin&form=hpcapt&filters=HpDate%3a%2220230825_2200%22",
+            "title": "Museumsnächte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230825_MuseumIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a43432c8aca3357b3bd8b0a5a2370c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230824",
             "fullstartdate": "202308242200",
