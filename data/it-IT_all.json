@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:48:13",
-    "Total": 486,
+    "LastUpdate": "2023-08-27 00:48:26",
+    "Total": 487,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308262200",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.RagusaIbla_IT-IT6191963185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RagusaIbla_IT-IT6191963185",
+            "copyright": "Veduta della città di Ragusa Ibla, città patrimonio dell'UNESCO (© DaLiu/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Ragusa+Ibla&form=hpcapt",
+            "title": "Tutta la bellezza della Sicilia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_RagusaIbla%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "832b80b869f106a881a240fa390ed6c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308252200",
