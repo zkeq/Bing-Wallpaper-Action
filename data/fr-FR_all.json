@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:48:08",
-    "Total": 486,
+    "LastUpdate": "2023-08-27 00:48:21",
+    "Total": 487,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308262200",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.JejuIsland_FR-FR0042258249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JejuIsland_FR-FR0042258249",
+            "copyright": "Seongsan Ilchulbong, cône de tuf de l’île de Jeju, Corée du Sud (© Quynh Anh Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jeju+&form=hpcapt&filters=HpDate%3a%2220230826_2200%22",
+            "title": "Un cratère iconique !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_JejuIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a30abf0c3236341dec30c8da6f709c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308252200",
