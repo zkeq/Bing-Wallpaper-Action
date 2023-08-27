@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:47:46",
-    "Total": 486,
+    "LastUpdate": "2023-08-27 00:47:59",
+    "Total": 487,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308261500",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.JejuIsland_JA-JP7046094436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JejuIsland_JA-JP7046094436",
+            "copyright": "済州島の城山日出峰, 韓国 (© Quynh Anh Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B8%88%E5%B7%9E%E5%B3%B6%E3%81%AE%E5%9F%8E%E5%B1%B1%E6%97%A5%E5%87%BA%E5%B3%B0&form=hpcapt&filters=HpDate%3a%2220230826_1500%22",
+            "title": "海原に浮かぶ緑の王冠",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_JejuIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bf44681ef1a39c2beab1876f5f0a3fa8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308251500",
