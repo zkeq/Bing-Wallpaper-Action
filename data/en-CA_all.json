@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:47:55",
-    "Total": 485,
+    "LastUpdate": "2023-08-27 00:48:08",
+    "Total": 486,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308260400",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.MuseumIsland_EN-CA8030435782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuseumIsland_EN-CA8030435782",
+            "copyright": "Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=museum+island+berlin&form=hpcapt&filters=HpDate%3a%2220230826_0400%22",
+            "title": "A night at the museums",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_MuseumIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb35d29f0e914eab57c4fb98d698f20e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308250400",
