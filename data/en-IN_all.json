@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:48:04",
-    "Total": 486,
+    "LastUpdate": "2023-08-27 00:48:17",
+    "Total": 487,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308261830",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.JejuIsland_EN-IN5213186206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JejuIsland_EN-IN5213186206",
+            "copyright": "Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jeju+island&form=hpcapt&filters=HpDate%3a%2220230826_1830%22",
+            "title": "A 'tuff'-tastic crater",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_JejuIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecad5b6c831179caa9e462b113a77070",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308251830",
