@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-26 00:47:50",
-    "Total": 486,
+    "LastUpdate": "2023-08-27 00:48:03",
+    "Total": 487,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230826",
+            "fullstartdate": "202308262200",
+            "enddate": "20230827",
+            "url": "/th?id=OHR.JejuIsland_DE-DE4817558281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JejuIsland_DE-DE4817558281",
+            "copyright": "Seongsan Ilchulbong, Insel Jejudo, Südkorea (© Quynh Anh Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jeju-do+S%C3%BCdkorea&form=hpcapt&filters=HpDate%3a%2220230826_2200%22",
+            "title": "Ein Krater aus Tuff",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_JejuIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02fd1ce591f5e8d2d67689f0b8bdf022",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230825",
             "fullstartdate": "202308252200",
