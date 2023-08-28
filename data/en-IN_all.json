@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-27 00:48:17",
-    "Total": 487,
+    "LastUpdate": "2023-08-28 00:48:21",
+    "Total": 488,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230827",
+            "fullstartdate": "202308271830",
+            "enddate": "20230828",
+            "url": "/th?id=OHR.DubrovnikHarbor_EN-IN9410469914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DubrovnikHarbor_EN-IN9410469914",
+            "copyright": "Fort Lovrijenac, West Harbour, Dubrovnik, Croatia (© Benny Marty/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=dubrovnik+croatia&form=hpcapt&filters=HpDate%3a%2220230827_1830%22",
+            "title": "Watch out for dragons!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230827_DubrovnikHarbor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f78d1d3fe44d660c26dde3e0a45198a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230826",
             "fullstartdate": "202308261830",
