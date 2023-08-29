@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-28 00:48:17",
-    "Total": 487,
+    "LastUpdate": "2023-08-29 00:48:08",
+    "Total": 488,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230828",
+            "fullstartdate": "202308282300",
+            "enddate": "20230829",
+            "url": "/th?id=OHR.MangrovePark_EN-GB9980790677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangrovePark_EN-GB9980790677",
+            "copyright": "Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mangrove&form=hpcapt&filters=HpDate%3a%2220230828_2300%22",
+            "title": "Say hello to these halophytes!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230828_MangrovePark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7d5ac95daa90b5ae485f3d522714b3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230827",
             "fullstartdate": "202308272300",
