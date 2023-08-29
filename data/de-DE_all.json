@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-08-28 00:48:07",
-    "Total": 488,
+    "LastUpdate": "2023-08-29 00:47:59",
+    "Total": 489,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230828",
+            "fullstartdate": "202308282200",
+            "enddate": "20230829",
+            "url": "/th?id=OHR.AvatarMountain_DE-DE4930608814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvatarMountain_DE-DE4930608814",
+            "copyright": "„Avatar-Berge“, Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E2%80%9EAvatar-Berge%E2%80%9C%2c+Zhangjiajie+National+Forest+Park%2c+China&form=hpcapt&filters=HpDate%3a%2220230828_2200%22",
+            "title": "Unglaubliche Magie der Berge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230828_AvatarMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "360ab80d6f170c0ae25e5a012edcccb1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230827",
             "fullstartdate": "202308272200",
