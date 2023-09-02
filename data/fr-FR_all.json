@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-01 00:48:33",
-    "Total": 492,
+    "LastUpdate": "2023-09-02 00:48:08",
+    "Total": 493,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230901",
+            "fullstartdate": "202309012200",
+            "enddate": "20230902",
+            "url": "/th?id=OHR.TinyHummer_FR-FR8365055526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TinyHummer_FR-FR8365055526",
+            "copyright": "Colibri d'Allen, Santa Cruz, Californie, États-Unis (© mallardg500/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=colibri+d%27allen&form=hpcapt&filters=HpDate%3a%2220230901_2200%22",
+            "title": "Savourer une boisson florale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TinyHummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06e0c44b1c025329d3b7f914ce9a5314",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230831",
             "fullstartdate": "202308312200",
