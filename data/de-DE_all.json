@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-01 00:48:16",
-    "Total": 492,
+    "LastUpdate": "2023-09-02 00:47:50",
+    "Total": 493,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230901",
+            "fullstartdate": "202309012200",
+            "enddate": "20230902",
+            "url": "/th?id=OHR.TinyHummer_DE-DE8472975008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TinyHummer_DE-DE8472975008",
+            "copyright": "Allenkolibri, Santa Cruz, Kalifornien, USA (© mallardg500/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Allenkolibri&form=hpcapt&filters=HpDate%3a%2220230901_2200%22",
+            "title": "Zwischenstopp, um Energie zu laden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TinyHummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "687b81a6e4d0eea88bc0fe73e1770216",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230831",
             "fullstartdate": "202308312200",
