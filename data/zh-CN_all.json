@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-02 00:47:35",
-    "Total": 493,
+    "LastUpdate": "2023-09-03 00:47:53",
+    "Total": 494,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230902",
+            "fullstartdate": "202309021600",
+            "enddate": "20230903",
+            "url": "/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManhattanAerial_ZH-CN0036686873",
+            "copyright": "曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9B%BC%E5%93%88%E9%A1%BF&form=hpcapt&mkt=zh-cn",
+            "title": "高耸入云",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230902_ManhattanAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f39e534abb5641a1bbfbf9954321f7f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230901",
             "fullstartdate": "202309011600",
