@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-02 00:47:50",
-    "Total": 493,
+    "LastUpdate": "2023-09-03 00:48:08",
+    "Total": 494,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230902",
+            "fullstartdate": "202309022200",
+            "enddate": "20230903",
+            "url": "/th?id=OHR.ManhattanAerial_DE-DE3168422076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManhattanAerial_DE-DE3168422076",
+            "copyright": "Luftaufnahme von Manhattan, New York City, USA (© Wojtek Zagorski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manhattan&form=hpcapt&filters=HpDate%3a%2220230902_2200%22",
+            "title": "Sehen Sie den Apfel?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230902_ManhattanAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "80a31ac67e9e003fea32ddc547f321cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230901",
             "fullstartdate": "202309012200",
