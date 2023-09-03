@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-02 00:48:12",
-    "Total": 493,
+    "LastUpdate": "2023-09-03 00:48:30",
+    "Total": 494,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230902",
+            "fullstartdate": "202309022200",
+            "enddate": "20230903",
+            "url": "/th?id=OHR.HistoricalRegatta_IT-IT6174180890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HistoricalRegatta_IT-IT6174180890",
+            "copyright": "Regata Storica di Venezia, Venezia, Italia (© Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Regata+storica+di+venezia+cos%27%C3%A8&form=hpcapt",
+            "title": "La Regata della Serenissima",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230902_HistoricalRegatta%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "042430d25bac9f9c6391f50c1ad99381",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230901",
             "fullstartdate": "202309012200",
