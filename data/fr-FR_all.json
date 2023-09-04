@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-03 00:48:26",
-    "Total": 494,
+    "LastUpdate": "2023-09-04 00:48:22",
+    "Total": 495,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230903",
+            "fullstartdate": "202309032200",
+            "enddate": "20230904",
+            "url": "/th?id=OHR.BourgesMarsh_FR-FR0172809073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BourgesMarsh_FR-FR0172809073",
+            "copyright": "Marais de Bourges, Centre-Val de Loire (© Tuul & Bruno Morandi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=marais+de+bourges+image&form=hpcapt&filters=HpDate%3a%2220230903_2200%22",
+            "title": "Une immersion sauvage au cœur de la cité !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230903_BourgesMarsh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0566d298a6f7230f35e96275b443198",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230902",
             "fullstartdate": "202309022200",
