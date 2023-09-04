@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-03 00:48:12",
-    "Total": 493,
+    "LastUpdate": "2023-09-04 00:48:08",
+    "Total": 494,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230903",
+            "fullstartdate": "202309030400",
+            "enddate": "20230904",
+            "url": "/th?id=OHR.ManhattanAerial_EN-CA6943938850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManhattanAerial_EN-CA6943938850",
+            "copyright": "Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manhattan&form=hpcapt&filters=HpDate%3a%2220230903_0400%22",
+            "title": "So high they touch the sky",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230903_ManhattanAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1a16bfeb0fd268944599ee8e0fa3852c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230902",
             "fullstartdate": "202309020400",
