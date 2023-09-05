@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-04 00:47:59",
-    "Total": 495,
+    "LastUpdate": "2023-09-05 00:47:55",
+    "Total": 496,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230904",
+            "fullstartdate": "202309041500",
+            "enddate": "20230905",
+            "url": "/th?id=OHR.MountSegla_JA-JP0339074008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountSegla_JA-JP0339074008",
+            "copyright": "センヤ島のセグラ山, ノルウェー (© imageBROKER/Moritz Wolf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%A4%E5%B3%B6%E3%81%AE%E3%82%BB%E3%82%B0%E3%83%A9%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220230904_1500%22",
+            "title": "海面から切り立った岩峰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230904_MountSegla%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b5d2b4f141d0dffd2aeda5cbb285ccb7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230903",
             "fullstartdate": "202309031500",
