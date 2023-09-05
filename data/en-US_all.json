@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-04 00:47:55",
-    "Total": 495,
+    "LastUpdate": "2023-09-05 00:47:50",
+    "Total": 496,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230904",
+            "fullstartdate": "202309040700",
+            "enddate": "20230905",
+            "url": "/th?id=OHR.LaborDayWorkers_EN-US3448430770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LaborDayWorkers_EN-US3448430770",
+            "copyright": "Construction workers on scaffolding (© Bits and Splits/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=labor+day&form=hpcapt&filters=HpDate%3a%2220230904_0700%22",
+            "title": "Time to clock out",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230904_LaborDayWorkers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e1f39ef3719546aa13d223cfcd511b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230903",
             "fullstartdate": "202309030700",
