@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-04 00:48:04",
-    "Total": 495,
+    "LastUpdate": "2023-09-05 00:47:59",
+    "Total": 496,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230904",
+            "fullstartdate": "202309042200",
+            "enddate": "20230905",
+            "url": "/th?id=OHR.MountSegla_DE-DE4409695618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountSegla_DE-DE4409695618",
+            "copyright": "Berg Segla, Senja Insel, Troms und Finnmark, Norwegen (© imageBROKER/Moritz Wolf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Senja+Norwegen&form=hpcapt&filters=HpDate%3a%2220230904_2200%22",
+            "title": "Herr der Ringe oder Game of Thrones?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230904_MountSegla%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f34a7adcca56a0310ca83ebd57bc382",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230903",
             "fullstartdate": "202309032200",
