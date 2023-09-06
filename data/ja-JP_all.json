@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-05 00:47:55",
-    "Total": 496,
+    "LastUpdate": "2023-09-06 00:47:52",
+    "Total": 497,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230905",
+            "fullstartdate": "202309051500",
+            "enddate": "20230906",
+            "url": "/th?id=OHR.CreteHarbor_JA-JP0584096203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CreteHarbor_JA-JP0584096203",
+            "copyright": "レティムノの港, ギリシャ (© Gatsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AC%E3%83%86%E3%82%A3%E3%83%A0%E3%83%8E%E3%81%AE%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220230905_1500%22",
+            "title": "ヴェネツィア風の美しい街並",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230905_CreteHarbor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f7e3a7578fa11f2ad2beec1a9f90889",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230904",
             "fullstartdate": "202309041500",
