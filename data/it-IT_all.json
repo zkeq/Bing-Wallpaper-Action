@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-05 00:48:22",
-    "Total": 496,
+    "LastUpdate": "2023-09-06 00:48:19",
+    "Total": 497,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230905",
+            "fullstartdate": "202309052200",
+            "enddate": "20230906",
+            "url": "/th?id=OHR.CreteHarbor_IT-IT6052319754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CreteHarbor_IT-IT6052319754",
+            "copyright": "Vecchio porto veneziano, Retimo, Creta, Grecia (© Gatsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=retimo+comune+greco+cos%27%C3%A8+&form=hpcapt",
+            "title": "Pronti a gettare l’ancora!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230905_CreteHarbor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "736be43bcd0b89148a130db59d9cd4c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230904",
             "fullstartdate": "202309042200",
