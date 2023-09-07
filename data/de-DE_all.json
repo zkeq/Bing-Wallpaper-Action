@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-06 00:47:57",
-    "Total": 497,
+    "LastUpdate": "2023-09-07 00:47:55",
+    "Total": 498,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230906",
+            "fullstartdate": "202309062200",
+            "enddate": "20230907",
+            "url": "/th?id=OHR.ReichstagBeiNacht_DE-DE5694677012_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReichstagBeiNacht_DE-DE5694677012",
+            "copyright": "Der Reichstag unter einem Sternenhimmel, Berlin (© MarioGuti/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Reichstagsgeb%C3%A4ude&form=hpcapt&filters=HpDate%3a%2220230906_2200%22",
+            "title": "Der Reichstag in all seiner Pracht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_ReichstagBeiNacht%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a86cbb7fdd0dab8e1cbeedb836089747",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230905",
             "fullstartdate": "202309052200",
