@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-06 00:48:01",
-    "Total": 496,
+    "LastUpdate": "2023-09-07 00:48:00",
+    "Total": 497,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230906",
+            "fullstartdate": "202309060400",
+            "enddate": "20230907",
+            "url": "/th?id=OHR.CreteHarbor_EN-CA1720286368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CreteHarbor_EN-CA1720286368",
+            "copyright": "Old Venetian harbour, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rethymno+crete+greece&form=hpcapt&filters=HpDate%3a%2220230906_0400%22",
+            "title": "Ready to drop anchor?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CreteHarbor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb3de6ec300aa9caf3ec65bb77a56d73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230905",
             "fullstartdate": "202309050400",
