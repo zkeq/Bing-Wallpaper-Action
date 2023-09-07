@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-06 00:48:06",
-    "Total": 496,
+    "LastUpdate": "2023-09-07 00:48:04",
+    "Total": 497,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230906",
+            "fullstartdate": "202309062300",
+            "enddate": "20230907",
+            "url": "/th?id=OHR.CamelsAbove_EN-GB1942537770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamelsAbove_EN-GB1942537770",
+            "copyright": "Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=camels&form=hpcapt&filters=HpDate%3a%2220230906_2300%22",
+            "title": "Ships of the desert, ahoy!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CamelsAbove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a2a0d259af6f1e386e1224bc3886a10e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230905",
             "fullstartdate": "202309052300",
