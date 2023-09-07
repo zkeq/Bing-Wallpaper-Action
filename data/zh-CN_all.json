@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-06 00:47:42",
-    "Total": 497,
+    "LastUpdate": "2023-09-07 00:47:41",
+    "Total": 498,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230906",
+            "fullstartdate": "202309061600",
+            "enddate": "20230907",
+            "url": "/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamelsAbove_ZH-CN1389810021",
+            "copyright": "沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%AA%86%E9%A9%BC&form=hpcapt&mkt=zh-cn",
+            "title": "沙漠之舟",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CamelsAbove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f26cd0025c557cdf692ce3995d4b0879",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230905",
             "fullstartdate": "202309051600",
