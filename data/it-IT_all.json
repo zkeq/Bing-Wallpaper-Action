@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-06 00:48:19",
-    "Total": 497,
+    "LastUpdate": "2023-09-07 00:48:17",
+    "Total": 498,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230906",
+            "fullstartdate": "202309062200",
+            "enddate": "20230907",
+            "url": "/th?id=OHR.CamelsAbove_IT-IT6972066019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamelsAbove_IT-IT6972066019",
+            "copyright": "Cammelli nel deserto, Emirati Arabi Uniti  (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Camelus+Linnaeus+cos%27%C3%A8%3f+&form=hpcapt",
+            "title": "Navi del deserto, ahoy!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CamelsAbove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8c7dafbb2cb264675d6cc2c10da890a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230905",
             "fullstartdate": "202309052200",
