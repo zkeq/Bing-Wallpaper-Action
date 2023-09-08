@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-07 00:48:04",
-    "Total": 497,
+    "LastUpdate": "2023-09-08 00:48:03",
+    "Total": 498,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230907",
+            "fullstartdate": "202309072300",
+            "enddate": "20230908",
+            "url": "/th?id=OHR.BathCircus_EN-GB3224549053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BathCircus_EN-GB3224549053",
+            "copyright": "Georgian housing, The Circus, Bath, Somerset, England (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Literacy+Day&form=hpcapt&filters=HpDate%3a%2220230907_2300%22",
+            "title": "Jane Austen's literary circle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230907_BathCircus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "452b49e33249f324c98d7582bf98d603",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230906",
             "fullstartdate": "202309062300",
