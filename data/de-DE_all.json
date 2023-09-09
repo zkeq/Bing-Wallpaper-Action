@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-08 00:47:54",
-    "Total": 499,
+    "LastUpdate": "2023-09-09 00:47:55",
+    "Total": 500,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230908",
+            "fullstartdate": "202309082200",
+            "enddate": "20230909",
+            "url": "/th?id=OHR.AyutthayaTemple_DE-DE9492204311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AyutthayaTemple_DE-DE9492204311",
+            "copyright": "Wat Chai Watthanaram, Historischer Park von Ayutthaya, Thailand (© Weerasak Saeku/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ayutthaya+Historischer+Park&form=hpcapt&filters=HpDate%3a%2220230908_2200%22",
+            "title": "Ruinen eines königlichen Tempels",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230908_AyutthayaTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f27a22f845974f7f1614229b750acc09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230907",
             "fullstartdate": "202309072200",
