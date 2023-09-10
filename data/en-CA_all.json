@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-09 00:48:00",
-    "Total": 499,
+    "LastUpdate": "2023-09-10 00:48:12",
+    "Total": 500,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230909",
+            "fullstartdate": "202309090400",
+            "enddate": "20230910",
+            "url": "/th?id=OHR.AyutthayaTemple_EN-CA7395171545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AyutthayaTemple_EN-CA7395171545",
+            "copyright": "Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=ayutthaya+historical+park+thailand&form=hpcapt&filters=HpDate%3a%2220230909_0400%22",
+            "title": "Ruins of a royal temple",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230909_AyutthayaTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccd898363d0e1425227ba396ba6b96c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230908",
             "fullstartdate": "202309080400",
