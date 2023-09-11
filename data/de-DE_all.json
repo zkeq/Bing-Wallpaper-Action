@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-10 00:48:08",
-    "Total": 501,
+    "LastUpdate": "2023-09-11 00:48:01",
+    "Total": 502,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230910",
+            "fullstartdate": "202309102200",
+            "enddate": "20230911",
+            "url": "/th?id=OHR.MarathonMedoc_DE-DE0778851579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarathonMedoc_DE-DE0778851579",
+            "copyright": "Sonnenaufgang über den Weinbergen in Médoc, Frankreich (© Esperanza33/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Region+M%C3%A9doc+Frankreich&form=hpcapt&filters=HpDate%3a%2220230910_2200%22",
+            "title": "Wo Geschichte, Natur, Sport und Wein aufeinandertreffen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230910_MarathonMedoc%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b5caf6c0f8b2f9b2e21c4544839775ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230909",
             "fullstartdate": "202309092200",
