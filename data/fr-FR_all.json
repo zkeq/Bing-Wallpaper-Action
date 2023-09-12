@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-11 00:48:19",
-    "Total": 502,
+    "LastUpdate": "2023-09-12 00:48:05",
+    "Total": 503,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230911",
+            "fullstartdate": "202309112200",
+            "enddate": "20230912",
+            "url": "/th?id=OHR.NorthSeaStairs_FR-FR5596287434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthSeaStairs_FR-FR5596287434",
+            "copyright": "Mer du Nord au coucher du soleil, Norddorf, île d'Amrum, Allemagne (© Frederick Doerschem/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Norddorf+auf+Amrum+allemagne&form=hpcapt&filters=HpDate%3a%2220230911_2200%22",
+            "title": "Le ciel, le soleil et la mer…",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230911_NorthSeaStairs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ab2ba22682ca7ede775647798e8aa27d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230910",
             "fullstartdate": "202309102200",
