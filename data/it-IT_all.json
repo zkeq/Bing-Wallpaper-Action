@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-12 00:48:09",
-    "Total": 503,
+    "LastUpdate": "2023-09-13 00:48:23",
+    "Total": 504,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230912",
+            "fullstartdate": "202309122200",
+            "enddate": "20230913",
+            "url": "/th?id=OHR.HemakutaHill_IT-IT1160628582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HemakutaHill_IT-IT1160628582",
+            "copyright": "Templi sulla collina di Hemakuta, Hampi, Karnataka, India (© Images of india/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Hampi+dove+%C3%A8&form=hpcapt",
+            "title": "Sussurri dal passato",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1283a81e31cfe4eb1df9e59a3e3403a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230911",
             "fullstartdate": "202309112200",
