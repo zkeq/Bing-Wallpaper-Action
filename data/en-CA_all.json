@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-12 00:47:51",
-    "Total": 502,
+    "LastUpdate": "2023-09-13 00:48:05",
+    "Total": 503,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230912",
+            "fullstartdate": "202309120400",
+            "enddate": "20230913",
+            "url": "/th?id=OHR.NorthSeaStairs_EN-CA4141904220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthSeaStairs_EN-CA4141904220",
+            "copyright": "North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Norddorf&form=hpcapt&filters=HpDate%3a%2220230912_0400%22",
+            "title": "Next stop, the horizon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_NorthSeaStairs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "87658a83b929da1dbd9220eb7b538253",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230911",
             "fullstartdate": "202309110400",
