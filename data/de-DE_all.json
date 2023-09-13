@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-12 00:47:47",
-    "Total": 503,
+    "LastUpdate": "2023-09-13 00:48:01",
+    "Total": 504,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230912",
+            "fullstartdate": "202309122200",
+            "enddate": "20230913",
+            "url": "/th?id=OHR.HemakutaHill_DE-DE2402524948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HemakutaHill_DE-DE2402524948",
+            "copyright": "Tempel auf dem Hemakuta-Gebirge, Hampi, Karnataka, Indien (© Images of india/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Tempel+auf+dem+Hemakuta-Gebirge%2c+Hampi%2c+Karnataka%2c+Indien&form=hpcapt&filters=HpDate%3a%2220230912_2200%22",
+            "title": "Geflüster der Vergangenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53eafb3d22856f2154be51afa8f0aee8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230911",
             "fullstartdate": "202309112200",
