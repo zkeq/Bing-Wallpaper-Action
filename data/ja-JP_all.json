@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-12 00:47:42",
-    "Total": 503,
+    "LastUpdate": "2023-09-13 00:47:56",
+    "Total": 504,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230912",
+            "fullstartdate": "202309121500",
+            "enddate": "20230913",
+            "url": "/th?id=OHR.HemakutaHill_JA-JP9592522804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HemakutaHill_JA-JP9592522804",
+            "copyright": "ヘーマクータの丘寺院群, インド ハンピ (© Images of india/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%98%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%BC%E3%82%BF%E3%81%AE%E4%B8%98%E5%AF%BA%E9%99%A2%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220230912_1500%22",
+            "title": "過去の栄光を物語る遺跡群",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63c4032ba02e340ec6dab1edb383cf2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230911",
             "fullstartdate": "202309111500",
