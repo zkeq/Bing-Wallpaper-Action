@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-12 00:47:32",
-    "Total": 503,
+    "LastUpdate": "2023-09-13 00:47:46",
+    "Total": 504,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230912",
+            "fullstartdate": "202309121600",
+            "enddate": "20230913",
+            "url": "/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HemakutaHill_ZH-CN7438439036",
+            "copyright": "赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E8%B5%AB%E9%A9%AC%E5%BA%93%E5%A1%94%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "往事的低语",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00a229adba9ba0e36570c1c5141bf83b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230911",
             "fullstartdate": "202309111600",
