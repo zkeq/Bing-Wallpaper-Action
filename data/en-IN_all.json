@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-13 00:48:14",
-    "Total": 504,
+    "LastUpdate": "2023-09-14 00:48:09",
+    "Total": 505,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230913",
+            "fullstartdate": "202309131830",
+            "enddate": "20230914",
+            "url": "/th?id=OHR.MongoliaHorses_EN-IN8500492796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MongoliaHorses_EN-IN8500492796",
+            "copyright": "Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Przewalski%27s+horse&form=hpcapt&filters=HpDate%3a%2220230913_1830%22",
+            "title": "Just two pals horsin’ around",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230913_MongoliaHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02d1d4f687250aae9c11fb7326694227",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230912",
             "fullstartdate": "202309121830",
