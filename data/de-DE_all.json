@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-14 00:47:56",
-    "Total": 505,
+    "LastUpdate": "2023-09-15 00:48:04",
+    "Total": 506,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230914",
+            "fullstartdate": "202309142200",
+            "enddate": "20230915",
+            "url": "/th?id=OHR.AerialCologne_DE-DE6638991328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AerialCologne_DE-DE6638991328",
+            "copyright": "Luftaufnahme von Köln (© Romas_Photo/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%B6ln&form=hpcapt&filters=HpDate%3a%2220230914_2200%22",
+            "title": "Da simmer dabei, dat ist prima, Viva Colonia!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230914_AerialCologne%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2142180c2cee897bf76dbe3706f5cde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230913",
             "fullstartdate": "202309132200",
