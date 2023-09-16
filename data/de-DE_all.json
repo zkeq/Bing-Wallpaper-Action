@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-15 00:48:04",
-    "Total": 506,
+    "LastUpdate": "2023-09-16 00:47:56",
+    "Total": 507,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230915",
+            "fullstartdate": "202309152200",
+            "enddate": "20230916",
+            "url": "/th?id=OHR.OktoberfestBrassBand_DE-DE6535043925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestBrassBand_DE-DE6535043925",
+            "copyright": "Lederhosen und Tradition, Oktoberfest auf der Theresienwiese in München (© FooTToo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220230915_2200%22",
+            "title": "O’zapft is!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230915_OktoberfestBrassBand%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "f9c8f85b8f876825eb86bacb259e91dd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230914",
             "fullstartdate": "202309142200",
