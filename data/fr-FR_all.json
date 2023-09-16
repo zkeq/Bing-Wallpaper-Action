@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-15 00:48:22",
-    "Total": 506,
+    "LastUpdate": "2023-09-16 00:48:14",
+    "Total": 507,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230915",
+            "fullstartdate": "202309152200",
+            "enddate": "20230916",
+            "url": "/th?id=OHR.OktoberfestWorkers_FR-FR0137764412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestWorkers_FR-FR0137764412",
+            "copyright": "Toile de fond historique dans une tente lors de l'Oktoberfest à Theresienwiese, Munich, Allemagne (© Peter Kneffel/picture alliance via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=oktoberfest+&form=hpcapt&filters=HpDate%3a%2220230915_2200%22",
+            "title": "À votre santé !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230915_OktoberfestWorkers%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "2cdb53c145351dadbe030788de2f2fa6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230914",
             "fullstartdate": "202309142200",
