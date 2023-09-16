@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-15 00:48:26",
-    "Total": 506,
+    "LastUpdate": "2023-09-16 00:48:18",
+    "Total": 507,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230915",
+            "fullstartdate": "202309152200",
+            "enddate": "20230916",
+            "url": "/th?id=OHR.SplugenPass_IT-IT3581326681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SplugenPass_IT-IT3581326681",
+            "copyright": "Passo dello Spluga, Svizzera (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Passo+dello+Spluga&form=hpcapt",
+            "title": "Allacciate le cinture di sicurezza!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230915_SplugenPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "706ec3bcd70d47b3568aae41ecb19056",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230914",
             "fullstartdate": "202309142200",
