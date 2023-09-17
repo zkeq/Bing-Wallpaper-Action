@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-16 00:48:18",
-    "Total": 507,
+    "LastUpdate": "2023-09-17 00:48:31",
+    "Total": 508,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230916",
+            "fullstartdate": "202309162200",
+            "enddate": "20230917",
+            "url": "/th?id=OHR.DolomitesParaglider_IT-IT3096263531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitesParaglider_IT-IT3096263531",
+            "copyright": "Parapendio che sorvola le Dolomiti, visto dal Sass Pordoi (© Ilan Shacham/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sass+Pordoi&form=hpcapt",
+            "title": "Volando tra le alte cime",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_DolomitesParaglider%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "515d855cf96c0595e42e74cc86cbe721",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230915",
             "fullstartdate": "202309152200",
