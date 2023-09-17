@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-16 00:47:42",
-    "Total": 507,
+    "LastUpdate": "2023-09-17 00:47:54",
+    "Total": 508,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230916",
+            "fullstartdate": "202309161600",
+            "enddate": "20230917",
+            "url": "/th?id=OHR.CubanTody_ZH-CN8656368705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CubanTody_ZH-CN8656368705",
+            "copyright": "杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴 (© Bruno D'Amicis/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%82%E8%89%B2%E7%9F%AD%E5%B0%BE%E9%B4%97&form=hpcapt&mkt=zh-cn",
+            "title": "杂色短尾鴗",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_CubanTody%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af4afe94a641d29dbf07d3f903795696",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230915",
             "fullstartdate": "202309151600",
