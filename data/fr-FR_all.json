@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-16 00:48:14",
-    "Total": 507,
+    "LastUpdate": "2023-09-17 00:48:27",
+    "Total": 508,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230916",
+            "fullstartdate": "202309162200",
+            "enddate": "20230917",
+            "url": "/th?id=OHR.CubanTody_FR-FR9694698532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CubanTody_FR-FR9694698532",
+            "copyright": "Todier de Cuba, Parc national Alejandro de Humboldt, Cuba (© Bruno D'Amicis/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=todier+de+cuba&form=hpcapt&filters=HpDate%3a%2220230916_2200%22",
+            "title": "Quelle est cette mignonne créature ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_CubanTody%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d1ea7e42360aa61d5b14acf1d51c4c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230915",
             "fullstartdate": "202309152200",
