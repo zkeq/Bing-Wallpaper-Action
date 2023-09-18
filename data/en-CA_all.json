@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-17 00:48:13",
-    "Total": 507,
+    "LastUpdate": "2023-09-18 00:48:05",
+    "Total": 508,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230917",
+            "fullstartdate": "202309170400",
+            "enddate": "20230918",
+            "url": "/th?id=OHR.CubanTody_EN-CA7928245530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CubanTody_EN-CA7928245530",
+            "copyright": "Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Cuban+tody&form=hpcapt&filters=HpDate%3a%2220230917_0400%22",
+            "title": "Can you answer the call?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230917_CubanTody%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48b1d1b9066261703af98c03cca131db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230916",
             "fullstartdate": "202309160400",
