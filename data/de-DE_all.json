@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-17 00:48:09",
-    "Total": 508,
+    "LastUpdate": "2023-09-18 00:48:01",
+    "Total": 509,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230917",
+            "fullstartdate": "202309172200",
+            "enddate": "20230918",
+            "url": "/th?id=OHR.MilkyWayPortugal_DE-DE4795035299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilkyWayPortugal_DE-DE4795035299",
+            "copyright": "Milchstraße über dem Naturpark Südwest-Alentejo, Portugal (© Daniel Garrido/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Naturpark+S%C3%BCdwest-Alentejo%2c+Vicentiner+K%C3%BCste%2c+Alentejo%2c+Portugal++&form=hpcapt&filters=HpDate%3a%2220230917_2200%22",
+            "title": "Regenbögen im Universum",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230917_MilkyWayPortugal%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e4e32524e28d9eea32913dbc561fc9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230916",
             "fullstartdate": "202309162200",
