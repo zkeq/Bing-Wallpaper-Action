@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-18 00:48:01",
-    "Total": 509,
+    "LastUpdate": "2023-09-19 00:48:08",
+    "Total": 510,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230918",
+            "fullstartdate": "202309182200",
+            "enddate": "20230919",
+            "url": "/th?id=OHR.SplugenPass_DE-DE9394174285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SplugenPass_DE-DE9394174285",
+            "copyright": "Splügenpass, Graubünden, Schweiz (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Spl%C3%BCgenpass&form=hpcapt&filters=HpDate%3a%2220230918_2200%22",
+            "title": "Kehren, Kehren...Kehren wir zurück?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230918_SplugenPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "669b9e4f2c76896b369d4be3f4075df6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230917",
             "fullstartdate": "202309172200",
