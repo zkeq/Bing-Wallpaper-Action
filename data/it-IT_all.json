@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-19 00:48:30",
-    "Total": 510,
+    "LastUpdate": "2023-09-20 00:48:26",
+    "Total": 511,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230919",
+            "fullstartdate": "202309192200",
+            "enddate": "20230920",
+            "url": "/th?id=OHR.ArkadiaPark_IT-IT5050525140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArkadiaPark_IT-IT5050525140",
+            "copyright": "Acquedotto di ispirazione romana, Parco Arkadia, Polonia (© PATSTOCK/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Arkadia+Polonia&form=hpcapt",
+            "title": "Acqua sopra e sotto il ponte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230919_ArkadiaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0b4221c6873a0d5ee552205efcec7d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230918",
             "fullstartdate": "202309182200",
