@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-20 00:48:26",
-    "Total": 511,
+    "LastUpdate": "2023-09-21 00:48:27",
+    "Total": 512,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230920",
+            "fullstartdate": "202309202200",
+            "enddate": "20230921",
+            "url": "/th?id=OHR.NobelNorway_IT-IT6268753930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NobelNorway_IT-IT6268753930",
+            "copyright": "All'interno del Centro Nobel per la Pace, Oslo, Norvegia (© Ilyas Ayub/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Centro+Nobel+per+la+Pace+di+Oslo&form=hpcapt",
+            "title": "Riconoscere i campioni di pace",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230920_NobelNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b97628a761a6f4c30c8a693ab75ec765",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230919",
             "fullstartdate": "202309192200",
