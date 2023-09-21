@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-20 00:48:03",
-    "Total": 511,
+    "LastUpdate": "2023-09-21 00:48:05",
+    "Total": 512,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230920",
+            "fullstartdate": "202309202200",
+            "enddate": "20230921",
+            "url": "/th?id=OHR.NobelNorway_DE-DE5677760025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NobelNorway_DE-DE5677760025",
+            "copyright": "Im Inneren des Nobel-Friedenszentrums, Oslo, Norwegen (© Ilyas Ayub/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Nobel-Friedenszentrum&form=hpcapt&filters=HpDate%3a%2220230920_2200%22",
+            "title": "Anerkennung von Friedensaktivisten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230920_NobelNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ebf1530aa05a9bc791d44a97fdeb51d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230919",
             "fullstartdate": "202309192200",
