@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-20 00:48:21",
-    "Total": 511,
+    "LastUpdate": "2023-09-21 00:48:22",
+    "Total": 512,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230920",
+            "fullstartdate": "202309202200",
+            "enddate": "20230921",
+            "url": "/th?id=OHR.NobelNorway_FR-FR0963742399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NobelNorway_FR-FR0963742399",
+            "copyright": "Centre Nobel de la Paix, Oslo, Norvège (© Ilyas Ayub/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Centre+Nobel+de+la+paix&form=hpcapt&filters=HpDate%3a%2220230920_2200%22",
+            "title": "La reconnaissance des défenseurs de la paix",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230920_NobelNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8af7021261acb723f63a9fbd09a18381",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230919",
             "fullstartdate": "202309192200",
