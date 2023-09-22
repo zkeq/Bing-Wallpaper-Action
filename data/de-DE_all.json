@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-21 00:48:05",
-    "Total": 512,
+    "LastUpdate": "2023-09-22 00:48:05",
+    "Total": 513,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230921",
+            "fullstartdate": "202309212200",
+            "enddate": "20230922",
+            "url": "/th?id=OHR.ShamwariRhino_DE-DE5605786066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShamwariRhino_DE-DE5605786066",
+            "copyright": "Zwei männliche Breitmaulnashörner, Shamwari Private Game Reserve, Südafrika (© David Silverman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Breitmaulnashorn&form=hpcapt&filters=HpDate%3a%2220230921_2200%22",
+            "title": "So groß und so niedlich!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230921_ShamwariRhino%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "3c67e0464c981b5fe2b65a9dcd76582d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230920",
             "fullstartdate": "202309202200",
