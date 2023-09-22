@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-21 00:47:56",
-    "Total": 512,
+    "LastUpdate": "2023-09-22 00:47:56",
+    "Total": 513,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230921",
+            "fullstartdate": "202309210700",
+            "enddate": "20230922",
+            "url": "/th?id=OHR.NobelNorway_EN-US3740897457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NobelNorway_EN-US3740897457",
+            "copyright": "Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=international+day+of+peace&form=hpcapt&filters=HpDate%3a%2220230921_0700%22",
+            "title": "Recognizing champions of peace",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230921_NobelNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "39c813a676e182e7a5680ff2742c114b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230920",
             "fullstartdate": "202309200700",
