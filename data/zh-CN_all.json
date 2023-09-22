@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-21 00:47:50",
-    "Total": 512,
+    "LastUpdate": "2023-09-22 00:47:51",
+    "Total": 513,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230921",
+            "fullstartdate": "202309211600",
+            "enddate": "20230922",
+            "url": "/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarsalaSalt_ZH-CN4943158328",
+            "copyright": "马尔萨拉盐田，意大利 (© javarman3/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%B0%94%E8%90%A8%E6%8B%89&form=hpcapt&mkt=zh-cn",
+            "title": "马尔萨拉，西西里岛的奇迹之一",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230921_MarsalaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8115bfa2da35956e25a01002ac1da44d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230920",
             "fullstartdate": "202309201600",
