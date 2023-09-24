@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-23 00:47:47",
-    "Total": 514,
+    "LastUpdate": "2023-09-24 00:48:02",
+    "Total": 515,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230923",
+            "fullstartdate": "202309230700",
+            "enddate": "20230924",
+            "url": "/th?id=OHR.CottonwoodCanyon_EN-US1573845041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CottonwoodCanyon_EN-US1573845041",
+            "copyright": "Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=autumnal+equinox&form=hpcapt&filters=HpDate%3a%2220230923_0700%22",
+            "title": "Awash in autumn hues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230923_CottonwoodCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d83522ce38e81b81b25bec72d45bfa33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230922",
             "fullstartdate": "202309220700",
