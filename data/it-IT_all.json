@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-23 00:48:19",
-    "Total": 514,
+    "LastUpdate": "2023-09-24 00:48:33",
+    "Total": 515,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230923",
+            "fullstartdate": "202309232200",
+            "enddate": "20230924",
+            "url": "/th?id=OHR.FraserRiverBC_IT-IT3080206802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FraserRiverBC_IT-IT3080206802",
+            "copyright": "Fiume Fraser vicino al Monte Robson, Columbia Britannica, Canada (© phototropic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=fiume+fraser+columbia+britannica&form=hpcapt",
+            "title": "Sussulti, gorgoglii e ruggiti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230923_FraserRiverBC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f33637178e9eba6969d1b72650f23c96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230922",
             "fullstartdate": "202309222200",
