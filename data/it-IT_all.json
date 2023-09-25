@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-24 00:48:33",
-    "Total": 515,
+    "LastUpdate": "2023-09-25 00:48:22",
+    "Total": 516,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230924",
+            "fullstartdate": "202309242200",
+            "enddate": "20230925",
+            "url": "/th?id=OHR.GlacierBayOtter_IT-IT3988644980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacierBayOtter_IT-IT3988644980",
+            "copyright": "Lontra marina a Bartlett Cove, Parco Nazionale e riserva di Glacier Bay, Alaska (© Andrew Peacock/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Enhydra+lutris+cos%27%C3%A8&form=hpcapt",
+            "title": "Accomodatevi e fate uno spuntino!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230924_GlacierBayOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3f043d9f4b2c51e54b4bd21ef2793634",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230923",
             "fullstartdate": "202309232200",
