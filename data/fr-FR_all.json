@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-24 00:48:29",
-    "Total": 515,
+    "LastUpdate": "2023-09-25 00:48:17",
+    "Total": 516,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230924",
+            "fullstartdate": "202309242200",
+            "enddate": "20230925",
+            "url": "/th?id=OHR.GlacierBayOtter_FR-FR3887567269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacierBayOtter_FR-FR3887567269",
+            "copyright": "Loutre de mer à Bartlett Cove, parc national et réserve de Glacier Bay, Alaska (© Andrew Peacock/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=loutre+mer&form=hpcapt&filters=HpDate%3a%2220230924_2200%22",
+            "title": "Détente, restauration et relaxation !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230924_GlacierBayOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47bd33364698e5f6d7196fc31669b697",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230923",
             "fullstartdate": "202309232200",
