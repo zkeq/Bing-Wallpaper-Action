@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-24 00:48:20",
-    "Total": 514,
+    "LastUpdate": "2023-09-25 00:48:09",
+    "Total": 515,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230924",
+            "fullstartdate": "202309242300",
+            "enddate": "20230925",
+            "url": "/th?id=OHR.GlacierBayOtter_EN-GB0453826385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacierBayOtter_EN-GB0453826385",
+            "copyright": "Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+otter&form=hpcapt&filters=HpDate%3a%2220230924_2300%22",
+            "title": "Kick back, snack and relax",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230924_GlacierBayOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c02244e8cf5c22b2bb9ca927da954bb8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230923",
             "fullstartdate": "202309232300",
