@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-24 00:48:11",
-    "Total": 515,
+    "LastUpdate": "2023-09-25 00:47:59",
+    "Total": 516,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230924",
+            "fullstartdate": "202309242200",
+            "enddate": "20230925",
+            "url": "/th?id=OHR.GlacierBayOtter_DE-DE8272833767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacierBayOtter_DE-DE8272833767",
+            "copyright": "Seeotter in der Bartlett-Bucht, Glacier-Bay-Nationalpark, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Seeotter&form=hpcapt&filters=HpDate%3a%2220230924_2200%22",
+            "title": "Einfach mal abschalten!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230924_GlacierBayOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a203707c883b0e7084cd114e7c2ed962",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230923",
             "fullstartdate": "202309232200",
