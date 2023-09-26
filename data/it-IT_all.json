@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-25 00:48:22",
-    "Total": 516,
+    "LastUpdate": "2023-09-26 00:48:29",
+    "Total": 517,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230925",
+            "fullstartdate": "202309252200",
+            "enddate": "20230926",
+            "url": "/th?id=OHR.VeniceSkatePark_IT-IT4628971712_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceSkatePark_IT-IT4628971712",
+            "copyright": "Parco da skate di Venice Beach, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=venice(los+angeles)+cos%27%C3%A8&form=hpcapt",
+            "title": "È tempo per un giro sui pattini!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230925_VeniceSkatePark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae97e31952628e628ec5d496d2f31d77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230924",
             "fullstartdate": "202309242200",
