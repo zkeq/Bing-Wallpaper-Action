@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-26 00:48:20",
-    "Total": 517,
+    "LastUpdate": "2023-09-27 00:48:16",
+    "Total": 518,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230926",
+            "fullstartdate": "202309261830",
+            "enddate": "20230927",
+            "url": "/th?id=OHR.CapriKrupp_EN-IN0312535183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapriKrupp_EN-IN0312535183",
+            "copyright": "The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Via+Krupp+Italy&form=hpcapt&filters=HpDate%3a%2220230926_1830%22",
+            "title": "Slow and steady climbs the cliff",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230926_CapriKrupp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3cc2789fb3b94b84acda47b8eb851608",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230925",
             "fullstartdate": "202309251830",
