@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-26 00:48:24",
-    "Total": 517,
+    "LastUpdate": "2023-09-27 00:48:21",
+    "Total": 518,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230926",
+            "fullstartdate": "202309262200",
+            "enddate": "20230927",
+            "url": "/th?id=OHR.CapriKrupp_FR-FR5234013603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapriKrupp_FR-FR5234013603",
+            "copyright": "Via Krupp sur l’île de Capri, Italie (© Mikolaj Niemczewski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Via+Krupp+sentier+capri&form=hpcapt&filters=HpDate%3a%2220230926_2200%22",
+            "title": "Le bonheur au bout du chemin",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230926_CapriKrupp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee3976655537b08f720933955f262bc9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230925",
             "fullstartdate": "202309252200",
