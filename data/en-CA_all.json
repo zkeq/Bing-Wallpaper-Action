@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-26 00:48:11",
-    "Total": 516,
+    "LastUpdate": "2023-09-27 00:48:07",
+    "Total": 517,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230926",
+            "fullstartdate": "202309260400",
+            "enddate": "20230927",
+            "url": "/th?id=OHR.VeniceSkatePark_EN-CA1676969637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceSkatePark_EN-CA1676969637",
+            "copyright": "Venice Beach Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Venice+Skatepark&form=hpcapt&filters=HpDate%3a%2220230926_0400%22",
+            "title": "Waves for wheels",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230926_VeniceSkatePark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c652c3f348296393c57f7a684c4c1f95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230925",
             "fullstartdate": "202309250400",
