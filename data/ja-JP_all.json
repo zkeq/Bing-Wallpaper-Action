@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-26 00:48:02",
-    "Total": 517,
+    "LastUpdate": "2023-09-27 00:47:59",
+    "Total": 518,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230926",
+            "fullstartdate": "202309261500",
+            "enddate": "20230927",
+            "url": "/th?id=OHR.CapriKrupp_JA-JP5333872542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapriKrupp_JA-JP5333872542",
+            "copyright": "カプリ島のクルップ通り, イタリア (© Mikolaj Niemczewski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%97%E3%83%AA%E5%B3%B6%E3%81%AE%E3%82%AF%E3%83%AB%E3%83%83%E3%83%97%E9%80%9A%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220230926_1500%22",
+            "title": "180 度に蛇行してゆく小道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230926_CapriKrupp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "efa36cc5a92c045b20ad40932e1cbb1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230925",
             "fullstartdate": "202309251500",
