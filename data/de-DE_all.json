@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-27 00:48:03",
-    "Total": 518,
+    "LastUpdate": "2023-09-28 00:48:03",
+    "Total": 519,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230927",
+            "fullstartdate": "202309272200",
+            "enddate": "20230928",
+            "url": "/th?id=OHR.MaritimeDay_DE-DE9625425397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaritimeDay_DE-DE9625425397",
+            "copyright": "Containerschiff in der Nähe eines Handelshafens in Thailand (© Suriyapong Thongsawang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationale+Seeschifffahrts-Organisation&form=hpcapt&filters=HpDate%3a%2220230927_2200%22",
+            "title": "Aye aye, Käpt’n!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230927_MaritimeDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "16f2f537445add319e17d3556442d7f1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230926",
             "fullstartdate": "202309262200",
