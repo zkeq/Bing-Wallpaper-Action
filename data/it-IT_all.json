@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-27 00:48:25",
-    "Total": 518,
+    "LastUpdate": "2023-09-28 00:48:25",
+    "Total": 519,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230927",
+            "fullstartdate": "202309272200",
+            "enddate": "20230928",
+            "url": "/th?id=OHR.MaritimeDay_IT-IT6800320885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaritimeDay_IT-IT6800320885",
+            "copyright": "Nave da carico presso un porto commerciale in Thailandia (© Suriyapong Thongsawang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=29+settembre+giornata+mondiale+del+mare&form=hpcapt",
+            "title": "Capitano sul ponte!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230927_MaritimeDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "089ab632ab1cb63bd6e6f14939cc8c8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230926",
             "fullstartdate": "202309262200",
