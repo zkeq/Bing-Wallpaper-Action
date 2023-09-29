@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-28 00:48:07",
-    "Total": 518,
+    "LastUpdate": "2023-09-29 00:48:09",
+    "Total": 519,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230928",
+            "fullstartdate": "202309280400",
+            "enddate": "20230929",
+            "url": "/th?id=OHR.MaritimeDay_EN-CA2505931032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaritimeDay_EN-CA2505931032",
+            "copyright": "Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=world+maritime+day&form=hpcapt&filters=HpDate%3a%2220230928_0400%22",
+            "title": "Aye aye, captain!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230928_MaritimeDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8cc2563a837209f1e7be7c3eb3bf802f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230927",
             "fullstartdate": "202309270400",
