@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-28 00:48:03",
-    "Total": 519,
+    "LastUpdate": "2023-09-29 00:48:04",
+    "Total": 520,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230928",
+            "fullstartdate": "202309282200",
+            "enddate": "20230929",
+            "url": "/th?id=OHR.GuiyangMoon_DE-DE0511223733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuiyangMoon_DE-DE0511223733",
+            "copyright": "Jiaxiu-Pagode bei Vollmond, Guiyang, Provinz Guizhou, China (© Wang Yukun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Guiyang%2c+Provinz+Guizhou%2c+China&form=hpcapt&filters=HpDate%3a%2220230928_2200%22",
+            "title": "Im Blick des Vollmondes!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230928_GuiyangMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "967cfb8188acb627f611daa581a116b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230927",
             "fullstartdate": "202309272200",
