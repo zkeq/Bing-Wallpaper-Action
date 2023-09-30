@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-29 00:48:04",
-    "Total": 520,
+    "LastUpdate": "2023-09-30 00:47:52",
+    "Total": 521,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230929",
+            "fullstartdate": "202309292200",
+            "enddate": "20230930",
+            "url": "/th?id=OHR.ShenandoahFoliage_DE-DE6908193483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShenandoahFoliage_DE-DE6908193483",
+            "copyright": "Herbstfarben im Shenandoah-Nationalpark, Virginia, USA (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shenandoah-Nationalpark&form=hpcapt&filters=HpDate%3a%2220230929_2200%22",
+            "title": "Mein lieber Herbst, wie schön du dich färbst!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230929_ShenandoahFoliage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2c61b8159b4514dd008ae04e18e1180",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230928",
             "fullstartdate": "202309282200",
