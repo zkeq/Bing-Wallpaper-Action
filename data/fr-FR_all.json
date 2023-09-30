@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-29 00:48:22",
-    "Total": 520,
+    "LastUpdate": "2023-09-30 00:48:10",
+    "Total": 521,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230929",
+            "fullstartdate": "202309292200",
+            "enddate": "20230930",
+            "url": "/th?id=OHR.ShenandoahFoliage_FR-FR5502772012_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShenandoahFoliage_FR-FR5502772012",
+            "copyright": "Couleurs d'automne dans le parc national de Shenandoah, Virginie (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=shenandoah+virginie&form=hpcapt&filters=HpDate%3a%2220230929_2200%22",
+            "title": "Légende d’automne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230929_ShenandoahFoliage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95ef17c9b9cceb1dac70e1eacd37df72",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230928",
             "fullstartdate": "202309282200",
