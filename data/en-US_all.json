@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-30 00:47:44",
-    "Total": 521,
+    "LastUpdate": "2023-10-01 00:48:22",
+    "Total": 522,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230930",
+            "fullstartdate": "202309300700",
+            "enddate": "20231001",
+            "url": "/th?id=OHR.ShenandoahFoliage_EN-US9719781431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShenandoahFoliage_EN-US9719781431",
+            "copyright": "Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220230930_0700%22",
+            "title": "Oh Shenandoah",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230930_ShenandoahFoliage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "046df8d29d4a21c99c33533b51e0dc66",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230929",
             "fullstartdate": "202309290700",
