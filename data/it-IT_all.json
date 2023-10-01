@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-30 00:48:15",
-    "Total": 521,
+    "LastUpdate": "2023-10-01 00:48:53",
+    "Total": 522,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230930",
+            "fullstartdate": "202309302200",
+            "enddate": "20231001",
+            "url": "/th?id=OHR.LakeBledSunrise_IT-IT9781591413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeBledSunrise_IT-IT9781591413",
+            "copyright": "Il lago di Bled dal belvedere di Osojnica all'alba, Slovenia (© Rasica/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Bled&form=hpcapt",
+            "title": "Svegliarsi al lago",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230930_LakeBledSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c653fc5171f0ba7f5191b56adb0fce1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230929",
             "fullstartdate": "202309292200",
