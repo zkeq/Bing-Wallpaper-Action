@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-09-30 00:47:52",
-    "Total": 521,
+    "LastUpdate": "2023-10-01 00:48:31",
+    "Total": 522,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20230930",
+            "fullstartdate": "202309302200",
+            "enddate": "20231001",
+            "url": "/th?id=OHR.LakeBledSunrise_DE-DE0873272145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeBledSunrise_DE-DE0873272145",
+            "copyright": "Der Bleder See, von Osojnica aus bei Sonnenaufgang gesehen, Slowenien (© Rasica/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bleder+See+&form=hpcapt&filters=HpDate%3a%2220230930_2200%22",
+            "title": "See und Sonne, welch große Wonne!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230930_LakeBledSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa9147b264f8bcf8b347b4d8b4baa14e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230929",
             "fullstartdate": "202309292200",
