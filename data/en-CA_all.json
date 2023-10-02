@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-01 00:48:35",
-    "Total": 521,
+    "LastUpdate": "2023-10-02 00:48:15",
+    "Total": 522,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231001",
+            "fullstartdate": "202310010400",
+            "enddate": "20231002",
+            "url": "/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476",
+            "copyright": "Mount Assiniboine Provincial Park, Canada (© matt macpherson/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Assiniboine+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220231001_0400%22",
+            "title": "Whispers of winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_AssiniboineProvincialPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf0f6df52efa7235e5737ed6f380ff86",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230930",
             "fullstartdate": "202309300400",
