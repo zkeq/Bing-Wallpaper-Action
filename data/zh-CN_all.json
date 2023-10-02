@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-01 00:48:17",
-    "Total": 522,
+    "LastUpdate": "2023-10-02 00:47:55",
+    "Total": 523,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231001",
+            "fullstartdate": "202310011600",
+            "enddate": "20231002",
+            "url": "/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VerdonCanyon_ZH-CN8872507857",
+            "copyright": "韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E4%B8%9C%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+            "title": "普罗旺斯大峡谷",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_VerdonCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f982639740c123de45026a49ac1be972",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230930",
             "fullstartdate": "202309301600",
