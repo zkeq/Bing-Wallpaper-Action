@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-01 00:48:53",
-    "Total": 522,
+    "LastUpdate": "2023-10-02 00:48:33",
+    "Total": 523,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231001",
+            "fullstartdate": "202310012200",
+            "enddate": "20231002",
+            "url": "/th?id=OHR.VuittonFoundation_IT-IT8425877700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VuittonFoundation_IT-IT8425877700",
+            "copyright": "Fondazione Louis Vuitton al Bois de Boulogne, Parigi (© Atlantide Phototravel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fondazione+Louis+Vuitton+Francia&form=hpcapt",
+            "title": "Un centro d'arte per modaioli",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_VuittonFoundation%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "d1dafa4025e9ec9e2ace34ddd8e6c62c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230930",
             "fullstartdate": "202309302200",
