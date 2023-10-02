@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-01 00:48:31",
-    "Total": 522,
+    "LastUpdate": "2023-10-02 00:48:10",
+    "Total": 523,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231001",
+            "fullstartdate": "202310012200",
+            "enddate": "20231002",
+            "url": "/th?id=OHR.VuittonFoundation_DE-DE1392865865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VuittonFoundation_DE-DE1392865865",
+            "copyright": "Fondation Louis Vuitton in Bois de Boulogne, Paris, Frankreich (© Atlantide Phototravel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fondation+Louis+Vuitton+in+Bois+de+Boulogne%2c+Paris%2c+Frankreich&form=hpcapt&filters=HpDate%3a%2220231001_2200%22",
+            "title": "Kunst und Architektur, lang lebe die Kultur!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_VuittonFoundation%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "0549f6cdc40efb80080905d4dbeb0b7e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230930",
             "fullstartdate": "202309302200",
