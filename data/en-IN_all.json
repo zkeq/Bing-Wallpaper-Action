@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-01 00:48:44",
-    "Total": 522,
+    "LastUpdate": "2023-10-02 00:48:24",
+    "Total": 523,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231001",
+            "fullstartdate": "202310011830",
+            "enddate": "20231002",
+            "url": "/th?id=OHR.MahatmaGandhi_EN-IN0914326367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MahatmaGandhi_EN-IN0914326367",
+            "copyright": "Mahatma Gandhi statue in Chennai at sunset with dramatic sky (© cornfield/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220231001_1830%22",
+            "title": "In memory of Gandhi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_MahatmaGandhi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f39ae1ff31ffada1ed8fcd5fedda01e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20230930",
             "fullstartdate": "202309301830",
