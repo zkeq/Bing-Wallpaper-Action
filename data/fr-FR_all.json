@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-02 00:48:28",
-    "Total": 523,
+    "LastUpdate": "2023-10-03 00:48:19",
+    "Total": 524,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231002",
+            "fullstartdate": "202310022200",
+            "enddate": "20231003",
+            "url": "/th?id=OHR.WhitsundaySwirl_FR-FR8218206764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhitsundaySwirl_FR-FR8218206764",
+            "copyright": "Plage de Whitehaven, îles Whitsunday, Queensland, Australie (© Coral Brunner/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%AEles+Whitsunday+australie&form=hpcapt&filters=HpDate%3a%2220231002_2200%22",
+            "title": "Un archipel au cœur de la Grande Barrière de corail",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231002_WhitsundaySwirl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02f6c2a60376508875270706797dd519",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231001",
             "fullstartdate": "202310012200",
