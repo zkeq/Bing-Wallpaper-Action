@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-03 00:48:23",
-    "Total": 524,
+    "LastUpdate": "2023-10-04 00:48:30",
+    "Total": 525,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231003",
+            "fullstartdate": "202310032200",
+            "enddate": "20231004",
+            "url": "/th?id=OHR.TarantulaNebula_IT-IT1696643757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TarantulaNebula_IT-IT1696643757",
+            "copyright": "Giovani stelle in formazione nella Nebulosa Tarantola, Telescopio Spaziale James Webb (© NASA, ESA, CSA, STScI, Webb ERO Production Team)",
+            "copyrightlink": "https://www.bing.com/search?q=Nebulosa+Tarantola&form=hpcapt",
+            "title": "Un labirinto di stelle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231003_TarantulaNebula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c6a3bfed134e73c44297e94f3dde139",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231002",
             "fullstartdate": "202310022200",
