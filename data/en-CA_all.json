@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-03 00:48:06",
-    "Total": 523,
+    "LastUpdate": "2023-10-04 00:48:10",
+    "Total": 524,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231003",
+            "fullstartdate": "202310030400",
+            "enddate": "20231004",
+            "url": "/th?id=OHR.WhitsundaySwirl_EN-CA0561519607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhitsundaySwirl_EN-CA0561519607",
+            "copyright": "Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Whitsunday+Islands+Queensland&form=hpcapt&filters=HpDate%3a%2220231003_0400%22",
+            "title": "Whitsunday wanderlust",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231003_WhitsundaySwirl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4ff218303b3d06f3927fdd6afac3943",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231002",
             "fullstartdate": "202310020400",
