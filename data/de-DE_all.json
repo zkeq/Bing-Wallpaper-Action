@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-03 00:48:01",
-    "Total": 524,
+    "LastUpdate": "2023-10-04 00:48:05",
+    "Total": 525,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231003",
+            "fullstartdate": "202310032200",
+            "enddate": "20231004",
+            "url": "/th?id=OHR.TarantulaNebula_DE-DE2492434052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TarantulaNebula_DE-DE2492434052",
+            "copyright": "Junge Sterne, die sich im Tarantelnebel bilden, James-Webb-Weltraumteleskop (© NASA, ESA, CSA, STScI, Webb ERO Production Team)",
+            "copyrightlink": "https://www.bing.com/search?q=30+Doradus&form=hpcapt&filters=HpDate%3a%2220231003_2200%22",
+            "title": "Lichter, Sterne und Gase, eine im All sich bildende Oase?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231003_TarantulaNebula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a732d08a5626b1165d46696e62e7f971",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231002",
             "fullstartdate": "202310022200",
