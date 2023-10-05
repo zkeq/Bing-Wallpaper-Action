@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-04 00:48:30",
-    "Total": 525,
+    "LastUpdate": "2023-10-05 00:48:24",
+    "Total": 526,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231004",
+            "fullstartdate": "202310042200",
+            "enddate": "20231005",
+            "url": "/th?id=OHR.GentooJump_IT-IT0819312209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GentooJump_IT-IT0819312209",
+            "copyright": "Pinguini Gentoo, Antartide (© Art Wolfe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pinguini+gentoo&form=hpcapt",
+            "title": "Ecco come si fa!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_GentooJump%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e3524d3b077a54416b473d13ee665e95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231003",
             "fullstartdate": "202310032200",
