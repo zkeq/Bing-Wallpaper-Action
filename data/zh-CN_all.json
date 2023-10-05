@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-04 00:47:50",
-    "Total": 525,
+    "LastUpdate": "2023-10-05 00:47:47",
+    "Total": 526,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231004",
+            "fullstartdate": "202310041600",
+            "enddate": "20231005",
+            "url": "/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GentooJump_ZH-CN9625511393",
+            "copyright": "巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E4%BA%9A%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn",
+            "title": "这是怎么做到的！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_GentooJump%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42d6059502ec7b4c316b8dec5ef90fd6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231003",
             "fullstartdate": "202310031600",
