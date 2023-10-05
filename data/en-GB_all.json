@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-04 00:48:14",
-    "Total": 524,
+    "LastUpdate": "2023-10-05 00:48:11",
+    "Total": 525,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231004",
+            "fullstartdate": "202310042300",
+            "enddate": "20231005",
+            "url": "/th?id=OHR.GentooJump_EN-GB5526095211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GentooJump_EN-GB5526095211",
+            "copyright": "Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gentoo+Penguins&form=hpcapt&filters=HpDate%3a%2220231004_2300%22",
+            "title": "Here's how it's done!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_GentooJump%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c1f1b7649ccae170277b2f9bc4983d49",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231003",
             "fullstartdate": "202310032300",
