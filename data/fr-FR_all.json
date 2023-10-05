@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-04 00:48:25",
-    "Total": 525,
+    "LastUpdate": "2023-10-05 00:48:19",
+    "Total": 526,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231004",
+            "fullstartdate": "202310042200",
+            "enddate": "20231005",
+            "url": "/th?id=OHR.GentooJump_FR-FR8699186535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GentooJump_FR-FR8699186535",
+            "copyright": "Manchots papous, Antarctique (© Art Wolfe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=manchot+papou&form=hpcapt&filters=HpDate%3a%2220231004_2200%22",
+            "title": "Merci professeur !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_GentooJump%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75f27fc8f331530bec5222c0a968ca21",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231003",
             "fullstartdate": "202310032200",
