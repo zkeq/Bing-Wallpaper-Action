@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-05 00:48:02",
-    "Total": 526,
+    "LastUpdate": "2023-10-06 00:48:06",
+    "Total": 527,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231005",
+            "fullstartdate": "202310052200",
+            "enddate": "20231006",
+            "url": "/th?id=OHR.CathedralHeartLight_DE-DE1265486200_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CathedralHeartLight_DE-DE1265486200",
+            "copyright": "Berliner Dom in Herz-Illumination, Tag der Lichter, Berlin (© fhm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Berliner+Dom&form=hpcapt&filters=HpDate%3a%2220231005_2200%22",
+            "title": "Ein magisches Lichtermeer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231005_CathedralHeartLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2e165bcc94f174f3295f058ade2d4eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231004",
             "fullstartdate": "202310042200",
