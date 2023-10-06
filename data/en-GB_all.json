@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-05 00:48:11",
-    "Total": 525,
+    "LastUpdate": "2023-10-06 00:48:15",
+    "Total": 526,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231005",
+            "fullstartdate": "202310052300",
+            "enddate": "20231006",
+            "url": "/th?id=OHR.TaughannockFalls_EN-GB6398059328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TaughannockFalls_EN-GB6398059328",
+            "copyright": "Taughannock Falls State Park in Trumansburg, New York, USA (© Paul Massie Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Taughannock+Falls+State+Park&form=hpcapt&filters=HpDate%3a%2220231005_2300%22",
+            "title": "Nature's majesty awaits!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231005_TaughannockFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "477f8e27398e5cb3d8caaddefb02339e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231004",
             "fullstartdate": "202310042300",
