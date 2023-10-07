@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-06 00:48:29",
-    "Total": 527,
+    "LastUpdate": "2023-10-07 00:48:20",
+    "Total": 528,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231006",
+            "fullstartdate": "202310062200",
+            "enddate": "20231007",
+            "url": "/th?id=OHR.GrizzlyFalls_IT-IT0353576964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrizzlyFalls_IT-IT0353576964",
+            "copyright": "Orsi bruni che pescano salmoni alle cascate Brooks, Parco nazionale di Katmai, Alaska, Stati Uniti (© oksana.perkins/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=+parco+nazionale+e+riserva+di+Katmai+dov%27%C3%A8&form=hpcapt",
+            "title": "È ora di pranzo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231006_GrizzlyFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "095ba70122bb43d284997b79e863a446",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231005",
             "fullstartdate": "202310052200",
