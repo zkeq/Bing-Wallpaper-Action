@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-07 00:48:20",
-    "Total": 528,
+    "LastUpdate": "2023-10-08 00:48:40",
+    "Total": 529,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231007",
+            "fullstartdate": "202310072200",
+            "enddate": "20231008",
+            "url": "/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925",
+            "copyright": "La Barcolana, Golfo di Trieste, Italia (© Zakaz86/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Barcolana+cos%60%C3%A8&form=hpcapt",
+            "title": "Issate l’albero di mezzana!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231007_ItalyTriesteBarcolana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ed4cff7b27f6531b4770d5ef5c46bb1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231006",
             "fullstartdate": "202310062200",
