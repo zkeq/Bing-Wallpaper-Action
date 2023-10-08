@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-07 00:48:02",
-    "Total": 527,
+    "LastUpdate": "2023-10-08 00:48:22",
+    "Total": 528,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231007",
+            "fullstartdate": "202310070400",
+            "enddate": "20231008",
+            "url": "/th?id=OHR.GrizzlyFalls_EN-CA5155258695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrizzlyFalls_EN-CA5155258695",
+            "copyright": "Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Katmai+National+Park+and+Preserve+Alaska&form=hpcapt&filters=HpDate%3a%2220231007_0400%22",
+            "title": "Time for self-serve salmon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231007_GrizzlyFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6cfc835fcd25b651b089d0a7835077cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231006",
             "fullstartdate": "202310060400",
