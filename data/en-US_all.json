@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-07 00:47:49",
-    "Total": 528,
+    "LastUpdate": "2023-10-08 00:48:09",
+    "Total": 529,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231007",
+            "fullstartdate": "202310070700",
+            "enddate": "20231008",
+            "url": "/th?id=OHR.GrizzlyFalls_EN-US9219501224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrizzlyFalls_EN-US9219501224",
+            "copyright": "Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=fat+bear+week+2023&form=hpcapt&filters=HpDate%3a%2220231007_0700%22",
+            "title": "Time for self-serve salmon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231007_GrizzlyFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a939d02058ddc3cee2c7a6133613249c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231006",
             "fullstartdate": "202310060700",
