@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-08 00:48:31",
-    "Total": 529,
+    "LastUpdate": "2023-10-09 00:48:13",
+    "Total": 530,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231008",
+            "fullstartdate": "202310081830",
+            "enddate": "20231009",
+            "url": "/th?id=OHR.GwaliorFortMP_EN-IN4137933501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GwaliorFortMP_EN-IN4137933501",
+            "copyright": "Gwalior fort in daytime. Gwalior, Madhya Pradesh, India. (© Dmitry Rukhlenko-Photos of India/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Gwalior+Fort+Madhya+Pradesh&form=hpcapt&filters=HpDate%3a%2220231008_1830%22",
+            "title": "A timeless treasure",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_GwaliorFortMP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c525d9fc9fec1c2bd975f7ac40aff651",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231007",
             "fullstartdate": "202310071830",
