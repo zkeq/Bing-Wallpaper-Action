@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-08 00:48:27",
-    "Total": 528,
+    "LastUpdate": "2023-10-09 00:48:08",
+    "Total": 529,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231008",
+            "fullstartdate": "202310082300",
+            "enddate": "20231009",
+            "url": "/th?id=OHR.EdinburghcityscapeUK_EN-GB5285078030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EdinburghcityscapeUK_EN-GB5285078030",
+            "copyright": "Edinburgh, Scotland (© Andrew Merry/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Edinburgh&form=hpcapt&filters=HpDate%3a%2220231008_2300%22",
+            "title": "A majestic silhouette",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_EdinburghcityscapeUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af60417a52874295fdc1d0c12a45fa6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231007",
             "fullstartdate": "202310072300",
