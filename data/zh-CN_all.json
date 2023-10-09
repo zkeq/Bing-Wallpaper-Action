@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-08 00:48:04",
-    "Total": 529,
+    "LastUpdate": "2023-10-09 00:47:45",
+    "Total": 530,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231008",
+            "fullstartdate": "202310081600",
+            "enddate": "20231009",
+            "url": "/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FremontPetroglyph_ZH-CN5736573545",
+            "copyright": "弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国 (© Dan Leeth/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E5%B2%A9%E7%94%BB&form=hpcapt&mkt=zh-cn",
+            "title": "古老的事故，古代的艺术",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_FremontPetroglyph%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ac3564cb0877207f47adad425841307",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231007",
             "fullstartdate": "202310071600",
