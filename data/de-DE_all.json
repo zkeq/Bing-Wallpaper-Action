@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-08 00:48:18",
-    "Total": 529,
+    "LastUpdate": "2023-10-09 00:47:59",
+    "Total": 530,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231008",
+            "fullstartdate": "202310082200",
+            "enddate": "20231009",
+            "url": "/th?id=OHR.FremontPetroglyph_DE-DE6958068709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FremontPetroglyph_DE-DE6958068709",
+            "copyright": "Fremont-Petroglyphen, Dinosaur National Monument, Jensen, Utah, USA (© Dan Leeth/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Dinosaur+National+Monument&form=hpcapt&filters=HpDate%3a%2220231008_2200%22",
+            "title": "Auf den Spuren unserer Vorfahren",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_FremontPetroglyph%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c5d84221f8fb775a60f607706dd151e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231007",
             "fullstartdate": "202310072200",
