@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-09 00:48:13",
-    "Total": 530,
+    "LastUpdate": "2023-10-10 00:48:13",
+    "Total": 531,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231009",
+            "fullstartdate": "202310091830",
+            "enddate": "20231010",
+            "url": "/th?id=OHR.SoprisSunrise_EN-IN4707739912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SoprisSunrise_EN-IN4707739912",
+            "copyright": "Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Sopris&form=hpcapt&filters=HpDate%3a%2220231009_1830%22",
+            "title": "Rocky Mountain high",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231009_SoprisSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5c0767104f9159a70223c9a336ec7f58",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231008",
             "fullstartdate": "202310081830",
