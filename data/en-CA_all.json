@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-09 00:48:04",
-    "Total": 529,
+    "LastUpdate": "2023-10-10 00:48:04",
+    "Total": 530,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231009",
+            "fullstartdate": "202310090400",
+            "enddate": "20231010",
+            "url": "/th?id=OHR.ThanksgivingDay_EN-CA6565882880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThanksgivingDay_EN-CA6565882880",
+            "copyright": "A bowl full of cranberries, Ontario, Canada (© plainpicture/Design Pics/Julie DeRoche)",
+            "copyrightlink": "https://www.bing.com/search?q=Thanksgiving+in+Canada&form=hpcapt&filters=HpDate%3a%2220231009_0400%22",
+            "title": "Ready to feast?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231009_ThanksgivingDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "968770884e10448a74f6d9c18611480f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231008",
             "fullstartdate": "202310080400",
