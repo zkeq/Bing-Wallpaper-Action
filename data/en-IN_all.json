@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-10 00:48:13",
-    "Total": 531,
+    "LastUpdate": "2023-10-11 00:48:23",
+    "Total": 532,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231010",
+            "fullstartdate": "202310101830",
+            "enddate": "20231011",
+            "url": "/th?id=OHR.JohnDayFossil_EN-IN5898727477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JohnDayFossil_EN-IN5898727477",
+            "copyright": "The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Painted+Hills+Oregon&form=hpcapt&filters=HpDate%3a%2220231010_1830%22",
+            "title": "Echoes of extinction",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231010_JohnDayFossil%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "934cd502c25a8fb898d24c940a8339af",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231009",
             "fullstartdate": "202310091830",
