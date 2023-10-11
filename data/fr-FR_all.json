@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-10 00:48:17",
-    "Total": 531,
+    "LastUpdate": "2023-10-11 00:48:27",
+    "Total": 532,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231010",
+            "fullstartdate": "202310102200",
+            "enddate": "20231011",
+            "url": "/th?id=OHR.JohnDayFossil_FR-FR1967502436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JohnDayFossil_FR-FR1967502436",
+            "copyright": "Collines de Painted Hills dans le bassin de la John Day River National Monut, Oregon, États-Unis (© Ben Herndon/Tandem Stills + Motion)men",
+            "copyrightlink": "https://www.bing.com/search?q=collines+de+Painted+Hills+&form=hpcapt&filters=HpDate%3a%2220231010_2200%22",
+            "title": "Des collines aux couleurs magiques",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231010_JohnDayFossil%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59d45b8be2c5ac030d5f1c2b3fc1337c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231009",
             "fullstartdate": "202310092200",
