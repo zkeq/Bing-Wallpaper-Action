@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-11 00:48:27",
-    "Total": 532,
+    "LastUpdate": "2023-10-12 00:48:13",
+    "Total": 533,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231011",
+            "fullstartdate": "202310112200",
+            "enddate": "20231012",
+            "url": "/th?id=OHR.IdahoBarn_FR-FR2310070103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IdahoBarn_FR-FR2310070103",
+            "copyright": "Vieille grange et champ de colza, région de Palouse, Idaho, États-Unis (© Terry Eggers/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Palouse+%C3%A9tat+de+Washington&form=hpcapt&filters=HpDate%3a%2220231011_2200%22",
+            "title": "Le bonheur est dans le pré !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231011_IdahoBarn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e4aa3d13da528503c25094fd7ca7992",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231010",
             "fullstartdate": "202310102200",
