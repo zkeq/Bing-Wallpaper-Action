@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-12 00:48:04",
-    "Total": 532,
+    "LastUpdate": "2023-10-13 00:48:16",
+    "Total": 533,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231012",
+            "fullstartdate": "202310122300",
+            "enddate": "20231013",
+            "url": "/th?id=OHR.ViesteItaly_EN-GB3219865518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ViesteItaly_EN-GB3219865518",
+            "copyright": "Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vieste&form=hpcapt&filters=HpDate%3a%2220231012_2300%22",
+            "title": "Life on the edge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231012_ViesteItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "172be1943e333b3e76a827a7d1a58790",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231011",
             "fullstartdate": "202310112300",
