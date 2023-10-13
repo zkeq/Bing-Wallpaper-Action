@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-12 00:47:59",
-    "Total": 532,
+    "LastUpdate": "2023-10-13 00:48:12",
+    "Total": 533,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231012",
+            "fullstartdate": "202310120400",
+            "enddate": "20231013",
+            "url": "/th?id=OHR.IdahoBarn_EN-CA8292680751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IdahoBarn_EN-CA8292680751",
+            "copyright": "Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palouse+region&form=hpcapt&filters=HpDate%3a%2220231012_0400%22",
+            "title": "Make hay while the sun shines",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231012_IdahoBarn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d1ee4f770af7ddf7b030b77a5e66984",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231011",
             "fullstartdate": "202310110400",
