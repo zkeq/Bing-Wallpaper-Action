@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-13 00:47:53",
-    "Total": 534,
+    "LastUpdate": "2023-10-14 00:47:38",
+    "Total": 535,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231013",
+            "fullstartdate": "202310131600",
+            "enddate": "20231014",
+            "url": "/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RingEclipse_ZH-CN7063841581",
+            "copyright": "\"火环”日环食，多哈，卡特尔 (© Sorin Furcoi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E7%8E%AF%E9%A3%9F&form=hpcapt&mkt=zh-cn",
+            "title": "它燃烧，燃烧，燃烧",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231013_RingEclipse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3f343fbb422539527bd3462a4fd1f3fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231012",
             "fullstartdate": "202310121600",
