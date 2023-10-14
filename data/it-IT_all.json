@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-13 00:48:29",
-    "Total": 534,
+    "LastUpdate": "2023-10-14 00:48:15",
+    "Total": 535,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231013",
+            "fullstartdate": "202310132200",
+            "enddate": "20231014",
+            "url": "/th?id=OHR.RingEclipse_IT-IT1853781586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RingEclipse_IT-IT1853781586",
+            "copyright": "Eclissi solare anulare \"Ring of Fire\", Doha, Qatar (© Sorin Furcoi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eclissi+solare+anulare&form=hpcapt",
+            "title": "E brucia, brucia, brucia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231013_RingEclipse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8bab92e71ad2ff254c06dbb9d7a8825",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231012",
             "fullstartdate": "202310122200",
