@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-13 00:48:12",
-    "Total": 533,
+    "LastUpdate": "2023-10-14 00:47:57",
+    "Total": 534,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231013",
+            "fullstartdate": "202310130400",
+            "enddate": "20231014",
+            "url": "/th?id=OHR.JasperDarkSky_EN-CA2696799126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JasperDarkSky_EN-CA2696799126",
+            "copyright": "Milky Way over Athabasca Glacier in Jasper National Park, Canada (© Alan Dyer/Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate%3a%2220231013_0400%22",
+            "title": "Which one gets your wish?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231013_JasperDarkSky%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b38f090cb98403919575e4daf51c730",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231012",
             "fullstartdate": "202310120400",
