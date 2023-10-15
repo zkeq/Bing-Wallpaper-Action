@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-14 00:47:44",
-    "Total": 535,
+    "LastUpdate": "2023-10-15 00:48:09",
+    "Total": 536,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231014",
+            "fullstartdate": "202310140700",
+            "enddate": "20231015",
+            "url": "/th?id=OHR.RingEclipse_EN-US1077107553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RingEclipse_EN-US1077107553",
+            "copyright": "'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Annular+solar+eclipse+oct+14&form=hpcapt&filters=HpDate%3a%2220231014_0700%22",
+            "title": "And it burns, burns, burns",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_RingEclipse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b9b3a404526261d41a960654adf395d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231013",
             "fullstartdate": "202310130700",
