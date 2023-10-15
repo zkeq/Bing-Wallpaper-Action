@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-14 00:48:15",
-    "Total": 535,
+    "LastUpdate": "2023-10-15 00:48:43",
+    "Total": 536,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231014",
+            "fullstartdate": "202310142200",
+            "enddate": "20231015",
+            "url": "/th?id=OHR.AutumnHedgehog_IT-IT1498595438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnHedgehog_IT-IT1498595438",
+            "copyright": "Riccio europeo che si ripara nella corteccia degli alberi, Sussex (© Jules Cox/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=riccio+europeo&form=hpcapt",
+            "title": "Questo posto è occupato",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_AutumnHedgehog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71b0b87e16868abc4e27aff2347932f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231013",
             "fullstartdate": "202310132200",
