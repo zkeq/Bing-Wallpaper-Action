@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-14 00:48:06",
-    "Total": 535,
+    "LastUpdate": "2023-10-15 00:48:33",
+    "Total": 536,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231014",
+            "fullstartdate": "202310141830",
+            "enddate": "20231015",
+            "url": "/th?id=OHR.AutumnHedgehog_EN-IN7225406586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnHedgehog_EN-IN7225406586",
+            "copyright": "European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=European+Hedgehog&form=hpcapt&filters=HpDate%3a%2220231014_1830%22",
+            "title": "This spot's taken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_AutumnHedgehog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "301f51127c918f378e2c7c145a53e101",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231013",
             "fullstartdate": "202310131830",
