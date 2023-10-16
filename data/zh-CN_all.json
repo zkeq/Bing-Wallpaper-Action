@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-15 00:48:03",
-    "Total": 536,
+    "LastUpdate": "2023-10-16 00:47:55",
+    "Total": 537,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231015",
+            "fullstartdate": "202310151600",
+            "enddate": "20231016",
+            "url": "/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenEnchantments_ZH-CN9686531344",
+            "copyright": "金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E&form=hpcapt&mkt=zh-cn",
+            "title": "确实令人着迷",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231015_GoldenEnchantments%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e27e8c6bceb3c1f232a338b40253ad56",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231014",
             "fullstartdate": "202310141600",
