@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-15 00:48:28",
-    "Total": 535,
+    "LastUpdate": "2023-10-16 00:48:18",
+    "Total": 536,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231015",
+            "fullstartdate": "202310152300",
+            "enddate": "20231016",
+            "url": "/th?id=OHR.GoldenEnchantments_EN-GB4003650281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenEnchantments_EN-GB4003650281",
+            "copyright": "Golden larches and Prusik Peak, Enchantments, Washington, USA (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=the+enchantments+washington&form=hpcapt&filters=HpDate%3a%2220231015_2300%22",
+            "title": "Enchanting indeed",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231015_GoldenEnchantments%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "daea86d660bb100f3a643c832e352ea2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231014",
             "fullstartdate": "202310142300",
