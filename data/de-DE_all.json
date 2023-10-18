@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-17 00:48:03",
-    "Total": 538,
+    "LastUpdate": "2023-10-18 00:48:05",
+    "Total": 539,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231017",
+            "fullstartdate": "202310172200",
+            "enddate": "20231018",
+            "url": "/th?id=OHR.KodiakAlaska_DE-DE5300220997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KodiakAlaska_DE-DE5300220997",
+            "copyright": "Kodiak National Wildlife Refuge, Kodiak Island, Alaska, USA (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kodiak+National+Wildlife+Refuge&form=hpcapt&filters=HpDate%3a%2220231017_2200%22",
+            "title": "Sewards Juwel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231017_KodiakAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "284a31800561ba3d3c462155f8c68f18",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231016",
             "fullstartdate": "202310162200",
