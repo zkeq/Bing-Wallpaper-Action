@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-17 00:48:21",
-    "Total": 538,
+    "LastUpdate": "2023-10-18 00:48:22",
+    "Total": 539,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231017",
+            "fullstartdate": "202310172200",
+            "enddate": "20231018",
+            "url": "/th?id=OHR.KodiakAlaska_FR-FR3778236447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KodiakAlaska_FR-FR3778236447",
+            "copyright": "Refuge faunique national de Kodiak, Alaska, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=+Refuge+faunique+national+de+Kodiak&form=hpcapt&filters=HpDate%3a%2220231017_2200%22",
+            "title": "Un parc merveilleux dans le Grand Nord",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231017_KodiakAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1600911be43a2a22ceac28a977de3179",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231016",
             "fullstartdate": "202310162200",
