@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-18 00:47:56",
-    "Total": 539,
+    "LastUpdate": "2023-10-19 00:47:54",
+    "Total": 540,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231018",
+            "fullstartdate": "202310180700",
+            "enddate": "20231019",
+            "url": "/th?id=OHR.KodiakAlaska_EN-US1478138954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KodiakAlaska_EN-US1478138954",
+            "copyright": "Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kodiak+National+Wildlife+Refuge&form=hpcapt&filters=HpDate%3a%2220231018_0700%22",
+            "title": "Seward's fortune",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231018_KodiakAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4243ebd2b5cdce6364ce1193da34b053",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231017",
             "fullstartdate": "202310170700",
