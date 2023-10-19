@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-18 00:47:50",
-    "Total": 539,
+    "LastUpdate": "2023-10-19 00:47:48",
+    "Total": 540,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231018",
+            "fullstartdate": "202310181600",
+            "enddate": "20231019",
+            "url": "/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479",
+            "copyright": "Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士 (© Alan Novelli/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Castell+y+Gwynt+Wales&form=hpcapt&mkt=zh-cn",
+            "title": "去而复返",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231018_CastellyGwyntUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a63d7b900df635a4c6f80f5ab0a95ded",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231017",
             "fullstartdate": "202310171600",
