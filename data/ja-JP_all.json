@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-18 00:48:00",
-    "Total": 539,
+    "LastUpdate": "2023-10-19 00:47:59",
+    "Total": 540,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231018",
+            "fullstartdate": "202310181500",
+            "enddate": "20231019",
+            "url": "/th?id=OHR.WaterLilyVietnam_JA-JP8591177657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaterLilyVietnam_JA-JP8591177657",
+            "copyright": "ロンアンの河川, ベトナム メコンデルタ (© Khanh Phan/Solent News/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A1%E3%82%B3%E3%83%B3%E3%83%87%E3%83%AB%E3%82%BF+%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0&form=hpcapt&filters=HpDate%3a%2220231018_1500%22",
+            "title": "睡蓮を収穫している人たち",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231018_WaterLilyVietnam%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a267c30830a834abd733e49415c85d87",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231017",
             "fullstartdate": "202310171500",
