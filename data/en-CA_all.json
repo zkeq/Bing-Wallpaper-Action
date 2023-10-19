@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-18 00:48:09",
-    "Total": 538,
+    "LastUpdate": "2023-10-19 00:48:08",
+    "Total": 539,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231018",
+            "fullstartdate": "202310180400",
+            "enddate": "20231019",
+            "url": "/th?id=OHR.KodiakAlaska_EN-CA4966075486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KodiakAlaska_EN-CA4966075486",
+            "copyright": "Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kodiak+National+Wildlife+Refuge&form=hpcapt&filters=HpDate%3a%2220231018_0400%22",
+            "title": "The untamed North",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231018_KodiakAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bf624c06c2af04993e0899f6cda3fc18",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231017",
             "fullstartdate": "202310170400",
