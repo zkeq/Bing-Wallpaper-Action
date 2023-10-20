@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-19 00:47:48",
-    "Total": 540,
+    "LastUpdate": "2023-10-20 00:47:45",
+    "Total": 541,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231019",
+            "fullstartdate": "202310191600",
+            "enddate": "20231020",
+            "url": "/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PygmySloth_ZH-CN4739853522",
+            "copyright": "俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马 (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%91%E6%87%92&form=hpcapt&mkt=zh-cn",
+            "title": "你想“挂”着玩吗？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_PygmySloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e81de62909b38a195fbb1851aa30962",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231018",
             "fullstartdate": "202310181600",
