@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-19 00:47:54",
-    "Total": 540,
+    "LastUpdate": "2023-10-20 00:47:50",
+    "Total": 541,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231019",
+            "fullstartdate": "202310190700",
+            "enddate": "20231020",
+            "url": "/th?id=OHR.WaterLilyVietnam_EN-US1552107370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaterLilyVietnam_EN-US1552107370",
+            "copyright": "Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mekong+River+Delta&form=hpcapt&filters=HpDate%3a%2220231019_0700%22",
+            "title": "Teamwork makes the dream work",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_WaterLilyVietnam%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "3da6fc71c9eca27cd5ac6c81402f1ee3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231018",
             "fullstartdate": "202310180700",
