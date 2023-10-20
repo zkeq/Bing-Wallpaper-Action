@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-19 00:47:59",
-    "Total": 540,
+    "LastUpdate": "2023-10-20 00:47:55",
+    "Total": 541,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231019",
+            "fullstartdate": "202310191500",
+            "enddate": "20231020",
+            "url": "/th?id=OHR.PygmySloth_JA-JP1472166927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PygmySloth_JA-JP1472166927",
+            "copyright": "木にぶら下がるナマケモノの赤ちゃん, パナマ (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9C%A8%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AE%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93&form=hpcapt&filters=HpDate%3a%2220231019_1500%22",
+            "title": "今日は国際ナマケモノデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_PygmySloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2f990369547cf420e251ff2b24bbe75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231018",
             "fullstartdate": "202310181500",
