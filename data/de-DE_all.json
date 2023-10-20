@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-19 00:48:04",
-    "Total": 540,
+    "LastUpdate": "2023-10-20 00:47:59",
+    "Total": 541,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231019",
+            "fullstartdate": "202310192200",
+            "enddate": "20231020",
+            "url": "/th?id=OHR.PygmySloth_DE-DE8739088884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PygmySloth_DE-DE8739088884",
+            "copyright": "Zwergfaultier-Baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Zwergfaultier&form=hpcapt&filters=HpDate%3a%2220231019_2200%22",
+            "title": "Wollen Sie nicht auch mal abhängen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_PygmySloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38bfbc1c76b049c5b86b46b4df324513",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231018",
             "fullstartdate": "202310182200",
