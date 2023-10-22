@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-21 00:48:16",
-    "Total": 542,
+    "LastUpdate": "2023-10-22 00:48:35",
+    "Total": 543,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231021",
+            "fullstartdate": "202310212200",
+            "enddate": "20231022",
+            "url": "/th?id=OHR.AstoriaBridge_FR-FR4917607488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AstoriaBridge_FR-FR4917607488",
+            "copyright": "Pont Astoria-Megler sur le fleuve Columbia, Astoria, Oregon, États-Unis (© Dan Mihai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+pont+Astoria-Megler&form=hpcapt&filters=HpDate%3a%2220231021_2200%22",
+            "title": "Un pont dans tous ses états !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231021_AstoriaBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04f49186b84e16376dbb46889f5e70ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231020",
             "fullstartdate": "202310202200",
