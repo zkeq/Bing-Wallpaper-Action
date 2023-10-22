@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-21 00:47:43",
-    "Total": 542,
+    "LastUpdate": "2023-10-22 00:48:03",
+    "Total": 543,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231021",
+            "fullstartdate": "202310211600",
+            "enddate": "20231022",
+            "url": "/th?id=OHR.AstoriaBridge_ZH-CN5052905610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AstoriaBridge_ZH-CN5052905610",
+            "copyright": "哥伦比亚河上的阿斯托里亚-梅格勒大桥，阿斯托里亚区，俄勒冈州，美国 (© Dan Mihai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "一条用桁架架起来的公路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231021_AstoriaBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0e61051fb4ab3c65a8ebdac40d8b6be",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231020",
             "fullstartdate": "202310201600",
