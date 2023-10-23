@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-22 00:48:30",
-    "Total": 543,
+    "LastUpdate": "2023-10-23 00:48:19",
+    "Total": 544,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231022",
+            "fullstartdate": "202310221830",
+            "enddate": "20231023",
+            "url": "/th?id=OHR.PoconosMaze_EN-IN9531761030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PoconosMaze_EN-IN9531761030",
+            "copyright": "Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=corn+maze+facts&form=hpcapt&filters=HpDate%3a%2220231022_1830%22",
+            "title": "An a-maize-ing puzzle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231022_PoconosMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43cb628183fa9f2386bf774517cf0bd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231021",
             "fullstartdate": "202310211830",
