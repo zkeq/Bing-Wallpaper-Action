@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-22 00:48:22",
-    "Total": 542,
+    "LastUpdate": "2023-10-23 00:48:10",
+    "Total": 543,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231022",
+            "fullstartdate": "202310220400",
+            "enddate": "20231023",
+            "url": "/th?id=OHR.AstoriaBridge_EN-CA6850863265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AstoriaBridge_EN-CA6850863265",
+            "copyright": "Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=astoria-megler+bridge&form=hpcapt&filters=HpDate%3a%2220231022_0400%22",
+            "title": "A road you can truss",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231022_AstoriaBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94d9840822ae4d267e9fddec1c498f77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231021",
             "fullstartdate": "202310210400",
