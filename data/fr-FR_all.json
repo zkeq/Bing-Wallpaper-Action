@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-22 00:48:35",
-    "Total": 543,
+    "LastUpdate": "2023-10-23 00:48:24",
+    "Total": 544,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231022",
+            "fullstartdate": "202310222200",
+            "enddate": "20231023",
+            "url": "/th?id=OHR.PoconosMaze_FR-FR5336373976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PoconosMaze_FR-FR5336373976",
+            "copyright": "Labyrinthe de maïs à Saylorsburg, Pennsylvanie, États-Unis (© Alex Potemkin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=labyrinthe+ma%C3%AFs+etats-unis&form=hpcapt&filters=HpDate%3a%2220231022_2200%22",
+            "title": "Trouverez-vous la sortie de ce casse-tête géant ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231022_PoconosMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e902e5b201a64a8b027b7c13463be5f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231021",
             "fullstartdate": "202310212200",
