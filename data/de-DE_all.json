@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-22 00:48:17",
-    "Total": 543,
+    "LastUpdate": "2023-10-23 00:48:05",
+    "Total": 544,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231022",
+            "fullstartdate": "202310222200",
+            "enddate": "20231023",
+            "url": "/th?id=OHR.PoconosMaze_DE-DE7096055510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PoconosMaze_DE-DE7096055510",
+            "copyright": "Maislabyrinth in Saylorsburg, Pennsylvania, USA (© Alex Potemkin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Maislabyrinth&form=hpcapt&filters=HpDate%3a%2220231022_2200%22",
+            "title": "Verlaufen Sie sich bitte nicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231022_PoconosMaze%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "956c3b931e5d3337d064d66ee8f3d0c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231021",
             "fullstartdate": "202310212200",
