@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-23 00:48:24",
-    "Total": 544,
+    "LastUpdate": "2023-10-24 00:48:19",
+    "Total": 545,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231023",
+            "fullstartdate": "202310232200",
+            "enddate": "20231024",
+            "url": "/th?id=OHR.FuzerCastle_FR-FR5745406431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FuzerCastle_FR-FR5745406431",
+            "copyright": "Château de Füzér dans les montagnes de Zemplén, Hongrie (© ZGPhotography/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=hongrie+pays&form=hpcapt&filters=HpDate%3a%2220231023_2200%22",
+            "title": "Une vue à couper le souffle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231023_FuzerCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ad7e1d084e3916e73292cbb72af59e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231022",
             "fullstartdate": "202310222200",
