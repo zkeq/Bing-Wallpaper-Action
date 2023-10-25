@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-24 00:48:19",
-    "Total": 545,
+    "LastUpdate": "2023-10-25 00:48:19",
+    "Total": 546,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231024",
+            "fullstartdate": "202310242200",
+            "enddate": "20231025",
+            "url": "/th?id=OHR.GrandStaircase_FR-FR6173079763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandStaircase_FR-FR6173079763",
+            "copyright": "Les peupliers deltoïdes dans le monument national de Grand Staircase-Escalante, Utah, États-Unis (© Jeff Foott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=monument+national+de+Grand+Staircase-Escalante&form=hpcapt&filters=HpDate%3a%2220231024_2200%22",
+            "title": "Une touche d'or automnal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231024_GrandStaircase%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38e34aba739633442c8082259376159c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231023",
             "fullstartdate": "202310232200",
