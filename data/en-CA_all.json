@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-25 00:48:05",
-    "Total": 545,
+    "LastUpdate": "2023-10-26 00:48:03",
+    "Total": 546,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231025",
+            "fullstartdate": "202310250400",
+            "enddate": "20231026",
+            "url": "/th?id=OHR.GrandStaircase_EN-CA8310842734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandStaircase_EN-CA8310842734",
+            "copyright": "Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Staircase-Escalante+National+Monument+Utah&form=hpcapt&filters=HpDate%3a%2220231025_0400%22",
+            "title": "A pop of autumn gold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231025_GrandStaircase%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6efa08f22fc8ae5596f4546830d2e35f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231024",
             "fullstartdate": "202310240400",
