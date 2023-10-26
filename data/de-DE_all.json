@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-25 00:48:01",
-    "Total": 546,
+    "LastUpdate": "2023-10-26 00:47:59",
+    "Total": 547,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231025",
+            "fullstartdate": "202310252200",
+            "enddate": "20231026",
+            "url": "/th?id=OHR.ViennaAutumn_DE-DE4206809652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ViennaAutumn_DE-DE4206809652",
+            "copyright": "Herbstlaub im Schlosspark Schönbrunn, Wien, Österreich (© rusm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Schloss+Sch%C3%B6nbrunn&form=hpcapt&filters=HpDate%3a%2220231025_2200%22",
+            "title": "Herbstliche Allee im Schlosspark Schönbrunn",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231025_ViennaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "32f6ff04e9b19f8bf16c85a05ce2f167",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231024",
             "fullstartdate": "202310242200",
