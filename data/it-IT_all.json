@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-25 00:48:23",
-    "Total": 546,
+    "LastUpdate": "2023-10-26 00:48:20",
+    "Total": 547,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231025",
+            "fullstartdate": "202310252200",
+            "enddate": "20231026",
+            "url": "/th?id=OHR.ViennaAutumn_IT-IT9164239542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ViennaAutumn_IT-IT9164239542",
+            "copyright": "Fogliame autunnale nel parco del Castello di Schönbrunn (© rusm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=il+Castello+di+Sch%C3%B6nbrunn+dov%27%C3%A8&form=hpcapt",
+            "title": "Un fogliame da favola!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231025_ViennaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "baf9891743327ebfc645ba0e937dff96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231024",
             "fullstartdate": "202310242200",
