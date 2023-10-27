@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-26 00:47:50",
-    "Total": 547,
+    "LastUpdate": "2023-10-27 00:47:52",
+    "Total": 548,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231026",
+            "fullstartdate": "202310260700",
+            "enddate": "20231027",
+            "url": "/th?id=OHR.ViennaAutumn_EN-US0101367282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ViennaAutumn_EN-US0101367282",
+            "copyright": "Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+%2bSch%C3%B6nbrunn+Palace+Park+Vienna&form=hpcapt&filters=HpDate%3a%2220231026_0700%22",
+            "title": "A leaf stomper's paradise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231026_ViennaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ca8999ada0b4544423210b5c213dd06",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231025",
             "fullstartdate": "202310250700",
