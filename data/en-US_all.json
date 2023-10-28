@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-27 00:47:52",
-    "Total": 548,
+    "LastUpdate": "2023-10-28 00:47:44",
+    "Total": 549,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231027",
+            "fullstartdate": "202310270700",
+            "enddate": "20231028",
+            "url": "/th?id=OHR.OldBridgeSkye_EN-US0196189617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OldBridgeSkye_EN-US0196189617",
+            "copyright": "Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Sligachan+Old+Bridge&form=hpcapt&filters=HpDate%3a%2220231027_0700%22",
+            "title": "Enchanted waters run deep",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231027_OldBridgeSkye%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7407bfea2fd386c1feca4edb6772b1c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231026",
             "fullstartdate": "202310260700",
