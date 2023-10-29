@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-28 00:48:07",
-    "Total": 549,
+    "LastUpdate": "2023-10-29 00:48:26",
+    "Total": 550,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231028",
+            "fullstartdate": "202310281830",
+            "enddate": "20231029",
+            "url": "/th?id=OHR.SavannahSculpture_EN-IN6597783856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SavannahSculpture_EN-IN6597783856",
+            "copyright": "Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=savannah+georgia&form=hpcapt&filters=HpDate%3a%2220231028_1830%22",
+            "title": "Dare to dwell here after dark?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231028_SavannahSculpture%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae57acacc84d70654811c329ad5da99a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231027",
             "fullstartdate": "202310271830",
