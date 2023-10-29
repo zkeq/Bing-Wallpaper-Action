@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-28 00:47:53",
-    "Total": 549,
+    "LastUpdate": "2023-10-29 00:48:13",
+    "Total": 550,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231028",
+            "fullstartdate": "202310282200",
+            "enddate": "20231029",
+            "url": "/th?id=OHR.FuzerCastle_DE-DE7545775063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FuzerCastle_DE-DE7545775063",
+            "copyright": "Burg Füzér im Tokajer Gebirge, Ungarn (© ZGPhotography/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Burg+Fuzer+Ungarn&form=hpcapt&filters=HpDate%3a%2220231028_2200%22",
+            "title": "Weit oben in den Bergen!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231028_FuzerCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca27f517ef8a68852d08e99c571c77ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231027",
             "fullstartdate": "202310272200",
