@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-29 00:48:26",
-    "Total": 550,
+    "LastUpdate": "2023-10-30 00:48:16",
+    "Total": 551,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231029",
+            "fullstartdate": "202310291830",
+            "enddate": "20231030",
+            "url": "/th?id=OHR.AutumnRaven_EN-IN6850233265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnRaven_EN-IN6850233265",
+            "copyright": "Common raven sitting on a branch (© WildMedia/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=common+raven&form=hpcapt&filters=HpDate%3a%2220231029_1830%22",
+            "title": "Here's to ravens, evermore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231029_AutumnRaven%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cde7b8d850d94daea89f34ec5af12393",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231028",
             "fullstartdate": "202310281830",
