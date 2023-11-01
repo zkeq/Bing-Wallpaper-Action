@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-31 00:47:58",
-    "Total": 552,
+    "LastUpdate": "2023-11-01 00:48:06",
+    "Total": 553,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231031",
+            "fullstartdate": "202310310700",
+            "enddate": "20231101",
+            "url": "/th?id=OHR.HalloweenPorchAI_EN-US0776611565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalloweenPorchAI_EN-US0776611565",
+            "copyright": "Halloween jack-o'-lanterns on a porch (© Bing Image Creator)",
+            "copyrightlink": "https://www.bing.com/search?q=jack+o+lantern&form=hpcapt&filters=HpDate%3a%2220231031_0700%22",
+            "title": "Creepin' it real",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_HalloweenPorchAI%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0cb9ee05cabb0dcc6e44bd64971a40a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231030",
             "fullstartdate": "202310300700",
