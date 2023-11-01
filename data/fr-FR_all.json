@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-31 00:48:24",
-    "Total": 552,
+    "LastUpdate": "2023-11-01 00:48:33",
+    "Total": 553,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231031",
+            "fullstartdate": "202310312300",
+            "enddate": "20231101",
+            "url": "/th?id=OHR.HautBarr_FR-FR8742870130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HautBarr_FR-FR8742870130",
+            "copyright": "Château de Haut-Barr, Pays de Saverne, Vosges, France (© Andrea Pistolesi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=ch%C3%A2teau+du+haut-barr&form=hpcapt&filters=HpDate%3a%2220231031_2300%22",
+            "title": "Connaissez-vous « l’œil de l’Alsace » ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_HautBarr%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36e7eb98c4d009fce2d31216420e012e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231030",
             "fullstartdate": "202310302300",
