@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-31 00:48:06",
-    "Total": 552,
+    "LastUpdate": "2023-11-01 00:48:15",
+    "Total": 553,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231031",
+            "fullstartdate": "202310312300",
+            "enddate": "20231101",
+            "url": "/th?id=OHR.HautBarr_DE-DE1903571271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HautBarr_DE-DE1903571271",
+            "copyright": "Burg Hohbarr, Elsass, Frankreich (© Andrea Pistolesi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Burg+Hohbarr&form=hpcapt&filters=HpDate%3a%2220231031_2300%22",
+            "title": "Kennen Sie das „Auge des Elsass“?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_HautBarr%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d61513481101aa873a622fbd24a0f525",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231030",
             "fullstartdate": "202310302300",
