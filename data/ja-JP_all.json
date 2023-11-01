@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-10-31 00:48:02",
-    "Total": 552,
+    "LastUpdate": "2023-11-01 00:48:10",
+    "Total": 553,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231031",
+            "fullstartdate": "202310311500",
+            "enddate": "20231101",
+            "url": "/th?id=OHR.AstoriaBridge_JA-JP5052562579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AstoriaBridge_JA-JP5052562579",
+            "copyright": "コロンビア川とアストリア・メグラー橋, 米国 オレゴン州 (© Dan Mihai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A1%E3%82%B0%E3%83%A9%E3%83%BC%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220231031_1500%22",
+            "title": "米国の最も長い連続トラス橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_AstoriaBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b243929c3874d1b88643bea7c9e205a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231030",
             "fullstartdate": "202310301500",
