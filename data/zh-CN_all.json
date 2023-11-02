@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-01 00:48:00",
-    "Total": 553,
+    "LastUpdate": "2023-11-02 00:47:51",
+    "Total": 554,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231101",
+            "fullstartdate": "202311011600",
+            "enddate": "20231102",
+            "url": "/th?id=OHR.DeathValleySalt_ZH-CN8438207719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeathValleySalt_ZH-CN8438207719",
+            "copyright": "恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AD%BB%E4%BA%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "这里，此生值得一去",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231101_DeathValleySalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7404051e0c61f74cbc69ce2194a95061",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231031",
             "fullstartdate": "202310311600",
