@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-02 00:47:51",
-    "Total": 554,
+    "LastUpdate": "2023-11-03 00:47:54",
+    "Total": 555,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231102",
+            "fullstartdate": "202311021600",
+            "enddate": "20231103",
+            "url": "/th?id=OHR.SeaNettles_ZH-CN1735729435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeaNettles_ZH-CN1735729435",
+            "copyright": "卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E8%8D%A8%E9%BA%BB%E6%B0%B4%E6%AF%8D&form=hpcapt&mkt=zh-cn",
+            "title": "发光的花朵",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231102_SeaNettles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78be29f172e321818c6c258c75817a68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231101",
             "fullstartdate": "202311011600",
