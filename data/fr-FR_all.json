@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-03 00:48:26",
-    "Total": 555,
+    "LastUpdate": "2023-11-04 00:48:22",
+    "Total": 556,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231103",
+            "fullstartdate": "202311032300",
+            "enddate": "20231104",
+            "url": "/th?id=OHR.BisonSnow_FR-FR2161630448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonSnow_FR-FR2161630448",
+            "copyright": "Bison d'Amérique, parc national de Yellowstone, Wyoming, États-Unis (© Gary Gray/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bison+d%27am%C3%A9rique+du+nord&form=hpcapt&filters=HpDate%3a%2220231103_2300%22",
+            "title": "Froid ? Même pas peur !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231103_BisonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "033ff5a38cdc07fd35cfb2c3777d899d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231102",
             "fullstartdate": "202311022300",
