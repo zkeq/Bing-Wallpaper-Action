@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-04 00:48:13",
-    "Total": 555,
+    "LastUpdate": "2023-11-05 00:48:27",
+    "Total": 556,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231105",
+            "fullstartdate": "202311050000",
+            "enddate": "20231106",
+            "url": "/th?id=OHR.GuyFawkesnightKettering_EN-GB0299191885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuyFawkesnightKettering_EN-GB0299191885",
+            "copyright": "Firework display at Boughton House, Kettering (© Ben Browning/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Guy+Fawkes+Night&form=hpcapt&filters=HpDate%3a%2220231105_0000%22",
+            "title": "A rare celebration of failure",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231105_GuyFawkesnightKettering%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae83eb40385985f7cbb35d5d44af7ba1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231104",
             "fullstartdate": "202311040000",
