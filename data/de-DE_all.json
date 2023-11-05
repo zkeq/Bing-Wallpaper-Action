@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-04 00:48:04",
-    "Total": 556,
+    "LastUpdate": "2023-11-05 00:48:18",
+    "Total": 557,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231104",
+            "fullstartdate": "202311042300",
+            "enddate": "20231105",
+            "url": "/th?id=OHR.SilencioSpain_DE-DE3741175686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SilencioSpain_DE-DE3741175686",
+            "copyright": "Quarzitformation, Playa del Silencio, Asturien, Spanien (© Jean-Philippe Delobelle/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Asturien&form=hpcapt&filters=HpDate%3a%2220231104_2300%22",
+            "title": "Wahrlich ein stiller und ruhiger Ort",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231104_SilencioSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c23449636d8622b5d1bc184cd96a13f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231103",
             "fullstartdate": "202311032300",
