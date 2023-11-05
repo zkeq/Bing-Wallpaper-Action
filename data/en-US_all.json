@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-04 00:47:55",
-    "Total": 556,
+    "LastUpdate": "2023-11-05 00:48:09",
+    "Total": 557,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231104",
+            "fullstartdate": "202311040700",
+            "enddate": "20231105",
+            "url": "/th?id=OHR.BisonSnow_EN-US6764351912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonSnow_EN-US6764351912",
+            "copyright": "American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=american+bison&form=hpcapt&filters=HpDate%3a%2220231104_0700%22",
+            "title": "Built for the cold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231104_BisonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e16a2470d4483a526838894d4fe29fca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231103",
             "fullstartdate": "202311030700",
