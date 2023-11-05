@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-04 00:47:49",
-    "Total": 556,
+    "LastUpdate": "2023-11-05 00:48:03",
+    "Total": 557,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231104",
+            "fullstartdate": "202311041600",
+            "enddate": "20231105",
+            "url": "/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SilencioSpain_ZH-CN2955614478",
+            "copyright": "石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%96%AF%E5%9B%BE%E9%87%8C%E4%BA%9A%E6%96%AF&form=hpcapt&mkt=zh-cn",
+            "title": "宁静之地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231104_SilencioSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cbcb6ac44384cae6ecdfe9d30fe30ed1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231103",
             "fullstartdate": "202311031600",
