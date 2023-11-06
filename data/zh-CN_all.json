@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-05 00:48:03",
-    "Total": 557,
+    "LastUpdate": "2023-11-06 00:47:55",
+    "Total": 558,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231105",
+            "fullstartdate": "202311051600",
+            "enddate": "20231106",
+            "url": "/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LagoPehoe_ZH-CN3367356273",
+            "copyright": "佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%99%BE%E5%86%85%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "照亮你忧郁的心",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231105_LagoPehoe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58f22f42867f6f2303ecf645bc318e9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231104",
             "fullstartdate": "202311041600",
