@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-06 00:47:55",
-    "Total": 558,
+    "LastUpdate": "2023-11-07 00:47:51",
+    "Total": 559,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231106",
+            "fullstartdate": "202311061600",
+            "enddate": "20231107",
+            "url": "/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KirkilaiTower_ZH-CN4058404632",
+            "copyright": "Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B&form=hpcapt&mkt=zh-cn",
+            "title": "瞭望塔上，一睹奇景！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_KirkilaiTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3995f4b00af60fc3f6d7ca6e8f1bc143",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231105",
             "fullstartdate": "202311051600",
