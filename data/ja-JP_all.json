@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-06 00:48:04",
-    "Total": 558,
+    "LastUpdate": "2023-11-07 00:48:01",
+    "Total": 559,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231106",
+            "fullstartdate": "202311061500",
+            "enddate": "20231107",
+            "url": "/th?id=OHR.KirkilaiTower_JA-JP2022080593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KirkilaiTower_JA-JP2022080593",
+            "copyright": "ビルジャイ地域公園, リトアニア (© MNStudio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kirkilai+tower&form=hpcapt&filters=HpDate%3a%2220231106_1500%22",
+            "title": "キルキライの湖と展望台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_KirkilaiTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc9741de25020d5347e835a8b94e08ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231105",
             "fullstartdate": "202311051500",
