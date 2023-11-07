@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-06 00:48:12",
-    "Total": 557,
+    "LastUpdate": "2023-11-07 00:48:10",
+    "Total": 558,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231106",
+            "fullstartdate": "202311060500",
+            "enddate": "20231107",
+            "url": "/th?id=OHR.LagoPehoe_EN-CA3476467386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LagoPehoe_EN-CA3476467386",
+            "copyright": "Lake Pehoé, Torres del Paine National Park, southern Chile (© OST/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Torres+del+Paine+National+Park+Chile&form=hpcapt&filters=HpDate%3a%2220231106_0500%22",
+            "title": "Shine a light into your blues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_LagoPehoe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a5fc6d34e9e5996acaec69b68c24c2d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231105",
             "fullstartdate": "202311050400",
