@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-06 00:48:08",
-    "Total": 558,
+    "LastUpdate": "2023-11-07 00:48:06",
+    "Total": 559,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231106",
+            "fullstartdate": "202311062300",
+            "enddate": "20231107",
+            "url": "/th?id=OHR.KirkilaiTower_DE-DE6766804502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KirkilaiTower_DE-DE6766804502",
+            "copyright": "Kirkilai-Seen und Aussichtsturm, Regionalpark Biržai, Litauen (© MNStudio/Shutterstock)​",
+            "copyrightlink": "https://www.bing.com/search?q=Regionalpark+Bir%C5%BEai%2c+Litauen&form=hpcapt&filters=HpDate%3a%2220231106_2300%22",
+            "title": "Ein grünes Paradies mit eigenem Holzmond!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_KirkilaiTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "237b253718796b33560d58773c57dae6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231105",
             "fullstartdate": "202311052300",
