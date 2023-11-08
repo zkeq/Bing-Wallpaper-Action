@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-07 00:48:06",
-    "Total": 559,
+    "LastUpdate": "2023-11-08 00:48:03",
+    "Total": 560,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231107",
+            "fullstartdate": "202311072300",
+            "enddate": "20231108",
+            "url": "/th?id=OHR.ManateeMama_DE-DE9487097081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeMama_DE-DE9487097081",
+            "copyright": "Seekuh-Mutter mit Baby, Crystal River, Three Sisters Spring, Florida, USA (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Seek%C3%BChe&form=hpcapt&filters=HpDate%3a%2220231107_2300%22",
+            "title": "Was sind das für sanfte Tiere?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231107_ManateeMama%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "763b467bf8d58e860a37fa12a94fbe9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231106",
             "fullstartdate": "202311062300",
