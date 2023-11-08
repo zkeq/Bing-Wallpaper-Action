@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-07 00:47:57",
-    "Total": 559,
+    "LastUpdate": "2023-11-08 00:47:54",
+    "Total": 560,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231107",
+            "fullstartdate": "202311070800",
+            "enddate": "20231108",
+            "url": "/th?id=OHR.KirkilaiTower_EN-US7178436226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KirkilaiTower_EN-US7178436226",
+            "copyright": "Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lithuania&form=hpcapt&filters=HpDate%3a%2220231107_0800%22",
+            "title": "Lookout above!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231107_KirkilaiTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed89507941d2d2ae05049ebe334050a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231106",
             "fullstartdate": "202311060800",
