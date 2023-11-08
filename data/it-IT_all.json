@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-07 00:48:28",
-    "Total": 559,
+    "LastUpdate": "2023-11-08 00:48:25",
+    "Total": 560,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231107",
+            "fullstartdate": "202311072300",
+            "enddate": "20231108",
+            "url": "/th?id=OHR.ManateeMama_IT-IT1827292679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeMama_IT-IT1827292679",
+            "copyright": "Madre e figlio di lamantino delle Indie Occidentali, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lamantino&form=hpcapt",
+            "title": "Sirene o mucche marine?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231107_ManateeMama%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "687066a6fc9512ca4442716a6cf74e42",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231106",
             "fullstartdate": "202311062300",
