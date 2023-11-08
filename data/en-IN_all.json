@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-07 00:48:19",
-    "Total": 559,
+    "LastUpdate": "2023-11-08 00:48:16",
+    "Total": 560,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231107",
+            "fullstartdate": "202311071830",
+            "enddate": "20231108",
+            "url": "/th?id=OHR.ManateeMama_EN-IN2707543582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeMama_EN-IN2707543582",
+            "copyright": "West Indian manatee mother and baby, Three Sisters Spring, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatee&form=hpcapt&filters=HpDate%3a%2220231107_1830%22",
+            "title": "Sirens or sea cows?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231107_ManateeMama%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c0f45cd1316f579c12738ece7e098af",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231106",
             "fullstartdate": "202311061830",
