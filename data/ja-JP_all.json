@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-07 00:48:01",
-    "Total": 559,
+    "LastUpdate": "2023-11-08 00:47:59",
+    "Total": 560,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231107",
+            "fullstartdate": "202311071500",
+            "enddate": "20231108",
+            "url": "/th?id=OHR.Lidong2023_JA-JP3829424254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Lidong2023_JA-JP3829424254",
+            "copyright": "干し柿, 山梨県 南都留郡 富士河口湖町 (© STEPHEN FLEMING/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%81%A4%E3%82%8B%E3%81%97%E6%9F%BF&form=hpcapt&filters=HpDate%3a%2220231107_1500%22",
+            "title": "今日は立冬",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231107_Lidong2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cdc56f7d8da1a09927370ac35cf50bd9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231106",
             "fullstartdate": "202311061500",
