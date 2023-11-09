@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-08 00:47:59",
-    "Total": 560,
+    "LastUpdate": "2023-11-09 00:47:59",
+    "Total": 561,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231108",
+            "fullstartdate": "202311081500",
+            "enddate": "20231109",
+            "url": "/th?id=OHR.NorwayBirch_JA-JP0530837645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayBirch_JA-JP0530837645",
+            "copyright": "ドランメンの白樺林, ノルウェー (© Baac3nes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E7%99%BD%E6%A8%BA%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220231108_1500%22",
+            "title": "紅葉した白樺の樹々",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231108_NorwayBirch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df0800d4acde729c2f59dfa05dff9368",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231107",
             "fullstartdate": "202311071500",
