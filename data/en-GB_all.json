@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-08 00:48:12",
-    "Total": 559,
+    "LastUpdate": "2023-11-09 00:48:13",
+    "Total": 560,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231109",
+            "fullstartdate": "202311090000",
+            "enddate": "20231110",
+            "url": "/th?id=OHR.NorwayBirch_EN-GB0948199357_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayBirch_EN-GB0948199357",
+            "copyright": "Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=birch+trees&form=hpcapt&filters=HpDate%3a%2220231109_0000%22",
+            "title": "Shades of autumn",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_NorwayBirch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "834d81be7f47a842d4a094adeb14f344",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231108",
             "fullstartdate": "202311080000",
