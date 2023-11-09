@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-08 00:47:54",
-    "Total": 560,
+    "LastUpdate": "2023-11-09 00:47:55",
+    "Total": 561,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231108",
+            "fullstartdate": "202311080800",
+            "enddate": "20231109",
+            "url": "/th?id=OHR.ManateeMama_EN-US7376333243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeMama_EN-US7376333243",
+            "copyright": "West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=west+indian+manatee&form=hpcapt&filters=HpDate%3a%2220231108_0800%22",
+            "title": "The life aquatic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231108_ManateeMama%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "74ef083a5b4977b6bd7847f138790ea1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231107",
             "fullstartdate": "202311070800",
