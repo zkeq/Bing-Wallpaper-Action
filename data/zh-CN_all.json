@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-09 00:47:49",
-    "Total": 561,
+    "LastUpdate": "2023-11-10 00:47:46",
+    "Total": 562,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231109",
+            "fullstartdate": "202311091600",
+            "enddate": "20231110",
+            "url": "/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadlandsSunrise_ZH-CN5906162228",
+            "copyright": "恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%81%B6%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "还不错的荒地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_BadlandsSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8a45606bdd9607f4e128d36bd0978a90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231108",
             "fullstartdate": "202311081600",
