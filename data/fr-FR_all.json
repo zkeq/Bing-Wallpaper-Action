@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-09 00:48:22",
-    "Total": 561,
+    "LastUpdate": "2023-11-10 00:48:17",
+    "Total": 562,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231109",
+            "fullstartdate": "202311092300",
+            "enddate": "20231110",
+            "url": "/th?id=OHR.BadlandsSunrise_FR-FR3335076381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadlandsSunrise_FR-FR3335076381",
+            "copyright": "Parc national des Badlands, Dakota du Sud, États-Unis (© Grant Ordelheide/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+des+badlands&form=hpcapt&filters=HpDate%3a%2220231109_2300%22",
+            "title": "Une merveille géologique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_BadlandsSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d584a1353a98fa21aec21981974f3f49",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231108",
             "fullstartdate": "202311082300",
