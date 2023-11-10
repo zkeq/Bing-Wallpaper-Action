@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-09 00:48:04",
-    "Total": 561,
+    "LastUpdate": "2023-11-10 00:48:00",
+    "Total": 562,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231109",
+            "fullstartdate": "202311092300",
+            "enddate": "20231110",
+            "url": "/th?id=OHR.SchwerinerSchloss_DE-DE9196106476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SchwerinerSchloss_DE-DE9196106476",
+            "copyright": "Das pittoreske Schweriner Schloss, Schwerin, Mecklenburg-Vorpommern (© Hannes Wendt/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Schweriner+Schloss&form=hpcapt&filters=HpDate%3a%2220231109_2300%22",
+            "title": "Ein Schloss wie aus dem Märchen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_SchwerinerSchloss%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "983dcd80bed3298e7ac35e8c5875916a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231108",
             "fullstartdate": "202311082300",
