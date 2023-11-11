@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:48:09",
-    "Total": 561,
+    "LastUpdate": "2023-11-11 00:48:09",
+    "Total": 562,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311110000",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.ValDiFunes_EN-GB6334905741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValDiFunes_EN-GB6334905741",
+            "copyright": "Val di Funes, South Tyrol, Italy (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Villn%C3%B6%C3%9F&form=hpcapt&filters=HpDate%3a%2220231111_0000%22",
+            "title": "Small town life, elevated",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_ValDiFunes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44a734e74f65e258a8b4c0706d10ffd0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311100000",
