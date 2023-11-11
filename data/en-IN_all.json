@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:48:13",
-    "Total": 562,
+    "LastUpdate": "2023-11-11 00:48:14",
+    "Total": 563,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231110",
+            "fullstartdate": "202311101830",
+            "enddate": "20231111",
+            "url": "/th?id=OHR.FishingNetsKochi_EN-IN7237495596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FishingNetsKochi_EN-IN7237495596",
+            "copyright": "Traditional chinese fishing nets in Kochi, India at sunrise. (© mammuth/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=kochi&form=hpcapt&filters=HpDate%3a%2220231110_1830%22",
+            "title": "Tools waiting for their harvest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_FishingNetsKochi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ec2bcc018a5aa1ed845f21c4febd8cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231109",
             "fullstartdate": "202311091830",
