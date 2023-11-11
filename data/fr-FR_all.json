@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:48:17",
-    "Total": 562,
+    "LastUpdate": "2023-11-11 00:48:18",
+    "Total": 563,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231110",
+            "fullstartdate": "202311102300",
+            "enddate": "20231111",
+            "url": "/th?id=OHR.RemembranceDay_FR-FR5207828538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RemembranceDay_FR-FR5207828538",
+            "copyright": "Drapeau français sous l’Arc de Triomphe, Paris, France (© Wiliam Perry/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=+Armistice+novembre&form=hpcapt&filters=HpDate%3a%2220231110_2300%22",
+            "title": "Se souvenir et ne jamais oublier",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_RemembranceDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e03e750533395df3e39c0923052ee9c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231109",
             "fullstartdate": "202311092300",
