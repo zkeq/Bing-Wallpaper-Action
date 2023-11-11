@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:47:51",
-    "Total": 562,
+    "LastUpdate": "2023-11-11 00:47:51",
+    "Total": 563,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231110",
+            "fullstartdate": "202311100800",
+            "enddate": "20231111",
+            "url": "/th?id=OHR.BadlandsSunrise_EN-US7576048436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadlandsSunrise_EN-US7576048436",
+            "copyright": "Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=badlands+national+park&form=hpcapt&filters=HpDate%3a%2220231110_0800%22",
+            "title": "Not-so-bad lands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_BadlandsSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec603cbeab9403dd343034b15ae4d622",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231109",
             "fullstartdate": "202311090800",
