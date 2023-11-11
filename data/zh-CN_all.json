@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:47:46",
-    "Total": 562,
+    "LastUpdate": "2023-11-11 00:47:46",
+    "Total": 563,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231110",
+            "fullstartdate": "202311101600",
+            "enddate": "20231111",
+            "url": "/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValDiFunes_ZH-CN2080915930",
+            "copyright": "富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E8%92%82%E7%BD%97%E5%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "如诗如画的地方",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_ValDiFunes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58575e41aae9782c7f14819ddf6e4dfd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231109",
             "fullstartdate": "202311091600",
