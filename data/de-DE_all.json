@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-10 00:48:00",
-    "Total": 562,
+    "LastUpdate": "2023-11-11 00:48:00",
+    "Total": 563,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231110",
+            "fullstartdate": "202311102300",
+            "enddate": "20231111",
+            "url": "/th?id=OHR.ValDiFunes_DE-DE1024519394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValDiFunes_DE-DE1024519394",
+            "copyright": "Villnöß, Dolomiten im Hintergrund, Südtirol, Italien (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Villn%C3%B6%C3%9F+S%C3%BCdtirol+Italien&form=hpcapt&filters=HpDate%3a%2220231110_2300%22",
+            "title": "Wie im Bilderbuch!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_ValDiFunes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "03b6e0c9d0b9c18791b87d0ccaff71d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231109",
             "fullstartdate": "202311092300",
