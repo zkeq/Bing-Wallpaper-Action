@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-11 00:47:46",
-    "Total": 563,
+    "LastUpdate": "2023-11-12 00:48:12",
+    "Total": 564,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311111600",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.MallarDucks_ZH-CN7422818269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MallarDucks_ZH-CN7422818269",
+            "copyright": "秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BB%BF%E5%A4%B4%E9%B8%AD&form=hpcapt&mkt=zh-cn",
+            "title": "我所有的小鸭子们",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_MallarDucks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5708203053d442a2089d4a2a1dc1f378",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311101600",
