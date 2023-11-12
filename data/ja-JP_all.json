@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-11 00:47:56",
-    "Total": 563,
+    "LastUpdate": "2023-11-12 00:48:22",
+    "Total": 564,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311111500",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.DiwaliAyodhya_JA-JP0829173693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliAyodhya_JA-JP0829173693",
+            "copyright": "ランプが灯るアヨーディヤー, インド (© SANJAY KANOJIA/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%A8%E3%83%BC%E3%83%87%E3%82%A3%E3%83%A4%E3%83%BC%E3%81%A7%E7%81%AF%E3%81%95%E3%82%8C%E3%81%9F%E3%83%A9%E3%83%B3%E3%83%97&form=hpcapt&filters=HpDate%3a%2220231111_1500%22",
+            "title": "今日はディーワーリー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_DiwaliAyodhya%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b52e5a90c910a9cf1b53812cb4d53a49",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311101500",
