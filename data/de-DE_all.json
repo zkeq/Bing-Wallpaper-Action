@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-11 00:48:00",
-    "Total": 563,
+    "LastUpdate": "2023-11-12 00:48:26",
+    "Total": 564,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311112300",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.DiwaliAyodhya_DE-DE0909919399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliAyodhya_DE-DE0909919399",
+            "copyright": "Lampen an den Ufern des Sarju-Flusses an Diwali, Ayodhya, Indien (© SANJAY KANOJIA/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Diwali+Indien&form=hpcapt&filters=HpDate%3a%2220231111_2300%22",
+            "title": "Der Sieg des Guten über das Böse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_DiwaliAyodhya%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "5354319847f80fa935c90f77a30d7d53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311102300",
