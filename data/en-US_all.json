@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-11 00:47:51",
-    "Total": 563,
+    "LastUpdate": "2023-11-12 00:48:17",
+    "Total": 564,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311110800",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.VeteransDayDC_EN-US7666353324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeteransDayDC_EN-US7666353324",
+            "copyright": "Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=veterans+day&form=hpcapt&filters=HpDate%3a%2220231111_0800%22",
+            "title": "A salute to veterans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_VeteransDayDC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a62463aeda015e2c5d9abceeed273c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311100800",
