@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-11 00:48:14",
-    "Total": 563,
+    "LastUpdate": "2023-11-12 00:48:40",
+    "Total": 564,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231111",
+            "fullstartdate": "202311111830",
+            "enddate": "20231112",
+            "url": "/th?id=OHR.DiwaliAyodhya_EN-IN0905381665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliAyodhya_EN-IN0905381665",
+            "copyright": "Lamps on the banks of the Sarayu River on Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=diwali&form=hpcapt&filters=HpDate%3a%2220231111_1830%22",
+            "title": "A thousand splendid lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_DiwaliAyodhya%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ae84487c6d81f9c9fd0f483995a950af",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231110",
             "fullstartdate": "202311101830",
