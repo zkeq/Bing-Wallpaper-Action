@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-12 00:48:26",
-    "Total": 564,
+    "LastUpdate": "2023-11-13 00:48:13",
+    "Total": 565,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231112",
+            "fullstartdate": "202311122300",
+            "enddate": "20231113",
+            "url": "/th?id=OHR.OliveOrchard_DE-DE1410209761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OliveOrchard_DE-DE1410209761",
+            "copyright": "Alter Olivenhain in der Serra Tramuntana, Mallorca, Spanien (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mallorca&form=hpcapt&filters=HpDate%3a%2220231112_2300%22",
+            "title": "Olivenoase",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231112_OliveOrchard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "606d0f2a1705e3982ec6455b24b519e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231111",
             "fullstartdate": "202311112300",
