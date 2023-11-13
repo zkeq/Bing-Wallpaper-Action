@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-12 00:48:40",
-    "Total": 564,
+    "LastUpdate": "2023-11-13 00:48:26",
+    "Total": 565,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231112",
+            "fullstartdate": "202311121830",
+            "enddate": "20231113",
+            "url": "/th?id=OHR.OliveOrchard_EN-IN6860940446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OliveOrchard_EN-IN6860940446",
+            "copyright": "Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Majorca+Spain&form=hpcapt&filters=HpDate%3a%2220231112_1830%22",
+            "title": "From the tree to the table",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231112_OliveOrchard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3f21d85adf8b82788226889bae8e2eb5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231111",
             "fullstartdate": "202311111830",
