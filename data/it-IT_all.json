@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-12 00:48:49",
-    "Total": 564,
+    "LastUpdate": "2023-11-13 00:48:35",
+    "Total": 565,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231112",
+            "fullstartdate": "202311122300",
+            "enddate": "20231113",
+            "url": "/th?id=OHR.OliveOrchard_IT-IT1918983389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OliveOrchard_IT-IT1918983389",
+            "copyright": "Antico uliveto nella Serra Tramuntana, Maiorca, Spagna  (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Maiorca+dov%27%C3%A8&form=hpcapt",
+            "title": "Impanate o sott’olio?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231112_OliveOrchard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2dff9aa49d00e8fb944adbad378d82aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231111",
             "fullstartdate": "202311112300",
