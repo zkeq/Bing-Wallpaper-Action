@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-13 00:48:31",
-    "Total": 565,
+    "LastUpdate": "2023-11-14 00:48:28",
+    "Total": 566,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231113",
+            "fullstartdate": "202311132300",
+            "enddate": "20231114",
+            "url": "/th?id=OHR.RussellLupines_FR-FR6503844522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RussellLupines_FR-FR6503844522",
+            "copyright": "Lupins de Russell sur le lac Tekapo, île du Sud, Nouvelle-Zélande (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=lupins+de+rusell&form=hpcapt&filters=HpDate%3a%2220231113_2300%22",
+            "title": "Une prairie de Lupins à perte de vue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231113_RussellLupines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ad57ba314900844741a4f1a073aed15",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231112",
             "fullstartdate": "202311122300",
