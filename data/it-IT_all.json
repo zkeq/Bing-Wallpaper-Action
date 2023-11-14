@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-13 00:48:35",
-    "Total": 565,
+    "LastUpdate": "2023-11-14 00:48:33",
+    "Total": 566,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231113",
+            "fullstartdate": "202311132300",
+            "enddate": "20231114",
+            "url": "/th?id=OHR.RussellLupines_IT-IT2361733458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RussellLupines_IT-IT2361733458",
+            "copyright": "Lupini Ibridi Russell lungo il lago Tekapo, Nuova Zelanda (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lupinus&form=hpcapt",
+            "title": "I lupini territoriali!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231113_RussellLupines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa5de87bafe99bc0c6816de8d404735a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231112",
             "fullstartdate": "202311122300",
