@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-13 00:48:13",
-    "Total": 565,
+    "LastUpdate": "2023-11-14 00:48:10",
+    "Total": 566,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231113",
+            "fullstartdate": "202311132300",
+            "enddate": "20231114",
+            "url": "/th?id=OHR.RusellLupines_DE-DE0157339723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RusellLupines_DE-DE0157339723",
+            "copyright": "Vielblättrige Lupinen am Lake Tekapo, Südinsel, Neuseeland (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Vielbl%C3%A4ttrige+Lupine&form=hpcapt&filters=HpDate%3a%2220231113_2300%22",
+            "title": "Vielblättrige Lupinen, soweit das Auge reicht!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231113_RusellLupines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0cdd6340e3c4fb35a4b870b9454a023",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231112",
             "fullstartdate": "202311122300",
