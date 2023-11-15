@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-14 00:48:15",
-    "Total": 565,
+    "LastUpdate": "2023-11-15 00:48:13",
+    "Total": 566,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231114",
+            "fullstartdate": "202311140500",
+            "enddate": "20231115",
+            "url": "/th?id=OHR.RussellLupines_EN-CA8718015949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RussellLupines_EN-CA8718015949",
+            "copyright": "Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Russell+Lupine&form=hpcapt&filters=HpDate%3a%2220231114_0500%22",
+            "title": "A beautiful nuisance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231114_RussellLupines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f0a179268f7710287a702b9cfc89932",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231113",
             "fullstartdate": "202311130500",
