@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-15 00:48:13",
-    "Total": 566,
+    "LastUpdate": "2023-11-16 00:48:19",
+    "Total": 567,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231115",
+            "fullstartdate": "202311150500",
+            "enddate": "20231116",
+            "url": "/th?id=OHR.SarekSweden_EN-CA7793725097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SarekSweden_EN-CA7793725097",
+            "copyright": "Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sarek+National+Park&form=hpcapt&filters=HpDate%3a%2220231115_0500%22",
+            "title": "Imagine the echo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231115_SarekSweden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "452ca6a057e187c70804cb0794289394",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231114",
             "fullstartdate": "202311140500",
