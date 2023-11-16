@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-15 00:48:09",
-    "Total": 567,
+    "LastUpdate": "2023-11-16 00:48:15",
+    "Total": 568,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231115",
+            "fullstartdate": "202311152300",
+            "enddate": "20231116",
+            "url": "/th?id=OHR.AthensAcropolis_DE-DE2752132503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AthensAcropolis_DE-DE2752132503",
+            "copyright": "Blick über Athen und die Akropolis, Griechenland (© Mlenny/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Philosophie&form=hpcapt&filters=HpDate%3a%2220231115_2300%22",
+            "title": "Der Geburtsort der westlichen Philosophie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231115_AthensAcropolis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d73de90de8857b639a2607f73253760",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231114",
             "fullstartdate": "202311142300",
