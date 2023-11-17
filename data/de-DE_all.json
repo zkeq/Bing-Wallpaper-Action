@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-16 00:48:15",
-    "Total": 568,
+    "LastUpdate": "2023-11-17 00:48:09",
+    "Total": 569,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231116",
+            "fullstartdate": "202311162300",
+            "enddate": "20231117",
+            "url": "/th?id=OHR.KoenigseeLake_DE-DE5469211104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KoenigseeLake_DE-DE5469211104",
+            "copyright": "Königssee im Herbst, Berchtesgaden, Bayern (© rusm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%B6nigssee&form=hpcapt&filters=HpDate%3a%2220231116_2300%22",
+            "title": "Rote Bäume, klarer See, in meinem Herbst, da sprießen Träume!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_KoenigseeLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "39b5bad3925d0a9923139e8b444b2e57",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231115",
             "fullstartdate": "202311152300",
