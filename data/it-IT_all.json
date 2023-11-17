@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-16 00:48:37",
-    "Total": 568,
+    "LastUpdate": "2023-11-17 00:48:31",
+    "Total": 569,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231116",
+            "fullstartdate": "202311162300",
+            "enddate": "20231117",
+            "url": "/th?id=OHR.BadRiver_IT-IT5930928466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadRiver_IT-IT5930928466",
+            "copyright": "Fiume Bad nel Parco statale di Copper Falls, Wisconsin, USA (© Big Joe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bad+River+Wisconsin&form=hpcapt",
+            "title": "Allacciate gli stivali!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_BadRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a5a29e3ddd557f959fdd8a861bc7205",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231115",
             "fullstartdate": "202311152300",
