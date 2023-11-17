@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-16 00:48:19",
-    "Total": 567,
+    "LastUpdate": "2023-11-17 00:48:13",
+    "Total": 568,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231116",
+            "fullstartdate": "202311160500",
+            "enddate": "20231117",
+            "url": "/th?id=OHR.VanDusenGarden_EN-CA9959447598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VanDusenGarden_EN-CA9959447598",
+            "copyright": "Festival of Lights, VanDusen Botanical Garden, Vancouver (© Wiliam Perry/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=VanDusen+Botanical+Garden+Vancouver&form=hpcapt&filters=HpDate%3a%2220231116_0500%22",
+            "title": "The luminous spirit of nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_VanDusenGarden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8e86560adf1694b0bbbdf9b55917029",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231115",
             "fullstartdate": "202311150500",
