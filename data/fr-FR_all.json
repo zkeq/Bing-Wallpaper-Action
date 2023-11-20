@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-19 00:48:40",
-    "Total": 571,
+    "LastUpdate": "2023-11-20 00:48:28",
+    "Total": 572,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231119",
+            "fullstartdate": "202311192300",
+            "enddate": "20231120",
+            "url": "/th?id=OHR.ChapmanAdventure_FR-FR6090877361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChapmanAdventure_FR-FR6090877361",
+            "copyright": "Aire de jeux Chapman Adventure Playground, Gathering Place, Tulsa, Oklahoma, États-Unis (© Susan Vineyard/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+l%27enfance&form=hpcapt&filters=HpDate%3a%2220231119_2300%22",
+            "title": "Pour un avenir meilleur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231119_ChapmanAdventure%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7d2f01dc875b4c77e30bf2064870a683",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231118",
             "fullstartdate": "202311182300",
