@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-20 00:48:28",
-    "Total": 572,
+    "LastUpdate": "2023-11-21 00:48:34",
+    "Total": 573,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231120",
+            "fullstartdate": "202311202300",
+            "enddate": "20231121",
+            "url": "/th?id=OHR.HelloSeal_FR-FR6889028849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelloSeal_FR-FR6889028849",
+            "copyright": "Bébé phoque gris sur la plage de Norfolk, Angleterre (© Vince Burton/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=b%C3%A9b%C3%A9+phoque+gris+&form=hpcapt&filters=HpDate%3a%2220231120_2300%22",
+            "title": "Bonjour chez vous !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_HelloSeal%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4b2700afefc5ae4b7f386c62b547cf7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231119",
             "fullstartdate": "202311192300",
