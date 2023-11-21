@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-20 00:47:57",
-    "Total": 572,
+    "LastUpdate": "2023-11-21 00:48:03",
+    "Total": 573,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231120",
+            "fullstartdate": "202311201600",
+            "enddate": "20231121",
+            "url": "/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelloSeal_ZH-CN1064568368",
+            "copyright": "英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%81%B0%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn",
+            "title": "欢迎来到这个世界！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_HelloSeal%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7eb03114c2064902067f984e63b1f21",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231119",
             "fullstartdate": "202311191600",
