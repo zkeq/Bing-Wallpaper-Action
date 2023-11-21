@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-20 00:48:32",
-    "Total": 572,
+    "LastUpdate": "2023-11-21 00:48:38",
+    "Total": 573,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231120",
+            "fullstartdate": "202311202300",
+            "enddate": "20231121",
+            "url": "/th?id=OHR.GiornataAlbero_IT-IT4061721168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiornataAlbero_IT-IT4061721168",
+            "copyright": "Pino Loricato sul Monte Pollino, Potenza (© Renzi Tommaso/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Monte+Pollino+dov%27%C3%A8%3f&form=hpcapt",
+            "title": "Si chiama Pino... ma non è tuo cugino!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_GiornataAlbero%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2089021be0b6292cf68821c3a71398b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231119",
             "fullstartdate": "202311192300",
