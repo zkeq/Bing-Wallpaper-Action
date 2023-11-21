@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-20 00:48:11",
-    "Total": 572,
+    "LastUpdate": "2023-11-21 00:48:17",
+    "Total": 573,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231120",
+            "fullstartdate": "202311202300",
+            "enddate": "20231121",
+            "url": "/th?id=OHR.RioNegro_DE-DE7737986794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RioNegro_DE-DE7737986794",
+            "copyright": "Río Negro, Amazonasbecken, Brasilien (© Timothy Allen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rio+Negro+Brasilien&form=hpcapt&filters=HpDate%3a%2220231120_2300%22",
+            "title": "Spieglein Spieglein auf dem Wasser",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_RioNegro%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae10ad350556529525821e640a9f6abb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231119",
             "fullstartdate": "202311192300",
