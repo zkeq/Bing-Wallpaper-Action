@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-21 00:48:08",
-    "Total": 573,
+    "LastUpdate": "2023-11-22 00:48:18",
+    "Total": 574,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231121",
+            "fullstartdate": "202311210800",
+            "enddate": "20231122",
+            "url": "/th?id=OHR.HelloSeal_EN-US2666982656_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelloSeal_EN-US2666982656",
+            "copyright": "Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=gray+seal&form=hpcapt&filters=HpDate%3a%2220231121_0800%22",
+            "title": "Welcome to the world, pup!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231121_HelloSeal%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb9fd844a7ebd5bafde91490078b341f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231120",
             "fullstartdate": "202311200800",
