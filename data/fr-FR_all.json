@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-21 00:48:34",
-    "Total": 573,
+    "LastUpdate": "2023-11-22 00:48:45",
+    "Total": 574,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231121",
+            "fullstartdate": "202311212300",
+            "enddate": "20231122",
+            "url": "/th?id=OHR.SnakeRiverTeton_FR-FR7464068281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnakeRiverTeton_FR-FR7464068281",
+            "copyright": "Parc national de Grand Teton, Wyoming, États-Unis (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Teton+National+Parc+Wyoming&form=hpcapt&filters=HpDate%3a%2220231121_2300%22",
+            "title": "La beauté à l'état pur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231121_SnakeRiverTeton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "350073cf57f4d3c3cbf99f5bf392bed0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231120",
             "fullstartdate": "202311202300",
