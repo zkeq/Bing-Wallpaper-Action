@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-21 00:48:03",
-    "Total": 573,
+    "LastUpdate": "2023-11-22 00:48:13",
+    "Total": 574,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231121",
+            "fullstartdate": "202311211600",
+            "enddate": "20231122",
+            "url": "/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303",
+            "copyright": "大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%8F%90%E9%A1%BF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "人少景美的静谧之地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231121_SnakeRiverTeton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2f917e8ff59a7714c1af366e4347789",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231120",
             "fullstartdate": "202311201600",
