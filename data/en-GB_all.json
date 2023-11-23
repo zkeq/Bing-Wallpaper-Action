@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:36",
-    "Total": 573,
+    "LastUpdate": "2023-11-23 00:48:16",
+    "Total": 574,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231123",
+            "fullstartdate": "202311230000",
+            "enddate": "20231124",
+            "url": "/th?id=OHR.TeideNational_EN-GB3659708002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeideNational_EN-GB3659708002",
+            "copyright": "Teide National Park, Tenerife, Canary Islands, Spain (© Javier Martínez Morán/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Teide+National+Park&form=hpcapt&filters=HpDate%3a%2220231123_0000%22",
+            "title": "Summits in the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231123_TeideNational%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "272969e5ef4c3cc15a5516d57cb551d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231122",
             "fullstartdate": "202311220000",
