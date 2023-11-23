@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:27",
-    "Total": 574,
+    "LastUpdate": "2023-11-23 00:48:07",
+    "Total": 575,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231122",
+            "fullstartdate": "202311222300",
+            "enddate": "20231123",
+            "url": "/th?id=OHR.TeideNational_DE-DE1766890549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeideNational_DE-DE1766890549",
+            "copyright": "Sonnenuntergang im Nationalpark El Teide, Teneriffa, Kanarische Inseln, Spanien (© Javier Martínez Morán/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Nationalpark+El-Teide&form=hpcapt&filters=HpDate%3a%2220231122_2300%22",
+            "title": "Ein Sonnenuntergang mitten im Atlantik",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_TeideNational%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de58f7b9b9fc0706b3164643d7c56b15",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231121",
             "fullstartdate": "202311212300",
