@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:18",
-    "Total": 574,
+    "LastUpdate": "2023-11-23 00:47:58",
+    "Total": 575,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231122",
+            "fullstartdate": "202311220800",
+            "enddate": "20231123",
+            "url": "/th?id=OHR.SnakeRiverTeton_EN-US2749569171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnakeRiverTeton_EN-US2749569171",
+            "copyright": "Grand Teton National Park, Wyoming (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Teton+National+Park+Wyoming&form=hpcapt&filters=HpDate%3a%2220231122_0800%22",
+            "title": "The quiet beauty of Grand Teton",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_SnakeRiverTeton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fda02c13cd77bf908a7eab483b8049fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231121",
             "fullstartdate": "202311210800",
