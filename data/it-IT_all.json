@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:49",
-    "Total": 574,
+    "LastUpdate": "2023-11-23 00:48:29",
+    "Total": 575,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231122",
+            "fullstartdate": "202311222300",
+            "enddate": "20231123",
+            "url": "/th?id=OHR.TeideNational_IT-IT6647681954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeideNational_IT-IT6647681954",
+            "copyright": "Tramonto al Parco Nazionale del Teide, Tenerife, Isole Canarie, Spagna (© Javier Martínez Morán/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+del+Teide+dov%27%C3%A8&form=hpcapt",
+            "title": "Dal profondo dei mari all'alto dei cieli!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_TeideNational%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90d5ccaf655c9f9f8bd86fcb574ef0bc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231121",
             "fullstartdate": "202311212300",
