@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:23",
-    "Total": 574,
+    "LastUpdate": "2023-11-23 00:48:03",
+    "Total": 575,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231122",
+            "fullstartdate": "202311221500",
+            "enddate": "20231123",
+            "url": "/th?id=OHR.BradgateFallow_JA-JP4632580137_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BradgateFallow_JA-JP4632580137",
+            "copyright": "ブラッドゲート・パーク, イギリス イングランド (© Chris Bainbridge/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%80%E3%83%9E%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220231122_1500%22",
+            "title": "カメラに気付いたダマジカ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_BradgateFallow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9006eb8d91020d2bffe945436809a42a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231121",
             "fullstartdate": "202311211500",
