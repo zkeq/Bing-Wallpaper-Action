@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-22 00:48:31",
-    "Total": 573,
+    "LastUpdate": "2023-11-23 00:48:11",
+    "Total": 574,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231122",
+            "fullstartdate": "202311220500",
+            "enddate": "20231123",
+            "url": "/th?id=OHR.SnakeRiverTeton_EN-CA6269707771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnakeRiverTeton_EN-CA6269707771",
+            "copyright": "Grand Teton National Park, Wyoming (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Teton+National+Park+Wyoming&form=hpcapt&filters=HpDate%3a%2220231122_0500%22",
+            "title": "Big on beauty, short on people",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_SnakeRiverTeton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ff40e0af82b00f5c7bf1b37a37bc813",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231121",
             "fullstartdate": "202311210500",
