@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-23 00:47:53",
-    "Total": 575,
+    "LastUpdate": "2023-11-24 00:47:47",
+    "Total": 576,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231123",
+            "fullstartdate": "202311231600",
+            "enddate": "20231124",
+            "url": "/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HallofMosses_ZH-CN1565129809",
+            "copyright": "奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9C%8D%E6%B2%B3%E9%9B%A8%E6%9E%97+%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "不一样的热带雨林",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231123_HallofMosses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "622bf0811eea57072619fc2f63bcc4b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231122",
             "fullstartdate": "202311221600",
