@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-23 00:47:58",
-    "Total": 575,
+    "LastUpdate": "2023-11-24 00:47:53",
+    "Total": 576,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231123",
+            "fullstartdate": "202311230800",
+            "enddate": "20231124",
+            "url": "/th?id=OHR.FlintCorn_EN-US2819178375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlintCorn_EN-US2819178375",
+            "copyright": "Flint corn (© Cynthia Liang/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=thanksgiving&form=hpcapt&filters=HpDate%3a%2220231123_0800%22",
+            "title": "Happy Thanksgiving!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231123_FlintCorn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ebf2d9dd70dad157e5734a5eef5028a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231122",
             "fullstartdate": "202311220800",
