@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-24 00:48:01",
-    "Total": 576,
+    "LastUpdate": "2023-11-25 00:48:00",
+    "Total": 577,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231124",
+            "fullstartdate": "202311242300",
+            "enddate": "20231125",
+            "url": "/th?id=OHR.TajoRiver_DE-DE3120502310_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TajoRiver_DE-DE3120502310",
+            "copyright": "Toledo, Spanien (© Carlos Fernandez/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Toledo+Spanien&form=hpcapt&filters=HpDate%3a%2220231124_2300%22",
+            "title": "Lichterspektakel in Toledo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_TajoRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0e5d5ca3c81e61d298b05430d8f88ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231123",
             "fullstartdate": "202311232300",
