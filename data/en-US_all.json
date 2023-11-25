@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-24 00:47:53",
-    "Total": 576,
+    "LastUpdate": "2023-11-25 00:47:51",
+    "Total": 577,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231124",
+            "fullstartdate": "202311240800",
+            "enddate": "20231125",
+            "url": "/th?id=OHR.HallofMosses_EN-US3167567374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HallofMosses_EN-US3167567374",
+            "copyright": "Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=hoh+rain+forest&form=hpcapt&filters=HpDate%3a%2220231124_0800%22",
+            "title": "A different kind of rainforest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_HallofMosses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d575aa201cd35d09e82747713dd9e3d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231123",
             "fullstartdate": "202311230800",
