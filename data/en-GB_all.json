@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-25 00:48:09",
-    "Total": 576,
+    "LastUpdate": "2023-11-26 00:48:28",
+    "Total": 577,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231126",
+            "fullstartdate": "202311260000",
+            "enddate": "20231127",
+            "url": "/th?id=OHR.BradgateFallow_EN-GB0976305371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BradgateFallow_EN-GB0976305371",
+            "copyright": "Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Fallow+deer&form=hpcapt&filters=HpDate%3a%2220231126_0000%22",
+            "title": "Who stepped on a twig?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231126_BradgateFallow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ba584bf39a2b0bb6663d98c85bf72ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231125",
             "fullstartdate": "202311250000",
