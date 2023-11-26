@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-25 00:47:51",
-    "Total": 577,
+    "LastUpdate": "2023-11-26 00:48:10",
+    "Total": 578,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231125",
+            "fullstartdate": "202311250800",
+            "enddate": "20231126",
+            "url": "/th?id=OHR.TajoRiver_EN-US3801665254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TajoRiver_EN-US3801665254",
+            "copyright": "Toledo, Spain (© Carlos Fernandez/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Toledo+Spain&form=hpcapt&filters=HpDate%3a%2220231125_0800%22",
+            "title": "Toledo's timeless tale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231125_TajoRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f06dfc26595072ae659f2536092ab377",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231124",
             "fullstartdate": "202311240800",
