@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-25 00:47:46",
-    "Total": 577,
+    "LastUpdate": "2023-11-26 00:48:04",
+    "Total": 578,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231125",
+            "fullstartdate": "202311251600",
+            "enddate": "20231126",
+            "url": "/th?id=OHR.BradgateFallow_ZH-CN1852334581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BradgateFallow_ZH-CN1852334581",
+            "copyright": "布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B0%8F%E9%B9%BF&form=hpcapt&mkt=zh-cn",
+            "title": "谁踩到树枝了?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231125_BradgateFallow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4904d192fd0e5bb51faed3fe932cc371",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231124",
             "fullstartdate": "202311241600",
