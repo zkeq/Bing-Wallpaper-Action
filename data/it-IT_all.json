@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-25 00:48:22",
-    "Total": 577,
+    "LastUpdate": "2023-11-26 00:48:42",
+    "Total": 578,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231125",
+            "fullstartdate": "202311252300",
+            "enddate": "20231126",
+            "url": "/th?id=OHR.BradgateFallow_IT-IT7620518692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BradgateFallow_IT-IT7620518692",
+            "copyright": "Daini nel Parco di Bradgate, Leicestershire, Inghilterra  (© Chris Bainbridge/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Dama+dama+daino+cos%27%C3%A8+&form=hpcapt",
+            "title": "Cos’è questo fruscio?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231125_BradgateFallow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd9fed9cdbf436f297e07c466c0a86ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231124",
             "fullstartdate": "202311242300",
