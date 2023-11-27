@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-26 00:48:19",
-    "Total": 578,
+    "LastUpdate": "2023-11-27 00:48:15",
+    "Total": 579,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231126",
+            "fullstartdate": "202311262300",
+            "enddate": "20231127",
+            "url": "/th?id=OHR.FrankfurtChristmasMarket_DE-DE3743491951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrankfurtChristmasMarket_DE-DE3743491951",
+            "copyright": "Weihnachtsmarkt in Frankfurt am Main, Hessen (© Michael Abid/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Frankfurter+Weihnachtsmarkt&form=hpcapt&filters=HpDate%3a%2220231126_2300%22",
+            "title": "Oh du gelobte Weihnachtsstimmung!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231126_FrankfurtChristmasMarket%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49574b381043beed8fafdddb4354f86a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231125",
             "fullstartdate": "202311252300",
