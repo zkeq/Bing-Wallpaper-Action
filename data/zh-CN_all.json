@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-26 00:48:04",
-    "Total": 578,
+    "LastUpdate": "2023-11-27 00:48:01",
+    "Total": 579,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231126",
+            "fullstartdate": "202311261600",
+            "enddate": "20231127",
+            "url": "/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RioNegro_ZH-CN2121977810",
+            "copyright": "内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E6%A0%BC%E7%BD%97%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "水上明镜",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231126_RioNegro%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6f896331ff592e8760e6f4c5d304800",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231125",
             "fullstartdate": "202311251600",
