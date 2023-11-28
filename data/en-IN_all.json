@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-27 00:48:28",
-    "Total": 579,
+    "LastUpdate": "2023-11-28 00:48:29",
+    "Total": 580,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231127",
+            "fullstartdate": "202311271830",
+            "enddate": "20231128",
+            "url": "/th?id=OHR.VarandhaGhatBhor_EN-IN3063436345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VarandhaGhatBhor_EN-IN3063436345",
+            "copyright": "Lush green landscape of Varandha Ghat,Bhor,Maharashtra, India. (© AmitRane1975/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Varandha+Ghat&form=hpcapt&filters=HpDate%3a%2220231127_1830%22",
+            "title": "Over the clouds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231127_VarandhaGhatBhor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "acc5a11d42ecb88c12d71247d2a614a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231126",
             "fullstartdate": "202311261830",
