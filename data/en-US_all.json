@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-27 00:48:06",
-    "Total": 579,
+    "LastUpdate": "2023-11-28 00:48:07",
+    "Total": 580,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231127",
+            "fullstartdate": "202311270800",
+            "enddate": "20231128",
+            "url": "/th?id=OHR.RioNegro_EN-US4106999854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RioNegro_EN-US4106999854",
+            "copyright": "Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rio+Negro&form=hpcapt&filters=HpDate%3a%2220231127_0800%22",
+            "title": "Mirror, mirror, on the water",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231127_RioNegro%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30cc7f715dfb09e1db2f4dda8131dae8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231126",
             "fullstartdate": "202311260800",
