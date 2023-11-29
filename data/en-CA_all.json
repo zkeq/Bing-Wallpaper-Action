@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-28 00:48:20",
-    "Total": 579,
+    "LastUpdate": "2023-11-29 00:48:17",
+    "Total": 580,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231128",
+            "fullstartdate": "202311280500",
+            "enddate": "20231129",
+            "url": "/th?id=OHR.HumanKindness_EN-CA5067686988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumanKindness_EN-CA5067686988",
+            "copyright": "Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=GivingTuesday&form=hpcapt&filters=HpDate%3a%2220231128_0500%22",
+            "title": "A day to lend a hand",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231128_HumanKindness%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "3f0a8970d5ef13eef95b8501ab7fd900",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231127",
             "fullstartdate": "202311270500",
