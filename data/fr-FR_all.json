@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-29 00:48:30",
-    "Total": 581,
+    "LastUpdate": "2023-11-30 00:48:26",
+    "Total": 582,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231129",
+            "fullstartdate": "202311292300",
+            "enddate": "20231130",
+            "url": "/th?id=OHR.BaldCypress_FR-FR6892436965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BaldCypress_FR-FR6892436965",
+            "copyright": "Cyprès chauves à l'étang de Boulieu, Isère, France (© photosimysia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cypr%C3%A8s+chauves++&form=hpcapt&filters=HpDate%3a%2220231129_2300%22",
+            "title": "Reflets d’automne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231129_BaldCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1325289eb234355cf7c27904eb8da71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231128",
             "fullstartdate": "202311282300",
