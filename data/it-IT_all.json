@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-29 00:48:35",
-    "Total": 581,
+    "LastUpdate": "2023-11-30 00:48:30",
+    "Total": 582,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231129",
+            "fullstartdate": "202311292300",
+            "enddate": "20231130",
+            "url": "/th?id=OHR.TrotternishStorr_IT-IT5546138012_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrotternishStorr_IT-IT5546138012",
+            "copyright": "Lo Storr, un affioramento roccioso sull'Isola di Skye, Scozia (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giorno+di+Sant%27Andrea+Scozia&form=hpcapt",
+            "title": "L'anziano di turno",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231129_TrotternishStorr%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "472b8f9039866b66fa7a1d14ff0bce83",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231128",
             "fullstartdate": "202311282300",
