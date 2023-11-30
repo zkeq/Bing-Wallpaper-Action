@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-29 00:48:03",
-    "Total": 581,
+    "LastUpdate": "2023-11-30 00:47:59",
+    "Total": 582,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231129",
+            "fullstartdate": "202311290800",
+            "enddate": "20231130",
+            "url": "/th?id=OHR.TreeLighting_EN-US4396317497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TreeLighting_EN-US4396317497",
+            "copyright": "Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rockefeller+Center+Christmas+Tree+Lighting&form=hpcapt&filters=HpDate%3a%2220231129_0800%22",
+            "title": "Rockefeller 'round the Christmas tree",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231129_TreeLighting%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "f5be82ebc1a1c91a096fe53251c7a7e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231128",
             "fullstartdate": "202311280800",
