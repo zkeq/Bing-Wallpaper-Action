@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-30 00:48:12",
-    "Total": 581,
+    "LastUpdate": "2023-12-01 00:48:27",
+    "Total": 582,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231130",
+            "fullstartdate": "202311300500",
+            "enddate": "20231201",
+            "url": "/th?id=OHR.TrotternishStorr_EN-CA5599802740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrotternishStorr_EN-CA5599802740",
+            "copyright": "The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saint+Andrew%27s+Day+Scotland&form=hpcapt&filters=HpDate%3a%2220231130_0500%22",
+            "title": "The Old Man on his watch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231130_TrotternishStorr%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52fa98aeb6e2cddb77aed02b830852f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231129",
             "fullstartdate": "202311290500",
