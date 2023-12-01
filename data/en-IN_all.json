@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-30 00:48:21",
-    "Total": 582,
+    "LastUpdate": "2023-12-01 00:48:35",
+    "Total": 583,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231130",
+            "fullstartdate": "202311301830",
+            "enddate": "20231201",
+            "url": "/th?id=OHR.IcebergAntarctica_EN-IN1184345977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergAntarctica_EN-IN1184345977",
+            "copyright": "Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Antarctica&form=hpcapt&filters=HpDate%3a%2220231130_1830%22",
+            "title": "A very cool place",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231130_IcebergAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ebd47da629ea089f7016a4ace92d1211",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231129",
             "fullstartdate": "202311291830",
