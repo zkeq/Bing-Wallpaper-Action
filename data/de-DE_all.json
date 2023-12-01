@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-11-30 00:48:08",
-    "Total": 582,
+    "LastUpdate": "2023-12-01 00:48:22",
+    "Total": 583,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231130",
+            "fullstartdate": "202311302300",
+            "enddate": "20231201",
+            "url": "/th?id=OHR.IcebergAntarctica_DE-DE5154867444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergAntarctica_DE-DE5154867444",
+            "copyright": "Eisberg, Rossmeer, Antarktis (© Michel Roggo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Antarktis&form=hpcapt&filters=HpDate%3a%2220231130_2300%22",
+            "title": "Eis, Eis und nochmals Eis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231130_IcebergAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2075f0912e56e96fd4747b8caa0e6fe8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231129",
             "fullstartdate": "202311292300",
