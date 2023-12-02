@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-01 00:48:27",
-    "Total": 582,
+    "LastUpdate": "2023-12-02 00:48:09",
+    "Total": 583,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231201",
+            "fullstartdate": "202312010500",
+            "enddate": "20231202",
+            "url": "/th?id=OHR.MinnewankaLake_EN-CA2495233289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinnewankaLake_EN-CA2495233289",
+            "copyright": "Lake Minnewanka, Alberta, Canada (© Ken Phung/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Minnewanka+Alberta&form=hpcapt&filters=HpDate%3a%2220231201_0500%22",
+            "title": "Starlight, shining bright",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231201_MinnewankaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f002e4f4de4404bab1b7b00b50d4dbfd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231130",
             "fullstartdate": "202311300500",
