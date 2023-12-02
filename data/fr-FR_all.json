@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-01 00:48:40",
-    "Total": 583,
+    "LastUpdate": "2023-12-02 00:48:22",
+    "Total": 584,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231201",
+            "fullstartdate": "202312012300",
+            "enddate": "20231202",
+            "url": "/th?id=OHR.AngkorPark_FR-FR1945266452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AngkorPark_FR-FR1945266452",
+            "copyright": "Porte nord d'Angkor Thom, Parc archéologique d'Angkor, Cambodge (© Amazing Travel Lifestyle/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Angkor+&form=hpcapt&filters=HpDate%3a%2220231201_2300%22",
+            "title": "L’ancienne cité Khmer aux temples majestueux",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231201_AngkorPark%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "80f933ae84a5627e9a095bb00a2fed88",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231130",
             "fullstartdate": "202311302300",
