@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-01 00:48:13",
-    "Total": 583,
+    "LastUpdate": "2023-12-02 00:47:56",
+    "Total": 584,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231201",
+            "fullstartdate": "202312010800",
+            "enddate": "20231202",
+            "url": "/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergAntarctica_EN-US8733526190",
+            "copyright": "Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220231201_0800%22",
+            "title": "Celebrating the coolest place!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231201_IcebergAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "488ab06b021b171816ed0d75f92db358",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231130",
             "fullstartdate": "202311300800",
