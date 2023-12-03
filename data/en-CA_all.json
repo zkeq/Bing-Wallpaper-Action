@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-02 00:48:09",
-    "Total": 583,
+    "LastUpdate": "2023-12-03 00:48:23",
+    "Total": 584,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231202",
+            "fullstartdate": "202312020500",
+            "enddate": "20231203",
+            "url": "/th?id=OHR.AngkorPark_EN-CA3208481689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AngkorPark_EN-CA3208481689",
+            "copyright": "North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Angkor+Cambodia&form=hpcapt&filters=HpDate%3a%2220231202_0500%22",
+            "title": "A city within a city",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231202_AngkorPark%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "4731c8e5398a4d83e43bddc69bbe8d34",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231201",
             "fullstartdate": "202312010500",
