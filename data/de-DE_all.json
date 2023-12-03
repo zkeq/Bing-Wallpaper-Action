@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-02 00:48:04",
-    "Total": 584,
+    "LastUpdate": "2023-12-03 00:48:19",
+    "Total": 585,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231202",
+            "fullstartdate": "202312022300",
+            "enddate": "20231203",
+            "url": "/th?id=OHR.AdventCandles_DE-DE5745252681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdventCandles_DE-DE5745252681",
+            "copyright": "Die Adventszeit beginnt (© Muenz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Adventssonntag&form=hpcapt&filters=HpDate%3a%2220231202_2300%22",
+            "title": "Advent, Advent, ein Lichtlein brennt...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231202_AdventCandles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49330578806eb25822a48a199606362c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231201",
             "fullstartdate": "202312012300",
