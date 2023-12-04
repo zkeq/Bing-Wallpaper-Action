@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-03 00:48:32",
-    "Total": 585,
+    "LastUpdate": "2023-12-04 00:48:24",
+    "Total": 586,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231203",
+            "fullstartdate": "202312031830",
+            "enddate": "20231204",
+            "url": "/th?id=OHR.CheetahDay_EN-IN5126882099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CheetahDay_EN-IN5126882099",
+            "copyright": "A mother cheetah and her cubs in the Masai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Cheetah+animal&form=hpcapt&filters=HpDate%3a%2220231203_1830%22",
+            "title": "Masters of agility and cuteness",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231203_CheetahDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "913382e01ecb10485bf52081a506460e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231202",
             "fullstartdate": "202312021830",
