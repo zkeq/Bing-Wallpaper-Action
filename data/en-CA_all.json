@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-03 00:48:23",
-    "Total": 584,
+    "LastUpdate": "2023-12-04 00:48:16",
+    "Total": 585,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231203",
+            "fullstartdate": "202312030500",
+            "enddate": "20231204",
+            "url": "/th?id=OHR.VermilionCliffs_EN-CA1719361824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VermilionCliffs_EN-CA1719361824",
+            "copyright": "Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Vermilion+Cliffs+National+Monument&form=hpcapt&filters=HpDate%3a%2220231203_0500%22",
+            "title": "Sculpted by time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231203_VermilionCliffs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c17a353b271c825e83519df74a2d14c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231202",
             "fullstartdate": "202312020500",
