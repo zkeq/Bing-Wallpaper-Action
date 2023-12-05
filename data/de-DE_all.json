@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-04 00:48:11",
-    "Total": 586,
+    "LastUpdate": "2023-12-05 00:48:13",
+    "Total": 587,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231204",
+            "fullstartdate": "202312042300",
+            "enddate": "20231205",
+            "url": "/th?id=OHR.AlpsCastles_DE-DE6522289575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpsCastles_DE-DE6522289575",
+            "copyright": "Schloss Neuschwanstein und Schloss Hohenschwangau, Bayerische Alpen (© Harald Nachtmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Liste+von+Burgen+und+Schl%C3%B6sser+in+Bayern&form=hpcapt&filters=HpDate%3a%2220231204_2300%22",
+            "title": "Schlösser und Berge, sehen Sie die sieben Zwerge?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231204_AlpsCastles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8e9f8d89b99cacba283db6d9026a898",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231203",
             "fullstartdate": "202312032300",
