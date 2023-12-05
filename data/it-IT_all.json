@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-04 00:48:33",
-    "Total": 586,
+    "LastUpdate": "2023-12-05 00:48:35",
+    "Total": 587,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231204",
+            "fullstartdate": "202312042300",
+            "enddate": "20231205",
+            "url": "/th?id=OHR.ValdiFassa_IT-IT6575730533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValdiFassa_IT-IT6575730533",
+            "copyright": "Passo Pordoi, Sellaronda, vista dal Belvedere verso la Marmolada, Italia (© Johanna Huber/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Sellaronda+dov%27%C3%A8&form=hpcapt",
+            "title": "A tutta birra!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231204_ValdiFassa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "381cc10a429800b015be9f08592c11e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231203",
             "fullstartdate": "202312032300",
