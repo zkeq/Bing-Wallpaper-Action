@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-04 00:47:57",
-    "Total": 586,
+    "LastUpdate": "2023-12-05 00:47:58",
+    "Total": 587,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231204",
+            "fullstartdate": "202312041600",
+            "enddate": "20231205",
+            "url": "/th?id=OHR.AlpsCastles_ZH-CN5078013932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpsCastles_ZH-CN5078013932",
+            "copyright": "天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E5%A4%A9%E9%B9%85%E5%A0%A1%E5%92%8C%E6%97%A7%E5%A4%A9%E9%B9%85%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "童话故事中的场景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231204_AlpsCastles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ff82c65c3682ee0d86216aadc5590cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231203",
             "fullstartdate": "202312031600",
