@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-05 00:48:22",
-    "Total": 586,
+    "LastUpdate": "2023-12-06 00:48:24",
+    "Total": 587,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231206",
+            "fullstartdate": "202312060000",
+            "enddate": "20231207",
+            "url": "/th?id=OHR.CERNCenter_EN-GB2545686496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CERNCenter_EN-GB2545686496",
+            "copyright": "The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Computer+science&form=hpcapt&filters=HpDate%3a%2220231206_0000%22",
+            "title": "A global code for the future",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_CERNCenter%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "fef813b8bd79273cbe2509da181ceb2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231205",
             "fullstartdate": "202312050000",
