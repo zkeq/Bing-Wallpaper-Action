@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-05 00:48:13",
-    "Total": 587,
+    "LastUpdate": "2023-12-06 00:48:15",
+    "Total": 588,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231205",
+            "fullstartdate": "202312052300",
+            "enddate": "20231206",
+            "url": "/th?id=OHR.CERNCenter_DE-DE6757496511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CERNCenter_DE-DE6757496511",
+            "copyright": "Der Globe of Science and Innovation, Meyrin, Schweiz (© Deyan Baric/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Das+Geb%C3%A4ude+des+Globe+of+Science+and+Innovation%2c+Meyrin%2c+Schweiz&form=hpcapt&filters=HpDate%3a%2220231205_2300%22",
+            "title": "Globus der Wissenschaft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231205_CERNCenter%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "f50001a516f0e1d0eb1de98eba92ef8c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231204",
             "fullstartdate": "202312042300",
