@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-05 00:47:58",
-    "Total": 587,
+    "LastUpdate": "2023-12-06 00:48:01",
+    "Total": 588,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231205",
+            "fullstartdate": "202312051600",
+            "enddate": "20231206",
+            "url": "/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621",
+            "copyright": "达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%9A%E6%B4%9B%E5%B0%BC%E4%BA%9A&form=hpcapt&mkt=zh-cn",
+            "title": "穿过群山的蜿蜒小路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231205_DardagnaWaterfalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00e570fc1f4293017ae9be79c2cf6d95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231204",
             "fullstartdate": "202312041600",
