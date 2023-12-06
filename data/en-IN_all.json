@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-05 00:48:26",
-    "Total": 587,
+    "LastUpdate": "2023-12-06 00:48:29",
+    "Total": 588,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231205",
+            "fullstartdate": "202312051830",
+            "enddate": "20231206",
+            "url": "/th?id=OHR.PalolemGoa_EN-IN1818092671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalolemGoa_EN-IN1818092671",
+            "copyright": "Beach with bungalow and coconut palm trees at Palolem in Goa, India. (© Pikoso.kz/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Palolem+beach&form=hpcapt&filters=HpDate%3a%2220231205_1830%22",
+            "title": "A sand-sational escapade",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231205_PalolemGoa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a29f167b5e8faaf73399ba64a9d480fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231204",
             "fullstartdate": "202312041830",
