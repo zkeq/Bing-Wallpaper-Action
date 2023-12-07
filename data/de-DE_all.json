@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-06 00:48:15",
-    "Total": 588,
+    "LastUpdate": "2023-12-07 00:48:09",
+    "Total": 589,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231206",
+            "fullstartdate": "202312062300",
+            "enddate": "20231207",
+            "url": "/th?id=OHR.GrandCanyonVerdon_DE-DE4754028043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonVerdon_DE-DE4754028043",
+            "copyright": "Ein nebliger Morgen in der Verdonschlucht in den Alpes-de-Haute-Provence, Frankreich (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Verdonschlucht&form=hpcapt&filters=HpDate%3a%2220231206_2300%22",
+            "title": "Der Grand Canyon Europas",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_GrandCanyonVerdon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3926da67bee05d700bb00e5910ee957d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231205",
             "fullstartdate": "202312052300",
