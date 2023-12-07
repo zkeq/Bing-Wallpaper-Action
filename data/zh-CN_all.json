@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-06 00:48:01",
-    "Total": 588,
+    "LastUpdate": "2023-12-07 00:47:55",
+    "Total": 589,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231206",
+            "fullstartdate": "202312061600",
+            "enddate": "20231207",
+            "url": "/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720",
+            "copyright": "韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E4%B8%9C%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+            "title": "欧洲大峡谷",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_GrandCanyonVerdon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b94ac21899b6963de9bb607acadc1f3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231205",
             "fullstartdate": "202312051600",
