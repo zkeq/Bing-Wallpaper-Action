@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-06 00:48:33",
-    "Total": 588,
+    "LastUpdate": "2023-12-07 00:48:27",
+    "Total": 589,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231206",
+            "fullstartdate": "202312062300",
+            "enddate": "20231207",
+            "url": "/th?id=OHR.GrandCanyonVerdon_FR-FR3724391714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonVerdon_FR-FR3724391714",
+            "copyright": "Un matin brumeux dans les gorges du Verdon dans les Alpes-de-Haute-Provence en France (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Verdon+Gorge&form=hpcapt&filters=HpDate%3a%2220231206_2300%22",
+            "title": "Le Grand Canyon Provençal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_GrandCanyonVerdon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e38ccbca171059598173a111bf5ad10d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231205",
             "fullstartdate": "202312052300",
