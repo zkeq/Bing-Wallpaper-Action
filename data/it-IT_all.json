@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-07 00:48:31",
-    "Total": 589,
+    "LastUpdate": "2023-12-08 00:48:41",
+    "Total": 590,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231207",
+            "fullstartdate": "202312072300",
+            "enddate": "20231208",
+            "url": "/th?id=OHR.JerseyIsland_IT-IT8142541047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JerseyIsland_IT-IT8142541047",
+            "copyright": "Porto di La Rocque, St. Clement, Isola di Jersey (© Reinhard Schmid/Huber/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=isola+di+Jersey&form=hpcapt",
+            "title": "Un'isola tutta da scoprire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231207_JerseyIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb341a9bcf8554a20398280acb8fddf5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231206",
             "fullstartdate": "202312062300",
