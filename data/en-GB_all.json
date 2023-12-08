@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-07 00:48:18",
-    "Total": 588,
+    "LastUpdate": "2023-12-08 00:48:28",
+    "Total": 589,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231208",
+            "fullstartdate": "202312080000",
+            "enddate": "20231209",
+            "url": "/th?id=OHR.JerseyIsland_EN-GB3607205137_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JerseyIsland_EN-GB3607205137",
+            "copyright": "La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=jersey+island&form=hpcapt&filters=HpDate%3a%2220231208_0000%22",
+            "title": "Not that Jersey Shore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231208_JerseyIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53a08206953a4883be77130e6f23701d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231207",
             "fullstartdate": "202312070000",
