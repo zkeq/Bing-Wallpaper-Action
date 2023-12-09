@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-08 00:48:41",
-    "Total": 590,
+    "LastUpdate": "2023-12-09 00:48:29",
+    "Total": 591,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231208",
+            "fullstartdate": "202312082300",
+            "enddate": "20231209",
+            "url": "/th?id=OHR.TorboleTrento_IT-IT9651438497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TorboleTrento_IT-IT9651438497",
+            "copyright": "Luci di Natale a Torbole, Trento (© Danny Iacob/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nago-Torbole&form=hpcapt",
+            "title": "Le \"calde\" luci di una foto invernale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231208_TorboleTrento%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "238dce14377329a0a2854a44cef138e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231207",
             "fullstartdate": "202312072300",
