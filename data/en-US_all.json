@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-09 00:47:58",
-    "Total": 591,
+    "LastUpdate": "2023-12-10 00:48:20",
+    "Total": 592,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231209",
+            "fullstartdate": "202312090800",
+            "enddate": "20231210",
+            "url": "/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PatagoniaGuanaco_EN-US0251074250",
+            "copyright": "Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=llama+animal&form=hpcapt&filters=HpDate%3a%2220231209_0800%22",
+            "title": "Living the high life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231209_PatagoniaGuanaco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20e44540620a319cd77eca3ee073da94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231208",
             "fullstartdate": "202312080800",
