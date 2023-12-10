@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-09 00:48:02",
-    "Total": 591,
+    "LastUpdate": "2023-12-10 00:48:25",
+    "Total": 592,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231209",
+            "fullstartdate": "202312091500",
+            "enddate": "20231210",
+            "url": "/th?id=OHR.SaharaDunes_JA-JP9880519356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaharaDunes_JA-JP9880519356",
+            "copyright": "サハラ砂漠の砂丘群, アルジェリア (© AWL Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%8F%E3%83%A9%E7%A0%82%E6%BC%A0%E3%81%AE%E7%A0%82%E4%B8%98%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220231209_1500%22",
+            "title": "光に照らされ輝く砂丘",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231209_SaharaDunes%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "94f4dbd3385bc7b2545870ead2f1d751",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231208",
             "fullstartdate": "202312081500",
