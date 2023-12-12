@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-11 00:48:15",
-    "Total": 592,
+    "LastUpdate": "2023-12-12 00:48:16",
+    "Total": 593,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231211",
+            "fullstartdate": "202312110500",
+            "enddate": "20231212",
+            "url": "/th?id=OHR.MountainDayChina_EN-CA0225759404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountainDayChina_EN-CA0225759404",
+            "copyright": "Winter in Huangshan Mountains, China (© Hung Chung Chih/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Huangshan+Mountains+China&form=hpcapt&filters=HpDate%3a%2220231211_0500%22",
+            "title": "Care for a peak?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231211_MountainDayChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2713d748e93153d82e95f03fc63fe489",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231210",
             "fullstartdate": "202312100500",
