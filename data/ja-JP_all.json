@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-11 00:48:06",
-    "Total": 593,
+    "LastUpdate": "2023-12-12 00:48:07",
+    "Total": 594,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231211",
+            "fullstartdate": "202312111500",
+            "enddate": "20231212",
+            "url": "/th?id=OHR.Poinsettia_JA-JP0391640145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Poinsettia_JA-JP0391640145",
+            "copyright": "ポインセチア (© Yarygin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220231211_1500%22",
+            "title": "今日は米国のポインセチアの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231211_Poinsettia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12e78417dcc35dcdace789a1e00226c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231210",
             "fullstartdate": "202312101500",
