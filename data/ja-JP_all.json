@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-12 00:48:07",
-    "Total": 594,
+    "LastUpdate": "2023-12-13 00:48:02",
+    "Total": 595,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231212",
+            "fullstartdate": "202312121500",
+            "enddate": "20231213",
+            "url": "/th?id=OHR.LofotenRorbu_JA-JP0645776855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LofotenRorbu_JA-JP0645776855",
+            "copyright": "スボールバル, ノルウェー (© Roberto Moiola/Sysaworld/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Svolv%C3%A6r&form=hpcapt&filters=HpDate%3a%2220231212_1500%22",
+            "title": "水辺に並ぶ伝統的な小屋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231212_LofotenRorbu%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f91654ca1e10a423f0a476679dde22f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231211",
             "fullstartdate": "202312111500",
