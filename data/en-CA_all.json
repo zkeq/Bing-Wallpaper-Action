@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-13 00:48:11",
-    "Total": 594,
+    "LastUpdate": "2023-12-14 00:48:15",
+    "Total": 595,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231213",
+            "fullstartdate": "202312130500",
+            "enddate": "20231214",
+            "url": "/th?id=OHR.LofotenRorbu_EN-CA0505973846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LofotenRorbu_EN-CA0505973846",
+            "copyright": "Traditional fishing cabins, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Svolvaer&form=hpcapt&filters=HpDate%3a%2220231213_0500%22",
+            "title": "Life in a hut-shell",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231213_LofotenRorbu%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c86354b826314968742f61b4b7f5efc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231212",
             "fullstartdate": "202312120500",
