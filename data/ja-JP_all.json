@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-13 00:48:02",
-    "Total": 595,
+    "LastUpdate": "2023-12-14 00:48:07",
+    "Total": 596,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231213",
+            "fullstartdate": "202312131500",
+            "enddate": "20231214",
+            "url": "/th?id=OHR.BorealOwl_JA-JP0826064778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorealOwl_JA-JP0826064778",
+            "copyright": "キンメフクロウ, カナダ サスカチュワン州 (© Nick Saunders/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220231213_1500%22",
+            "title": "今日はクリスマス・バード・カウント",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231213_BorealOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "088d30c7049f744fb179d00231ebe583",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231212",
             "fullstartdate": "202312121500",
