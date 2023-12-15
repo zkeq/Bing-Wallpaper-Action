@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-14 00:48:07",
-    "Total": 596,
+    "LastUpdate": "2023-12-15 00:48:09",
+    "Total": 597,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231214",
+            "fullstartdate": "202312141500",
+            "enddate": "20231215",
+            "url": "/th?id=OHR.SantaPark_JA-JP8169777943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaPark_JA-JP8169777943",
+            "copyright": "サンタパーク, フィンランド ロヴァニエミ (© lukutin77/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AD%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A8%E3%83%9F+%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%91%E3%83%BC%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220231214_1500%22",
+            "title": "サンタクロースの故郷",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04f6f138f1ff825b7343c21f9e6978e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231213",
             "fullstartdate": "202312131500",
