@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-14 00:48:11",
-    "Total": 596,
+    "LastUpdate": "2023-12-15 00:48:13",
+    "Total": 597,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231214",
+            "fullstartdate": "202312142300",
+            "enddate": "20231215",
+            "url": "/th?id=OHR.SantaPark_DE-DE9078784371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaPark_DE-DE9078784371",
+            "copyright": "SantaPark in Rovaniemi, Lappland, Finnland (© lukutin77/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lappland%2c+Finnland&form=hpcapt&filters=HpDate%3a%2220231214_2300%22",
+            "title": "Zuhause beim Weihnachtsmann",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d30fd2d1b57c071008be25d6394f5946",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231213",
             "fullstartdate": "202312132300",
