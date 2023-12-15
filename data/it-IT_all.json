@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-14 00:48:33",
-    "Total": 596,
+    "LastUpdate": "2023-12-15 00:48:35",
+    "Total": 597,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231214",
+            "fullstartdate": "202312142300",
+            "enddate": "20231215",
+            "url": "/th?id=OHR.SantaPark_IT-IT7841222687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaPark_IT-IT7841222687",
+            "copyright": "SantaPark a Rovaniemi, Lapponia, Finlandia (© lukutin77/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=SantaPark+cos%27%C3%A8&form=hpcapt",
+            "title": "Il bosco magico di Babbo Natale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "832ff5d05a4a072618a4edaec93c56d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231213",
             "fullstartdate": "202312132300",
