@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-14 00:47:57",
-    "Total": 596,
+    "LastUpdate": "2023-12-15 00:47:59",
+    "Total": 597,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231214",
+            "fullstartdate": "202312141600",
+            "enddate": "20231215",
+            "url": "/th?id=OHR.SantaPark_ZH-CN7444715899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaPark_ZH-CN7444715899",
+            "copyright": "罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%AC%E5%85%B0%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "圣诞老人的乐园",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43764b5c726c34912ea65301ec850388",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231213",
             "fullstartdate": "202312131600",
