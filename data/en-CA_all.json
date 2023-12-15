@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-14 00:48:15",
-    "Total": 595,
+    "LastUpdate": "2023-12-15 00:48:18",
+    "Total": 596,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231214",
+            "fullstartdate": "202312140500",
+            "enddate": "20231215",
+            "url": "/th?id=OHR.BorealOwl_EN-CA5986329708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorealOwl_EN-CA5986329708",
+            "copyright": "Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Boreal+owl&form=hpcapt&filters=HpDate%3a%2220231214_0500%22",
+            "title": "Owl in one",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_BorealOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "440033d75068b8a1672c53c783c99179",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231213",
             "fullstartdate": "202312130500",
