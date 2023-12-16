@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-15 00:48:31",
-    "Total": 597,
+    "LastUpdate": "2023-12-16 00:48:31",
+    "Total": 598,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231215",
+            "fullstartdate": "202312152300",
+            "enddate": "20231216",
+            "url": "/th?id=OHR.GrandPlaceXmas_FR-FR1582369462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlaceXmas_FR-FR1582369462",
+            "copyright": "Maisons de guilde de la Grand-Place, Bruxelles, Belgique (© Richard Taylor/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Place+de+bruxelles&form=hpcapt&filters=HpDate%3a%2220231215_2300%22",
+            "title": "Bruxelles, ma belle !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231215_GrandPlaceXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01df0355dee63b4247f24ef8b8532ae8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231214",
             "fullstartdate": "202312142300",
