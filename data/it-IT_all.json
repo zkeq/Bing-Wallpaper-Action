@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-15 00:48:35",
-    "Total": 597,
+    "LastUpdate": "2023-12-16 00:48:35",
+    "Total": 598,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231215",
+            "fullstartdate": "202312152300",
+            "enddate": "20231216",
+            "url": "/th?id=OHR.GrandPlaceXmas_IT-IT8072178284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlaceXmas_IT-IT8072178284",
+            "copyright": "Case della corporazione di Grand-Place, Bruxelles, Belgio (© Richard Taylor/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Case+della+corporazione+di+Grand-Place%2c+Bruxelles%2c+Belgio&form=hpcapt",
+            "title": "Una delle piazze più belle del mondo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231215_GrandPlaceXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2379b3d00ad913d181f46834e2d72fc4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231214",
             "fullstartdate": "202312142300",
