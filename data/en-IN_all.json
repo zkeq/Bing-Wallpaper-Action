@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-15 00:48:26",
-    "Total": 597,
+    "LastUpdate": "2023-12-16 00:48:26",
+    "Total": 598,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231215",
+            "fullstartdate": "202312151830",
+            "enddate": "20231216",
+            "url": "/th?id=OHR.GrandPlaceXmas_EN-IN1825701636_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlaceXmas_EN-IN1825701636",
+            "copyright": "Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Place+Belgium&form=hpcapt&filters=HpDate%3a%2220231215_1830%22",
+            "title": "A cheerful case of the blues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231215_GrandPlaceXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d913f9c29ef72ceb062c4cdbd52c13c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231214",
             "fullstartdate": "202312141830",
