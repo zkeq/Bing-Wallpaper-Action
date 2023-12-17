@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-16 00:47:58",
-    "Total": 598,
+    "LastUpdate": "2023-12-17 00:48:06",
+    "Total": 599,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231216",
+            "fullstartdate": "202312161600",
+            "enddate": "20231217",
+            "url": "/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterWaxwings_ZH-CN9274297835",
+            "copyright": "波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%A2%E8%A5%BF%E7%B1%B3%E4%BA%9A%E5%A4%AA%E5%B9%B3%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "有羽毛的时尚达人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231216_WinterWaxwings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "209b71f36dc0be688586a997c60ebe63",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231215",
             "fullstartdate": "202312151600",
