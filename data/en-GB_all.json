@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-16 00:48:22",
-    "Total": 597,
+    "LastUpdate": "2023-12-17 00:48:28",
+    "Total": 598,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231217",
+            "fullstartdate": "202312170000",
+            "enddate": "20231218",
+            "url": "/th?id=OHR.WinterWaxwings_EN-GB4953491733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterWaxwings_EN-GB4953491733",
+            "copyright": "Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bohemian+waxwings&form=hpcapt&filters=HpDate%3a%2220231217_0000%22",
+            "title": "Feathered fashionistas",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231217_WinterWaxwings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0af8728f085595c6eb6fb71ec228be8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231216",
             "fullstartdate": "202312160000",
