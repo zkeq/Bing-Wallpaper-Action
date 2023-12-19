@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-18 00:48:16",
-    "Total": 600,
+    "LastUpdate": "2023-12-19 00:48:12",
+    "Total": 601,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231218",
+            "fullstartdate": "202312182300",
+            "enddate": "20231219",
+            "url": "/th?id=OHR.WarsawChristmas_DE-DE0154947188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WarsawChristmas_DE-DE0154947188",
+            "copyright": "Weihnachtsbaum auf dem Schlossplatz, Altstadt, Warschau, Polen (© Panther Media GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Schlossplatz+Warschau&form=hpcapt&filters=HpDate%3a%2220231218_2300%22",
+            "title": "Polnische Raststätte des Weihnachtsmanns",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_WarsawChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06a825867a27f912c65ae048948fb047",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231217",
             "fullstartdate": "202312172300",
