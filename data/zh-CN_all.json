@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-18 00:48:02",
-    "Total": 600,
+    "LastUpdate": "2023-12-19 00:47:58",
+    "Total": 601,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231218",
+            "fullstartdate": "202312181600",
+            "enddate": "20231219",
+            "url": "/th?id=OHR.WarsawChristmas_ZH-CN0949732911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WarsawChristmas_ZH-CN0949732911",
+            "copyright": "城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8E%E6%B2%99%E5%9F%8E%E5%A0%A1%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "圣诞老人的波兰休息站",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_WarsawChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e3fdd6da85452a00926a362c090894d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231217",
             "fullstartdate": "202312171600",
