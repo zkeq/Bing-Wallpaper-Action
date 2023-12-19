@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-18 00:48:07",
-    "Total": 600,
+    "LastUpdate": "2023-12-19 00:48:03",
+    "Total": 601,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231218",
+            "fullstartdate": "202312180800",
+            "enddate": "20231219",
+            "url": "/th?id=OHR.CapitolReefSnow_EN-US8594085615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapitolReefSnow_EN-US8594085615",
+            "copyright": "Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=hpcapt&filters=HpDate%3a%2220231218_0800%22",
+            "title": "Snow, snow on the range",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_CapitolReefSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ccccad81dade4a86fda115edfc7ce41",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231217",
             "fullstartdate": "202312170800",
