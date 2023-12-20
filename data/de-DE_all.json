@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-19 00:48:12",
-    "Total": 601,
+    "LastUpdate": "2023-12-20 00:47:28",
+    "Total": 602,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231219",
+            "fullstartdate": "202312192300",
+            "enddate": "20231220",
+            "url": "/th?id=OHR.ValGardenaItaly_DE-DE0637629816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValGardenaItaly_DE-DE0637629816",
+            "copyright": "Dorf in Gröden zu Weihnachten, Dolomiten, Italien (© Ingus Kruklitis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gr%C3%B6den&form=hpcapt&filters=HpDate%3a%2220231219_2300%22",
+            "title": "Lichter der Dolomiten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231219_ValGardenaItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0e30292b1367e5100553d8e6948b0f10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231218",
             "fullstartdate": "202312182300",
