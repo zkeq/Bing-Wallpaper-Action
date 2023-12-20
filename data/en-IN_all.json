@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-19 00:48:25",
-    "Total": 601,
+    "LastUpdate": "2023-12-20 00:47:41",
+    "Total": 602,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231219",
+            "fullstartdate": "202312191830",
+            "enddate": "20231220",
+            "url": "/th?id=OHR.ValGardenaItaly_EN-IN2770254332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValGardenaItaly_EN-IN2770254332",
+            "copyright": "Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Val+Gardena+South+Tyrol&form=hpcapt&filters=HpDate%3a%2220231219_1830%22",
+            "title": "Lights of the Dolomites",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231219_ValGardenaItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12d9e06d702263319e0f321a8229954d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231218",
             "fullstartdate": "202312181830",
