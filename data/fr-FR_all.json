@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-19 00:48:29",
-    "Total": 601,
+    "LastUpdate": "2023-12-20 00:47:45",
+    "Total": 602,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231219",
+            "fullstartdate": "202312192300",
+            "enddate": "20231220",
+            "url": "/th?id=OHR.XmasDesserts_FR-FR3582409300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.XmasDesserts_FR-FR3582409300",
+            "copyright": "Barcelonnette aux portes des Hautes Vallées de l'Ubay, Alpes-de-Haute-Provence, France (© iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=barcelonnette+provence&form=hpcapt&filters=HpDate%3a%2220231219_2300%22",
+            "title": "Une veillée de Noël provençale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231219_XmasDesserts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f156dbf4e22cf0759746a2112e7cc5d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231218",
             "fullstartdate": "202312182300",
