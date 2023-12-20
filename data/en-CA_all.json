@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-19 00:48:16",
-    "Total": 600,
+    "LastUpdate": "2023-12-20 00:47:32",
+    "Total": 601,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231219",
+            "fullstartdate": "202312190500",
+            "enddate": "20231220",
+            "url": "/th?id=OHR.WarsawChristmas_EN-CA8636776898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WarsawChristmas_EN-CA8636776898",
+            "copyright": "Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Castle+Square+Old+Town+Warsaw&form=hpcapt&filters=HpDate%3a%2220231219_0500%22",
+            "title": "Santa's Polish rest stop",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231219_WarsawChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b7307d81fe5edb1dbe87dc9388fd0d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231218",
             "fullstartdate": "202312180500",
