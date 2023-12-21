@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-20 00:47:50",
-    "Total": 602,
+    "LastUpdate": "2023-12-21 00:48:26",
+    "Total": 603,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231220",
+            "fullstartdate": "202312202300",
+            "enddate": "20231221",
+            "url": "/th?id=OHR.LjubljanaLights_IT-IT1809782695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LjubljanaLights_IT-IT1809782695",
+            "copyright": "Ljubljana, Slovenia (© kasto80/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lubiana+capitale+slovena&form=hpcapt",
+            "title": "Una città fiabesca",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231220_LjubljanaLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ec842b10a3c3336c0dbf7279e1a103d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231219",
             "fullstartdate": "202312192300",
