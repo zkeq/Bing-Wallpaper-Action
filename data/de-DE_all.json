@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-20 00:47:28",
-    "Total": 602,
+    "LastUpdate": "2023-12-21 00:48:04",
+    "Total": 603,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231220",
+            "fullstartdate": "202312202300",
+            "enddate": "20231221",
+            "url": "/th?id=OHR.LjubljanaLights_DE-DE1296563106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LjubljanaLights_DE-DE1296563106",
+            "copyright": "Ljubljana, Slowenien (© kasto80/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ljubljana&form=hpcapt&filters=HpDate%3a%2220231220_2300%22",
+            "title": "Ein Winternachtstraum?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231220_LjubljanaLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f67c6a1ed4a1c56aa5442500a238f793",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231219",
             "fullstartdate": "202312192300",
