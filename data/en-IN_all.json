@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-20 00:47:41",
-    "Total": 602,
+    "LastUpdate": "2023-12-21 00:48:17",
+    "Total": 603,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231220",
+            "fullstartdate": "202312201830",
+            "enddate": "20231221",
+            "url": "/th?id=OHR.LjubljanaLights_EN-IN3699052507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LjubljanaLights_EN-IN3699052507",
+            "copyright": "Ljubljana, Slovenia (© kasto80/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ljubljana&form=hpcapt&filters=HpDate%3a%2220231220_1830%22",
+            "title": "Holiday cheer, Slovenian style",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231220_LjubljanaLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58819b4abd6937aac8e75d4e023d81d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231219",
             "fullstartdate": "202312191830",
