@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-21 00:47:59",
-    "Total": 603,
+    "LastUpdate": "2023-12-22 00:48:01",
+    "Total": 604,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231221",
+            "fullstartdate": "202312211500",
+            "enddate": "20231222",
+            "url": "/th?id=OHR.Wintersolstice2023_JA-JP9488437005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Wintersolstice2023_JA-JP9488437005",
+            "copyright": "青い池, 北海道 美瑛町 (© Haruna/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9D%92%E3%81%84%E6%B1%A0&form=hpcapt&filters=HpDate%3a%2220231221_1500%22",
+            "title": "今日は冬至",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231221_Wintersolstice2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a5d9f46c564abba6d64a60a451458c3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231220",
             "fullstartdate": "202312201500",
