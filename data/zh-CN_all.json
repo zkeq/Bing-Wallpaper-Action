@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-21 00:47:49",
-    "Total": 603,
+    "LastUpdate": "2023-12-22 00:47:51",
+    "Total": 604,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231221",
+            "fullstartdate": "202312211600",
+            "enddate": "20231222",
+            "url": "/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterSolstice2023_ZH-CN4450201916",
+            "copyright": "天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E7%96%86%E5%A4%A9%E9%B9%85%E6%B3%89%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "冬季仙境中的精灵",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231221_WinterSolstice2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c7dfa101b23f413158948722a8768c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231220",
             "fullstartdate": "202312201600",
