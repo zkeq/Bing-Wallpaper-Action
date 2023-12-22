@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-21 00:48:17",
-    "Total": 603,
+    "LastUpdate": "2023-12-22 00:48:18",
+    "Total": 604,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231221",
+            "fullstartdate": "202312211830",
+            "enddate": "20231222",
+            "url": "/th?id=OHR.RedFortDelhi_EN-IN3982983147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedFortDelhi_EN-IN3982983147",
+            "copyright": "Red Fort Delhi historic monument at sunrise with flying pigeons (© Roop Dey/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=red+fort&form=hpcapt&filters=HpDate%3a%2220231221_1830%22",
+            "title": "Through the gateways of history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231221_RedFortDelhi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "864b768c568a1d322685c0c2bfeebd97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231220",
             "fullstartdate": "202312201830",
