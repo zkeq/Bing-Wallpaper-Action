@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-21 00:48:21",
-    "Total": 603,
+    "LastUpdate": "2023-12-22 00:48:23",
+    "Total": 604,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231221",
+            "fullstartdate": "202312212300",
+            "enddate": "20231222",
+            "url": "/th?id=OHR.CastleriggStoneCircleUK_FR-FR4020990017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleriggStoneCircleUK_FR-FR4020990017",
+            "copyright": "Enceinte mégalithique de Castlerigg, parc national du Lake District, Angleterre (© John Finney Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=solstice+d%27hiver&form=hpcapt&filters=HpDate%3a%2220231221_2300%22",
+            "title": "Prêt pour la nuit la plus longue de l’année ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231221_CastleriggStoneCircleUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "069a39c0579d06b90e2b1634454e28f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231220",
             "fullstartdate": "202312202300",
