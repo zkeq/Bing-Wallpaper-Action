@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-21 00:48:12",
-    "Total": 602,
+    "LastUpdate": "2023-12-22 00:48:14",
+    "Total": 603,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231222",
+            "fullstartdate": "202312220000",
+            "enddate": "20231223",
+            "url": "/th?id=OHR.CastleriggStoneCircleUK_EN-GB7075920630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleriggStoneCircleUK_EN-GB7075920630",
+            "copyright": "Castlerigg Stone Circle, Lake District National Park, England (© John Finney Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=December+solstice&form=hpcapt&filters=HpDate%3a%2220231222_0000%22",
+            "title": "Bring on the light",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_CastleriggStoneCircleUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5afad513003420f32605acd7ee2f6326",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231221",
             "fullstartdate": "202312210000",
