@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-22 00:48:27",
-    "Total": 604,
+    "LastUpdate": "2023-12-23 00:48:24",
+    "Total": 605,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231222",
+            "fullstartdate": "202312222300",
+            "enddate": "20231223",
+            "url": "/th?id=OHR.FestivusPenguins_IT-IT2939175390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusPenguins_IT-IT2939175390",
+            "copyright": "Pinguini con mascherina, Isole Sandwich del Sud, Oceano Atlantico Meridionale (© Jan Vermeer/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Festivus+cos%27%C3%A8&form=hpcapt",
+            "title": "Questi pinguini hanno qualcosa da dire!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_FestivusPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e206fd65d3baec809b864d3cc89099c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231221",
             "fullstartdate": "202312212300",
