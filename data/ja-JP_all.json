@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-22 00:48:01",
-    "Total": 604,
+    "LastUpdate": "2023-12-23 00:47:57",
+    "Total": 605,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231222",
+            "fullstartdate": "202312221500",
+            "enddate": "20231223",
+            "url": "/th?id=OHR.TokyoTower2023_JA-JP0066858338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TokyoTower2023_JA-JP0066858338",
+            "copyright": "けやき坂のイルミネーション, 東京 (© Photography by ZhangXun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%81%91%E3%82%84%E3%81%8D%E5%9D%82%E3%81%AE%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220231222_1500%22",
+            "title": "今日は東京タワー完工の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_TokyoTower2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3db53e6bf643d23b9c9f96291c20480",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231221",
             "fullstartdate": "202312211500",
