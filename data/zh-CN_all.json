@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-22 00:47:51",
-    "Total": 604,
+    "LastUpdate": "2023-12-23 00:47:47",
+    "Total": 605,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231222",
+            "fullstartdate": "202312221600",
+            "enddate": "20231223",
+            "url": "/th?id=OHR.FestivusPenguins_ZH-CN5191348531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusPenguins_ZH-CN5191348531",
+            "copyright": "帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%BD%E5%B8%A6%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn",
+            "title": "它们看起来有话要说",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_FestivusPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9755e1b2513d0b8673e78db33caa6d82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231221",
             "fullstartdate": "202312211600",
