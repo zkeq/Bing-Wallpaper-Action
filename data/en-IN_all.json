@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-22 00:48:18",
-    "Total": 604,
+    "LastUpdate": "2023-12-23 00:48:15",
+    "Total": 605,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231222",
+            "fullstartdate": "202312221830",
+            "enddate": "20231223",
+            "url": "/th?id=OHR.FestivusPenguins_EN-IN5922835342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusPenguins_EN-IN5922835342",
+            "copyright": "Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Chinstrap+penguin&form=hpcapt&filters=HpDate%3a%2220231222_1830%22",
+            "title": "They've got some things to say",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_FestivusPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93390694e5824256c6bd7d95dc7213e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231221",
             "fullstartdate": "202312211830",
