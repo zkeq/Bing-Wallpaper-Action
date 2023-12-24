@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-23 00:47:47",
-    "Total": 605,
+    "LastUpdate": "2023-12-24 00:48:06",
+    "Total": 606,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231223",
+            "fullstartdate": "202312231600",
+            "enddate": "20231224",
+            "url": "/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404",
+            "copyright": "市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E5%A1%94%E5%B0%94%E5%9B%BE&form=hpcapt&mkt=zh-cn",
+            "title": "多么可爱的树枝啊！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231223_EstoniaXmasEve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48219bbe7769b89eeb8906c57f0e5453",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231222",
             "fullstartdate": "202312221600",
