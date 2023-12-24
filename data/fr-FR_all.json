@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-23 00:48:19",
-    "Total": 605,
+    "LastUpdate": "2023-12-24 00:48:37",
+    "Total": 606,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231223",
+            "fullstartdate": "202312232300",
+            "enddate": "20231224",
+            "url": "/th?id=OHR.EstoniaXmasEve_FR-FR4500138277_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EstoniaXmasEve_FR-FR4500138277",
+            "copyright": "Place de l'hôtel de ville, Tartu, Estonie (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=tartu+ville+estonie&form=hpcapt&filters=HpDate%3a%2220231223_2300%22",
+            "title": "Une nuit magique vous attend !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231223_EstoniaXmasEve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c81556d4a023e9b2a4d8fda8f8db7552",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231222",
             "fullstartdate": "202312222300",
