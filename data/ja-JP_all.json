@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-23 00:47:57",
-    "Total": 605,
+    "LastUpdate": "2023-12-24 00:48:16",
+    "Total": 606,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231223",
+            "fullstartdate": "202312231500",
+            "enddate": "20231224",
+            "url": "/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EstoniaXmasEve_JA-JP0366507453",
+            "copyright": "クリスマスツリーで彩られた広場, エストニア タルトゥ (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%88%E3%83%8B%E3%82%A2%E3%81%AE%E3%82%BF%E3%83%AB%E3%83%88%E3%82%A5+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220231223_1500%22",
+            "title": "今日はクリスマス・イヴ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231223_EstoniaXmasEve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72836af0c933309151fff3b9083858ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231222",
             "fullstartdate": "202312221500",
