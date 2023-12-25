@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-24 00:48:20",
-    "Total": 606,
+    "LastUpdate": "2023-12-25 00:48:15",
+    "Total": 607,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231224",
+            "fullstartdate": "202312242300",
+            "enddate": "20231225",
+            "url": "/th?id=OHR.CaribouChristmas_DE-DE4610798173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CaribouChristmas_DE-DE4610798173",
+            "copyright": "Karibu auf der Flucht im Schnee, Alaska, USA (© Michael Quinton/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Rentier&form=hpcapt&filters=HpDate%3a%2220231224_2300%22",
+            "title": "Kalte Füße an Weihnachten?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231224_CaribouChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49474b88d1a56c4703a06d2525d42125",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231223",
             "fullstartdate": "202312232300",
