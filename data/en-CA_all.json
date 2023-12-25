@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-24 00:48:24",
-    "Total": 605,
+    "LastUpdate": "2023-12-25 00:48:19",
+    "Total": 606,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231224",
+            "fullstartdate": "202312240500",
+            "enddate": "20231225",
+            "url": "/th?id=OHR.EstoniaXmasEve_EN-CA2639551026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EstoniaXmasEve_EN-CA2639551026",
+            "copyright": "Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tartu+Estonia&form=hpcapt&filters=HpDate%3a%2220231224_0500%22",
+            "title": "How lovely are your branches",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231224_EstoniaXmasEve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "19381f7390ffadffeaf3e1f0ee114626",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231223",
             "fullstartdate": "202312230500",
