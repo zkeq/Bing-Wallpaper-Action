@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-24 00:48:37",
-    "Total": 606,
+    "LastUpdate": "2023-12-25 00:48:32",
+    "Total": 607,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231224",
+            "fullstartdate": "202312242300",
+            "enddate": "20231225",
+            "url": "/th?id=OHR.CaribouChristmas_FR-FR4671431389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CaribouChristmas_FR-FR4671431389",
+            "copyright": "Rennes courant dans la neige, Alaska, États-Unis (© Michael Quinton/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=renne+&form=hpcapt&filters=HpDate%3a%2220231224_2300%22",
+            "title": "Les « rennes » de Noël !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231224_CaribouChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "248c108aed0be14d66e20530ff99d008",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231223",
             "fullstartdate": "202312232300",
