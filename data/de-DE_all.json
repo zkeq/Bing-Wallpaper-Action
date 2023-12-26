@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-25 00:48:15",
-    "Total": 607,
+    "LastUpdate": "2023-12-26 00:48:06",
+    "Total": 608,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231225",
+            "fullstartdate": "202312252300",
+            "enddate": "20231226",
+            "url": "/th?id=OHR.BoxingDaySunrise_DE-DE5103627407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoxingDaySunrise_DE-DE5103627407",
+            "copyright": "Wintersonnenaufgang in Dedham, Colchester, England (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=2.+Weihnachtsfeiertag&form=hpcapt&filters=HpDate%3a%2220231225_2300%22",
+            "title": "Frohen 2. Weihnachtsfeiertag!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231225_BoxingDaySunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e07f20c9e4b82310457969954888643a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231224",
             "fullstartdate": "202312242300",
