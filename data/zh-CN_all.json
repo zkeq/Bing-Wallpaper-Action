@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-25 00:48:01",
-    "Total": 607,
+    "LastUpdate": "2023-12-26 00:47:51",
+    "Total": 608,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231225",
+            "fullstartdate": "202312251600",
+            "enddate": "20231226",
+            "url": "/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686",
+            "copyright": "冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "节礼日快乐",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231225_BoxingDaySunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c1dabdad2054016df8e084c9dd4c7c45",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231224",
             "fullstartdate": "202312241600",
