@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-26 00:47:57",
-    "Total": 608,
+    "LastUpdate": "2023-12-27 00:47:54",
+    "Total": 609,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231226",
+            "fullstartdate": "202312260800",
+            "enddate": "20231227",
+            "url": "/th?id=OHR.BoxingDaySunrise_EN-US9951041123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoxingDaySunrise_EN-US9951041123",
+            "copyright": "Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=boxing+day&form=hpcapt&filters=HpDate%3a%2220231226_0800%22",
+            "title": "Happy Boxing Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231226_BoxingDaySunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7730b53b1f6c7e3503c59a0ceac24c3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231225",
             "fullstartdate": "202312250800",
