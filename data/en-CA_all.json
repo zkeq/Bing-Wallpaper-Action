@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-26 00:48:10",
-    "Total": 607,
+    "LastUpdate": "2023-12-27 00:48:08",
+    "Total": 608,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231226",
+            "fullstartdate": "202312260500",
+            "enddate": "20231227",
+            "url": "/th?id=OHR.BoxingDayCA_EN-CA7491018775_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoxingDayCA_EN-CA7491018775",
+            "copyright": "Christmas lights on trees at dusk, Vancouver, Canada (© Stuart Dee/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Boxing+day&form=hpcapt&filters=HpDate%3a%2220231226_0500%22",
+            "title": "Happy Boxing Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231226_BoxingDayCA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc574c8e94c3996e48c7bad7b6738f84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231225",
             "fullstartdate": "202312250500",
