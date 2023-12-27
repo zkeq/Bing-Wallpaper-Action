@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-26 00:48:06",
-    "Total": 608,
+    "LastUpdate": "2023-12-27 00:48:03",
+    "Total": 609,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231226",
+            "fullstartdate": "202312262300",
+            "enddate": "20231227",
+            "url": "/th?id=OHR.KirkjufellAurora_DE-DE5656046151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KirkjufellAurora_DE-DE5656046151",
+            "copyright": "Kirkjufell, Snæfellsnes-Halbinsel, Island (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kirkjufell%2c+Sn%C3%A6fellsnes-Halbinsel%2c+Island&form=hpcapt&filters=HpDate%3a%2220231226_2300%22",
+            "title": "Mystisches Land aus Feuer und Eis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231226_KirkjufellAurora%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d786101e08fb26cb6bb7ca2f51e9d46b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231225",
             "fullstartdate": "202312252300",
