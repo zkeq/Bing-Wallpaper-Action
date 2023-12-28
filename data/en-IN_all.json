@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-27 00:48:16",
-    "Total": 609,
+    "LastUpdate": "2023-12-28 00:48:20",
+    "Total": 610,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231227",
+            "fullstartdate": "202312271830",
+            "enddate": "20231228",
+            "url": "/th?id=OHR.GreenlandHumpback_EN-IN1483671844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenlandHumpback_EN-IN1483671844",
+            "copyright": "Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=humpback+whale&form=hpcapt&filters=HpDate%3a%2220231227_1830%22",
+            "title": "A jump like no other",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231227_GreenlandHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "68edda5e4ffa87395ce4e907c121c66d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231226",
             "fullstartdate": "202312261830",
