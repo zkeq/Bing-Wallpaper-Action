@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-27 00:47:49",
-    "Total": 609,
+    "LastUpdate": "2023-12-28 00:47:52",
+    "Total": 610,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231227",
+            "fullstartdate": "202312271600",
+            "enddate": "20231228",
+            "url": "/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenlandHumpback_ZH-CN8145852053",
+            "copyright": "座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "跳出“濒危名单”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231227_GreenlandHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "094e314b70e4b204ef696188213fa556",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231226",
             "fullstartdate": "202312261600",
