@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-27 00:48:03",
-    "Total": 609,
+    "LastUpdate": "2023-12-28 00:48:07",
+    "Total": 610,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231227",
+            "fullstartdate": "202312272300",
+            "enddate": "20231228",
+            "url": "/th?id=OHR.GreenlandHumpback_DE-DE6818305834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenlandHumpback_DE-DE6818305834",
+            "copyright": "Buckelwal, Diskobucht, Grönland (© Paul Souders/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Washingtoner+Artenschutz&form=hpcapt&filters=HpDate%3a%2220231227_2300%22",
+            "title": "Sprung von der Gefährdungsliste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231227_GreenlandHumpback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f42ea2acec0dd4f4e14fe3583b0c2ac9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231226",
             "fullstartdate": "202312262300",
