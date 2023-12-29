@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-28 00:48:29",
-    "Total": 610,
+    "LastUpdate": "2023-12-29 00:47:53",
+    "Total": 611,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231228",
+            "fullstartdate": "202312282300",
+            "enddate": "20231229",
+            "url": "/th?id=OHR.BlueAmsterdam_IT-IT8956401026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueAmsterdam_IT-IT8956401026",
+            "copyright": "Quartiere di Oud-West, Amsterdam, Olanda (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Amsterdam+Paesi+Bassi+dove+%C3%A8&form=hpcapt",
+            "title": "Ma siamo a Venezia?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231228_BlueAmsterdam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccdaa31584c3733e860ed9ba26166921",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231227",
             "fullstartdate": "202312272300",
