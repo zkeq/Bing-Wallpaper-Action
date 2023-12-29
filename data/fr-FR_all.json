@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-28 00:48:25",
-    "Total": 610,
+    "LastUpdate": "2023-12-29 00:47:48",
+    "Total": 611,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231228",
+            "fullstartdate": "202312282300",
+            "enddate": "20231229",
+            "url": "/th?id=OHR.BlueAmsterdam_FR-FR8523535030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueAmsterdam_FR-FR8523535030",
+            "copyright": "Quartier Oud-West, Amsterdam, Pays-Bas (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=amsterdam+capitale&form=hpcapt&filters=HpDate%3a%2220231228_2300%22",
+            "title": "La capitale aux mille ponts !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231228_BlueAmsterdam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb2b90730301e70e709f472376b1c9d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231227",
             "fullstartdate": "202312272300",
