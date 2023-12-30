@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-29 00:47:31",
-    "Total": 611,
+    "LastUpdate": "2023-12-30 00:47:59",
+    "Total": 612,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231229",
+            "fullstartdate": "202312292300",
+            "enddate": "20231230",
+            "url": "/th?id=OHR.TadamiWinter_DE-DE9740554519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TadamiWinter_DE-DE9740554519",
+            "copyright": "Daiichi Tadami-Flussbrücke, Fukushima, Japan (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fluss+Tadami&form=hpcapt&filters=HpDate%3a%2220231229_2300%22",
+            "title": "Lassen Sie sich verzaubern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_TadamiWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17d3933f803a6e3be77559cdd1a15255",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231228",
             "fullstartdate": "202312282300",
