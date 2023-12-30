@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-29 00:47:44",
-    "Total": 611,
+    "LastUpdate": "2023-12-30 00:48:12",
+    "Total": 612,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231229",
+            "fullstartdate": "202312291830",
+            "enddate": "20231230",
+            "url": "/th?id=OHR.TadamiWinter_EN-IN3654080004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TadamiWinter_EN-IN3654080004",
+            "copyright": "Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tadami+River&form=hpcapt&filters=HpDate%3a%2220231229_1830%22",
+            "title": "A journey over the bold blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_TadamiWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6c4fdfa46397fc3bb54ff214db13d6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231228",
             "fullstartdate": "202312281830",
