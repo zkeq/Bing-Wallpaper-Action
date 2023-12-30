@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-29 00:47:26",
-    "Total": 611,
+    "LastUpdate": "2023-12-30 00:47:55",
+    "Total": 612,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231229",
+            "fullstartdate": "202312291500",
+            "enddate": "20231230",
+            "url": "/th?id=OHR.TadamiWinter_JA-JP3859322331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TadamiWinter_JA-JP3859322331",
+            "copyright": "第一只見川橋梁, 福島県 (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AC%AC%E4%B8%80%E5%8F%AA%E8%A6%8B%E5%B7%9D%E6%A9%8B%E6%A2%81&form=hpcapt&filters=HpDate%3a%2220231229_1500%22",
+            "title": "雪に覆われた山々と橋の風景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_TadamiWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5deb1dd5ce365d2f297a9f90626a3c2c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231228",
             "fullstartdate": "202312281500",
