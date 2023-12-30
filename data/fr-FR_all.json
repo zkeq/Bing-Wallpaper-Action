@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-29 00:47:48",
-    "Total": 611,
+    "LastUpdate": "2023-12-30 00:48:16",
+    "Total": 612,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231229",
+            "fullstartdate": "202312292300",
+            "enddate": "20231230",
+            "url": "/th?id=OHR.TadamiWinter_FR-FR9156285439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TadamiWinter_FR-FR9156285439",
+            "copyright": "Pont de la rivière Daiichi Tadami, Fukushima, Japon (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rivi%C3%A8re+Tadami+&form=hpcapt&filters=HpDate%3a%2220231229_2300%22",
+            "title": "Le Grand Bleu japonais",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_TadamiWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "84c55e35fd1d8b5fe3064e5e9f7f6eb2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231228",
             "fullstartdate": "202312282300",
