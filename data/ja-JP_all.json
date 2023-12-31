@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-30 00:47:55",
-    "Total": 612,
+    "LastUpdate": "2023-12-31 00:48:17",
+    "Total": 613,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231230",
+            "fullstartdate": "202312301500",
+            "enddate": "20231231",
+            "url": "/th?id=OHR.Omisoka2023_JA-JP4038808718_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Omisoka2023_JA-JP4038808718",
+            "copyright": "増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A2%97%E4%B8%8A%E5%AF%BA%E3%81%AE%E6%A2%B5%E9%90%98&form=hpcapt&filters=HpDate%3a%2220231230_1500%22",
+            "title": "今日は大晦日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231230_Omisoka2023%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba97bc420bde8a2e5aefc87547552f39",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231229",
             "fullstartdate": "202312291500",
