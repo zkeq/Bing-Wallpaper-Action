@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-30 00:47:45",
-    "Total": 612,
+    "LastUpdate": "2023-12-31 00:48:08",
+    "Total": 613,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231230",
+            "fullstartdate": "202312301600",
+            "enddate": "20231231",
+            "url": "/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThailandNewYears_ZH-CN2058192262",
+            "copyright": "帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B7%A8%E5%B9%B4%E5%A4%9C&form=hpcapt&mkt=zh-cn",
+            "title": "明年见!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231230_ThailandNewYears%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "559680f1421b2ad3ba0a901fc27e10cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231229",
             "fullstartdate": "202312291600",
