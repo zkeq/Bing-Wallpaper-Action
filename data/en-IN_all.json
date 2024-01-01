@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-31 00:48:35",
-    "Total": 613,
+    "LastUpdate": "2024-01-01 00:48:37",
+    "Total": 614,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231231",
+            "fullstartdate": "202312311830",
+            "enddate": "20240101",
+            "url": "/th?id=OHR.SleepingFox_EN-IN4256691389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SleepingFox_EN-IN4256691389",
+            "copyright": "Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=new+year%27s+day&form=hpcapt&filters=HpDate%3a%2220231231_1830%22",
+            "title": "Kicking the new year off right",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231231_SleepingFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aec8a9420253ff696f9b990f71804d94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231230",
             "fullstartdate": "202312301830",
