@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-31 00:48:08",
-    "Total": 613,
+    "LastUpdate": "2024-01-01 00:48:09",
+    "Total": 614,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231231",
+            "fullstartdate": "202312311600",
+            "enddate": "20240101",
+            "url": "/th?id=OHR.SleepingFox_ZH-CN2622967726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SleepingFox_ZH-CN2622967726",
+            "copyright": "睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%83%E6%97%A6&form=hpcapt&mkt=zh-cn",
+            "title": "新年伊始",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231231_SleepingFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb99d6a9dba33ba096b8198ce391dfb6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231230",
             "fullstartdate": "202312301600",
