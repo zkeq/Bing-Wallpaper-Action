@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2023-12-31 00:48:22",
-    "Total": 613,
+    "LastUpdate": "2024-01-01 00:48:24",
+    "Total": 614,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20231231",
+            "fullstartdate": "202312312300",
+            "enddate": "20240101",
+            "url": "/th?id=OHR.SleepingFox_DE-DE0284095330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SleepingFox_DE-DE0284095330",
+            "copyright": "Schlafender Rotfuchs im Schnee, Abruzzen, Italien (© marco vancini/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Neujahr&form=hpcapt&filters=HpDate%3a%2220231231_2300%22",
+            "title": "Neues Jahr, neue Träume, neue Abenteuer, neue Visionen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231231_SleepingFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "16c4335bee51e7fb0df130339786f4e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231230",
             "fullstartdate": "202312302300",
