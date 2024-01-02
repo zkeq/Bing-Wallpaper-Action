@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:46",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:48:23",
+    "Total": 615,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401012300",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.BhutanSolstice_IT-IT4114371274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanSolstice_IT-IT4114371274",
+            "copyright": "Bandiere di preghiera, Valle di Phobjikha, Bhutan (© John Warburton-Lee/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=bandiera+di+preghiera+tibetane+cosa+sono&form=hpcapt",
+            "title": "Libratevi in volo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_BhutanSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba2adcd444b24244dac69c37899a493e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312312300",
