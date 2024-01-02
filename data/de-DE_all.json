@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:24",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:48:00",
+    "Total": 615,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401012300",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.BhutanSolstice_DE-DE0513592693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanSolstice_DE-DE0513592693",
+            "copyright": "Gebetsfahnen im Phobjikha-Tal, Bhutan (© John Warburton-Lee/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Phobjikha-Tal%2c+Bhutan&form=hpcapt&filters=HpDate%3a%2220240101_2300%22",
+            "title": "Gebetsfahnen und antike Weisheiten von Schamanen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_BhutanSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dfec3e9e8bc2d78e451a8efd8e155370",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312312300",
