@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:37",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:48:14",
+    "Total": 615,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401011830",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.BhutanSolstice_EN-IN4523335748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanSolstice_EN-IN4523335748",
+            "copyright": "Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Phobjikha+Valley+Bhutan&form=hpcapt&filters=HpDate%3a%2220240101_1830%22",
+            "title": "Make your own rainbow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_BhutanSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53af6e0a2a69219f1955dff2365ade57",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312311830",
