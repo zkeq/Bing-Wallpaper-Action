@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:15",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:47:52",
+    "Total": 615,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401010800",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.SleepingFox_EN-US7231760677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SleepingFox_EN-US7231760677",
+            "copyright": "Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=new+year%27s+day&form=hpcapt&filters=HpDate%3a%2220240101_0800%22",
+            "title": "Wake up, it's 2024!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_SleepingFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ca10763bace0838b7bbaca77a33c2a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312310800",
