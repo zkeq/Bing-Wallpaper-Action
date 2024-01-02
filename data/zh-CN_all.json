@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:09",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:47:46",
+    "Total": 615,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401011600",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711",
+            "copyright": "贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度 (© Twenty47studio/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A2%85%E5%85%B0%E5%8A%A0%E5%B0%94%E5%8F%A4%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "百年城堡",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_MehrangarhJodhpur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eddbaa01109ee2233bde7843b0b76cbc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312311600",
