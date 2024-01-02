@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-01 00:48:19",
-    "Total": 614,
+    "LastUpdate": "2024-01-02 00:47:56",
+    "Total": 615,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240101",
+            "fullstartdate": "202401011500",
+            "enddate": "20240102",
+            "url": "/th?id=OHR.BhutanSolstice_JA-JP1805849873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanSolstice_JA-JP1805849873",
+            "copyright": "ポブジカ渓谷, ブータン (© John Warburton-Lee/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BA%94%E8%89%B2%E3%81%AE%E7%A5%88%E7%A5%B7%E6%97%97+%E3%82%BF%E3%83%AB%E3%83%81%E3%83%A7%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240101_1500%22",
+            "title": "風になびく祈りの旗",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_BhutanSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d861746e9416aeeb06f297290eda94a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20231231",
             "fullstartdate": "202312311500",
