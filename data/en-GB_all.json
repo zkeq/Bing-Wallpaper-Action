@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-02 00:48:09",
-    "Total": 614,
+    "LastUpdate": "2024-01-03 00:48:24",
+    "Total": 615,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240103",
+            "fullstartdate": "202401030000",
+            "enddate": "20240104",
+            "url": "/th?id=OHR.BodleianCeiling_EN-GB7979385278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodleianCeiling_EN-GB7979385278",
+            "copyright": "Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+JRR+Tolkien+Day&form=hpcapt&filters=HpDate%3a%2220240103_0000%22",
+            "title": "One library to rule them all",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_BodleianCeiling%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a8248cbe52ddf3d767295334c96298fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240102",
             "fullstartdate": "202401020000",
