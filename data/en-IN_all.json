@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-02 00:48:14",
-    "Total": 615,
+    "LastUpdate": "2024-01-03 00:48:28",
+    "Total": 616,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240102",
+            "fullstartdate": "202401021830",
+            "enddate": "20240103",
+            "url": "/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858",
+            "copyright": "Virupaksha temple in the ancient city of Vijayanagar at Hampi, Karnataka, India. (© leshiy985/shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Virupaksha+temple&form=hpcapt&filters=HpDate%3a%2220240102_1830%22",
+            "title": "A celestial saga",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240102_VirupakshaTempleIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89c2409db33ce90d968b0b6f8d1d3323",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240101",
             "fullstartdate": "202401011830",
