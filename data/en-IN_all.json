@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-03 00:48:28",
-    "Total": 616,
+    "LastUpdate": "2024-01-04 00:48:25",
+    "Total": 617,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240103",
+            "fullstartdate": "202401031830",
+            "enddate": "20240104",
+            "url": "/th?id=OHR.GoldenGateLight_EN-IN5018210556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenGateLight_EN-IN5018210556",
+            "copyright": "Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Gate+Bridge&form=hpcapt&filters=HpDate%3a%2220240103_1830%22",
+            "title": "A mist-ical marvel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_GoldenGateLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6fa88bdec09d864029e9779235658204",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240102",
             "fullstartdate": "202401021830",
