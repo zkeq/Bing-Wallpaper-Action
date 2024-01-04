@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-03 00:48:01",
-    "Total": 616,
+    "LastUpdate": "2024-01-04 00:47:58",
+    "Total": 617,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240103",
+            "fullstartdate": "202401031600",
+            "enddate": "20240104",
+            "url": "/th?id=OHR.GoldenGateLight_ZH-CN3874822904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenGateLight_ZH-CN3874822904",
+            "copyright": "金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%91%E9%97%A8%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "雾锁金门",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_GoldenGateLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4c11b5ee2b5b4d18539b2d2a1c60814",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240102",
             "fullstartdate": "202401021600",
