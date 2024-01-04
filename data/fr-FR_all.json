@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-03 00:48:33",
-    "Total": 616,
+    "LastUpdate": "2024-01-04 00:48:30",
+    "Total": 617,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240103",
+            "fullstartdate": "202401032300",
+            "enddate": "20240104",
+            "url": "/th?id=OHR.GoldenGateLight_FR-FR0705317378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenGateLight_FR-FR0705317378",
+            "copyright": "Pont du Golden Gate, San Francisco, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Gate+&form=hpcapt&filters=HpDate%3a%2220240103_2300%22",
+            "title": "Là où les rêves deviennent réalité !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_GoldenGateLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36ac5c8c06388c40f7b9cee1fbde4202",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240102",
             "fullstartdate": "202401022300",
