@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-04 00:48:08",
-    "Total": 617,
+    "LastUpdate": "2024-01-05 00:48:05",
+    "Total": 618,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240104",
+            "fullstartdate": "202401041500",
+            "enddate": "20240105",
+            "url": "/th?id=OHR.HarbinFestival_JA-JP2258801493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HarbinFestival_JA-JP2258801493",
+            "copyright": "ハルビン氷祭り, 中国 (© WANG ZHAO/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%B0%B7%E7%A5%AD%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240104_1500%22",
+            "title": "ライトアップされた氷の彫刻",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240104_HarbinFestival%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "93a541702350b0b654021c162ace5f5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240103",
             "fullstartdate": "202401031500",
