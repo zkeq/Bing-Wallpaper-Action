@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-05 00:47:56",
-    "Total": 618,
+    "LastUpdate": "2024-01-06 00:47:55",
+    "Total": 619,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240105",
+            "fullstartdate": "202401051600",
+            "enddate": "20240106",
+            "url": "/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756",
+            "copyright": "冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E6%A3%A0%E6%9E%9C&form=hpcapt&mkt=zh-cn",
+            "title": "薅一个苹果！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240105_CrabappleChaffinch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93969b855f535691d27b516068f79512",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240104",
             "fullstartdate": "202401041600",
