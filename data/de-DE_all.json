@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-05 00:48:10",
-    "Total": 618,
+    "LastUpdate": "2024-01-06 00:48:10",
+    "Total": 619,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240105",
+            "fullstartdate": "202401052300",
+            "enddate": "20240106",
+            "url": "/th?id=OHR.GoldenGateLight_DE-DE1352725160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenGateLight_DE-DE1352725160",
+            "copyright": "Golden Gate Bridge, San Francisco, Kalifornien, USA (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Gate+Bridge+San+Francisco%2c+Kalifornien&form=hpcapt&filters=HpDate%3a%2220240105_2300%22",
+            "title": "Auf Wolke sieben schweben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240105_GoldenGateLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "631e3595eeb48016016a16ebca77e417",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240104",
             "fullstartdate": "202401042300",
