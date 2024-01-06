@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-05 00:48:19",
-    "Total": 617,
+    "LastUpdate": "2024-01-06 00:48:18",
+    "Total": 618,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240106",
+            "fullstartdate": "202401060000",
+            "enddate": "20240107",
+            "url": "/th?id=OHR.BlueAmsterdam_EN-GB2503528249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueAmsterdam_EN-GB2503528249",
+            "copyright": "Oud-West neighbourhood, Amsterdam, Netherlands (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oud-West+neighbourhood&form=hpcapt&filters=HpDate%3a%2220240106_0000%22",
+            "title": "Oud-West side story",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_BlueAmsterdam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7e979fdf059d983b561ad33f882184ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240105",
             "fullstartdate": "202401050000",
