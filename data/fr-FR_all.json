@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-05 00:48:27",
-    "Total": 618,
+    "LastUpdate": "2024-01-06 00:48:27",
+    "Total": 619,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240105",
+            "fullstartdate": "202401052300",
+            "enddate": "20240106",
+            "url": "/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335",
+            "copyright": "Antilles françaises, Guadeloupe, brume sur le volcan de la Soufrière (© Walter Bibikow/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=la+soufriere+volcan&form=hpcapt&filters=HpDate%3a%2220240105_2300%22",
+            "title": "Que la fête commence !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240105_GuadeloupeCarnival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "324b28e5bee01f1de490b934574c4656",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240104",
             "fullstartdate": "202401042300",
