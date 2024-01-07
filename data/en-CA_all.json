@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-06 00:48:14",
-    "Total": 618,
+    "LastUpdate": "2024-01-07 00:48:27",
+    "Total": 619,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240106",
+            "fullstartdate": "202401060500",
+            "enddate": "20240107",
+            "url": "/th?id=OHR.VermilionLakesCA_EN-CA5785272161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VermilionLakesCA_EN-CA5785272161",
+            "copyright": "Vermilion Lakes, Banff, Canada (© Carlos Fernandez/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vermilion+Lakes+Banff&form=hpcapt&filters=HpDate%3a%2220240106_0500%22",
+            "title": "The sky isn't always blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_VermilionLakesCA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4fb1e95a41f06592fa5c962d9beae1c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240105",
             "fullstartdate": "202401050500",
