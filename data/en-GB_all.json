@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-06 00:48:18",
-    "Total": 618,
+    "LastUpdate": "2024-01-07 00:48:32",
+    "Total": 619,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240107",
+            "fullstartdate": "202401070000",
+            "enddate": "20240108",
+            "url": "/th?id=OHR.GreatStapleSnowUK_EN-GB2875416954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreatStapleSnowUK_EN-GB2875416954",
+            "copyright": "Great Staple Tor, Dartmoor National Park (© MattStansfield/E+/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dartmoor&form=hpcapt&filters=HpDate%3a%2220240107_0000%22",
+            "title": "Nature's balancing act",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240107_GreatStapleSnowUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf191a7eea0ad72211997fdedfb89dd2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240106",
             "fullstartdate": "202401060000",
