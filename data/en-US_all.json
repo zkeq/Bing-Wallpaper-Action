@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-06 00:48:00",
-    "Total": 619,
+    "LastUpdate": "2024-01-07 00:48:14",
+    "Total": 620,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240106",
+            "fullstartdate": "202401060800",
+            "enddate": "20240107",
+            "url": "/th?id=OHR.CrabappleChaffinch_EN-US1781584314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrabappleChaffinch_EN-US1781584314",
+            "copyright": "Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Apples&form=hpcapt&filters=HpDate%3a%2220240106_0800%22",
+            "title": "Crab an apple!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_CrabappleChaffinch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9bbe0acbf48f4e1e2ba73ceaf6a7e801",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240105",
             "fullstartdate": "202401050800",
