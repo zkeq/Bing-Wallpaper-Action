@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-07 00:48:09",
-    "Total": 620,
+    "LastUpdate": "2024-01-08 00:47:59",
+    "Total": 621,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240107",
+            "fullstartdate": "202401071600",
+            "enddate": "20240108",
+            "url": "/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerninaPass_ZH-CN5776010452",
+            "copyright": "贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B4%9D%E5%B0%94%E5%B0%BC%E7%BA%B3%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "瑞士的雪花漱漱落下",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240107_BerninaPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1393f137aad773aadfca4533442b0b2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240106",
             "fullstartdate": "202401061600",
