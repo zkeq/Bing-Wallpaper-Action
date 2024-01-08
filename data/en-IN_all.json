@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-07 00:48:36",
-    "Total": 620,
+    "LastUpdate": "2024-01-08 00:48:27",
+    "Total": 621,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240107",
+            "fullstartdate": "202401071830",
+            "enddate": "20240108",
+            "url": "/th?id=OHR.BerninaPass_EN-IN9489085308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerninaPass_EN-IN9489085308",
+            "copyright": "Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bernina+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220240107_1830%22",
+            "title": "Swish Swiss Swish",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240107_BerninaPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fdddd86a943d61a98d2ec00d85540abc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240106",
             "fullstartdate": "202401061830",
