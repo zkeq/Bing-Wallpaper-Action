@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-07 00:48:40",
-    "Total": 620,
+    "LastUpdate": "2024-01-08 00:48:31",
+    "Total": 621,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240107",
+            "fullstartdate": "202401072300",
+            "enddate": "20240108",
+            "url": "/th?id=OHR.BerninaPass_FR-FR1590880403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerninaPass_FR-FR1590880403",
+            "copyright": "Skieur au col de la Bernina, Grisons, Suisse (© Francesco Bergamaschi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=col+de+la+Bernina+Grisons&form=hpcapt&filters=HpDate%3a%2220240107_2300%22",
+            "title": "Les joies du ski !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240107_BerninaPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3bb3b3fe072d5db7957b7281b094aaad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240106",
             "fullstartdate": "202401062300",
