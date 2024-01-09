@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-08 00:47:59",
-    "Total": 621,
+    "LastUpdate": "2024-01-09 00:47:57",
+    "Total": 622,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240108",
+            "fullstartdate": "202401081600",
+            "enddate": "20240109",
+            "url": "/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonDay_ZH-CN7571792218",
+            "copyright": "格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%83%AD%E6%B0%94%E7%90%83&form=hpcapt&mkt=zh-cn",
+            "title": "乘着热气球向上飞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240108_BalloonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "862cb6e022b5dcfad253898516c3ff09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240107",
             "fullstartdate": "202401071600",
