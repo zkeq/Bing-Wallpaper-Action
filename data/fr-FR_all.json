@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-08 00:48:31",
-    "Total": 621,
+    "LastUpdate": "2024-01-09 00:48:29",
+    "Total": 622,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240108",
+            "fullstartdate": "202401082300",
+            "enddate": "20240109",
+            "url": "/th?id=OHR.BalloonDay_FR-FR1975351459_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonDay_FR-FR1975351459",
+            "copyright": "Montgolfières au-dessus du Rio Grande, Albuquerque, Nouveau Mexique, États-Unis (© Jennifer MacCornack/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=montgolfi%C3%A8re&form=hpcapt&filters=HpDate%3a%2220240108_2300%22",
+            "title": "Un paysage idyllique !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240108_BalloonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f33d7ae5325561b1c8cde39e0e546cf6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240107",
             "fullstartdate": "202401072300",
