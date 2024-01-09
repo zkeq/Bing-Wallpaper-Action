@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-08 00:48:14",
-    "Total": 621,
+    "LastUpdate": "2024-01-09 00:48:12",
+    "Total": 622,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240108",
+            "fullstartdate": "202401082300",
+            "enddate": "20240109",
+            "url": "/th?id=OHR.BalloonDay_DE-DE2164566346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonDay_DE-DE2164566346",
+            "copyright": "Heißluftballons über dem Rio Grande, Albuquerque, New Mexico, USA (© Jennifer MacCornack/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Albuquerque%2c+New+Mexico%2c+USA&form=hpcapt&filters=HpDate%3a%2220240108_2300%22",
+            "title": "Zählen Sie auch 99 Heißluftballons?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240108_BalloonDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "355a683b2c30e5fc55c03c7d741baeb0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240107",
             "fullstartdate": "202401072300",
