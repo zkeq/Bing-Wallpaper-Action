@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-10 00:48:44",
-    "Total": 623,
+    "LastUpdate": "2024-01-11 00:48:36",
+    "Total": 624,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240110",
+            "fullstartdate": "202401102300",
+            "enddate": "20240111",
+            "url": "/th?id=OHR.LynxSnow_IT-IT4529092262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LynxSnow_IT-IT4529092262",
+            "copyright": "Lince eurasiatica nella neve (© Jan Stria/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lince+eurasiatica&form=hpcapt",
+            "title": "Un baffuto vagabondo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240110_LynxSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6d8fca66492fab54dafd37878557dd8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240109",
             "fullstartdate": "202401092300",
