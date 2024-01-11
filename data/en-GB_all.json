@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-10 00:48:31",
-    "Total": 622,
+    "LastUpdate": "2024-01-11 00:48:24",
+    "Total": 623,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240111",
+            "fullstartdate": "202401110000",
+            "enddate": "20240112",
+            "url": "/th?id=OHR.LynxSnow_EN-GB4274178722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LynxSnow_EN-GB4274178722",
+            "copyright": "Eurasian lynx in the snow (© Jan Stria/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+lynx&form=hpcapt&filters=HpDate%3a%2220240111_0000%22",
+            "title": "A whiskered wanderer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240111_LynxSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6acf8d9d62d25cf96b1fe6c376a4ad13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240110",
             "fullstartdate": "202401100000",
