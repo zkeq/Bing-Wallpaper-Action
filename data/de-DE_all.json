@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-10 00:48:22",
-    "Total": 623,
+    "LastUpdate": "2024-01-11 00:48:15",
+    "Total": 624,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240110",
+            "fullstartdate": "202401102300",
+            "enddate": "20240111",
+            "url": "/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255",
+            "copyright": "Früchte-im-Frost-und-Eis-versteckt,-Göttingen (© Duncan Usher/Alamy Stock Foto)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+deutschen+Apfels&form=hpcapt&filters=HpDate%3a%2220240110_2300%22",
+            "title": "Ein Apfel heute, ein Apfel Morgen, und Sie sind frei von allen Sorgen!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240110_OrnamentalAppleTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "155ce9562bf0155968804f93ef13ab5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240109",
             "fullstartdate": "202401092300",
