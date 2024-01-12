@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-11 00:48:32",
-    "Total": 624,
+    "LastUpdate": "2024-01-12 00:48:34",
+    "Total": 625,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240111",
+            "fullstartdate": "202401112300",
+            "enddate": "20240112",
+            "url": "/th?id=OHR.BukhansanSeoul_FR-FR2089322284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BukhansanSeoul_FR-FR2089322284",
+            "copyright": "Parc national de Bukhansan, Corée du Sud (© TRAVEL TAKE PHOTOS/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+Bukhansan&form=hpcapt&filters=HpDate%3a%2220240111_2300%22",
+            "title": "À la conquête des sommets !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240111_BukhansanSeoul%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5de6dfb5ed662fe7385395ccf7287d9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240110",
             "fullstartdate": "202401102300",
