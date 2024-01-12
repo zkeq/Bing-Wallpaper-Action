@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-11 00:48:11",
-    "Total": 624,
+    "LastUpdate": "2024-01-12 00:48:12",
+    "Total": 625,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240111",
+            "fullstartdate": "202401111500",
+            "enddate": "20240112",
+            "url": "/th?id=OHR.BukhansanSeoul_JA-JP1162904036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BukhansanSeoul_JA-JP1162904036",
+            "copyright": "北漢山国立公園, 韓国 (© TRAVEL TAKE PHOTOS/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%BC%A2%E5%B1%B1%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240111_1500%22",
+            "title": "そそり立つ岩峰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240111_BukhansanSeoul%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "061e38104da3efe4d43468ae41f5b13f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240110",
             "fullstartdate": "202401101500",
