@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-12 00:48:12",
-    "Total": 625,
+    "LastUpdate": "2024-01-13 00:48:06",
+    "Total": 626,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240112",
+            "fullstartdate": "202401121500",
+            "enddate": "20240113",
+            "url": "/th?id=OHR.Daruma2024_JA-JP9897104150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Daruma2024_JA-JP9897104150",
+            "copyright": "勝尾寺の勝ちダルマ, 大阪府 箕面市 (© feathercollector/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8B%9D%E5%B0%BE%E5%AF%BA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%83%80%E3%83%AB%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220240112_1500%22",
+            "title": "今日から大学入学共通テスト",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240112_Daruma2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb25542a369c3c366ad8847417b10b7a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240111",
             "fullstartdate": "202401111500",
