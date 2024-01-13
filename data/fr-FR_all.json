@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-12 00:48:34",
-    "Total": 625,
+    "LastUpdate": "2024-01-13 00:48:28",
+    "Total": 626,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240112",
+            "fullstartdate": "202401122300",
+            "enddate": "20240113",
+            "url": "/th?id=OHR.HanaHighway_FR-FR2322911528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HanaHighway_FR-FR2322911528",
+            "copyright": "Route d’Hana, Maui, Hawaï, États-Unis (© Matteo Colombo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=la+route+H%C4%81na+&form=hpcapt&filters=HpDate%3a%2220240112_2300%22",
+            "title": "Savourez l'instant et profitez de la vue !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240112_HanaHighway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3a017ca5cfd1a6ceeec4e77b2ac73c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240111",
             "fullstartdate": "202401112300",
