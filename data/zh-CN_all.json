@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-12 00:48:02",
-    "Total": 625,
+    "LastUpdate": "2024-01-13 00:47:57",
+    "Total": 626,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240112",
+            "fullstartdate": "202401121600",
+            "enddate": "20240113",
+            "url": "/th?id=OHR.HanaHighway_ZH-CN8601588011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HanaHighway_ZH-CN8601588011",
+            "copyright": "哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%93%88%E7%BA%B3%E4%B9%8B%E8%B7%AF&form=hpcapt&mkt=zh-cn",
+            "title": "放慢脚步，享受旅途！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240112_HanaHighway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f59d4427d7a743fd528f8581869e64c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240111",
             "fullstartdate": "202401111600",
