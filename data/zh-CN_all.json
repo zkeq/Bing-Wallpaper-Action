@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-13 00:47:57",
-    "Total": 626,
+    "LastUpdate": "2024-01-14 00:48:17",
+    "Total": 627,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240113",
+            "fullstartdate": "202401131600",
+            "enddate": "20240114",
+            "url": "/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HokkaidoSwans_ZH-CN8733312972",
+            "copyright": "屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A9%E9%B9%85&form=hpcapt&mkt=zh-cn",
+            "title": "白色羽毛交响曲",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HokkaidoSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53ac121f73e09456beb82d6d37551594",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240112",
             "fullstartdate": "202401121600",
