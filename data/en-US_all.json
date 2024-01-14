@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-13 00:48:02",
-    "Total": 626,
+    "LastUpdate": "2024-01-14 00:48:23",
+    "Total": 627,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240113",
+            "fullstartdate": "202401130800",
+            "enddate": "20240114",
+            "url": "/th?id=OHR.HanaHighway_EN-US0637770298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HanaHighway_EN-US0637770298",
+            "copyright": "Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hana+Highway&form=hpcapt&filters=HpDate%3a%2220240113_0800%22",
+            "title": "Slow down and enjoy the journey!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HanaHighway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ff3cd8f20973f310c39c8ece6b9c3fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240112",
             "fullstartdate": "202401120800",
