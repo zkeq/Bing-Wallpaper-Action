@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-13 00:48:33",
-    "Total": 626,
+    "LastUpdate": "2024-01-14 00:48:54",
+    "Total": 627,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240113",
+            "fullstartdate": "202401132300",
+            "enddate": "20240114",
+            "url": "/th?id=OHR.HokkaidoSwans_IT-IT3824531235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HokkaidoSwans_IT-IT3824531235",
+            "copyright": "Cigni sevatici nel Lago di Kussharo, Giappone (© Darrell Gulin/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Cygnus+cygnus+cos%27%C3%A8&form=hpcapt",
+            "title": "L’eleganza fatta natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HokkaidoSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "038991ef434ae5ec5ca1fe5138a9fd82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240112",
             "fullstartdate": "202401122300",
