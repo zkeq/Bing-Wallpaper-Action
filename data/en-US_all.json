@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-14 00:48:23",
-    "Total": 627,
+    "LastUpdate": "2024-01-15 00:48:10",
+    "Total": 628,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240114",
+            "fullstartdate": "202401140800",
+            "enddate": "20240115",
+            "url": "/th?id=OHR.HokkaidoSwans_EN-US0905932812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HokkaidoSwans_EN-US0905932812",
+            "copyright": "Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=whooper+swans&form=hpcapt&filters=HpDate%3a%2220240114_0800%22",
+            "title": "A feathered symphony in white",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_HokkaidoSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5634ed9e2b96ca42c3890a0726dbcd2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240113",
             "fullstartdate": "202401130800",
