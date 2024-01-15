@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-14 00:48:45",
-    "Total": 627,
+    "LastUpdate": "2024-01-15 00:48:33",
+    "Total": 628,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240114",
+            "fullstartdate": "202401141830",
+            "enddate": "20240115",
+            "url": "/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MakarSankrantiKites_EN-IN1385639662",
+            "copyright": "Kite flying in Ahmedabad during the last hour of Uttarayan (© Saumil Shah - flickr.com/saumil/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=makar+sankranti&form=hpcapt&filters=HpDate%3a%2220240114_1830%22",
+            "title": "Up for a kite-flying contest?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_MakarSankrantiKites%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4eebaa0613c27e071507fa58584ba582",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240113",
             "fullstartdate": "202401131830",
