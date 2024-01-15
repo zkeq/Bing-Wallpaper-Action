@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-14 00:48:32",
-    "Total": 627,
+    "LastUpdate": "2024-01-15 00:48:19",
+    "Total": 628,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240114",
+            "fullstartdate": "202401142300",
+            "enddate": "20240115",
+            "url": "/th?id=OHR.IceChapel_DE-DE7506991008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceChapel_DE-DE7506991008",
+            "copyright": "Eiskapelle am Fuße des Watzmanns, Bayern (© Christian Bäck/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Watzmann%2c+Bayern&form=hpcapt&filters=HpDate%3a%2220240114_2300%22",
+            "title": "Irdisch oder außerirdisch?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_IceChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cedea93d1244759a3115a5f920fab1fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240113",
             "fullstartdate": "202401132300",
