@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-14 00:48:49",
-    "Total": 627,
+    "LastUpdate": "2024-01-15 00:48:37",
+    "Total": 628,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240114",
+            "fullstartdate": "202401142300",
+            "enddate": "20240115",
+            "url": "/th?id=OHR.SnowHorses_FR-FR2904040226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowHorses_FR-FR2904040226",
+            "copyright": "Chevaux comtois, Jura, Bourgogne-Franche-Comté, France (© Philippe Saire Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cheval+comtois&form=hpcapt&filters=HpDate%3a%2220240114_2300%22",
+            "title": "Des chevaux et des hommes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_SnowHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "339d25a774e91a255081bfc76ba26263",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240113",
             "fullstartdate": "202401132300",
