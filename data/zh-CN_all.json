@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-14 00:48:17",
-    "Total": 627,
+    "LastUpdate": "2024-01-15 00:48:05",
+    "Total": 628,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240114",
+            "fullstartdate": "202401141600",
+            "enddate": "20240115",
+            "url": "/th?id=OHR.IceChapel_ZH-CN9189733666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceChapel_ZH-CN9189733666",
+            "copyright": "瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%93%A6%E8%8C%A8%E6%9B%BC%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "在地球上还是在外星？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_IceChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b55e02a4c1b32c4e0ca1c342dd76d33a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240113",
             "fullstartdate": "202401131600",
