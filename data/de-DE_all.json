@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-15 00:48:19",
-    "Total": 628,
+    "LastUpdate": "2024-01-16 00:48:12",
+    "Total": 629,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240115",
+            "fullstartdate": "202401152300",
+            "enddate": "20240116",
+            "url": "/th?id=OHR.LakeLouise_DE-DE3736207762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeLouise_DE-DE3736207762",
+            "copyright": "Lake Louise, Banff-Nationalpark, Alberta, Kanada (© Mr. Simon Paul/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Louise+See+in+Kanada&form=hpcapt&filters=HpDate%3a%2220240115_2300%22",
+            "title": "Traumhaus in unberührter Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240115_LakeLouise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e7fdf7f57ebc27032d070ba71818cc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240114",
             "fullstartdate": "202401142300",
