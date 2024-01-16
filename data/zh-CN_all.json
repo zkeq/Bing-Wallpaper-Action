@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-15 00:48:05",
-    "Total": 628,
+    "LastUpdate": "2024-01-16 00:47:58",
+    "Total": 629,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240115",
+            "fullstartdate": "202401151600",
+            "enddate": "20240116",
+            "url": "/th?id=OHR.LakeLouise_ZH-CN9592539152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeLouise_ZH-CN9592539152",
+            "copyright": "路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8F%AD%E5%A4%AB%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E8%B7%AF%E6%98%93%E6%96%AF%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "加拿大式的小憩和放松",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240115_LakeLouise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33ec1fc08b7cceec563cf3e21307b46b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240114",
             "fullstartdate": "202401141600",
