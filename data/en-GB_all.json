@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-15 00:48:28",
-    "Total": 627,
+    "LastUpdate": "2024-01-16 00:48:21",
+    "Total": 628,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240116",
+            "fullstartdate": "202401160000",
+            "enddate": "20240117",
+            "url": "/th?id=OHR.LakeLouise_EN-GB2053286596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeLouise_EN-GB2053286596",
+            "copyright": "Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Louise+Banff+National+Park&form=hpcapt&filters=HpDate%3a%2220240116_0000%22",
+            "title": "A little Canadian rest and relaxation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240116_LakeLouise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7004bda46ce185d4a033e788f18bedb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240115",
             "fullstartdate": "202401150000",
