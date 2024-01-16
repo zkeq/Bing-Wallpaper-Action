@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-15 00:48:37",
-    "Total": 628,
+    "LastUpdate": "2024-01-16 00:48:30",
+    "Total": 629,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240115",
+            "fullstartdate": "202401152300",
+            "enddate": "20240116",
+            "url": "/th?id=OHR.LakeLouise_FR-FR3546637527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeLouise_FR-FR3546637527",
+            "copyright": "Lac Louise, parc national de Banff, Alberta, Canada (© Mr. Simon Paul/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=lac+louise&form=hpcapt&filters=HpDate%3a%2220240115_2300%22",
+            "title": "Une petite escapade zen au Canada ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240115_LakeLouise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8f4c221ab8c81df03b3f3fc813bb765",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240114",
             "fullstartdate": "202401142300",
