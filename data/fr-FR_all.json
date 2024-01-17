@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-16 00:48:30",
-    "Total": 629,
+    "LastUpdate": "2024-01-17 00:48:32",
+    "Total": 630,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240116",
+            "fullstartdate": "202401162300",
+            "enddate": "20240117",
+            "url": "/th?id=OHR.SleepyWolf_FR-FR3759485122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SleepyWolf_FR-FR3759485122",
+            "copyright": "Loup endormi dans le parc national de la forêt bavaroise, Allemagne (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+for%C3%AAt+de+bavi%C3%A8re&form=hpcapt&filters=HpDate%3a%2220240116_2300%22",
+            "title": "Promenons-nous dans les bois….",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240116_SleepyWolf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcd7160f3383cae2f548573042c6a777",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240115",
             "fullstartdate": "202401152300",
