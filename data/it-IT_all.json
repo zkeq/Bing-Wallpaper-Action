@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-17 00:48:37",
-    "Total": 630,
+    "LastUpdate": "2024-01-18 00:48:37",
+    "Total": 631,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240117",
+            "fullstartdate": "202401172300",
+            "enddate": "20240118",
+            "url": "/th?id=OHR.ParisBridge_IT-IT8868576406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisBridge_IT-IT8868576406",
+            "copyright": "Ponte Alessandro III, Parigi, Francia (© Sizun Eye/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ponte+Alessandro+III&form=hpcapt",
+            "title": "Il ponte dell’amicizia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240117_ParisBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b743185e870cbe8285567b1b1ae0171",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240116",
             "fullstartdate": "202401162300",
