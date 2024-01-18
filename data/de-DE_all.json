@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-17 00:48:15",
-    "Total": 630,
+    "LastUpdate": "2024-01-18 00:48:16",
+    "Total": 631,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240117",
+            "fullstartdate": "202401172300",
+            "enddate": "20240118",
+            "url": "/th?id=OHR.ParisBridge_DE-DE4033680304_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisBridge_DE-DE4033680304",
+            "copyright": "Brücke Alexandre III. in der Dämmerung, Paris, Frankreich (© Sizun Eye/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pont+Alexandre+III+in+Paris&form=hpcapt&filters=HpDate%3a%2220240117_2300%22",
+            "title": "Unter dem Schutz von Pegasus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240117_ParisBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8b0b909263eedcac194d7def3e0b3fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240116",
             "fullstartdate": "202401162300",
