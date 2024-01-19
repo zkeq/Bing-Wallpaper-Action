@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-18 00:48:25",
-    "Total": 630,
+    "LastUpdate": "2024-01-19 00:48:26",
+    "Total": 631,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240119",
+            "fullstartdate": "202401190000",
+            "enddate": "20240120",
+            "url": "/th?id=OHR.PlitviceWinter_EN-GB2685837367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlitviceWinter_EN-GB2685837367",
+            "copyright": "Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Plitvice+lakes+national+park&form=hpcapt&filters=HpDate%3a%2220240119_0000%22",
+            "title": "Waterfalls turned waterfreeze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240119_PlitviceWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6712289f7279743bc81fbe92e7562bc1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240118",
             "fullstartdate": "202401180000",
