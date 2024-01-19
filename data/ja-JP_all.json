@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-18 00:48:12",
-    "Total": 631,
+    "LastUpdate": "2024-01-19 00:48:13",
+    "Total": 632,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240118",
+            "fullstartdate": "202401181500",
+            "enddate": "20240119",
+            "url": "/th?id=OHR.PlitviceWinter_JA-JP1926981970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlitviceWinter_JA-JP1926981970",
+            "copyright": "プリトヴィツェ湖群国立公園, クロアチア (© Massimo_S8/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%97%E3%83%AA%E3%83%88%E3%83%B4%E3%82%A3%E3%83%84%E3%82%A7%E6%B9%96%E7%BE%A4%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240118_1500%22",
+            "title": "氷結した湖と滝",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240118_PlitviceWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ceef79e4c9f3600f064e017b842e867a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240117",
             "fullstartdate": "202401171500",
