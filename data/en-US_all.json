@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-18 00:48:08",
-    "Total": 631,
+    "LastUpdate": "2024-01-19 00:48:09",
+    "Total": 632,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240118",
+            "fullstartdate": "202401180800",
+            "enddate": "20240119",
+            "url": "/th?id=OHR.ParisBridge_EN-US1771484789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisBridge_EN-US1771484789",
+            "copyright": "Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pont+Alexandre+III+paris&form=hpcapt&filters=HpDate%3a%2220240118_0800%22",
+            "title": "Under the watch of Pegasus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240118_ParisBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d2d5e071a3a6ce763e2e80798ddf6e8f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240117",
             "fullstartdate": "202401170800",
