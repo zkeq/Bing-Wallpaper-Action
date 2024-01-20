@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-19 00:48:17",
-    "Total": 632,
+    "LastUpdate": "2024-01-20 00:48:12",
+    "Total": 633,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240119",
+            "fullstartdate": "202401192300",
+            "enddate": "20240120",
+            "url": "/th?id=OHR.MacaroniPenguins_DE-DE9243593440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MacaroniPenguins_DE-DE9243593440",
+            "copyright": "Goldschopfpinguine, Drakestraße, Chile (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Goldschopfpinguin&form=hpcapt&filters=HpDate%3a%2220240119_2300%22",
+            "title": "Ist nicht doch alles Gold was glänzt?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240119_MacaroniPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c3779590f0eb83bfb796a76996a9304f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240118",
             "fullstartdate": "202401182300",
