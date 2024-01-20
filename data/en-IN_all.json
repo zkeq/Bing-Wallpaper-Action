@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-19 00:48:30",
-    "Total": 632,
+    "LastUpdate": "2024-01-20 00:48:25",
+    "Total": 633,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240119",
+            "fullstartdate": "202401191830",
+            "enddate": "20240120",
+            "url": "/th?id=OHR.MacaroniPenguins_EN-IN3516700130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MacaroniPenguins_EN-IN3516700130",
+            "copyright": "Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Macaroni+Penguins&form=hpcapt&filters=HpDate%3a%2220240119_1830%22",
+            "title": "Macaroni and freeze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240119_MacaroniPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f47e13ad3531e6cf9d7f4577b31962ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240118",
             "fullstartdate": "202401181830",
