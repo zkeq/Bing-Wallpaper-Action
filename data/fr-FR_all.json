@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-20 00:48:29",
-    "Total": 633,
+    "LastUpdate": "2024-01-21 00:48:44",
+    "Total": 634,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240120",
+            "fullstartdate": "202401202300",
+            "enddate": "20240121",
+            "url": "/th?id=OHR.SquirrelNetherlands_FR-FR5106085626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SquirrelNetherlands_FR-FR5106085626",
+            "copyright": "Écureuil roux, Pays-Bas (© Ernst Dirksen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220240120_2300%22",
+            "title": "L’instant mignon !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240120_SquirrelNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd7f917aec3a118d23ef322f0c10eeb3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240119",
             "fullstartdate": "202401192300",
