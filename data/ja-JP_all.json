@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-21 00:48:23",
-    "Total": 634,
+    "LastUpdate": "2024-01-22 00:48:14",
+    "Total": 635,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240121",
+            "fullstartdate": "202401211500",
+            "enddate": "20240122",
+            "url": "/th?id=OHR.SantaCruzSunrise_JA-JP5594322328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCruzSunrise_JA-JP5594322328",
+            "copyright": "ウォルトン灯台, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240121_1500%22",
+            "title": "美しい日の出と灯台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240121_SantaCruzSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf09f1c2b0ef87d16c5e6d4f7ef2deb0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240120",
             "fullstartdate": "202401201500",
