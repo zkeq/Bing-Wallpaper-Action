@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-21 00:48:19",
-    "Total": 634,
+    "LastUpdate": "2024-01-22 00:48:10",
+    "Total": 635,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240121",
+            "fullstartdate": "202401210800",
+            "enddate": "20240122",
+            "url": "/th?id=OHR.SquirrelNetherlands_EN-US2174319616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SquirrelNetherlands_EN-US2174319616",
+            "copyright": "Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+Red+Squirrel&form=hpcapt&filters=HpDate%3a%2220240121_0800%22",
+            "title": "Tales from the treetops",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240121_SquirrelNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "026d2dcdb3631f0f0c76a0e7325f6b68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240120",
             "fullstartdate": "202401200800",
