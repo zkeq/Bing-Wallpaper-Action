@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-21 00:48:14",
-    "Total": 634,
+    "LastUpdate": "2024-01-22 00:48:05",
+    "Total": 635,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240121",
+            "fullstartdate": "202401211600",
+            "enddate": "20240122",
+            "url": "/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377",
+            "copyright": "冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E5%85%8B%E9%B2%81%E6%96%AF%E5%8E%BF&form=hpcapt&mkt=zh-cn",
+            "title": "魔幻时刻",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240121_SantaCruzSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b86ef13d6c18a718e93fac27ee619a8e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240120",
             "fullstartdate": "202401201600",
