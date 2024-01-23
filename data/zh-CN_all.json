@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-22 00:48:05",
-    "Total": 635,
+    "LastUpdate": "2024-01-23 00:48:03",
+    "Total": 636,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240122",
+            "fullstartdate": "202401221600",
+            "enddate": "20240123",
+            "url": "/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaldivesAtolls_ZH-CN1365670653",
+            "copyright": "印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB&form=hpcapt&mkt=zh-cn",
+            "title": "印度洋之眼",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_MaldivesAtolls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2ceb56aee1dee4fce31b51c9967ddde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240121",
             "fullstartdate": "202401211600",
