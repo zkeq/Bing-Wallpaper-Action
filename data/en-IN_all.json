@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-22 00:48:32",
-    "Total": 635,
+    "LastUpdate": "2024-01-23 00:48:30",
+    "Total": 636,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240122",
+            "fullstartdate": "202401221830",
+            "enddate": "20240123",
+            "url": "/th?id=OHR.MaldivesAtolls_EN-IN3706143252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaldivesAtolls_EN-IN3706143252",
+            "copyright": "Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Maldives&form=hpcapt&filters=HpDate%3a%2220240122_1830%22",
+            "title": "Eyes of the Indian Ocean",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_MaldivesAtolls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a359d80f28c8bc74f1c7ae59cdf740c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240121",
             "fullstartdate": "202401211830",
