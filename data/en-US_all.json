@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-22 00:48:10",
-    "Total": 635,
+    "LastUpdate": "2024-01-23 00:48:09",
+    "Total": 636,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240122",
+            "fullstartdate": "202401220800",
+            "enddate": "20240123",
+            "url": "/th?id=OHR.SantaCruzSunrise_EN-US6436233856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCruzSunrise_EN-US6436233856",
+            "copyright": "Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Cruz+Breakwater+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240122_0800%22",
+            "title": "A beacon from dusk till dawn",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_SantaCruzSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d7bfc7aeb73b42134fc396f1820c1c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240121",
             "fullstartdate": "202401210800",
