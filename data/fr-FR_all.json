@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-22 00:48:36",
-    "Total": 635,
+    "LastUpdate": "2024-01-23 00:48:34",
+    "Total": 636,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240122",
+            "fullstartdate": "202401222300",
+            "enddate": "20240123",
+            "url": "/th?id=OHR.MaldivesAtolls_FR-FR6343636525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaldivesAtolls_FR-FR6343636525",
+            "copyright": "Atolls de l'océan Indien, Maldives (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Maldives&form=hpcapt&filters=HpDate%3a%2220240122_2300%22",
+            "title": "L'œil de l'océan Indien",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_MaldivesAtolls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8e1f22e07ae1b0e1ea6766b387e8cfe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240121",
             "fullstartdate": "202401212300",
