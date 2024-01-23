@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-22 00:48:19",
-    "Total": 635,
+    "LastUpdate": "2024-01-23 00:48:17",
+    "Total": 636,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240122",
+            "fullstartdate": "202401222300",
+            "enddate": "20240123",
+            "url": "/th?id=OHR.MaldivesAtolls_DE-DE0846925099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaldivesAtolls_DE-DE0846925099",
+            "copyright": "Atolle im Indischen Ozean, Malediven (© Amazing Aerial Premium/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Malediven&form=hpcapt&filters=HpDate%3a%2220240122_2300%22",
+            "title": "Die Augen des Indischen Ozeans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_MaldivesAtolls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ce2056edbe8087fbb9045832b04bd5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240121",
             "fullstartdate": "202401212300",
