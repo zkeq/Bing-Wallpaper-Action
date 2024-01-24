@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-23 00:48:38",
-    "Total": 636,
+    "LastUpdate": "2024-01-24 00:48:42",
+    "Total": 637,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240123",
+            "fullstartdate": "202401232300",
+            "enddate": "20240124",
+            "url": "/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471",
+            "copyright": "Parco Nazionale del Gran Sasso, con il castello di Rocca Calascio (© Riccardo Spila/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Rocca+Calascio&form=hpcapt",
+            "title": "Gran Sasso... e gran freddo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240123_AbruzzoGranSasso%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "223d805e91efacce4412de23b9c749d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240122",
             "fullstartdate": "202401222300",
