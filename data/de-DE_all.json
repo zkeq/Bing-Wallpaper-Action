@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-24 00:48:20",
-    "Total": 637,
+    "LastUpdate": "2024-01-25 00:48:15",
+    "Total": 638,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240124",
+            "fullstartdate": "202401242300",
+            "enddate": "20240125",
+            "url": "/th?id=OHR.DwynwensDay_DE-DE3164731658_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DwynwensDay_DE-DE3164731658",
+            "copyright": "Ruinen der St. Dwynwen's Church, Ynys Llanddwyn, Wales, Vereinigtes Königreich (© Photos by R A Kearton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ynys+Llanddwyn%2c+Wales%2c+Vereinigtes+K%C3%B6nigreich&form=hpcapt&filters=HpDate%3a%2220240124_2300%22",
+            "title": "Ein Portal zur Vergangenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_DwynwensDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "836acde34a5efa9f6bce0f4c3bfef882",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240123",
             "fullstartdate": "202401232300",
