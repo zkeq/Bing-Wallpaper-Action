@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-24 00:48:37",
-    "Total": 637,
+    "LastUpdate": "2024-01-25 00:48:32",
+    "Total": 638,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240124",
+            "fullstartdate": "202401242300",
+            "enddate": "20240125",
+            "url": "/th?id=OHR.DwynwensDay_FR-FR7589802554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DwynwensDay_FR-FR7589802554",
+            "copyright": "Ruines de l'église St. Dwynwen, Ynys Llanddwyn, Pays de Galles, Royaume-Uni (© Photos by R A Kearton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pays+de+galles+ynys+llanddwyn&form=hpcapt&filters=HpDate%3a%2220240124_2300%22",
+            "title": "Un portail vers le passé",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_DwynwensDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59525587169b86d26bb09dd7b2ebaf74",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240123",
             "fullstartdate": "202401232300",
