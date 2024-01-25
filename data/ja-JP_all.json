@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-24 00:48:15",
-    "Total": 637,
+    "LastUpdate": "2024-01-25 00:48:10",
+    "Total": 638,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240124",
+            "fullstartdate": "202401241500",
+            "enddate": "20240125",
+            "url": "/th?id=OHR.DwynwensDay_JA-JP1767839645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DwynwensDay_JA-JP1767839645",
+            "copyright": "イニス・ランドウィンにある遺跡, イギリス ウェールズ (© Photos by R A Kearton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%81%96%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240124_1500%22",
+            "title": "今日は聖ドウィンウェンの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_DwynwensDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1dee0c772b8bfad7a4ca56a6403331a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240123",
             "fullstartdate": "202401231500",
