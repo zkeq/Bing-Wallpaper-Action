@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-24 00:48:24",
-    "Total": 636,
+    "LastUpdate": "2024-01-25 00:48:19",
+    "Total": 637,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240124",
+            "fullstartdate": "202401240500",
+            "enddate": "20240125",
+            "url": "/th?id=OHR.IcelandBeach_EN-CA0939804104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandBeach_EN-CA0939804104",
+            "copyright": "Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Diamond+Beach+Iceland&form=hpcapt&filters=HpDate%3a%2220240124_0500%22",
+            "title": "Iced out, literally",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_IcelandBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fefedb7f8d17a090548de0467b6151b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240123",
             "fullstartdate": "202401230500",
