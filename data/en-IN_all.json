@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-25 00:48:28",
-    "Total": 638,
+    "LastUpdate": "2024-01-26 00:48:17",
+    "Total": 639,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240125",
+            "fullstartdate": "202401251830",
+            "enddate": "20240126",
+            "url": "/th?id=OHR.RepublicDayIN_EN-IN0100062780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RepublicDayIN_EN-IN0100062780",
+            "copyright": "Illuminated President's Estate of India, New Delhi, India (© PRABHASROY/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Republic+Day&form=hpcapt&filters=HpDate%3a%2220240125_1830%22",
+            "title": "Lights of the capital",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240125_RepublicDayIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "11c83de504fc8d4665a6a04208e3cda5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240124",
             "fullstartdate": "202401241830",
