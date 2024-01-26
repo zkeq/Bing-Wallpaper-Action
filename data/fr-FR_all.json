@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-25 00:48:32",
-    "Total": 638,
+    "LastUpdate": "2024-01-26 00:48:22",
+    "Total": 639,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240125",
+            "fullstartdate": "202401252300",
+            "enddate": "20240126",
+            "url": "/th?id=OHR.HawkOwl_FR-FR1707000792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawkOwl_FR-FR1707000792",
+            "copyright": "La chouette épervière (© Remo Savisaar/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=La+chouette+eperviere&form=hpcapt&filters=HpDate%3a%2220240125_2300%22",
+            "title": "Chouette, le jour se lève !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240125_HawkOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "45e359e903caa3a1e4a46b4202f60629",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240124",
             "fullstartdate": "202401242300",
