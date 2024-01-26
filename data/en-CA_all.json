@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-25 00:48:19",
-    "Total": 637,
+    "LastUpdate": "2024-01-26 00:48:09",
+    "Total": 638,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240125",
+            "fullstartdate": "202401250500",
+            "enddate": "20240126",
+            "url": "/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856",
+            "copyright": "A snowy owl on the icy field, Quebec City, Canada (© Marco Pozzi Photographer/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Snowy+owl&form=hpcapt&filters=HpDate%3a%2220240125_0500%22",
+            "title": "Ready for liftoff",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240125_SnowyOwlQuebec%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "efad6eda0ad102eb2efd5c428940e74b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240124",
             "fullstartdate": "202401240500",
