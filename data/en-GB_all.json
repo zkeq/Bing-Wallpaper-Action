@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-26 00:48:13",
-    "Total": 638,
+    "LastUpdate": "2024-01-27 00:48:03",
+    "Total": 639,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240127",
+            "fullstartdate": "202401270000",
+            "enddate": "20240128",
+            "url": "/th?id=OHR.WinterCarnival_EN-GB6178646232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterCarnival_EN-GB6178646232",
+            "copyright": "Ice Palace at Saint Paul Winter Carnival, Minnesota, USA (© Joe Mamer Photography/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=st+paul+minnesota&form=hpcapt&filters=HpDate%3a%2220240127_0000%22",
+            "title": "A pretty, cool skyline",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240127_WinterCarnival%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "097188ac5f0936c44e549270ea102990",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240126",
             "fullstartdate": "202401260000",
