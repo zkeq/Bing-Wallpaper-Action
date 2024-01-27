@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-26 00:48:04",
-    "Total": 639,
+    "LastUpdate": "2024-01-27 00:47:55",
+    "Total": 640,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240126",
+            "fullstartdate": "202401262300",
+            "enddate": "20240127",
+            "url": "/th?id=OHR.WinterCarnival_DE-DE2266431187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterCarnival_DE-DE2266431187",
+            "copyright": "Eisskulpturen auf dem Saint Paul Winterkarneval, Minnesota, USA (© Joe Mamer Photography/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=saint+paul+minnesota&form=hpcapt&filters=HpDate%3a%2220240126_2300%22",
+            "title": "Eine ziemlich coole Skyline",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240126_WinterCarnival%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "04c1d235320a50d1572828fc1d1778b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240125",
             "fullstartdate": "202401252300",
