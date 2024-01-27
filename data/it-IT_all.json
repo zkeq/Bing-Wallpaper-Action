@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-26 00:48:26",
-    "Total": 639,
+    "LastUpdate": "2024-01-27 00:48:16",
+    "Total": 640,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240126",
+            "fullstartdate": "202401262300",
+            "enddate": "20240127",
+            "url": "/th?id=OHR.VeniceMask_IT-IT8837676102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceMask_IT-IT8837676102",
+            "copyright": "Maschera al Carnevale di Venezia, Veneto, Italia (© Neyya/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=il+carnevale+venezia+cos%27%C3%A8&form=hpcapt",
+            "title": "A carnevale ogni scherzo vale!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240126_VeniceMask%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5bfac45ebc224a9bec33e1c99a80194",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240125",
             "fullstartdate": "202401252300",
