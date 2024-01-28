@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-27 00:48:16",
-    "Total": 640,
+    "LastUpdate": "2024-01-28 00:48:27",
+    "Total": 641,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240127",
+            "fullstartdate": "202401272300",
+            "enddate": "20240128",
+            "url": "/th?id=OHR.ChannelOutback_IT-IT0059174441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChannelOutback_IT-IT0059174441",
+            "copyright": "Channel Country, Outback nel Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Queensland+dov%27%C3%A8&form=hpcapt",
+            "title": "Una ragnatela di canali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240127_ChannelOutback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a2388619f18478e766249ec6880f785",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240126",
             "fullstartdate": "202401262300",
