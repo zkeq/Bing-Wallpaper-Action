@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-27 00:47:55",
-    "Total": 640,
+    "LastUpdate": "2024-01-28 00:48:05",
+    "Total": 641,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240127",
+            "fullstartdate": "202401272300",
+            "enddate": "20240128",
+            "url": "/th?id=OHR.ChannelOutback_DE-DE2211262112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChannelOutback_DE-DE2211262112",
+            "copyright": "Channel Country, Outback Queensland, Australien (© Southern Lightscapes-Australia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Channel+Country&form=hpcapt&filters=HpDate%3a%2220240127_2300%22",
+            "title": "Wasser bedeutet Leben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240127_ChannelOutback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f78b54050609fa8b6a4085daf016a1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240126",
             "fullstartdate": "202401262300",
