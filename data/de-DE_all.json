@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-28 00:48:05",
-    "Total": 641,
+    "LastUpdate": "2024-01-29 00:48:05",
+    "Total": 642,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240128",
+            "fullstartdate": "202401282300",
+            "enddate": "20240129",
+            "url": "/th?id=OHR.GollingerFalls_DE-DE0072333494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GollingerFalls_DE-DE0072333494",
+            "copyright": "Gollinger Wasserfall, Tennengau, Salzburg, Österreich (© Frank Fischbach/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Schwarzbachfall+Wasserfall+&form=hpcapt&filters=HpDate%3a%2220240128_2300%22",
+            "title": "Wunder der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240128_GollingerFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "baec0c47972aa8d4ede14a120d684ee6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240127",
             "fullstartdate": "202401272300",
