@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-28 00:48:27",
-    "Total": 641,
+    "LastUpdate": "2024-01-29 00:48:27",
+    "Total": 642,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240128",
+            "fullstartdate": "202401282300",
+            "enddate": "20240129",
+            "url": "/th?id=OHR.GollingerFalls_IT-IT3317217540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GollingerFalls_IT-IT3317217540",
+            "copyright": "Cascata di Gollinger, Tennengau, Salisburgo, Austria (© Frank Fischbach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Salisburghese+dove+%C3%A8+&form=hpcapt",
+            "title": "In caduta libera!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240128_GollingerFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d7d37ddb5698c998b90d00263dc50f3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240127",
             "fullstartdate": "202401272300",
