@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-28 00:48:10",
-    "Total": 640,
+    "LastUpdate": "2024-01-29 00:48:10",
+    "Total": 641,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240128",
+            "fullstartdate": "202401280500",
+            "enddate": "20240129",
+            "url": "/th?id=OHR.ChannelOutback_EN-CA2352335616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChannelOutback_EN-CA2352335616",
+            "copyright": "Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Channel+Country+Australia&form=hpcapt&filters=HpDate%3a%2220240128_0500%22",
+            "title": "From parched to pastoral",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240128_ChannelOutback%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f79eab930b482bea2ed3061addd2ae2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240127",
             "fullstartdate": "202401270500",
