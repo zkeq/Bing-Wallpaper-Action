@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-29 00:48:18",
-    "Total": 642,
+    "LastUpdate": "2024-01-30 00:48:14",
+    "Total": 643,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240129",
+            "fullstartdate": "202401291830",
+            "enddate": "20240130",
+            "url": "/th?id=OHR.MartyrsDayIndia_EN-IN0212578144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MartyrsDayIndia_EN-IN0212578144",
+            "copyright": "The biggest Mahatma Gandhi statue in Pondicherry (© Geraint Rowland Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Martyrs+day&form=hpcapt&filters=HpDate%3a%2220240129_1830%22",
+            "title": "A sculpted symbol of freedom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240129_MartyrsDayIndia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0eed7673a6257fa9dc41e2f7f46f0027",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240128",
             "fullstartdate": "202401281830",
