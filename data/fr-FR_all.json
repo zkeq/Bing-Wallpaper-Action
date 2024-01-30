@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-29 00:48:23",
-    "Total": 642,
+    "LastUpdate": "2024-01-30 00:48:18",
+    "Total": 643,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240129",
+            "fullstartdate": "202401292300",
+            "enddate": "20240130",
+            "url": "/th?id=OHR.AlbaceteSpain_FR-FR3668738448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlbaceteSpain_FR-FR3668738448",
+            "copyright": "Ayna, Sierra del Segura, Albacete, Espagne  (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ayna+village+Albacete+Espagne&form=hpcapt&filters=HpDate%3a%2220240129_2300%22",
+            "title": "La petite Suisse espagnole !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240129_AlbaceteSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34003b4aa011d2eb421d0ca9b6962dd7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240128",
             "fullstartdate": "202401282300",
