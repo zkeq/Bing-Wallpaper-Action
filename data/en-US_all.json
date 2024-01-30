@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-29 00:47:57",
-    "Total": 642,
+    "LastUpdate": "2024-01-30 00:47:52",
+    "Total": 643,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240129",
+            "fullstartdate": "202401290800",
+            "enddate": "20240130",
+            "url": "/th?id=OHR.GollingerFalls_EN-US7184224692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GollingerFalls_EN-US7184224692",
+            "copyright": "Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Salzburg+federal+state+Austria&form=hpcapt&filters=HpDate%3a%2220240129_0800%22",
+            "title": "An icy descent",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240129_GollingerFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1bc60480cc09913109a122d09877421b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240128",
             "fullstartdate": "202401280800",
