@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-29 00:48:10",
-    "Total": 641,
+    "LastUpdate": "2024-01-30 00:48:05",
+    "Total": 642,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240129",
+            "fullstartdate": "202401290500",
+            "enddate": "20240130",
+            "url": "/th?id=OHR.GollingerFalls_EN-CA5492770721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GollingerFalls_EN-CA5492770721",
+            "copyright": "Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Salzburg+federal+state+Austria&form=hpcapt&filters=HpDate%3a%2220240129_0500%22",
+            "title": "A gentle descent",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240129_GollingerFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d0c69b9f921112b4d500414276e4236",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240128",
             "fullstartdate": "202401280500",
