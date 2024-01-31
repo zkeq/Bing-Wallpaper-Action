@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-30 00:48:18",
-    "Total": 643,
+    "LastUpdate": "2024-01-31 00:48:28",
+    "Total": 644,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240130",
+            "fullstartdate": "202401302300",
+            "enddate": "20240131",
+            "url": "/th?id=OHR.ZebraMother_FR-FR5676160511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZebraMother_FR-FR5676160511",
+            "copyright": "Zèbre de Burchell, mère et poulain, réserve naturelle de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Burchell&form=hpcapt&filters=HpDate%3a%2220240130_2300%22",
+            "title": "La rayure, tendance mode !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240130_ZebraMother%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a34b49ad1cfac829776602fb5706f6a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240129",
             "fullstartdate": "202401292300",
