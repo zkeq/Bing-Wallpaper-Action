@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-31 00:48:11",
-    "Total": 644,
+    "LastUpdate": "2024-02-01 00:48:17",
+    "Total": 645,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240131",
+            "fullstartdate": "202401312300",
+            "enddate": "20240201",
+            "url": "/th?id=OHR.HalbinselJasmund_DE-DE8684103043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalbinselJasmund_DE-DE8684103043",
+            "copyright": "Sassnitz Leuchtturm, Rügen, Mecklenburg-Vorpommern (© Christian Back/eStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Sassnitz&form=hpcapt&filters=HpDate%3a%2220240131_2300%22",
+            "title": "Leuchtender Schneeturm",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_HalbinselJasmund%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f896e5213ce7e6e104911381d5b4c18b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240130",
             "fullstartdate": "202401302300",
