@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-31 00:48:03",
-    "Total": 644,
+    "LastUpdate": "2024-02-01 00:48:09",
+    "Total": 645,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240131",
+            "fullstartdate": "202401310800",
+            "enddate": "20240201",
+            "url": "/th?id=OHR.ZebraMother_EN-US7544209908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZebraMother_EN-US7544209908",
+            "copyright": "Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Burchell%27s+Zebra&form=hpcapt&filters=HpDate%3a%2220240131_0800%22",
+            "title": "Stripe a pose",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_ZebraMother%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5556a1dc2933318e573fef2c8e58b308",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240130",
             "fullstartdate": "202401300800",
