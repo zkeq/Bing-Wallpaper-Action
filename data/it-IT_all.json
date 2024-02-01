@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-31 00:48:33",
-    "Total": 644,
+    "LastUpdate": "2024-02-01 00:48:39",
+    "Total": 645,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240131",
+            "fullstartdate": "202401312300",
+            "enddate": "20240201",
+            "url": "/th?id=OHR.HalbinselJasmund_IT-IT4499863722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalbinselJasmund_IT-IT4499863722",
+            "copyright": "Faro di Sassnitz sull’isola di Rüge, Germania (© Christian Back/eStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Sassnitz+Germania+dov%27%C3%A8&form=hpcapt",
+            "title": "Terra in vista!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_HalbinselJasmund%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "580fe1a595ea7806192384c319c8517b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240130",
             "fullstartdate": "202401302300",
