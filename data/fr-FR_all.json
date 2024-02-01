@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-01-31 00:48:28",
-    "Total": 644,
+    "LastUpdate": "2024-02-01 00:48:35",
+    "Total": 645,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240131",
+            "fullstartdate": "202401312300",
+            "enddate": "20240201",
+            "url": "/th?id=OHR.HalbinselJasmund_FR-FR6083504122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalbinselJasmund_FR-FR6083504122",
+            "copyright": "Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Sassnitz+Pom%C3%A9ranie&form=hpcapt&filters=HpDate%3a%2220240131_2300%22",
+            "title": "Un phare enchanteur et enneigé",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_HalbinselJasmund%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d0fe34afa2b53152a30aecca4e5a66a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240130",
             "fullstartdate": "202401302300",
