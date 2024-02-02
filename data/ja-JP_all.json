@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:13",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:47:52",
+    "Total": 646,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402011500",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.AlpineMarmot_JA-JP5712211606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_JA-JP5712211606",
+            "copyright": "巣穴から顔を出すマーモット (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%A2%E3%83%83%E3%83%88&form=hpcapt&filters=HpDate%3a%2220240201_1500%22",
+            "title": "今日はグラウンドホッグデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f03240c6a1b6ac4ba9de60eab5ea54a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401311500",
