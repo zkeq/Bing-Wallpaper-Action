@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:09",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:47:48",
+    "Total": 646,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402010800",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.DizzyGillespie_EN-US7637800342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DizzyGillespie_EN-US7637800342",
+            "copyright": "Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=black+history+month&form=hpcapt&filters=HpDate%3a%2220240201_0800%22",
+            "title": "Black History Month",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_DizzyGillespie%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "28bf4baaf72eb43e27954bf980a38424",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401310800",
