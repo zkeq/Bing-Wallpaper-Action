@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:03",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:47:42",
+    "Total": 646,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402011600",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_ZH-CN3818584615",
+            "copyright": "从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "菲尔会看到它的影子吗?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b3739025c18f8685419830ff3da694b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401311600",
