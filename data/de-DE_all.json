@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:17",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:47:56",
+    "Total": 646,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402012300",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.AlpineMarmot_DE-DE8110603230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_DE-DE8110603230",
+            "copyright": "Murmeltier lugt aus seinem Bau hervor (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=murmeltiertag&form=hpcapt&filters=HpDate%3a%2220240201_2300%22",
+            "title": "Und täglich grüßt das Murmeltier",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c84aa433ca70272f092c0f34750a6be9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401312300",
