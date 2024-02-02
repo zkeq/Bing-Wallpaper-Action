@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:39",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:48:19",
+    "Total": 646,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402012300",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.AlpineMarmot_IT-IT3513060995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_IT-IT3513060995",
+            "copyright": "Marmotta che sbircia fuori dalla sua tana (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giorno+della+marmotta&form=hpcapt",
+            "title": "Phil vedrà la sua ombra?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b09b02d53c41d6a078b428fd79e7fea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401312300",
