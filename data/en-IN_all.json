@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-01 00:48:30",
-    "Total": 645,
+    "LastUpdate": "2024-02-02 00:48:10",
+    "Total": 646,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240201",
+            "fullstartdate": "202402011830",
+            "enddate": "20240202",
+            "url": "/th?id=OHR.AlpineMarmot_EN-IN2558708163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_EN-IN2558708163",
+            "copyright": "Marmot peeking out of its burrow (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=alpine+marmot&form=hpcapt&filters=HpDate%3a%2220240201_1830%22",
+            "title": "Looking right at you!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88e8fdec2aca544d94c244b719708239",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240131",
             "fullstartdate": "202401311830",
