@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:47:56",
-    "Total": 646,
+    "LastUpdate": "2024-02-03 00:47:58",
+    "Total": 647,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240202",
+            "fullstartdate": "202402022300",
+            "enddate": "20240203",
+            "url": "/th?id=OHR.VeniceCarnival_DE-DE9873730280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceCarnival_DE-DE9873730280",
+            "copyright": "Canal Grande mit der Basilika Santa Maria della Salute, Venedig, Italien (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Historische+Karneval+in+Venedig&form=hpcapt&filters=HpDate%3a%2220240202_2300%22",
+            "title": "Bereit für den Masken-Tanz in der Stadt der Kanäle und der Extravaganz?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_VeniceCarnival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5b4e80375b75c81ef209aea994d4fb30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240201",
             "fullstartdate": "202402012300",
