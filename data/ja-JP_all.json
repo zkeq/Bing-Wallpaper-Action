@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:47:52",
-    "Total": 646,
+    "LastUpdate": "2024-02-03 00:47:54",
+    "Total": 647,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240202",
+            "fullstartdate": "202402021500",
+            "enddate": "20240203",
+            "url": "/th?id=OHR.Hakodate2024_JA-JP0227242180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hakodate2024_JA-JP0227242180",
+            "copyright": "函館山から見る夜景, 北海道 函館市 (© Hiro1775/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%87%BD%E9%A4%A8%E5%B1%B1%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E5%A4%9C%E6%99%AF&form=hpcapt&filters=HpDate%3a%2220240202_1500%22",
+            "title": "今日は「はこだて冬花火」の開催日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_Hakodate2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9fcc52b7139d599cb038009493161235",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240201",
             "fullstartdate": "202402011500",
