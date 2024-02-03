@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:48:14",
-    "Total": 646,
+    "LastUpdate": "2024-02-03 00:48:15",
+    "Total": 647,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240202",
+            "fullstartdate": "202402022300",
+            "enddate": "20240203",
+            "url": "/th?id=OHR.VeniceCarnival_FR-FR7084522294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceCarnival_FR-FR7084522294",
+            "copyright": "Grand Canal et basilique Santa Maria della Salute, Venise, Italie (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=carnaval+de+venise&form=hpcapt&filters=HpDate%3a%2220240202_2300%22",
+            "title": "Jeux de masques",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_VeniceCarnival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c1b483df202a1b2ee912e613c4ed215c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240201",
             "fullstartdate": "202402012300",
