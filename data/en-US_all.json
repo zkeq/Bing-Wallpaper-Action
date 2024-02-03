@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:47:48",
-    "Total": 646,
+    "LastUpdate": "2024-02-03 00:47:49",
+    "Total": 647,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240202",
+            "fullstartdate": "202402020800",
+            "enddate": "20240203",
+            "url": "/th?id=OHR.AlpineMarmot_EN-US6895103237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmot_EN-US6895103237",
+            "copyright": "Marmot peeking out of its burrow (© Scacciamosche/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=groundhog+day+holiday&form=hpcapt&filters=HpDate%3a%2220240202_0800%22",
+            "title": "Will Phil see his shadow?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_AlpineMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "09677b792e871f24ba86be176850929c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240201",
             "fullstartdate": "202402010800",
