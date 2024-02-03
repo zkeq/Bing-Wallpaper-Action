@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:48:05",
-    "Total": 645,
+    "LastUpdate": "2024-02-03 00:48:06",
+    "Total": 646,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240203",
+            "fullstartdate": "202402030000",
+            "enddate": "20240204",
+            "url": "/th?id=OHR.VeniceCarnival_EN-GB9928247347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceCarnival_EN-GB9928247347",
+            "copyright": "Grand Canal, Venice, Italy (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Carnival+of+venice+history&form=hpcapt&filters=HpDate%3a%2220240203_0000%22",
+            "title": "Days of disguises",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_VeniceCarnival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9be0688e6e833d8a00294c9899bcb3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240202",
             "fullstartdate": "202402020000",
