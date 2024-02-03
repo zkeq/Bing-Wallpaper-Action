@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-02 00:48:10",
-    "Total": 646,
+    "LastUpdate": "2024-02-03 00:48:11",
+    "Total": 647,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240202",
+            "fullstartdate": "202402021830",
+            "enddate": "20240203",
+            "url": "/th?id=OHR.VeniceCarnival_EN-IN3995000071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceCarnival_EN-IN3995000071",
+            "copyright": "Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Maria+della+Salute+Basilica&form=hpcapt&filters=HpDate%3a%2220240202_1830%22",
+            "title": "City of golden hues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_VeniceCarnival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "39023cfb5ff385710f9919b76f5236fe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240201",
             "fullstartdate": "202402011830",
