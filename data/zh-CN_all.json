@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-03 00:47:44",
-    "Total": 647,
+    "LastUpdate": "2024-02-04 00:48:04",
+    "Total": 648,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240203",
+            "fullstartdate": "202402031600",
+            "enddate": "20240204",
+            "url": "/th?id=OHR.DevetashkaCave_ZH-CN5186222166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevetashkaCave_ZH-CN5186222166",
+            "copyright": "德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%BE%B7%E5%BC%97%E5%A1%94%E4%BB%80%E5%8D%A1%E6%B4%9E&form=hpcapt&mkt=zh-cn",
+            "title": "雄伟的天然穹顶",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_DevetashkaCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c270ce0fb76efb254ae87ede9785fb87",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240202",
             "fullstartdate": "202402021600",
