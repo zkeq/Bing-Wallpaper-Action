@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-03 00:48:11",
-    "Total": 647,
+    "LastUpdate": "2024-02-04 00:48:31",
+    "Total": 648,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240203",
+            "fullstartdate": "202402031830",
+            "enddate": "20240204",
+            "url": "/th?id=OHR.DevetashkaCave_EN-IN5940085595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevetashkaCave_EN-IN5940085595",
+            "copyright": "Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Devetashka+Cave+Devetaki+Bulgaria&form=hpcapt&filters=HpDate%3a%2220240203_1830%22",
+            "title": "The skylights are a nice touch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_DevetashkaCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a1643780b6f4c913f794232e2dd207c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240202",
             "fullstartdate": "202402021830",
