@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-03 00:48:15",
-    "Total": 647,
+    "LastUpdate": "2024-02-04 00:48:35",
+    "Total": 648,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240203",
+            "fullstartdate": "202402032300",
+            "enddate": "20240204",
+            "url": "/th?id=OHR.DevetashkaCave_FR-FR4993374932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevetashkaCave_FR-FR4993374932",
+            "copyright": "Grotte de Devetashka, Devetaki, Bulgarie (© Jasmine_K/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=la+grotte+de+Devetashka&form=hpcapt&filters=HpDate%3a%2220240203_2300%22",
+            "title": "Le loft de l’âge de pierre !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_DevetashkaCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66ffbda48b8e442fb41d3b98b12bb847",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240202",
             "fullstartdate": "202402022300",
