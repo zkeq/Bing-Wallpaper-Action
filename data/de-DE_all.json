@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-03 00:47:58",
-    "Total": 647,
+    "LastUpdate": "2024-02-04 00:48:18",
+    "Total": 648,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240203",
+            "fullstartdate": "202402032300",
+            "enddate": "20240204",
+            "url": "/th?id=OHR.DevetashkaCave_DE-DE0726583850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevetashkaCave_DE-DE0726583850",
+            "copyright": "Devetashka-Höhle, Devetaki, Bulgarien (© Jasmine_K/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Devetashka+H%C3%B6hle+Devetaki+Bulgarien&form=hpcapt&filters=HpDate%3a%2220240203_2300%22",
+            "title": "Haben Sie Angst vor Fledermäusen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_DevetashkaCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f1d6e1d71b65a065932b072596ca7862",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240202",
             "fullstartdate": "202402022300",
