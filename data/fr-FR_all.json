@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-04 00:48:35",
-    "Total": 648,
+    "LastUpdate": "2024-02-05 00:48:26",
+    "Total": 649,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240204",
+            "fullstartdate": "202402042300",
+            "enddate": "20240205",
+            "url": "/th?id=OHR.WesternMonarchs_FR-FR5198463793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WesternMonarchs_FR-FR5198463793",
+            "copyright": "Papillons monarques, Goleta, Californie, États-Unis (© Craig Rademacher/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=monarque+esp%C3%A8ce&form=hpcapt&filters=HpDate%3a%2220240204_2300%22",
+            "title": "Minute, papillon !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240204_WesternMonarchs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35c5fb88efd11c6dee5c7ec93ed98371",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240203",
             "fullstartdate": "202402032300",
