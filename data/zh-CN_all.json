@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-04 00:48:04",
-    "Total": 648,
+    "LastUpdate": "2024-02-05 00:47:54",
+    "Total": 649,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240204",
+            "fullstartdate": "202402041600",
+            "enddate": "20240205",
+            "url": "/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeBledSunrise_ZH-CN5580697031",
+            "copyright": "从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E5%BE%B7%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "唤醒沉睡的湖泊",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240204_LakeBledSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b223842de964cdb039397910a3c0e27e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240203",
             "fullstartdate": "202402031600",
