@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-05 00:48:08",
-    "Total": 649,
+    "LastUpdate": "2024-02-06 00:47:56",
+    "Total": 650,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240205",
+            "fullstartdate": "202402052300",
+            "enddate": "20240206",
+            "url": "/th?id=OHR.LakeTahoeRock_DE-DE1626232597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeTahoeRock_DE-DE1626232597",
+            "copyright": "Bonsai Rock, Lake Tahoe, USA (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Tahoe+See%2c+USA+&form=hpcapt&filters=HpDate%3a%2220240205_2300%22",
+            "title": "Bonsais auf Felsen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240205_LakeTahoeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5be38eac9b9e7463ef0251a2a38c432b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240204",
             "fullstartdate": "202402042300",
