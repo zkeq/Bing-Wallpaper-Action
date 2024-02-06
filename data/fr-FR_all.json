@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-05 00:48:26",
-    "Total": 649,
+    "LastUpdate": "2024-02-06 00:48:13",
+    "Total": 650,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240205",
+            "fullstartdate": "202402052300",
+            "enddate": "20240206",
+            "url": "/th?id=OHR.LakeTahoeRock_FR-FR6130128094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeTahoeRock_FR-FR6130128094",
+            "copyright": "Bonsai Rock, lac Tahoe, États-Unis (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=le+lac+tahoe+Am%C3%A9rique&form=hpcapt&filters=HpDate%3a%2220240205_2300%22",
+            "title": "Les bonsaïs de la nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240205_LakeTahoeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20f9724194ae8eb1b3335d29d3ba69e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240204",
             "fullstartdate": "202402042300",
