@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-05 00:48:30",
-    "Total": 649,
+    "LastUpdate": "2024-02-06 00:48:17",
+    "Total": 650,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240205",
+            "fullstartdate": "202402052300",
+            "enddate": "20240206",
+            "url": "/th?id=OHR.SanremoFestival_IT-IT4644793189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanremoFestival_IT-IT4644793189",
+            "copyright": "Città di Sanremo di notte (© Surkov Dimitri/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Festival+di+Sanremo&form=hpcapt",
+            "title": "Chi vincerà il Festival di Sanremo?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240205_SanremoFestival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dada4689dcbe5ee5dd5521c4580ef54a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240204",
             "fullstartdate": "202402042300",
