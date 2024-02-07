@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-06 00:48:09",
-    "Total": 650,
+    "LastUpdate": "2024-02-07 00:48:06",
+    "Total": 651,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240206",
+            "fullstartdate": "202402061830",
+            "enddate": "20240207",
+            "url": "/th?id=OHR.StJamesPool_EN-IN9666211879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StJamesPool_EN-IN9666211879",
+            "copyright": "St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)",
+            "copyrightlink": "https://www.bing.com/search?q=cape+town&form=hpcapt&filters=HpDate%3a%2220240206_1830%22",
+            "title": "Sanctuary in the surf",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_StJamesPool%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c13590c5635e1105caeb0ddc3ed408e8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240205",
             "fullstartdate": "202402051830",
