@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-06 00:48:13",
-    "Total": 650,
+    "LastUpdate": "2024-02-07 00:48:11",
+    "Total": 651,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240206",
+            "fullstartdate": "202402062300",
+            "enddate": "20240207",
+            "url": "/th?id=OHR.StJamesPool_FR-FR6584771825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StJamesPool_FR-FR6584771825",
+            "copyright": "Piscine Tidal, plage St James, Le Cap, Afrique du Sud (© AmazingAerialAgency/Adobe)",
+            "copyrightlink": "https://www.bing.com/search?q=le+cap&form=hpcapt&filters=HpDate%3a%2220240206_2300%22",
+            "title": "Un sanctuaire dans les vagues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_StJamesPool%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44dac303ff733f5915e5c1bd9d78496d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240205",
             "fullstartdate": "202402052300",
