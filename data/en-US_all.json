@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-06 00:47:48",
-    "Total": 650,
+    "LastUpdate": "2024-02-07 00:47:44",
+    "Total": 651,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240206",
+            "fullstartdate": "202402060800",
+            "enddate": "20240207",
+            "url": "/th?id=OHR.LakeTahoeRock_EN-US8513392756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeTahoeRock_EN-US8513392756",
+            "copyright": "Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Tahoe+California+Nevada&form=hpcapt&filters=HpDate%3a%2220240206_0800%22",
+            "title": "Taking root on Bonsai Rock",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_LakeTahoeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "76c3103a6ac46452d01c9b4418770169",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240205",
             "fullstartdate": "202402050800",
