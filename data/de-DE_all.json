@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-06 00:47:56",
-    "Total": 650,
+    "LastUpdate": "2024-02-07 00:47:53",
+    "Total": 651,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240206",
+            "fullstartdate": "202402062300",
+            "enddate": "20240207",
+            "url": "/th?id=OHR.StJamesPool_DE-DE1729086692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StJamesPool_DE-DE1729086692",
+            "copyright": "St. James Tidal Pool, Kapstadt, Südafrika (© AmazingAerialAgency/Adobe)",
+            "copyrightlink": "https://www.bing.com/search?q=Kapstadt&form=hpcapt&filters=HpDate%3a%2220240206_2300%22",
+            "title": "Kaps und Hoffnungen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_StJamesPool%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d98ca91659c2f96c2c72f219baa6b454",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240205",
             "fullstartdate": "202402052300",
