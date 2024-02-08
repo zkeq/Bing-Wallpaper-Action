@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-07 00:47:53",
-    "Total": 651,
+    "LastUpdate": "2024-02-08 00:47:57",
+    "Total": 652,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240207",
+            "fullstartdate": "202402072300",
+            "enddate": "20240208",
+            "url": "/th?id=OHR.MtHoodOregon_DE-DE1892795022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtHoodOregon_DE-DE1892795022",
+            "copyright": "Mount Hood, Stratovulkan, Oregon, USA (© Inigo Cia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Stratovulkan+Mount+Hood&form=hpcapt&filters=HpDate%3a%2220240207_2300%22",
+            "title": "Ein schlafender Riese",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240207_MtHoodOregon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90013488edb666fe26e952da1aa17984",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240206",
             "fullstartdate": "202402062300",
