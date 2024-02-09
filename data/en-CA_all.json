@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-08 00:48:01",
-    "Total": 651,
+    "LastUpdate": "2024-02-09 00:47:53",
+    "Total": 652,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240208",
+            "fullstartdate": "202402080500",
+            "enddate": "20240209",
+            "url": "/th?id=OHR.MtHoodOregon_EN-CA4458868395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtHoodOregon_EN-CA4458868395",
+            "copyright": "Mount Hood, Oregon (© Inigo Cia/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Hood&form=hpcapt&filters=HpDate%3a%2220240208_0500%22",
+            "title": "A sleeping giant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240208_MtHoodOregon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c25ca62d6ce90f07fdb0b52dd1750f53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240207",
             "fullstartdate": "202402070500",
