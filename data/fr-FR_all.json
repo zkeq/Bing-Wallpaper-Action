@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-08 00:48:14",
-    "Total": 652,
+    "LastUpdate": "2024-02-09 00:48:06",
+    "Total": 653,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240208",
+            "fullstartdate": "202402082300",
+            "enddate": "20240209",
+            "url": "/th?id=OHR.PegadungRocks_FR-FR0984354515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PegadungRocks_FR-FR0984354515",
+            "copyright": "Rocher de Pegadung, Lampung, Sumatra, Indonésie (© CK NG/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lampung+Indon%C3%A9sie&form=hpcapt&filters=HpDate%3a%2220240208_2300%22",
+            "title": "Pierres qui roulent…",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240208_PegadungRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "044cd9c18659e26d43fcb25e5357c5e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240207",
             "fullstartdate": "202402072300",
