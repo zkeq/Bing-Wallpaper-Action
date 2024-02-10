@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-09 00:48:10",
-    "Total": 653,
+    "LastUpdate": "2024-02-10 00:48:11",
+    "Total": 654,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240209",
+            "fullstartdate": "202402092300",
+            "enddate": "20240210",
+            "url": "/th?id=OHR.ChinaDragon_IT-IT5937378207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChinaDragon_IT-IT5937378207",
+            "copyright": "Capodanno lunare, Luzhou, Cina (© Liu Guoxing/VCG via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Capodanno+lunare+cos%27%C3%A8+&form=hpcapt",
+            "title": "L’anno del dragone!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_ChinaDragon%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7394c2c9bbae2c9270c028643adf8351",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240208",
             "fullstartdate": "202402082300",
