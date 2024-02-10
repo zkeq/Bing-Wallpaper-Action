@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-09 00:47:53",
-    "Total": 652,
+    "LastUpdate": "2024-02-10 00:47:54",
+    "Total": 653,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240209",
+            "fullstartdate": "202402090500",
+            "enddate": "20240210",
+            "url": "/th?id=OHR.PegadungRocks_EN-CA1944880628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PegadungRocks_EN-CA1944880628",
+            "copyright": "Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lampung+Sumatra+Indonesia&form=hpcapt&filters=HpDate%3a%2220240209_0500%22",
+            "title": "Rocks and roll",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_PegadungRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "101a1fe38f15d3b096148444d9259081",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240208",
             "fullstartdate": "202402080500",
