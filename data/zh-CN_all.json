@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-09 00:47:34",
-    "Total": 653,
+    "LastUpdate": "2024-02-10 00:47:35",
+    "Total": 654,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240209",
+            "fullstartdate": "202402091600",
+            "enddate": "20240210",
+            "url": "/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringFestival2024_ZH-CN7514007541",
+            "copyright": "中国舞狮，大年初一 (© SENEZ/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "福起新岁，万事顺意",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_SpringFestival2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "114658c43fbc362503e6cfe26acdf00d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240208",
             "fullstartdate": "202402081600",
