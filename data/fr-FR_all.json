@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-09 00:48:06",
-    "Total": 653,
+    "LastUpdate": "2024-02-10 00:48:07",
+    "Total": 654,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240209",
+            "fullstartdate": "202402092300",
+            "enddate": "20240210",
+            "url": "/th?id=OHR.ChinaDragon_FR-FR1214192528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChinaDragon_FR-FR1214192528",
+            "copyright": "Nouvel An chinois, Luzhou, Chine (© Liu Guoxing/VCG via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=nouvel+an+chinois&form=hpcapt&filters=HpDate%3a%2220240209_2300%22",
+            "title": "Bienvenue dans l'année du Dragon !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_ChinaDragon%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7e4513a7dfd6d55cbdd36504e0ee230d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240208",
             "fullstartdate": "202402082300",
