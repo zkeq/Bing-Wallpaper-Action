@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-10 00:47:45",
-    "Total": 654,
+    "LastUpdate": "2024-02-11 00:48:03",
+    "Total": 655,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240210",
+            "fullstartdate": "202402101500",
+            "enddate": "20240211",
+            "url": "/th?id=OHR.FolegandrosGreece_JA-JP6408429847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FolegandrosGreece_JA-JP6408429847",
+            "copyright": "フォレガンドロス島, ギリシャ (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%95%E3%82%A9%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%89%E3%83%AD%E3%82%B9%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240210_1500%22",
+            "title": "崖の上に建つ町",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240210_FolegandrosGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a31cadfa2ede7015fc12e4a1db56ef80",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240209",
             "fullstartdate": "202402091500",
