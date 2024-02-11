@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-10 00:47:49",
-    "Total": 654,
+    "LastUpdate": "2024-02-11 00:48:08",
+    "Total": 655,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240210",
+            "fullstartdate": "202402102300",
+            "enddate": "20240211",
+            "url": "/th?id=OHR.FolegandrosGreece_DE-DE3993128464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FolegandrosGreece_DE-DE3993128464",
+            "copyright": "Chora, Insel Folegandros, Kykladen, Griechenland (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Folegandros+Insel+Griechenland&form=hpcapt&filters=HpDate%3a%2220240210_2300%22",
+            "title": "Paradies auf Griechisch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240210_FolegandrosGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4eaf4042675805680b0258619e4eec0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240209",
             "fullstartdate": "202402092300",
