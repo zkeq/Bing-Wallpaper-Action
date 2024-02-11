@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-10 00:47:54",
-    "Total": 653,
+    "LastUpdate": "2024-02-11 00:48:12",
+    "Total": 654,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240210",
+            "fullstartdate": "202402100500",
+            "enddate": "20240211",
+            "url": "/th?id=OHR.ChineseNYParade_EN-CA8193422091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChineseNYParade_EN-CA8193422091",
+            "copyright": "Chinese New Year Parade, Vancouver, British Columbia, Canada (© Michael Wheatley/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Chinese+New+Year&form=hpcapt&filters=HpDate%3a%2220240210_0500%22",
+            "title": "Welcome to the Year of the Dragon!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240210_ChineseNYParade%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de0881646c1c3a43a4396abb5854d8b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240209",
             "fullstartdate": "202402090500",
