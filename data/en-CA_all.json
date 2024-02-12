@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-11 00:48:12",
-    "Total": 654,
+    "LastUpdate": "2024-02-12 00:48:04",
+    "Total": 655,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240211",
+            "fullstartdate": "202402110500",
+            "enddate": "20240212",
+            "url": "/th?id=OHR.FolegandrosGreece_EN-CA9478453572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FolegandrosGreece_EN-CA9478453572",
+            "copyright": "Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Folegandros+Island+Greece&form=hpcapt&filters=HpDate%3a%2220240211_0500%22",
+            "title": "Elysium on Earth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240211_FolegandrosGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1c7c4b37ff474fbbd9e5beb4a6a073b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240210",
             "fullstartdate": "202402100500",
