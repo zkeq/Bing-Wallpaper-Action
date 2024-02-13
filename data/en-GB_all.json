@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:48:08",
-    "Total": 655,
+    "LastUpdate": "2024-02-13 00:48:10",
+    "Total": 656,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240213",
+            "fullstartdate": "202402130000",
+            "enddate": "20240214",
+            "url": "/th?id=OHR.MarignyBeads_EN-GB6455478514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarignyBeads_EN-GB6455478514",
+            "copyright": "Mardi Gras beads in the Marigny, New Orleans, USA (© Erik Pronske Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mardi+Gras&form=hpcapt&filters=HpDate%3a%2220240213_0000%22",
+            "title": "Let the good times roll!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240213_MarignyBeads%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8adbcf6ff4041a2b0aa01e3bd41687ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240212",
             "fullstartdate": "202402120000",
