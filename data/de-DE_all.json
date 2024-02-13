@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:48:00",
-    "Total": 656,
+    "LastUpdate": "2024-02-13 00:48:01",
+    "Total": 657,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240212",
+            "fullstartdate": "202402122300",
+            "enddate": "20240213",
+            "url": "/th?id=OHR.MarignyBeads_DE-DE5830440814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarignyBeads_DE-DE5830440814",
+            "copyright": "Mardi Gras im Stadtteil Marigny, New Orleans, USA (© Erik Pronske Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mardi+Gras&form=hpcapt&filters=HpDate%3a%2220240212_2300%22",
+            "title": "Helau und Alaaf!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_MarignyBeads%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22e8c82211ac20b854f95905f7caf649",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240211",
             "fullstartdate": "202402112300",
