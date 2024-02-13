@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:48:04",
-    "Total": 655,
+    "LastUpdate": "2024-02-13 00:48:06",
+    "Total": 656,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240212",
+            "fullstartdate": "202402120500",
+            "enddate": "20240213",
+            "url": "/th?id=OHR.GiantTortoise_EN-CA0647448469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantTortoise_EN-CA0647448469",
+            "copyright": "Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Galapagos+Islands+Ecuador&form=hpcapt&filters=HpDate%3a%2220240212_0500%22",
+            "title": "Home sweet volcano",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_GiantTortoise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "021ca49757cbeaf0654fbca18cce8533",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240211",
             "fullstartdate": "202402110500",
