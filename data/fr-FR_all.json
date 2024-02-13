@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:48:17",
-    "Total": 656,
+    "LastUpdate": "2024-02-13 00:48:18",
+    "Total": 657,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240212",
+            "fullstartdate": "202402122300",
+            "enddate": "20240213",
+            "url": "/th?id=OHR.MarignyBeads_FR-FR2441069115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarignyBeads_FR-FR2441069115",
+            "copyright": "Perles de Mardi Gras dans le quartier de Marigny, Nouvelle-Orléans, États-Unis (© Erik Pronske Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mardi+Gras&form=hpcapt&filters=HpDate%3a%2220240212_2300%22",
+            "title": "Que la fête commence !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_MarignyBeads%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "039115bcfa81e40e77013dacf0061d75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240211",
             "fullstartdate": "202402112300",
