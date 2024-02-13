@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:48:13",
-    "Total": 656,
+    "LastUpdate": "2024-02-13 00:48:14",
+    "Total": 657,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240212",
+            "fullstartdate": "202402121830",
+            "enddate": "20240213",
+            "url": "/th?id=OHR.MarignyBeads_EN-IN9891323909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarignyBeads_EN-IN9891323909",
+            "copyright": "Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mardi+gras+beads&form=hpcapt&filters=HpDate%3a%2220240212_1830%22",
+            "title": "Strands of celebration",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_MarignyBeads%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4dc8efb2985190b73ef86198aa4e0f88",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240211",
             "fullstartdate": "202402111830",
