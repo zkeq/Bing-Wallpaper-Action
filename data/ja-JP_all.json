@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-12 00:47:55",
-    "Total": 656,
+    "LastUpdate": "2024-02-13 00:47:57",
+    "Total": 657,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240212",
+            "fullstartdate": "202402121500",
+            "enddate": "20240213",
+            "url": "/th?id=OHR.MarignyBeads_JA-JP4162697836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarignyBeads_JA-JP4162697836",
+            "copyright": "カラフルなビーズの首飾り, 米国 ルイジアナ州 (© Erik Pronske Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B0%E3%83%A9%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220240212_1500%22",
+            "title": "今日はマルディグラの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_MarignyBeads%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bd7b74ea863514e97e09500ebcb82f94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240211",
             "fullstartdate": "202402111500",
