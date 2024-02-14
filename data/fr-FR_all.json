@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-13 00:48:18",
-    "Total": 657,
+    "LastUpdate": "2024-02-14 00:48:19",
+    "Total": 658,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240213",
+            "fullstartdate": "202402132300",
+            "enddate": "20240214",
+            "url": "/th?id=OHR.BowingCrane_FR-FR5228524278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BowingCrane_FR-FR5228524278",
+            "copyright": "Grue du Japon s'inclinant devant son compagnon à Hokkaido, Japon (© Steve Bloom Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Saint-Valentin&form=hpcapt&filters=HpDate%3a%2220240213_2300%22",
+            "title": "L'amour est un oiseau rebelle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240213_BowingCrane%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9233c548fb76548cb97935d87d8e7a7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240212",
             "fullstartdate": "202402122300",
