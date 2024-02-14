@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-13 00:48:14",
-    "Total": 657,
+    "LastUpdate": "2024-02-14 00:48:14",
+    "Total": 658,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240213",
+            "fullstartdate": "202402131830",
+            "enddate": "20240214",
+            "url": "/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VasantPanchamiIN_EN-IN0210941348",
+            "copyright": "Vasant Panchmi celebration in Noida, India (© Burhaan Kinu/Hindustan Times via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vasant+Panchami&form=hpcapt&filters=HpDate%3a%2220240213_1830%22",
+            "title": "Offerings for the spring",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240213_VasantPanchamiIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5f49a359a4771de4039ba2119b2a626",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240212",
             "fullstartdate": "202402121830",
