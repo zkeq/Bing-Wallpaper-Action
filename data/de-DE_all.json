@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-14 00:48:01",
-    "Total": 658,
+    "LastUpdate": "2024-02-15 00:47:58",
+    "Total": 659,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240214",
+            "fullstartdate": "202402142300",
+            "enddate": "20240215",
+            "url": "/th?id=OHR.BerlinalePalast_DE-DE2536739383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerlinalePalast_DE-DE2536739383",
+            "copyright": "Berlinale, roter Teppich am Potsdamer Platz, Berlin (© Cineberg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Berlinale+2024&form=hpcapt&filters=HpDate%3a%2220240214_2300%22",
+            "title": "Der rote Teppich ist ausgerollt!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240214_BerlinalePalast%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a88a543173a494904fbc71b6f7790c02",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240213",
             "fullstartdate": "202402132300",
