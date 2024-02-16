@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-15 00:47:58",
-    "Total": 659,
+    "LastUpdate": "2024-02-16 00:47:56",
+    "Total": 660,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240215",
+            "fullstartdate": "202402152300",
+            "enddate": "20240216",
+            "url": "/th?id=OHR.BackyardBird_DE-DE3770277310_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BackyardBird_DE-DE3770277310",
+            "copyright": "Ein Wüstenkardinal sitzt auf einem stacheligen Kaktus in Texas, USA (© outtakes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Backyard+Bird+Count&form=hpcapt&filters=HpDate%3a%2220240215_2300%22",
+            "title": "Jeder Vogel zählt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240215_BackyardBird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ea8acf6823c302e5f3637cf37c6137b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240214",
             "fullstartdate": "202402142300",
