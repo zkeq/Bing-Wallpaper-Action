@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-15 00:48:07",
-    "Total": 658,
+    "LastUpdate": "2024-02-16 00:48:05",
+    "Total": 659,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240216",
+            "fullstartdate": "202402160000",
+            "enddate": "20240217",
+            "url": "/th?id=OHR.BackyardBird_EN-GB7177541567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BackyardBird_EN-GB7177541567",
+            "copyright": "Female pyrrhuloxia, Texas, USA (© outtakes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pyrrhuloxia+songbird&form=hpcapt&filters=HpDate%3a%2220240216_0000%22",
+            "title": "Dapper in the desert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_BackyardBird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "be98f86315350c0a82a2b830ab962e20",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240215",
             "fullstartdate": "202402150000",
