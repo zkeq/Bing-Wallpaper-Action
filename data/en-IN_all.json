@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-15 00:48:11",
-    "Total": 659,
+    "LastUpdate": "2024-02-16 00:48:09",
+    "Total": 660,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240215",
+            "fullstartdate": "202402151830",
+            "enddate": "20240216",
+            "url": "/th?id=OHR.BackyardBird_EN-IN0575498831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BackyardBird_EN-IN0575498831",
+            "copyright": "Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pyrrhuloxia&form=hpcapt&filters=HpDate%3a%2220240215_1830%22",
+            "title": "Dapper in the desert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240215_BackyardBird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e918c13651c4a745dc05541ead44dc35",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240214",
             "fullstartdate": "202402141830",
