@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-15 00:48:15",
-    "Total": 659,
+    "LastUpdate": "2024-02-16 00:48:14",
+    "Total": 660,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240215",
+            "fullstartdate": "202402152300",
+            "enddate": "20240216",
+            "url": "/th?id=OHR.SkiResort_FR-FR5956789786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkiResort_FR-FR5956789786",
+            "copyright": "Station de Saint-Jean-d'Arves, Savoie, France (© shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=saint+jean+d%27arves+savoie&form=hpcapt&filters=HpDate%3a%2220240215_2300%22",
+            "title": "Comme un air de montagne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240215_SkiResort%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1697b5365028f001c69eb2b5b1df3c9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240214",
             "fullstartdate": "202402142300",
