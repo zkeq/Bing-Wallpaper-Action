@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-15 00:48:02",
-    "Total": 658,
+    "LastUpdate": "2024-02-16 00:48:01",
+    "Total": 659,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240215",
+            "fullstartdate": "202402150500",
+            "enddate": "20240216",
+            "url": "/th?id=OHR.HippopotamusDay_EN-CA3448449315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HippopotamusDay_EN-CA3448449315",
+            "copyright": "Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Hippopotamus+Day&form=hpcapt&filters=HpDate%3a%2220240215_0500%22",
+            "title": "Happy Hippo Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240215_HippopotamusDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf7bba677c6711265b609c59ac2775a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240214",
             "fullstartdate": "202402140500",
