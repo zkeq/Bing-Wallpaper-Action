@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-16 00:47:52",
-    "Total": 660,
+    "LastUpdate": "2024-02-17 00:47:49",
+    "Total": 661,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240216",
+            "fullstartdate": "202402161500",
+            "enddate": "20240217",
+            "url": "/th?id=OHR.PegadungRocks_JA-JP7689168051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PegadungRocks_JA-JP7689168051",
+            "copyright": "ペガドゥン・ロック, インドネシア (© CK NG/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pegadung+Rock&form=hpcapt&filters=HpDate%3a%2220240216_1500%22",
+            "title": "サメの歯のような岩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_PegadungRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8be7471f7f729ccc8aa64539cd9f5423",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240215",
             "fullstartdate": "202402151500",
