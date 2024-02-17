@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-16 00:48:18",
-    "Total": 660,
+    "LastUpdate": "2024-02-17 00:48:15",
+    "Total": 661,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240216",
+            "fullstartdate": "202402162300",
+            "enddate": "20240217",
+            "url": "/th?id=OHR.LakeDolomites_IT-IT2963188233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeDolomites_IT-IT2963188233",
+            "copyright": "Il Pragser Wildsee nelle Dolomiti, Alto Adige, Italia (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Braies&form=hpcapt",
+            "title": "Una meraviglia della natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_LakeDolomites%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d21bf964791319071e04bd8d5f5ddba1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240215",
             "fullstartdate": "202402152300",
