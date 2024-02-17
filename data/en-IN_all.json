@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-16 00:48:09",
-    "Total": 660,
+    "LastUpdate": "2024-02-17 00:48:06",
+    "Total": 661,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240216",
+            "fullstartdate": "202402161830",
+            "enddate": "20240217",
+            "url": "/th?id=OHR.KailasTempleEllora_EN-IN9221534487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KailasTempleEllora_EN-IN9221534487",
+            "copyright": "Kailasa temple in Ellora caves complex in India (© mazzzur/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=kailasa+temple+ellora+caves&form=hpcapt&filters=HpDate%3a%2220240216_1830%22",
+            "title": "A megalithic wonder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_KailasTempleEllora%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77b7f53119657ce5bb1bc180a51b702a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240215",
             "fullstartdate": "202402151830",
