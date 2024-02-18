@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-17 00:48:11",
-    "Total": 661,
+    "LastUpdate": "2024-02-18 00:48:30",
+    "Total": 662,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240217",
+            "fullstartdate": "202402172300",
+            "enddate": "20240218",
+            "url": "/th?id=OHR.CarnavalTenerife_FR-FR6743804203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CarnavalTenerife_FR-FR6743804203",
+            "copyright": "Maisons colorées, Puerto de la Cruz, Tenerife, Espagne (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Puerto+de+la+Cruz&form=hpcapt&filters=HpDate%3a%2220240217_2300%22",
+            "title": "Des couleurs vives toute l'année !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_CarnavalTenerife%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed420bb1d63e535f79a8ea38cd424e9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240216",
             "fullstartdate": "202402162300",
