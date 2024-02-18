@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-17 00:48:06",
-    "Total": 661,
+    "LastUpdate": "2024-02-18 00:48:25",
+    "Total": 662,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240217",
+            "fullstartdate": "202402171830",
+            "enddate": "20240218",
+            "url": "/th?id=OHR.DominicaWhales_EN-IN1231273818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DominicaWhales_EN-IN1231273818",
+            "copyright": "Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=sperm+whale&form=hpcapt&filters=HpDate%3a%2220240217_1830%22",
+            "title": "Taking a breather",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_DominicaWhales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "70c87582eebaabdcb13ea628e3e7af55",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240216",
             "fullstartdate": "202402161830",
