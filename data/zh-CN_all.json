@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-17 00:47:39",
-    "Total": 661,
+    "LastUpdate": "2024-02-18 00:47:59",
+    "Total": 662,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240217",
+            "fullstartdate": "202402171600",
+            "enddate": "20240218",
+            "url": "/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DominicaWhales_ZH-CN1293650397",
+            "copyright": "抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%8A%B9%E9%A6%99%E9%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "来一口新鲜空气",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_DominicaWhales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ab37c658a3efed33fdccd67a812b6f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240216",
             "fullstartdate": "202402161600",
