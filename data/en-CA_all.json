@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-17 00:47:58",
-    "Total": 660,
+    "LastUpdate": "2024-02-18 00:48:17",
+    "Total": 661,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240217",
+            "fullstartdate": "202402170500",
+            "enddate": "20240218",
+            "url": "/th?id=OHR.HalbinselJasmund_EN-CA5327600383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalbinselJasmund_EN-CA5327600383",
+            "copyright": "Sassnitz lighthouse on Rügen island, Germany (© Christian Back/eStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Sassnitz+Germany&form=hpcapt&filters=HpDate%3a%2220240217_0500%22",
+            "title": "A frozen sentinel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_HalbinselJasmund%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0bc737b49b6720949fff41bf6b91f298",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240216",
             "fullstartdate": "202402160500",
