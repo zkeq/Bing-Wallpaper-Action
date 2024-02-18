@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-17 00:47:49",
-    "Total": 661,
+    "LastUpdate": "2024-02-18 00:48:08",
+    "Total": 662,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240217",
+            "fullstartdate": "202402171500",
+            "enddate": "20240218",
+            "url": "/th?id=OHR.DominicaWhales_JA-JP8354635905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DominicaWhales_JA-JP8354635905",
+            "copyright": "マッコウクジラ, ドミニカ国 (© Franco Banfi/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%83%E3%82%B3%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220240217_1500%22",
+            "title": "今日は世界クジラの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_DominicaWhales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d2235092e4c6e5e372b7af9a37bdafe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240216",
             "fullstartdate": "202402161500",
