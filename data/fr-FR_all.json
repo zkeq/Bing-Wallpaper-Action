@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-18 00:48:30",
-    "Total": 662,
+    "LastUpdate": "2024-02-19 00:48:17",
+    "Total": 663,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240218",
+            "fullstartdate": "202402182300",
+            "enddate": "20240219",
+            "url": "/th?id=OHR.DominicaWhales_FR-FR6517933820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DominicaWhales_FR-FR6517933820",
+            "copyright": "Groupe de  grand cachalots, île de la Dominique (© Franco Banfi/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=grand+cachalot&form=hpcapt&filters=HpDate%3a%2220240218_2300%22",
+            "title": "Les géants des mers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240218_DominicaWhales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b1bf8852a52fe9fcf5f83280b7682102",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240217",
             "fullstartdate": "202402172300",
