@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-18 00:48:21",
-    "Total": 661,
+    "LastUpdate": "2024-02-19 00:48:09",
+    "Total": 662,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240219",
+            "fullstartdate": "202402190000",
+            "enddate": "20240220",
+            "url": "/th?id=OHR.CarnavalTenerife_EN-GB7377141712_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CarnavalTenerife_EN-GB7377141712",
+            "copyright": "Puerto de la Cruz, Tenerife, Spain (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Puerto+de+la+Cruz+Spain&form=hpcapt&filters=HpDate%3a%2220240219_0000%22",
+            "title": "Vibrant colours all year round!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240219_CarnavalTenerife%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e73f7bcfd1ee0a01439f427e874be541",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240218",
             "fullstartdate": "202402180000",
