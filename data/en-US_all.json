@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-19 00:47:51",
-    "Total": 663,
+    "LastUpdate": "2024-02-20 00:47:46",
+    "Total": 664,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240219",
+            "fullstartdate": "202402190800",
+            "enddate": "20240220",
+            "url": "/th?id=OHR.LincolnSunset_EN-US8001542624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LincolnSunset_EN-US8001542624",
+            "copyright": "Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Presidents+Day&form=hpcapt&filters=HpDate%3a%2220240219_0800%22",
+            "title": "A tribute at twilight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240219_LincolnSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2aed74202801fc18827c25a80e43b490",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240218",
             "fullstartdate": "202402180800",
