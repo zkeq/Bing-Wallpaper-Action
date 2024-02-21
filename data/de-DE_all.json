@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-20 00:47:55",
-    "Total": 664,
+    "LastUpdate": "2024-02-21 00:47:56",
+    "Total": 665,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240220",
+            "fullstartdate": "202402202300",
+            "enddate": "20240221",
+            "url": "/th?id=OHR.YosemiteFirefall_DE-DE4800433927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteFirefall_DE-DE4800433927",
+            "copyright": "Horsetail-Wasserfall, Yosemite-Nationalpark, Kalifornien, USA (© Gregory B Cuvelier/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Horsetail-Wasserfall&form=hpcapt&filters=HpDate%3a%2220240220_2300%22",
+            "title": "Hier fließen die Funken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240220_YosemiteFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06f3ebd5c6661695135bca84ce88dce5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240219",
             "fullstartdate": "202402192300",
