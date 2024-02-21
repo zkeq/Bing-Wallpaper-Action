@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-20 00:47:40",
-    "Total": 664,
+    "LastUpdate": "2024-02-21 00:47:41",
+    "Total": 665,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240220",
+            "fullstartdate": "202402201600",
+            "enddate": "20240221",
+            "url": "/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteFirefall_ZH-CN2236242565",
+            "copyright": "火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%81%AB%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn",
+            "title": "一个天然的矛盾体",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240220_YosemiteFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c26e8ad0f327e2c8132fc300652fdf01",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240219",
             "fullstartdate": "202402191600",
