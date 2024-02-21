@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-20 00:48:17",
-    "Total": 664,
+    "LastUpdate": "2024-02-21 00:48:18",
+    "Total": 665,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240220",
+            "fullstartdate": "202402202300",
+            "enddate": "20240221",
+            "url": "/th?id=OHR.YosemiteFirefall_IT-IT1880342554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteFirefall_IT-IT1880342554",
+            "copyright": "Cascata di fuoco a Horsetail Fall, Parco Nazionale dello Yosemite, California, USA (© Gregory B Cuvelier/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Cascata+Horsetail&form=hpcapt",
+            "title": "Una contraddizione naturale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240220_YosemiteFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c6290d00041142cc43ad82542c2a44b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240219",
             "fullstartdate": "202402192300",
