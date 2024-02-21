@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-20 00:48:12",
-    "Total": 664,
+    "LastUpdate": "2024-02-21 00:48:14",
+    "Total": 665,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240220",
+            "fullstartdate": "202402202300",
+            "enddate": "20240221",
+            "url": "/th?id=OHR.YosemiteFirefall_FR-FR7214097906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteFirefall_FR-FR7214097906",
+            "copyright": "Cascade de feu Horsetail Fall, parc national de Yosemite, Californie, États-Unis (© Gregory B Cuvelier/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Cascade+de+feu+Horsetail+Fall&form=hpcapt&filters=HpDate%3a%2220240220_2300%22",
+            "title": "L’illusion parfaite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240220_YosemiteFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d226b01c640da79d6b61a28e4b4c302",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240219",
             "fullstartdate": "202402192300",
