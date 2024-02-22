@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-21 00:47:51",
-    "Total": 665,
+    "LastUpdate": "2024-02-22 00:47:50",
+    "Total": 666,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240221",
+            "fullstartdate": "202402211500",
+            "enddate": "20240222",
+            "url": "/th?id=OHR.BrightonBoxes_JA-JP7289590135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrightonBoxes_JA-JP7289590135",
+            "copyright": "ブライトンビーチ, オーストラリア ビクトリア州 (© Prasit photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220240221_1500%22",
+            "title": "カラフルな小屋が並ぶ海岸",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240221_BrightonBoxes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ec5b46ef7a79c15fa242f4d5cbc0c37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240220",
             "fullstartdate": "202402201500",
