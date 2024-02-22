@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-21 00:48:18",
-    "Total": 665,
+    "LastUpdate": "2024-02-22 00:48:17",
+    "Total": 666,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240221",
+            "fullstartdate": "202402212300",
+            "enddate": "20240222",
+            "url": "/th?id=OHR.BrightonBoxes_IT-IT6630946422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrightonBoxes_IT-IT6630946422",
+            "copyright": "Cabine da spiaggia a Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Brighton+Beach%2c+Melbourne%2c+Victoria%2c+Australia&form=hpcapt",
+            "title": "Una varietà di cabine colorate",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240221_BrightonBoxes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ba565aacb23c4bbbac3fb320b062c78",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240220",
             "fullstartdate": "202402202300",
