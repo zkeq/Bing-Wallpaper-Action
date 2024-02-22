@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-21 00:48:09",
-    "Total": 665,
+    "LastUpdate": "2024-02-22 00:48:08",
+    "Total": 666,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240221",
+            "fullstartdate": "202402211830",
+            "enddate": "20240222",
+            "url": "/th?id=OHR.BrightonBoxes_EN-IN0857435294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrightonBoxes_EN-IN0857435294",
+            "copyright": "Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Brighton+Bathing+boxes&form=hpcapt&filters=HpDate%3a%2220240221_1830%22",
+            "title": "A veritable palette of boxes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240221_BrightonBoxes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6625857f0f02b4a15383314f80bacd8c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240220",
             "fullstartdate": "202402201830",
