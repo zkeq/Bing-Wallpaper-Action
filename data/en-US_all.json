@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-21 00:47:47",
-    "Total": 665,
+    "LastUpdate": "2024-02-22 00:47:45",
+    "Total": 666,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240221",
+            "fullstartdate": "202402210800",
+            "enddate": "20240222",
+            "url": "/th?id=OHR.YosemiteFirefall_EN-US8169903146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteFirefall_EN-US8169903146",
+            "copyright": "Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=horsetail+firefall&form=hpcapt&filters=HpDate%3a%2220240221_0800%22",
+            "title": "The flaming falls of Yosemite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240221_YosemiteFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a826aa56e57ef0d366b71e9d710a1fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240220",
             "fullstartdate": "202402200800",
