@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-22 00:48:03",
-    "Total": 665,
+    "LastUpdate": "2024-02-23 00:48:04",
+    "Total": 666,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240223",
+            "fullstartdate": "202402230000",
+            "enddate": "20240224",
+            "url": "/th?id=OHR.HaghartsinMonastery_EN-GB1207846096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HaghartsinMonastery_EN-GB1207846096",
+            "copyright": "Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Haghartsin+Monastery&form=hpcapt&filters=HpDate%3a%2220240223_0000%22",
+            "title": "Where eagles dance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240223_HaghartsinMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a65add057722385bad5f7077d524d62e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240222",
             "fullstartdate": "202402220000",
