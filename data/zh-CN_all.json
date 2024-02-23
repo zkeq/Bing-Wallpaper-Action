@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-22 00:47:40",
-    "Total": 666,
+    "LastUpdate": "2024-02-23 00:47:40",
+    "Total": 667,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240222",
+            "fullstartdate": "202402221600",
+            "enddate": "20240223",
+            "url": "/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096",
+            "copyright": "Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%BF%AA%E5%88%A9%E6%89%AC%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "老鹰起舞的地方",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240222_HaghartsinMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e7271d7acd019c662f35e2dcfa61b5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240221",
             "fullstartdate": "202402211600",
