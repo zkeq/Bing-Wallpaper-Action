@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-22 00:47:50",
-    "Total": 666,
+    "LastUpdate": "2024-02-23 00:47:50",
+    "Total": 667,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240222",
+            "fullstartdate": "202402221500",
+            "enddate": "20240223",
+            "url": "/th?id=OHR.Fuji2024_JA-JP9270000739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fuji2024_JA-JP9270000739",
+            "copyright": "朝焼けに輝く富士山と山中湖, 山梨県 (© magicflute002/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%A8%E5%B1%B1%E4%B8%AD%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220240222_1500%22",
+            "title": "今日は富士山の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240222_Fuji2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bce7185ddfceb71c51eb49acc73d4485",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240221",
             "fullstartdate": "202402211500",
