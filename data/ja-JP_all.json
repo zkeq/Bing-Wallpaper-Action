@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-23 00:47:50",
-    "Total": 667,
+    "LastUpdate": "2024-02-24 00:47:42",
+    "Total": 668,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240223",
+            "fullstartdate": "202402231500",
+            "enddate": "20240224",
+            "url": "/th?id=OHR.AlmondBloom_JA-JP9467341348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlmondBloom_JA-JP9467341348",
+            "copyright": "アーモンド畑, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E7%95%91&form=hpcapt&filters=HpDate%3a%2220240223_1500%22",
+            "title": "春に咲き誇る白やピンクの花",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240223_AlmondBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae7d0e1a4db55ea6281fab89328e8bfb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240222",
             "fullstartdate": "202402221500",
