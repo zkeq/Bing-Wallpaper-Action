@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-24 00:47:46",
-    "Total": 668,
+    "LastUpdate": "2024-02-25 00:48:08",
+    "Total": 669,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240224",
+            "fullstartdate": "202402242300",
+            "enddate": "20240225",
+            "url": "/th?id=OHR.MtPrevostDuncan_DE-DE5893806279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtPrevostDuncan_DE-DE5893806279",
+            "copyright": "Nebel im Cowichan Valley auf Vancouver Island, British Columbia, Kanada (© Kevin Oke/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cowichan+Valley+Kanada&form=hpcapt&filters=HpDate%3a%2220240224_2300%22",
+            "title": "Hinter einer Nebeldecke",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240224_MtPrevostDuncan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "618cf93b38f283e78b3ce4a41988b6b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240223",
             "fullstartdate": "202402232300",
