@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-24 00:47:32",
-    "Total": 668,
+    "LastUpdate": "2024-02-25 00:47:54",
+    "Total": 669,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240224",
+            "fullstartdate": "202402241600",
+            "enddate": "20240225",
+            "url": "/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635",
+            "copyright": "考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%80%83%E4%BC%8A%E7%90%B4%E5%B1%B1%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+            "title": "薄雾笼罩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240224_MtPrevostDuncan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0625916e3da5383a2b2e54a3f2990b91",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240223",
             "fullstartdate": "202402231600",
