@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-25 00:48:30",
-    "Total": 669,
+    "LastUpdate": "2024-02-26 00:48:21",
+    "Total": 670,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240225",
+            "fullstartdate": "202402252300",
+            "enddate": "20240226",
+            "url": "/th?id=OHR.GrandCanyonWinter_IT-IT9629342558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonWinter_IT-IT9629342558",
+            "copyright": "105esimo anniversario del Parco del Grand Canyon, Arizona, USA (© Jeremy Janus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=grand+canyon+cos%27%C3%A8&form=hpcapt",
+            "title": "Una profonda vena rocciosa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_GrandCanyonWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d132040e1c2968d8c360819d9f3ca62",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240224",
             "fullstartdate": "202402242300",
