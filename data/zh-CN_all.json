@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-25 00:47:54",
-    "Total": 669,
+    "LastUpdate": "2024-02-26 00:47:45",
+    "Total": 670,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240225",
+            "fullstartdate": "202402251600",
+            "enddate": "20240226",
+            "url": "/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517",
+            "copyright": "大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "深不见底的鸿沟",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_GrandCanyonWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "32b1bfbeb03a419f3241764bce2b83db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240224",
             "fullstartdate": "202402241600",
