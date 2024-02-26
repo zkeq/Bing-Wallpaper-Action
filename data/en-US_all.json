@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-25 00:48:00",
-    "Total": 669,
+    "LastUpdate": "2024-02-26 00:47:51",
+    "Total": 670,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240225",
+            "fullstartdate": "202402250800",
+            "enddate": "20240226",
+            "url": "/th?id=OHR.WrightSculpture_EN-US2897504160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WrightSculpture_EN-US2897504160",
+            "copyright": "'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Charles+H.+Wright+Museum+of+African+American+History&form=hpcapt&filters=HpDate%3a%2220240225_0800%22",
+            "title": "Say it loud",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_WrightSculpture%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "fb33bf87e7cbd6e9d0a29a5a87924d05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240224",
             "fullstartdate": "202402240800",
