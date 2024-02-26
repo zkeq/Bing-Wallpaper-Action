@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-25 00:48:08",
-    "Total": 669,
+    "LastUpdate": "2024-02-26 00:47:59",
+    "Total": 670,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240225",
+            "fullstartdate": "202402252300",
+            "enddate": "20240226",
+            "url": "/th?id=OHR.GrandCanyonWinter_DE-DE6805018652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonWinter_DE-DE6805018652",
+            "copyright": "Grand-Canyon-Nationalpark, Arizona, USA (© Jeremy Janus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon%2c+Arizona%2c+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220240225_2300%22",
+            "title": "Schneeweiße Schlucht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_GrandCanyonWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ba1ce964a3dbd839733f15e0e68341b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240224",
             "fullstartdate": "202402242300",
