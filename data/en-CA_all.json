@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-25 00:48:13",
-    "Total": 668,
+    "LastUpdate": "2024-02-26 00:48:04",
+    "Total": 669,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240225",
+            "fullstartdate": "202402250500",
+            "enddate": "20240226",
+            "url": "/th?id=OHR.MtPrevostDuncan_EN-CA3290198869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtPrevostDuncan_EN-CA3290198869",
+            "copyright": "Mist in the Cowichan Valley on Vancouver Island, British Columbia, Canada (© Kevin Oke/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cowichan+Valley&form=hpcapt&filters=HpDate%3a%2220240225_0500%22",
+            "title": "Behind a blanket of mist",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_MtPrevostDuncan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad51ab8cc90b485d7713e2fe2e7c8088",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240224",
             "fullstartdate": "202402240500",
