@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-26 00:48:04",
-    "Total": 669,
+    "LastUpdate": "2024-02-27 00:47:53",
+    "Total": 670,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240226",
+            "fullstartdate": "202402260500",
+            "enddate": "20240227",
+            "url": "/th?id=OHR.GrandCanyonWinter_EN-CA4125464970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandCanyonWinter_EN-CA4125464970",
+            "copyright": "Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220240226_0500%22",
+            "title": "Deeply chasm-matic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240226_GrandCanyonWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "27abd57fff2c61a4a2b636cf416e2df7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240225",
             "fullstartdate": "202402250500",
