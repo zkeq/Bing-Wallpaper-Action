@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-26 00:48:17",
-    "Total": 670,
+    "LastUpdate": "2024-02-27 00:48:07",
+    "Total": 671,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240226",
+            "fullstartdate": "202402262300",
+            "enddate": "20240227",
+            "url": "/th?id=OHR.PolarBearCubs_FR-FR2914859035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearCubs_FR-FR2914859035",
+            "copyright": "Oursons polaires, Kaktovik, Alaska, États-Unis (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ours+blanc&form=hpcapt&filters=HpDate%3a%2220240226_2300%22",
+            "title": "Une journée glaciale pour jouer !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240226_PolarBearCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c22eac5ce1bc825a3b6d6c719afabc2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240225",
             "fullstartdate": "202402252300",
