@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-26 00:47:59",
-    "Total": 670,
+    "LastUpdate": "2024-02-27 00:47:49",
+    "Total": 671,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240226",
+            "fullstartdate": "202402262300",
+            "enddate": "20240227",
+            "url": "/th?id=OHR.PolarBearCubs_DE-DE7089509348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearCubs_DE-DE7089509348",
+            "copyright": "Eisbärenjunge beim Spielen, Kaktovik, Alaska, USA (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eisb%C3%A4r&form=hpcapt&filters=HpDate%3a%2220240226_2300%22",
+            "title": "Ist es nicht kalt, um draußen zu spielen?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240226_PolarBearCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bef1f1d7b35884044d4f9a324bbaeeaf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240225",
             "fullstartdate": "202402252300",
