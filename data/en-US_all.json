@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-27 00:47:40",
-    "Total": 671,
+    "LastUpdate": "2024-02-28 00:47:50",
+    "Total": 672,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240227",
+            "fullstartdate": "202402270800",
+            "enddate": "20240228",
+            "url": "/th?id=OHR.PolarBearCubs_EN-US3160537454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearCubs_EN-US3160537454",
+            "copyright": "Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220240227_0800%22",
+            "title": "An ice day to play",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240227_PolarBearCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a017f84a4e7ca4c15175412eef93d30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240226",
             "fullstartdate": "202402260800",
