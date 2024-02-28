@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-27 00:47:34",
-    "Total": 671,
+    "LastUpdate": "2024-02-28 00:47:44",
+    "Total": 672,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240227",
+            "fullstartdate": "202402271600",
+            "enddate": "20240228",
+            "url": "/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BamburghCastleUK_ZH-CN3201531782",
+            "copyright": "班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8F%AD%E5%A0%A1%E5%9F%8E%E5%A0%A1+%E8%AF%BA%E6%A3%AE%E4%BC%AF%E5%85%B0%E9%83%A1&form=hpcapt&mkt=zh-cn",
+            "title": "随波逐流",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240227_BamburghCastleUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "28b858e2c79a4443566f0699a9e96524",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240226",
             "fullstartdate": "202402261600",
