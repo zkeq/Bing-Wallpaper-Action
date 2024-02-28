@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-27 00:47:49",
-    "Total": 671,
+    "LastUpdate": "2024-02-28 00:47:58",
+    "Total": 672,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240227",
+            "fullstartdate": "202402272300",
+            "enddate": "20240228",
+            "url": "/th?id=OHR.BamburghCastleUK_DE-DE7368019020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BamburghCastleUK_DE-DE7368019020",
+            "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bamburgh+Castle%2c+Northumberland%2c+England&form=hpcapt&filters=HpDate%3a%2220240227_2300%22",
+            "title": "Was will man mehr als ein Schloss am Meer?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240227_BamburghCastleUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "13d3ebd5f65ba531f155c3a33f05ebe5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240226",
             "fullstartdate": "202402262300",
