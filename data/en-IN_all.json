@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-27 00:48:02",
-    "Total": 671,
+    "LastUpdate": "2024-02-28 00:48:12",
+    "Total": 672,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240227",
+            "fullstartdate": "202402271830",
+            "enddate": "20240228",
+            "url": "/th?id=OHR.BamburghCastleUK_EN-IN2760491461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BamburghCastleUK_EN-IN2760491461",
+            "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bamburgh+Castle+Northumberland&form=hpcapt&filters=HpDate%3a%2220240227_1830%22",
+            "title": "Grow with the flow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240227_BamburghCastleUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a98817fede72bbaa5cb25ec34c69c42",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240226",
             "fullstartdate": "202402261830",
