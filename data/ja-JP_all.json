@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-28 00:47:54",
-    "Total": 672,
+    "LastUpdate": "2024-02-29 00:47:55",
+    "Total": 673,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240228",
+            "fullstartdate": "202402281500",
+            "enddate": "20240229",
+            "url": "/th?id=OHR.VermilionCliffs_JA-JP0444568228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VermilionCliffs_JA-JP0444568228",
+            "copyright": "バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%BC%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%95%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240228_1500%22",
+            "title": "朱色の断崖絶壁",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240228_VermilionCliffs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "263031640ce6d45eea0bb96792f0fa7e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240227",
             "fullstartdate": "202402271500",
