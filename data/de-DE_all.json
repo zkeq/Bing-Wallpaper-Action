@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-28 00:47:58",
-    "Total": 672,
+    "LastUpdate": "2024-02-29 00:48:00",
+    "Total": 673,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240228",
+            "fullstartdate": "202402282300",
+            "enddate": "20240229",
+            "url": "/th?id=OHR.LeapingSquirrel_DE-DE7623766811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeapingSquirrel_DE-DE7623766811",
+            "copyright": "Eurasisches Eichhörnchen (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Schaltjahr&form=hpcapt&filters=HpDate%3a%2220240228_2300%22",
+            "title": "Wann ist endlich März?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240228_LeapingSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c107c2d3b55ff5c58583d65d214a3b2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240227",
             "fullstartdate": "202402272300",
