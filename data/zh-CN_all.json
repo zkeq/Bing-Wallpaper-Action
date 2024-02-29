@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-28 00:47:44",
-    "Total": 672,
+    "LastUpdate": "2024-02-29 00:47:46",
+    "Total": 673,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240228",
+            "fullstartdate": "202402281600",
+            "enddate": "20240229",
+            "url": "/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeapingSquirrel_ZH-CN9112090462",
+            "copyright": "欧亚红松鼠 (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+            "title": "多过一天",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240228_LeapingSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36506e3c1bcd568cd5981949bf3d86a7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240227",
             "fullstartdate": "202402271600",
