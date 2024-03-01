@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-29 00:48:12",
-    "Total": 673,
+    "LastUpdate": "2024-03-01 00:48:27",
+    "Total": 674,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240229",
+            "fullstartdate": "202402291830",
+            "enddate": "20240301",
+            "url": "/th?id=OHR.HolyVaranasi_EN-IN2569299872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HolyVaranasi_EN-IN2569299872",
+            "copyright": "The holy city of Varanasi, India (© Jesse Rockwell/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=varanasi&form=hpcapt&filters=HpDate%3a%2220240229_1830%22",
+            "title": "Riverside reverie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240229_HolyVaranasi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3c2e60ede75b6296443901b295dbb073",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240228",
             "fullstartdate": "202402281830",
