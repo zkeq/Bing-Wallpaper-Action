@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-29 00:47:51",
-    "Total": 673,
+    "LastUpdate": "2024-03-01 00:48:05",
+    "Total": 674,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240229",
+            "fullstartdate": "202402290800",
+            "enddate": "20240301",
+            "url": "/th?id=OHR.LeapingSquirrel_EN-US3514581405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeapingSquirrel_EN-US3514581405",
+            "copyright": "Eurasian red squirrel (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=leap+day&form=hpcapt&filters=HpDate%3a%2220240229_0800%22",
+            "title": "Leaping through an extra day",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240229_LeapingSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d43e25e1c3ade9872da397882a7d649",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240228",
             "fullstartdate": "202402280800",
