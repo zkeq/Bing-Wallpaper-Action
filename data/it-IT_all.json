@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-02-29 00:48:21",
-    "Total": 673,
+    "LastUpdate": "2024-03-01 00:48:36",
+    "Total": 674,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240229",
+            "fullstartdate": "202402292300",
+            "enddate": "20240301",
+            "url": "/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CinqueTorriCortina_IT-IT1456925506",
+            "copyright": "Gruppo delle Cinque Torri nelle Dolomiti, Cortina d'Ampezzo, Veneto, Italia (© iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Cinque+Torri+Dolomiti&form=hpcapt",
+            "title": "Scopri le Dolomiti e le sue meraviglie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240229_CinqueTorriCortina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6353e3f1320338866c92a8f3d92eaea0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240228",
             "fullstartdate": "202402282300",
