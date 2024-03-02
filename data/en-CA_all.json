@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-01 00:48:19",
-    "Total": 673,
+    "LastUpdate": "2024-03-02 00:47:53",
+    "Total": 674,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240301",
+            "fullstartdate": "202403010500",
+            "enddate": "20240302",
+            "url": "/th?id=OHR.WheatonRiverYukon_EN-CA9040567643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WheatonRiverYukon_EN-CA9040567643",
+            "copyright": "Sunset colours over the icy Wheaton River, Yukon, Canada (© Robert Postma/All Canada Photos/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Yukon+Territory+Canada&form=hpcapt&filters=HpDate%3a%2220240301_0500%22",
+            "title": "Are there any visits from Aurora yet?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240301_WheatonRiverYukon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7627db03fa2b854c35969066768d852e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240229",
             "fullstartdate": "202402290500",
