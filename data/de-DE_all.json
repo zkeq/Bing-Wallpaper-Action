@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-02 00:47:49",
-    "Total": 675,
+    "LastUpdate": "2024-03-03 00:48:06",
+    "Total": 676,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240302",
+            "fullstartdate": "202403022300",
+            "enddate": "20240303",
+            "url": "/th?id=OHR.KrugerLeopard_DE-DE5629727103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KrugerLeopard_DE-DE5629727103",
+            "copyright": "Leopard auf einem Baum, Kruger-Nationalpark, Südafrika (© Tonino De Marco/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+Artenschutzes&form=hpcapt&filters=HpDate%3a%2220240302_2300%22",
+            "title": "Der Leopard auf seinem Thron",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240302_KrugerLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f31ea73293a663f1da5d76febd8b562",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240301",
             "fullstartdate": "202403012300",
