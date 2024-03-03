@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-02 00:47:34",
-    "Total": 675,
+    "LastUpdate": "2024-03-03 00:47:51",
+    "Total": 676,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240302",
+            "fullstartdate": "202403021600",
+            "enddate": "20240303",
+            "url": "/th?id=OHR.KrugerLeopard_ZH-CN4125884091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KrugerLeopard_ZH-CN4125884091",
+            "copyright": "树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "一位浑身斑点的杂技演员",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240302_KrugerLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96a4cd32092e249aad9cf98cd67470f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240301",
             "fullstartdate": "202403011600",
