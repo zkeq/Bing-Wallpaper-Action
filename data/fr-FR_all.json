@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-03 00:48:23",
-    "Total": 676,
+    "LastUpdate": "2024-03-04 00:48:13",
+    "Total": 677,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240303",
+            "fullstartdate": "202403032300",
+            "enddate": "20240304",
+            "url": "/th?id=OHR.ArenalCostaRica_FR-FR6380413439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArenalCostaRica_FR-FR6380413439",
+            "copyright": "Volcan Arenal observé depuis Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=l%27arenal+volcan&form=hpcapt&filters=HpDate%3a%2220240303_2300%22",
+            "title": "La belle endormie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240303_ArenalCostaRica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "128fd7f0da3ff380e11f8f887b022bdc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240302",
             "fullstartdate": "202403022300",
