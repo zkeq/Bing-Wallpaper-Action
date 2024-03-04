@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-03 00:48:14",
-    "Total": 675,
+    "LastUpdate": "2024-03-04 00:48:05",
+    "Total": 676,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240304",
+            "fullstartdate": "202403040000",
+            "enddate": "20240305",
+            "url": "/th?id=OHR.ArenalCostaRica_EN-GB7820638738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArenalCostaRica_EN-GB7820638738",
+            "copyright": "Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Arenal+Volcano&form=hpcapt&filters=HpDate%3a%2220240304_0000%22",
+            "title": "A sleeping beauty",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240304_ArenalCostaRica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f20526bc8c38884d095258939af79cf1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240303",
             "fullstartdate": "202403030000",
