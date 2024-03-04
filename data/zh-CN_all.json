@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-03 00:47:51",
-    "Total": 676,
+    "LastUpdate": "2024-03-04 00:47:42",
+    "Total": 677,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240303",
+            "fullstartdate": "202403031600",
+            "enddate": "20240304",
+            "url": "/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArenalCostaRica_ZH-CN4466297855",
+            "copyright": "从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E9%9B%B7%E7%BA%B3%E5%B0%94%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "睡美人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240303_ArenalCostaRica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "70db6b58ab3319e79dc38db525ea4f9f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240302",
             "fullstartdate": "202403021600",
