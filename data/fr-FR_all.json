@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-04 00:48:13",
-    "Total": 677,
+    "LastUpdate": "2024-03-05 00:48:16",
+    "Total": 678,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240304",
+            "fullstartdate": "202403042300",
+            "enddate": "20240305",
+            "url": "/th?id=OHR.BangkokCircle_FR-FR6646035887_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BangkokCircle_FR-FR6646035887",
+            "copyright": "Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bangkok&form=hpcapt&filters=HpDate%3a%2220240304_2300%22",
+            "title": "Vous tournez « en boucle » ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240304_BangkokCircle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34d497dba17fa4d715fd7461ec50585c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240303",
             "fullstartdate": "202403032300",
