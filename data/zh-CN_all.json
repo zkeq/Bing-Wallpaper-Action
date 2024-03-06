@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-05 00:47:43",
-    "Total": 678,
+    "LastUpdate": "2024-03-06 00:47:37",
+    "Total": 679,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240305",
+            "fullstartdate": "202403051600",
+            "enddate": "20240306",
+            "url": "/th?id=OHR.WahclellaFalls_ZH-CN4932852217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WahclellaFalls_ZH-CN4932852217",
+            "copyright": "Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9EWahclella+Falls&form=hpcapt&mkt=zh-cn",
+            "title": "尽情地嬉戏玩水吧！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240305_WahclellaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7334303c42bd17aef2b66057e462e3f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240304",
             "fullstartdate": "202403041600",
