@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-05 00:47:58",
-    "Total": 678,
+    "LastUpdate": "2024-03-06 00:47:52",
+    "Total": 679,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240305",
+            "fullstartdate": "202403052300",
+            "enddate": "20240306",
+            "url": "/th?id=OHR.WahclellaFalls_DE-DE6758659326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WahclellaFalls_DE-DE6758659326",
+            "copyright": "Wahclella-Fälle in der Columbia Fluss-Schlucht, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Wahclella-F%C3%A4lle+USA&form=hpcapt&filters=HpDate%3a%2220240305_2300%22",
+            "title": "Lust auf eine Spritztour?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240305_WahclellaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22d2f60fd730f3037da75fe5924ce16a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240304",
             "fullstartdate": "202403042300",
