@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-05 00:48:16",
-    "Total": 678,
+    "LastUpdate": "2024-03-06 00:48:10",
+    "Total": 679,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240305",
+            "fullstartdate": "202403052300",
+            "enddate": "20240306",
+            "url": "/th?id=OHR.WahclellaFalls_FR-FR6884948477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WahclellaFalls_FR-FR6884948477",
+            "copyright": "Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=gorges+de+la+Columbia+River&form=hpcapt&filters=HpDate%3a%2220240305_2300%22",
+            "title": "Un petit plongeon ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240305_WahclellaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4dd00e41cefe2a100591ded53c529769",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240304",
             "fullstartdate": "202403042300",
