@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-05 00:48:07",
-    "Total": 677,
+    "LastUpdate": "2024-03-06 00:48:01",
+    "Total": 678,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240306",
+            "fullstartdate": "202403060000",
+            "enddate": "20240307",
+            "url": "/th?id=OHR.WahclellaFalls_EN-GB8488291917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WahclellaFalls_EN-GB8488291917",
+            "copyright": "Wahclella Falls in the Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Wahclella+Falls+Oregon&form=hpcapt&filters=HpDate%3a%2220240306_0000%22",
+            "title": "Get your splash on",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240306_WahclellaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c7b28b6bddf03f6dfcc26c5dc42234f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240305",
             "fullstartdate": "202403050000",
