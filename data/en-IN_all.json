@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-06 00:48:05",
-    "Total": 679,
+    "LastUpdate": "2024-03-07 00:47:29",
+    "Total": 680,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240306",
+            "fullstartdate": "202403061830",
+            "enddate": "20240307",
+            "url": "/th?id=OHR.TarragonaSpain_EN-IN2183884361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TarragonaSpain_EN-IN2183884361",
+            "copyright": "Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate%3a%2220240306_1830%22",
+            "title": "Reaching new heights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240306_TarragonaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "553b9266d7fafec8f043f1e53233fd5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240305",
             "fullstartdate": "202403051830",
