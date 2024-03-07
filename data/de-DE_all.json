@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-06 00:47:52",
-    "Total": 679,
+    "LastUpdate": "2024-03-07 00:47:16",
+    "Total": 680,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240306",
+            "fullstartdate": "202403062300",
+            "enddate": "20240307",
+            "url": "/th?id=OHR.TarragonaSpain_DE-DE8015147907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TarragonaSpain_DE-DE8015147907",
+            "copyright": "Felsen von Benet, Parc Natural dels Ports, Katalonien, Spanien (© Sergi Boixader/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+Natural+dels+Ports%2c+Naturpark+in+Katalonien&form=hpcapt&filters=HpDate%3a%2220240306_2300%22",
+            "title": "Neue Horizonte entdecken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240306_TarragonaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8d7034cb9ac47b3f5cd7126cdb2fe84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240305",
             "fullstartdate": "202403052300",
