@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-07 00:47:29",
-    "Total": 680,
+    "LastUpdate": "2024-03-08 00:48:05",
+    "Total": 681,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240307",
+            "fullstartdate": "202403071830",
+            "enddate": "20240308",
+            "url": "/th?id=OHR.TateLightUp_EN-IN0743144601_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TateLightUp_EN-IN0743144601",
+            "copyright": "Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Women%27s+Day&form=hpcapt&filters=HpDate%3a%2220240307_1830%22",
+            "title": "Right to shine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240307_TateLightUp%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e4ea5648830919ac8e2fbffe6af8a65f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240306",
             "fullstartdate": "202403061830",
