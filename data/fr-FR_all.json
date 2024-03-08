@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-07 00:47:33",
-    "Total": 680,
+    "LastUpdate": "2024-03-08 00:48:09",
+    "Total": 681,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240307",
+            "fullstartdate": "202403072300",
+            "enddate": "20240308",
+            "url": "/th?id=OHR.TateLightUp_FR-FR0418217610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TateLightUp_FR-FR0418217610",
+            "copyright": "Musée Tate Modern illuminé à l'occasion de la Journée internationale des femmes, Londres, Angleterre (© Stephen Chung/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+internationale+des+femmes+&form=hpcapt&filters=HpDate%3a%2220240307_2300%22",
+            "title": "Liberté, Égalité, Sororité",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240307_TateLightUp%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "4a1abf6ddd6617c008ca38029690a6ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240306",
             "fullstartdate": "202403062300",
