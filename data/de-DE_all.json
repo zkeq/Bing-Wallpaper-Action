@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-08 00:47:52",
-    "Total": 681,
+    "LastUpdate": "2024-03-09 00:47:55",
+    "Total": 682,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240308",
+            "fullstartdate": "202403082300",
+            "enddate": "20240309",
+            "url": "/th?id=OHR.BistiBlue_DE-DE4146045796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BistiBlue_DE-DE4146045796",
+            "copyright": "Bisti/De-Na-Zin unberührte Wildnis, New Mexico, USA (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Mexico&form=hpcapt&filters=HpDate%3a%2220240308_2300%22",
+            "title": "Zeit: Ewiger Fluss der Veränderung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240308_BistiBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47c4dec88dbbcfb86b00517d16dcc5db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240307",
             "fullstartdate": "202403072300",
