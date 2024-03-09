@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-08 00:48:05",
-    "Total": 681,
+    "LastUpdate": "2024-03-09 00:48:08",
+    "Total": 682,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240308",
+            "fullstartdate": "202403081830",
+            "enddate": "20240309",
+            "url": "/th?id=OHR.BistiBlue_EN-IN1019261604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BistiBlue_EN-IN1019261604",
+            "copyright": "Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Bisti+De-Na-Zin+Wilderness+New+Mexico&form=hpcapt&filters=HpDate%3a%2220240308_1830%22",
+            "title": "Transformed by time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240308_BistiBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b236bda2c6e37f8fa90647644d32757",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240307",
             "fullstartdate": "202403071830",
