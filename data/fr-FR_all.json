@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-08 00:48:09",
-    "Total": 681,
+    "LastUpdate": "2024-03-09 00:48:12",
+    "Total": 682,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240308",
+            "fullstartdate": "202403082300",
+            "enddate": "20240309",
+            "url": "/th?id=OHR.BistiBlue_FR-FR0934555196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BistiBlue_FR-FR0934555196",
+            "copyright": "Région sauvage de Bisti/De-Na-Zin, Nouveau-Mexique, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Zone+sauvage+de+Bisti%2fDe-Na-Zin%2c+Nouveau-Mexique%2c+%C3%89tats-Unis+&form=hpcapt&filters=HpDate%3a%2220240308_2300%22",
+            "title": "Un paysage figé par le temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240308_BistiBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98b7c37123dc532f4c036cab7a3e2b31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240307",
             "fullstartdate": "202403072300",
