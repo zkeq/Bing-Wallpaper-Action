@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-08 00:47:47",
-    "Total": 681,
+    "LastUpdate": "2024-03-09 00:47:50",
+    "Total": 682,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240308",
+            "fullstartdate": "202403081500",
+            "enddate": "20240309",
+            "url": "/th?id=OHR.BistiBlue_JA-JP2352512218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BistiBlue_JA-JP2352512218",
+            "copyright": "ビスティ・デナジン荒野, 米国 ニューメキシコ州 (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%93%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BB%E3%83%87%E3%83%8A%E3%82%B8%E3%83%B3%E8%8D%92%E9%87%8E&form=hpcapt&filters=HpDate%3a%2220240308_1500%22",
+            "title": "異世界のような荒地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240308_BistiBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f61672a736af1b8303ab889f62ff034e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240307",
             "fullstartdate": "202403071500",
