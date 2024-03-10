@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-09 00:47:55",
-    "Total": 682,
+    "LastUpdate": "2024-03-10 00:48:17",
+    "Total": 683,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240309",
+            "fullstartdate": "202403092300",
+            "enddate": "20240310",
+            "url": "/th?id=OHR.AstrologicalClock_DE-DE9747364573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AstrologicalClock_DE-DE9747364573",
+            "copyright": "Rathaus Ulm, Astronomische Uhr aus dem 16. Jahrhundert, Ulm, Baden-Württemberg (© Hemis/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Sommerzeit&form=hpcapt&filters=HpDate%3a%2220240309_2300%22",
+            "title": "Die Zeitmacherin von Ulm",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240309_AstrologicalClock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43848b7250c5b0b1d1526010dccd571b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240308",
             "fullstartdate": "202403082300",
