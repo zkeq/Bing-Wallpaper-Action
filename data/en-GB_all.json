@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-11 00:48:12",
-    "Total": 683,
+    "LastUpdate": "2024-03-12 00:48:04",
+    "Total": 684,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240312",
+            "fullstartdate": "202403120000",
+            "enddate": "20240313",
+            "url": "/th?id=OHR.BryceSnow_EN-GB7209658465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceSnow_EN-GB7209658465",
+            "copyright": "Bryce Canyon National Park, Utah, USA (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220240312_0000%22",
+            "title": "Guardians of the canyon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240312_BryceSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "452424255341e5a64ad8b87f43dbc510",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240311",
             "fullstartdate": "202403110000",
