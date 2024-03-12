@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-11 00:48:25",
-    "Total": 684,
+    "LastUpdate": "2024-03-12 00:48:17",
+    "Total": 685,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240311",
+            "fullstartdate": "202403112300",
+            "enddate": "20240312",
+            "url": "/th?id=OHR.BryceSnow_IT-IT2944842663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceSnow_IT-IT2944842663",
+            "copyright": "Parco Nazionale del Bryce Canyon, Utah, Stati Uniti (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=parco+nazionale+del+Bryce+Canyon+cos%27%C3%A8&form=hpcapt",
+            "title": "I guardiani del canyon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240311_BryceSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6933bdf11723c3aa425ca97e3d9c939e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240310",
             "fullstartdate": "202403102300",
