@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-12 00:47:51",
-    "Total": 685,
+    "LastUpdate": "2024-03-13 00:47:56",
+    "Total": 686,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240312",
+            "fullstartdate": "202403121500",
+            "enddate": "20240313",
+            "url": "/th?id=OHR.MagadiFlamingos_JA-JP3870887285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MagadiFlamingos_JA-JP3870887285",
+            "copyright": "マガディ湖, ケニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%82%AC%E3%83%87%E3%82%A3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220240312_1500%22",
+            "title": "湖の上空を舞うコフラミンゴの群れ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240312_MagadiFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc9fcfc2e4556cec28b1fd2844f243e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240311",
             "fullstartdate": "202403111500",
