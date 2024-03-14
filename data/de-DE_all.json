@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-13 00:48:01",
-    "Total": 686,
+    "LastUpdate": "2024-03-14 00:47:59",
+    "Total": 687,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240313",
+            "fullstartdate": "202403132300",
+            "enddate": "20240314",
+            "url": "/th?id=OHR.AyutthayaTree_DE-DE1912781060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AyutthayaTree_DE-DE1912781060",
+            "copyright": "Wat Phra Ngam, Geschichtspark Ayutthaya, Thailand (© boonchai wedmakawand/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Pi-Tag&form=hpcapt&filters=HpDate%3a%2220240313_2300%22",
+            "title": "Pi mal Daumen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240313_AyutthayaTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "072606705722d9f961cda488638b93d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240312",
             "fullstartdate": "202403122300",
