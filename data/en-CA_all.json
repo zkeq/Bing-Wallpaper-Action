@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-13 00:48:05",
-    "Total": 685,
+    "LastUpdate": "2024-03-14 00:48:04",
+    "Total": 686,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240313",
+            "fullstartdate": "202403130400",
+            "enddate": "20240314",
+            "url": "/th?id=OHR.MagadiFlamingos_EN-CA6539676228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MagadiFlamingos_EN-CA6539676228",
+            "copyright": "Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lesser+flamingo&form=hpcapt&filters=HpDate%3a%2220240313_0400%22",
+            "title": "Bird's-eye view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240313_MagadiFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b432bfacd381f3bc5482b1af2a82797",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240312",
             "fullstartdate": "202403120400",
