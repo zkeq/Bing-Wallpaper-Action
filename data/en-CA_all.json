@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-14 00:48:04",
-    "Total": 686,
+    "LastUpdate": "2024-03-15 00:48:03",
+    "Total": 687,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240314",
+            "fullstartdate": "202403140400",
+            "enddate": "20240315",
+            "url": "/th?id=OHR.AyutthayaTree_EN-CA7341157054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AyutthayaTree_EN-CA7341157054",
+            "copyright": "Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Pi+Day&form=hpcapt&filters=HpDate%3a%2220240314_0400%22",
+            "title": "A piece of pi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AyutthayaTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d58c33c66430423cf895d55bc14d5a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240313",
             "fullstartdate": "202403130400",
