@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-14 00:47:59",
-    "Total": 687,
+    "LastUpdate": "2024-03-15 00:47:58",
+    "Total": 688,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240314",
+            "fullstartdate": "202403142300",
+            "enddate": "20240315",
+            "url": "/th?id=OHR.AvenueLimeTrees_DE-DE2066853614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvenueLimeTrees_DE-DE2066853614",
+            "copyright": "Lindenallee, baumgesäumter Fußweg durch den Park im Frühling (© AVTG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Linden&form=hpcapt&filters=HpDate%3a%2220240314_2300%22",
+            "title": "Grün, soweit das Auge reicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AvenueLimeTrees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8b22c1bc8bbc378f1761e8007d8ac098",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240313",
             "fullstartdate": "202403132300",
