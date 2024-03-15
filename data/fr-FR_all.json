@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-14 00:48:17",
-    "Total": 687,
+    "LastUpdate": "2024-03-15 00:48:16",
+    "Total": 688,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240314",
+            "fullstartdate": "202403142300",
+            "enddate": "20240315",
+            "url": "/th?id=OHR.AnzaBorregoBloom_FR-FR2163074616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnzaBorregoBloom_FR-FR2163074616",
+            "copyright": "Parc d'État du désert d'Anza-Borrego, Californie, États-Unis (© Stephen Matera/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+d%27%C3%89tat+du+d%C3%A9sert+d%27Anza-Borrego&form=hpcapt&filters=HpDate%3a%2220240314_2300%22",
+            "title": "Une touche printanière",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AnzaBorregoBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ad91b8bcb69623fcf1d05e6669d0aee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240313",
             "fullstartdate": "202403132300",
