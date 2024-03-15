@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-14 00:48:21",
-    "Total": 687,
+    "LastUpdate": "2024-03-15 00:48:20",
+    "Total": 688,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240314",
+            "fullstartdate": "202403142300",
+            "enddate": "20240315",
+            "url": "/th?id=OHR.AnzaBorregoBloom_IT-IT1728403447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnzaBorregoBloom_IT-IT1728403447",
+            "copyright": "Parco Statale del Deserto di Anza-Borrego, California, Stati Uniti (© Stephen Matera/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+statale+del+deserto+di+Anza-Borrego+California&form=hpcapt",
+            "title": "Un tocco di primavera",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AnzaBorregoBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6782fa908dcc279c80d51abaf8f553dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240313",
             "fullstartdate": "202403132300",
