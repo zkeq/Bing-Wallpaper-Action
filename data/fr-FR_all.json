@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-15 00:48:16",
-    "Total": 688,
+    "LastUpdate": "2024-03-16 00:48:08",
+    "Total": 689,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240315",
+            "fullstartdate": "202403152300",
+            "enddate": "20240316",
+            "url": "/th?id=OHR.BambooPanda_FR-FR2591411752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambooPanda_FR-FR2591411752",
+            "copyright": "Panda géant mangeant du bambou, Chengdu, Chine (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Panda+g%C3%A9ant&form=hpcapt&filters=HpDate%3a%2220240315_2300%22",
+            "title": "Un petit bambou et ça repart !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240315_BambooPanda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6b0af2632e16ffb8733569f9cd37e5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240314",
             "fullstartdate": "202403142300",
