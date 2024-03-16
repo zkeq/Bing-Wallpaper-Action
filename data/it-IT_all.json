@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-15 00:48:20",
-    "Total": 688,
+    "LastUpdate": "2024-03-16 00:48:12",
+    "Total": 689,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240315",
+            "fullstartdate": "202403152300",
+            "enddate": "20240316",
+            "url": "/th?id=OHR.BambooPanda_IT-IT5188324890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambooPanda_IT-IT5188324890",
+            "copyright": "Panda gigante che mangia bambù, Chengdu, Cina (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Panda+gigante&form=hpcapt",
+            "title": "Che tenerone!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240315_BambooPanda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c08046923e0d39e025dc5b8b78d82fce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240314",
             "fullstartdate": "202403142300",
