@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-15 00:47:44",
-    "Total": 688,
+    "LastUpdate": "2024-03-16 00:47:36",
+    "Total": 689,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240315",
+            "fullstartdate": "202403151600",
+            "enddate": "20240316",
+            "url": "/th?id=OHR.BambooPanda_ZH-CN8455481760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambooPanda_ZH-CN8455481760",
+            "copyright": "正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%86%8A%E7%8C%AB&form=hpcapt&mkt=zh-cn",
+            "title": "被竹子包围了",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240315_BambooPanda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72c43f4a08e262a88da2b1a502390c86",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240314",
             "fullstartdate": "202403141600",
