@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-18 00:47:52",
-    "Total": 691,
+    "LastUpdate": "2024-03-19 00:47:52",
+    "Total": 692,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240318",
+            "fullstartdate": "202403181600",
+            "enddate": "20240319",
+            "url": "/th?id=OHR.AlmondBloom_ZH-CN9441550492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlmondBloom_ZH-CN9441550492",
+            "copyright": "盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%89%81%E6%A1%83%E4%BB%81&form=hpcapt&mkt=zh-cn",
+            "title": "春日私语",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240318_AlmondBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b7119302d341a0e937f94f41c782818",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240317",
             "fullstartdate": "202403171600",
