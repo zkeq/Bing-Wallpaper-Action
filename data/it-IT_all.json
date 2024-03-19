@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-18 00:48:28",
-    "Total": 691,
+    "LastUpdate": "2024-03-19 00:48:29",
+    "Total": 692,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240318",
+            "fullstartdate": "202403182300",
+            "enddate": "20240319",
+            "url": "/th?id=OHR.RedFox_IT-IT0563708572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedFox_IT-IT0563708572",
+            "copyright": "Papà e piccolo di volpe rossa, Washington, Stati Uniti (© Chase Dekker/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=festa+del+pap%C3%A0&form=hpcapt",
+            "title": "Festeggiamo tutti i papà del mondo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240318_RedFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f11555b7521d45559deee98d4d35db75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240317",
             "fullstartdate": "202403172300",
