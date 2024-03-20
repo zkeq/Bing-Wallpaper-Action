@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-19 00:48:29",
-    "Total": 692,
+    "LastUpdate": "2024-03-20 00:48:19",
+    "Total": 693,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240319",
+            "fullstartdate": "202403192300",
+            "enddate": "20240320",
+            "url": "/th?id=OHR.SpringCaveDale_IT-IT3874246493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringCaveDale_IT-IT3874246493",
+            "copyright": "Cave Dale e Peveril Castle a Castleton, Derbyshire Peak District, Inghilterra (© James Osmond/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+Peveril&form=hpcapt",
+            "title": "Una splendida passeggiata",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240319_SpringCaveDale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0cd5dc44f3d1e340053f13f0be2a825",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240318",
             "fullstartdate": "202403182300",
