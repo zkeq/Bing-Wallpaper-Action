@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-19 00:48:11",
-    "Total": 691,
+    "LastUpdate": "2024-03-20 00:48:02",
+    "Total": 692,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240319",
+            "fullstartdate": "202403190400",
+            "enddate": "20240320",
+            "url": "/th?id=OHR.SpringFrog_EN-CA2338821027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringFrog_EN-CA2338821027",
+            "copyright": "Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Spring+equinox&form=hpcapt&filters=HpDate%3a%2220240319_0400%22",
+            "title": "Hop into spring!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240319_SpringFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b972a605648fc896e575730ed23b417a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240318",
             "fullstartdate": "202403180400",
