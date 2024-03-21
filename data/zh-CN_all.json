@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-20 00:47:43",
-    "Total": 693,
+    "LastUpdate": "2024-03-21 00:47:47",
+    "Total": 694,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240320",
+            "fullstartdate": "202403201600",
+            "enddate": "20240321",
+            "url": "/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BwindiNationalForest_ZH-CN0436137473",
+            "copyright": "布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%A3%AE%E6%9E%97%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "森林多美好呀！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240320_BwindiNationalForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cd43a11af7de0d0ec6add637efa3fdb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240319",
             "fullstartdate": "202403191600",
