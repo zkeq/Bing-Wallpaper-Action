@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-20 00:48:11",
-    "Total": 693,
+    "LastUpdate": "2024-03-21 00:48:14",
+    "Total": 694,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240320",
+            "fullstartdate": "202403201830",
+            "enddate": "20240321",
+            "url": "/th?id=OHR.BwindiNationalForest_EN-IN2480914473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BwindiNationalForest_EN-IN2480914473",
+            "copyright": "Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Forests&form=hpcapt&filters=HpDate%3a%2220240320_1830%22",
+            "title": "Woodn't it be nice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240320_BwindiNationalForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41a62c5bfef3025e3ad876a255424a91",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240319",
             "fullstartdate": "202403191830",
