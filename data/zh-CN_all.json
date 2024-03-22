@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-21 00:47:47",
-    "Total": 694,
+    "LastUpdate": "2024-03-22 00:47:44",
+    "Total": 695,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240321",
+            "fullstartdate": "202403211600",
+            "enddate": "20240322",
+            "url": "/th?id=OHR.WaikatoWater_ZH-CN0417438809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaikatoWater_ZH-CN0417438809",
+            "copyright": "蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "我们在庆祝“水”？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240321_WaikatoWater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb5669928603b80c98f34ce1c4c11fde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240320",
             "fullstartdate": "202403201600",
