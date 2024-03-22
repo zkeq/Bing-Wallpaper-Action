@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-21 00:48:01",
-    "Total": 694,
+    "LastUpdate": "2024-03-22 00:47:58",
+    "Total": 695,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240321",
+            "fullstartdate": "202403212300",
+            "enddate": "20240322",
+            "url": "/th?id=OHR.WaikatoWater_DE-DE6943306276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaikatoWater_DE-DE6943306276",
+            "copyright": "Blue Spring, Te Waihou Walkway, Neuseeland (© Ian Beattie/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltwassertag&form=hpcapt&filters=HpDate%3a%2220240321_2300%22",
+            "title": "Lebensstrom am Weltwassertag",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240321_WaikatoWater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc216394d9d1d7b5d39b8486e6fd3f6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240320",
             "fullstartdate": "202403202300",
