@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-21 00:48:10",
-    "Total": 693,
+    "LastUpdate": "2024-03-22 00:48:07",
+    "Total": 694,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240322",
+            "fullstartdate": "202403220000",
+            "enddate": "20240323",
+            "url": "/th?id=OHR.WaikatoWater_EN-GB8519481849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaikatoWater_EN-GB8519481849",
+            "copyright": "Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Water+Day&form=hpcapt&filters=HpDate%3a%2220240322_0000%22",
+            "title": "'Water' we celebrating?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240322_WaikatoWater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b6c0446d67e55d759aa2e26a7c21369",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240321",
             "fullstartdate": "202403210000",
