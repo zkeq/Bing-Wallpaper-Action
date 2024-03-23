@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-22 00:47:58",
-    "Total": 695,
+    "LastUpdate": "2024-03-23 00:47:51",
+    "Total": 696,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240322",
+            "fullstartdate": "202403222300",
+            "enddate": "20240323",
+            "url": "/th?id=OHR.AmazonClouds_DE-DE3843150009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmazonClouds_DE-DE3843150009",
+            "copyright": "Große Ambosswolken über dem Amazonas in Brasilien (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Meteorologie&form=hpcapt&filters=HpDate%3a%2220240322_2300%22",
+            "title": "Mutter Erde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240322_AmazonClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "64d57ec74c4bdad734faa39e1302b9e8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240321",
             "fullstartdate": "202403212300",
