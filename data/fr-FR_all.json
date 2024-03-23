@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-22 00:48:15",
-    "Total": 695,
+    "LastUpdate": "2024-03-23 00:48:08",
+    "Total": 696,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240322",
+            "fullstartdate": "202403222300",
+            "enddate": "20240323",
+            "url": "/th?id=OHR.AmazonClouds_FR-FR8491787407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmazonClouds_FR-FR8491787407",
+            "copyright": "Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+mondiale+de+la+m%C3%A9t%C3%A9orologie&form=hpcapt&filters=HpDate%3a%2220240322_2300%22",
+            "title": "Vive la météo !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240322_AmazonClouds%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "086cfbd2e51636c43c06b930ca0e1728",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240321",
             "fullstartdate": "202403212300",
