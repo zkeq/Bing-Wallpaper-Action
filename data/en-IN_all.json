@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-23 00:48:04",
-    "Total": 696,
+    "LastUpdate": "2024-03-24 00:48:28",
+    "Total": 697,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240323",
+            "fullstartdate": "202403231830",
+            "enddate": "20240324",
+            "url": "/th?id=OHR.WhiteEyes_EN-IN1161324930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEyes_EN-IN1161324930",
+            "copyright": "Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Silvereye+birds&form=hpcapt&filters=HpDate%3a%2220240323_1830%22",
+            "title": "Could you scoot over a little, please?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240323_WhiteEyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "31e5a3a9610cf65ab60f698e729426b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240322",
             "fullstartdate": "202403221830",
