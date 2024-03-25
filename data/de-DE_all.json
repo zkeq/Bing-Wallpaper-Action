@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-24 00:48:15",
-    "Total": 697,
+    "LastUpdate": "2024-03-25 00:48:00",
+    "Total": 698,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240324",
+            "fullstartdate": "202403242300",
+            "enddate": "20240325",
+            "url": "/th?id=OHR.ColorfulHoli_DE-DE3992457522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulHoli_DE-DE3992457522",
+            "copyright": "Hinduistische Gläubige spielen mit bunten Pulvern während Holi, Indien (© Avishek Das/SOPA Images/LightRocket via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Holi+Fest&form=hpcapt&filters=HpDate%3a%2220240324_2300%22",
+            "title": "Kunterbuntes Fest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240324_ColorfulHoli%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "fc0dae0a1d2d6c45bba7adcd4639fd6a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240323",
             "fullstartdate": "202403232300",
