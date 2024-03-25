@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-24 00:48:28",
-    "Total": 697,
+    "LastUpdate": "2024-03-25 00:48:13",
+    "Total": 698,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240324",
+            "fullstartdate": "202403241830",
+            "enddate": "20240325",
+            "url": "/th?id=OHR.ColorfulHoli_EN-IN1408702608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulHoli_EN-IN1408702608",
+            "copyright": "Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=holi&form=hpcapt&filters=HpDate%3a%2220240324_1830%22",
+            "title": "Painting the town",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240324_ColorfulHoli%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7eb9c3a267c61bd6fb0638b0b147f735",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240323",
             "fullstartdate": "202403231830",
