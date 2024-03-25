@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-24 00:48:06",
-    "Total": 697,
+    "LastUpdate": "2024-03-25 00:47:51",
+    "Total": 698,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240324",
+            "fullstartdate": "202403240700",
+            "enddate": "20240325",
+            "url": "/th?id=OHR.WhiteEyes_EN-US2249866810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEyes_EN-US2249866810",
+            "copyright": "Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Silvereye+birds&form=hpcapt&filters=HpDate%3a%2220240324_0700%22",
+            "title": "Where are these birds of a feather?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240324_WhiteEyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "600e35237bbdcae7ccd5fa1ce5e32eda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240323",
             "fullstartdate": "202403230700",
