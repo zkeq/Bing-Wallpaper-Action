@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-24 00:48:24",
-    "Total": 696,
+    "LastUpdate": "2024-03-25 00:48:08",
+    "Total": 697,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240325",
+            "fullstartdate": "202403250000",
+            "enddate": "20240326",
+            "url": "/th?id=OHR.ColorfulHoli_EN-GB2645468196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulHoli_EN-GB2645468196",
+            "copyright": "Hindu devotees play with colourful powders during Holi, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=holi&form=hpcapt&filters=HpDate%3a%2220240325_0000%22",
+            "title": "Painting the town",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240325_ColorfulHoli%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1141482585df68a2758a87a21ae5a407",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240324",
             "fullstartdate": "202403240000",
