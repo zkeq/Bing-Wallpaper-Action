@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-26 00:48:11",
-    "Total": 699,
+    "LastUpdate": "2024-03-27 00:48:14",
+    "Total": 700,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240326",
+            "fullstartdate": "202403261830",
+            "enddate": "20240327",
+            "url": "/th?id=OHR.AmerFortJaipur_EN-IN2082526909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmerFortJaipur_EN-IN2082526909",
+            "copyright": "An evening at the Amber Fort, near Jaipur, India (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Amber+fort+Rajasthan&form=hpcapt&filters=HpDate%3a%2220240326_1830%22",
+            "title": "Into the golden dusk",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240326_AmerFortJaipur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c145adbdc295d92534349b2c9cd8b323",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240325",
             "fullstartdate": "202403251830",
