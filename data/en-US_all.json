@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-26 00:47:49",
-    "Total": 699,
+    "LastUpdate": "2024-03-27 00:47:53",
+    "Total": 700,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240326",
+            "fullstartdate": "202403260700",
+            "enddate": "20240327",
+            "url": "/th?id=OHR.HangRaiVietnam_EN-US2418713642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HangRaiVietnam_EN-US2418713642",
+            "copyright": "Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=hang+rai+cave&form=hpcapt&filters=HpDate%3a%2220240326_0700%22",
+            "title": "A tidal tango",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240326_HangRaiVietnam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cfa5e6e03ddd1d3ffebac3f83d991e39",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240325",
             "fullstartdate": "202403250700",
