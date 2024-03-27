@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-26 00:47:54",
-    "Total": 699,
+    "LastUpdate": "2024-03-27 00:47:57",
+    "Total": 700,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240326",
+            "fullstartdate": "202403261500",
+            "enddate": "20240327",
+            "url": "/th?id=OHR.TeatroColon_JA-JP5032198346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeatroColon_JA-JP5032198346",
+            "copyright": "テアトロ・コロン, アルゼンチン (© Wei Hao Ho/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%9A%E3%83%A9%E5%8A%87%E5%A0%B4+%E3%83%86%E3%82%A2%E3%83%88%E3%83%AD%E3%83%BB%E3%82%B3%E3%83%AD%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240326_1500%22",
+            "title": "今日は世界演劇の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240326_TeatroColon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f38e9db45ad2ea092ae29ebfb4a1566d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240325",
             "fullstartdate": "202403251500",
