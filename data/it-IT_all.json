@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-27 00:48:23",
-    "Total": 700,
+    "LastUpdate": "2024-03-28 00:48:21",
+    "Total": 701,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240327",
+            "fullstartdate": "202403272300",
+            "enddate": "20240328",
+            "url": "/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818",
+            "copyright": "Fiori di ciliegio a Shanghai, in Cina (© Yaorusheng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=fiore+di+ciliegio&form=hpcapt",
+            "title": "Un sentiero costellato di petali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240327_ShanghaiBlossoms%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b242eb2b3fcb424046cac9e2013d2467",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240326",
             "fullstartdate": "202403262300",
