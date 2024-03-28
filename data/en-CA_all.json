@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-27 00:48:06",
-    "Total": 699,
+    "LastUpdate": "2024-03-28 00:48:04",
+    "Total": 700,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240327",
+            "fullstartdate": "202403270400",
+            "enddate": "20240328",
+            "url": "/th?id=OHR.TeatroColon_EN-CA3441577861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeatroColon_EN-CA3441577861",
+            "copyright": "Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Theatre+Day&form=hpcapt&filters=HpDate%3a%2220240327_0400%22",
+            "title": "Theatre takes centre stage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240327_TeatroColon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6edaa2e1e6c0916942bf151f4afab85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240326",
             "fullstartdate": "202403260400",
