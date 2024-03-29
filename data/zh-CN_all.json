@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-28 00:47:46",
-    "Total": 701,
+    "LastUpdate": "2024-03-29 00:47:43",
+    "Total": 702,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240328",
+            "fullstartdate": "202403281600",
+            "enddate": "20240329",
+            "url": "/th?id=OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthStackLight_ZH-CN5932471774",
+            "copyright": "日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9C%8D%E5%88%A9%E5%B8%8C%E5%BE%B7&form=hpcapt&mkt=zh-cn",
+            "title": "潮涨潮落，灯火通明",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240328_SouthStackLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "259f54d785e9ebf610729787a05fb5f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240327",
             "fullstartdate": "202403271600",
