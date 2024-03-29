@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-28 00:48:00",
-    "Total": 701,
+    "LastUpdate": "2024-03-29 00:47:57",
+    "Total": 702,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240328",
+            "fullstartdate": "202403282300",
+            "enddate": "20240329",
+            "url": "/th?id=OHR.SouthStackLight_DE-DE4463746049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthStackLight_DE-DE4463746049",
+            "copyright": "South Stack Leuchtturm bei Sonnenuntergang, Holyhead, Wales, UK (© mariotlr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=South+Stack+Leuchtturm&form=hpcapt&filters=HpDate%3a%2220240328_2300%22",
+            "title": "Leuchtfeuer der Abenddämmerung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240328_SouthStackLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "648eeb1124b883ee7f086048b1f609f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240327",
             "fullstartdate": "202403272300",
