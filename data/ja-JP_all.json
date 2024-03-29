@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-28 00:47:56",
-    "Total": 701,
+    "LastUpdate": "2024-03-29 00:47:52",
+    "Total": 702,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240328",
+            "fullstartdate": "202403281500",
+            "enddate": "20240329",
+            "url": "/th?id=OHR.SouthStackLight_JA-JP5461690758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthStackLight_JA-JP5461690758",
+            "copyright": "サウススタック灯台, イギリス (© mariotlr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240328_1500%22",
+            "title": "夕暮れに映える灯台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240328_SouthStackLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "375bbd427da4dec8eca0a244ff330249",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240327",
             "fullstartdate": "202403271500",
