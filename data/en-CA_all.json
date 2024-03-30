@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-29 00:48:01",
-    "Total": 701,
+    "LastUpdate": "2024-03-30 00:47:55",
+    "Total": 702,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240329",
+            "fullstartdate": "202403290400",
+            "enddate": "20240330",
+            "url": "/th?id=OHR.SouthStackLight_EN-CA7056549595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SouthStackLight_EN-CA7056549595",
+            "copyright": "South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=South+Stack+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240329_0400%22",
+            "title": "High tides and bright lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240329_SouthStackLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "910c15319cdd6e96dc05acd2649cfcb7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240328",
             "fullstartdate": "202403280400",
