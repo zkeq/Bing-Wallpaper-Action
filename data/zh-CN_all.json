@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-30 00:47:37",
-    "Total": 703,
+    "LastUpdate": "2024-03-31 00:48:04",
+    "Total": 704,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240330",
+            "fullstartdate": "202403301600",
+            "enddate": "20240331",
+            "url": "/th?id=OHR.ArdeAlba_ZH-CN6807697569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArdeAlba_ZH-CN6807697569",
+            "copyright": "潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%99%BD%E9%B9%AD&form=hpcapt&mkt=zh-cn",
+            "title": "纯洁与优雅的象征",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240330_ArdeAlba%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f01e316c12933b39fa51a9fcc1d4318",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240329",
             "fullstartdate": "202403291600",
