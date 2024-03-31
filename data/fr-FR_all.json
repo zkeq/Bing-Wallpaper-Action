@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-30 00:48:08",
-    "Total": 703,
+    "LastUpdate": "2024-03-31 00:48:36",
+    "Total": 704,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240330",
+            "fullstartdate": "202403302300",
+            "enddate": "20240331",
+            "url": "/th?id=OHR.HungarianEggs_FR-FR9262429239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HungarianEggs_FR-FR9262429239",
+            "copyright": "Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=p%C3%A2ques&form=hpcapt&filters=HpDate%3a%2220240330_2300%22",
+            "title": "La chasse aux œufs est ouverte !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240330_HungarianEggs%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "58ae8e8ba8e9768a01300dc592f7505b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240329",
             "fullstartdate": "202403292300",
