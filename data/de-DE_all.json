@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-30 00:47:51",
-    "Total": 703,
+    "LastUpdate": "2024-03-31 00:48:19",
+    "Total": 704,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240330",
+            "fullstartdate": "202403302300",
+            "enddate": "20240331",
+            "url": "/th?id=OHR.HungarianEggs_DE-DE6470935823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HungarianEggs_DE-DE6470935823",
+            "copyright": "Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ostern&form=hpcapt&filters=HpDate%3a%2220240330_2300%22",
+            "title": "Hat der Osterhase diese Eier versteckt?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240330_HungarianEggs%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "11268f2f9aa15c693218786b64fee14d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240329",
             "fullstartdate": "202403292300",
