@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-31 00:48:32",
-    "Total": 704,
+    "LastUpdate": "2024-04-01 00:48:28",
+    "Total": 705,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240331",
+            "fullstartdate": "202403311830",
+            "enddate": "20240401",
+            "url": "/th?id=OHR.PalazzoFarnese_EN-IN6555201202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalazzoFarnese_EN-IN6555201202",
+            "copyright": "'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Palazzo+Farnese&form=hpcapt&filters=HpDate%3a%2220240331_1830%22",
+            "title": "Don't believe your eyes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240331_PalazzoFarnese%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "dc73166b046a53d64579d88d1fbf1a20",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240330",
             "fullstartdate": "202403301830",
