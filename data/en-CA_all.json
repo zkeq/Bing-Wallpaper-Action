@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-31 00:48:23",
-    "Total": 703,
+    "LastUpdate": "2024-04-01 00:48:20",
+    "Total": 704,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240331",
+            "fullstartdate": "202403310400",
+            "enddate": "20240401",
+            "url": "/th?id=OHR.HungarianEggs_EN-CA7704543588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HungarianEggs_EN-CA7704543588",
+            "copyright": "Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Easter+weekend&form=hpcapt&filters=HpDate%3a%2220240331_0400%22",
+            "title": "Egg-cellent craftmanship",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240331_HungarianEggs%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "94315f794feb25c9a0ce86d21d258c2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240330",
             "fullstartdate": "202403300400",
