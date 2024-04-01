@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-03-31 00:48:04",
-    "Total": 704,
+    "LastUpdate": "2024-04-01 00:48:02",
+    "Total": 705,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240331",
+            "fullstartdate": "202403311600",
+            "enddate": "20240401",
+            "url": "/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontBlancGlacier_ZH-CN2918240023",
+            "copyright": "勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E6%B5%B7&form=hpcapt&mkt=zh-cn",
+            "title": "岌岌可危的冰川",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240331_MontBlancGlacier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6a82dcbdf90af0faaec02faf5b89e7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240330",
             "fullstartdate": "202403301600",
