@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-01 00:48:16",
-    "Total": 705,
+    "LastUpdate": "2024-04-02 00:48:13",
+    "Total": 706,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240401",
+            "fullstartdate": "202404012200",
+            "enddate": "20240402",
+            "url": "/th?id=OHR.JutlandSpring_DE-DE6705207300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JutlandSpring_DE-DE6705207300",
+            "copyright": "Buchen und wilde Buschwindröschen, Jütland, Dänemark (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=J%C3%BCtland+D%C3%A4nemark&form=hpcapt&filters=HpDate%3a%2220240401_2200%22",
+            "title": "Lichtstrahl über Bäume und Wiesen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_JutlandSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01bf3a75955afff1cc2249e2da406e94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240331",
             "fullstartdate": "202403312200",
