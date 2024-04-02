@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-01 00:48:02",
-    "Total": 705,
+    "LastUpdate": "2024-04-02 00:47:59",
+    "Total": 706,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240401",
+            "fullstartdate": "202404011600",
+            "enddate": "20240402",
+            "url": "/th?id=OHR.JutlandSpring_ZH-CN7785758539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JutlandSpring_ZH-CN7785758539",
+            "copyright": "日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E5%BE%B7%E5%85%B0%E5%8D%8A%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "一缕阳光下的林地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_JutlandSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47b67ebd907b107529202ae7ffa610b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240331",
             "fullstartdate": "202403311600",
