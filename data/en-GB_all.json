@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-01 00:48:25",
-    "Total": 703,
+    "LastUpdate": "2024-04-02 00:48:21",
+    "Total": 704,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240401",
+            "fullstartdate": "202404012300",
+            "enddate": "20240402",
+            "url": "/th?id=OHR.JutlandSpring_EN-GB1991600575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JutlandSpring_EN-GB1991600575",
+            "copyright": "Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jutland+Denmark&form=hpcapt&filters=HpDate%3a%2220240401_2300%22",
+            "title": "Beneath a ray of light",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_JutlandSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "660d653576b64174d694f93e7c41d620",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240331",
             "fullstartdate": "202403310000",
