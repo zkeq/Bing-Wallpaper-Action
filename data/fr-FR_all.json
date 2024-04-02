@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-01 00:48:33",
-    "Total": 705,
+    "LastUpdate": "2024-04-02 00:48:30",
+    "Total": 706,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240401",
+            "fullstartdate": "202404012200",
+            "enddate": "20240402",
+            "url": "/th?id=OHR.JutlandSpring_FR-FR9511410007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JutlandSpring_FR-FR9511410007",
+            "copyright": "Hêtres et anémones sauvages, Jutland, Danemark (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jutland+danemark&form=hpcapt&filters=HpDate%3a%2220240401_2200%22",
+            "title": "Petit rayon de soleil printanier",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_JutlandSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a17d59920286a590c40b62335d118a7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240331",
             "fullstartdate": "202403312200",
