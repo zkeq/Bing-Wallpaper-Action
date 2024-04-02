@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-01 00:48:07",
-    "Total": 705,
+    "LastUpdate": "2024-04-02 00:48:04",
+    "Total": 706,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240401",
+            "fullstartdate": "202404010700",
+            "enddate": "20240402",
+            "url": "/th?id=OHR.PalazzoFarnese_EN-US3142967327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalazzoFarnese_EN-US3142967327",
+            "copyright": "'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=april+fools+day&form=hpcapt&filters=HpDate%3a%2220240401_0700%22",
+            "title": "Don't believe your eyes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_PalazzoFarnese%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "5d79d9206603c87a7b6a3d5b407b0e19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240331",
             "fullstartdate": "202403310700",
