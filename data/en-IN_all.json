@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-02 00:48:26",
-    "Total": 706,
+    "LastUpdate": "2024-04-03 00:48:11",
+    "Total": 707,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240402",
+            "fullstartdate": "202404021830",
+            "enddate": "20240403",
+            "url": "/th?id=OHR.TeaPlantation_EN-IN7563100977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeaPlantation_EN-IN7563100977",
+            "copyright": "Tea plantation near Munnar, Kerala (© Peter Zelei Images/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=munnar&form=hpcapt&filters=HpDate%3a%2220240402_1830%22",
+            "title": "A serene Tea-rrain",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240402_TeaPlantation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "554c00873abad61c9056124dd55a6aa5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240401",
             "fullstartdate": "202404011830",
