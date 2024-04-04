@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-03 00:47:43",
-    "Total": 707,
+    "LastUpdate": "2024-04-04 00:47:54",
+    "Total": 708,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240403",
+            "fullstartdate": "202404031600",
+            "enddate": "20240404",
+            "url": "/th?id=OHR.AntelopeBotswana_ZH-CN8253323519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntelopeBotswana_ZH-CN8253323519",
+            "copyright": "红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%B4%E7%BE%9A&form=hpcapt&mkt=zh-cn",
+            "title": "沼泽地上的漫游者",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240403_AntelopeBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96bda8b38c6f8085da9c5eeac751f24e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240402",
             "fullstartdate": "202404021600",
