@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-03 00:48:15",
-    "Total": 707,
+    "LastUpdate": "2024-04-04 00:48:25",
+    "Total": 708,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240403",
+            "fullstartdate": "202404032200",
+            "enddate": "20240404",
+            "url": "/th?id=OHR.AntelopeBotswana_FR-FR1380338577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntelopeBotswana_FR-FR1380338577",
+            "copyright": "Troupeau de cobes de lechwe rouge traversant la plaine marécageuse du delta de l'Okavango, Botswana (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cobe+lechwe+rouge&form=hpcapt&filters=HpDate%3a%2220240403_2200%22",
+            "title": "Les vagabonds des marais",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240403_AntelopeBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17486085694e096948c67c37cdfb88a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240402",
             "fullstartdate": "202404022200",
