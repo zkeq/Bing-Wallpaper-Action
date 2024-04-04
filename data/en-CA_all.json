@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-03 00:48:02",
-    "Total": 706,
+    "LastUpdate": "2024-04-04 00:48:12",
+    "Total": 707,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240403",
+            "fullstartdate": "202404030400",
+            "enddate": "20240404",
+            "url": "/th?id=OHR.PacificRimNationalPark_EN-CA1275623465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PacificRimNationalPark_EN-CA1275623465",
+            "copyright": "Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia (© Ron Watts/Design Pics/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pacific+Rim+National+Park+Reserve&form=hpcapt&filters=HpDate%3a%2220240403_0400%22",
+            "title": "Not all who wander are lost",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240403_PacificRimNationalPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "168115da069137109ca2880b70a9f3f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240402",
             "fullstartdate": "202404020400",
