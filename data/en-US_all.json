@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-04 00:48:00",
-    "Total": 708,
+    "LastUpdate": "2024-04-05 00:47:53",
+    "Total": 709,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240404",
+            "fullstartdate": "202404040700",
+            "enddate": "20240405",
+            "url": "/th?id=OHR.AntelopeBotswana_EN-US3335739405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntelopeBotswana_EN-US3335739405",
+            "copyright": "Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lechwe&form=hpcapt&filters=HpDate%3a%2220240404_0700%22",
+            "title": "Wanderers of the wetlands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240404_AntelopeBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe51bd3429fdcb523b2b57b2a950500d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240403",
             "fullstartdate": "202404030700",
