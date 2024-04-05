@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-04 00:48:04",
-    "Total": 708,
+    "LastUpdate": "2024-04-05 00:47:57",
+    "Total": 709,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240404",
+            "fullstartdate": "202404041500",
+            "enddate": "20240405",
+            "url": "/th?id=OHR.BahamasSpace_JA-JP3451367539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BahamasSpace_JA-JP3451367539",
+            "copyright": "バハマ諸島, バハマ (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%8F%E3%83%9E%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240404_1500%22",
+            "title": "カリブ海の宝石",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240404_BahamasSpace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55784eb265d4577b418fcfd306270bbf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240403",
             "fullstartdate": "202404031500",
