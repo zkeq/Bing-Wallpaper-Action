@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-05 00:48:06",
-    "Total": 708,
+    "LastUpdate": "2024-04-06 00:48:03",
+    "Total": 709,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240405",
+            "fullstartdate": "202404050400",
+            "enddate": "20240406",
+            "url": "/th?id=OHR.BahamasSpace_EN-CA5271585501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BahamasSpace_EN-CA5271585501",
+            "copyright": "The Bahamas photographed from the International Space Station (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=The+Bahamas&form=hpcapt&filters=HpDate%3a%2220240405_0400%22",
+            "title": "A dive into the blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_BahamasSpace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d95ec9b342971e3cb51d2ce3b79bebc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240404",
             "fullstartdate": "202404040400",
