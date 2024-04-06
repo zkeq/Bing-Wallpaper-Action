@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-05 00:48:19",
-    "Total": 709,
+    "LastUpdate": "2024-04-06 00:48:16",
+    "Total": 710,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240405",
+            "fullstartdate": "202404052200",
+            "enddate": "20240406",
+            "url": "/th?id=OHR.JapanHimeji_FR-FR4643255326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanHimeji_FR-FR4643255326",
+            "copyright": "Château de Himeji, Hyōgo, Japon (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Himeji&form=hpcapt&filters=HpDate%3a%2220240405_2200%22",
+            "title": "Une vue royale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_JapanHimeji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dbf524f79983bc08febac772f6c64e2f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240404",
             "fullstartdate": "202404042200",
