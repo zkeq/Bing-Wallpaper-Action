@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-05 00:48:23",
-    "Total": 709,
+    "LastUpdate": "2024-04-06 00:48:20",
+    "Total": 710,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240405",
+            "fullstartdate": "202404052200",
+            "enddate": "20240406",
+            "url": "/th?id=OHR.JapanHimeji_IT-IT3790659701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanHimeji_IT-IT3790659701",
+            "copyright": "Castello di Himeji, Prefettura di Hyōgo, Giappone (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+Himeji+dov%27%C3%A8&form=hpcapt",
+            "title": "Una visione maestosa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_JapanHimeji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "835cc5f2449d270e8f4145d9268981eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240404",
             "fullstartdate": "202404042200",
