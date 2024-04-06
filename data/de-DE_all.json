@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-05 00:48:01",
-    "Total": 709,
+    "LastUpdate": "2024-04-06 00:47:58",
+    "Total": 710,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240405",
+            "fullstartdate": "202404052200",
+            "enddate": "20240406",
+            "url": "/th?id=OHR.JapanHimeji_DE-DE3876117869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanHimeji_DE-DE3876117869",
+            "copyright": "Himeji Burg, Himeji, Hyōgo Präfektur, Japan (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Burg+Himeji%2c+Japan&form=hpcapt&filters=HpDate%3a%2220240405_2200%22",
+            "title": "Morgenländische Burg",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_JapanHimeji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5b6be09fddd40b68081b8c668c5dd476",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240404",
             "fullstartdate": "202404042200",
