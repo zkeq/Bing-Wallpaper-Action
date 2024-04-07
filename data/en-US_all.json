@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-06 00:47:49",
-    "Total": 710,
+    "LastUpdate": "2024-04-07 00:48:08",
+    "Total": 711,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240406",
+            "fullstartdate": "202404060700",
+            "enddate": "20240407",
+            "url": "/th?id=OHR.JapanHimeji_EN-US1768279571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanHimeji_EN-US1768279571",
+            "copyright": "Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Himeji+Castle+Japan&form=hpcapt&filters=HpDate%3a%2220240406_0700%22",
+            "title": "A royal view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_JapanHimeji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e906cf330dff0eed93f4d6049c5220bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240405",
             "fullstartdate": "202404050700",
