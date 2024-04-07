@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-06 00:48:16",
-    "Total": 710,
+    "LastUpdate": "2024-04-07 00:48:34",
+    "Total": 711,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240406",
+            "fullstartdate": "202404062200",
+            "enddate": "20240407",
+            "url": "/th?id=OHR.BeaverDenali_FR-FR4899490419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverDenali_FR-FR4899490419",
+            "copyright": "Castor du Canada dans un étang près du lac Wonder, parc national de Denali, Alaska, États-Unis (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=castor+du+canada&form=hpcapt&filters=HpDate%3a%2220240406_2200%22",
+            "title": "Un castor branché !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5102fbe774e273a289711aa26b468129",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240405",
             "fullstartdate": "202404052200",
