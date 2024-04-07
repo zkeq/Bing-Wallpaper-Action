@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-06 00:48:07",
-    "Total": 708,
+    "LastUpdate": "2024-04-07 00:48:26",
+    "Total": 709,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240406",
+            "fullstartdate": "202404062300",
+            "enddate": "20240407",
+            "url": "/th?id=OHR.BeaverDenali_EN-GB1771360512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverDenali_EN-GB1771360512",
+            "copyright": "North American beaver in a pond near Wonder Lake, Denali National Park, Alaska, USA (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Beaver+Day&form=hpcapt&filters=HpDate%3a%2220240406_2300%22",
+            "title": "Look, I'm a branch manager!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5fe28a821f430b55fe3fd336c8c5e8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240405",
             "fullstartdate": "202404052300",
