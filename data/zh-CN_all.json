@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-06 00:47:44",
-    "Total": 710,
+    "LastUpdate": "2024-04-07 00:48:03",
+    "Total": 711,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240406",
+            "fullstartdate": "202404061600",
+            "enddate": "20240407",
+            "url": "/th?id=OHR.BeaverDenali_ZH-CN8736013851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverDenali_ZH-CN8736013851",
+            "copyright": "奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国 (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%B5%B7%E7%8B%B8%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "看，我是树枝整理师！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9fbb4f578739a37bd0b7faff80ed643e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240405",
             "fullstartdate": "202404051600",
