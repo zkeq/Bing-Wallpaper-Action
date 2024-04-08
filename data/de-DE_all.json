@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-07 00:48:17",
-    "Total": 711,
+    "LastUpdate": "2024-04-08 00:48:07",
+    "Total": 712,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240407",
+            "fullstartdate": "202404072200",
+            "enddate": "20240408",
+            "url": "/th?id=OHR.HedgehogMeadow_DE-DE4306396811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HedgehogMeadow_DE-DE4306396811",
+            "copyright": "Braunbrustigel in einem Garten mit Löwenzahn, Bad Driburg, Nordrhein-Westfalen (© Oksana Schmidt/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Braunbrustigel&form=hpcapt&filters=HpDate%3a%2220240407_2200%22",
+            "title": "Gelbe Träume auf grüner Flur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240407_HedgehogMeadow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "389f5658917497f1aca247b0e79149e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240406",
             "fullstartdate": "202404062200",
