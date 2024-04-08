@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-07 00:48:12",
-    "Total": 711,
+    "LastUpdate": "2024-04-08 00:48:03",
+    "Total": 712,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240407",
+            "fullstartdate": "202404071500",
+            "enddate": "20240408",
+            "url": "/th?id=OHR.SpringApple_JA-JP3983835058_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringApple_JA-JP3983835058",
+            "copyright": "リンゴの果樹園, ドイツ (© Smileus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%A5%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%AE%E6%9C%A8&form=hpcapt&filters=HpDate%3a%2220240407_1500%22",
+            "title": "春に白い花が咲く木",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240407_SpringApple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "16195605bdac64f79f5a8e9d538ec8a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240406",
             "fullstartdate": "202404061500",
