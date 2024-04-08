@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-07 00:48:03",
-    "Total": 711,
+    "LastUpdate": "2024-04-08 00:47:53",
+    "Total": 712,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240407",
+            "fullstartdate": "202404071600",
+            "enddate": "20240408",
+            "url": "/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HedgehogMeadow_ZH-CN8845586473",
+            "copyright": "欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E6%B4%B2%E5%88%BA%E7%8C%AC&form=hpcapt&mkt=zh-cn",
+            "title": "闻闻春天的气息",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240407_HedgehogMeadow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e049a1c0d9ed960b8a58537fd5555263",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240406",
             "fullstartdate": "202404061600",
