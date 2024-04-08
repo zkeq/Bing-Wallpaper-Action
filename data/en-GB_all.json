@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-07 00:48:26",
-    "Total": 709,
+    "LastUpdate": "2024-04-08 00:48:16",
+    "Total": 710,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240407",
+            "fullstartdate": "202404072300",
+            "enddate": "20240408",
+            "url": "/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101",
+            "copyright": "Llansteffan Castle, Carmarthenshire, Wales (© Roy Shakespeare/Loop Images Ltd/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Llansteffan+Castle+Carmarthenshire+Wales&form=hpcapt&filters=HpDate%3a%2220240407_2300%22",
+            "title": "If these walls could talk...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240407_LlansteffanCastleWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b67bc3188c8d40ab34177ca81ee3e8a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240406",
             "fullstartdate": "202404062300",
