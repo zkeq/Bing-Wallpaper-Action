@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-08 00:48:25",
-    "Total": 712,
+    "LastUpdate": "2024-04-09 00:48:17",
+    "Total": 713,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240408",
+            "fullstartdate": "202404082200",
+            "enddate": "20240409",
+            "url": "/th?id=OHR.SkagitValleyTulips_FR-FR5605427883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkagitValleyTulips_FR-FR5605427883",
+            "copyright": "Champs de tulipes au printemps, Skagit Valley, Washington, États-Unis (© Claudia Cooper/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=tulipe&form=hpcapt&filters=HpDate%3a%2220240408_2200%22",
+            "title": "Tulipe ou pas tulipe ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_SkagitValleyTulips%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7593649c8ec2ae79d9b1958994558790",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240407",
             "fullstartdate": "202404072200",
