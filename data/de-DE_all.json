@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-08 00:48:07",
-    "Total": 712,
+    "LastUpdate": "2024-04-09 00:48:00",
+    "Total": 713,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240408",
+            "fullstartdate": "202404082200",
+            "enddate": "20240409",
+            "url": "/th?id=OHR.SkagitValleyTulips_DE-DE4476556053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkagitValleyTulips_DE-DE4476556053",
+            "copyright": "Tulpenfelder im Frühling, Skagit Valley, Washington, USA (© Claudia Cooper/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Skagit+Valley%2c+Washington%2c+USA&form=hpcapt&filters=HpDate%3a%2220240408_2200%22",
+            "title": "Auf Zehenspitzen durch Tulpenfelder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_SkagitValleyTulips%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6cb502f12e430d0e9880e3f524f3ddc3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240407",
             "fullstartdate": "202404072200",
