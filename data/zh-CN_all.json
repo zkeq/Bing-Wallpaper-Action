@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-08 00:47:53",
-    "Total": 712,
+    "LastUpdate": "2024-04-09 00:47:46",
+    "Total": 713,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240408",
+            "fullstartdate": "202404081600",
+            "enddate": "20240409",
+            "url": "/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306",
+            "copyright": "郁金香田，斯卡吉特山谷，华盛顿州，美国 (© Claudia Cooper/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E5%8D%A1%E5%90%89%E7%89%B9%E5%8E%BF&form=hpcapt&mkt=zh-cn",
+            "title": "踮起脚尖，穿过郁金香",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_SkagitValleyTulips%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb060b8b4fd9d913687f3b0a547ee5ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240407",
             "fullstartdate": "202404071600",
