@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-08 00:48:20",
-    "Total": 712,
+    "LastUpdate": "2024-04-09 00:48:13",
+    "Total": 713,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240408",
+            "fullstartdate": "202404081830",
+            "enddate": "20240409",
+            "url": "/th?id=OHR.SpringCub_EN-IN5365120354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringCub_EN-IN5365120354",
+            "copyright": "American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=american+black+bear&form=hpcapt&filters=HpDate%3a%2220240408_1830%22",
+            "title": "Have I been sleeping too long?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_SpringCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e4a23e783fb44b9acb3a0a75f514d67",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240407",
             "fullstartdate": "202404071830",
