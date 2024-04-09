@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-08 00:48:29",
-    "Total": 712,
+    "LastUpdate": "2024-04-09 00:48:21",
+    "Total": 713,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240408",
+            "fullstartdate": "202404082200",
+            "enddate": "20240409",
+            "url": "/th?id=OHR.SardiniaSalt_IT-IT3748947428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardiniaSalt_IT-IT3748947428",
+            "copyright": "Dune di sale nelle saline, Sardegna, Italia (© Stefano Oppo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=salina+impianto+di+produzione&form=hpcapt",
+            "title": "Un luogo un po’ salato",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_SardiniaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcb254045a57758137e5a3b41535a38d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240407",
             "fullstartdate": "202404072200",
