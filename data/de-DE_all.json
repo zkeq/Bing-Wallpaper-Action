@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-09 00:48:00",
-    "Total": 713,
+    "LastUpdate": "2024-04-10 00:47:56",
+    "Total": 714,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240409",
+            "fullstartdate": "202404092200",
+            "enddate": "20240410",
+            "url": "/th?id=OHR.OwlSiblings_DE-DE4556808000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OwlSiblings_DE-DE4556808000",
+            "copyright": "Kaninchenkäuze in der Nähe einer Höhle, Wyoming, USA (© Danita Delimont/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltgeschwistertag&form=hpcapt&filters=HpDate%3a%2220240409_2200%22",
+            "title": "Ich deins, du meins, zusammen eins",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240409_OwlSiblings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04ceb3564b80a7f8b8829a2b999de902",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240408",
             "fullstartdate": "202404082200",
