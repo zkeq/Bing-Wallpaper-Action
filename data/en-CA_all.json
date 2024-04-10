@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-09 00:48:04",
-    "Total": 712,
+    "LastUpdate": "2024-04-10 00:48:00",
+    "Total": 713,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240409",
+            "fullstartdate": "202404090400",
+            "enddate": "20240410",
+            "url": "/th?id=OHR.WhistlerWSSF_EN-CA2290953999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhistlerWSSF_EN-CA2290953999",
+            "copyright": "Whistler Mountain in the creekside of Whistler (© Insight Photography/Design Pics/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Whistler+Mountain&form=hpcapt&filters=HpDate%3a%2220240409_0400%22",
+            "title": "Flake it till you make it",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240409_WhistlerWSSF%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2882e37a81b1bee01df99a04467553ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240408",
             "fullstartdate": "202404080400",
