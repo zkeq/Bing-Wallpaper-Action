@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-10 00:48:05",
-    "Total": 712,
+    "LastUpdate": "2024-04-11 00:48:27",
+    "Total": 713,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240410",
+            "fullstartdate": "202404102300",
+            "enddate": "20240411",
+            "url": "/th?id=OHR.DragonWaterfall_EN-GB5111698733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonWaterfall_EN-GB5111698733",
+            "copyright": "Aerial view of the Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=angel+falls+venezuela&form=hpcapt&filters=HpDate%3a%2220240410_2300%22",
+            "title": "Don't just dream it, stream it!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240410_DragonWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d9151238bcebec9c429ed24355e0f6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240409",
             "fullstartdate": "202404092300",
