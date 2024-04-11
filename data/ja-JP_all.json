@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-10 00:47:51",
-    "Total": 714,
+    "LastUpdate": "2024-04-11 00:48:14",
+    "Total": 715,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240410",
+            "fullstartdate": "202404101500",
+            "enddate": "20240411",
+            "url": "/th?id=OHR.DragonWaterfall_JA-JP4588588498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonWaterfall_JA-JP4588588498",
+            "copyright": "チュルン・メルー滝, ベネズエラ (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Churun-Meru+waterfall&form=hpcapt&filters=HpDate%3a%2220240410_1500%22",
+            "title": "見事な直瀑",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240410_DragonWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0bb9c43949e56d65179e99ec69b77145",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240409",
             "fullstartdate": "202404091500",
