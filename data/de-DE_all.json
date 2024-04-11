@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-10 00:47:56",
-    "Total": 714,
+    "LastUpdate": "2024-04-11 00:48:18",
+    "Total": 715,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240410",
+            "fullstartdate": "202404102200",
+            "enddate": "20240411",
+            "url": "/th?id=OHR.DragonWaterfall_DE-DE4647448695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonWaterfall_DE-DE4647448695",
+            "copyright": "Luftaufnahme des Wasserfalls Churún-Merú, Venezuela (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Salto+%C3%81ngel&form=hpcapt&filters=HpDate%3a%2220240410_2200%22",
+            "title": "Wasserwalzer: Tanz am Wasserfall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240410_DragonWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3b9dad48b1094bf1b97cad675734b93",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240409",
             "fullstartdate": "202404092200",
