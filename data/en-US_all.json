@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-11 00:48:10",
-    "Total": 715,
+    "LastUpdate": "2024-04-12 00:47:54",
+    "Total": 716,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240411",
+            "fullstartdate": "202404110700",
+            "enddate": "20240412",
+            "url": "/th?id=OHR.DragonWaterfall_EN-US2799967886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonWaterfall_EN-US2799967886",
+            "copyright": "Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Auy%C3%A1n-tepui&form=hpcapt&filters=HpDate%3a%2220240411_0700%22",
+            "title": "Don't just dream it, stream it!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240411_DragonWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f7500a42afc76612e156f6907a8f4bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240410",
             "fullstartdate": "202404100700",
