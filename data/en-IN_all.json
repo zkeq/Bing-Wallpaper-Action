@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-11 00:48:31",
-    "Total": 715,
+    "LastUpdate": "2024-04-12 00:48:16",
+    "Total": 716,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240411",
+            "fullstartdate": "202404111830",
+            "enddate": "20240412",
+            "url": "/th?id=OHR.SunsetArchesNP_EN-IN6303798919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetArchesNP_EN-IN6303798919",
+            "copyright": "Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220240411_1830%22",
+            "title": "A work of arch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240411_SunsetArchesNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d31fbc2ac623a3e7c3d9bdcf9202fa5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240410",
             "fullstartdate": "202404101830",
