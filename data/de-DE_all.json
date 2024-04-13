@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-12 00:48:03",
-    "Total": 716,
+    "LastUpdate": "2024-04-13 00:47:31",
+    "Total": 717,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240412",
+            "fullstartdate": "202404122200",
+            "enddate": "20240413",
+            "url": "/th?id=OHR.SpringApple_DE-DE5480839920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringApple_DE-DE5480839920",
+            "copyright": "Apfelbäume im Frühling, Deutschland (© Smileus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Apfelbaum&form=hpcapt&filters=HpDate%3a%2220240412_2200%22",
+            "title": "Göttliches Licht auf verbotene Früchte?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240412_SpringApple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a48ef561c0fe7d1e68d89a9e93b902c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240411",
             "fullstartdate": "202404112200",
