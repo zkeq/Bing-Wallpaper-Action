@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-13 00:47:40",
-    "Total": 715,
+    "LastUpdate": "2024-04-14 00:48:23",
+    "Total": 716,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240413",
+            "fullstartdate": "202404132300",
+            "enddate": "20240414",
+            "url": "/th?id=OHR.BowlingBallCali_EN-GB8164059079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BowlingBallCali_EN-GB8164059079",
+            "copyright": "Bowling Ball Beach, Mendocino County, California, USA (© Melo Qiao/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bowling+Ball+Beach&form=hpcapt&filters=HpDate%3a%2220240413_2300%22",
+            "title": "Rock 'n' bowl",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240413_BowlingBallCali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9425860551c5219f16bb48dd252fdc6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240412",
             "fullstartdate": "202404122300",
