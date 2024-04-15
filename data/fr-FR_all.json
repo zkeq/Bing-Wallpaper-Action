@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-14 00:48:31",
-    "Total": 718,
+    "LastUpdate": "2024-04-15 02:43:50",
+    "Total": 719,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240414",
+            "fullstartdate": "202404142200",
+            "enddate": "20240415",
+            "url": "/th?id=OHR.RedBallBelgium_FR-FR7736092564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedBallBelgium_FR-FR7736092564",
+            "copyright": "Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=d%C3%A9finition+de+l%27art&form=hpcapt&filters=HpDate%3a%2220240414_2200%22",
+            "title": "Faites bondir votre créativité !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240414_RedBallBelgium%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "66baffcab1734406e007bca685cb5737",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240413",
             "fullstartdate": "202404132200",
