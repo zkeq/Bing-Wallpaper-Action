@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-15 02:43:41",
-    "Total": 717,
+    "LastUpdate": "2024-04-16 00:48:10",
+    "Total": 718,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240415",
+            "fullstartdate": "202404152300",
+            "enddate": "20240416",
+            "url": "/th?id=OHR.UnionSquareNYC_EN-GB2643158378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UnionSquareNYC_EN-GB2643158378",
+            "copyright": "Union Square in Lower Manhattan, New York, USA (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Union+Square+Manhattan&form=hpcapt&filters=HpDate%3a%2220240415_2300%22",
+            "title": "Lights, camera, New York!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_UnionSquareNYC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51bac9f1955d5658d15f48fb43a412da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240414",
             "fullstartdate": "202404142300",
