@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-15 02:43:37",
-    "Total": 718,
+    "LastUpdate": "2024-04-16 00:48:06",
+    "Total": 719,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240415",
+            "fullstartdate": "202404150400",
+            "enddate": "20240416",
+            "url": "/th?id=OHR.RedBallBelgium_EN-CA5507673869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedBallBelgium_EN-CA5507673869",
+            "copyright": "The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Art+Day&form=hpcapt&filters=HpDate%3a%2220240415_0400%22",
+            "title": "Bouncing into creativity",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_RedBallBelgium%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b7ac5aee485524a408ea2ebc1e48a0c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240414",
             "fullstartdate": "202404140400",
