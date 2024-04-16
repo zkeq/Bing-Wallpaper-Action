@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-15 02:43:32",
-    "Total": 719,
+    "LastUpdate": "2024-04-16 00:48:01",
+    "Total": 720,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240415",
+            "fullstartdate": "202404152200",
+            "enddate": "20240416",
+            "url": "/th?id=OHR.UnionSquareNYC_DE-DE5106138170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UnionSquareNYC_DE-DE5106138170",
+            "copyright": "Union Square in Lower Manhattan, New York City, USA (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Union+Square+Manhattan&form=hpcapt&filters=HpDate%3a%2220240415_2200%22",
+            "title": "Großer Platz, großer Apfel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_UnionSquareNYC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24c0fbf7184227da86d69bd7701aab11",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240414",
             "fullstartdate": "202404142200",
