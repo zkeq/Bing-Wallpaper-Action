@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-16 00:47:46",
-    "Total": 720,
+    "LastUpdate": "2024-04-17 00:47:47",
+    "Total": 721,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240416",
+            "fullstartdate": "202404161600",
+            "enddate": "20240417",
+            "url": "/th?id=OHR.SpringCub_ZH-CN1643833378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringCub_ZH-CN1643833378",
+            "copyright": "春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E9%BB%91%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "我是不是睡得太久了？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240416_SpringCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6a75dbfbb8b9b810d24999d7fa2a297",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240415",
             "fullstartdate": "202404151600",
