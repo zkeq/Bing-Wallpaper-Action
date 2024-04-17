@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-16 00:48:14",
-    "Total": 720,
+    "LastUpdate": "2024-04-17 00:48:15",
+    "Total": 721,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240416",
+            "fullstartdate": "202404161830",
+            "enddate": "20240417",
+            "url": "/th?id=OHR.RamaNavami_EN-IN9596495490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RamaNavami_EN-IN9596495490",
+            "copyright": "Ram Mandir, Ayodhya, Uttar Pradesh (© Ritesh Shukla/Stringer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rama+navami&form=hpcapt&filters=HpDate%3a%2220240416_1830%22",
+            "title": "A spiritual retreat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240416_RamaNavami%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2bb9445e805f9474206e83a4bd6dfd99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240415",
             "fullstartdate": "202404151830",
