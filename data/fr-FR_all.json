@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-17 00:48:19",
-    "Total": 721,
+    "LastUpdate": "2024-04-18 00:48:18",
+    "Total": 722,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240417",
+            "fullstartdate": "202404172200",
+            "enddate": "20240418",
+            "url": "/th?id=OHR.MonumentsDay_FR-FR8787138664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonumentsDay_FR-FR8787138664",
+            "copyright": "Château royal d'Amboise dans la vallée de la Loire, France (© iStock/Getty Images Plus/StockPhotoAstur)",
+            "copyrightlink": "https://www.bing.com/search?q=amboise&form=hpcapt&filters=HpDate%3a%2220240417_2200%22",
+            "title": "Une journée monumentale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240417_MonumentsDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a755acc7736f0b74e2a23a024b222cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240416",
             "fullstartdate": "202404162200",
