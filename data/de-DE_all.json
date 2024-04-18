@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-17 00:48:02",
-    "Total": 721,
+    "LastUpdate": "2024-04-18 00:48:00",
+    "Total": 722,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240417",
+            "fullstartdate": "202404172200",
+            "enddate": "20240418",
+            "url": "/th?id=OHR.AvilaSpain_DE-DE5639007447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvilaSpain_DE-DE5639007447",
+            "copyright": "Mittelalterliche Stadtmauern, Ávila, Spanien (© Scott Suriano/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Denkm%C3%A4ler+und+St%C3%A4tten&form=hpcapt&filters=HpDate%3a%2220240417_2200%22",
+            "title": "Wall of fame",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240417_AvilaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b92ff9048c81af2cf4e926bb8ca1777a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240416",
             "fullstartdate": "202404162200",
