@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-18 00:48:22",
-    "Total": 722,
+    "LastUpdate": "2024-04-19 00:48:21",
+    "Total": 723,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240418",
+            "fullstartdate": "202404182200",
+            "enddate": "20240419",
+            "url": "/th?id=OHR.PerugiaPriori_IT-IT0077173597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PerugiaPriori_IT-IT0077173597",
+            "copyright": "Palazzo dei Priori, Perugia, Italia (© Photo Beto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palazzo+dei+Priori+Perugia&form=hpcapt",
+            "title": "Rosso di sera...ed anche a Perugia è primavera!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240418_PerugiaPriori%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a09a20bc8b8caffed65ef6daa677bbf3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240417",
             "fullstartdate": "202404172200",
