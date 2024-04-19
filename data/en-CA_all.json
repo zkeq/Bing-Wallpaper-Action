@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-18 00:48:05",
-    "Total": 721,
+    "LastUpdate": "2024-04-19 00:48:04",
+    "Total": 722,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240418",
+            "fullstartdate": "202404180400",
+            "enddate": "20240419",
+            "url": "/th?id=OHR.AvilaSpain_EN-CA7098844997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvilaSpain_EN-CA7098844997",
+            "copyright": "Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+for+Monuments+and+Sites&form=hpcapt&filters=HpDate%3a%2220240418_0400%22",
+            "title": "Wall of fame",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240418_AvilaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8a48aa09d75f115a24261e933028dff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240417",
             "fullstartdate": "202404170400",
