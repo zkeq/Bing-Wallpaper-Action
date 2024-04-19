@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-18 00:48:18",
-    "Total": 722,
+    "LastUpdate": "2024-04-19 00:48:17",
+    "Total": 723,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240418",
+            "fullstartdate": "202404182200",
+            "enddate": "20240419",
+            "url": "/th?id=OHR.OrkneyStones_FR-FR1638921700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrkneyStones_FR-FR1638921700",
+            "copyright": "Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Brodgar+%C3%89cosse&form=hpcapt&filters=HpDate%3a%2220240418_2200%22",
+            "title": "La boucle est bouclée !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240418_OrkneyStones%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ffb3ab23bf09c35942935d1a47c08d10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240417",
             "fullstartdate": "202404172200",
