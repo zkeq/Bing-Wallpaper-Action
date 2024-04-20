@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-19 00:48:00",
-    "Total": 723,
+    "LastUpdate": "2024-04-20 00:48:12",
+    "Total": 724,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240419",
+            "fullstartdate": "202404192200",
+            "enddate": "20240420",
+            "url": "/th?id=OHR.YellowstoneGeyser_DE-DE4718129608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneGeyser_DE-DE4718129608",
+            "copyright": "Grand Prismatic Spring bei Sonnenaufgang, Yellowstone-Nationalpark, Wyoming, USA (© XIN WANG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Prismatic+Spring%2c+Yellowstone-Nationalpark%2c+Wyoming%2c+USA&form=hpcapt&filters=HpDate%3a%2220240419_2200%22",
+            "title": "Ins Blaue hinein?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240419_YellowstoneGeyser%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77acbaf07697d75176c771266a8d268f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240418",
             "fullstartdate": "202404182200",
