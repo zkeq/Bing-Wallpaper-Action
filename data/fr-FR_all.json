@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-19 00:48:17",
-    "Total": 723,
+    "LastUpdate": "2024-04-20 00:48:29",
+    "Total": 724,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240419",
+            "fullstartdate": "202404192200",
+            "enddate": "20240420",
+            "url": "/th?id=OHR.YellowstoneGeyser_FR-FR1968699876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneGeyser_FR-FR1968699876",
+            "copyright": "Le Grand Prismatic Spring au lever du soleil, parc national de Yellowstone, Wyoming, États-Unis (© XIN WANG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Le+grand+prismatic+spring+parc+yellowstone&form=hpcapt&filters=HpDate%3a%2220240419_2200%22",
+            "title": "Une ode aux terres sauvages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240419_YellowstoneGeyser%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ee9a9957e5be38c4e035d2619d5d8c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240418",
             "fullstartdate": "202404182200",
