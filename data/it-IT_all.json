@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-20 00:48:33",
-    "Total": 724,
+    "LastUpdate": "2024-04-21 00:48:44",
+    "Total": 725,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240420",
+            "fullstartdate": "202404202200",
+            "enddate": "20240421",
+            "url": "/th?id=OHR.CadesCove_IT-IT3109778366_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CadesCove_IT-IT3109778366",
+            "copyright": "Vicolo delle scintille a Cades Cove, Parco Nazionale delle montagne Great Smoky,Tennessee, Stati Uniti (© Richard Bernabe/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Great+Smoky+Mountains+dov%27%C3%A8&form=hpcapt",
+            "title": "Verso una maestosa vallata!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240420_CadesCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42a8ab677d82650fff2ca7a6b7c5b603",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240419",
             "fullstartdate": "202404192200",
