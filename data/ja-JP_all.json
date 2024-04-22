@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-21 00:48:17",
-    "Total": 725,
+    "LastUpdate": "2024-04-22 00:48:08",
+    "Total": 726,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240421",
+            "fullstartdate": "202404211500",
+            "enddate": "20240422",
+            "url": "/th?id=OHR.EarthDayTurtle_JA-JP4280227627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EarthDayTurtle_JA-JP4280227627",
+            "copyright": "アオウミガメ, 米国 カリフォルニア州 サンディエゴ (© Ralph Pace/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%AA%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220240421_1500%22",
+            "title": "今日は地球の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240421_EarthDayTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f704a50794fe4e2e3a9e0750db7cc97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240420",
             "fullstartdate": "202404201500",
