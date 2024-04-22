@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-21 00:48:07",
-    "Total": 725,
+    "LastUpdate": "2024-04-22 00:47:58",
+    "Total": 726,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240421",
+            "fullstartdate": "202404211600",
+            "enddate": "20240422",
+            "url": "/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EarthDayTurtle_ZH-CN4642042701",
+            "copyright": "绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=2024%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "我们在庆祝什么?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240421_EarthDayTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7bb2e3113bb490898a256aa622c77e0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240420",
             "fullstartdate": "202404201600",
