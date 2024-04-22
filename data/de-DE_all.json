@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-21 00:48:22",
-    "Total": 725,
+    "LastUpdate": "2024-04-22 00:48:12",
+    "Total": 726,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240421",
+            "fullstartdate": "202404212200",
+            "enddate": "20240422",
+            "url": "/th?id=OHR.EarthDayTurtle_DE-DE6584075378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EarthDayTurtle_DE-DE6584075378",
+            "copyright": "Grüne Meeresschildkröte, San Diego, Kalifornien, USA (© Ralph Pace/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+der+Erde&form=hpcapt&filters=HpDate%3a%2220240421_2200%22",
+            "title": "Planet vs. Plastik",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240421_EarthDayTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "849a730a37ea8386a2786f281c5b6e05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240420",
             "fullstartdate": "202404202200",
