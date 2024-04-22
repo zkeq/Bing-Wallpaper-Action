@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-21 00:48:13",
-    "Total": 725,
+    "LastUpdate": "2024-04-22 00:48:04",
+    "Total": 726,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240421",
+            "fullstartdate": "202404210700",
+            "enddate": "20240422",
+            "url": "/th?id=OHR.CadesCove_EN-US4359486356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CadesCove_EN-US4359486356",
+            "copyright": "Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240421_0700%22",
+            "title": "The road not taken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240421_CadesCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44038ec3fc4e7bf34eadf3a40c44c446",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240420",
             "fullstartdate": "202404200700",
