@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-22 00:48:30",
-    "Total": 726,
+    "LastUpdate": "2024-04-23 00:48:23",
+    "Total": 727,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240422",
+            "fullstartdate": "202404222200",
+            "enddate": "20240423",
+            "url": "/th?id=OHR.TrinityDublin_FR-FR6932470359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrinityDublin_FR-FR6932470359",
+            "copyright": "Bibliothèque du Trinity College de Dublin, Irlande (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+du+livre+et+du+droit+d%27auteur&form=hpcapt&filters=HpDate%3a%2220240422_2200%22",
+            "title": "Le pouvoir des livres",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240422_TrinityDublin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c2f07d564bcc41fb1e1e44eb577e08c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240421",
             "fullstartdate": "202404212200",
