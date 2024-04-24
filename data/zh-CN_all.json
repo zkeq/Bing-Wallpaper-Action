@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-23 00:47:51",
-    "Total": 727,
+    "LastUpdate": "2024-04-24 00:47:50",
+    "Total": 728,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240423",
+            "fullstartdate": "202404231600",
+            "enddate": "20240424",
+            "url": "/th?id=OHR.TrilliumOntario_ZH-CN8327395975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrilliumOntario_ZH-CN8327395975",
+            "copyright": "盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E5%BB%B6%E9%BE%84%E8%8D%89&form=hpcapt&mkt=zh-cn",
+            "title": "嘿，今天长势如何？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240423_TrilliumOntario%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5ea6eb7f7b0eafc604b5aa157081c4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240422",
             "fullstartdate": "202404221600",
