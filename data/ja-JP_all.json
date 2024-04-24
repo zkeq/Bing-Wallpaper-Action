@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-23 00:48:01",
-    "Total": 727,
+    "LastUpdate": "2024-04-24 00:48:00",
+    "Total": 728,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240423",
+            "fullstartdate": "202404231500",
+            "enddate": "20240424",
+            "url": "/th?id=OHR.TrilliumOntario_JA-JP4524267784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrilliumOntario_JA-JP4524267784",
+            "copyright": "北米のエンレイソウ, カナダ オンタリオ州 (© Jun Zhang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E7%B1%B3%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%AC%E3%82%A4%E3%82%BD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220240423_1500%22",
+            "title": "白い三弁花を咲かせる多年草",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240423_TrilliumOntario%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "498c4080a0ca8fa050a88f2c2b8768d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240422",
             "fullstartdate": "202404221500",
