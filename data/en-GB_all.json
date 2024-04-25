@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-24 00:48:12",
-    "Total": 726,
+    "LastUpdate": "2024-04-25 00:48:24",
+    "Total": 727,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240424",
+            "fullstartdate": "202404242300",
+            "enddate": "20240425",
+            "url": "/th?id=OHR.PenguinDirections_EN-GB4668084701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PenguinDirections_EN-GB4668084701",
+            "copyright": "Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Penguin+Day&form=hpcapt&filters=HpDate%3a%2220240424_2300%22",
+            "title": "It's ice to meet you all here!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240424_PenguinDirections%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbe8106b97dc42b1203516840a2f44ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240423",
             "fullstartdate": "202404232300",
