@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-24 00:47:50",
-    "Total": 728,
+    "LastUpdate": "2024-04-25 00:48:01",
+    "Total": 729,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240424",
+            "fullstartdate": "202404241600",
+            "enddate": "20240425",
+            "url": "/th?id=OHR.PenguinDirections_ZH-CN8498684753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PenguinDirections_ZH-CN8498684753",
+            "copyright": "南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%BC%81%E9%B9%85%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "很高兴在这里见到你们！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240424_PenguinDirections%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ac898802850eb5cbd3c84d897f3e586",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240423",
             "fullstartdate": "202404231600",
