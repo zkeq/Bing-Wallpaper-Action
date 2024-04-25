@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-24 00:48:04",
-    "Total": 728,
+    "LastUpdate": "2024-04-25 00:48:15",
+    "Total": 729,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240424",
+            "fullstartdate": "202404242200",
+            "enddate": "20240425",
+            "url": "/th?id=OHR.KalalochTree_DE-DE1811180664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KalalochTree_DE-DE1811180664",
+            "copyright": "Kalaloch Tree, Kalaloch, Olympic-Nationalpark, Washington, USA (© Abbie Warnock-Matthews/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationale+Tag+des+Baumes+&form=hpcapt&filters=HpDate%3a%2220240424_2200%22",
+            "title": "Baum des Lebens",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240424_KalalochTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a70ca00a7bbe66ea3c26f6e8a274285",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240423",
             "fullstartdate": "202404232200",
