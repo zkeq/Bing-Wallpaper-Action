@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-24 00:48:25",
-    "Total": 728,
+    "LastUpdate": "2024-04-25 00:48:37",
+    "Total": 729,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240424",
+            "fullstartdate": "202404242200",
+            "enddate": "20240425",
+            "url": "/th?id=OHR.LiberationOfItaly_IT-IT5702803658_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LiberationOfItaly_IT-IT5702803658",
+            "copyright": "Frecce Tricolori in volo, Giornata della Liberazione, Roma (© Marie-Laure Messana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=anniversario+della+liberazione+cos%27%C3%A8&form=hpcapt",
+            "title": "Una giornata storica!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240424_LiberationOfItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38348d83f3697c2a1fbfb75b13cba031",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240423",
             "fullstartdate": "202404232200",
