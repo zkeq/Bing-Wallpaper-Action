@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-25 00:48:11",
-    "Total": 729,
+    "LastUpdate": "2024-04-26 00:47:57",
+    "Total": 730,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240425",
+            "fullstartdate": "202404251500",
+            "enddate": "20240426",
+            "url": "/th?id=OHR.KalalochTree_JA-JP4733041534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KalalochTree_JA-JP4733041534",
+            "copyright": "オリンピック国立公園にある不思議な木, 米国 ワシントン州 (© Abbie Warnock-Matthews/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kalaloch+Tree&form=hpcapt&filters=HpDate%3a%2220240425_1500%22",
+            "title": "今日はアーバーデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240425_KalalochTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "850fd5fe13a3bae720cf31d4d52b3f51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240424",
             "fullstartdate": "202404241500",
