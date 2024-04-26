@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-25 00:48:28",
-    "Total": 729,
+    "LastUpdate": "2024-04-26 00:48:15",
+    "Total": 730,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240425",
+            "fullstartdate": "202404251830",
+            "enddate": "20240426",
+            "url": "/th?id=OHR.MangroveIslands_EN-IN9832664879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangroveIslands_EN-IN9832664879",
+            "copyright": "Aerial view of mangrove islands near Kundapura, Karnataka (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mangrove&form=hpcapt&filters=HpDate%3a%2220240425_1830%22",
+            "title": "Between land and sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240425_MangroveIslands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "353a106d95df4300a2afd7c09049b974",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240424",
             "fullstartdate": "202404241830",
