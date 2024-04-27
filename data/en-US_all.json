@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-26 00:47:52",
-    "Total": 730,
+    "LastUpdate": "2024-04-27 00:47:58",
+    "Total": 731,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240426",
+            "fullstartdate": "202404260700",
+            "enddate": "20240427",
+            "url": "/th?id=OHR.KalalochTree_EN-US5565386489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KalalochTree_EN-US5565386489",
+            "copyright": "Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=arbor+day+observance&form=hpcapt&filters=HpDate%3a%2220240426_0700%22",
+            "title": "For tree's a jolly good fellow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240426_KalalochTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c509f09d79df65bc30aa1fced04d89e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240425",
             "fullstartdate": "202404250700",
