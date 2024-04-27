@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-26 00:47:57",
-    "Total": 730,
+    "LastUpdate": "2024-04-27 00:48:02",
+    "Total": 731,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240426",
+            "fullstartdate": "202404261500",
+            "enddate": "20240427",
+            "url": "/th?id=OHR.LeucisticHummingbird_JA-JP4843663786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeucisticHummingbird_JA-JP4843663786",
+            "copyright": "アンナハチドリの白変種, 米国 カリフォルニア州 (© yhelfman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220240426_1500%22",
+            "title": "今日は米国のバードウォッチングの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240426_LeucisticHummingbird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59fd57072124193aa64b646a1289a692",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240425",
             "fullstartdate": "202404251500",
