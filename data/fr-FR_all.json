@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-27 00:48:23",
-    "Total": 731,
+    "LastUpdate": "2024-04-28 00:48:33",
+    "Total": 732,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240427",
+            "fullstartdate": "202404272200",
+            "enddate": "20240428",
+            "url": "/th?id=OHR.GuadalupeTexas_FR-FR9507308056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuadalupeTexas_FR-FR9507308056",
+            "copyright": "El Capitan au lever du soleil, parc national des Guadalupe Mountains, Texas, États-Unis (© Adam Mowery/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+des+Guadalupe+Mountains+&form=hpcapt&filters=HpDate%3a%2220240427_2200%22",
+            "title": "Il était une fois, le désert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_GuadalupeTexas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5dfc13ed785cd947b128f5b5a915033",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240426",
             "fullstartdate": "202404262200",
