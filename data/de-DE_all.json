@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-27 00:48:06",
-    "Total": 731,
+    "LastUpdate": "2024-04-28 00:48:16",
+    "Total": 732,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240427",
+            "fullstartdate": "202404272200",
+            "enddate": "20240428",
+            "url": "/th?id=OHR.GuadalupeTexas_DE-DE2699373436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuadalupeTexas_DE-DE2699373436",
+            "copyright": "El Capitan bei Sonnenaufgang im Guadalupe-Mountains-Nationalpark, Texas, USA (© Adam Mowery/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Guadalupe-Mountains-Nationalpark&form=hpcapt&filters=HpDate%3a%2220240427_2200%22",
+            "title": "„Wild Wild West“?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_GuadalupeTexas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ba662cfb3f2d928b404c03f2803d9ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240426",
             "fullstartdate": "202404262200",
