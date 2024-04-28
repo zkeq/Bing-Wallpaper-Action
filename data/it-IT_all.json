@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-27 00:48:28",
-    "Total": 731,
+    "LastUpdate": "2024-04-28 00:48:37",
+    "Total": 732,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240427",
+            "fullstartdate": "202404272200",
+            "enddate": "20240428",
+            "url": "/th?id=OHR.GuadalupeTexas_IT-IT7610169822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuadalupeTexas_IT-IT7610169822",
+            "copyright": "El Capitan all'alba nel Parco Nazionale delle Montagne di Guadalupe, Texas, USA (© Adam Mowery/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+dei+Monti+Guadalupe&form=hpcapt",
+            "title": "Parcheggiamo qui!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_GuadalupeTexas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "21142f2959fbdd18e059efc6881fb725",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240426",
             "fullstartdate": "202404262200",
