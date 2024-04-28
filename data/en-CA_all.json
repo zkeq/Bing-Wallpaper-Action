@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-27 00:48:11",
-    "Total": 730,
+    "LastUpdate": "2024-04-28 00:48:20",
+    "Total": 731,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240427",
+            "fullstartdate": "202404270400",
+            "enddate": "20240428",
+            "url": "/th?id=OHR.LeucisticHummingbird_EN-CA9003598564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeucisticHummingbird_EN-CA9003598564",
+            "copyright": "Leucistic Anna's hummingbird in the Australia Garden, UCSC Arboretum, Santa Cruz, California (© yhelfman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Leucistic+Annas+Hummingbird&form=hpcapt&filters=HpDate%3a%2220240427_0400%22",
+            "title": "Stop, it's hummer time!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_LeucisticHummingbird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "31d11eec8cbb002c20a54b097afb87c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240426",
             "fullstartdate": "202404260400",
