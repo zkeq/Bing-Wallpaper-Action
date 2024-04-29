@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-28 00:48:20",
-    "Total": 731,
+    "LastUpdate": "2024-04-29 00:48:18",
+    "Total": 732,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240428",
+            "fullstartdate": "202404280400",
+            "enddate": "20240429",
+            "url": "/th?id=OHR.GuadalupeTexas_EN-CA8167364190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuadalupeTexas_EN-CA8167364190",
+            "copyright": "El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Guadalupe+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240428_0400%22",
+            "title": "Let's park here",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_GuadalupeTexas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "660dab4cf7f28da5df2469fc9ad3e5a2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240427",
             "fullstartdate": "202404270400",
