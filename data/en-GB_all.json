@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-28 00:48:25",
-    "Total": 730,
+    "LastUpdate": "2024-04-29 00:48:22",
+    "Total": 731,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240428",
+            "fullstartdate": "202404282300",
+            "enddate": "20240429",
+            "url": "/th?id=OHR.TulouFujian_EN-GB5628876331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulouFujian_EN-GB5628876331",
+            "copyright": "Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fujian+Tulou&form=hpcapt&filters=HpDate%3a%2220240428_2300%22",
+            "title": "In perfect shape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_TulouFujian%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3584065d06b535ef24315c84b33dd4ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240427",
             "fullstartdate": "202404272300",
