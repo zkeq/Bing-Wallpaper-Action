@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-28 00:48:33",
-    "Total": 732,
+    "LastUpdate": "2024-04-29 00:48:31",
+    "Total": 733,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240428",
+            "fullstartdate": "202404282200",
+            "enddate": "20240429",
+            "url": "/th?id=OHR.TulouFujian_FR-FR9745511197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulouFujian_FR-FR9745511197",
+            "copyright": "Architectures traditionnelles Tulou de Fujian, province de Fujian, Chine (© Hongjie Han/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=tulou+du+Fujian+chine&form=hpcapt&filters=HpDate%3a%2220240428_2200%22",
+            "title": "Une interaction équilibrée et respectueuse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_TulouFujian%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "159f8185f64550a57c5da81f1bbd53d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240427",
             "fullstartdate": "202404272200",
