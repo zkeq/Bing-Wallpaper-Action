@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-28 00:48:12",
-    "Total": 732,
+    "LastUpdate": "2024-04-29 00:48:09",
+    "Total": 733,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240428",
+            "fullstartdate": "202404281500",
+            "enddate": "20240429",
+            "url": "/th?id=OHR.TulouFujian_JA-JP5056058159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulouFujian_JA-JP5056058159",
+            "copyright": "福建土楼の鳥瞰図, 中国 福建省 (© Hongjie Han/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A6%8F%E5%BB%BA%E5%9C%9F%E6%A5%BC&form=hpcapt&filters=HpDate%3a%2220240428_1500%22",
+            "title": "木材と土壁で造られた円形の家屋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_TulouFujian%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "339cadaec3522e49f014a0d7f0c0a9c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240427",
             "fullstartdate": "202404271500",
