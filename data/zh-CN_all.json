@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-28 00:48:03",
-    "Total": 732,
+    "LastUpdate": "2024-04-29 00:47:59",
+    "Total": 733,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240428",
+            "fullstartdate": "202404281600",
+            "enddate": "20240429",
+            "url": "/th?id=OHR.TulouFujian_ZH-CN4287018074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulouFujian_ZH-CN4287018074",
+            "copyright": "福建土楼，福建省历史文化遗产建筑，中国 (© Hongjie Han/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A6%8F%E5%BB%BA%E5%9C%9F%E6%A5%BC&form=hpcapt&mkt=zh-cn",
+            "title": "被保存得很好的古建筑",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_TulouFujian%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "759ac31883f657012b8096f248b67798",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240427",
             "fullstartdate": "202404271600",
