@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-29 00:48:13",
-    "Total": 733,
+    "LastUpdate": "2024-04-30 00:48:07",
+    "Total": 734,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240429",
+            "fullstartdate": "202404292200",
+            "enddate": "20240430",
+            "url": "/th?id=OHR.CheetahRain_DE-DE3160302306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CheetahRain_DE-DE3160302306",
+            "copyright": "Gepard im Morgenregen, Ndutu-Region, Ngorongoro, Tansania (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gepard&form=hpcapt&filters=HpDate%3a%2220240429_2200%22",
+            "title": "Heilig und gefährdet",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240429_CheetahRain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "246b3b86d3fe210ceb3782ae14da89da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240428",
             "fullstartdate": "202404282200",
