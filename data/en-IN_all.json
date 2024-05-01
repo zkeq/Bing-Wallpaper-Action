@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-30 00:48:20",
-    "Total": 734,
+    "LastUpdate": "2024-05-01 00:48:32",
+    "Total": 735,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240430",
+            "fullstartdate": "202404301830",
+            "enddate": "20240501",
+            "url": "/th?id=OHR.MaharashtraDayIN_EN-IN1070524150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaharashtraDayIN_EN-IN1070524150",
+            "copyright": "Maharashtra, Mumbai, Victoria Terminus railway station (© Tuul & Bruno Morandi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Maharashtra+Day&form=hpcapt&filters=HpDate%3a%2220240430_1830%22",
+            "title": "Ticket to nostalgia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240430_MaharashtraDayIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6fa44640f941546139eb39b7e569c47f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240429",
             "fullstartdate": "202404291830",
