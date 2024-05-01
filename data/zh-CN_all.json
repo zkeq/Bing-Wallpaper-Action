@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-30 00:47:53",
-    "Total": 734,
+    "LastUpdate": "2024-05-01 00:48:05",
+    "Total": 735,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240430",
+            "fullstartdate": "202404301600",
+            "enddate": "20240501",
+            "url": "/th?id=OHR.HawaiianLei_ZH-CN7857272499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaiianLei_ZH-CN7857272499",
+            "copyright": "夏威夷花环 (© Jotika Pun/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8F%E5%A8%81%E5%A4%B7&form=hpcapt&mkt=zh-cn",
+            "title": "夏威夷的花环节",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240430_HawaiianLei%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7a717e2533a11b353dd0c9200a0f4f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240429",
             "fullstartdate": "202404291600",
