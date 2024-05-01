@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-04-30 00:48:07",
-    "Total": 734,
+    "LastUpdate": "2024-05-01 00:48:19",
+    "Total": 735,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240430",
+            "fullstartdate": "202404302200",
+            "enddate": "20240501",
+            "url": "/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569",
+            "copyright": "Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nienhagen%2c+Rostock+Mecklenburg-Vorpommern&form=hpcapt&filters=HpDate%3a%2220240430_2200%22",
+            "title": "Vor lauter Bäumen den Wald nicht sehen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240430_NienhagenMecklenburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a787fe6d9f6ad91ff74741e66c23396",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240429",
             "fullstartdate": "202404292200",
