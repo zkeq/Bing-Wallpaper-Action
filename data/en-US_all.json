@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-01 00:48:11",
-    "Total": 735,
+    "LastUpdate": "2024-05-02 00:47:52",
+    "Total": 736,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240501",
+            "fullstartdate": "202405010700",
+            "enddate": "20240502",
+            "url": "/th?id=OHR.HawaiianLei_EN-US6290126556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaiianLei_EN-US6290126556",
+            "copyright": "Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lei+Day&form=hpcapt&filters=HpDate%3a%2220240501_0700%22",
+            "title": "May Day is Lei Day in Hawaii Nei",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240501_HawaiianLei%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33fcbe0453c31637f5620f977e20eae2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240430",
             "fullstartdate": "202404300700",
