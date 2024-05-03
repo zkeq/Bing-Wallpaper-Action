@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-02 00:48:01",
-    "Total": 736,
+    "LastUpdate": "2024-05-03 00:48:23",
+    "Total": 737,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240502",
+            "fullstartdate": "202405022200",
+            "enddate": "20240503",
+            "url": "/th?id=OHR.SonoranSpring_DE-DE9357801866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonoranSpring_DE-DE9357801866",
+            "copyright": "Im Frühling blühende Sträucher, Sonora-Wüste, Arizona, USA (© Charles Harker/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sonora-W%C3%BCste&form=hpcapt&filters=HpDate%3a%2220240502_2200%22",
+            "title": "Wüstenblumen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240502_SonoranSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6cbc5e349f283b52ab0661ed9bf574e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240501",
             "fullstartdate": "202405012200",
