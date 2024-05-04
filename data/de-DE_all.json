@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-03 00:48:23",
-    "Total": 737,
+    "LastUpdate": "2024-05-04 00:48:05",
+    "Total": 738,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240503",
+            "fullstartdate": "202405032200",
+            "enddate": "20240504",
+            "url": "/th?id=OHR.JediMonastery_DE-DE1926121276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JediMonastery_DE-DE1926121276",
+            "copyright": "Die Ruinen eines alten Klosters auf der Insel Skellig Michael, Irland (© MNStudio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Star-Wars-Tag&form=hpcapt&filters=HpDate%3a%2220240503_2200%22",
+            "title": "Möge die Kraft mit Ihnen sein",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240503_JediMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e34a699cfaac276e275214d0eb240bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240502",
             "fullstartdate": "202405022200",
