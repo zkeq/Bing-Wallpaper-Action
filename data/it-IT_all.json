@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-03 00:48:44",
-    "Total": 737,
+    "LastUpdate": "2024-05-04 00:48:27",
+    "Total": 738,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240503",
+            "fullstartdate": "202405032200",
+            "enddate": "20240504",
+            "url": "/th?id=OHR.GirodItalia2024_IT-IT9407204320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GirodItalia2024_IT-IT9407204320",
+            "copyright": "Giro d'Italia, Ciclisti sulle Dolomiti (© Tim de Waele/Staff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=giro+d%27italia+cos%27%C3%A8&form=hpcapt",
+            "title": "Perchè tutti in bici?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240503_GirodItalia2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e0ae2c4dd1686bdbdc0a240a306ce5c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240502",
             "fullstartdate": "202405022200",
