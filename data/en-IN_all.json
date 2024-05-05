@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-04 00:48:18",
-    "Total": 738,
+    "LastUpdate": "2024-05-05 00:48:28",
+    "Total": 739,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240504",
+            "fullstartdate": "202405041830",
+            "enddate": "20240505",
+            "url": "/th?id=OHR.KeralaRiver_EN-IN0661487977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeralaRiver_EN-IN0661487977",
+            "copyright": "Beautiful aerial view of Kerala (© ebin francis/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kerala&form=hpcapt&filters=HpDate%3a%2220240504_1830%22",
+            "title": "Beyond backwaters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240504_KeralaRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "009528292ffaddc1146e93d3335e043b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240503",
             "fullstartdate": "202405031830",
