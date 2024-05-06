@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-05 00:48:37",
-    "Total": 739,
+    "LastUpdate": "2024-05-06 00:48:34",
+    "Total": 740,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240505",
+            "fullstartdate": "202405052200",
+            "enddate": "20240506",
+            "url": "/th?id=OHR.JediMonastery_IT-IT4680145020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JediMonastery_IT-IT4680145020",
+            "copyright": "Le rovine di un antico monastero sull'isola di Skellig Michael, Irlanda (© MNStudio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Star+Wars+Day&form=hpcapt",
+            "title": "Che la \"forza\" sia con te oggi e sempre, giovane Jedi!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240505_JediMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc052cc5239ede9a9f6b44c055482ac7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240504",
             "fullstartdate": "202405042200",
