@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-05 00:48:06",
-    "Total": 739,
+    "LastUpdate": "2024-05-06 00:48:04",
+    "Total": 740,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240505",
+            "fullstartdate": "202405050700",
+            "enddate": "20240506",
+            "url": "/th?id=OHR.SanMiguelAllende_EN-US9621237021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanMiguelAllende_EN-US9621237021",
+            "copyright": "Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cinco+de+mayo&form=hpcapt&filters=HpDate%3a%2220240505_0700%22",
+            "title": "Happy Cinco de Mayo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240505_SanMiguelAllende%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5db2d89d38b5f4c43239598770290629",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240504",
             "fullstartdate": "202405040700",
