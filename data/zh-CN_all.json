@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-06 00:47:59",
-    "Total": 740,
+    "LastUpdate": "2024-05-07 00:47:57",
+    "Total": 741,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240506",
+            "fullstartdate": "202405061600",
+            "enddate": "20240507",
+            "url": "/th?id=OHR.LittleDuckling_ZH-CN2922471258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LittleDuckling_ZH-CN2922471258",
+            "copyright": "一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%B8%AD&form=hpcapt&mkt=zh-cn",
+            "title": "水影里的小黄鸭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240506_LittleDuckling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4ac875320521d4437311af8131b624c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240505",
             "fullstartdate": "202405051600",
