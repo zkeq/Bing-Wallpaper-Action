@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-06 00:48:34",
-    "Total": 740,
+    "LastUpdate": "2024-05-07 00:48:33",
+    "Total": 741,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240506",
+            "fullstartdate": "202405062200",
+            "enddate": "20240507",
+            "url": "/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219",
+            "copyright": "Vigneto vulcanico a Lanzarote, Isole Canarie (© Pol Albarrán/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lanzarote+cos%27%C3%A8&form=hpcapt",
+            "title": "Un sorso dopo l'altro",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240506_LaGeriaLanzarote%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aaf61f8fd131def34175d39c78e543fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240505",
             "fullstartdate": "202405052200",
