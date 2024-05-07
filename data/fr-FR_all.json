@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-06 00:48:30",
-    "Total": 740,
+    "LastUpdate": "2024-05-07 00:48:28",
+    "Total": 741,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240506",
+            "fullstartdate": "202405062200",
+            "enddate": "20240507",
+            "url": "/th?id=OHR.LittleDuckling_FR-FR7460969875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LittleDuckling_FR-FR7460969875",
+            "copyright": "Un caneton nageant dans une prairie d'eau, Suffolk, Angleterre (© Nick Hurst/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=canard&form=hpcapt&filters=HpDate%3a%2220240506_2200%22",
+            "title": "Trempé comme un canard !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240506_LittleDuckling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d668d262fcabbc86c27194cd75e97db8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240505",
             "fullstartdate": "202405052200",
