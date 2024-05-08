@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-07 00:48:11",
-    "Total": 741,
+    "LastUpdate": "2024-05-08 00:47:29",
+    "Total": 742,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240507",
+            "fullstartdate": "202405072200",
+            "enddate": "20240508",
+            "url": "/th?id=OHR.PortMarseille_DE-DE5901142925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PortMarseille_DE-DE5901142925",
+            "copyright": "Blick auf das Château d'If im Hafen von Marseille, Frankreich (© Sergii Figurnyi/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Olympische+Flamme&form=hpcapt&filters=HpDate%3a%2220240507_2200%22",
+            "title": "Die Spiele sind eröffnet",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240507_PortMarseille%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d5d491dc1e83edc85b492fd67253e07",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240506",
             "fullstartdate": "202405062200",
