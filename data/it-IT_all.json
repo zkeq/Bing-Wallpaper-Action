@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-08 00:47:50",
-    "Total": 742,
+    "LastUpdate": "2024-05-09 00:48:30",
+    "Total": 743,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240508",
+            "fullstartdate": "202405082200",
+            "enddate": "20240509",
+            "url": "/th?id=OHR.EmirganPark_IT-IT4111429731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EmirganPark_IT-IT4111429731",
+            "copyright": "Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+di+Emigran+cos%27%C3%A8&form=hpcapt",
+            "title": "Un letto fiorito!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240508_EmirganPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d12b86325f18cef00f1b96b937b017a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240507",
             "fullstartdate": "202405072200",
