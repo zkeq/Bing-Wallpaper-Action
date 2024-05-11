@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-10 00:48:08",
-    "Total": 744,
+    "LastUpdate": "2024-05-11 00:48:04",
+    "Total": 745,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240510",
+            "fullstartdate": "202405102200",
+            "enddate": "20240511",
+            "url": "/th?id=OHR.BlueCityIndia_DE-DE7777501336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueCityIndia_DE-DE7777501336",
+            "copyright": "Die „Blaue Stadt“ Jodhpur, Rajasthan, Indien (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jodhpur&form=hpcapt&filters=HpDate%3a%2220240510_2200%22",
+            "title": "Ein blaues Wunder der anderen Art",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240510_BlueCityIndia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55655cfcd6c32a6d860a07256e726983",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240509",
             "fullstartdate": "202405092200",
