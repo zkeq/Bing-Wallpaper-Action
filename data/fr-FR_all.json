@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-11 00:48:22",
-    "Total": 745,
+    "LastUpdate": "2024-05-12 00:48:44",
+    "Total": 746,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240511",
+            "fullstartdate": "202405112200",
+            "enddate": "20240512",
+            "url": "/th?id=OHR.CamargueFlamingos_FR-FR0995673980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamargueFlamingos_FR-FR0995673980",
+            "copyright": "Flamants roses, réserve naturelle de Pont de Gau, Camargue, France (© Yann Guichaoua-Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=oiseau+flamant+rose+camargue&form=hpcapt&filters=HpDate%3a%2220240511_2200%22",
+            "title": "De drôles de bêtes !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240511_CamargueFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "448b5638d1bd9f0415075e1a08fca52c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240510",
             "fullstartdate": "202405102200",
