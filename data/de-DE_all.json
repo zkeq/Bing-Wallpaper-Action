@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-12 00:48:27",
-    "Total": 746,
+    "LastUpdate": "2024-05-13 00:48:13",
+    "Total": 747,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240512",
+            "fullstartdate": "202405122200",
+            "enddate": "20240513",
+            "url": "/th?id=OHR.NamibiaCanyon_DE-DE8827731731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NamibiaCanyon_DE-DE8827731731",
+            "copyright": "Fischfluss-Canyon, Namibia (© R. M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fischfluss-Canyon&form=hpcapt&filters=HpDate%3a%2220240512_2200%22",
+            "title": "Weite Himmel, unendliche Schluchten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240512_NamibiaCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f6c92f1c2a32d67211a719444ec11be",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240511",
             "fullstartdate": "202405112200",
