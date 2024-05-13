@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-12 00:48:44",
-    "Total": 746,
+    "LastUpdate": "2024-05-13 00:48:30",
+    "Total": 747,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240512",
+            "fullstartdate": "202405122200",
+            "enddate": "20240513",
+            "url": "/th?id=OHR.NamibiaCanyon_FR-FR1473160217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NamibiaCanyon_FR-FR1473160217",
+            "copyright": "Canyon de la rivière Fish, Namibie (© R. M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Canyon+Namibie&form=hpcapt&filters=HpDate%3a%2220240512_2200%22",
+            "title": "Le deuxième plus grand canyon du monde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240512_NamibiaCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81186c0a8d25e981645c8609a08c5f92",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240511",
             "fullstartdate": "202405112200",
