@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-13 00:48:05",
-    "Total": 747,
+    "LastUpdate": "2024-05-14 00:48:02",
+    "Total": 748,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240513",
+            "fullstartdate": "202405130700",
+            "enddate": "20240514",
+            "url": "/th?id=OHR.NamibiaCanyon_EN-US1337379319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NamibiaCanyon_EN-US1337379319",
+            "copyright": "Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fish+River+Canyon+Namibia&form=hpcapt&filters=HpDate%3a%2220240513_0700%22",
+            "title": "Africa’s grandest canyon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240513_NamibiaCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c246cd73671172349d033f43a796ca2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240512",
             "fullstartdate": "202405120700",
