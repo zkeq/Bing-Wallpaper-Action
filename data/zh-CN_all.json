@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-14 00:47:56",
-    "Total": 748,
+    "LastUpdate": "2024-05-15 00:48:10",
+    "Total": 749,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240514",
+            "fullstartdate": "202405141600",
+            "enddate": "20240515",
+            "url": "/th?id=OHR.BlueCityIndia_ZH-CN4275229255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueCityIndia_ZH-CN4275229255",
+            "copyright": "焦特布尔蓝色之城，印度 (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%84%A6%E7%89%B9%E5%B8%83%E5%B0%94+%E5%8D%B0%E5%BA%A6&form=hpcapt&mkt=zh-cn",
+            "title": "迷失在蓝色的美丽国度",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240514_BlueCityIndia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7eca9edd7778940b086b9c5763582dfc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240513",
             "fullstartdate": "202405131600",
