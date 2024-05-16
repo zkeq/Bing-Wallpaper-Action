@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-15 00:48:43",
-    "Total": 749,
+    "LastUpdate": "2024-05-16 00:48:38",
+    "Total": 750,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240515",
+            "fullstartdate": "202405152200",
+            "enddate": "20240516",
+            "url": "/th?id=OHR.DayOfLight_FR-FR2802585315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DayOfLight_FR-FR2802585315",
+            "copyright": "Œuvre « Feelings Are Facts », par l'artiste Olafur Eliasson et l'architecte Ma Yansong, Pékin, Chine (© Feng Li/Getty Images News)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+Internationale+de+la+Lumi%C3%A8re+unesco&form=hpcapt&filters=HpDate%3a%2220240515_2200%22",
+            "title": "Journée Internationale de la Lumière",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240515_DayOfLight%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "fd017a722a67e6f6b9f5e7bb3c6f9286",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240514",
             "fullstartdate": "202405142200",
