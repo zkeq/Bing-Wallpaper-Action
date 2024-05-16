@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-15 00:48:30",
-    "Total": 748,
+    "LastUpdate": "2024-05-16 00:48:24",
+    "Total": 749,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240515",
+            "fullstartdate": "202405150400",
+            "enddate": "20240516",
+            "url": "/th?id=OHR.BlueCityIndia_EN-CA8486097428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueCityIndia_EN-CA8486097428",
+            "copyright": "The Blue City of Jodhpur, India (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jodhpur+India&form=hpcapt&filters=HpDate%3a%2220240515_0400%22",
+            "title": "Lost in a blue-tiful land",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240515_BlueCityIndia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e65815f3cb25718dd6b643cc7c58321c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240514",
             "fullstartdate": "202405140400",
