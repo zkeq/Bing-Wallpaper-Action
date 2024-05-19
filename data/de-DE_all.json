@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-18 00:48:06",
-    "Total": 752,
+    "LastUpdate": "2024-05-19 00:48:19",
+    "Total": 753,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240518",
+            "fullstartdate": "202405182200",
+            "enddate": "20240519",
+            "url": "/th?id=OHR.NefertitiMuseum_DE-DE7400530006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NefertitiMuseum_DE-DE7400530006",
+            "copyright": "Die Büste der Königin Nofretete, Ägyptisches Museum, Museumsinseln Berlin (© Christophe Gateau/picture alliance via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Die+B%C3%BCste+der+K%C3%B6nigin+Nofretete&form=hpcapt&filters=HpDate%3a%2220240518_2200%22",
+            "title": "Welches Museum besuchen Sie heute?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240518_NefertitiMuseum%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cad343c6389276094a6291002ec2288",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240517",
             "fullstartdate": "202405172200",
