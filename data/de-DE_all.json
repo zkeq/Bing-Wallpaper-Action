@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-19 00:48:19",
-    "Total": 753,
+    "LastUpdate": "2024-05-20 00:48:15",
+    "Total": 754,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240519",
+            "fullstartdate": "202405192200",
+            "enddate": "20240520",
+            "url": "/th?id=OHR.HoneycombBee_DE-DE7958601447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoneycombBee_DE-DE7958601447",
+            "copyright": "Biene bei der Pflege einer Wabe (© Simun Ascic/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltbienentag&form=hpcapt&filters=HpDate%3a%2220240519_2200%22",
+            "title": "Summende Symmetrie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240519_HoneycombBee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a709894ee3456086b81d71411b1faba7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240518",
             "fullstartdate": "202405182200",
