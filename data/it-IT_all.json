@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-20 00:48:37",
-    "Total": 754,
+    "LastUpdate": "2024-05-21 00:48:34",
+    "Total": 755,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240520",
+            "fullstartdate": "202405202200",
+            "enddate": "20240521",
+            "url": "/th?id=OHR.MalaysiaTea_IT-IT5477437805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MalaysiaTea_IT-IT5477437805",
+            "copyright": "Piantagione di tè, Cameron Highlands, Malaysia (© alex cheong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=giornata+internazionale+del+t%C3%A8&form=hpcapt",
+            "title": "Una giornata all'insegna del tè",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240520_MalaysiaTea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "27201acd491fa6e0a87914f72cd5a420",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240519",
             "fullstartdate": "202405192200",
