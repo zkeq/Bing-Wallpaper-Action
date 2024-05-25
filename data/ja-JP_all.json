@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-24 00:48:09",
-    "Total": 758,
+    "LastUpdate": "2024-05-25 00:48:03",
+    "Total": 759,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240524",
+            "fullstartdate": "202405241500",
+            "enddate": "20240525",
+            "url": "/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164",
+            "copyright": "アイット・ベン・ハドゥ, モロッコ (© Grant Faint/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%A4%E3%83%83%E3%83%88%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%89%E3%82%A5&form=hpcapt&filters=HpDate%3a%2220240524_1500%22",
+            "title": "サハラ砂漠の端にある要塞村",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240524_MoroccoBenhaddou%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65cb89d2ffc273a7ca42b53e34f89cd8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240523",
             "fullstartdate": "202405231500",
