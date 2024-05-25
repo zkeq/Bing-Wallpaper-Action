@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-24 00:48:31",
-    "Total": 758,
+    "LastUpdate": "2024-05-25 00:48:24",
+    "Total": 759,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240524",
+            "fullstartdate": "202405242200",
+            "enddate": "20240525",
+            "url": "/th?id=OHR.MoroccoBenhaddou_FR-FR8548629295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoroccoBenhaddou_FR-FR8548629295",
+            "copyright": "Ksar d’Aït Benhaddou, Maroc (© Grant Faint/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ait+BenHaddou+Maroc&form=hpcapt&filters=HpDate%3a%2220240524_2200%22",
+            "title": "Les gardiens des dunes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240524_MoroccoBenhaddou%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "62878c98c6309f08a58d16e1262130ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240523",
             "fullstartdate": "202405232200",
