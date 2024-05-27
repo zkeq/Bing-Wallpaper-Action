@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-26 00:48:36",
-    "Total": 760,
+    "LastUpdate": "2024-05-27 00:48:36",
+    "Total": 761,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240526",
+            "fullstartdate": "202405261830",
+            "enddate": "20240527",
+            "url": "/th?id=OHR.ShivaDarasuram_EN-IN5077554474_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShivaDarasuram_EN-IN5077554474",
+            "copyright": "Airavatesvara Temple at Darasuram, Tamil Nadu, built by Chola kings (© Narayan Kumar Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Airavatesvara+Temple&form=hpcapt&filters=HpDate%3a%2220240526_1830%22",
+            "title": "Chronicled carvings",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240526_ShivaDarasuram%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd3041e0081ee660dd15bb1c2f53e206",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240525",
             "fullstartdate": "202405251830",
