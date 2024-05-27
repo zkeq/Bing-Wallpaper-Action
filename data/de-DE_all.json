@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-26 00:48:23",
-    "Total": 760,
+    "LastUpdate": "2024-05-27 00:48:24",
+    "Total": 761,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240526",
+            "fullstartdate": "202405262200",
+            "enddate": "20240527",
+            "url": "/th?id=OHR.SestriLevante_DE-DE0573141632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SestriLevante_DE-DE0573141632",
+            "copyright": "Baia del Silenzio in Sestri Levante, Ligurien, Italien (© StevanZZ/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sestri+Levante&form=hpcapt&filters=HpDate%3a%2220240526_2200%22",
+            "title": "Sonne und Meer, Italien ich liebe dich sehr!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240526_SestriLevante%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81c1a524ebbe3c94b6a26044663b28d7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240525",
             "fullstartdate": "202405252200",
