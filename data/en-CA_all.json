@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-27 00:48:28",
-    "Total": 760,
+    "LastUpdate": "2024-05-28 00:48:17",
+    "Total": 761,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240527",
+            "fullstartdate": "202405270400",
+            "enddate": "20240528",
+            "url": "/th?id=OHR.MinganArchipelago_EN-CA5872186861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinganArchipelago_EN-CA5872186861",
+            "copyright": "Mingan Archipelago National Park Reserve, Quebec, Canada (© Instants/E+/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mingan+Archipelago+National+Park+Reserve&form=hpcapt&filters=HpDate%3a%2220240527_0400%22",
+            "title": "Standing the test of time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240527_MinganArchipelago%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba85d78a59c2abdff68bd523882a9f62",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240526",
             "fullstartdate": "202405260400",
