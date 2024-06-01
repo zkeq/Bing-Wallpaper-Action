@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-31 00:48:04",
-    "Total": 765,
+    "LastUpdate": "2024-06-01 00:48:13",
+    "Total": 766,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240531",
+            "fullstartdate": "202405311600",
+            "enddate": "20240601",
+            "url": "/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CancaoDoExilio_ZH-CN1012675104",
+            "copyright": "帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%8C%E7%BA%A6%E7%83%AD%E5%86%85%E5%8D%A2%E6%A4%8D%E7%89%A9%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "带你游花园",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240531_CancaoDoExilio%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "37ac9bf1d53efeebdf9cd3ae89b2c8c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240530",
             "fullstartdate": "202405301600",
