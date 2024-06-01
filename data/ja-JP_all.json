@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-05-31 00:48:14",
-    "Total": 765,
+    "LastUpdate": "2024-06-01 00:48:23",
+    "Total": 766,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240531",
+            "fullstartdate": "202405311500",
+            "enddate": "20240601",
+            "url": "/th?id=OHR.PrideMonthSF_JA-JP2832342132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideMonthSF_JA-JP2832342132",
+            "copyright": "虹色に輝くサンフランシスコ市庁舎, 米国 カリフォルニア州 (© Josh Edelson/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E5%B8%82%E5%BA%81%E8%88%8E&form=hpcapt&filters=HpDate%3a%2220240531_1500%22",
+            "title": "今月はプライド月間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240531_PrideMonthSF%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "04f545958c6036c53e6021596fe0ffad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240530",
             "fullstartdate": "202405301500",
