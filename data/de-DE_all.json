@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-01 00:48:27",
-    "Total": 766,
+    "LastUpdate": "2024-06-02 00:48:28",
+    "Total": 767,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240601",
+            "fullstartdate": "202406012200",
+            "enddate": "20240602",
+            "url": "/th?id=OHR.MenRuz_DE-DE4765276671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MenRuz_DE-DE4765276671",
+            "copyright": "Leuchtturm Ploumanac'h, Côtes-d'Armor, Frankreich (© Christian Handl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Phare+de+Ploumanac%E2%80%99h&form=hpcapt&filters=HpDate%3a%2220240601_2200%22",
+            "title": "Ein Licht in der Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240601_MenRuz%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1870fe6c37a63a20d90c779cf42484ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240531",
             "fullstartdate": "202405312200",
