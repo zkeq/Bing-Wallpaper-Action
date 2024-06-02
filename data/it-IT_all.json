@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-01 00:48:49",
-    "Total": 766,
+    "LastUpdate": "2024-06-02 00:48:49",
+    "Total": 767,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240601",
+            "fullstartdate": "202406012200",
+            "enddate": "20240602",
+            "url": "/th?id=OHR.ItalyFlag_IT-IT1674511086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyFlag_IT-IT1674511086",
+            "copyright": "Festa della Repubblica (© Independent Photo Agency Srl)",
+            "copyrightlink": "https://www.bing.com/search?q=Festa+della+Repubblica&form=hpcapt",
+            "title": "Viva la Repubblica!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240601_ItalyFlag%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c149f75a3f06aca8e0954cecd4b22bfb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240531",
             "fullstartdate": "202405312200",
