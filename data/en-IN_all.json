@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-01 00:48:41",
-    "Total": 766,
+    "LastUpdate": "2024-06-02 00:48:41",
+    "Total": 767,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240601",
+            "fullstartdate": "202406011830",
+            "enddate": "20240602",
+            "url": "/th?id=OHR.IndiaHampi_EN-IN5466875133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndiaHampi_EN-IN5466875133",
+            "copyright": "Scenery around Hampi, Karnataka (© Holly Barber/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Hampi&form=hpcapt&filters=HpDate%3a%2220240601_1830%22",
+            "title": "Rocks and revelations",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240601_IndiaHampi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ff43283fdee3b6b8b3f353f928f8106",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240531",
             "fullstartdate": "202405311830",
