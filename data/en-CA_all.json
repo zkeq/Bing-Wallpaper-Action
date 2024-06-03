@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-02 00:48:32",
-    "Total": 766,
+    "LastUpdate": "2024-06-03 00:48:23",
+    "Total": 767,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240602",
+            "fullstartdate": "202406020400",
+            "enddate": "20240603",
+            "url": "/th?id=OHR.Annahummingbird_EN-CA0660927808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Annahummingbird_EN-CA0660927808",
+            "copyright": "Female Anna's hummingbird, Canada (© Devonyu/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Annas+hummingbird&form=hpcapt&filters=HpDate%3a%2220240602_0400%22",
+            "title": "Small bird, big buzz!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240602_Annahummingbird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "516b6756d1aefc562535191b4570e909",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240601",
             "fullstartdate": "202406010400",
