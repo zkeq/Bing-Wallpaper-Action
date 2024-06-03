@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-02 00:48:23",
-    "Total": 767,
+    "LastUpdate": "2024-06-03 00:48:14",
+    "Total": 768,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240602",
+            "fullstartdate": "202406021500",
+            "enddate": "20240603",
+            "url": "/th?id=OHR.CopenhagenBicycles_JA-JP2959867214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopenhagenBicycles_JA-JP2959867214",
+            "copyright": "世界一の自転車都市コペンハーゲン, デンマーク (© Alphotographic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A%E9%83%BD%E5%B8%82%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240602_1500%22",
+            "title": "今日は世界自転車デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240602_CopenhagenBicycles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52e1ed78cec05d2d0531798c4aa8019a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240601",
             "fullstartdate": "202406011500",
