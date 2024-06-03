@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-02 00:48:45",
-    "Total": 767,
+    "LastUpdate": "2024-06-03 00:48:36",
+    "Total": 768,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240602",
+            "fullstartdate": "202406022200",
+            "enddate": "20240603",
+            "url": "/th?id=OHR.CopenhagenBicycles_FR-FR1244854988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopenhagenBicycles_FR-FR1244854988",
+            "copyright": "Vélos à Copenhague, Danemark (© Alphotographic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+mondiale+de+la+bicyclette+&form=hpcapt&filters=HpDate%3a%2220240602_2200%22",
+            "title": "C’est le moment de perdre les pédales !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240602_CopenhagenBicycles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34eaab9ae6ceecf11f1155098d6a1d89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240601",
             "fullstartdate": "202406012200",
