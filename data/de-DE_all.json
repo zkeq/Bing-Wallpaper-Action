@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-03 00:48:18",
-    "Total": 768,
+    "LastUpdate": "2024-06-04 00:48:16",
+    "Total": 769,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240603",
+            "fullstartdate": "202406032200",
+            "enddate": "20240604",
+            "url": "/th?id=OHR.ChestnutBeeEater_DE-DE7400779777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChestnutBeeEater_DE-DE7400779777",
+            "copyright": "Bienenfresser, Bardia-Nationalpark, Nepal (© PACO COMO/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bienenfresser&form=hpcapt&filters=HpDate%3a%2220240603_2200%22",
+            "title": "Gleich und gleich gesellt sich gern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240603_ChestnutBeeEater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f31b86f6625f8bd56d8b16ba936a1c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240602",
             "fullstartdate": "202406022200",
