@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-03 00:48:36",
-    "Total": 768,
+    "LastUpdate": "2024-06-04 00:48:34",
+    "Total": 769,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240603",
+            "fullstartdate": "202406032200",
+            "enddate": "20240604",
+            "url": "/th?id=OHR.ChestnutBeeEater_FR-FR2288715924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChestnutBeeEater_FR-FR2288715924",
+            "copyright": "Guêpiers de Leschenault, Parc National de Bardia, Népal (© PACO COMO/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=gu%C3%AApier+%C3%A0+t%C3%AAte+rousse&form=hpcapt&filters=HpDate%3a%2220240603_2200%22",
+            "title": "L’union fait le plumage !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240603_ChestnutBeeEater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14a06c1f67bfb47377ca946be8558b9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240602",
             "fullstartdate": "202406022200",
