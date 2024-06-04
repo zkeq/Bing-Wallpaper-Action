@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-03 00:48:23",
-    "Total": 767,
+    "LastUpdate": "2024-06-04 00:48:21",
+    "Total": 768,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240603",
+            "fullstartdate": "202406030400",
+            "enddate": "20240604",
+            "url": "/th?id=OHR.CopenhagenBicycles_EN-CA1742529177_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopenhagenBicycles_EN-CA1742529177",
+            "copyright": "Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Bicycle+Day&form=hpcapt&filters=HpDate%3a%2220240603_0400%22",
+            "title": "'Two' tyred for a ride",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240603_CopenhagenBicycles%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae05d6245ccdb912ef54c70597987236",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240602",
             "fullstartdate": "202406020400",
