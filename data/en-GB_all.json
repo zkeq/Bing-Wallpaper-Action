@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-04 00:48:25",
-    "Total": 767,
+    "LastUpdate": "2024-06-05 00:48:22",
+    "Total": 768,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240604",
+            "fullstartdate": "202406042300",
+            "enddate": "20240605",
+            "url": "/th?id=OHR.MadagascarRiver_EN-GB5519884060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadagascarRiver_EN-GB5519884060",
+            "copyright": "Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Environment+Day&form=hpcapt&filters=HpDate%3a%2220240604_2300%22",
+            "title": "Happy b-earth-day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240604_MadagascarRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a350332ebebcbf281135077cd347aec0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240603",
             "fullstartdate": "202406032300",
