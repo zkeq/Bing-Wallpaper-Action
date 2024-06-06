@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-05 00:47:59",
-    "Total": 770,
+    "LastUpdate": "2024-06-06 00:48:02",
+    "Total": 771,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240605",
+            "fullstartdate": "202406051600",
+            "enddate": "20240606",
+            "url": "/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamargueFlamingos_ZH-CN4176922228",
+            "copyright": "蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%BA%A2%E9%B9%B3&form=hpcapt&mkt=zh-cn",
+            "title": "有趣的野生动物!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240605_CamargueFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc8753bf318188568a0c0d1bfef58cd4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240604",
             "fullstartdate": "202406041600",
