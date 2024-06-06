@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-05 00:48:31",
-    "Total": 770,
+    "LastUpdate": "2024-06-06 00:48:34",
+    "Total": 771,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240605",
+            "fullstartdate": "202406052200",
+            "enddate": "20240606",
+            "url": "/th?id=OHR.LesBravesNormandy_FR-FR2799777837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LesBravesNormandy_FR-FR2799777837",
+            "copyright": "Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=d%C3%A9barquement+de+normandie&form=hpcapt&filters=HpDate%3a%2220240605_2200%22",
+            "title": "Devoir de Mémoire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240605_LesBravesNormandy%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "8d3b00efef825cbcaa6e62b5b604407d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240604",
             "fullstartdate": "202406042200",
