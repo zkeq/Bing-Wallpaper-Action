@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-06 00:48:34",
-    "Total": 771,
+    "LastUpdate": "2024-06-07 00:49:22",
+    "Total": 772,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240606",
+            "fullstartdate": "202406062200",
+            "enddate": "20240607",
+            "url": "/th?id=OHR.HumpbackFamily_FR-FR3059562315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackFamily_FR-FR3059562315",
+            "copyright": "Famille de baleines à bosse, Dutch Harbor, Alaska, États-Unis (© Jude Newkirk/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=world+oceans+day&form=hpcapt&filters=HpDate%3a%2220240606_2200%22",
+            "title": "Vagues d’espoir",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_HumpbackFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b2dae9ec948e4f8a210338400bbe05c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240605",
             "fullstartdate": "202406052200",
