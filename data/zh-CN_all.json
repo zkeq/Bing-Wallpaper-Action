@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-06 00:48:02",
-    "Total": 771,
+    "LastUpdate": "2024-06-07 00:48:51",
+    "Total": 772,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240606",
+            "fullstartdate": "202406061600",
+            "enddate": "20240607",
+            "url": "/th?id=OHR.HumpbackFamily_ZH-CN4336100531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackFamily_ZH-CN4336100531",
+            "copyright": "座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "希望的浪潮",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_HumpbackFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "312d68c8361b3e9f2a759b572cf48902",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240605",
             "fullstartdate": "202406051600",
