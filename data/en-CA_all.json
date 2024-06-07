@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-06 00:48:21",
-    "Total": 770,
+    "LastUpdate": "2024-06-07 00:49:10",
+    "Total": 771,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240606",
+            "fullstartdate": "202406060400",
+            "enddate": "20240607",
+            "url": "/th?id=OHR.LesBravesNormandy_EN-CA6288296004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LesBravesNormandy_EN-CA6288296004",
+            "copyright": "Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Normandy+landings&form=hpcapt&filters=HpDate%3a%2220240606_0400%22",
+            "title": "D-Day: 80 years on",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_LesBravesNormandy%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "9e00205e1ffc4c2506f16843fafb9dc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240605",
             "fullstartdate": "202406050400",
