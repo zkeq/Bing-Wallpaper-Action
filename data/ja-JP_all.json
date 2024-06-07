@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-06 00:48:12",
-    "Total": 771,
+    "LastUpdate": "2024-06-07 00:49:01",
+    "Total": 772,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240606",
+            "fullstartdate": "202406061500",
+            "enddate": "20240607",
+            "url": "/th?id=OHR.HumpbackFamily_JA-JP3134637599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackFamily_JA-JP3134637599",
+            "copyright": "港湾地区ダッチハーバーのザトウクジラ, 米国 アラスカ州 (© Jude Newkirk/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220240606_1500%22",
+            "title": "今日は世界海洋デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_HumpbackFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9e7d8c449cf0824a7689554024aa1cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240605",
             "fullstartdate": "202406051500",
