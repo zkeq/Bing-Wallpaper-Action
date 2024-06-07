@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-06 00:48:25",
-    "Total": 769,
+    "LastUpdate": "2024-06-07 00:49:14",
+    "Total": 770,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240606",
+            "fullstartdate": "202406062300",
+            "enddate": "20240607",
+            "url": "/th?id=OHR.HumpbackFamily_EN-GB1225853084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackFamily_EN-GB1225853084",
+            "copyright": "Family of humpback whales, Dutch Harbour, Alaska, USA (© Jude Newkirk/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=world+oceans+day&form=hpcapt&filters=HpDate%3a%2220240606_2300%22",
+            "title": "Waves of hope",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_HumpbackFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af0fe222786c25cb61e49da84b72a130",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240605",
             "fullstartdate": "202406052300",
