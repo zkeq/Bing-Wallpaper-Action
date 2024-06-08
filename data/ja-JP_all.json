@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-07 00:49:01",
-    "Total": 772,
+    "LastUpdate": "2024-06-08 00:48:16",
+    "Total": 773,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240607",
+            "fullstartdate": "202406071500",
+            "enddate": "20240608",
+            "url": "/th?id=OHR.KillikRiverAlaska_JA-JP3191986449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KillikRiverAlaska_JA-JP3191986449",
+            "copyright": "北極圏の扉国立公園, 米国 アラスカ州 (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%A5%B5%E5%9C%8F%E3%81%AE%E6%89%89%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240607_1500%22",
+            "title": "今月は全米河川の月間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240607_KillikRiverAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bada15afebaa898a67553df27f196555",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240606",
             "fullstartdate": "202406061500",
