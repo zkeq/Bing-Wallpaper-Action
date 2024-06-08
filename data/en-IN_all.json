@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-07 00:49:18",
-    "Total": 772,
+    "LastUpdate": "2024-06-08 00:48:33",
+    "Total": 773,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240607",
+            "fullstartdate": "202406071830",
+            "enddate": "20240608",
+            "url": "/th?id=OHR.KillikRiverAlaska_EN-IN7273907470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KillikRiverAlaska_EN-IN7273907470",
+            "copyright": "Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gates+of+the+Arctic+National+Park&form=hpcapt&filters=HpDate%3a%2220240607_1830%22",
+            "title": "The meeting of the waters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240607_KillikRiverAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ba1a01cd5e76524b1889bcca723e1fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240606",
             "fullstartdate": "202406061830",
