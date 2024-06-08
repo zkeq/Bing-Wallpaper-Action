@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-07 00:49:22",
-    "Total": 772,
+    "LastUpdate": "2024-06-08 00:48:37",
+    "Total": 773,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240607",
+            "fullstartdate": "202406072200",
+            "enddate": "20240608",
+            "url": "/th?id=OHR.KillikRiverAlaska_FR-FR3251837973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KillikRiverAlaska_FR-FR3251837973",
+            "copyright": "Confluence de Easter Creek et de la rivière Killik, Parc National des Gates of the Arctic, Alaska, États-Unis (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alaska&form=hpcapt&filters=HpDate%3a%2220240607_2200%22",
+            "title": "La rencontre de deux mondes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240607_KillikRiverAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "667a527ff85aee27f51c2e7c22a4c1d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240606",
             "fullstartdate": "202406062200",
