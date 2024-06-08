@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-07 00:49:14",
-    "Total": 770,
+    "LastUpdate": "2024-06-08 00:48:29",
+    "Total": 771,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240607",
+            "fullstartdate": "202406072300",
+            "enddate": "20240608",
+            "url": "/th?id=OHR.SummerJuneHare_EN-GB7076303066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SummerJuneHare_EN-GB7076303066",
+            "copyright": "European hare, West Midlands, England (© Jake Stephen/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=European+hare+mammal&form=hpcapt&filters=HpDate%3a%2220240607_2300%22",
+            "title": "Have you been 'hare' before?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240607_SummerJuneHare%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a9ff6f922aa74cd5c75c81aa466ad85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240606",
             "fullstartdate": "202406062300",
