@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-08 00:48:06",
-    "Total": 773,
+    "LastUpdate": "2024-06-09 00:48:20",
+    "Total": 774,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240608",
+            "fullstartdate": "202406081600",
+            "enddate": "20240609",
+            "url": "/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasBiosphere_ZH-CN6198033700",
+            "copyright": "巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E5%BE%B7%E7%BA%B3%E6%96%AF&form=hpcapt&mkt=zh-cn",
+            "title": "令人窒息的寂静",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240608_BardenasBiosphere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c551cb71b36b54e10cdd0694f400ff83",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240607",
             "fullstartdate": "202406071600",
