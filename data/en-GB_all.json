@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-08 00:48:29",
-    "Total": 771,
+    "LastUpdate": "2024-06-09 00:48:43",
+    "Total": 772,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240608",
+            "fullstartdate": "202406082300",
+            "enddate": "20240609",
+            "url": "/th?id=OHR.BardenasBiosphere_EN-GB7353700362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasBiosphere_EN-GB7353700362",
+            "copyright": "Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Bardenas+Reales+Biosphere+Reserve&form=hpcapt&filters=HpDate%3a%2220240608_2300%22",
+            "title": "Breath-taking silence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240608_BardenasBiosphere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd0894d871c44ab1c542149ceab35e92",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240607",
             "fullstartdate": "202406072300",
