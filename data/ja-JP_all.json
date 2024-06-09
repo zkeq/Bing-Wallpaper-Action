@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-08 00:48:16",
-    "Total": 773,
+    "LastUpdate": "2024-06-09 00:48:30",
+    "Total": 774,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240608",
+            "fullstartdate": "202406081500",
+            "enddate": "20240609",
+            "url": "/th?id=OHR.BardenasBiosphere_JA-JP3263055841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasBiosphere_JA-JP3263055841",
+            "copyright": "バルデナス・レアレス, スペイン (© Aliaume Chapelle/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%AB%E3%83%87%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%AC%E3%82%A2%E3%83%AC%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220240608_1500%22",
+            "title": "まるで異世界のような景色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240608_BardenasBiosphere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c30bf79a88957746734f59ee8054d6d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240607",
             "fullstartdate": "202406071500",
