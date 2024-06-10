@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-09 00:48:52",
-    "Total": 774,
+    "LastUpdate": "2024-06-10 00:48:46",
+    "Total": 775,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240609",
+            "fullstartdate": "202406092200",
+            "enddate": "20240610",
+            "url": "/th?id=OHR.OsakaNight_FR-FR3842044387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OsakaNight_FR-FR3842044387",
+            "copyright": "Osaka la nuit, Japon (© wichianduangsri/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Osaka+Japon&form=hpcapt&filters=HpDate%3a%2220240609_2200%22",
+            "title": "La ville aux néons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240609_OsakaNight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41edeec0743c09b93142b2cb80681f28",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240608",
             "fullstartdate": "202406082200",
