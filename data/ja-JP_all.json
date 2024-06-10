@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-09 00:48:30",
-    "Total": 774,
+    "LastUpdate": "2024-06-10 00:48:24",
+    "Total": 775,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240609",
+            "fullstartdate": "202406091500",
+            "enddate": "20240610",
+            "url": "/th?id=OHR.OsakaNight_JA-JP3335717675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OsakaNight_JA-JP3335717675",
+            "copyright": "大阪湾方面から見た大阪湾岸, 大阪府 大阪市 (© wichianduangsri/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%98%AA%E6%B9%BE&form=hpcapt&filters=HpDate%3a%2220240609_1500%22",
+            "title": "天保山大橋と天保山大観覧車",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240609_OsakaNight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c24a49a8e74697ad2a5c56b4f6d20a75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240608",
             "fullstartdate": "202406081500",
