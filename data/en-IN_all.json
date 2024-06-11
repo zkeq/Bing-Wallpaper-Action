@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-10 00:48:41",
-    "Total": 775,
+    "LastUpdate": "2024-06-11 00:48:33",
+    "Total": 776,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240610",
+            "fullstartdate": "202406101830",
+            "enddate": "20240611",
+            "url": "/th?id=OHR.GemsbokBotswana_EN-IN8918609883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokBotswana_EN-IN8918609883",
+            "copyright": "Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Gemsbok+animal&form=hpcapt&filters=HpDate%3a%2220240610_1830%22",
+            "title": "These antelopes are real gems",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_GemsbokBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "64faada0a7ad8e66a12108d820cee763",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240609",
             "fullstartdate": "202406091830",
