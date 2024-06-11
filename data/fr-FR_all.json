@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-10 00:48:46",
-    "Total": 775,
+    "LastUpdate": "2024-06-11 00:48:37",
+    "Total": 776,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240610",
+            "fullstartdate": "202406102200",
+            "enddate": "20240611",
+            "url": "/th?id=OHR.GemsbokBotswana_FR-FR4043133584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokBotswana_FR-FR4043133584",
+            "copyright": "L'oryx gazelle dans la savane, Botswana (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=oryx+gazelle&form=hpcapt&filters=HpDate%3a%2220240610_2200%22",
+            "title": "Des animaux uniques",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_GemsbokBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5838c66a5713e0c7d2677ac89091acca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240609",
             "fullstartdate": "202406092200",
