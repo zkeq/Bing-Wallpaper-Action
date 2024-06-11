@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-10 00:48:28",
-    "Total": 775,
+    "LastUpdate": "2024-06-11 00:48:20",
+    "Total": 776,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240610",
+            "fullstartdate": "202406102200",
+            "enddate": "20240611",
+            "url": "/th?id=OHR.GemsbokBotswana_DE-DE9586161509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GemsbokBotswana_DE-DE9586161509",
+            "copyright": "Spießbock in der Savanne, Botswana (© Karine Aigner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Spie%C3%9Fbock&form=hpcapt&filters=HpDate%3a%2220240610_2200%22",
+            "title": "Meister der Anpassung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_GemsbokBotswana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "26a3e0e456f348a75f0aff99843d6691",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240609",
             "fullstartdate": "202406092200",
