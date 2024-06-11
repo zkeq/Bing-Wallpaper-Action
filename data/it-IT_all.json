@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-10 00:48:50",
-    "Total": 775,
+    "LastUpdate": "2024-06-11 00:48:42",
+    "Total": 776,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240610",
+            "fullstartdate": "202406102200",
+            "enddate": "20240611",
+            "url": "/th?id=OHR.ViesteItaly_IT-IT7489172458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ViesteItaly_IT-IT7489172458",
+            "copyright": "Vieste sulla penisola del Gargano, Puglia, Italia (© Pilat666/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vieste&form=hpcapt",
+            "title": "Sussurri marini",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_ViesteItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bfcdfe678522ab2ef899f8f1508399e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240609",
             "fullstartdate": "202406092200",
