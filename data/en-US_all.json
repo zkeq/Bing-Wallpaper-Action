@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-10 00:48:19",
-    "Total": 775,
+    "LastUpdate": "2024-06-11 00:48:11",
+    "Total": 776,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240610",
+            "fullstartdate": "202406100700",
+            "enddate": "20240611",
+            "url": "/th?id=OHR.OsakaNight_EN-US7022302235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OsakaNight_EN-US7022302235",
+            "copyright": "Osaka at night, Japan (© wichianduangsri/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Osaka+Japan&form=hpcapt&filters=HpDate%3a%2220240610_0700%22",
+            "title": "City of neon dreams",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_OsakaNight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aaa0961a28845ea324217a5dd95f6212",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240609",
             "fullstartdate": "202406090700",
