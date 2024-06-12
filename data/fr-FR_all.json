@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-11 00:48:37",
-    "Total": 776,
+    "LastUpdate": "2024-06-12 00:48:39",
+    "Total": 777,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240611",
+            "fullstartdate": "202406112200",
+            "enddate": "20240612",
+            "url": "/th?id=OHR.BigBendMilkyWay_FR-FR4230024049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendMilkyWay_FR-FR4230024049",
+            "copyright": "Voie lactée au-dessus du parc national de Big Bend, Texas, États-Unis (© wisanuboonrawd/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=voie+lact%C3%A9e+parc+national+de+Big+Bend&form=hpcapt&filters=HpDate%3a%2220240611_2200%22",
+            "title": "Un concert galactique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240611_BigBendMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c82c47a744cf6b3b815df5b742e69ca2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240610",
             "fullstartdate": "202406102200",
