@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-11 00:48:29",
-    "Total": 774,
+    "LastUpdate": "2024-06-12 00:48:30",
+    "Total": 775,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240611",
+            "fullstartdate": "202406112300",
+            "enddate": "20240612",
+            "url": "/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendMilkyWay_EN-GB2396509445",
+            "copyright": "Milky Way over Big Bend National Park, Texas, USA (© wisanuboonrawd/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Big+Bend+National+Park&form=hpcapt&filters=HpDate%3a%2220240611_2300%22",
+            "title": "A galactic gig",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240611_BigBendMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "db9ad3c5eb908aab7611bc4810b6f990",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240610",
             "fullstartdate": "202406102300",
