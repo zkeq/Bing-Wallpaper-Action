@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-11 00:48:05",
-    "Total": 776,
+    "LastUpdate": "2024-06-12 00:48:07",
+    "Total": 777,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240611",
+            "fullstartdate": "202406111600",
+            "enddate": "20240612",
+            "url": "/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605",
+            "copyright": "大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E5%BC%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "星光盛宴",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240611_BigBendMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d142e03abd5f77845ea1a9a4a739a92a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240610",
             "fullstartdate": "202406101600",
