@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-11 00:48:42",
-    "Total": 776,
+    "LastUpdate": "2024-06-12 00:48:44",
+    "Total": 777,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240611",
+            "fullstartdate": "202406112200",
+            "enddate": "20240612",
+            "url": "/th?id=OHR.BigBendMilkyWay_IT-IT7811408807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendMilkyWay_IT-IT7811408807",
+            "copyright": "Via Lattea, Parco Nazionale di Big Bend, Texas, USA (© wisanuboonrawd/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+di+Big+Bend&form=hpcapt",
+            "title": "Sinfonia stellare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240611_BigBendMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cf22415d9c2918741318ea68a65a2c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240610",
             "fullstartdate": "202406102200",
