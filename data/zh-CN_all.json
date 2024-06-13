@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-12 00:48:07",
-    "Total": 777,
+    "LastUpdate": "2024-06-13 00:48:01",
+    "Total": 778,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240612",
+            "fullstartdate": "202406121600",
+            "enddate": "20240613",
+            "url": "/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702",
+            "copyright": "雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒 (© da-kuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%92%92%E9%A9%AC%E5%B0%94%E7%BD%95&form=hpcapt&mkt=zh-cn",
+            "title": "瓷砖的故事",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240612_RegistanUzbekistan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa7b3d3601f2825ae54fb826dacd0f2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240611",
             "fullstartdate": "202406111600",
