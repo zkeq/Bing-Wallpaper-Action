@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-12 00:48:39",
-    "Total": 777,
+    "LastUpdate": "2024-06-13 00:48:33",
+    "Total": 778,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240612",
+            "fullstartdate": "202406122200",
+            "enddate": "20240613",
+            "url": "/th?id=OHR.RegistanUzbekistan_FR-FR4384753959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegistanUzbekistan_FR-FR4384753959",
+            "copyright": "Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=samarcande+ouzb%C3%A9kistan&form=hpcapt&filters=HpDate%3a%2220240612_2200%22",
+            "title": "Quelle tuile !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240612_RegistanUzbekistan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3078ba62b44f5376ca5870d98fac7a72",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240611",
             "fullstartdate": "202406112200",
