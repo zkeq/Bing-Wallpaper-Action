@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-12 00:48:21",
-    "Total": 777,
+    "LastUpdate": "2024-06-13 00:48:15",
+    "Total": 778,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240612",
+            "fullstartdate": "202406122200",
+            "enddate": "20240613",
+            "url": "/th?id=OHR.RegistanUzbekistan_DE-DE0297910623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegistanUzbekistan_DE-DE0297910623",
+            "copyright": "Mosaik-Fassade auf dem Registan-Platz, Samarkand, Usbekistan (© da-kuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220240612_2200%22",
+            "title": "Zauberhafte Ziegeln",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240612_RegistanUzbekistan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3dd92bcb5799cd3034f14fe1f6eff3db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240611",
             "fullstartdate": "202406112200",
