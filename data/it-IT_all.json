@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-13 00:48:38",
-    "Total": 778,
+    "LastUpdate": "2024-06-14 00:48:42",
+    "Total": 779,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240613",
+            "fullstartdate": "202406132200",
+            "enddate": "20240614",
+            "url": "/th?id=OHR.KokinoMacedonia_IT-IT5698531580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KokinoMacedonia_IT-IT5698531580",
+            "copyright": "Kokino, antico osservatorio megalitico, Macedonia del Nord (© stoimilov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Macedonia+del+Nord&form=hpcapt",
+            "title": "Misteri celesti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240613_KokinoMacedonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96f082f828712fe379ad8bbc208fba52",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240612",
             "fullstartdate": "202406122200",
