@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-13 00:48:01",
-    "Total": 778,
+    "LastUpdate": "2024-06-14 00:48:06",
+    "Total": 779,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240613",
+            "fullstartdate": "202406131600",
+            "enddate": "20240614",
+            "url": "/th?id=OHR.PeggysCove_ZH-CN4221190894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeggysCove_ZH-CN4221190894",
+            "copyright": "佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BD%A9%E5%A7%AC%E6%B9%BE%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "孤独，但不寂寞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240613_PeggysCove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "56d8b2c0b011127edc935ac4d1760367",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240612",
             "fullstartdate": "202406121600",
