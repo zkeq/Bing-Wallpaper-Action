@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-14 00:48:34",
-    "Total": 779,
+    "LastUpdate": "2024-06-15 00:48:27",
+    "Total": 780,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240614",
+            "fullstartdate": "202406141830",
+            "enddate": "20240615",
+            "url": "/th?id=OHR.NazareWave_EN-IN4905008694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NazareWave_EN-IN4905008694",
+            "copyright": "Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nazar%C3%A9%2c+Portugal&form=hpcapt&filters=HpDate%3a%2220240614_1830%22",
+            "title": "Where there's a will, there's a wave",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240614_NazareWave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "79c822570fa59ee39d6c249e18063952",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240613",
             "fullstartdate": "202406131830",
