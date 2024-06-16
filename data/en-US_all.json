@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-15 00:48:05",
-    "Total": 780,
+    "LastUpdate": "2024-06-16 00:48:24",
+    "Total": 781,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240615",
+            "fullstartdate": "202406150700",
+            "enddate": "20240616",
+            "url": "/th?id=OHR.NazareWave_EN-US9510827848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NazareWave_EN-US9510827848",
+            "copyright": "Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Surfing+day&form=hpcapt&filters=HpDate%3a%2220240615_0700%22",
+            "title": "Where there's a will, there's a wave",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240615_NazareWave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcabbd1f99efd615c4db2d1b6b4a71e5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240614",
             "fullstartdate": "202406140700",
