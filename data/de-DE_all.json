@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-16 00:48:33",
-    "Total": 781,
+    "LastUpdate": "2024-06-17 00:48:31",
+    "Total": 782,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240616",
+            "fullstartdate": "202406162200",
+            "enddate": "20240617",
+            "url": "/th?id=OHR.HummingThistle_DE-DE7552143842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HummingThistle_DE-DE7552143842",
+            "copyright": "Grünstirn-Brillantkolibri mit Riesendistel, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Pollen&form=hpcapt&filters=HpDate%3a%2220240616_2200%22",
+            "title": "Der goldene Staub des Lebens",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240616_HummingThistle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e59dc98baa117dd41a943201aa40f7a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240615",
             "fullstartdate": "202406152200",
