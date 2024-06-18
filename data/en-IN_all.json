@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-17 00:48:44",
-    "Total": 782,
+    "LastUpdate": "2024-06-18 00:48:35",
+    "Total": 783,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240617",
+            "fullstartdate": "202406171830",
+            "enddate": "20240618",
+            "url": "/th?id=OHR.LupinIceland_EN-IN5917999831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LupinIceland_EN-IN5917999831",
+            "copyright": "Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Snaefellsnes&form=hpcapt&filters=HpDate%3a%2220240617_1830%22",
+            "title": "'Lupin' into summer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240617_LupinIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "596531e0a36d7478f8693230a71a574a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240616",
             "fullstartdate": "202406161830",
