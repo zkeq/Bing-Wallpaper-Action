@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-17 00:48:48",
-    "Total": 782,
+    "LastUpdate": "2024-06-18 00:48:39",
+    "Total": 783,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240617",
+            "fullstartdate": "202406172200",
+            "enddate": "20240618",
+            "url": "/th?id=OHR.LupinIceland_FR-FR4349851245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LupinIceland_FR-FR4349851245",
+            "copyright": "Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Snaefellsnes&form=hpcapt&filters=HpDate%3a%2220240617_2200%22",
+            "title": "Des lupins sans Arsène !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240617_LupinIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ef532c3ea01cfe673b74dc443a9901e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240616",
             "fullstartdate": "202406162200",
