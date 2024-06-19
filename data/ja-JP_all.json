@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-18 00:48:18",
-    "Total": 783,
+    "LastUpdate": "2024-06-19 00:48:16",
+    "Total": 784,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240618",
+            "fullstartdate": "202406181500",
+            "enddate": "20240619",
+            "url": "/th?id=OHR.FlorenceDuomo_JA-JP1549442901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlorenceDuomo_JA-JP1549442901",
+            "copyright": "サンタ・マリア・デル・フィオーレ大聖堂, イタリア (© Elena Pueyo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220240618_1500%22",
+            "title": "巨大なドームを持つ司教座聖堂",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_FlorenceDuomo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dedb19b7332110e67b8977e179ba6fef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240617",
             "fullstartdate": "202406171500",
