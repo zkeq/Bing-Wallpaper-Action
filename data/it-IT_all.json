@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-18 00:48:44",
-    "Total": 783,
+    "LastUpdate": "2024-06-19 00:48:43",
+    "Total": 784,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240618",
+            "fullstartdate": "202406182200",
+            "enddate": "20240619",
+            "url": "/th?id=OHR.CuxhavenTower_IT-IT3147341965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CuxhavenTower_IT-IT3147341965",
+            "copyright": "Torre dell'acqua, Cuxhaven, Bassa Sassonia, Germania (© Andreas Vogel/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cuxhaven%2c+Bassa+Sassonia&form=hpcapt",
+            "title": "Una torre d’acqua?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_CuxhavenTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72e1c111278eb625bde4de2840285f16",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240617",
             "fullstartdate": "202406172200",
