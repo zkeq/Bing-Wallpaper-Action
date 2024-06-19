@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-18 00:48:35",
-    "Total": 783,
+    "LastUpdate": "2024-06-19 00:48:34",
+    "Total": 784,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240618",
+            "fullstartdate": "202406181830",
+            "enddate": "20240619",
+            "url": "/th?id=OHR.LewaGiraffe_EN-IN6464213350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LewaGiraffe_EN-IN6464213350",
+            "copyright": "Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Reticulated+giraffe&form=hpcapt&filters=HpDate%3a%2220240618_1830%22",
+            "title": "Spot-on connection",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_LewaGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "28fe49eeb802db328a6a9ccef8a23227",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240617",
             "fullstartdate": "202406171830",
