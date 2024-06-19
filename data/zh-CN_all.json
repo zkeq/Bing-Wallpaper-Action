@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-18 00:48:09",
-    "Total": 783,
+    "LastUpdate": "2024-06-19 00:48:06",
+    "Total": 784,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240618",
+            "fullstartdate": "202406181600",
+            "enddate": "20240619",
+            "url": "/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CuxhavenTower_ZH-CN5580118944",
+            "copyright": "库克斯港的水塔，德国 (© Andreas Vogel/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%93%E5%85%8B%E6%96%AF%E6%B8%AF&form=hpcapt&mkt=zh-cn",
+            "title": "一座历史古迹",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_CuxhavenTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93d6b4d2305d100345b1a286241293b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240617",
             "fullstartdate": "202406171600",
