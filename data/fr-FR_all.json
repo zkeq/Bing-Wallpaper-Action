@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-18 00:48:39",
-    "Total": 783,
+    "LastUpdate": "2024-06-19 00:48:39",
+    "Total": 784,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240618",
+            "fullstartdate": "202406182200",
+            "enddate": "20240619",
+            "url": "/th?id=OHR.CuxhavenTower_FR-FR4564976759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CuxhavenTower_FR-FR4564976759",
+            "copyright": "Château d'eau à Cuxhaven, Allemagne (© Andreas Vogel/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cuxhaven+ville&form=hpcapt&filters=HpDate%3a%2220240618_2200%22",
+            "title": "Un monument hors-du-commun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_CuxhavenTower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3cc8e4e40dfaec5eb8be956b58bf4952",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240617",
             "fullstartdate": "202406172200",
