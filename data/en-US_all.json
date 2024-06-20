@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-19 00:48:12",
-    "Total": 784,
+    "LastUpdate": "2024-06-20 00:48:15",
+    "Total": 785,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240619",
+            "fullstartdate": "202406190700",
+            "enddate": "20240620",
+            "url": "/th?id=OHR.LawrenceMosaic_EN-US0314379909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LawrenceMosaic_EN-US0314379909",
+            "copyright": "Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Juneteenth&form=hpcapt&filters=HpDate%3a%2220240619_0700%22",
+            "title": "Happy Juneteenth!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240619_LawrenceMosaic%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ba523fc134f8df080ae0b125e6905768",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240618",
             "fullstartdate": "202406180700",
