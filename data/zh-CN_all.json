@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-19 00:48:06",
-    "Total": 784,
+    "LastUpdate": "2024-06-20 00:48:09",
+    "Total": 785,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240619",
+            "fullstartdate": "202406191600",
+            "enddate": "20240620",
+            "url": "/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KokinoMacedonia_ZH-CN6029529601",
+            "copyright": "科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%85%B6%E9%A1%BF%E7%8E%8B%E5%9B%BD&form=hpcapt&mkt=zh-cn",
+            "title": "夏天的脚步近了",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240619_KokinoMacedonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98b1c7e88d7055fc3459968e5d1588c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240618",
             "fullstartdate": "202406181600",
