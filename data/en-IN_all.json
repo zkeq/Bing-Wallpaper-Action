@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-19 00:48:34",
-    "Total": 784,
+    "LastUpdate": "2024-06-20 00:48:37",
+    "Total": 785,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240619",
+            "fullstartdate": "202406191830",
+            "enddate": "20240620",
+            "url": "/th?id=OHR.KokinoMacedonia_EN-IN6950788998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KokinoMacedonia_EN-IN6950788998",
+            "copyright": "Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Summer+solstice&form=hpcapt&filters=HpDate%3a%2220240619_1830%22",
+            "title": "Sunrise on the Solstice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240619_KokinoMacedonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a3677b39ca791cf3af49c0cc6f0809e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240618",
             "fullstartdate": "202406181830",
