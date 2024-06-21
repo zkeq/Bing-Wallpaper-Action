@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-20 00:48:32",
-    "Total": 783,
+    "LastUpdate": "2024-06-21 00:48:25",
+    "Total": 784,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240620",
+            "fullstartdate": "202406202300",
+            "enddate": "20240621",
+            "url": "/th?id=OHR.LewaGiraffe_EN-GB5426424156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LewaGiraffe_EN-GB5426424156",
+            "copyright": "Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=world+giraffe+day&form=hpcapt&filters=HpDate%3a%2220240620_2300%22",
+            "title": "Who's sharing a cuddly hello?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240620_LewaGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cff6e2e932a8e738f725580c223719a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240619",
             "fullstartdate": "202406192300",
