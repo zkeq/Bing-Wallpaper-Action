@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-20 00:48:09",
-    "Total": 785,
+    "LastUpdate": "2024-06-21 00:48:02",
+    "Total": 786,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240620",
+            "fullstartdate": "202406201600",
+            "enddate": "20240621",
+            "url": "/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SummerSolstice2024_ZH-CN6141918663",
+            "copyright": "蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8F%E8%87%B3&form=hpcapt&mkt=zh-cn",
+            "title": "清凉的湖水",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240620_SummerSolstice2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88d6003c1e159711bc511d9742823509",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240619",
             "fullstartdate": "202406191600",
