@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-20 00:48:37",
-    "Total": 785,
+    "LastUpdate": "2024-06-21 00:48:29",
+    "Total": 786,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240620",
+            "fullstartdate": "202406201830",
+            "enddate": "20240621",
+            "url": "/th?id=OHR.RishikeshYoga_EN-IN7223104789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RishikeshYoga_EN-IN7223104789",
+            "copyright": "Rishikesh at night (© Andrey Khrobostov/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Yoga&form=hpcapt&filters=HpDate%3a%2220240620_1830%22",
+            "title": "Meditate and navigate",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240620_RishikeshYoga%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dbc0800d470fc57ca577c11d5b66e8a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240619",
             "fullstartdate": "202406191830",
