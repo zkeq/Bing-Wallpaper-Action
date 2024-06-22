@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-21 00:48:21",
-    "Total": 785,
+    "LastUpdate": "2024-06-22 00:48:19",
+    "Total": 786,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240621",
+            "fullstartdate": "202406210400",
+            "enddate": "20240622",
+            "url": "/th?id=OHR.IndPeopleDay_EN-CA8734922275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndPeopleDay_EN-CA8734922275",
+            "copyright": "Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Indigenous+Peoples+Day&form=hpcapt&filters=HpDate%3a%2220240621_0400%22",
+            "title": "Happy Indigenous Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240621_IndPeopleDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a00ad5e3fb20d74541ed8540b689f1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240620",
             "fullstartdate": "202406200400",
