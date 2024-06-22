@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-21 00:48:25",
-    "Total": 784,
+    "LastUpdate": "2024-06-22 00:48:24",
+    "Total": 785,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240621",
+            "fullstartdate": "202406212300",
+            "enddate": "20240622",
+            "url": "/th?id=OHR.BrazilRainforest_EN-GB5655367336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrazilRainforest_EN-GB5655367336",
+            "copyright": "Amazon rainforest, Brazil (© Claus Meyer/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220240621_2300%22",
+            "title": "Getting lost in the mist",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240621_BrazilRainforest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a869ccee6e423a0ddc95c312cb36cbdf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240620",
             "fullstartdate": "202406202300",
