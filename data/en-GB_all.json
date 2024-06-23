@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-22 00:48:24",
-    "Total": 785,
+    "LastUpdate": "2024-06-23 00:48:47",
+    "Total": 786,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240622",
+            "fullstartdate": "202406222300",
+            "enddate": "20240623",
+            "url": "/th?id=OHR.DhakaBangladesh_EN-GB6313540805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DhakaBangladesh_EN-GB6313540805",
+            "copyright": "Aerial view of a roundabout in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Dhaka+Bangladesh&form=hpcapt&filters=HpDate%3a%2220240622_2300%22",
+            "title": "Dark night, city lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240622_DhakaBangladesh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35a023691a325286e0e9f66e5ab1d6ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240621",
             "fullstartdate": "202406212300",
