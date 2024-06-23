@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-22 00:48:32",
-    "Total": 787,
+    "LastUpdate": "2024-06-23 00:48:56",
+    "Total": 788,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240622",
+            "fullstartdate": "202406222200",
+            "enddate": "20240623",
+            "url": "/th?id=OHR.DhakaBangladesh_FR-FR5797372230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DhakaBangladesh_FR-FR5797372230",
+            "copyright": "Vue aérienne d'un rond-point à Dacca, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Dacca+Bangladesh&form=hpcapt&filters=HpDate%3a%2220240622_2200%22",
+            "title": "Lumières de la ville",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240622_DhakaBangladesh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec565d11f03a6ffd1d6b29c1ce046393",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240621",
             "fullstartdate": "202406212200",
