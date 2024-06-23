@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-22 00:48:15",
-    "Total": 787,
+    "LastUpdate": "2024-06-23 00:48:39",
+    "Total": 788,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240622",
+            "fullstartdate": "202406222200",
+            "enddate": "20240623",
+            "url": "/th?id=OHR.DhakaBangladesh_DE-DE1601087316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DhakaBangladesh_DE-DE1601087316",
+            "copyright": "Luftaufnahme eines Verkehrskreisels in Dhaka, Bangladesch (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Dhaka&form=hpcapt&filters=HpDate%3a%2220240622_2200%22",
+            "title": "Lichter der Stadt in dunkler Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240622_DhakaBangladesh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99292c9c261c3ea9f9b63832ef8d2579",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240621",
             "fullstartdate": "202406212200",
