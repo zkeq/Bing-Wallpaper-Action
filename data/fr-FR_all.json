@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-23 00:48:56",
-    "Total": 788,
+    "LastUpdate": "2024-06-24 00:48:41",
+    "Total": 789,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240623",
+            "fullstartdate": "202406232200",
+            "enddate": "20240624",
+            "url": "/th?id=OHR.FloresIsland_FR-FR5999028657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloresIsland_FR-FR5999028657",
+            "copyright": "Lacs de cratères volcaniques, volvan Kelimutu, Flores, Indonésie (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=volcan+Kelimutu+Indon%C3%A9die&form=hpcapt&filters=HpDate%3a%2220240623_2200%22",
+            "title": "Trois lacs pour le prix d’un !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240623_FloresIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "173e389c6e6e6c772d0e63993fd70cdc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240622",
             "fullstartdate": "202406222200",
