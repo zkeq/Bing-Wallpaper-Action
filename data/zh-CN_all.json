@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-23 00:48:25",
-    "Total": 788,
+    "LastUpdate": "2024-06-24 00:48:08",
+    "Total": 789,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240623",
+            "fullstartdate": "202406231600",
+            "enddate": "20240624",
+            "url": "/th?id=OHR.FloresIsland_ZH-CN6930246149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloresIsland_ZH-CN6930246149",
+            "copyright": "克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%97%E6%B4%9B%E5%8B%92%E6%96%AF%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "让人心旷神怡的美景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240623_FloresIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "955bbef9b71c75fe61a6d56d2615d9f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240622",
             "fullstartdate": "202406221600",
