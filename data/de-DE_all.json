@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-23 00:48:39",
-    "Total": 788,
+    "LastUpdate": "2024-06-24 00:48:23",
+    "Total": 789,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240623",
+            "fullstartdate": "202406232200",
+            "enddate": "20240624",
+            "url": "/th?id=OHR.FloresIsland_DE-DE4765362804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloresIsland_DE-DE4765362804",
+            "copyright": "Vulkanische Kraterseen auf Kelimutu, Flores, Indonesien (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Kelimutu%2c+Flores%2c+Indonesien&form=hpcapt&filters=HpDate%3a%2220240623_2200%22",
+            "title": "Eine atemberaubende Aussicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240623_FloresIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22bd91856d2b064ac4ca1f5b246b3461",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240622",
             "fullstartdate": "202406222200",
