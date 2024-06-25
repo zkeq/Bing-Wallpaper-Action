@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-24 00:48:14",
-    "Total": 789,
+    "LastUpdate": "2024-06-25 00:48:05",
+    "Total": 790,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240624",
+            "fullstartdate": "202406240700",
+            "enddate": "20240625",
+            "url": "/th?id=OHR.FloresIsland_EN-US1042279828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloresIsland_EN-US1042279828",
+            "copyright": "Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Kelimutu+Flores+Indonesia&form=hpcapt&filters=HpDate%3a%2220240624_0700%22",
+            "title": "The sacred lakes of Kelimutu",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FloresIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd283deaacad1af96e7e026d3bb21182",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240623",
             "fullstartdate": "202406230700",
