@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-24 00:48:32",
-    "Total": 787,
+    "LastUpdate": "2024-06-25 00:48:23",
+    "Total": 788,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240624",
+            "fullstartdate": "202406242300",
+            "enddate": "20240625",
+            "url": "/th?id=OHR.FireWave_EN-GB9662129375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FireWave_EN-GB9662129375",
+            "copyright": "The Fire Wave rock formation, Valley of Fire State Park, Nevada, USA (© Clint Losee/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Valley+of+Fire+State+Park+Nevada&form=hpcapt&filters=HpDate%3a%2220240624_2300%22",
+            "title": "Hot spot for a cool photo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FireWave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f389672e86efe3d84781af1c8a65851a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240623",
             "fullstartdate": "202406232300",
