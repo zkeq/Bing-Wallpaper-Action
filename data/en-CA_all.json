@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-24 00:48:27",
-    "Total": 788,
+    "LastUpdate": "2024-06-25 00:48:19",
+    "Total": 789,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240624",
+            "fullstartdate": "202406240400",
+            "enddate": "20240625",
+            "url": "/th?id=OHR.FloresIsland_EN-CA9405786955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloresIsland_EN-CA9405786955",
+            "copyright": "Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Kelimutu+Flores+Indonesia&form=hpcapt&filters=HpDate%3a%2220240624_0400%22",
+            "title": "The views will blue your mind",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FloresIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12d5cca44e5ff951c44a2a3b034b972f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240623",
             "fullstartdate": "202406230400",
