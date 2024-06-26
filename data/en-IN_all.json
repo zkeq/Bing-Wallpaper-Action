@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-25 00:48:27",
-    "Total": 790,
+    "LastUpdate": "2024-06-26 00:48:30",
+    "Total": 791,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240625",
+            "fullstartdate": "202406251830",
+            "enddate": "20240626",
+            "url": "/th?id=OHR.CardinalfishAnemone_EN-IN9820574473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CardinalfishAnemone_EN-IN9820574473",
+            "copyright": "Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Banggai+cardinalfish&form=hpcapt&filters=HpDate%3a%2220240625_1830%22",
+            "title": "Stripe-tacular!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240625_CardinalfishAnemone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1960fdb9d788ab76396bb52f2cd58756",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240624",
             "fullstartdate": "202406241830",
