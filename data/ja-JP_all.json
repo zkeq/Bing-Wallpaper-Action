@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-25 00:48:10",
-    "Total": 790,
+    "LastUpdate": "2024-06-26 00:48:13",
+    "Total": 791,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240625",
+            "fullstartdate": "202406251500",
+            "enddate": "20240626",
+            "url": "/th?id=OHR.SpringCaveDale_JA-JP3237523322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringCaveDale_JA-JP3237523322",
+            "copyright": "ペヴリル城, イングランド (© James Osmond/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9A%E3%83%B4%E3%83%AA%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240625_1500%22",
+            "title": "丘の上に建つ中世の城",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240625_SpringCaveDale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a63bac804490795af76300eb0df6f252",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240624",
             "fullstartdate": "202406241500",
