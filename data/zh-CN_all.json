@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-25 00:48:00",
-    "Total": 790,
+    "LastUpdate": "2024-06-26 00:48:02",
+    "Total": 791,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240625",
+            "fullstartdate": "202406251600",
+            "enddate": "20240626",
+            "url": "/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417",
+            "copyright": "考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚 (© Constantinos Petrinos/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%80%83%E6%B0%8F%E9%B3%8D%E7%AB%BA%E9%B2%B7&form=hpcapt&mkt=zh-cn",
+            "title": "美丽的条纹小鱼！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240625_CardinalfishAnemone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f09b6a77b023979bc36b39caf7bc6c02",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240624",
             "fullstartdate": "202406241600",
