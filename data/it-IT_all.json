@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-26 00:48:39",
-    "Total": 791,
+    "LastUpdate": "2024-06-27 00:48:44",
+    "Total": 792,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240626",
+            "fullstartdate": "202406262200",
+            "enddate": "20240627",
+            "url": "/th?id=OHR.FlorenceDuomo_IT-IT5589174181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlorenceDuomo_IT-IT5589174181",
+            "copyright": "Duomo Santa Maria del Fiore, Firenze, Toscana, Italia (© Elena Pueyo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Duomo+Santa+Maria+del+Fiore&form=hpcapt",
+            "title": "Notti fiorentine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240626_FlorenceDuomo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "307e1704481f18df466b6ca12442b911",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240625",
             "fullstartdate": "202406252200",
