@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-26 00:48:35",
-    "Total": 791,
+    "LastUpdate": "2024-06-27 00:48:40",
+    "Total": 792,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240626",
+            "fullstartdate": "202406262200",
+            "enddate": "20240627",
+            "url": "/th?id=OHR.FlorenceDuomo_FR-FR6562213181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlorenceDuomo_FR-FR6562213181",
+            "copyright": "Cathédrale Santa Maria del Fiore au crépuscule, Florence, Italie (© Elena Pueyo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cath%C3%A9drale+Sainte-Marie-de-la-Fleur&form=hpcapt&filters=HpDate%3a%2220240626_2200%22",
+            "title": "Dim, dam, dôme",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240626_FlorenceDuomo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee2d00947ec81cc00f0e9edd1b73efce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240625",
             "fullstartdate": "202406252200",
