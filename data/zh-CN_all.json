@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-27 00:48:09",
-    "Total": 792,
+    "LastUpdate": "2024-06-28 00:48:08",
+    "Total": 793,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240627",
+            "fullstartdate": "202406271600",
+            "enddate": "20240628",
+            "url": "/th?id=OHR.ChauseyIslands_ZH-CN4241103934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChauseyIslands_ZH-CN4241103934",
+            "copyright": "诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BB%8D%E5%A1%9E%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "最具加勒比海风情的海岛",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_ChauseyIslands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "accbdbba7c68c8db56b36179ff773d9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240626",
             "fullstartdate": "202406261600",
