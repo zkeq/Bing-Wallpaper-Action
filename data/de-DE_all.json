@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-27 00:48:23",
-    "Total": 792,
+    "LastUpdate": "2024-06-28 00:48:23",
+    "Total": 793,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240627",
+            "fullstartdate": "202406272200",
+            "enddate": "20240628",
+            "url": "/th?id=OHR.AllianzArena_DE-DE5063263728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AllianzArena_DE-DE5063263728",
+            "copyright": "Die Allianz Arena in Regenbogenfarben beleuchtet, München, Deutschland (© Marci Kost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Christopher+Street+Day&form=hpcapt&filters=HpDate%3a%2220240627_2200%22",
+            "title": "Liebe ist Liebe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_AllianzArena%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "c0c59d71fece9dff595442456e9227c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240626",
             "fullstartdate": "202406262200",
