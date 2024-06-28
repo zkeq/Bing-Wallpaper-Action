@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-27 00:48:14",
-    "Total": 792,
+    "LastUpdate": "2024-06-28 00:48:14",
+    "Total": 793,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240627",
+            "fullstartdate": "202406270700",
+            "enddate": "20240628",
+            "url": "/th?id=OHR.FlorenceDuomo_EN-US1448955167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlorenceDuomo_EN-US1448955167",
+            "copyright": "Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Duomo+Santa+Maria+del+Fiore&form=hpcapt&filters=HpDate%3a%2220240627_0700%22",
+            "title": "Dome sweet dome",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_FlorenceDuomo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3822332af353b06dae3d772a23eef296",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240626",
             "fullstartdate": "202406260700",
