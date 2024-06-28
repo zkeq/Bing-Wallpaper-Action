@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-27 00:48:36",
-    "Total": 792,
+    "LastUpdate": "2024-06-28 00:48:36",
+    "Total": 793,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240627",
+            "fullstartdate": "202406271830",
+            "enddate": "20240628",
+            "url": "/th?id=OHR.ChristopherPark_EN-IN0638219094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristopherPark_EN-IN0638219094",
+            "copyright": "Pride flags at Christopher Street Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=stonewall+anniversary&form=hpcapt&filters=HpDate%3a%2220240627_1830%22",
+            "title": "The pride of New York City",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_ChristopherPark%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "837de32fa5166640da551d5583cdc543",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240626",
             "fullstartdate": "202406261830",
