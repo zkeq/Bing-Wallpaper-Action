@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-28 00:48:08",
-    "Total": 793,
+    "LastUpdate": "2024-06-29 00:48:05",
+    "Total": 794,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240628",
+            "fullstartdate": "202406281600",
+            "enddate": "20240629",
+            "url": "/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700",
+            "copyright": "宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B1%B1%E6%AF%9B%E6%A6%89%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "只见树木，不见森林",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240628_NienhagenMecklenburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3c76a01213f62328a30b93a4608d7ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240627",
             "fullstartdate": "202406271600",
