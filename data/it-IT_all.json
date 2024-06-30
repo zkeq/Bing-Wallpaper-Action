@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-29 00:48:39",
-    "Total": 794,
+    "LastUpdate": "2024-06-30 00:48:58",
+    "Total": 795,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240629",
+            "fullstartdate": "202406292200",
+            "enddate": "20240630",
+            "url": "/th?id=OHR.PrideItalia_IT-IT3295714060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideItalia_IT-IT3295714060",
+            "copyright": "Mole Antonelliana, Torino, Piemonte (© Nicolò Campo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Mole+Antonelliana&form=hpcapt",
+            "title": "Orgoglio infinito",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_PrideItalia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1e5a0d91eed38105005555bf4c5cb507",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240628",
             "fullstartdate": "202406282200",
