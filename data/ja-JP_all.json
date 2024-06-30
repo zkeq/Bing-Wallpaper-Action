@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-29 00:48:14",
-    "Total": 794,
+    "LastUpdate": "2024-06-30 00:48:32",
+    "Total": 795,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240629",
+            "fullstartdate": "202406291500",
+            "enddate": "20240630",
+            "url": "/th?id=OHR.UbudBali_JA-JP9425870638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UbudBali_JA-JP9425870638",
+            "copyright": "バリ島のウブド村, インドネシア (© R. Schönebaum/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%81%96%E7%8D%A3%E3%83%90%E3%83%AD%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240629_1500%22",
+            "title": "獅子のような姿をした聖獣「バロン」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_UbudBali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "772783f33f3a4325e4aaf0b9ef3965ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240628",
             "fullstartdate": "202406281500",
