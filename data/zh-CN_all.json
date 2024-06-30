@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-29 00:48:05",
-    "Total": 794,
+    "LastUpdate": "2024-06-30 00:48:23",
+    "Total": 795,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240629",
+            "fullstartdate": "202406291600",
+            "enddate": "20240630",
+            "url": "/th?id=OHR.UbudBali_ZH-CN4891348277_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UbudBali_ZH-CN4891348277",
+            "copyright": "乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%8E%98%E5%B2%9B+%E4%B9%8C%E5%B8%83&form=hpcapt&mkt=zh-cn",
+            "title": "你不会忘记它的！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_UbudBali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02e2bd9ee9e45b83c73d80010fd140b8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240628",
             "fullstartdate": "202406281600",
