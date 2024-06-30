@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-29 00:48:35",
-    "Total": 794,
+    "LastUpdate": "2024-06-30 00:48:53",
+    "Total": 795,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240629",
+            "fullstartdate": "202406292200",
+            "enddate": "20240630",
+            "url": "/th?id=OHR.UbudBali_FR-FR6392717738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UbudBali_FR-FR6392717738",
+            "copyright": "Sculpture sur pierre dans un temple à Ubud, Bali, Indonésie (© R. Schönebaum/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Ubud&form=hpcapt&filters=HpDate%3a%2220240629_2200%22",
+            "title": "Ubud, l’oasis spirituelle de Bali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_UbudBali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca2d0f342dd287c3bab966d4a5f54dda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240628",
             "fullstartdate": "202406282200",
