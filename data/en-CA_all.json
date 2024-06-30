@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-29 00:48:23",
-    "Total": 793,
+    "LastUpdate": "2024-06-30 00:48:41",
+    "Total": 794,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240629",
+            "fullstartdate": "202406290400",
+            "enddate": "20240630",
+            "url": "/th?id=OHR.TourCorsica_EN-CA6661370949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TourCorsica_EN-CA6661370949",
+            "copyright": "Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tour+de+France+2024&form=hpcapt&filters=HpDate%3a%2220240629_0400%22",
+            "title": "Corsican win this race",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_TourCorsica%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "33e6c07eb9cd4c9a4deeb96e22f87207",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240628",
             "fullstartdate": "202406280400",
