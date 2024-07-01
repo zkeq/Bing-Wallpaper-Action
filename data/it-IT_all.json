@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-30 00:48:58",
-    "Total": 795,
+    "LastUpdate": "2024-07-01 00:49:04",
+    "Total": 796,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240630",
+            "fullstartdate": "202406302200",
+            "enddate": "20240701",
+            "url": "/th?id=OHR.ItalicaRuins_IT-IT3637207546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalicaRuins_IT-IT3637207546",
+            "copyright": "Italica, un'antica città romana a Santiponce, Siviglia, Andalusia, Spagna (© Moses Palermo/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Italica+Spagna&form=hpcapt",
+            "title": "Radiose rovine romane",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_ItalicaRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30869332c144c820e51bb01648550dc9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240629",
             "fullstartdate": "202406292200",
