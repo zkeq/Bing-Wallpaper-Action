@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-30 00:48:41",
-    "Total": 794,
+    "LastUpdate": "2024-07-01 00:48:46",
+    "Total": 795,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240630",
+            "fullstartdate": "202406300400",
+            "enddate": "20240701",
+            "url": "/th?id=OHR.UbudBali_EN-CA8434577809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UbudBali_EN-CA8434577809",
+            "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Ubud+history&form=hpcapt&filters=HpDate%3a%2220240630_0400%22",
+            "title": "You won't forget 'Ubud' it!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_UbudBali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5487cc9511e0a976e02577f6aed0482",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240629",
             "fullstartdate": "202406290400",
