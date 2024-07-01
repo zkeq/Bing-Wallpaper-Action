@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-30 00:48:49",
-    "Total": 795,
+    "LastUpdate": "2024-07-01 00:48:55",
+    "Total": 796,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240630",
+            "fullstartdate": "202406301830",
+            "enddate": "20240701",
+            "url": "/th?id=OHR.FisgardLighthouse_EN-IN6359811191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FisgardLighthouse_EN-IN6359811191",
+            "copyright": "Fisgard Lighthouse, Esquimalt Harbour, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fisgard+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240630_1830%22",
+            "title": "House of lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_FisgardLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aaf7a2910213068065cc9392ff65beff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240629",
             "fullstartdate": "202406291830",
