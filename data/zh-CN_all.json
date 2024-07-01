@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-06-30 00:48:23",
-    "Total": 795,
+    "LastUpdate": "2024-07-01 00:48:27",
+    "Total": 796,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240630",
+            "fullstartdate": "202406301600",
+            "enddate": "20240701",
+            "url": "/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FisgardLighthouse_ZH-CN5474064913",
+            "copyright": "菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8F%B2%E6%96%AF%E5%8A%A0%E5%BE%B7%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "为加拿大干杯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_FisgardLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a172dcb5603ae5a2f2ae4f184f3bd0c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240629",
             "fullstartdate": "202406291600",
