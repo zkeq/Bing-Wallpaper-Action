@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-01 00:48:51",
-    "Total": 794,
+    "LastUpdate": "2024-07-02 00:48:32",
+    "Total": 795,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240701",
+            "fullstartdate": "202407012300",
+            "enddate": "20240702",
+            "url": "/th?id=OHR.HamptonFestival2024_EN-GB4619911099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HamptonFestival2024_EN-GB4619911099",
+            "copyright": "The World Vision Garden at The Hampton Court Palace Flower Show 2016 (© Ellen Rooney/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Hampton+Court+Palace+Garden+Festival&form=hpcapt&filters=HpDate%3a%2220240701_2300%22",
+            "title": "'Sow' much to see and do",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240701_HamptonFestival2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a53dac6f31de76123f84e6cfdca839a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240630",
             "fullstartdate": "202406302300",
