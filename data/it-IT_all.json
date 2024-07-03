@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-02 00:48:45",
-    "Total": 797,
+    "LastUpdate": "2024-07-03 00:48:44",
+    "Total": 798,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240702",
+            "fullstartdate": "202407022200",
+            "enddate": "20240703",
+            "url": "/th?id=OHR.MeerkatManor_IT-IT4262281606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MeerkatManor_IT-IT4262281606",
+            "copyright": "Famiglia di suricati (© anetapics/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mangusta&form=hpcapt",
+            "title": "Aspettando Pumba?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240702_MeerkatManor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e0cc6d57a30406803e90c5ab2d1d40da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240701",
             "fullstartdate": "202407012200",
