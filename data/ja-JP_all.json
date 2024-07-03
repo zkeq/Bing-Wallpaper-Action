@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-02 00:48:18",
-    "Total": 797,
+    "LastUpdate": "2024-07-03 00:48:17",
+    "Total": 798,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240702",
+            "fullstartdate": "202407021500",
+            "enddate": "20240703",
+            "url": "/th?id=OHR.MeerkatManor_JA-JP0029401551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MeerkatManor_JA-JP0029401551",
+            "copyright": "群れで起立するミーアキャット (© anetapics/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9F%E3%83%BC%E3%82%A2%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%81%AE%E7%AB%8B%E3%81%A1%E5%A7%BF&form=hpcapt&filters=HpDate%3a%2220240702_1500%22",
+            "title": "今日は世界ミーアキャットの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240702_MeerkatManor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "224295201eae64a85b07f160e95e8155",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240701",
             "fullstartdate": "202407011500",
