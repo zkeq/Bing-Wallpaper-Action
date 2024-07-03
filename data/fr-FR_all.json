@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-02 00:48:40",
-    "Total": 797,
+    "LastUpdate": "2024-07-03 00:48:39",
+    "Total": 798,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240702",
+            "fullstartdate": "202407022200",
+            "enddate": "20240703",
+            "url": "/th?id=OHR.MeerkatManor_FR-FR8114816201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MeerkatManor_FR-FR8114816201",
+            "copyright": "Famille de suricates (© anetapics/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=suricate&form=hpcapt&filters=HpDate%3a%2220240702_2200%22",
+            "title": "Les sentinelles du désert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240702_MeerkatManor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a7a876cd966bba74820ed7aa2c2951d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240701",
             "fullstartdate": "202407012200",
