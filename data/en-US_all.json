@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-02 00:48:14",
-    "Total": 797,
+    "LastUpdate": "2024-07-03 00:48:13",
+    "Total": 798,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240702",
+            "fullstartdate": "202407020700",
+            "enddate": "20240703",
+            "url": "/th?id=OHR.ItalicaRuins_EN-US4110786318_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalicaRuins_EN-US4110786318",
+            "copyright": "The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Italica+Spain&form=hpcapt&filters=HpDate%3a%2220240702_0700%22",
+            "title": "Ghosts of cities past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240702_ItalicaRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "26e9c2f879df92286be9cd29b31dfd3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240701",
             "fullstartdate": "202407010700",
