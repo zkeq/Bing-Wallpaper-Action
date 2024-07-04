@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:35",
-    "Total": 798,
+    "LastUpdate": "2024-07-04 00:48:32",
+    "Total": 799,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407031830",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.KeralaSummer_EN-IN8339171901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeralaSummer_EN-IN8339171901",
+            "copyright": "Dam, lake and mountains in Kerala (© Pranavan Shoots/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=geography+of+Kerala&form=hpcapt&filters=HpDate%3a%2220240703_1830%22",
+            "title": "A coast above the rest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_KeralaSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01339cc8faa304f59b33d6323c9b37ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407021830",
