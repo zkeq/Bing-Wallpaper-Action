@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:30",
-    "Total": 796,
+    "LastUpdate": "2024-07-04 00:48:27",
+    "Total": 797,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407032300",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.ItalicaRuins_EN-GB5712011823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalicaRuins_EN-GB5712011823",
+            "copyright": "Italica, an old Roman city in Santiponce, Sevilla, Andalusia, Spain (© Moses Palermo/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Italica+Spain&form=hpcapt&filters=HpDate%3a%2220240703_2300%22",
+            "title": "Ghosts of cities past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_ItalicaRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9d0166d036108b53f729523f5ac98a7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407022300",
