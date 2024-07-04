@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:22",
-    "Total": 798,
+    "LastUpdate": "2024-07-04 00:48:19",
+    "Total": 799,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407032200",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.ZaharaDeLaSierra_DE-DE0508508511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZaharaDeLaSierra_DE-DE0508508511",
+            "copyright": "Zahara de la Sierra, Andalusien, Spanien (© Francesco Carovillano/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Zahara+de+la+Sierra&form=hpcapt&filters=HpDate%3a%2220240703_2200%22",
+            "title": "Ein lebendiges Kunstwerk",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_ZaharaDeLaSierra%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f6c76b80e3b5373572abb1400b1ede6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407022200",
