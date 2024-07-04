@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:17",
-    "Total": 798,
+    "LastUpdate": "2024-07-04 00:48:14",
+    "Total": 799,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407031500",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.YenBaiTerraces_JA-JP0209668675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YenBaiTerraces_JA-JP0209668675",
+            "copyright": "ムーカンチャイ県, ベトナム (© Kiatanan Sugsompian/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A0%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220240703_1500%22",
+            "title": "緑豊かな棚田",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_YenBaiTerraces%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c03ea8ef743f4d6b857dc06add871880",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407021500",
