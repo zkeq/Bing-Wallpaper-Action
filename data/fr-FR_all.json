@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:39",
-    "Total": 798,
+    "LastUpdate": "2024-07-04 00:48:36",
+    "Total": 799,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407032200",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.SenanqueAbbey_FR-FR3993123153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SenanqueAbbey_FR-FR3993123153",
+            "copyright": "Abbaye Notre-Dame de Sénanque, Gordes, Provence (© Brzozowska/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Notre-Dame+de+S%C3%A9nanque&form=hpcapt&filters=HpDate%3a%2220240703_2200%22",
+            "title": "Entre Histoire, lavande et tradition",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_SenanqueAbbey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01d1140b7a73e81a3f6eb66f639a43c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407022200",
