@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-03 00:48:26",
-    "Total": 797,
+    "LastUpdate": "2024-07-04 00:48:23",
+    "Total": 798,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240703",
+            "fullstartdate": "202407030400",
+            "enddate": "20240704",
+            "url": "/th?id=OHR.MeerkatManor_EN-CA9684864184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MeerkatManor_EN-CA9684864184",
+            "copyright": "Meerkat family (© anetapics/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Meerkat+Day&form=hpcapt&filters=HpDate%3a%2220240703_0400%22",
+            "title": "'Wait! Who's there?'",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_MeerkatManor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b2a412edfc2ec63291f7d894ac3893a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240702",
             "fullstartdate": "202407020400",
