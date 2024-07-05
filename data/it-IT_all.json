@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:41",
-    "Total": 799,
+    "LastUpdate": "2024-07-05 00:48:40",
+    "Total": 800,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407042200",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.NoahBeach_IT-IT4884170767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NoahBeach_IT-IT4884170767",
+            "copyright": "Noah Beach nella foresta pluviale di Daintree, Queensland, Australia (© bjeayes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Foresta+pluviale+Daintree+Australia&form=hpcapt",
+            "title": "È questo il paradiso?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_NoahBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2c2479a42af66d83df1ed9a957c10fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407032200",
