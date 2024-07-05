@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:14",
-    "Total": 799,
+    "LastUpdate": "2024-07-05 00:48:13",
+    "Total": 800,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407041500",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.NoahBeach_JA-JP0901623378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NoahBeach_JA-JP0901623378",
+            "copyright": "ノア・ビーチ, オーストラリア クイーンズランド州 (© bjeayes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Noah+Beach&form=hpcapt&filters=HpDate%3a%2220240704_1500%22",
+            "title": "緑の熱帯雨林と紺碧の海",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_NoahBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cca1da9d3bdc6385c8e90eea34419847",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407031500",
