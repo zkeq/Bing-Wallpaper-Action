@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:23",
-    "Total": 798,
+    "LastUpdate": "2024-07-05 00:48:22",
+    "Total": 799,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407040400",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.FisgardLighthouse_EN-CA1018639901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FisgardLighthouse_EN-CA1018639901",
+            "copyright": "Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fisgard+Lighthouse+National+Historic+Site&form=hpcapt&filters=HpDate%3a%2220240704_0400%22",
+            "title": "One second off, one second on",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_FisgardLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c947d39449c1ff4a2f60d1a6937d3313",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407030400",
