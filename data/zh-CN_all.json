@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:04",
-    "Total": 799,
+    "LastUpdate": "2024-07-05 00:48:02",
+    "Total": 800,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407041600",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.NoahBeach_ZH-CN6676061324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NoahBeach_ZH-CN6676061324",
+            "copyright": "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%B9%E7%BF%A0%E9%9B%A8%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "邂逅美丽海岸线",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_NoahBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "883316db729b9ccd8386aeeb5fed8ebe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407031600",
