@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:36",
-    "Total": 799,
+    "LastUpdate": "2024-07-05 00:48:36",
+    "Total": 800,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407042200",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.NoahBeach_FR-FR8649402194_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NoahBeach_FR-FR8649402194",
+            "copyright": "Plage de Noah, forêt tropicale de Daintree, Queensland, Australie (© bjeayes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=for%C3%AAt+tropicale+de+Daintree&form=hpcapt&filters=HpDate%3a%2220240704_2200%22",
+            "title": "Un écrin sauvage entre terre et mer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_NoahBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0940ce5dc84c1c6ceb3c504baf6ed4fe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407032200",
