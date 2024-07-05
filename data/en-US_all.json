@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-04 00:48:10",
-    "Total": 799,
+    "LastUpdate": "2024-07-05 00:48:09",
+    "Total": 800,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240704",
+            "fullstartdate": "202407040700",
+            "enddate": "20240705",
+            "url": "/th?id=OHR.HudsonFireworks_EN-US4304057228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HudsonFireworks_EN-US4304057228",
+            "copyright": "Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=independence+day+2024&form=hpcapt&filters=HpDate%3a%2220240704_0700%22",
+            "title": "Happy Independence Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240704_HudsonFireworks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e392a04b7f411c765cbdfd31c1940c5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240703",
             "fullstartdate": "202407030700",
