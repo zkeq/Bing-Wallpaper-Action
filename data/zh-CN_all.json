@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-05 00:48:02",
-    "Total": 800,
+    "LastUpdate": "2024-07-06 00:48:03",
+    "Total": 801,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240705",
+            "fullstartdate": "202407051600",
+            "enddate": "20240706",
+            "url": "/th?id=OHR.ConwyRiver_ZH-CN6871799250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConwyRiver_ZH-CN6871799250",
+            "copyright": "从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%B7%E5%A8%81%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "让我们扬帆起航！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_ConwyRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5cc2db6b87eab727d4d2dbb56dd7855e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240704",
             "fullstartdate": "202407041600",
