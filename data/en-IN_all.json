@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-05 00:48:31",
-    "Total": 800,
+    "LastUpdate": "2024-07-06 00:48:31",
+    "Total": 801,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240705",
+            "fullstartdate": "202407051830",
+            "enddate": "20240706",
+            "url": "/th?id=OHR.ConwyRiver_EN-IN8974486695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConwyRiver_EN-IN8974486695",
+            "copyright": "Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Conwy+Castle&form=hpcapt&filters=HpDate%3a%2220240705_1830%22",
+            "title": "Rock the boat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_ConwyRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b5a54152b04f0bb3463ee52229954e84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240704",
             "fullstartdate": "202407041830",
