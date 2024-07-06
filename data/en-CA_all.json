@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-05 00:48:22",
-    "Total": 799,
+    "LastUpdate": "2024-07-06 00:48:22",
+    "Total": 800,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240705",
+            "fullstartdate": "202407050400",
+            "enddate": "20240706",
+            "url": "/th?id=OHR.NoahBeach_EN-CA1574566780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NoahBeach_EN-CA1574566780",
+            "copyright": "Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Daintree+Rainforest&form=hpcapt&filters=HpDate%3a%2220240705_0400%22",
+            "title": "A coastal encounter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_NoahBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a34e1c8ecaa7cb3bc4b493105908d0df",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240704",
             "fullstartdate": "202407040400",
