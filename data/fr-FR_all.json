@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-06 00:48:35",
-    "Total": 801,
+    "LastUpdate": "2024-07-07 00:48:55",
+    "Total": 802,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240706",
+            "fullstartdate": "202407062200",
+            "enddate": "20240707",
+            "url": "/th?id=OHR.YenBaiTerraces_FR-FR9073206235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YenBaiTerraces_FR-FR9073206235",
+            "copyright": "Rizières en terrasses de Mu Cang Chaine, Vietnam (© Kiatanan Sugsompian/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mu+Cang+Chaine+rizi%C3%A8res+&form=hpcapt&filters=HpDate%3a%2220240706_2200%22",
+            "title": "Un paysage qui nous fait « riz-ette » !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_YenBaiTerraces%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "995c2c019d368440dd0b9468a83b8a57",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240705",
             "fullstartdate": "202407052200",
