@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-06 00:48:26",
-    "Total": 799,
+    "LastUpdate": "2024-07-07 00:48:47",
+    "Total": 800,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240706",
+            "fullstartdate": "202407062300",
+            "enddate": "20240707",
+            "url": "/th?id=OHR.YenBaiTerraces_EN-GB7013329996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YenBaiTerraces_EN-GB7013329996",
+            "copyright": "Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rice+terraces+of+Mu+Cang+Chai&form=hpcapt&filters=HpDate%3a%2220240706_2300%22",
+            "title": "Rice and shine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_YenBaiTerraces%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20d7c2f4af7c3d6505457deed92498bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240705",
             "fullstartdate": "202407052300",
