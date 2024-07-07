@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-06 00:48:09",
-    "Total": 801,
+    "LastUpdate": "2024-07-07 00:48:29",
+    "Total": 802,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240706",
+            "fullstartdate": "202407060700",
+            "enddate": "20240707",
+            "url": "/th?id=OHR.ConwyRiver_EN-US4472231451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConwyRiver_EN-US4472231451",
+            "copyright": "Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Conwy+Wales&form=hpcapt&filters=HpDate%3a%2220240706_0700%22",
+            "title": "Built to last",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_ConwyRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8a76c54a07f15975efed725c30ce1fc8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240705",
             "fullstartdate": "202407050700",
