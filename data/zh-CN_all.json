@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-06 00:48:03",
-    "Total": 801,
+    "LastUpdate": "2024-07-07 00:48:23",
+    "Total": 802,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240706",
+            "fullstartdate": "202407061600",
+            "enddate": "20240707",
+            "url": "/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YenBaiTerraces_ZH-CN7224453501",
+            "copyright": "越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9C%A8%E4%BB%93%E5%AF%A8%E6%A2%AF%E7%94%B0&form=hpcapt&mkt=zh-cn",
+            "title": "阳光下的梯田",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_YenBaiTerraces%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc5e9699ef4b165b6e4f8747a95932b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240705",
             "fullstartdate": "202407051600",
