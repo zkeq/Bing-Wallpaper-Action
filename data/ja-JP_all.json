@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-06 00:48:13",
-    "Total": 801,
+    "LastUpdate": "2024-07-07 00:48:33",
+    "Total": 802,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240706",
+            "fullstartdate": "202407061500",
+            "enddate": "20240707",
+            "url": "/th?id=OHR.Tanabata2024_JA-JP1586960009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Tanabata2024_JA-JP1586960009",
+            "copyright": "越中おわら節の踊り, 東京 (© Keith Tsuji/特派員/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B6%8A%E4%B8%AD%E3%81%8A%E3%82%8F%E3%82%89%E7%AF%80%E3%81%AE%E8%B8%8A%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240706_1500%22",
+            "title": "今日は七夕",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_Tanabata2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "adda1e01e96696d21381cfad98571bce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240705",
             "fullstartdate": "202407051500",
