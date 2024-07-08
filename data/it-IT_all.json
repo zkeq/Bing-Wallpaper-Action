@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-07 00:49:00",
-    "Total": 802,
+    "LastUpdate": "2024-07-08 00:48:49",
+    "Total": 803,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240707",
+            "fullstartdate": "202407072200",
+            "enddate": "20240708",
+            "url": "/th?id=OHR.NorwayBlueberries_IT-IT6071091887_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayBlueberries_IT-IT6071091887",
+            "copyright": "Mirtilli nella natura selvaggia (© Baac3nes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mirtillo&form=hpcapt",
+            "title": "Una buona dose di antiossidanti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240707_NorwayBlueberries%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f5e85f153fe4272f841915e7ccb5d15b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240706",
             "fullstartdate": "202407062200",
