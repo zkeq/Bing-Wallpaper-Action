@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-08 00:48:35",
-    "Total": 801,
+    "LastUpdate": "2024-07-09 00:48:35",
+    "Total": 802,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240708",
+            "fullstartdate": "202407082300",
+            "enddate": "20240709",
+            "url": "/th?id=OHR.TalampayaNP_EN-GB7448714861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TalampayaNP_EN-GB7448714861",
+            "copyright": "Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Talampaya+National+Park+Argentina&form=hpcapt&filters=HpDate%3a%2220240708_2300%22",
+            "title": "Feeling 'sedimental'?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240708_TalampayaNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c48f30286d539528b5fbc62554669c0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240707",
             "fullstartdate": "202407072300",
