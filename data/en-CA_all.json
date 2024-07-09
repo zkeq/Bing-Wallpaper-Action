@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-08 00:48:31",
-    "Total": 802,
+    "LastUpdate": "2024-07-09 00:48:31",
+    "Total": 803,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240708",
+            "fullstartdate": "202407080400",
+            "enddate": "20240709",
+            "url": "/th?id=OHR.NorwayBlueberries_EN-CA2657408447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorwayBlueberries_EN-CA2657408447",
+            "copyright": "Blueberries growing in the wild (© Baac3nes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Blueberry&form=hpcapt&filters=HpDate%3a%2220240708_0400%22",
+            "title": "A dose of antioxidants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240708_NorwayBlueberries%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "237c0a9da1af2f109f9659a83f694433",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240707",
             "fullstartdate": "202407070400",
