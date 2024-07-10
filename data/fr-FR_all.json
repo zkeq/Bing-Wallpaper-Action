@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-09 00:48:44",
-    "Total": 804,
+    "LastUpdate": "2024-07-10 00:48:39",
+    "Total": 805,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240709",
+            "fullstartdate": "202407092200",
+            "enddate": "20240710",
+            "url": "/th?id=OHR.CollaredAracari_FR-FR3432712660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CollaredAracari_FR-FR3432712660",
+            "copyright": "Araçari à collier, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=ara%C3%A7ari+%C3%A0+collier&form=hpcapt&filters=HpDate%3a%2220240709_2200%22",
+            "title": "Le Toucan Show",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240709_CollaredAracari%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0bfe6a3fecab83641a7c2dd2e1536bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240708",
             "fullstartdate": "202407082200",
