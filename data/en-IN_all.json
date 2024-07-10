@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-09 00:48:40",
-    "Total": 804,
+    "LastUpdate": "2024-07-10 00:48:35",
+    "Total": 805,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240709",
+            "fullstartdate": "202407091830",
+            "enddate": "20240710",
+            "url": "/th?id=OHR.CollaredAracari_EN-IN5723111528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CollaredAracari_EN-IN5723111528",
+            "copyright": "Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Collared+Aracari&form=hpcapt&filters=HpDate%3a%2220240709_1830%22",
+            "title": "A 'toucan' of appreciation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240709_CollaredAracari%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "575b94973ab88884541355f88a6b15f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240708",
             "fullstartdate": "202407081830",
