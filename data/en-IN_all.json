@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-10 00:48:35",
-    "Total": 805,
+    "LastUpdate": "2024-07-11 00:48:40",
+    "Total": 806,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240710",
+            "fullstartdate": "202407101830",
+            "enddate": "20240711",
+            "url": "/th?id=OHR.GangiSicily_EN-IN6038695994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GangiSicily_EN-IN6038695994",
+            "copyright": "Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Population+Day&form=hpcapt&filters=HpDate%3a%2220240710_1830%22",
+            "title": "You are one in 8.1 billion",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240710_GangiSicily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02b208fbf636dc7b2dae94c22d1a1b13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240709",
             "fullstartdate": "202407091830",
