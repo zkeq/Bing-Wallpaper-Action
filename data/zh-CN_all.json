@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-10 00:48:06",
-    "Total": 805,
+    "LastUpdate": "2024-07-11 00:48:12",
+    "Total": 806,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240710",
+            "fullstartdate": "202407101600",
+            "enddate": "20240711",
+            "url": "/th?id=OHR.GangiSicily_ZH-CN9086944081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GangiSicily_ZH-CN9086944081",
+            "copyright": "甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "你是81亿人口中的一员",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240710_GangiSicily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "080c3fd4edc32ddd7dc7985b0880962e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240709",
             "fullstartdate": "202407091600",
