@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-10 00:48:39",
-    "Total": 805,
+    "LastUpdate": "2024-07-11 00:48:44",
+    "Total": 806,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240710",
+            "fullstartdate": "202407102200",
+            "enddate": "20240711",
+            "url": "/th?id=OHR.GangiSicily_FR-FR3620462810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GangiSicily_FR-FR3620462810",
+            "copyright": "Gangi, Sicile, Italie (© Andrea Caruso/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+la+population&form=hpcapt&filters=HpDate%3a%2220240710_2200%22",
+            "title": "Vous êtes unique parmi 8,1 milliards de personnes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240710_GangiSicily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2eff90796402b86c9138f1a506e82477",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240709",
             "fullstartdate": "202407092200",
