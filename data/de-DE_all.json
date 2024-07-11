@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-10 00:48:21",
-    "Total": 805,
+    "LastUpdate": "2024-07-11 00:48:26",
+    "Total": 806,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240710",
+            "fullstartdate": "202407102200",
+            "enddate": "20240711",
+            "url": "/th?id=OHR.GangiSicily_DE-DE4531424079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GangiSicily_DE-DE4531424079",
+            "copyright": "Gangi, Sizilien, Italien (© Andrea Caruso/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltbev%C3%B6lkerungstag&form=hpcapt&filters=HpDate%3a%2220240710_2200%22",
+            "title": "Wir sind 8,1 Milliarden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240710_GangiSicily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24425ace1cb12cfacad4421af4977ddd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240709",
             "fullstartdate": "202407092200",
