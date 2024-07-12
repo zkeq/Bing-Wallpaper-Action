@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-11 00:48:44",
-    "Total": 806,
+    "LastUpdate": "2024-07-12 00:48:39",
+    "Total": 807,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240711",
+            "fullstartdate": "202407112200",
+            "enddate": "20240712",
+            "url": "/th?id=OHR.RainierWildflowers_FR-FR1422439917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RainierWildflowers_FR-FR1422439917",
+            "copyright": "Fleurs sauvages dans le parc national du Mont Rainier, Washington, États-Unis (© RomanKhomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=le+parc+national+du+Mont+Rainier&form=hpcapt&filters=HpDate%3a%2220240711_2200%22",
+            "title": "Zen, restons zen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240711_RainierWildflowers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71ebf8aa764284483840761a57083468",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240710",
             "fullstartdate": "202407102200",
