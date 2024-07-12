@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-11 00:48:40",
-    "Total": 806,
+    "LastUpdate": "2024-07-12 00:48:35",
+    "Total": 807,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240711",
+            "fullstartdate": "202407111830",
+            "enddate": "20240712",
+            "url": "/th?id=OHR.RainierWildflowers_EN-IN6153414101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RainierWildflowers_EN-IN6153414101",
+            "copyright": "Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Rainier+National+Park&form=hpcapt&filters=HpDate%3a%2220240711_1830%22",
+            "title": "Come Rainier or shine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240711_RainierWildflowers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d124b3afb05db0bdc412d1d0ae6b32df",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240710",
             "fullstartdate": "202407101830",
