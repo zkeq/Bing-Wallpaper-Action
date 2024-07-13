@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-12 00:48:08",
-    "Total": 807,
+    "LastUpdate": "2024-07-13 00:48:11",
+    "Total": 808,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240712",
+            "fullstartdate": "202407121600",
+            "enddate": "20240713",
+            "url": "/th?id=OHR.CappadociaRocks_ZH-CN9283633861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CappadociaRocks_ZH-CN9283633861",
+            "copyright": "卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E5%B8%95%E5%A4%9A%E8%A5%BF%E4%BA%9A&form=hpcapt&mkt=zh-cn",
+            "title": "快看，这是沉积岩哦",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240712_CappadociaRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e707d3f8185487c2047f2bc31a5d607",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240711",
             "fullstartdate": "202407111600",
