@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-12 00:48:35",
-    "Total": 807,
+    "LastUpdate": "2024-07-13 00:48:39",
+    "Total": 808,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240712",
+            "fullstartdate": "202407121830",
+            "enddate": "20240713",
+            "url": "/th?id=OHR.CappadociaRocks_EN-IN8308543174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CappadociaRocks_EN-IN8308543174",
+            "copyright": "Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Rocks&form=hpcapt&filters=HpDate%3a%2220240712_1830%22",
+            "title": "Sedimentary, my dear",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240712_CappadociaRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2cccbd0f6e88fd747948a8ea7f461a89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240711",
             "fullstartdate": "202407111830",
