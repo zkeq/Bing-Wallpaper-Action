@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-12 00:48:22",
-    "Total": 807,
+    "LastUpdate": "2024-07-13 00:48:26",
+    "Total": 808,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240712",
+            "fullstartdate": "202407122200",
+            "enddate": "20240713",
+            "url": "/th?id=OHR.CappadociaRocks_DE-DE6351998618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CappadociaRocks_DE-DE6351998618",
+            "copyright": "Feenkamine und Höhlenwohnungen in Kappadokien, Türkei (© Storm Is Me/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kappadokien&form=hpcapt&filters=HpDate%3a%2220240712_2200%22",
+            "title": "Zwischen Feen und Zauberern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240712_CappadociaRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d9917e99523f207c4032cbce1c23435",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240711",
             "fullstartdate": "202407112200",
