@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-14 00:48:37",
-    "Total": 809,
+    "LastUpdate": "2024-07-15 00:48:26",
+    "Total": 810,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240714",
+            "fullstartdate": "202407141500",
+            "enddate": "20240715",
+            "url": "/th?id=OHR.TateishiPark_JA-JP2045138918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TateishiPark_JA-JP2045138918",
+            "copyright": "立石公園, 神奈川県 (© blew_s/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AB%8B%E7%9F%B3%E5%85%AC%E5%9C%92+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220240714_1500%22",
+            "title": "今日は「海の日」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240714_TateishiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98b4bda5f02d65f7126bd4fef44efec0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240713",
             "fullstartdate": "202407131500",
