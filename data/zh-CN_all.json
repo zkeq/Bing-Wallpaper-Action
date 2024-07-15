@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-14 00:48:27",
-    "Total": 809,
+    "LastUpdate": "2024-07-15 00:48:15",
+    "Total": 810,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240714",
+            "fullstartdate": "202407141600",
+            "enddate": "20240715",
+            "url": "/th?id=OHR.TateishiPark_ZH-CN9903501398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TateishiPark_ZH-CN9903501398",
+            "copyright": "立石公园，神奈川县，日本 (© blew_s/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E7%AB%8B%E7%9F%B3%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "宁静惬意的海滨风光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240714_TateishiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a3a12683f066a68f4948ee3482007ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240713",
             "fullstartdate": "202407131600",
