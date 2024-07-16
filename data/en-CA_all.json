@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-15 00:48:34",
-    "Total": 809,
+    "LastUpdate": "2024-07-16 00:48:27",
+    "Total": 810,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240715",
+            "fullstartdate": "202407150400",
+            "enddate": "20240716",
+            "url": "/th?id=OHR.TateishiPark_EN-CA6542034123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TateishiPark_EN-CA6542034123",
+            "copyright": "Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Marine+Day+Japan&form=hpcapt&filters=HpDate%3a%2220240715_0400%22",
+            "title": "Seas the day",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240715_TateishiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7d7196ead26157a24a2f926ecce0454",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240714",
             "fullstartdate": "202407140400",
