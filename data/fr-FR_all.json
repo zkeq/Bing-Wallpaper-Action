@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-16 00:48:39",
-    "Total": 811,
+    "LastUpdate": "2024-07-17 00:48:43",
+    "Total": 812,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240716",
+            "fullstartdate": "202407162200",
+            "enddate": "20240717",
+            "url": "/th?id=OHR.MedievalRothenburg_FR-FR2962331926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MedievalRothenburg_FR-FR2962331926",
+            "copyright": "Ville médiévale de Rothenburg ob der Tauber, Allemagne (© kanuman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rothenburg+ob+der+Tauber+Allemagne&form=hpcapt&filters=HpDate%3a%2220240716_2200%22",
+            "title": "Le tour est joué !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240716_MedievalRothenburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e31e6f693401ee2d48d88fc398f42d7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240715",
             "fullstartdate": "202407152200",
