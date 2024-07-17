@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-16 00:48:27",
-    "Total": 810,
+    "LastUpdate": "2024-07-17 00:48:30",
+    "Total": 811,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240716",
+            "fullstartdate": "202407160400",
+            "enddate": "20240717",
+            "url": "/th?id=OHR.DinosaurProvPark_EN-CA7737524155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DinosaurProvPark_EN-CA7737524155",
+            "copyright": "Summer Milky Way over the badlands formations at Dinosaur Provincial Park, Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dinosaur+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220240716_0400%22",
+            "title": "Cause you're a sky full of stars",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240716_DinosaurProvPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "653b133a9107f0f7e892b815a0184c7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240715",
             "fullstartdate": "202407150400",
