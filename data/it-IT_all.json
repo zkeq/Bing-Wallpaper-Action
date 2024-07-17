@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-16 00:48:44",
-    "Total": 811,
+    "LastUpdate": "2024-07-17 00:48:47",
+    "Total": 812,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240716",
+            "fullstartdate": "202407162200",
+            "enddate": "20240717",
+            "url": "/th?id=OHR.MedievalRothenburg_IT-IT9631066540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MedievalRothenburg_IT-IT9631066540",
+            "copyright": "Città medievale di Rothenburg ob der Tauber, Baviera, Germania (© kanuman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Citt%C3%A0+medievale+di+Rothenburg+ob+der+Tauber%2c+Germania&form=hpcapt",
+            "title": "Fiaba medievale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240716_MedievalRothenburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ea474cd2df2604ad0bb7f289ab2d773e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240715",
             "fullstartdate": "202407152200",
