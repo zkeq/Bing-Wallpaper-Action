@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-17 00:48:11",
-    "Total": 812,
+    "LastUpdate": "2024-07-18 00:48:03",
+    "Total": 813,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240717",
+            "fullstartdate": "202407171600",
+            "enddate": "20240718",
+            "url": "/th?id=OHR.MayotteCoral_ZH-CN8106288026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayotteCoral_ZH-CN8106288026",
+            "copyright": "Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8F%8A%E7%91%9A%E7%A4%81%E4%BF%9D%E6%8A%A4%E6%84%8F%E8%AF%86%E5%91%A8&form=hpcapt&mkt=zh-cn",
+            "title": "意义深远",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240717_MayotteCoral%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93bd6a71cd94ec50ee0c114b3a444603",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240716",
             "fullstartdate": "202407161600",
