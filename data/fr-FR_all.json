@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-17 00:48:43",
-    "Total": 812,
+    "LastUpdate": "2024-07-18 00:48:35",
+    "Total": 813,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240717",
+            "fullstartdate": "202407172200",
+            "enddate": "20240718",
+            "url": "/th?id=OHR.MayotteCoral_FR-FR3285872398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayotteCoral_FR-FR3285872398",
+            "copyright": "Récif corallien, Lagon de Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+naturel+marin+de+Mayotte&form=hpcapt&filters=HpDate%3a%2220240717_2200%22",
+            "title": "Le trésor caché des océans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240717_MayotteCoral%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d33fc3660d0cf950618320830b668ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240716",
             "fullstartdate": "202407162200",
