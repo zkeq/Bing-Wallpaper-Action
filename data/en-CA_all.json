@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-17 00:48:30",
-    "Total": 811,
+    "LastUpdate": "2024-07-18 00:48:22",
+    "Total": 812,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240717",
+            "fullstartdate": "202407170400",
+            "enddate": "20240718",
+            "url": "/th?id=OHR.MedievalRothenburg_EN-CA4728212344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MedievalRothenburg_EN-CA4728212344",
+            "copyright": "Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rothenburg+ob+der+Tauber+Germany&form=hpcapt&filters=HpDate%3a%2220240717_0400%22",
+            "title": "Towering with history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240717_MedievalRothenburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34dadc811cdfd67b014906cc422be305",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240716",
             "fullstartdate": "202407160400",
