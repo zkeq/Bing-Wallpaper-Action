@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-18 00:48:09",
-    "Total": 813,
+    "LastUpdate": "2024-07-19 00:48:21",
+    "Total": 814,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240718",
+            "fullstartdate": "202407180700",
+            "enddate": "20240719",
+            "url": "/th?id=OHR.MayotteCoral_EN-US4102346691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayotteCoral_EN-US4102346691",
+            "copyright": "Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220240718_0700%22",
+            "title": "Deep and meaningful",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240718_MayotteCoral%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ac03b382345488461496b9ffa4b2295",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240717",
             "fullstartdate": "202407170700",
