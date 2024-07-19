@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-18 00:48:03",
-    "Total": 813,
+    "LastUpdate": "2024-07-19 00:48:15",
+    "Total": 814,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240718",
+            "fullstartdate": "202407181600",
+            "enddate": "20240719",
+            "url": "/th?id=OHR.YoungJaguar_ZH-CN2249923627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungJaguar_ZH-CN2249923627",
+            "copyright": "河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E8%99%8E&form=hpcapt&mkt=zh-cn",
+            "title": "巧妙的伪装",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240718_YoungJaguar%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0f70838aa78a2715351fbd696c7b4e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240717",
             "fullstartdate": "202407171600",
