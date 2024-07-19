@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-18 00:48:35",
-    "Total": 813,
+    "LastUpdate": "2024-07-19 00:48:47",
+    "Total": 814,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240718",
+            "fullstartdate": "202407182200",
+            "enddate": "20240719",
+            "url": "/th?id=OHR.YoungJaguar_FR-FR0618181911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungJaguar_FR-FR0618181911",
+            "copyright": "Jeune jaguar au bord d'une rivière, Pantanal, Brésil (© Tambako the Jaguar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jaguar+animal&form=hpcapt&filters=HpDate%3a%2220240718_2200%22",
+            "title": "Un camouflage astucieux",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240718_YoungJaguar%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0497328c53a2734115c3ddc129bfe615",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240717",
             "fullstartdate": "202407172200",
