@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-19 00:48:30",
-    "Total": 814,
+    "LastUpdate": "2024-07-20 00:48:22",
+    "Total": 815,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240719",
+            "fullstartdate": "202407192200",
+            "enddate": "20240720",
+            "url": "/th?id=OHR.MineralMoon_DE-DE4896248941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MineralMoon_DE-DE4896248941",
+            "copyright": "Der Mond (© Victor Blum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vollmond&form=hpcapt&filters=HpDate%3a%2220240719_2200%22",
+            "title": "Die Lampe der Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240719_MineralMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20d3242f66936c96cbf383e49a7c6d32",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240718",
             "fullstartdate": "202407182200",
