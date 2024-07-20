@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-19 00:48:21",
-    "Total": 814,
+    "LastUpdate": "2024-07-20 00:48:13",
+    "Total": 815,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240719",
+            "fullstartdate": "202407190700",
+            "enddate": "20240720",
+            "url": "/th?id=OHR.YoungJaguar_EN-US8866928893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungJaguar_EN-US8866928893",
+            "copyright": "A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jaguar+animal&form=hpcapt&filters=HpDate%3a%2220240719_0700%22",
+            "title": "Clever camouflage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240719_YoungJaguar%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b2903212fe100ccd1523657e58af4d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240718",
             "fullstartdate": "202407180700",
