@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-20 00:48:44",
-    "Total": 815,
+    "LastUpdate": "2024-07-21 00:49:00",
+    "Total": 816,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240720",
+            "fullstartdate": "202407202200",
+            "enddate": "20240721",
+            "url": "/th?id=OHR.RedentorVenezia_IT-IT2428174506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedentorVenezia_IT-IT2428174506",
+            "copyright": "Festa del Redentore, Isola di San Giorgio, Venezia, Veneto, Italia (© Buena Vista Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Festa+del+Redentore&form=hpcapt",
+            "title": "Onde di gratitudine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_RedentorVenezia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4034e4ba61ecfdb4fbc03c8cba6cdb1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240719",
             "fullstartdate": "202407192200",
