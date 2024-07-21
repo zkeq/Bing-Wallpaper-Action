@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-20 00:48:31",
-    "Total": 813,
+    "LastUpdate": "2024-07-21 00:48:46",
+    "Total": 814,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240720",
+            "fullstartdate": "202407202300",
+            "enddate": "20240721",
+            "url": "/th?id=OHR.ZanzibarBoats_EN-GB8434940826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZanzibarBoats_EN-GB8434940826",
+            "copyright": "Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Zanzibar&form=hpcapt&filters=HpDate%3a%2220240720_2300%22",
+            "title": "The Spice Island escape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_ZanzibarBoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a7f5c606f725c2bf29bac1114c56592",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240719",
             "fullstartdate": "202407192300",
