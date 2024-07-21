@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-20 00:48:39",
-    "Total": 815,
+    "LastUpdate": "2024-07-21 00:48:55",
+    "Total": 816,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240720",
+            "fullstartdate": "202407202200",
+            "enddate": "20240721",
+            "url": "/th?id=OHR.ZanzibarBoats_FR-FR1025363657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZanzibarBoats_FR-FR1025363657",
+            "copyright": "Bateaux de pêche en bois, village de Kendwa, Zanzibar, Tanzanie (© Lubos Paukeje/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Zanzibar&form=hpcapt&filters=HpDate%3a%2220240720_2200%22",
+            "title": "Le mythe de l’île aux épices",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_ZanzibarBoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89a4aded604c181b424fef00a6c036d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240719",
             "fullstartdate": "202407192200",
