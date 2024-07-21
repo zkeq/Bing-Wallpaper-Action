@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-20 00:48:07",
-    "Total": 815,
+    "LastUpdate": "2024-07-21 00:48:23",
+    "Total": 816,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240720",
+            "fullstartdate": "202407201600",
+            "enddate": "20240721",
+            "url": "/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZanzibarBoats_ZH-CN2915388379",
+            "copyright": "肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A1%91%E7%BB%99%E5%B7%B4%E5%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "香料岛之旅",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_ZanzibarBoats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b0154baebc18bddcdff089e0eb8619a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240719",
             "fullstartdate": "202407191600",
