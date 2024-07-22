@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-21 00:48:23",
-    "Total": 816,
+    "LastUpdate": "2024-07-22 00:48:12",
+    "Total": 817,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240721",
+            "fullstartdate": "202407211600",
+            "enddate": "20240722",
+            "url": "/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823",
+            "copyright": "树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%9A%91%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "和我一起避暑吧！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240721_TheGreatHeat2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d68de8754731d6bc7ce228547d98b8f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240720",
             "fullstartdate": "202407201600",
