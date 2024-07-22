@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-21 00:48:55",
-    "Total": 816,
+    "LastUpdate": "2024-07-22 00:48:44",
+    "Total": 817,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240721",
+            "fullstartdate": "202407212200",
+            "enddate": "20240722",
+            "url": "/th?id=OHR.SaintFrancois_FR-FR9354176013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaintFrancois_FR-FR9354176013",
+            "copyright": "Coucher de soleil sur la plage de l'Anse Champagne à Saint-François, Guadeloupe, Caraïbes (© Fyletto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=saint-fran%C3%A7ois+guadeloupe&form=hpcapt&filters=HpDate%3a%2220240721_2200%22",
+            "title": "Un joyau caraïbéen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240721_SaintFrancois%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ca23e2f85e9a2e8ed78e03aa3f02c2fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240720",
             "fullstartdate": "202407202200",
