@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-21 00:48:51",
-    "Total": 816,
+    "LastUpdate": "2024-07-22 00:48:40",
+    "Total": 817,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240721",
+            "fullstartdate": "202407211830",
+            "enddate": "20240722",
+            "url": "/th?id=OHR.ElloraCavesMH_EN-IN9734367387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElloraCavesMH_EN-IN9734367387",
+            "copyright": "Ellora Caves near Aurangabad, Maharashtra (© saiko3p/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ellora+caves&form=hpcapt&filters=HpDate%3a%2220240721_1830%22",
+            "title": "'Heart' of stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240721_ElloraCavesMH%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "86a34599b3869636cc554bfd975968d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240720",
             "fullstartdate": "202407201830",
