@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-22 00:48:40",
-    "Total": 817,
+    "LastUpdate": "2024-07-23 00:48:45",
+    "Total": 818,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240722",
+            "fullstartdate": "202407221830",
+            "enddate": "20240723",
+            "url": "/th?id=OHR.MethoniCastle_EN-IN6995431738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MethoniCastle_EN-IN6995431738",
+            "copyright": "Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Methoni+Castle&form=hpcapt&filters=HpDate%3a%2220240722_1830%22",
+            "title": "Echoes of history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240722_MethoniCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eaf15d3788e226a6363d1f4072415ba2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240721",
             "fullstartdate": "202407211830",
