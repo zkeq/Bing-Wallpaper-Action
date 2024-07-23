@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-22 00:48:31",
-    "Total": 816,
+    "LastUpdate": "2024-07-23 00:48:36",
+    "Total": 817,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240722",
+            "fullstartdate": "202407220400",
+            "enddate": "20240723",
+            "url": "/th?id=OHR.HammockCamping_EN-CA7138576311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HammockCamping_EN-CA7138576311",
+            "copyright": "Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Hammock+Day&form=hpcapt&filters=HpDate%3a%2220240722_0400%22",
+            "title": "Just 'hanging' out",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240722_HammockCamping%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "232446a542787fe56e3cd8b984f295a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240721",
             "fullstartdate": "202407210400",
