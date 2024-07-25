@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-24 00:48:31",
-    "Total": 818,
+    "LastUpdate": "2024-07-25 00:48:28",
+    "Total": 819,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240724",
+            "fullstartdate": "202407240400",
+            "enddate": "20240725",
+            "url": "/th?id=OHR.SheepCousins_EN-CA1277302803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SheepCousins_EN-CA1277302803",
+            "copyright": "Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cousin&form=hpcapt&filters=HpDate%3a%2220240724_0400%22",
+            "title": "Baa-utiful family",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240724_SheepCousins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a5173ed455f6007337d5b0ddf35ab4b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240723",
             "fullstartdate": "202407230400",
