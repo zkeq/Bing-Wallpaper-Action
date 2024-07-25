@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-24 00:48:44",
-    "Total": 819,
+    "LastUpdate": "2024-07-25 00:48:41",
+    "Total": 820,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240724",
+            "fullstartdate": "202407242200",
+            "enddate": "20240725",
+            "url": "/th?id=OHR.SmokyMountainTrail_FR-FR2588316883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmokyMountainTrail_FR-FR2588316883",
+            "copyright": "Chemin forestier dans le parc national des Great Smoky Mountains, Tennessee, États-Unis (© putmanphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+Parc+national+des+Great+Smoky+Mountains+&form=hpcapt&filters=HpDate%3a%2220240724_2200%22",
+            "title": "Le trésor naturel au Tennessee",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240724_SmokyMountainTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d1f33c5218e73b87bd84aa28f3b3dd5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240723",
             "fullstartdate": "202407232200",
