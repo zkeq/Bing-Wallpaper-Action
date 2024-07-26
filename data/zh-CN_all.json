@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-25 00:48:09",
-    "Total": 820,
+    "LastUpdate": "2024-07-26 00:48:07",
+    "Total": 821,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240725",
+            "fullstartdate": "202407251600",
+            "enddate": "20240726",
+            "url": "/th?id=OHR.PontNeuf_ZH-CN3158359446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontNeuf_ZH-CN3158359446",
+            "copyright": "塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A&form=hpcapt&mkt=zh-cn",
+            "title": "比赛开始",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240725_PontNeuf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63db953b7c15b3f584c3f7a42e4c3d08",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240724",
             "fullstartdate": "202407241600",
