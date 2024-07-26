@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-25 00:48:28",
-    "Total": 819,
+    "LastUpdate": "2024-07-26 00:48:26",
+    "Total": 820,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240725",
+            "fullstartdate": "202407250400",
+            "enddate": "20240726",
+            "url": "/th?id=OHR.SmokyMountainTrail_EN-CA9002253362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmokyMountainTrail_EN-CA9002253362",
+            "copyright": "Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240725_0400%22",
+            "title": "Into the thick of it",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240725_SmokyMountainTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa0f6840aaacdf3340bd0feabe081749",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240724",
             "fullstartdate": "202407240400",
