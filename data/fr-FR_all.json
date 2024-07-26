@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-25 00:48:41",
-    "Total": 820,
+    "LastUpdate": "2024-07-26 00:48:39",
+    "Total": 821,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240725",
+            "fullstartdate": "202407252200",
+            "enddate": "20240726",
+            "url": "/th?id=OHR.ParisOlympicGames_FR-FR9795678627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisOlympicGames_FR-FR9795678627",
+            "copyright": "Coucher de soleil sur la Seine avec la Conciergerie, Paris (© Britus/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=jeux+olympiques+2024&form=hpcapt&filters=HpDate%3a%2220240725_2200%22",
+            "title": "« Ouvrons grand les Jeux »",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240725_ParisOlympicGames%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f002c2be346b9ab6f0ac9ff7dcbc6235",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240724",
             "fullstartdate": "202407242200",
