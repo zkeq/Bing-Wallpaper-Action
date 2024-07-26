@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-25 00:48:24",
-    "Total": 820,
+    "LastUpdate": "2024-07-26 00:48:21",
+    "Total": 821,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240725",
+            "fullstartdate": "202407252200",
+            "enddate": "20240726",
+            "url": "/th?id=OHR.PontNeuf_DE-DE3491182844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontNeuf_DE-DE3491182844",
+            "copyright": "Pont Neuf über der Seine, Paris, Frankreich (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Olympische+Sommerspiele+2024&form=hpcapt&filters=HpDate%3a%2220240725_2200%22",
+            "title": "Mögen die Spiele beginnen!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240725_PontNeuf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8db105ebf0eed492224aefb11f5094ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240724",
             "fullstartdate": "202407242200",
