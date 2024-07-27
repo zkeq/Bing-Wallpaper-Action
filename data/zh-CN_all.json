@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-26 00:48:07",
-    "Total": 821,
+    "LastUpdate": "2024-07-27 00:48:11",
+    "Total": 822,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240726",
+            "fullstartdate": "202407261600",
+            "enddate": "20240727",
+            "url": "/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhinelandVineyards_ZH-CN3332101688",
+            "copyright": "摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%B0%94%E8%8C%A8%E8%91%A1%E8%90%84%E9%85%92%E4%BA%A7%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "完美的葡萄酒",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240726_RhinelandVineyards%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d0805d3edb368d9cebf56b7376cd938",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240725",
             "fullstartdate": "202407251600",
