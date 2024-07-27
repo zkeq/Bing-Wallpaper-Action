@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-26 00:48:39",
-    "Total": 821,
+    "LastUpdate": "2024-07-27 00:48:43",
+    "Total": 822,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240726",
+            "fullstartdate": "202407262200",
+            "enddate": "20240727",
+            "url": "/th?id=OHR.RhinelandVineyards_FR-FR9994594641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhinelandVineyards_FR-FR9994594641",
+            "copyright": "Vignobles de la vallée de la Moselle, Rhénanie-Palatinat, Allemagne (© Jorg Greuel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=palatinat+allemagne&form=hpcapt&filters=HpDate%3a%2220240726_2200%22",
+            "title": "La première région viticole d’Allemagne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240726_RhinelandVineyards%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "baf5cdbb3364da73a0223cec71793d90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240725",
             "fullstartdate": "202407252200",
