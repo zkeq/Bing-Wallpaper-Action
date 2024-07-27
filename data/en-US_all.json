@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-26 00:48:13",
-    "Total": 821,
+    "LastUpdate": "2024-07-27 00:48:17",
+    "Total": 822,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240726",
+            "fullstartdate": "202407260700",
+            "enddate": "20240727",
+            "url": "/th?id=OHR.PontNeuf_EN-US5735328254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontNeuf_EN-US5735328254",
+            "copyright": "Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Paris+Olympics&form=hpcapt&filters=HpDate%3a%2220240726_0700%22",
+            "title": "Let the Games begin!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240726_PontNeuf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b96689c34bc0da1aca2ab62f7ec7c0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240725",
             "fullstartdate": "202407250700",
