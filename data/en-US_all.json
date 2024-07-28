@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-27 00:48:17",
-    "Total": 822,
+    "LastUpdate": "2024-07-28 00:48:32",
+    "Total": 823,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240727",
+            "fullstartdate": "202407270700",
+            "enddate": "20240728",
+            "url": "/th?id=OHR.RhinelandVineyards_EN-US5864380431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhinelandVineyards_EN-US5864380431",
+            "copyright": "Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palatinate+wine+region&form=hpcapt&filters=HpDate%3a%2220240727_0700%22",
+            "title": "'Riesling' to perfection",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240727_RhinelandVineyards%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "873a35784007ce55c55362943b99d780",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240726",
             "fullstartdate": "202407260700",
