@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-27 00:48:47",
-    "Total": 822,
+    "LastUpdate": "2024-07-28 00:49:04",
+    "Total": 823,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240727",
+            "fullstartdate": "202407272200",
+            "enddate": "20240728",
+            "url": "/th?id=OHR.BeachHutsSweden_IT-IT4512974268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachHutsSweden_IT-IT4512974268",
+            "copyright": "Capanne da bagno sulla spiaggia della contea di Scania, Svezia (© Martin Wahlborg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sk%C3%A5ne%2c+Svezia&form=hpcapt",
+            "title": "Costa cromatica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240727_BeachHutsSweden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d5094d6a55bf81ca65a57ca4912cb4a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240726",
             "fullstartdate": "202407262200",
