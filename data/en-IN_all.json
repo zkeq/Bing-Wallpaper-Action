@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-28 00:48:55",
-    "Total": 823,
+    "LastUpdate": "2024-07-29 00:48:50",
+    "Total": 824,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240728",
+            "fullstartdate": "202407281830",
+            "enddate": "20240729",
+            "url": "/th?id=OHR.CorbettTigers_EN-IN5057550276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorbettTigers_EN-IN5057550276",
+            "copyright": "Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Tiger+day&form=hpcapt&filters=HpDate%3a%2220240728_1830%22",
+            "title": "Roar and explore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240728_CorbettTigers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a0dfe52207662e03e201dcfef1b3373",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240727",
             "fullstartdate": "202407271830",
