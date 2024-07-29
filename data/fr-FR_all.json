@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-28 00:48:59",
-    "Total": 823,
+    "LastUpdate": "2024-07-29 00:48:54",
+    "Total": 824,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240728",
+            "fullstartdate": "202407282200",
+            "enddate": "20240729",
+            "url": "/th?id=OHR.CorbettTigers_FR-FR0494384633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorbettTigers_FR-FR0494384633",
+            "copyright": "Tigres dans le parc national de Jim Corbett, Uttarakhand, Inde (© Sourabh Bharti/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Tiger+day&form=hpcapt&filters=HpDate%3a%2220240728_2200%22",
+            "title": "Le roi du bengale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240728_CorbettTigers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a85eb04e64510c587dde7cf27c00eede",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240727",
             "fullstartdate": "202407272200",
