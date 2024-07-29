@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-28 00:48:32",
-    "Total": 823,
+    "LastUpdate": "2024-07-29 00:48:28",
+    "Total": 824,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240728",
+            "fullstartdate": "202407280700",
+            "enddate": "20240729",
+            "url": "/th?id=OHR.BeachHutsSweden_EN-US6029381108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachHutsSweden_EN-US6029381108",
+            "copyright": "Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Skane+County+Sweden&form=hpcapt&filters=HpDate%3a%2220240728_0700%22",
+            "title": "Chromatic coastline",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240728_BeachHutsSweden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f16aee0f31bcc7f163ed4a197cfe166",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240727",
             "fullstartdate": "202407270700",
