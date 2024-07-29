@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-28 00:48:41",
-    "Total": 823,
+    "LastUpdate": "2024-07-29 00:48:37",
+    "Total": 824,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240728",
+            "fullstartdate": "202407282200",
+            "enddate": "20240729",
+            "url": "/th?id=OHR.CorbettTigers_DE-DE5462654549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorbettTigers_DE-DE5462654549",
+            "copyright": "Tigergeschwister im Jim-Corbett-Nationalpark, Uttarakhand, Indien (© Sourabh Bharti/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Tigertag&form=hpcapt&filters=HpDate%3a%2220240728_2200%22",
+            "title": "Die unzähmbare Majestät der Wildnis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240728_CorbettTigers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36b7cb7618ad94ebbeb62b410a830ba7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240727",
             "fullstartdate": "202407272200",
