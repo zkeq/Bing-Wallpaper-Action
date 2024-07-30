@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-29 00:48:22",
-    "Total": 824,
+    "LastUpdate": "2024-07-30 00:48:09",
+    "Total": 825,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240729",
+            "fullstartdate": "202407291600",
+            "enddate": "20240730",
+            "url": "/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GimignanoTuscany_ZH-CN8059318824",
+            "copyright": "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E5%90%89%E7%B1%B3%E5%B0%BC%E4%BA%9A%E8%AF%BA&form=hpcapt&mkt=zh-cn",
+            "title": "中世纪的曼哈顿",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240729_GimignanoTuscany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73c97481240ace68d13d7f43de0744f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240728",
             "fullstartdate": "202407281600",
