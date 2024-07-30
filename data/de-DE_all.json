@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-29 00:48:37",
-    "Total": 824,
+    "LastUpdate": "2024-07-30 00:48:23",
+    "Total": 825,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240729",
+            "fullstartdate": "202407292200",
+            "enddate": "20240730",
+            "url": "/th?id=OHR.GrayWolfPups_DE-DE4132223507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrayWolfPups_DE-DE4132223507",
+            "copyright": "Spielende Wolfswelpen in Deutschland (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wolfswelpen&form=hpcapt&filters=HpDate%3a%2220240729_2200%22",
+            "title": "Ein Fest der Verbundenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240729_GrayWolfPups%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a94b38e5f91f60cb83ff6a7408f85a96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240728",
             "fullstartdate": "202407282200",
