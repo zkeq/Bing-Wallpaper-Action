@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-31 00:47:54",
-    "Total": 826,
+    "LastUpdate": "2024-08-01 00:48:37",
+    "Total": 827,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240731",
+            "fullstartdate": "202407311500",
+            "enddate": "20240801",
+            "url": "/th?id=OHR.Nebuta2024_JA-JP7778073736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Nebuta2024_JA-JP7778073736",
+            "copyright": "豪華絢爛なねぷた, 青森県 弘前市 (© David Parker/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240731_1500%22",
+            "title": "今日から弘前ねぷたまつり",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240731_Nebuta2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "559212c0ebf18e88c15b9e6725930aa5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240730",
             "fullstartdate": "202407301500",
