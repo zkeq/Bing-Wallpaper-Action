@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-31 00:47:44",
-    "Total": 826,
+    "LastUpdate": "2024-08-01 00:48:27",
+    "Total": 827,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240731",
+            "fullstartdate": "202407311600",
+            "enddate": "20240801",
+            "url": "/th?id=OHR.KaptaiLake_ZH-CN9085738832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KaptaiLake_ZH-CN9085738832",
+            "copyright": "卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%B0%E5%8A%A0%E9%A9%AC%E8%92%82+%E5%AD%9F%E5%8A%A0%E6%8B%89&form=hpcapt&mkt=zh-cn",
+            "title": "物价喜人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240731_KaptaiLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3b6da6da5be752a0fc41e3102052908",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240730",
             "fullstartdate": "202407301600",
