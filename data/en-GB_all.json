@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-07-31 00:48:07",
-    "Total": 824,
+    "LastUpdate": "2024-08-01 00:48:50",
+    "Total": 825,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240731",
+            "fullstartdate": "202407312300",
+            "enddate": "20240801",
+            "url": "/th?id=OHR.KaptaiLake_EN-GB8876933727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KaptaiLake_EN-GB8876933727",
+            "copyright": "Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Kaptai+Lake+Rangamati+Bangladesh&form=hpcapt&filters=HpDate%3a%2220240731_2300%22",
+            "title": "There's a boatload of bargains here",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240731_KaptaiLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6e420d2b707f51d50db93a920eb0ca0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240730",
             "fullstartdate": "202407302300",
