@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-01 00:49:03",
-    "Total": 827,
+    "LastUpdate": "2024-08-02 00:48:45",
+    "Total": 828,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240801",
+            "fullstartdate": "202408012200",
+            "enddate": "20240802",
+            "url": "/th?id=OHR.TrunkBay_IT-IT7046604916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrunkBay_IT-IT7046604916",
+            "copyright": "Baia del Tronco, Parco Nazionale delle Isole Vergini, Saint John, USA (© cdwheatley/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+delle+Isole+Vergini&form=hpcapt",
+            "title": "Tinte di mare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240801_TrunkBay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc2199c5f84daf45508cf1ce7d611ea1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240731",
             "fullstartdate": "202407312200",
