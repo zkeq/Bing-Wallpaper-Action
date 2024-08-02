@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-01 00:48:50",
-    "Total": 825,
+    "LastUpdate": "2024-08-02 00:48:31",
+    "Total": 826,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240801",
+            "fullstartdate": "202408012300",
+            "enddate": "20240802",
+            "url": "/th?id=OHR.TrunkBay_EN-GB8816603455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrunkBay_EN-GB8816603455",
+            "copyright": "Trunk Bay, Virgin Islands National Park, Saint John, United States Virgin Islands (© cdwheatley/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Virgin+Islands+National+Park&form=hpcapt&filters=HpDate%3a%2220240801_2300%22",
+            "title": "Somewhere under the rainbow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240801_TrunkBay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7562e1ff143774b916d04c8196057c33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240731",
             "fullstartdate": "202407312300",
