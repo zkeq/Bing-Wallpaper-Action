@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-02 00:48:27",
-    "Total": 827,
+    "LastUpdate": "2024-08-03 00:48:29",
+    "Total": 828,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240802",
+            "fullstartdate": "202408020400",
+            "enddate": "20240803",
+            "url": "/th?id=OHR.GeesefamilyBanff_EN-CA8574111296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GeesefamilyBanff_EN-CA8574111296",
+            "copyright": "A family of Canadian geese swimming in a lake in Banff National Park, Alberta (© Chase Dekker Wild-Life Images/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Banff+National+Park&form=hpcapt&filters=HpDate%3a%2220240802_0400%22",
+            "title": "Feathered friends",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240802_GeesefamilyBanff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a41f97512d0ac27439d7b5a64a7b55b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240801",
             "fullstartdate": "202408010400",
