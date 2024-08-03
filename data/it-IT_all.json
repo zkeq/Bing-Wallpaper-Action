@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-02 00:48:45",
-    "Total": 828,
+    "LastUpdate": "2024-08-03 00:48:46",
+    "Total": 829,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240802",
+            "fullstartdate": "202408022200",
+            "enddate": "20240803",
+            "url": "/th?id=OHR.WulongKarst_IT-IT7105962798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WulongKarst_IT-IT7105962798",
+            "copyright": "Tre Ponti Naturali, Parco Geologico Nazionale del Carso di Wulong, Cina (© Pav-Pro Photography Ltd/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Geologico+Nazionale+del+Carso+di+Wulong+&form=hpcapt",
+            "title": "Incontri di pietra",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240802_WulongKarst%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed3f5161d223a34b06368fb89e9d482c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240801",
             "fullstartdate": "202408012200",
