@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-02 00:48:18",
-    "Total": 828,
+    "LastUpdate": "2024-08-03 00:48:21",
+    "Total": 829,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240802",
+            "fullstartdate": "202408021500",
+            "enddate": "20240803",
+            "url": "/th?id=OHR.KaptaiLake_JA-JP8287101456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KaptaiLake_JA-JP8287101456",
+            "copyright": "カプタイ湖, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%97%E3%82%BF%E3%82%A4%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220240802_1500%22",
+            "title": "賑やかな水上マーケット",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240802_KaptaiLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a08da626fa4129537597f4fd4c10ee8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240801",
             "fullstartdate": "202408011500",
