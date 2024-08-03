@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-02 00:48:22",
-    "Total": 828,
+    "LastUpdate": "2024-08-03 00:48:25",
+    "Total": 829,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240802",
+            "fullstartdate": "202408022200",
+            "enddate": "20240803",
+            "url": "/th?id=OHR.WulongKarst_DE-DE9180126373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WulongKarst_DE-DE9180126373",
+            "copyright": "Die drei natürlichen Brücken, Wulong Nationalpark, China (© Pav-Pro Photography Ltd/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Drei+nat%C3%BCrlichen+Br%C3%BCcken+Wulong+Karst&form=hpcapt&filters=HpDate%3a%2220240802_2200%22",
+            "title": "Beeindruckende Brücken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240802_WulongKarst%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65f0df4e9c6eb39efd7aabc27b017efa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240801",
             "fullstartdate": "202408012200",
