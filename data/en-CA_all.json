@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-03 00:48:29",
-    "Total": 828,
+    "LastUpdate": "2024-08-04 00:48:44",
+    "Total": 829,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240803",
+            "fullstartdate": "202408030400",
+            "enddate": "20240804",
+            "url": "/th?id=OHR.WulongKarst_EN-CA6720061040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WulongKarst_EN-CA6720061040",
+            "copyright": "Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Three+Natural+Bridges+Wulong+Karst&form=hpcapt&filters=HpDate%3a%2220240803_0400%22",
+            "title": "Wulong's scenic trio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240803_WulongKarst%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04eabce96aaa854290452a2dcd50cfae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240802",
             "fullstartdate": "202408020400",
