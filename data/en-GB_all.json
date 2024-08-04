@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-03 00:48:33",
-    "Total": 827,
+    "LastUpdate": "2024-08-04 00:48:48",
+    "Total": 828,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240803",
+            "fullstartdate": "202408032300",
+            "enddate": "20240804",
+            "url": "/th?id=OHR.GimignanoTuscany_EN-GB0016765846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GimignanoTuscany_EN-GB0016765846",
+            "copyright": "San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=san+gimignano&form=hpcapt&filters=HpDate%3a%2220240803_2300%22",
+            "title": "A medieval Manhattan",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240803_GimignanoTuscany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c082ff8d1c7c34ce618e55d48051a9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240802",
             "fullstartdate": "202408022300",
