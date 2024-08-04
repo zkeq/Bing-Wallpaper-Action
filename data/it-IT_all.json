@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-03 00:48:46",
-    "Total": 829,
+    "LastUpdate": "2024-08-04 00:49:01",
+    "Total": 830,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240803",
+            "fullstartdate": "202408032200",
+            "enddate": "20240804",
+            "url": "/th?id=OHR.ImpalaOxpecker_IT-IT7910851982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ImpalaOxpecker_IT-IT7910851982",
+            "copyright": "Impala e una bufaga beccorosso, Sudafrica (© Matrishva Vyas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Simbiosi&form=hpcapt",
+            "title": "Chi trova un amico, trova un tesoro",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240803_ImpalaOxpecker%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8035b937e94c69b0b82ca57df1431500",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240802",
             "fullstartdate": "202408022200",
