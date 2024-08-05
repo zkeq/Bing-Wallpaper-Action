@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-04 00:48:25",
-    "Total": 830,
+    "LastUpdate": "2024-08-05 00:48:18",
+    "Total": 831,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240804",
+            "fullstartdate": "202408041600",
+            "enddate": "20240805",
+            "url": "/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HertfordshireLavender_ZH-CN9771886404",
+            "copyright": "薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89&form=hpcapt&mkt=zh-cn",
+            "title": "一片紫色的海洋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240804_HertfordshireLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2721cf73c9f92f7a2824d625cddcb5b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240803",
             "fullstartdate": "202408031600",
