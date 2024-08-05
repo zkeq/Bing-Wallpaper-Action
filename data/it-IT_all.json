@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-04 00:49:01",
-    "Total": 830,
+    "LastUpdate": "2024-08-05 00:48:54",
+    "Total": 831,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240804",
+            "fullstartdate": "202408042200",
+            "enddate": "20240805",
+            "url": "/th?id=OHR.HertfordshireLavender_IT-IT3555753109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HertfordshireLavender_IT-IT3555753109",
+            "copyright": "Campo di lavanda, Hertfordshire, Inghilterra, Regno Unito (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lavanda&form=hpcapt",
+            "title": "Distese inebrianti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240804_HertfordshireLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "62be55e8d4ffdbea288bd3378c71e838",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240803",
             "fullstartdate": "202408032200",
