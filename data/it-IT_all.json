@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-05 00:48:54",
-    "Total": 831,
+    "LastUpdate": "2024-08-06 00:49:01",
+    "Total": 832,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240805",
+            "fullstartdate": "202408052200",
+            "enddate": "20240806",
+            "url": "/th?id=OHR.MolokiniHawaii_IT-IT9190436704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MolokiniHawaii_IT-IT9190436704",
+            "copyright": "Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Maui%2c+Stati+Uniti&form=hpcapt",
+            "title": "Baia vulcanica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240805_MolokiniHawaii%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "107c8f55bf7d08d56acd88286359c8fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240804",
             "fullstartdate": "202408042200",
