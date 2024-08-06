@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-05 00:48:37",
-    "Total": 830,
+    "LastUpdate": "2024-08-06 00:48:43",
+    "Total": 831,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240805",
+            "fullstartdate": "202408050400",
+            "enddate": "20240806",
+            "url": "/th?id=OHR.HertfordshireLavender_EN-CA7120535968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HertfordshireLavender_EN-CA7120535968",
+            "copyright": "Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lavender&form=hpcapt&filters=HpDate%3a%2220240805_0400%22",
+            "title": "A sea of purple",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240805_HertfordshireLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9ef2c08383b671c8d94dc95b484b53f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240804",
             "fullstartdate": "202408040400",
