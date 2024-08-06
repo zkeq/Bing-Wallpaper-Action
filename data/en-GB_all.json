@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-05 00:48:41",
-    "Total": 829,
+    "LastUpdate": "2024-08-06 00:48:47",
+    "Total": 830,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240805",
+            "fullstartdate": "202408052300",
+            "enddate": "20240806",
+            "url": "/th?id=OHR.MolokiniHawaii_EN-GB7304592210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MolokiniHawaii_EN-GB7304592210",
+            "copyright": "Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Molokini+crater+&form=hpcapt&filters=HpDate%3a%2220240805_2300%22",
+            "title": "Cratering to all tastes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240805_MolokiniHawaii%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8f13773e50ac25a1b0e8a095a6cad28",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240804",
             "fullstartdate": "202408042300",
