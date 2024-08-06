@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-05 00:48:18",
-    "Total": 831,
+    "LastUpdate": "2024-08-06 00:48:23",
+    "Total": 832,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240805",
+            "fullstartdate": "202408051600",
+            "enddate": "20240806",
+            "url": "/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MolokiniHawaii_ZH-CN0375050872",
+            "copyright": "莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8E%AB%E6%B4%9B%E5%9F%BA%E5%B0%BC%E9%99%A8%E7%9F%B3%E5%9D%91&form=hpcapt&mkt=zh-cn",
+            "title": "迎合所有人口味的景点",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240805_MolokiniHawaii%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "315a0b69d5c6b77f08a42f25ec2a4c3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240804",
             "fullstartdate": "202408041600",
