@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-06 00:48:52",
-    "Total": 832,
+    "LastUpdate": "2024-08-07 00:48:42",
+    "Total": 833,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240806",
+            "fullstartdate": "202408061830",
+            "enddate": "20240807",
+            "url": "/th?id=OHR.MichiganLighthouse_EN-IN5667907086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichiganLighthouse_EN-IN5667907086",
+            "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=St.+Joseph+North+Pier+Inner+and+Outer+Lights&form=hpcapt&filters=HpDate%3a%2220240806_1830%22",
+            "title": "More than nautical necessity",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240806_MichiganLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afe89e2dfd1db1edc7b8058073c38438",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240805",
             "fullstartdate": "202408051830",
