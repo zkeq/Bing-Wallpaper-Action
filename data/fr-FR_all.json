@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-06 00:48:56",
-    "Total": 832,
+    "LastUpdate": "2024-08-07 00:48:47",
+    "Total": 833,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240806",
+            "fullstartdate": "202408062200",
+            "enddate": "20240807",
+            "url": "/th?id=OHR.MichiganLighthouse_FR-FR4479492551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichiganLighthouse_FR-FR4479492551",
+            "copyright": "Phares de Saint-Joseph, Michigan, États-Unis (© Kenneth Keifer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=phare+int%C3%A9rieur+de+saint-joseph+aux+%C3%A9tats-unis&form=hpcapt&filters=HpDate%3a%2220240806_2200%22",
+            "title": "Les gardiens du lac",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240806_MichiganLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "caf91dda2077e1a78b876f96c9a1a99c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240805",
             "fullstartdate": "202408052200",
