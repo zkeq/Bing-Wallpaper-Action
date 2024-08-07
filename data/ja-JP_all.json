@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-06 00:48:34",
-    "Total": 832,
+    "LastUpdate": "2024-08-07 00:48:25",
+    "Total": 833,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240806",
+            "fullstartdate": "202408061500",
+            "enddate": "20240807",
+            "url": "/th?id=OHR.MichiganLighthouse_JA-JP9089561371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichiganLighthouse_JA-JP9089561371",
+            "copyright": "ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%88%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240806_1500%22",
+            "title": "今日は米国灯台の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240806_MichiganLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6eae773f0ccaf4f058310fcaaefb227f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240805",
             "fullstartdate": "202408051500",
