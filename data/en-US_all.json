@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-06 00:48:29",
-    "Total": 832,
+    "LastUpdate": "2024-08-07 00:48:21",
+    "Total": 833,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240806",
+            "fullstartdate": "202408060700",
+            "enddate": "20240807",
+            "url": "/th?id=OHR.MolokiniHawaii_EN-US7128254175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MolokiniHawaii_EN-US7128254175",
+            "copyright": "Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Molokini+crater+&form=hpcapt&filters=HpDate%3a%2220240806_0700%22",
+            "title": "A very pleasant crescent",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240806_MolokiniHawaii%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b755bf9b7bff570494e762937466fe4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240805",
             "fullstartdate": "202408050700",
