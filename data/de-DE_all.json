@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-06 00:48:38",
-    "Total": 832,
+    "LastUpdate": "2024-08-07 00:48:29",
+    "Total": 833,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240806",
+            "fullstartdate": "202408062200",
+            "enddate": "20240807",
+            "url": "/th?id=OHR.MichiganLighthouse_DE-DE1121606429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichiganLighthouse_DE-DE1121606429",
+            "copyright": "St. Joseph Leuchttürme, Michigan, USA (© Kenneth Keifer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=St.+Joseph+North+Pier+Inner+and+Outer+Lights&form=hpcapt&filters=HpDate%3a%2220240806_2200%22",
+            "title": "Leuchttürme stehen fest, egal wie stark der Sturm ist",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240806_MichiganLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd3412a1451ebebc86e7971637e6993d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240805",
             "fullstartdate": "202408052200",
