@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-07 00:48:15",
-    "Total": 833,
+    "LastUpdate": "2024-08-08 00:48:15",
+    "Total": 834,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240807",
+            "fullstartdate": "202408071600",
+            "enddate": "20240808",
+            "url": "/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpottedOwlet_ZH-CN0841935587",
+            "copyright": "横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A8%AA%E6%96%91%E8%85%B9%E5%B0%8F%E9%B8%AE&form=hpcapt&mkt=zh-cn",
+            "title": "小猫头鹰瞪了你一眼",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240807_SpottedOwlet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d00a2f23ffdf2ca432e81f68b565ab7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240806",
             "fullstartdate": "202408061600",
