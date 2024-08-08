@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-07 00:48:47",
-    "Total": 833,
+    "LastUpdate": "2024-08-08 00:48:47",
+    "Total": 834,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240807",
+            "fullstartdate": "202408072200",
+            "enddate": "20240808",
+            "url": "/th?id=OHR.SpottedOwlet_FR-FR4852852540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpottedOwlet_FR-FR4852852540",
+            "copyright": "Chevêche brame, Bangkok, Thaïlande (© Tfilm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chev%C3%AAche+brame&form=hpcapt&filters=HpDate%3a%2220240807_2200%22",
+            "title": "La chouette attitude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240807_SpottedOwlet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "deb80e41b41e954e199f4ad93ba6bcbd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240806",
             "fullstartdate": "202408062200",
