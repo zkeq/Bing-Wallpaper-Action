@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-07 00:48:51",
-    "Total": 833,
+    "LastUpdate": "2024-08-08 00:48:51",
+    "Total": 834,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240807",
+            "fullstartdate": "202408072200",
+            "enddate": "20240808",
+            "url": "/th?id=OHR.LagoComoItaly_IT-IT3865741032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LagoComoItaly_IT-IT3865741032",
+            "copyright": "Lago di Como, Lombardia, Italia (© Givaga/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Como&form=hpcapt",
+            "title": "“Quel ramo del lago di Como...”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240807_LagoComoItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "236d52ddf48d442b4ebdaf66befd9a19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240806",
             "fullstartdate": "202408062200",
