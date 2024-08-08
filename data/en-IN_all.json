@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-07 00:48:42",
-    "Total": 833,
+    "LastUpdate": "2024-08-08 00:48:42",
+    "Total": 834,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240807",
+            "fullstartdate": "202408071830",
+            "enddate": "20240808",
+            "url": "/th?id=OHR.SpottedOwlet_EN-IN6300276493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpottedOwlet_EN-IN6300276493",
+            "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Spotted+owlet&form=hpcapt&filters=HpDate%3a%2220240807_1830%22",
+            "title": "Big stare for a little owl",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240807_SpottedOwlet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d2a2d82b049fcbd9475997dda99ff6e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240806",
             "fullstartdate": "202408061830",
