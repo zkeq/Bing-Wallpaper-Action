@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-08 00:48:51",
-    "Total": 834,
+    "LastUpdate": "2024-08-09 00:48:53",
+    "Total": 835,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240808",
+            "fullstartdate": "202408082200",
+            "enddate": "20240809",
+            "url": "/th?id=OHR.IncaRuinPeru_IT-IT3781329004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IncaRuinPeru_IT-IT3781329004",
+            "copyright": "Rovina Inca di Sacsayhuamán, Regione di Cusco, Perù (© SL_Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Popoli+indigeni&form=hpcapt",
+            "title": "Custodi della storia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240808_IncaRuinPeru%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dc902abceddd67c99e0c32978a64ba8d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240807",
             "fullstartdate": "202408072200",
