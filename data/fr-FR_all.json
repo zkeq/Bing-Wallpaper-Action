@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-09 00:48:49",
-    "Total": 835,
+    "LastUpdate": "2024-08-10 00:48:43",
+    "Total": 836,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240809",
+            "fullstartdate": "202408092200",
+            "enddate": "20240810",
+            "url": "/th?id=OHR.JoshuaTreeNP_FR-FR7411748387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JoshuaTreeNP_FR-FR7411748387",
+            "copyright": "Parc national de Joshua Tree, Californie, États-Unis (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+de+joshua+tree&form=hpcapt&filters=HpDate%3a%2220240809_2200%22",
+            "title": "Un paysage venu d’un autre monde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240809_JoshuaTreeNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0db565bd3f8feb5cd839d8d3f10df00d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240808",
             "fullstartdate": "202408082200",
