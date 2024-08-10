@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-09 00:48:31",
-    "Total": 835,
+    "LastUpdate": "2024-08-10 00:48:26",
+    "Total": 836,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240809",
+            "fullstartdate": "202408092200",
+            "enddate": "20240810",
+            "url": "/th?id=OHR.Elbphilharmonie_DE-DE2773966721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Elbphilharmonie_DE-DE2773966721",
+            "copyright": "Luftaufnahme der Elbphilharmonie in Hamburg (© Michael Abid/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Elbphilharmonie&form=hpcapt&filters=HpDate%3a%2220240809_2200%22",
+            "title": "Eine kulturelle Wiedergeburt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240809_Elbphilharmonie%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8649167ae07424dacc8dc343b7cc0803",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240808",
             "fullstartdate": "202408082200",
