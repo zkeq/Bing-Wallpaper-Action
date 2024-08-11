@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-10 00:48:48",
-    "Total": 836,
+    "LastUpdate": "2024-08-11 00:49:07",
+    "Total": 837,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240810",
+            "fullstartdate": "202408102200",
+            "enddate": "20240811",
+            "url": "/th?id=OHR.TofinoVancouver_IT-IT4209274959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TofinoVancouver_IT-IT4209274959",
+            "copyright": "Sentiero di legno per il lago Kennedy, isola di Vancouver, British Columbia, Canada (© EB Adventure Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Isola+di+Vancouver&form=hpcapt",
+            "title": "Rugiada bucolica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240810_TofinoVancouver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc82b8e4a7cb6fd600a862491e68d7ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240809",
             "fullstartdate": "202408092200",
