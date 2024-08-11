@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-10 00:48:39",
-    "Total": 836,
+    "LastUpdate": "2024-08-11 00:48:58",
+    "Total": 837,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240810",
+            "fullstartdate": "202408101830",
+            "enddate": "20240811",
+            "url": "/th?id=OHR.TofinoVancouver_EN-IN6327643260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TofinoVancouver_EN-IN6327643260",
+            "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kennedy+Lake+Vancouver+Island&form=hpcapt&filters=HpDate%3a%2220240810_1830%22",
+            "title": "The path less taken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240810_TofinoVancouver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2478dbf1c708ecac7ccb56f57d8db5de",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240809",
             "fullstartdate": "202408091830",
