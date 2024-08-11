@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-10 00:48:26",
-    "Total": 836,
+    "LastUpdate": "2024-08-11 00:48:45",
+    "Total": 837,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240810",
+            "fullstartdate": "202408102200",
+            "enddate": "20240811",
+            "url": "/th?id=OHR.TofinoVancouver_DE-DE0365481347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TofinoVancouver_DE-DE0365481347",
+            "copyright": "Holzpfad zum Kennedy Lake, Vancouver Island, Kanada (© EB Adventure Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kennedy+Lake+Vancouver+Island&form=hpcapt&filters=HpDate%3a%2220240810_2200%22",
+            "title": "Ein geheimnisvoller Pfad",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240810_TofinoVancouver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb6df122e42e149ce458760fd97d7ef7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240809",
             "fullstartdate": "202408092200",
