@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-10 00:48:43",
-    "Total": 836,
+    "LastUpdate": "2024-08-11 00:49:02",
+    "Total": 837,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240810",
+            "fullstartdate": "202408102200",
+            "enddate": "20240811",
+            "url": "/th?id=OHR.TofinoVancouver_FR-FR7602637860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TofinoVancouver_FR-FR7602637860",
+            "copyright": "Sentier en bois menant au lac Kennedy, île de Vancouver, Colombie-Britannique, Canada (© EB Adventure Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%AEle+de+Vancouver&form=hpcapt&filters=HpDate%3a%2220240810_2200%22",
+            "title": "Le chemin le moins fréquenté",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240810_TofinoVancouver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30942ea4949b0cacca7eaadff3734582",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240809",
             "fullstartdate": "202408092200",
