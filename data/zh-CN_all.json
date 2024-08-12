@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-11 00:48:30",
-    "Total": 837,
+    "LastUpdate": "2024-08-12 00:48:19",
+    "Total": 838,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240811",
+            "fullstartdate": "202408111600",
+            "enddate": "20240812",
+            "url": "/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061",
+            "copyright": "非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "你的声音嘹亮而清晰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240811_ElephantsAmboseli%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5919ccd9fcfd4080850356bb9e756afd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240810",
             "fullstartdate": "202408101600",
