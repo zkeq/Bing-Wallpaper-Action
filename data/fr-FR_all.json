@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-11 00:49:02",
-    "Total": 837,
+    "LastUpdate": "2024-08-12 00:48:51",
+    "Total": 838,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240811",
+            "fullstartdate": "202408112200",
+            "enddate": "20240812",
+            "url": "/th?id=OHR.ElephantsAmboseli_FR-FR7826915061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantsAmboseli_FR-FR7826915061",
+            "copyright": "Éléphants d'Afrique, parc national d'Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+l%27%C3%A9l%C3%A9phant&form=hpcapt&filters=HpDate%3a%2220240811_2200%22",
+            "title": "Un engagement planétaire pour sauver ces géants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240811_ElephantsAmboseli%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "721b86d53ccb8920d0796cac67f18ce1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240810",
             "fullstartdate": "202408102200",
