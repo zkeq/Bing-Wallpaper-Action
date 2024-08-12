@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-11 00:48:45",
-    "Total": 837,
+    "LastUpdate": "2024-08-12 00:48:34",
+    "Total": 838,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240811",
+            "fullstartdate": "202408112200",
+            "enddate": "20240812",
+            "url": "/th?id=OHR.ElephantsAmboseli_DE-DE5375674249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantsAmboseli_DE-DE5375674249",
+            "copyright": "Afrikanische Elefanten, Amboseli-Nationalpark, Kenia (© Ruzdi Ekenheim/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltelefantentag&form=hpcapt&filters=HpDate%3a%2220240811_2200%22",
+            "title": "Majestätische Präsenz in Gefahr",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240811_ElephantsAmboseli%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "15391d97b8dbda8a1ecd870b73d6381c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240810",
             "fullstartdate": "202408102200",
