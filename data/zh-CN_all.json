@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:19",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:18",
+    "Total": 839,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408121600",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392",
+            "copyright": "特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%89%B9%E6%8B%89%E6%96%AF%E5%A5%91%E5%8D%A1%E8%87%AA%E7%84%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "亚得里亚海高地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_DugiOtokCroatia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6f2d6c18906edad183e24d4d9f05047b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408111600",
