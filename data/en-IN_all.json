@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:47",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:46",
+    "Total": 839,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408121830",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.DugiOtokCroatia_EN-IN7497189787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DugiOtokCroatia_EN-IN7497189787",
+            "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Telascica+Nature+Park&form=hpcapt&filters=HpDate%3a%2220240812_1830%22",
+            "title": "Adriatic heights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_DugiOtokCroatia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3d4f681fc395d40b975e5b58b40f1e89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408111830",
