@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:51",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:50",
+    "Total": 839,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408122200",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.LorientCelticFestival_FR-FR2950316084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LorientCelticFestival_FR-FR2950316084",
+            "copyright": "Citadelle de Port Louis, Lorient, Morbihan, France (© Philippe TURPIN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lorient+morbihan&form=hpcapt&filters=HpDate%3a%2220240812_2200%22",
+            "title": "À vos binious !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_LorientCelticFestival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7bd537a6149dfa779d9f71a3f7ff22bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408112200",
