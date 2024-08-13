@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:34",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:33",
+    "Total": 839,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408122200",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.DugiOtokCroatia_DE-DE7505074249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DugiOtokCroatia_DE-DE7505074249",
+            "copyright": "Klippen des Naturparks Telašćica, Insel Dugi Otok, Kroatien (© Ilija Ascic/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Telascica+Naturpark&form=hpcapt&filters=HpDate%3a%2220240812_2200%22",
+            "title": "Adriatische Schönheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_DugiOtokCroatia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a32d7433020dec7d826128ccc3a9e702",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408112200",
