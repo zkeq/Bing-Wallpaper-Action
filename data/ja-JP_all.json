@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:29",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:28",
+    "Total": 839,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408121500",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.DugiOtokCroatia_JA-JP9531782423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DugiOtokCroatia_JA-JP9531782423",
+            "copyright": "テラシュチカ自然公園, クロアチア (© Ilija Ascic/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%86%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%81%E3%82%AB%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240812_1500%22",
+            "title": "紺碧の海と切り立った崖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_DugiOtokCroatia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92b7781b167bb4ecb1ca98d71152cc8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408111500",
