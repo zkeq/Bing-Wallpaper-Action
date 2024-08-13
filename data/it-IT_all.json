@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-12 00:48:55",
-    "Total": 838,
+    "LastUpdate": "2024-08-13 00:48:55",
+    "Total": 839,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240812",
+            "fullstartdate": "202408122200",
+            "enddate": "20240813",
+            "url": "/th?id=OHR.DugiOtokCroatia_IT-IT0800672865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DugiOtokCroatia_IT-IT0800672865",
+            "copyright": "Scogliere del Parco Naturale di Telašćica, Isola di Dugi Otok, Croazia (© Ilija Ascic/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Isola+Lunga%2c+Croazia&form=hpcapt",
+            "title": "Perle mediterranee",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240812_DugiOtokCroatia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30f4d376c91b53d85bc191360c472e5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240811",
             "fullstartdate": "202408112200",
