@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-13 00:48:18",
-    "Total": 839,
+    "LastUpdate": "2024-08-14 00:48:19",
+    "Total": 840,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240813",
+            "fullstartdate": "202408131600",
+            "enddate": "20240814",
+            "url": "/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WatarrkaLizard_ZH-CN7974623468",
+            "copyright": "澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%BE%B3%E6%B4%B2%E9%AD%94%E8%9C%A5&form=hpcapt&mkt=zh-cn",
+            "title": "今天感觉很精神",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240813_WatarrkaLizard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "620c5d66ff8daa963c8fbcd996ab6ab6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240812",
             "fullstartdate": "202408121600",
