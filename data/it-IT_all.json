@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-13 00:48:55",
-    "Total": 839,
+    "LastUpdate": "2024-08-14 00:48:55",
+    "Total": 840,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240813",
+            "fullstartdate": "202408132200",
+            "enddate": "20240814",
+            "url": "/th?id=OHR.WatarrkaLizard_IT-IT4767936784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WatarrkaLizard_IT-IT4767936784",
+            "copyright": "Diavolo spinoso, Parco Nazionale di Watarrka, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Moloch+horridus&form=hpcapt",
+            "title": "Si sentirà un po’ sulle spine?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240813_WatarrkaLizard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cc9c7554ed38d3dc823a8ec1b51f3eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240812",
             "fullstartdate": "202408122200",
