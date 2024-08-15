@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-14 00:48:33",
-    "Total": 840,
+    "LastUpdate": "2024-08-15 00:48:26",
+    "Total": 841,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240814",
+            "fullstartdate": "202408142200",
+            "enddate": "20240815",
+            "url": "/th?id=OHR.HangCave_DE-DE9528025476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HangCave_DE-DE9528025476",
+            "copyright": "Hang Sơn Đoòng-Höhle, Nationalpark Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hang+Son+Doong+Vietnam&form=hpcapt&filters=HpDate%3a%2220240814_2200%22",
+            "title": "Lichtspiele unter der Erde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240814_HangCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2275efab8364a8cc91587e03b27240f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240813",
             "fullstartdate": "202408132200",
