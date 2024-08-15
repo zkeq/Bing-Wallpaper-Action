@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-14 00:48:46",
-    "Total": 840,
+    "LastUpdate": "2024-08-15 00:48:39",
+    "Total": 841,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240814",
+            "fullstartdate": "202408141830",
+            "enddate": "20240815",
+            "url": "/th?id=OHR.RedFortID_EN-IN8417084718_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedFortID_EN-IN8417084718",
+            "copyright": "Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Independence+Day&form=hpcapt&filters=HpDate%3a%2220240814_1830%22",
+            "title": "The triumphant tricolour",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240814_RedFortID%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec88a4c8822c0513b07a81b10a7f00e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240813",
             "fullstartdate": "202408131830",
