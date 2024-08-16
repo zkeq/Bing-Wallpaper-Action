@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-15 00:48:21",
-    "Total": 841,
+    "LastUpdate": "2024-08-16 00:48:23",
+    "Total": 842,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240815",
+            "fullstartdate": "202408151500",
+            "enddate": "20240816",
+            "url": "/th?id=OHR.Gozan2024_JA-JP4841375373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Gozan2024_JA-JP4841375373",
+            "copyright": "大文字山の大文字, 京都 (© Masako Ishida/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1%E3%81%AE%E5%A4%A7%E6%96%87%E5%AD%97&form=hpcapt&filters=HpDate%3a%2220240815_1500%22",
+            "title": "今日は五山送り火",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240815_Gozan2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef025e10c7c342ed8368d15e63b6c4a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240814",
             "fullstartdate": "202408141500",
