@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-15 00:48:39",
-    "Total": 841,
+    "LastUpdate": "2024-08-16 00:48:41",
+    "Total": 842,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240815",
+            "fullstartdate": "202408151830",
+            "enddate": "20240816",
+            "url": "/th?id=OHR.JapanRollerCoaster_EN-IN8774755618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanRollerCoaster_EN-IN8774755618",
+            "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hakugei+roller+coaster+Japan&form=hpcapt&filters=HpDate%3a%2220240815_1830%22",
+            "title": "Buckle up!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240815_JapanRollerCoaster%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f57ef90c89272144c4ec16530c20138",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240814",
             "fullstartdate": "202408141830",
