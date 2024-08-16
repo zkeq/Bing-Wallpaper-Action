@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-15 00:48:48",
-    "Total": 841,
+    "LastUpdate": "2024-08-16 00:48:50",
+    "Total": 842,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240815",
+            "fullstartdate": "202408152200",
+            "enddate": "20240816",
+            "url": "/th?id=OHR.HangCave_IT-IT4945788331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HangCave_IT-IT4945788331",
+            "copyright": "Grotta di Hang Sơn Đoòng, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+di+Phong+Nha-K%E1%BA%BB+B%C3%A0ng%2c+Vietnam&form=hpcapt",
+            "title": "Miti e caverne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240815_HangCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d4298c7c3dee098f9e5916a49d05752",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240814",
             "fullstartdate": "202408142200",
