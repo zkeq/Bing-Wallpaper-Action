@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-15 00:48:17",
-    "Total": 841,
+    "LastUpdate": "2024-08-16 00:48:19",
+    "Total": 842,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240815",
+            "fullstartdate": "202408150700",
+            "enddate": "20240816",
+            "url": "/th?id=OHR.HangCave_EN-US9374263509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HangCave_EN-US9374263509",
+            "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hang+Son+Doong+Vietnam&form=hpcapt&filters=HpDate%3a%2220240815_0700%22",
+            "title": "A 'hole' new world",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240815_HangCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f6fb76708a1e9664ed9c3d63c7a1029",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240814",
             "fullstartdate": "202408140700",
