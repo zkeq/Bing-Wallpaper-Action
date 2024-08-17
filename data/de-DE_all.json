@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:28",
-    "Total": 842,
+    "LastUpdate": "2024-08-17 00:48:23",
+    "Total": 843,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408162200",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_DE-DE1525391215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_DE-DE1525391215",
+            "copyright": "Leuchtturm Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationales+Leuchtturm-Wochenende&form=hpcapt&filters=HpDate%3a%2220240816_2200%22",
+            "title": "Licht am Horizont",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8f2eecd654aa92fc2fe9f2d2ab7ad5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408152200",
