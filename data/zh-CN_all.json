@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:13",
-    "Total": 842,
+    "LastUpdate": "2024-08-17 00:48:08",
+    "Total": 843,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408161600",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669",
+            "copyright": "阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E5%8A%A0%E7%BB%B4&form=hpcapt&mkt=zh-cn",
+            "title": "照亮前行之路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "623a9d6d26e71785b1b37d28fb572144",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408151600",
