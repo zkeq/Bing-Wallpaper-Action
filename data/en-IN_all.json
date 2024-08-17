@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:41",
-    "Total": 842,
+    "LastUpdate": "2024-08-17 00:48:37",
+    "Total": 843,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408161830",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197",
+            "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alfanzina+lighthouse&form=hpcapt&filters=HpDate%3a%2220240816_1830%22",
+            "title": "Light the way",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb6e576511ef22a0df051529923ecd21",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408151830",
