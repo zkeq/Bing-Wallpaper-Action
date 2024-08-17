@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:50",
-    "Total": 842,
+    "LastUpdate": "2024-08-17 00:48:46",
+    "Total": 843,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408162200",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687",
+            "copyright": "Faro di Alfanzina, Algarve, Portogallo (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Carvoeiro+sud+di+Lagoa%2c+Portogallo&form=hpcapt",
+            "title": "Illumina il cammino",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "065163899b561334d8f31cd23c08a523",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408152200",
