@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:45",
-    "Total": 842,
+    "LastUpdate": "2024-08-17 00:48:41",
+    "Total": 843,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408162200",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_FR-FR9974749595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_FR-FR9974749595",
+            "copyright": "Phare d'Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=phares+et+des+bateaux-phares&form=hpcapt&filters=HpDate%3a%2220240816_2200%22",
+            "title": "Les sentinelles de la mer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b08a7f455dc7b2f90c8f32bd1441aeda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408152200",
