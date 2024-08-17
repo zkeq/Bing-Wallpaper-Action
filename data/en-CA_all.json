@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:32",
-    "Total": 841,
+    "LastUpdate": "2024-08-17 00:48:27",
+    "Total": 842,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408160400",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.CNE2024_EN-CA8242328301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CNE2024_EN-CA8242328301",
+            "copyright": "Canadian International Air Show at the Canadian National Exhibition, in Toronto, Ontario (© Tony Florio/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=The+Ex+Toronto&form=hpcapt&filters=HpDate%3a%2220240816_0400%22",
+            "title": "Look up, Toronto!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_CNE2024%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a1aaa177713baa2bcc65f9400430617e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408150400",
