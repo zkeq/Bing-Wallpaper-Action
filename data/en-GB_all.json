@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-16 00:48:36",
-    "Total": 840,
+    "LastUpdate": "2024-08-17 00:48:32",
+    "Total": 841,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240816",
+            "fullstartdate": "202408162300",
+            "enddate": "20240817",
+            "url": "/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942",
+            "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+lighthouse+and+lightship+weekend&form=hpcapt&filters=HpDate%3a%2220240816_2300%22",
+            "title": "Light the way",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240816_AlfanzinaLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e8b7fc5e148f7663c35fcf6b41bc35b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240815",
             "fullstartdate": "202408152300",
