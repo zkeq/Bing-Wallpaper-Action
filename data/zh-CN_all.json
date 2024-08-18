@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-17 00:48:08",
-    "Total": 843,
+    "LastUpdate": "2024-08-18 00:48:23",
+    "Total": 844,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240817",
+            "fullstartdate": "202408171600",
+            "enddate": "20240818",
+            "url": "/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HuntingtonBeach_ZH-CN0368691951",
+            "copyright": "日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BA%A8%E5%BB%B7%E9%A1%BF%E6%B5%B7%E6%BB%A9%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn",
+            "title": "一个无与伦比的码头",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240817_HuntingtonBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49aabb70d2ee9eee3f0f6ada81d1110c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240816",
             "fullstartdate": "202408161600",
