@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-17 00:48:46",
-    "Total": 843,
+    "LastUpdate": "2024-08-18 00:49:00",
+    "Total": 844,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240817",
+            "fullstartdate": "202408172200",
+            "enddate": "20240818",
+            "url": "/th?id=OHR.HuntingtonBeach_IT-IT5196436677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HuntingtonBeach_IT-IT5196436677",
+            "copyright": "Molo di Huntington Beach al tramonto, California, USA (© Stan Moniz Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Huntington+Beach%2c+citt%C3%A0+costiera+California%2c+USA&form=hpcapt",
+            "title": "Soglia dell'infinito",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240817_HuntingtonBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b77f84f11e8fda44f96d715bea99d21",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240816",
             "fullstartdate": "202408162200",
