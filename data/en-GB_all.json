@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-18 00:48:46",
-    "Total": 842,
+    "LastUpdate": "2024-08-19 00:48:46",
+    "Total": 843,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240818",
+            "fullstartdate": "202408182300",
+            "enddate": "20240819",
+            "url": "/th?id=OHR.HuntingtonBeach_EN-GB8055727268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HuntingtonBeach_EN-GB8055727268",
+            "copyright": "Huntington Beach Pier at sunset, California, USA (© Stan Moniz Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Huntington+Beach+Pier&form=hpcapt&filters=HpDate%3a%2220240818_2300%22",
+            "title": "A peerless pier",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240818_HuntingtonBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7296aa20f386595e06230ee75442fdff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240817",
             "fullstartdate": "202408172300",
