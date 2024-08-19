@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-18 00:48:55",
-    "Total": 844,
+    "LastUpdate": "2024-08-19 00:48:54",
+    "Total": 845,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240818",
+            "fullstartdate": "202408182200",
+            "enddate": "20240819",
+            "url": "/th?id=OHR.RegataSanGines_FR-FR9512852239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegataSanGines_FR-FR9512852239",
+            "copyright": "Bufadero de la Garita, Grande Canarie, Espagne (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=grande+canarie+espagne&form=hpcapt&filters=HpDate%3a%2220240818_2200%22",
+            "title": "Un petit plongeon ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240818_RegataSanGines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2518c669c49550b8f41f469e15c157c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240817",
             "fullstartdate": "202408172200",
