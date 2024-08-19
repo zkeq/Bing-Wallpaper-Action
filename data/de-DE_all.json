@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-18 00:48:38",
-    "Total": 844,
+    "LastUpdate": "2024-08-19 00:48:36",
+    "Total": 845,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240818",
+            "fullstartdate": "202408182200",
+            "enddate": "20240819",
+            "url": "/th?id=OHR.RegataSanGines_DE-DE4289172038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegataSanGines_DE-DE4289172038",
+            "copyright": "Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bufadero+de+la+Garita&form=hpcapt&filters=HpDate%3a%2220240818_2200%22",
+            "title": "Prickelnde Performance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240818_RegataSanGines%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8a2c0957bab44ee2edb6b928025a7c9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240817",
             "fullstartdate": "202408172200",
