@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-19 00:48:32",
-    "Total": 845,
+    "LastUpdate": "2024-08-20 00:48:18",
+    "Total": 846,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240819",
+            "fullstartdate": "202408191500",
+            "enddate": "20240820",
+            "url": "/th?id=OHR.TetonSunrise_JA-JP5515131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonSunrise_JA-JP5515131695",
+            "copyright": "グランドティトン国立公園, 米国 ワイオミング州 (© Kurt Budliger/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%86%E3%82%A3%E3%83%88%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240819_1500%22",
+            "title": "壮大なティトン山脈と周囲の湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240819_TetonSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "19a1b79f432c77ef0558824a489e96c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240818",
             "fullstartdate": "202408181500",
