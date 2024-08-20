@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-19 00:48:22",
-    "Total": 845,
+    "LastUpdate": "2024-08-20 00:48:08",
+    "Total": 846,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240819",
+            "fullstartdate": "202408191600",
+            "enddate": "20240820",
+            "url": "/th?id=OHR.TetonSunrise_ZH-CN1118823848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonSunrise_ZH-CN1118823848",
+            "copyright": "大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%8F%90%E9%A1%BF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "鹿和羚羊嬉戏的地方",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240819_TetonSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d9307bd8b9cffdb443b6fd50ba716b1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240818",
             "fullstartdate": "202408181600",
