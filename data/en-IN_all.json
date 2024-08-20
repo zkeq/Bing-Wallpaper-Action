@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-19 00:48:50",
-    "Total": 845,
+    "LastUpdate": "2024-08-20 00:48:36",
+    "Total": 846,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240819",
+            "fullstartdate": "202408191830",
+            "enddate": "20240820",
+            "url": "/th?id=OHR.TetonSunrise_EN-IN0048035143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonSunrise_EN-IN0048035143",
+            "copyright": "Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Teton+National+Park&form=hpcapt&filters=HpDate%3a%2220240819_1830%22",
+            "title": "Where the deer and the antelope play",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240819_TetonSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2368803e0e2b52a370c055b03110c68f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240818",
             "fullstartdate": "202408181830",
