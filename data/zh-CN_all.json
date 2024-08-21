@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-20 00:48:08",
-    "Total": 846,
+    "LastUpdate": "2024-08-21 00:48:15",
+    "Total": 847,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240820",
+            "fullstartdate": "202408201600",
+            "enddate": "20240821",
+            "url": "/th?id=OHR.NazcaBooby_ZH-CN1534931799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NazcaBooby_ZH-CN1534931799",
+            "copyright": "纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%B3%E6%96%AF%E5%8D%A1%E9%B2%A3%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "等待前往加拉帕戈斯群岛",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240820_NazcaBooby%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb4143103829eb377d170ea4f9885899",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240819",
             "fullstartdate": "202408191600",
