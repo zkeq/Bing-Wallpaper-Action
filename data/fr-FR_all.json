@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-21 00:48:47",
-    "Total": 847,
+    "LastUpdate": "2024-08-22 00:49:01",
+    "Total": 848,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240821",
+            "fullstartdate": "202408212200",
+            "enddate": "20240822",
+            "url": "/th?id=OHR.OceanCityMD_FR-FR8531122070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OceanCityMD_FR-FR8531122070",
+            "copyright": "Vue aérienne d’Ocean City au lever du soleil, Maryland, États-Unis (© Kevin Olson/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Ocean+City+Maryland+%C3%A9tats-unis&form=hpcapt&filters=HpDate%3a%2220240821_2200%22",
+            "title": "Lueur matinale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240821_OceanCityMD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90a33d3ae75a5e3ac54a79c2754e0f01",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240820",
             "fullstartdate": "202408202200",
