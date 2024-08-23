@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-22 00:48:39",
-    "Total": 848,
+    "LastUpdate": "2024-08-23 00:48:24",
+    "Total": 849,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240822",
+            "fullstartdate": "202408221500",
+            "enddate": "20240823",
+            "url": "/th?id=OHR.Fireworks2024_JA-JP2308803408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fireworks2024_JA-JP2308803408",
+            "copyright": "厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AE%AE%E5%B3%B6%E6%B0%B4%E4%B8%AD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220240822_1500%22",
+            "title": "もう一度見たい宮島水中花火大会",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240822_Fireworks2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "61cd4d31892ac1c14a0ecf60e3f445d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240821",
             "fullstartdate": "202408211500",
