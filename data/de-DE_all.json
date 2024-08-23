@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-22 00:48:44",
-    "Total": 848,
+    "LastUpdate": "2024-08-23 00:48:28",
+    "Total": 849,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240822",
+            "fullstartdate": "202408222200",
+            "enddate": "20240823",
+            "url": "/th?id=OHR.PrasatPhanom_DE-DE7459210012_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrasatPhanom_DE-DE7459210012",
+            "copyright": "Tempelruinen von Phanom Rung, Provinz Buriram, Thailand (© Banjongseal324/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Phanom+Rung&form=hpcapt&filters=HpDate%3a%2220240822_2200%22",
+            "title": "Eine Tür zur Vergangenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240822_PrasatPhanom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88be614f440d7bfbc3674da475d65778",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240821",
             "fullstartdate": "202408212200",
