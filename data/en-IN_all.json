@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-22 00:48:57",
-    "Total": 848,
+    "LastUpdate": "2024-08-23 00:48:41",
+    "Total": 849,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240822",
+            "fullstartdate": "202408221830",
+            "enddate": "20240823",
+            "url": "/th?id=OHR.PrasatPhanom_EN-IN2102190312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrasatPhanom_EN-IN2102190312",
+            "copyright": "Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Phanom+Rung+Historical+Park&form=hpcapt&filters=HpDate%3a%2220240822_1830%22",
+            "title": "Doorway to the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240822_PrasatPhanom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63faa884c1e54d124d79db89ae879c7e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240821",
             "fullstartdate": "202408211830",
