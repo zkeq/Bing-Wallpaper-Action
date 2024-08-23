@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-22 00:48:48",
-    "Total": 847,
+    "LastUpdate": "2024-08-23 00:48:32",
+    "Total": 848,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240822",
+            "fullstartdate": "202408220400",
+            "enddate": "20240823",
+            "url": "/th?id=OHR.OceanCityMD_EN-CA2591363593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OceanCityMD_EN-CA2591363593",
+            "copyright": "Aerial view of Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Ocean+City+Maryland&form=hpcapt&filters=HpDate%3a%2220240822_0400%22",
+            "title": "The morning glow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240822_OceanCityMD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44fe00e592936ae3d1741ff916715262",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240821",
             "fullstartdate": "202408210400",
