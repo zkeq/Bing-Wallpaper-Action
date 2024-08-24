@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-23 00:48:28",
-    "Total": 849,
+    "LastUpdate": "2024-08-24 00:48:26",
+    "Total": 850,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240823",
+            "fullstartdate": "202408232200",
+            "enddate": "20240824",
+            "url": "/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuseumsinselSpree_DE-DE8201453372",
+            "copyright": "Museumsinsel auf der Spree und Fernsehturm, Berlin (© TomasSereda/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lange+Nacht+der+Museen&form=hpcapt&filters=HpDate%3a%2220240823_2200%22",
+            "title": "Nachts im Museum",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240823_MuseumsinselSpree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a91d6f7874c3aecfa92a291c2cdc97f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240822",
             "fullstartdate": "202408222200",
