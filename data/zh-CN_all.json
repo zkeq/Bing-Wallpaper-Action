@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-23 00:48:13",
-    "Total": 849,
+    "LastUpdate": "2024-08-24 00:48:11",
+    "Total": 850,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240823",
+            "fullstartdate": "202408231600",
+            "enddate": "20240824",
+            "url": "/th?id=OHR.KatahdinWoods_ZH-CN0748954905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWoods_ZH-CN0748954905",
+            "copyright": "卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E5%A1%94%E4%B8%81%E6%A3%AE%E6%9E%97%E5%92%8C%E6%B0%B4%E5%9F%9F%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn",
+            "title": "尽享森林与水域之美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240823_KatahdinWoods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9eecaf946a15d5dd4dacefb6c0385dae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240822",
             "fullstartdate": "202408221600",
