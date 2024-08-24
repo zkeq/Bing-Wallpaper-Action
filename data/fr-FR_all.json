@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-23 00:48:45",
-    "Total": 849,
+    "LastUpdate": "2024-08-24 00:48:43",
+    "Total": 850,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240823",
+            "fullstartdate": "202408232200",
+            "enddate": "20240824",
+            "url": "/th?id=OHR.KatahdinWoods_FR-FR8416030061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWoods_FR-FR8416030061",
+            "copyright": "Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument%2c+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220240823_2200%22",
+            "title": "De l’eau et des bois",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240823_KatahdinWoods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "376454fc64eaaa887aadcb157c259ffb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240822",
             "fullstartdate": "202408222200",
