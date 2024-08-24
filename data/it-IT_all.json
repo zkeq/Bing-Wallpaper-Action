@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-23 00:48:50",
-    "Total": 849,
+    "LastUpdate": "2024-08-24 00:48:47",
+    "Total": 850,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240823",
+            "fullstartdate": "202408232200",
+            "enddate": "20240824",
+            "url": "/th?id=OHR.KatahdinWoods_IT-IT5335389072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWoods_IT-IT5335389072",
+            "copyright": "Monumento Nazionale Katahdin Woods and Waters, Contea di Penobscot, Maine, USA (© Cavan Images/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Contea+di+Penobscot%2c+Maine%2c+USA&form=hpcapt",
+            "title": "Sarà dolce naufragar in questo fiume?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240823_KatahdinWoods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "40e2be98152095405a2dabc70b272057",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240822",
             "fullstartdate": "202408222200",
