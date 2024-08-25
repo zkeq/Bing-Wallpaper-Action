@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-24 00:48:30",
-    "Total": 849,
+    "LastUpdate": "2024-08-25 00:48:48",
+    "Total": 850,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240824",
+            "fullstartdate": "202408240400",
+            "enddate": "20240825",
+            "url": "/th?id=OHR.KatahdinWoods_EN-CA4283542343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWoods_EN-CA4283542343",
+            "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220240824_0400%22",
+            "title": "All about the woods and waters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240824_KatahdinWoods%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9adf4b89e85c65cf63776c0103388d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240823",
             "fullstartdate": "202408230400",
