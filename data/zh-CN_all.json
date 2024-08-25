@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-24 00:48:11",
-    "Total": 850,
+    "LastUpdate": "2024-08-25 00:48:29",
+    "Total": 851,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240824",
+            "fullstartdate": "202408241600",
+            "enddate": "20240825",
+            "url": "/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894",
+            "copyright": "急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E5%B7%9D%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E6%80%A5%E6%B5%81%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "守护这片乐园",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240824_SwiftcurrentLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d58d98abd937ec17849eb450ecd8a03c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240823",
             "fullstartdate": "202408231600",
