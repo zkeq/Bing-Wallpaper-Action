@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-25 00:48:29",
-    "Total": 851,
+    "LastUpdate": "2024-08-26 00:48:16",
+    "Total": 852,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240825",
+            "fullstartdate": "202408251600",
+            "enddate": "20240826",
+            "url": "/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalmyraAtoll_ZH-CN1814325540",
+            "copyright": "巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%B0%94%E7%B1%B3%E6%8B%89%E7%8E%AF%E7%A4%81&form=hpcapt&mkt=zh-cn",
+            "title": "田园诗般的岛屿之旅",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240825_PalmyraAtoll%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "223dba8d8dde1fd38b194d71d5d25f7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240824",
             "fullstartdate": "202408241600",
