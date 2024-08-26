@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-25 00:48:56",
-    "Total": 851,
+    "LastUpdate": "2024-08-26 00:48:43",
+    "Total": 852,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240825",
+            "fullstartdate": "202408251830",
+            "enddate": "20240826",
+            "url": "/th?id=OHR.PalmyraAtoll_EN-IN9487861231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalmyraAtoll_EN-IN9487861231",
+            "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Palmyra+Atoll&form=hpcapt&filters=HpDate%3a%2220240825_1830%22",
+            "title": "Idyllic island escape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240825_PalmyraAtoll%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "080953c5b9f466d1815542dcac1dcfd6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240824",
             "fullstartdate": "202408241830",
