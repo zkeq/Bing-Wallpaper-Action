@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-26 00:48:43",
-    "Total": 852,
+    "LastUpdate": "2024-08-27 00:48:48",
+    "Total": 853,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240826",
+            "fullstartdate": "202408261830",
+            "enddate": "20240827",
+            "url": "/th?id=OHR.YoungCaiman_EN-IN9705347910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungCaiman_EN-IN9705347910",
+            "copyright": "Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+caiman&form=hpcapt&filters=HpDate%3a%2220240826_1830%22",
+            "title": "Life is good in the swamp",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240826_YoungCaiman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b5b00e74ff9a888e33716b47a4110ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240825",
             "fullstartdate": "202408251830",
