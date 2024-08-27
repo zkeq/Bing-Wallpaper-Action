@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-26 00:48:16",
-    "Total": 852,
+    "LastUpdate": "2024-08-27 00:48:20",
+    "Total": 853,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240826",
+            "fullstartdate": "202408261600",
+            "enddate": "20240827",
+            "url": "/th?id=OHR.YoungCaiman_ZH-CN1995433788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungCaiman_ZH-CN1995433788",
+            "copyright": "黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁 (© Maxime Aliaga/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%91%E5%87%AF%E9%97%A8%E9%B3%84&form=hpcapt&mkt=zh-cn",
+            "title": "沼泽里的生活真美好！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240826_YoungCaiman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66e74984091faac53272269271f94f47",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240825",
             "fullstartdate": "202408251600",
