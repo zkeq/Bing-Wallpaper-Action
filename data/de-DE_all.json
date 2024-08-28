@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-27 00:48:35",
-    "Total": 853,
+    "LastUpdate": "2024-08-28 00:48:33",
+    "Total": 854,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240827",
+            "fullstartdate": "202408272200",
+            "enddate": "20240828",
+            "url": "/th?id=OHR.ParalympicsParis_DE-DE3278467124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParalympicsParis_DE-DE3278467124",
+            "copyright": "Montmartre und Sacre Cœur, Paris, Frankreich (© Tuul & Bruno Morandi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sommer-Paralympics+2024&form=hpcapt&filters=HpDate%3a%2220240827_2200%22",
+            "title": "Auf die Plätze, fertig, los!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240827_ParalympicsParis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6904ff0355798dbcc60fe2afd78af73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240826",
             "fullstartdate": "202408262200",
