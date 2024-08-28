@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-27 00:48:52",
-    "Total": 853,
+    "LastUpdate": "2024-08-28 00:48:50",
+    "Total": 854,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240827",
+            "fullstartdate": "202408272200",
+            "enddate": "20240828",
+            "url": "/th?id=OHR.PontNeuf_FR-FR7590326569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontNeuf_FR-FR7590326569",
+            "copyright": "Pont Neuf sur la Seine, Paris, France (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jeux+paralympiques+2024&form=hpcapt&filters=HpDate%3a%2220240827_2200%22",
+            "title": "Célébrons la résilience !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240827_PontNeuf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d01e0ab575a6e64692bb8c41fb93273c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240826",
             "fullstartdate": "202408262200",
