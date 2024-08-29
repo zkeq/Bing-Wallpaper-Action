@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-28 00:48:55",
-    "Total": 854,
+    "LastUpdate": "2024-08-29 00:48:56",
+    "Total": 855,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240828",
+            "fullstartdate": "202408282200",
+            "enddate": "20240829",
+            "url": "/th?id=OHR.CastellfollitSpain_IT-IT5915189187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastellfollitSpain_IT-IT5915189187",
+            "copyright": "Castellfollit de la Roca, Catalogna, Spagna (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castellfollit+de+la+Roca%2c+Comune+Spagnolo&form=hpcapt",
+            "title": "Rifugio dei sogni",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240828_CastellfollitSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3394ad9b9ee41a1c6d6bf41dea7a6f96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240827",
             "fullstartdate": "202408272200",
