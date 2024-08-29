@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-28 00:48:33",
-    "Total": 854,
+    "LastUpdate": "2024-08-29 00:48:34",
+    "Total": 855,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240828",
+            "fullstartdate": "202408282200",
+            "enddate": "20240829",
+            "url": "/th?id=OHR.CastellfollitSpain_DE-DE7979269591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastellfollitSpain_DE-DE7979269591",
+            "copyright": "Castellfollit de la Roca, Katalonien, Spanien (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castellfollit+de+la+Roca+Spain&form=hpcapt&filters=HpDate%3a%2220240828_2200%22",
+            "title": "Ein atemberaubendes Panorama",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240828_CastellfollitSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7fc680156613c650e32d2392eb2c3f8c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240827",
             "fullstartdate": "202408272200",
