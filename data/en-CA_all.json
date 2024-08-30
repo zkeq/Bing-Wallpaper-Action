@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-29 00:48:38",
-    "Total": 854,
+    "LastUpdate": "2024-08-30 00:48:43",
+    "Total": 855,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240829",
+            "fullstartdate": "202408290400",
+            "enddate": "20240830",
+            "url": "/th?id=OHR.CastellfollitSpain_EN-CA7493953677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastellfollitSpain_EN-CA7493953677",
+            "copyright": "Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castellfollit+de+la+Roca+Spain&form=hpcapt&filters=HpDate%3a%2220240829_0400%22",
+            "title": "A Catalan cliffhanger",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240829_CastellfollitSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2304d6b4f07a54942d753b8a87d00d97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240828",
             "fullstartdate": "202408280400",
