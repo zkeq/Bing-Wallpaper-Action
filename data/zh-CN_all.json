@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-30 00:48:23",
-    "Total": 856,
+    "LastUpdate": "2024-08-31 00:48:19",
+    "Total": 857,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240830",
+            "fullstartdate": "202408301600",
+            "enddate": "20240831",
+            "url": "/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DjanetAlgeria_ZH-CN3458706695",
+            "copyright": "撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B4%BE%E5%A5%88%E7%89%B9&form=hpcapt&mkt=zh-cn",
+            "title": "沙丘日和沙漠烟霞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240830_DjanetAlgeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "794a6dd72402eacdc948eb93c414fa0e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240829",
             "fullstartdate": "202408291600",
