@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-30 00:48:51",
-    "Total": 856,
+    "LastUpdate": "2024-08-31 00:48:46",
+    "Total": 857,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240830",
+            "fullstartdate": "202408301830",
+            "enddate": "20240831",
+            "url": "/th?id=OHR.DjanetAlgeria_EN-IN1880956214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DjanetAlgeria_EN-IN1880956214",
+            "copyright": "Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_1830%22",
+            "title": "Dune days and desert haze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240830_DjanetAlgeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f04bf2dca8928a8638aa744671bea9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240829",
             "fullstartdate": "202408291830",
