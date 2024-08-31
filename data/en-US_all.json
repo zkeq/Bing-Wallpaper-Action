@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-30 00:48:29",
-    "Total": 856,
+    "LastUpdate": "2024-08-31 00:48:25",
+    "Total": 857,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240830",
+            "fullstartdate": "202408300700",
+            "enddate": "20240831",
+            "url": "/th?id=OHR.WhaleSharkDay_EN-US8979838463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhaleSharkDay_EN-US8979838463",
+            "copyright": "A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220240830_0700%22",
+            "title": "Being gentle to the giants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240830_WhaleSharkDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d232c472d410f556557fecd2f106b089",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240829",
             "fullstartdate": "202408290700",
