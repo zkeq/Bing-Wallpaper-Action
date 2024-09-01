@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-31 00:48:25",
-    "Total": 857,
+    "LastUpdate": "2024-09-01 00:49:01",
+    "Total": 858,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240831",
+            "fullstartdate": "202408310700",
+            "enddate": "20240901",
+            "url": "/th?id=OHR.DjanetAlgeria_EN-US9175224323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DjanetAlgeria_EN-US9175224323",
+            "copyright": "Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Tassili+n%27Ajjer+world+heritage+site&form=hpcapt&filters=HpDate%3a%2220240831_0700%22",
+            "title": "Dune days and desert haze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240831_DjanetAlgeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbc36384ea9987a1700a260a6c2786cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240830",
             "fullstartdate": "202408300700",
