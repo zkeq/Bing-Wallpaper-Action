@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-08-31 00:48:55",
-    "Total": 857,
+    "LastUpdate": "2024-09-01 00:49:30",
+    "Total": 858,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240831",
+            "fullstartdate": "202408312200",
+            "enddate": "20240901",
+            "url": "/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877",
+            "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Regata+Storica%2c+Serenissima&form=hpcapt",
+            "title": "Regata, remi e risonanze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240831_RegataStoricaVenezia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4faf66352fee6530cfe0396fe3db728",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240830",
             "fullstartdate": "202408302200",
