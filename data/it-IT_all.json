@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-01 00:49:30",
-    "Total": 858,
+    "LastUpdate": "2024-09-02 00:49:00",
+    "Total": 859,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240901",
+            "fullstartdate": "202409012200",
+            "enddate": "20240902",
+            "url": "/th?id=OHR.BuracodasAraras_IT-IT6602971227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BuracodasAraras_IT-IT6602971227",
+            "copyright": "Ara, Mato Grosso do Sul, Brasile (© Ellen Goff/Danita Delimont)",
+            "copyrightlink": "https://www.bing.com/search?q=Ara+uccello&form=hpcapt",
+            "title": "Danze tra le nuvole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_BuracodasAraras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ffe5e560ca5be3a06b4a10e6909b5fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240831",
             "fullstartdate": "202408312200",
