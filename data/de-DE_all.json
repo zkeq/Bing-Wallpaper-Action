@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-01 00:49:09",
-    "Total": 858,
+    "LastUpdate": "2024-09-02 00:48:38",
+    "Total": 859,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240901",
+            "fullstartdate": "202409012200",
+            "enddate": "20240902",
+            "url": "/th?id=OHR.BuracodasAraras_DE-DE8804802285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BuracodasAraras_DE-DE8804802285",
+            "copyright": "Rot-grüne Aras, Mato Grosso do Sul, Brasilien (© Ellen Goff/Danita Delimont)",
+            "copyrightlink": "https://www.bing.com/search?q=Ara+Papagei&form=hpcapt&filters=HpDate%3a%2220240901_2200%22",
+            "title": "Fliegende Farbexplosion",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_BuracodasAraras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb18a8e58d2fd74f04d1bb921b194735",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240831",
             "fullstartdate": "202408312200",
