@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-01 00:49:26",
-    "Total": 858,
+    "LastUpdate": "2024-09-02 00:48:56",
+    "Total": 859,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240901",
+            "fullstartdate": "202409012200",
+            "enddate": "20240902",
+            "url": "/th?id=OHR.PenitentMees_FR-FR9818550884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PenitentMees_FR-FR9818550884",
+            "copyright": "Les Pénitents des Mées, Alpes-de-Haute-Provence (© Cavalier Michel/Hemis/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Les+P%C3%A9nitents+des+M%C3%A9es&form=hpcapt&filters=HpDate%3a%2220240901_2200%22",
+            "title": "Les Géants de la Haute-Provence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_PenitentMees%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "d6b083ee0c3f60a05060dcf03aa0392f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240831",
             "fullstartdate": "202408312200",
