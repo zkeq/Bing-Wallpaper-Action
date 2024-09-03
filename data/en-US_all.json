@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-02 00:48:29",
-    "Total": 859,
+    "LastUpdate": "2024-09-03 00:48:26",
+    "Total": 860,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240902",
+            "fullstartdate": "202409020700",
+            "enddate": "20240903",
+            "url": "/th?id=OHR.KansasMural_EN-US9504361321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KansasMural_EN-US9504361321",
+            "copyright": "'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Labor+Day&form=hpcapt&filters=HpDate%3a%2220240902_0700%22",
+            "title": "Workers of the world, relax",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240902_KansasMural%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "036ea9a6a87f108e7bfb951e214882d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240901",
             "fullstartdate": "202409010700",
