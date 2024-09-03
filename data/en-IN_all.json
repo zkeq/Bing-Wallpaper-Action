@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-02 00:48:51",
-    "Total": 859,
+    "LastUpdate": "2024-09-03 00:48:48",
+    "Total": 860,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240902",
+            "fullstartdate": "202409021830",
+            "enddate": "20240903",
+            "url": "/th?id=OHR.AlpineLakes_EN-IN2610017297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineLakes_EN-IN2610017297",
+            "copyright": "Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=the+enchantments&form=hpcapt&filters=HpDate%3a%2220240902_1830%22",
+            "title": "Unspoiled beauty for all",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240902_AlpineLakes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "785e8694b93526bf67993f8ce19da34c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240901",
             "fullstartdate": "202409011830",
