@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-02 00:49:00",
-    "Total": 859,
+    "LastUpdate": "2024-09-03 00:48:57",
+    "Total": 860,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240902",
+            "fullstartdate": "202409022200",
+            "enddate": "20240903",
+            "url": "/th?id=OHR.AlpineLakes_IT-IT6756138209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineLakes_IT-IT6756138209",
+            "copyright": "Lago Crystal, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Wilderness+Act&form=hpcapt",
+            "title": "Vette incantate",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240902_AlpineLakes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0bca1c476094960396b973f112de80bc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240901",
             "fullstartdate": "202409012200",
