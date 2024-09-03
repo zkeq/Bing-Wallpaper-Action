@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-02 00:48:42",
-    "Total": 858,
+    "LastUpdate": "2024-09-03 00:48:39",
+    "Total": 859,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240902",
+            "fullstartdate": "202409020400",
+            "enddate": "20240903",
+            "url": "/th?id=OHR.ElbowRiver_EN-CA6581725556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElbowRiver_EN-CA6581725556",
+            "copyright": "Milky Way over the Elbow River in southern Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Elbow+River&form=hpcapt&filters=HpDate%3a%2220240902_0400%22",
+            "title": "The Milky Way takes a bow over Elbow River",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240902_ElbowRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "40556ddaa5277be3b7e1c757e9688da7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240901",
             "fullstartdate": "202409010400",
