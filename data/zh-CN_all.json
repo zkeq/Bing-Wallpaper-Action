@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-03 00:48:20",
-    "Total": 860,
+    "LastUpdate": "2024-09-04 00:48:18",
+    "Total": 861,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240903",
+            "fullstartdate": "202409031600",
+            "enddate": "20240904",
+            "url": "/th?id=OHR.DuskyOwls_ZH-CN4729762831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuskyOwls_ZH-CN4729762831",
+            "copyright": "乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B9%8C%E9%9B%95%E9%B8%AE&form=hpcapt&mkt=zh-cn",
+            "title": "物以类聚，人以群分",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240903_DuskyOwls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a43e340c5f3b8ac3e671737b18fa358",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240902",
             "fullstartdate": "202409021600",
