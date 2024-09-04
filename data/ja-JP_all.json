@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-03 00:48:31",
-    "Total": 860,
+    "LastUpdate": "2024-09-04 00:48:29",
+    "Total": 861,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240903",
+            "fullstartdate": "202409031500",
+            "enddate": "20240904",
+            "url": "/th?id=OHR.DuskyOwls_JA-JP6308123307_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuskyOwls_JA-JP6308123307",
+            "copyright": "ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A6%E3%82%B9%E3%82%B0%E3%83%AD%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220240903_1500%22",
+            "title": "夜のハンター",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240903_DuskyOwls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa7845430165b2c7685f1e9d472e08b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240902",
             "fullstartdate": "202409021500",
