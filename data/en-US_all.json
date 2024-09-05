@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-04 00:48:24",
-    "Total": 861,
+    "LastUpdate": "2024-09-05 00:48:27",
+    "Total": 862,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240904",
+            "fullstartdate": "202409040700",
+            "enddate": "20240905",
+            "url": "/th?id=OHR.DuskyOwls_EN-US9845705930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuskyOwls_EN-US9845705930",
+            "copyright": "Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dusky+eagle-owl&form=hpcapt&filters=HpDate%3a%2220240904_0700%22",
+            "title": "Birds of a feather hoot together",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240904_DuskyOwls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4aa576e9845ed6f6a792aadb4f5a50fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240903",
             "fullstartdate": "202409030700",
