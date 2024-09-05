@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-04 00:48:33",
-    "Total": 861,
+    "LastUpdate": "2024-09-05 00:48:36",
+    "Total": 862,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240904",
+            "fullstartdate": "202409042200",
+            "enddate": "20240905",
+            "url": "/th?id=OHR.TIFF2024_DE-DE1559469948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TIFF2024_DE-DE1559469948",
+            "copyright": "Skyline der Stadt Toronto am Ontariosee, Kanada (© Roberto Machado Noa/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Toronto+International+Film+Festival+2024&form=hpcapt&filters=HpDate%3a%2220240904_2200%22",
+            "title": "Der rote Teppich ist ausgerollt!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240904_TIFF2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58ad31d24a4f3294eae8bdda368e0f6d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240903",
             "fullstartdate": "202409032200",
