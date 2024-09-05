@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-04 00:48:46",
-    "Total": 861,
+    "LastUpdate": "2024-09-05 00:48:49",
+    "Total": 862,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240904",
+            "fullstartdate": "202409041830",
+            "enddate": "20240905",
+            "url": "/th?id=OHR.TIFF2024_EN-IN3142242773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TIFF2024_EN-IN3142242773",
+            "copyright": "Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Toronto+International+Film+Festival+2024&form=hpcapt&filters=HpDate%3a%2220240904_1830%22",
+            "title": "Lights, camera, TIFF '24!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240904_TIFF2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2010a0a1370f88986dd1db83397fbc79",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240903",
             "fullstartdate": "202409031830",
