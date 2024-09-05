@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-04 00:48:18",
-    "Total": 861,
+    "LastUpdate": "2024-09-05 00:48:21",
+    "Total": 862,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240904",
+            "fullstartdate": "202409041600",
+            "enddate": "20240905",
+            "url": "/th?id=OHR.TIFF2024_ZH-CN4896695918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TIFF2024_ZH-CN4896695918",
+            "copyright": "多伦多城市天际线,加拿大 (© Roberto Machado Noa/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=2024%E5%B9%B4%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "2024年多伦多国际电影节",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240904_TIFF2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6426e7918f20128d0abdcaa9e791a71d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240903",
             "fullstartdate": "202409031600",
