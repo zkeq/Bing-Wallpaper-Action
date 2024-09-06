@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-05 00:48:53",
-    "Total": 862,
+    "LastUpdate": "2024-09-06 00:48:53",
+    "Total": 863,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240905",
+            "fullstartdate": "202409052200",
+            "enddate": "20240906",
+            "url": "/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742",
+            "copyright": "Cabines de plage à Deauville, France (© Skayamauritius images GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Deauville&form=hpcapt&filters=HpDate%3a%2220240905_2200%22",
+            "title": "Moteur… action !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240905_AmericanDeauvilleFestival%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b02e7cac3c16f87a175479c9875940c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240904",
             "fullstartdate": "202409042200",
