@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-05 00:48:21",
-    "Total": 862,
+    "LastUpdate": "2024-09-06 00:48:21",
+    "Total": 863,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240905",
+            "fullstartdate": "202409051600",
+            "enddate": "20240906",
+            "url": "/th?id=OHR.GlenariffPark_ZH-CN4667558707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlenariffPark_ZH-CN4667558707",
+            "copyright": "古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E8%8E%B1%E7%BA%B3%E9%87%8C%E5%A4%AB%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD+&form=hpcapt&mkt=zh-cn",
+            "title": "你可曾见过此等景色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240905_GlenariffPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "923d19bc22e9772dea2458ff3ddd1e71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240904",
             "fullstartdate": "202409041600",
