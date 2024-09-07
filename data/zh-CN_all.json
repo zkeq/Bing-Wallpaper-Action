@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-06 00:48:21",
-    "Total": 863,
+    "LastUpdate": "2024-09-07 00:48:20",
+    "Total": 864,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240906",
+            "fullstartdate": "202409061600",
+            "enddate": "20240907",
+            "url": "/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCruzHummer_ZH-CN5448262039",
+            "copyright": "朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9C%B1%E7%BA%A2%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "嗡嗡作响",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240906_SantaCruzHummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed777abed45dbc578b97830aa69bba6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240905",
             "fullstartdate": "202409051600",
