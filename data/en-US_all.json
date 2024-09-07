@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-06 00:48:27",
-    "Total": 863,
+    "LastUpdate": "2024-09-07 00:48:26",
+    "Total": 864,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240906",
+            "fullstartdate": "202409060700",
+            "enddate": "20240907",
+            "url": "/th?id=OHR.GlenariffPark_EN-US3914128007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlenariffPark_EN-US3914128007",
+            "copyright": "Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Glenariff+Forest+Park+County+Antrim+Northern+Ireland&form=hpcapt&filters=HpDate%3a%2220240906_0700%22",
+            "title": "'Wood' you believe this view?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240906_GlenariffPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5b6ad1c181766bc7e9ed7958a33c68f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240905",
             "fullstartdate": "202409050700",
