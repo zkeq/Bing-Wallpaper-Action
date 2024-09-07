@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-06 00:48:48",
-    "Total": 863,
+    "LastUpdate": "2024-09-07 00:48:47",
+    "Total": 864,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240906",
+            "fullstartdate": "202409061830",
+            "enddate": "20240907",
+            "url": "/th?id=OHR.GaneshaIdol_EN-IN0545844303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GaneshaIdol_EN-IN0545844303",
+            "copyright": "Idols of Lord Ganesha for sale in Gulbai tekra, Ahmedabad (© Priti Bhatt/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ganesh+chaturthi&form=hpcapt&filters=HpDate%3a%2220240906_1830%22",
+            "title": "Crafted blessings",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240906_GaneshaIdol%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06163e3420b6cde44484e730374815a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240905",
             "fullstartdate": "202409051830",
