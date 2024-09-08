@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-07 00:48:43",
-    "Total": 862,
+    "LastUpdate": "2024-09-08 00:49:01",
+    "Total": 863,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240907",
+            "fullstartdate": "202409072300",
+            "enddate": "20240908",
+            "url": "/th?id=OHR.GreatNorthRun2024_EN-GB4101357995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreatNorthRun2024_EN-GB4101357995",
+            "copyright": "Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+North+Run&form=hpcapt&filters=HpDate%3a%2220240907_2300%22",
+            "title": "'Tyne' to shine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240907_GreatNorthRun2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a89d939dcd01a0257b1e9775e515b99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240906",
             "fullstartdate": "202409062300",
