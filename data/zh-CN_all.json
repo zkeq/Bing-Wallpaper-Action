@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-07 00:48:20",
-    "Total": 864,
+    "LastUpdate": "2024-09-08 00:48:37",
+    "Total": 865,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240907",
+            "fullstartdate": "202409071600",
+            "enddate": "20240908",
+            "url": "/th?id=OHR.Canigou_ZH-CN6145410455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Canigou_ZH-CN6145410455",
+            "copyright": "加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E9%A9%AC%E4%B8%81%E6%9D%9C%E5%8D%A1%E5%B0%BC%E5%8F%A4%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn",
+            "title": "一座千年历史的修道院",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240907_Canigou%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8d2da09470edb972a26d8fe1272c14d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240906",
             "fullstartdate": "202409061600",
