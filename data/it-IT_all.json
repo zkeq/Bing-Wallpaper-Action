@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-07 00:48:56",
-    "Total": 864,
+    "LastUpdate": "2024-09-08 00:49:15",
+    "Total": 865,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240907",
+            "fullstartdate": "202409072200",
+            "enddate": "20240908",
+            "url": "/th?id=OHR.StockholmLibrary_IT-IT4633404015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StockholmLibrary_IT-IT4633404015",
+            "copyright": "Interno della Biblioteca Pubblica di Stoccolma, Svezia (© Andrei Hrabun/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+dell%27Alfabetizzazione&form=hpcapt",
+            "title": "Il potere delle parole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240907_StockholmLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "f723055a7d12168d434c4ba5694dc133",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240906",
             "fullstartdate": "202409062200",
