@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-08 00:48:52",
-    "Total": 865,
+    "LastUpdate": "2024-09-09 00:48:49",
+    "Total": 866,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240908",
+            "fullstartdate": "202409082200",
+            "enddate": "20240909",
+            "url": "/th?id=OHR.IguazuRainbow_DE-DE8361660628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IguazuRainbow_DE-DE8361660628",
+            "copyright": "Iguazú-Wasserfälle an der Grenze zwischen Argentinien und Brasilien (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Iguazu-Wasserf%C3%A4lle&form=hpcapt&filters=HpDate%3a%2220240908_2200%22",
+            "title": "Regenbogenwellen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_IguazuRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0e77c118f4c407695425195e48767ede",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240907",
             "fullstartdate": "202409072200",
