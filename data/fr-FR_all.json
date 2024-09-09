@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-08 00:49:10",
-    "Total": 865,
+    "LastUpdate": "2024-09-09 00:49:06",
+    "Total": 866,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240908",
+            "fullstartdate": "202409082200",
+            "enddate": "20240909",
+            "url": "/th?id=OHR.IguazuRainbow_FR-FR9313574193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IguazuRainbow_FR-FR9313574193",
+            "copyright": "Chutes d'Iguazu à la frontière entre l'Argentine et le Brésil (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=chutes+d%27Iguazu&form=hpcapt&filters=HpDate%3a%2220240908_2200%22",
+            "title": "Quand les arcs-en-ciel s’en mêlent",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_IguazuRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "463cdc5d029d15b913164f99b1694127",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240907",
             "fullstartdate": "202409072200",
