@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-08 00:48:43",
-    "Total": 865,
+    "LastUpdate": "2024-09-09 00:48:40",
+    "Total": 866,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240908",
+            "fullstartdate": "202409080700",
+            "enddate": "20240909",
+            "url": "/th?id=OHR.StockholmLibrary_EN-US4140921886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StockholmLibrary_EN-US4140921886",
+            "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Literacy+Day&form=hpcapt&filters=HpDate%3a%2220240908_0700%22",
+            "title": "A global chapter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_StockholmLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "234d4c8868c34cf57141c732d8dce33e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240907",
             "fullstartdate": "202409070700",
