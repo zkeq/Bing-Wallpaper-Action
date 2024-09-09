@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-08 00:48:57",
-    "Total": 864,
+    "LastUpdate": "2024-09-09 00:48:53",
+    "Total": 865,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240908",
+            "fullstartdate": "202409080400",
+            "enddate": "20240909",
+            "url": "/th?id=OHR.StockholmLibrary_EN-CA2154287662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StockholmLibrary_EN-CA2154287662",
+            "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Literacy+Day&form=hpcapt&filters=HpDate%3a%2220240908_0400%22",
+            "title": "A global chapter Unlocking minds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_StockholmLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "299296768444caef6dbd3816caaa140c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240907",
             "fullstartdate": "202409070400",
