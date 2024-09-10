@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-09 00:49:10",
-    "Total": 866,
+    "LastUpdate": "2024-09-10 00:49:03",
+    "Total": 867,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240909",
+            "fullstartdate": "202409092200",
+            "enddate": "20240910",
+            "url": "/th?id=OHR.BridgeLisbon_IT-IT5048654702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeLisbon_IT-IT5048654702",
+            "copyright": "Ponte Vasco da Gama, Lisbona, Portogallo (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ponte+Vasco+da+Gama%2c+Lisbona%2c+Portogallo&form=hpcapt",
+            "title": "Oltre l’orizzonte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240909_BridgeLisbon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "966c6f29ad4c16fca118680b69b28870",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240908",
             "fullstartdate": "202409082200",
