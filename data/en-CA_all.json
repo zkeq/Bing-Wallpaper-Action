@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-09 00:48:53",
-    "Total": 865,
+    "LastUpdate": "2024-09-10 00:48:45",
+    "Total": 866,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240909",
+            "fullstartdate": "202409090400",
+            "enddate": "20240910",
+            "url": "/th?id=OHR.IguazuRainbow_EN-CA9747611398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IguazuRainbow_EN-CA9747611398",
+            "copyright": "Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Iguazu+falls&form=hpcapt&filters=HpDate%3a%2220240909_0400%22",
+            "title": "Rainbow waves in 'big water'",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240909_IguazuRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1dc95f789d5c69889f95b4fdef24e15c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240908",
             "fullstartdate": "202409080400",
