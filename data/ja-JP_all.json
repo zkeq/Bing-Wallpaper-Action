@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-10 00:48:37",
-    "Total": 867,
+    "LastUpdate": "2024-09-11 00:48:31",
+    "Total": 868,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240910",
+            "fullstartdate": "202409101500",
+            "enddate": "20240911",
+            "url": "/th?id=OHR.BridgeLisbon_JA-JP2510109081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BridgeLisbon_JA-JP2510109081",
+            "copyright": "ヴァスコ・ダ・ガマ橋, ポルトガル (© Achim Thomae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240910_1500%22",
+            "title": "優美な曲線を描く美しい橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240910_BridgeLisbon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4a2623d62b17c3c4799359d5f24beac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240909",
             "fullstartdate": "202409091500",
