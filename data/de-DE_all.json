@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-10 00:48:41",
-    "Total": 867,
+    "LastUpdate": "2024-09-11 00:48:36",
+    "Total": 868,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240910",
+            "fullstartdate": "202409102200",
+            "enddate": "20240911",
+            "url": "/th?id=OHR.EltzCastle_DE-DE9717708394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EltzCastle_DE-DE9717708394",
+            "copyright": "Burg Eltz, Wierschem, Rheinland-Pfalz (© Allard Schager/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Burg+Eltz&form=hpcapt&filters=HpDate%3a%2220240910_2200%22",
+            "title": "Ein Märchen aus Stein",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240910_EltzCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecf603fa0131fa5f54bff06c689ef916",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240909",
             "fullstartdate": "202409092200",
