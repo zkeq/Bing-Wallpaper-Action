@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-11 00:48:31",
-    "Total": 868,
+    "LastUpdate": "2024-09-12 00:48:39",
+    "Total": 869,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240911",
+            "fullstartdate": "202409111500",
+            "enddate": "20240912",
+            "url": "/th?id=OHR.DolphinReunion_JA-JP2887031776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolphinReunion_JA-JP2887031776",
+            "copyright": "レユニオン島付近のイルカの群れ, フランス (© Joost van Uffelen/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%AB%E3%82%AB%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220240911_1500%22",
+            "title": "海の知恵者",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240911_DolphinReunion%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "69c209a1d89e5aac7cfb1095ef82f434",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240910",
             "fullstartdate": "202409101500",
