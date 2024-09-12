@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-11 00:48:36",
-    "Total": 868,
+    "LastUpdate": "2024-09-12 00:48:43",
+    "Total": 869,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240911",
+            "fullstartdate": "202409112200",
+            "enddate": "20240912",
+            "url": "/th?id=OHR.DolphinReunion_DE-DE0331198216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolphinReunion_DE-DE0331198216",
+            "copyright": "Delfine in der Nähe der Insel Réunion, Indischer Ozean, französisches Überseegebiet (© Joost van Uffelen/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Welt-Delfin-Tag&form=hpcapt&filters=HpDate%3a%2220240911_2200%22",
+            "title": "Das Lächeln des Ozeans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240911_DolphinReunion%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95afdd82d85825aaccfd9f43f65ce5bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240910",
             "fullstartdate": "202409102200",
