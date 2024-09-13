@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-12 00:48:43",
-    "Total": 869,
+    "LastUpdate": "2024-09-13 00:48:35",
+    "Total": 870,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240912",
+            "fullstartdate": "202409122200",
+            "enddate": "20240913",
+            "url": "/th?id=OHR.SanssouciPalace_DE-DE1364639804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanssouciPalace_DE-DE1364639804",
+            "copyright": "Schloss Sanssouci, Schlosspark, Potsdam, Brandenburg (© Günter Gräfenhain/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Schloss+Sanssouci+Schlossgarten&form=hpcapt&filters=HpDate%3a%2220240912_2200%22",
+            "title": "Ein stilvoller Spaziergang",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240912_SanssouciPalace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e076caae3230e51f7ec8af3ddd44165a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240911",
             "fullstartdate": "202409112200",
