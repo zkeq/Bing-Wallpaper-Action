@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-12 00:48:28",
-    "Total": 869,
+    "LastUpdate": "2024-09-13 00:48:20",
+    "Total": 870,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240912",
+            "fullstartdate": "202409121600",
+            "enddate": "20240913",
+            "url": "/th?id=OHR.PointReyes_ZH-CN7781514086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyes_ZH-CN7781514086",
+            "copyright": "雷耶斯角国家海岸灯塔，加利福尼亚州，美国 (© RMB Images/Photography by Robert Bowman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9B%B7%E8%80%B6%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "自然与人类的天堂",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240912_PointReyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "432008a34617f85c975223861211ab2b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240911",
             "fullstartdate": "202409111600",
