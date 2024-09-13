@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-12 00:48:39",
-    "Total": 869,
+    "LastUpdate": "2024-09-13 00:48:30",
+    "Total": 870,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240912",
+            "fullstartdate": "202409121500",
+            "enddate": "20240913",
+            "url": "/th?id=OHR.PointReyes_JA-JP3284759959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyes_JA-JP3284759959",
+            "copyright": "ポイント・レイズ国定公園, 米国 カリフォルニア州 (© RMB Images/Photography by Robert Bowman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%BA%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240912_1500%22",
+            "title": "岬の突端にある灯台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240912_PointReyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "76ef7c583207843ed851939690196b29",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240911",
             "fullstartdate": "202409111500",
