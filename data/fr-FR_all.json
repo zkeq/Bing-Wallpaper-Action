@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-12 00:49:01",
-    "Total": 869,
+    "LastUpdate": "2024-09-13 00:48:53",
+    "Total": 870,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240912",
+            "fullstartdate": "202409122200",
+            "enddate": "20240913",
+            "url": "/th?id=OHR.PointReyes_FR-FR0377202822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyes_FR-FR0377202822",
+            "copyright": "Phare de l’aire côtière protégée de Point Reyes, Californie, États-Unis (© RMB Images/Photography by Robert Bowman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=aire+prot%C3%A9g%C3%A9e+point+reyes&form=hpcapt&filters=HpDate%3a%2220240912_2200%22",
+            "title": "Un havre de paix et de nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240912_PointReyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a1742d2c7cb8bee769dc2dc31d17e5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240911",
             "fullstartdate": "202409112200",
