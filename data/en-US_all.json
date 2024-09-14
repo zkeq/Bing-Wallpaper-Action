@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-13 00:48:26",
-    "Total": 870,
+    "LastUpdate": "2024-09-14 00:48:25",
+    "Total": 871,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240913",
+            "fullstartdate": "202409130700",
+            "enddate": "20240914",
+            "url": "/th?id=OHR.PointReyes_EN-US4731803211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyes_EN-US4731803211",
+            "copyright": "Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate%3a%2220240913_0700%22",
+            "title": "Finding safe haven",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240913_PointReyes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "97c53ddee1e050000db7b0a8a6318dd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240912",
             "fullstartdate": "202409120700",
