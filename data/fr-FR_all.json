@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:51",
-    "Total": 871,
+    "LastUpdate": "2024-09-15 00:49:24",
+    "Total": 872,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409142200",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.CalabriaPeperoncino_FR-FR0822253215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalabriaPeperoncino_FR-FR0822253215",
+            "copyright": "Plage d'Arco Magno, Calabre, Italie (© Alessio de Cicco/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=calabre+italie&form=hpcapt&filters=HpDate%3a%2220240914_2200%22",
+            "title": "Rouge piment et bleu azur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_CalabriaPeperoncino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98efb8a1bbac2bb543071b412c9ddbb3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409132200",
