@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:38",
-    "Total": 870,
+    "LastUpdate": "2024-09-15 00:49:10",
+    "Total": 871,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409140400",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.RapaNuiSunrise_EN-CA0278736669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RapaNuiSunrise_EN-CA0278736669",
+            "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ahu+Tongariki&form=hpcapt&filters=HpDate%3a%2220240914_0400%22",
+            "title": "Stone sentinels of Easter Island",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_RapaNuiSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e074b3b48789c127fc6e210343946146",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409130400",
