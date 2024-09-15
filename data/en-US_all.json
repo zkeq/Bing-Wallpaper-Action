@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:25",
-    "Total": 871,
+    "LastUpdate": "2024-09-15 00:48:57",
+    "Total": 872,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409140700",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.RapaNuiSunrise_EN-US4872610843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RapaNuiSunrise_EN-US4872610843",
+            "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=easter+island&form=hpcapt&filters=HpDate%3a%2220240914_0700%22",
+            "title": "Radiant Rapa Nui",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_RapaNuiSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af0fae78f23a26711586dfc703263272",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409130700",
