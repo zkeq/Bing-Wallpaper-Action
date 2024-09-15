@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:19",
-    "Total": 871,
+    "LastUpdate": "2024-09-15 00:48:51",
+    "Total": 872,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409141600",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.CalabriaPeperoncino_ZH-CN8603617212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalabriaPeperoncino_ZH-CN8603617212",
+            "copyright": "阿科马尼奥海滩，卡拉布里亚，意大利 (© Alessio de Cicco/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E6%8B%89%E5%B8%83%E9%87%8C%E4%BA%9A&form=hpcapt&mkt=zh-cn",
+            "title": "香料红和水晶蓝",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_CalabriaPeperoncino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a2334fced3acb210ca9115f2b43c15f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409131600",
