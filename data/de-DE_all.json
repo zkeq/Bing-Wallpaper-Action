@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:34",
-    "Total": 871,
+    "LastUpdate": "2024-09-15 00:49:06",
+    "Total": 872,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409142200",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101",
+            "copyright": "Strand von Arco Magno, Kalabrien, Italien (© Alessio de Cicco/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kalabrien&form=hpcapt&filters=HpDate%3a%2220240914_2200%22",
+            "title": "Kristallblau trifft Feuerrot",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_CalabriaPeperoncino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8ef8a449af542c9e78e280e42cd2f6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409132200",
