@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-14 00:48:56",
-    "Total": 871,
+    "LastUpdate": "2024-09-15 00:49:28",
+    "Total": 872,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240914",
+            "fullstartdate": "202409142200",
+            "enddate": "20240915",
+            "url": "/th?id=OHR.EltzCastle_IT-IT5701748731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EltzCastle_IT-IT5701748731",
+            "copyright": "Castello di Eltz, Renania-Palatinato, Germania (© Allard Schager/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Eltz&form=hpcapt",
+            "title": "Torri e leggende",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240914_EltzCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bf0d7eaa45fc332906c581cd247363d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240913",
             "fullstartdate": "202409132200",
