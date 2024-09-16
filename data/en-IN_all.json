@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-15 00:49:19",
-    "Total": 872,
+    "LastUpdate": "2024-09-16 00:49:03",
+    "Total": 873,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240915",
+            "fullstartdate": "202409151830",
+            "enddate": "20240916",
+            "url": "/th?id=OHR.SunriseWallabies_EN-IN8975505298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunriseWallabies_EN-IN8975505298",
+            "copyright": "Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wallaby&form=hpcapt&filters=HpDate%3a%2220240915_1830%22",
+            "title": "Hoppily ever after",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240915_SunriseWallabies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cfd36084202fdf07de93f274f51b57f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240914",
             "fullstartdate": "202409141830",
