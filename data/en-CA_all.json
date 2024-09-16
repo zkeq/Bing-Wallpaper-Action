@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-15 00:49:10",
-    "Total": 871,
+    "LastUpdate": "2024-09-16 00:48:54",
+    "Total": 872,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240915",
+            "fullstartdate": "202409150400",
+            "enddate": "20240916",
+            "url": "/th?id=OHR.OuimetCanyon_EN-CA0342113199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OuimetCanyon_EN-CA0342113199",
+            "copyright": "Ouimet Canyon near Thunder Bay (© plainpicture/Design Pics/Susan Dykstra)",
+            "copyrightlink": "https://www.bing.com/search?q=Ouimet+Canyon+Dorion&form=hpcapt&filters=HpDate%3a%2220240915_0400%22",
+            "title": "A 'gorge-ous' adventure",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240915_OuimetCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f7216e0f8cae3b07190522a167028ca8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240914",
             "fullstartdate": "202409140400",
