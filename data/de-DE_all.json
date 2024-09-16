@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-15 00:49:06",
-    "Total": 872,
+    "LastUpdate": "2024-09-16 00:48:50",
+    "Total": 873,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240915",
+            "fullstartdate": "202409152200",
+            "enddate": "20240916",
+            "url": "/th?id=OHR.SunriseWallabies_DE-DE3495794966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunriseWallabies_DE-DE3495794966",
+            "copyright": "Wallabys bei Sonnenaufgang, Adelaide River, Nordterritorium, Australien (© Jeremy Woodhouse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wallaby&form=hpcapt&filters=HpDate%3a%2220240915_2200%22",
+            "title": "Leichtfüßige Hüpfer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240915_SunriseWallabies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78de1115b1a8a948155cd0e2875c6ed6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240914",
             "fullstartdate": "202409142200",
