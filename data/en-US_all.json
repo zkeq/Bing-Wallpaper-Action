@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-15 00:48:57",
-    "Total": 872,
+    "LastUpdate": "2024-09-16 00:48:41",
+    "Total": 873,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240915",
+            "fullstartdate": "202409150700",
+            "enddate": "20240916",
+            "url": "/th?id=OHR.BalboaPark_EN-US5050015037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalboaPark_EN-US5050015037",
+            "copyright": "Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Hispanic+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220240915_0700%22",
+            "title": "Celebrating Hispanic heritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240915_BalboaPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "486f28d8374d5e2d200d9d2019de9a6a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240914",
             "fullstartdate": "202409140700",
