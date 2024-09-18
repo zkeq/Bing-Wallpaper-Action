@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-17 00:48:25",
-    "Total": 874,
+    "LastUpdate": "2024-09-18 00:48:55",
+    "Total": 875,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240917",
+            "fullstartdate": "202409172200",
+            "enddate": "20240918",
+            "url": "/th?id=OHR.GujoHachiman_FR-FR1605630102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GujoHachiman_FR-FR1605630102",
+            "copyright": "Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=chateau+de+gujo+hachiman&form=hpcapt&filters=HpDate%3a%2220240917_2200%22",
+            "title": "Le château dans les nuages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240917_GujoHachiman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "678a5f34488855e357aee8a7a0e6be1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240916",
             "fullstartdate": "202409162200",
