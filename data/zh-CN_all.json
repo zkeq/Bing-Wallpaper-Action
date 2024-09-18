@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-17 00:47:53",
-    "Total": 874,
+    "LastUpdate": "2024-09-18 00:48:23",
+    "Total": 875,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240917",
+            "fullstartdate": "202409171600",
+            "enddate": "20240918",
+            "url": "/th?id=OHR.GujoHachiman_ZH-CN9192289658_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GujoHachiman_ZH-CN9192289658",
+            "copyright": "郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%83%A1%E4%B8%8A%E5%85%AB%E5%B9%A1%E5%9F%8E&form=hpcapt&mkt=zh-cn",
+            "title": "云中之城",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240917_GujoHachiman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41edf5651326882e3249058b82013ee3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240916",
             "fullstartdate": "202409161600",
