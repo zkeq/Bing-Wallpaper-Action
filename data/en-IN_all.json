@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-17 00:48:20",
-    "Total": 874,
+    "LastUpdate": "2024-09-18 00:48:50",
+    "Total": 875,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240917",
+            "fullstartdate": "202409171830",
+            "enddate": "20240918",
+            "url": "/th?id=OHR.GujoHachiman_EN-IN9529217040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GujoHachiman_EN-IN9529217040",
+            "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gujo+Hachiman+Castle&form=hpcapt&filters=HpDate%3a%2220240917_1830%22",
+            "title": "Castle in the clouds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240917_GujoHachiman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d8289b50a2f5edc40341b722d66d496",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240916",
             "fullstartdate": "202409161830",
