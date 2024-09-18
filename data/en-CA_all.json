@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-17 00:48:12",
-    "Total": 873,
+    "LastUpdate": "2024-09-18 00:48:42",
+    "Total": 874,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240917",
+            "fullstartdate": "202409170400",
+            "enddate": "20240918",
+            "url": "/th?id=OHR.MidAutumnSingapore_EN-CA0460554285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MidAutumnSingapore_EN-CA0460554285",
+            "copyright": "Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Mid-Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220240917_0400%22",
+            "title": "Lanterns and mooncakes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240917_MidAutumnSingapore%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a4ac9f2837f7abe7c23f035eba6164c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240916",
             "fullstartdate": "202409160400",
