@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-18 00:48:38",
-    "Total": 875,
+    "LastUpdate": "2024-09-19 00:48:43",
+    "Total": 876,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240918",
+            "fullstartdate": "202409182200",
+            "enddate": "20240919",
+            "url": "/th?id=OHR.PiratePlayground_DE-DE1271475836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PiratePlayground_DE-DE1271475836",
+            "copyright": "Spielplatz am Leuchtturm Obereversand in Dorum-Neufeld, Deutschland (© INGO WAGNER/DPA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sprich-wie-ein-Pirat-Tag&form=hpcapt&filters=HpDate%3a%2220240918_2200%22",
+            "title": "An Deck, ihr Landratten!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240918_PiratePlayground%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7190d910b61c2bcb50504939abe40e64",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240917",
             "fullstartdate": "202409172200",
