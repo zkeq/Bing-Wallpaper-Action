@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-18 00:48:33",
-    "Total": 875,
+    "LastUpdate": "2024-09-19 00:48:38",
+    "Total": 876,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240918",
+            "fullstartdate": "202409181500",
+            "enddate": "20240919",
+            "url": "/th?id=OHR.PiratePlayground_JA-JP8924583087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PiratePlayground_JA-JP8924583087",
+            "copyright": "船の遊具で海賊ごっごを楽しむ子供たち, ドイツ (© INGO WAGNER/DPA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E8%B3%8A%E5%8F%A3%E8%AA%BF%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220240918_1500%22",
+            "title": "今日は世界海賊口調日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240918_PiratePlayground%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "69533a12168915d7a28d874ecd320178",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240917",
             "fullstartdate": "202409171500",
