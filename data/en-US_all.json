@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-19 00:48:34",
-    "Total": 876,
+    "LastUpdate": "2024-09-20 00:48:32",
+    "Total": 877,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240919",
+            "fullstartdate": "202409190700",
+            "enddate": "20240920",
+            "url": "/th?id=OHR.PiratePlayground_EN-US3254868743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PiratePlayground_EN-US3254868743",
+            "copyright": "Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Talk+Like+a+Pirate+Day&form=hpcapt&filters=HpDate%3a%2220240919_0700%22",
+            "title": "Avast, landlubbers!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240919_PiratePlayground%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e4efebbb9b9b9d28b8076e5dca876a12",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240918",
             "fullstartdate": "202409180700",
