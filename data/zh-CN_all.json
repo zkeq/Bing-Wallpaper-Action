@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-19 00:48:28",
-    "Total": 876,
+    "LastUpdate": "2024-09-20 00:48:26",
+    "Total": 877,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240919",
+            "fullstartdate": "202409191600",
+            "enddate": "20240920",
+            "url": "/th?id=OHR.OcracokeLight_ZH-CN9810840077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcracokeLight_ZH-CN9810840077",
+            "copyright": "奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E5%85%8B%E6%8B%89%E7%A7%91%E5%85%8B%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "海盗的最终归宿",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240919_OcracokeLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec7cd07d90a2bbde11d12b0ab51a5faa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240918",
             "fullstartdate": "202409181600",
