@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-19 00:48:38",
-    "Total": 876,
+    "LastUpdate": "2024-09-20 00:48:37",
+    "Total": 877,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240919",
+            "fullstartdate": "202409191500",
+            "enddate": "20240920",
+            "url": "/th?id=OHR.OcracokeLight_JA-JP0600038027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcracokeLight_JA-JP0600038027",
+            "copyright": "オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%82%AF%E3%83%A9%E3%82%B3%E3%83%BC%E3%82%AF%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240919_1500%22",
+            "title": "白亜のオクラコーク灯台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240919_OcracokeLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f8a79f7406079d5d1617b3e576c9f24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240918",
             "fullstartdate": "202409181500",
