@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-20 00:48:26",
-    "Total": 877,
+    "LastUpdate": "2024-09-21 00:48:38",
+    "Total": 878,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240920",
+            "fullstartdate": "202409201600",
+            "enddate": "20240921",
+            "url": "/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MunichBeerfest_ZH-CN0304560562",
+            "copyright": "Oktoberfest in Munich at sunset (© AllesSuper21/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%85%95%E5%B0%BC%E9%BB%91%E5%95%A4%E9%85%92%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "为慕尼黑啤酒节干杯！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_MunichBeerfest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0dd9196bea1f5fb38255468b1b2409ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240919",
             "fullstartdate": "202409191600",
