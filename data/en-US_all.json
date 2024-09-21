@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-20 00:48:32",
-    "Total": 877,
+    "LastUpdate": "2024-09-21 00:48:44",
+    "Total": 878,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240920",
+            "fullstartdate": "202409200700",
+            "enddate": "20240921",
+            "url": "/th?id=OHR.OcracokeLight_EN-US3638306974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcracokeLight_EN-US3638306974",
+            "copyright": "Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ocracoke+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240920_0700%22",
+            "title": "Light dawns on Ocracoke",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_OcracokeLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3e912627c0fa1bac77efe1793ecfcbe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240919",
             "fullstartdate": "202409190700",
