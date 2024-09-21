@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-20 00:48:37",
-    "Total": 877,
+    "LastUpdate": "2024-09-21 00:48:48",
+    "Total": 878,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240920",
+            "fullstartdate": "202409201500",
+            "enddate": "20240921",
+            "url": "/th?id=OHR.MunichBeerfest_JA-JP0799044795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MunichBeerfest_JA-JP0799044795",
+            "copyright": "夕暮れのテレージエンヴィーゼ, ドイツ バイエルン州 (© AllesSuper21/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%86%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BC&form=hpcapt&filters=HpDate%3a%2220240920_1500%22",
+            "title": "今日からミュンヘンのオクトーバーフェスト",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_MunichBeerfest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a5b8d311ea5a450e12947d6e5f7bb95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240919",
             "fullstartdate": "202409191500",
