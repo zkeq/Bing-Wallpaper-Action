@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-20 00:49:02",
-    "Total": 877,
+    "LastUpdate": "2024-09-21 00:49:15",
+    "Total": 878,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240920",
+            "fullstartdate": "202409202200",
+            "enddate": "20240921",
+            "url": "/th?id=OHR.MunichBeerfest_IT-IT3943225360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MunichBeerfest_IT-IT3943225360",
+            "copyright": "Oktoberfest a Monaco di Baviera, Germania (© AllesSuper21/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt",
+            "title": "Alla salute!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_MunichBeerfest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cb8a50a22c4247a10f5478808f2329a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240919",
             "fullstartdate": "202409192200",
