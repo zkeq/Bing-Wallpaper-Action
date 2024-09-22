@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-21 00:49:10",
-    "Total": 878,
+    "LastUpdate": "2024-09-22 00:49:12",
+    "Total": 879,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240921",
+            "fullstartdate": "202409212200",
+            "enddate": "20240922",
+            "url": "/th?id=OHR.AutumnCumbria_FR-FR5040860299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCumbria_FR-FR5040860299",
+            "copyright": "Buttermere, Parc national du Lake District, Angleterre, Royaume-Uni (© Alan Novelli/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=automne+saison&form=hpcapt&filters=HpDate%3a%2220240921_2200%22",
+            "title": "Symphonie de couleurs automnales",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240921_AutumnCumbria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a12c8b59e8da7a24cebf3041e7fa33a2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240920",
             "fullstartdate": "202409202200",
