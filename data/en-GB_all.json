@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-21 00:49:02",
-    "Total": 876,
+    "LastUpdate": "2024-09-22 00:49:03",
+    "Total": 877,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240921",
+            "fullstartdate": "202409212300",
+            "enddate": "20240922",
+            "url": "/th?id=OHR.AutumnCumbria_EN-GB0937833138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCumbria_EN-GB0937833138",
+            "copyright": "Buttermere, Lake District National Park, England (© Alan Novelli/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220240921_2300%22",
+            "title": "Mirror, mirror on the lake",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240921_AutumnCumbria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4357878ecfc5fea27d4a6204ddfcb7bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240920",
             "fullstartdate": "202409202300",
