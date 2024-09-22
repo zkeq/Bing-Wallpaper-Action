@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-21 00:48:57",
-    "Total": 877,
+    "LastUpdate": "2024-09-22 00:48:59",
+    "Total": 878,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240921",
+            "fullstartdate": "202409210400",
+            "enddate": "20240922",
+            "url": "/th?id=OHR.MunichBeerfest_EN-CA0865675708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MunichBeerfest_EN-CA0865675708",
+            "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=oktoberfest&form=hpcapt&filters=HpDate%3a%2220240921_0400%22",
+            "title": "Prost to Oktoberfest!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240921_MunichBeerfest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a072fe3c5c4f0cff0b764492bdbe01b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240920",
             "fullstartdate": "202409200400",
