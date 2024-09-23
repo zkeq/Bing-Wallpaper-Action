@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-22 00:49:12",
-    "Total": 879,
+    "LastUpdate": "2024-09-23 00:49:04",
+    "Total": 880,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240922",
+            "fullstartdate": "202409222200",
+            "enddate": "20240923",
+            "url": "/th?id=OHR.IcebergOtter_FR-FR6372895513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergOtter_FR-FR6372895513",
+            "copyright": "Loutre de mer, baie de Prince William Sound, Alaska, États-Unis (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=loutre+de+mer&form=hpcapt&filters=HpDate%3a%2220240922_2200%22",
+            "title": "La gardienne des océans",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240922_IcebergOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78d0fb95f421023e007835b536800f1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240921",
             "fullstartdate": "202409212200",
