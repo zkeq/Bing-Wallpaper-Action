@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-22 00:48:54",
-    "Total": 879,
+    "LastUpdate": "2024-09-23 00:48:47",
+    "Total": 880,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240922",
+            "fullstartdate": "202409222200",
+            "enddate": "20240923",
+            "url": "/th?id=OHR.IcebergOtter_DE-DE4856944180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergOtter_DE-DE4856944180",
+            "copyright": "Seeotter, Prince-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Seeotter&form=hpcapt&filters=HpDate%3a%2220240922_2200%22",
+            "title": "Frostige Freude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240922_IcebergOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "be2a28fe483440d40c3465b67f370320",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240921",
             "fullstartdate": "202409212200",
