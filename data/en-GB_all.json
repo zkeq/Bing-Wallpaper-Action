@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-22 00:49:03",
-    "Total": 877,
+    "LastUpdate": "2024-09-23 00:48:55",
+    "Total": 878,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240922",
+            "fullstartdate": "202409222300",
+            "enddate": "20240923",
+            "url": "/th?id=OHR.IcebergOtter_EN-GB1302406748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergOtter_EN-GB1302406748",
+            "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+otters&form=hpcapt&filters=HpDate%3a%2220240922_2300%22",
+            "title": "Otter-ly amazing",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240922_IcebergOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b5fa4059642b8a1a90633158c0efdae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240921",
             "fullstartdate": "202409212300",
