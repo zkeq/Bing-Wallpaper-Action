@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-24 00:49:07",
-    "Total": 881,
+    "LastUpdate": "2024-09-25 00:49:06",
+    "Total": 882,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240924",
+            "fullstartdate": "202409242200",
+            "enddate": "20240925",
+            "url": "/th?id=OHR.GiantSequoias_FR-FR6286299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantSequoias_FR-FR6286299520",
+            "copyright": "Séquoias géants, parc national de Sequoia, Californie, États-Unis (© Galyna Andrushko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+de+sequoia+californie&form=hpcapt&filters=HpDate%3a%2220240924_2200%22",
+            "title": "Le royaume des géants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240924_GiantSequoias%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "418387f4befd9456d58ab57790bf17e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240923",
             "fullstartdate": "202409232200",
