@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-24 00:49:11",
-    "Total": 881,
+    "LastUpdate": "2024-09-25 00:49:10",
+    "Total": 882,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240924",
+            "fullstartdate": "202409242200",
+            "enddate": "20240925",
+            "url": "/th?id=OHR.FestivalMedioevo_IT-IT1145169158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivalMedioevo_IT-IT1145169158",
+            "copyright": "Montone, Umbria, Italia (© Davide Seddio/Gettz Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Montone+Umbria&form=hpcapt",
+            "title": "Sentinella del Medioevo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240924_FestivalMedioevo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "976c662cbdbf2155c298476bc343afc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240923",
             "fullstartdate": "202409232200",
