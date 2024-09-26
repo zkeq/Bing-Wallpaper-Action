@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-25 00:48:45",
-    "Total": 882,
+    "LastUpdate": "2024-09-26 00:48:42",
+    "Total": 883,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240925",
+            "fullstartdate": "202409251500",
+            "enddate": "20240926",
+            "url": "/th?id=OHR.LittleToucanet_JA-JP2193126707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LittleToucanet_JA-JP2193126707",
+            "copyright": "ロス・ケツァーレス国立公園, コスタリカ (© Oscar Dominguez/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Blue-throated+toucanet&form=hpcapt&filters=HpDate%3a%2220240925_1500%22",
+            "title": "青い喉を持つ美しい鳥",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240925_LittleToucanet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ba4fac144f309bb6276cb87d5ff70d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240924",
             "fullstartdate": "202409241500",
