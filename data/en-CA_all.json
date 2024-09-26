@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-25 00:48:53",
-    "Total": 881,
+    "LastUpdate": "2024-09-26 00:48:52",
+    "Total": 882,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240925",
+            "fullstartdate": "202409250400",
+            "enddate": "20240926",
+            "url": "/th?id=OHR.GiantSequoias_EN-CA0725943426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantSequoias_EN-CA0725943426",
+            "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Sequoia+National+Park&form=hpcapt&filters=HpDate%3a%2220240925_0400%22",
+            "title": "The realm of ancient giants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240925_GiantSequoias%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b1cfefa1324eabfbc6a91463f013b98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240924",
             "fullstartdate": "202409240400",
