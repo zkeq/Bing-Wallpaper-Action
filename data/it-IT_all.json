@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-25 00:49:10",
-    "Total": 882,
+    "LastUpdate": "2024-09-26 00:49:10",
+    "Total": 883,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240925",
+            "fullstartdate": "202409252200",
+            "enddate": "20240926",
+            "url": "/th?id=OHR.WindRiverAlaska_IT-IT8914553087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WindRiverAlaska_IT-IT8914553087",
+            "copyright": "Fiume Wind, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
+            "copyrightlink": "https://www.bing.com/search?q=L%27Arctic+National+Wildlife+Refuge+(ANWR)+%C3%A8+un%27area+naturale&form=hpcapt",
+            "title": "Acqua e Aurora",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240925_WindRiverAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12e60c3aec47a093d265858e471492dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240924",
             "fullstartdate": "202409242200",
