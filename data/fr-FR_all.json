@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-26 00:49:05",
-    "Total": 883,
+    "LastUpdate": "2024-09-27 00:49:05",
+    "Total": 884,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240926",
+            "fullstartdate": "202409262200",
+            "enddate": "20240927",
+            "url": "/th?id=OHR.VeniceAerial_FR-FR6953765883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceAerial_FR-FR6953765883",
+            "copyright": "Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Maria+della+Salute+italie&form=hpcapt&filters=HpDate%3a%2220240926_2200%22",
+            "title": "La ville aux reflets éternels",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240926_VeniceAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f850b79286377c7af57b7faaf2cb9336",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240925",
             "fullstartdate": "202409252200",
