@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-26 00:48:42",
-    "Total": 883,
+    "LastUpdate": "2024-09-27 00:48:44",
+    "Total": 884,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240926",
+            "fullstartdate": "202409261500",
+            "enddate": "20240927",
+            "url": "/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YokohamaBridge2024_JA-JP2381649830",
+            "copyright": "夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A8%AA%E6%B5%9C%E3%83%99%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220240926_1500%22",
+            "title": "今日は横浜ベイブリッジ開通日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240926_YokohamaBridge2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "391aecdbe13a08e381c67dc227a06280",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240925",
             "fullstartdate": "202409251500",
