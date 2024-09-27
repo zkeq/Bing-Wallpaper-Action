@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-26 00:48:56",
-    "Total": 881,
+    "LastUpdate": "2024-09-27 00:48:56",
+    "Total": 882,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240926",
+            "fullstartdate": "202409262300",
+            "enddate": "20240927",
+            "url": "/th?id=OHR.VeniceAerial_EN-GB6264202474_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceAerial_EN-GB6264202474",
+            "copyright": "Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Maria+della+Salute&form=hpcapt&filters=HpDate%3a%2220240926_2300%22",
+            "title": "Above the floating city",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240926_VeniceAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf352cb6872253a88310e75cc83bb388",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240925",
             "fullstartdate": "202409252300",
