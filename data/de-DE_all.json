@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-26 00:48:47",
-    "Total": 883,
+    "LastUpdate": "2024-09-27 00:48:48",
+    "Total": 884,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240926",
+            "fullstartdate": "202409262200",
+            "enddate": "20240927",
+            "url": "/th?id=OHR.VeniceAerial_DE-DE9588219063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceAerial_DE-DE9588219063",
+            "copyright": "Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Maria+della+Salute&form=hpcapt&filters=HpDate%3a%2220240926_2200%22",
+            "title": "Götter über den Kanälen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240926_VeniceAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "405111c9ef9b1261e0e0ff399180871b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240925",
             "fullstartdate": "202409252200",
