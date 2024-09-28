@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-27 00:48:34",
-    "Total": 884,
+    "LastUpdate": "2024-09-28 00:48:29",
+    "Total": 885,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240927",
+            "fullstartdate": "202409271600",
+            "enddate": "20240928",
+            "url": "/th?id=OHR.FloridaSeashore_ZH-CN4671838639_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloridaSeashore_ZH-CN4671838639",
+            "copyright": "日出时的海滩，海湾岛国家海岸，佛罗里达，美国 (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E6%B9%BE%E5%B2%9B%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "海湾群岛的光芒",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240927_FloridaSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dc2ac4d8f535a6c6ffd9ba5921d4dccb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240926",
             "fullstartdate": "202409261600",
