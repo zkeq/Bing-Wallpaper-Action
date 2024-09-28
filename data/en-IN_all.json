@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-27 00:49:01",
-    "Total": 884,
+    "LastUpdate": "2024-09-28 00:48:57",
+    "Total": 885,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240927",
+            "fullstartdate": "202409271830",
+            "enddate": "20240928",
+            "url": "/th?id=OHR.FloridaSeashore_EN-IN2946245730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FloridaSeashore_EN-IN2946245730",
+            "copyright": "Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Gulf+Islands+National+Seashore&form=hpcapt&filters=HpDate%3a%2220240927_1830%22",
+            "title": "Gulf Islands glow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240927_FloridaSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66c5126edd4bafb203c8aed52e74293c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240926",
             "fullstartdate": "202409261830",
