@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-27 00:48:44",
-    "Total": 884,
+    "LastUpdate": "2024-09-28 00:48:39",
+    "Total": 885,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240927",
+            "fullstartdate": "202409271500",
+            "enddate": "20240928",
+            "url": "/th?id=OHR.VeniceAerial_JA-JP2627608079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceAerial_JA-JP2627608079",
+            "copyright": "サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%83%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%AB%E3%83%BC%E3%83%86%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220240927_1500%22",
+            "title": "上空から見た聖堂と運河",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240927_VeniceAerial%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ac8fc51a3e0f061c901a38b92a855881",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240926",
             "fullstartdate": "202409261500",
