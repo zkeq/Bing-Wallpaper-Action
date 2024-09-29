@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-28 00:48:39",
-    "Total": 885,
+    "LastUpdate": "2024-09-29 00:48:57",
+    "Total": 886,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240928",
+            "fullstartdate": "202409281500",
+            "enddate": "20240929",
+            "url": "/th?id=OHR.ConnecticutBridge_JA-JP2803321025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConnecticutBridge_JA-JP2803321025",
+            "copyright": "コーンウォール, 米国 コネチカット州 (© pabradyphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%AE%E5%B1%8B%E6%A0%B9%E4%BB%98%E3%81%8D%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240928_1500%22",
+            "title": "鮮やかな赤い屋根付き橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240928_ConnecticutBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "920015a1f3d45876ab409f4621feefb9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240927",
             "fullstartdate": "202409271500",
