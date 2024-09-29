@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-28 00:48:44",
-    "Total": 885,
+    "LastUpdate": "2024-09-29 00:49:02",
+    "Total": 886,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240928",
+            "fullstartdate": "202409282200",
+            "enddate": "20240929",
+            "url": "/th?id=OHR.ConnecticutBridge_DE-DE5467033007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConnecticutBridge_DE-DE5467033007",
+            "copyright": "West Cornwall Covered Bridge über den Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Housatonic+River+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220240928_2200%22",
+            "title": "Brücken vereinen, Flüsse begleiten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240928_ConnecticutBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a17fa44500d1fcbe8454cfc0f4c46871",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240927",
             "fullstartdate": "202409272200",
