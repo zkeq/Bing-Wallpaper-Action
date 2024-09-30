@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-29 00:48:53",
-    "Total": 886,
+    "LastUpdate": "2024-09-30 00:48:51",
+    "Total": 887,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240929",
+            "fullstartdate": "202409290700",
+            "enddate": "20240930",
+            "url": "/th?id=OHR.ConnecticutBridge_EN-US4557226937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConnecticutBridge_EN-US4557226937",
+            "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=West+Cornwall+Covered+Bridge+Housatonic+River&form=hpcapt&filters=HpDate%3a%2220240929_0700%22",
+            "title": "Connecting Connecticut",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240929_ConnecticutBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78956fb072c210ab4842d6a1a20ccdd1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240928",
             "fullstartdate": "202409280700",
