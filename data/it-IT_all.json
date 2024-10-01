@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-30 00:49:22",
-    "Total": 887,
+    "LastUpdate": "2024-10-01 00:49:25",
+    "Total": 888,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240930",
+            "fullstartdate": "202409302200",
+            "enddate": "20241001",
+            "url": "/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalfDomeYosemite_IT-IT2723116418",
+            "copyright": "Half Dome, Parco Nazionale di Yosemite, California, USA (© Adam Burton/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Half+Dome+Parco+Nazionale+di+Yosemite&form=hpcapt",
+            "title": "Nuvole e rocce?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240930_HalfDomeYosemite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "404bef349d35fd663e2e713437640d89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240929",
             "fullstartdate": "202409292200",
