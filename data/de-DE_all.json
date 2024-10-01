@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-09-30 00:49:00",
-    "Total": 887,
+    "LastUpdate": "2024-10-01 00:49:04",
+    "Total": 888,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20240930",
+            "fullstartdate": "202409302200",
+            "enddate": "20241001",
+            "url": "/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HalfDomeYosemite_DE-DE5765529355",
+            "copyright": "Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Half+Dome%2c+Yosemite-National-Park%2c+Kalifornien&form=hpcapt&filters=HpDate%3a%2220240930_2200%22",
+            "title": "Im Schatten des Giganten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240930_HalfDomeYosemite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c56b173a5671a6092dabe1d4a9bb1a62",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240929",
             "fullstartdate": "202409292200",
