@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-01 00:49:00",
-    "Total": 888,
+    "LastUpdate": "2024-10-02 00:48:42",
+    "Total": 889,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241001",
+            "fullstartdate": "202410011500",
+            "enddate": "20241002",
+            "url": "/th?id=OHR.WindRiverAlaska_JA-JP3464622657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WindRiverAlaska_JA-JP3464622657",
+            "copyright": "北極野生生物国家保護区, 米国 アラスカ州 (© Design Pics/Danita Delimont)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%A5%B5%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E5%9B%BD%E5%AE%B6%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220241001_1500%22",
+            "title": "河川が流れる広大なツンドラ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241001_WindRiverAlaska%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f05659728d738be1ec0cd212d265027",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20240930",
             "fullstartdate": "202409301500",
