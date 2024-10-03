@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-02 00:49:08",
-    "Total": 889,
+    "LastUpdate": "2024-10-03 00:49:04",
+    "Total": 890,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241002",
+            "fullstartdate": "202410022200",
+            "enddate": "20241003",
+            "url": "/th?id=OHR.TajMahalReflection_IT-IT1242921978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TajMahalReflection_IT-IT1242921978",
+            "copyright": "Taj Mahal ad Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Taj+Mahal&form=hpcapt",
+            "title": "Gesta d’amore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241002_TajMahalReflection%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3eebb418a59de550f03e7a6979816cda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241001",
             "fullstartdate": "202410012200",
