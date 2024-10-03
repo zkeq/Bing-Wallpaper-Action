@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-02 00:48:55",
-    "Total": 887,
+    "LastUpdate": "2024-10-03 00:48:51",
+    "Total": 888,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241002",
+            "fullstartdate": "202410022300",
+            "enddate": "20241003",
+            "url": "/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629",
+            "copyright": "Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Poetry+Day&form=hpcapt&filters=HpDate%3a%2220241002_2300%22",
+            "title": "Verse and vision",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241002_NationalPoetryDay2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1c1afef3d2e69a2f2ce6c9adaab430da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241001",
             "fullstartdate": "202410012300",
