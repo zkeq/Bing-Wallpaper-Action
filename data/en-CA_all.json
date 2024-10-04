@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-03 00:48:47",
-    "Total": 889,
+    "LastUpdate": "2024-10-04 00:48:55",
+    "Total": 890,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241003",
+            "fullstartdate": "202410030400",
+            "enddate": "20241004",
+            "url": "/th?id=OHR.TajMahalReflection_EN-CA5616417702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TajMahalReflection_EN-CA5616417702",
+            "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Taj+Mahal&form=hpcapt&filters=HpDate%3a%2220241003_0400%22",
+            "title": "Grand gesture of love",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241003_TajMahalReflection%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e6873236ad50cb06287ea4bc4c557e9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241002",
             "fullstartdate": "202410020400",
