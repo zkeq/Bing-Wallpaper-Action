@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-03 00:48:42",
-    "Total": 890,
+    "LastUpdate": "2024-10-04 00:48:51",
+    "Total": 891,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241003",
+            "fullstartdate": "202410032200",
+            "enddate": "20241004",
+            "url": "/th?id=OHR.EuropaMoon_DE-DE7966877532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EuropaMoon_DE-DE7966877532",
+            "copyright": "Jupiters Eismond Europa (© NASA/JPL-Caltech/SETI Institute)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltraumwoche&form=hpcapt&filters=HpDate%3a%2220241003_2200%22",
+            "title": "Ein eisiger Mond",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241003_EuropaMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce16d3b7e84ae7d0e6335bf1d6fc13e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241002",
             "fullstartdate": "202410022200",
