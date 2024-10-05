@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-04 00:48:36",
-    "Total": 891,
+    "LastUpdate": "2024-10-05 00:48:26",
+    "Total": 892,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241004",
+            "fullstartdate": "202410041600",
+            "enddate": "20241005",
+            "url": "/th?id=OHR.ElephantTeacher_ZH-CN0543308499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTeacher_ZH-CN0543308499",
+            "copyright": "东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%95%99%E5%B8%88%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "跟着老师走！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241004_ElephantTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a94400a0c6827692103d58ecaf714844",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241003",
             "fullstartdate": "202410031600",
