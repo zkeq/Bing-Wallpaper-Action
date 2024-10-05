@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-04 00:49:08",
-    "Total": 891,
+    "LastUpdate": "2024-10-05 00:48:58",
+    "Total": 892,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241004",
+            "fullstartdate": "202410042200",
+            "enddate": "20241005",
+            "url": "/th?id=OHR.ElephantTeacher_FR-FR9412681522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTeacher_FR-FR9412681522",
+            "copyright": "Éléphants d'Afrique dans le parc national de Tsavo East, Kenya (© Neil Bowman/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+enseignants&form=hpcapt&filters=HpDate%3a%2220241004_2200%22",
+            "title": "Les bâtisseurs de l'avenir",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241004_ElephantTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d50b111ab3a723b65c480be63619f88",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241003",
             "fullstartdate": "202410032200",
