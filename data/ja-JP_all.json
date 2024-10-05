@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-04 00:48:46",
-    "Total": 891,
+    "LastUpdate": "2024-10-05 00:48:36",
+    "Total": 892,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241004",
+            "fullstartdate": "202410041500",
+            "enddate": "20241005",
+            "url": "/th?id=OHR.ElephantTeacher_JA-JP4940024317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTeacher_JA-JP4940024317",
+            "copyright": "ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%84%E3%82%A1%E3%83%9C%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%BE%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241004_1500%22",
+            "title": "今日は世界教師デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241004_ElephantTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50f87ac53ef298bdf4d0998141267f3e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241003",
             "fullstartdate": "202410031500",
