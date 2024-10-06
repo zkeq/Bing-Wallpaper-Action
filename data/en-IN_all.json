@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-05 00:48:54",
-    "Total": 892,
+    "LastUpdate": "2024-10-06 00:49:18",
+    "Total": 893,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241005",
+            "fullstartdate": "202410051830",
+            "enddate": "20241006",
+            "url": "/th?id=OHR.CoyoteGulch_EN-IN7315826699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoyoteGulch_EN-IN7315826699",
+            "copyright": "Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Coyote+Gulch&form=hpcapt&filters=HpDate%3a%2220241005_1830%22",
+            "title": "Golden glimpses",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241005_CoyoteGulch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "db37ebd9011402c491888dde8153b4a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241004",
             "fullstartdate": "202410041830",
