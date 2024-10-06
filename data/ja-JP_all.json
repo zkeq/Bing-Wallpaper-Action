@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-05 00:48:36",
-    "Total": 892,
+    "LastUpdate": "2024-10-06 00:49:00",
+    "Total": 893,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241005",
+            "fullstartdate": "202410051500",
+            "enddate": "20241006",
+            "url": "/th?id=OHR.KochiaJapan_JA-JP5196113182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KochiaJapan_JA-JP5196113182",
+            "copyright": "国営ひたち海浜公園, 茨城県 ひたちなか市 (© DigiPub/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E5%96%B6%E3%81%B2%E3%81%9F%E3%81%A1%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241005_1500%22",
+            "title": "真っ赤なコキア",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241005_KochiaJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35e833c321e73d17f47794cb778cda72",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241004",
             "fullstartdate": "202410041500",
