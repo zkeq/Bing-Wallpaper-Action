@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-05 00:48:58",
-    "Total": 892,
+    "LastUpdate": "2024-10-06 00:49:23",
+    "Total": 893,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241005",
+            "fullstartdate": "202410052200",
+            "enddate": "20241006",
+            "url": "/th?id=OHR.CoyoteGulch_FR-FR9860829479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoyoteGulch_FR-FR9860829479",
+            "copyright": "Peuplier deltoïdes, sentier de Coyote Gulch, Glen Canyon Recreation Area, Utah, États-Unis (© Stephen Matera/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=sentier+de+Coyote+Gulch&form=hpcapt&filters=HpDate%3a%2220241005_2200%22",
+            "title": "Sentier mythique au cœur du Glen Canyon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241005_CoyoteGulch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a6f573e57b780c5ffb421dd899fe09ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241004",
             "fullstartdate": "202410042200",
