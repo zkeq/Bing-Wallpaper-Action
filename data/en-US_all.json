@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-05 00:48:32",
-    "Total": 892,
+    "LastUpdate": "2024-10-06 00:48:56",
+    "Total": 893,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241005",
+            "fullstartdate": "202410050700",
+            "enddate": "20241006",
+            "url": "/th?id=OHR.ElephantTeacher_EN-US8363933732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantTeacher_EN-US8363933732",
+            "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220241005_0700%22",
+            "title": "Follow the teacher!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241005_ElephantTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c3040ed5cd77c8b1abd0f46f911a20ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241004",
             "fullstartdate": "202410040700",
