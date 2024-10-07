@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-06 00:48:56",
-    "Total": 893,
+    "LastUpdate": "2024-10-07 00:48:44",
+    "Total": 894,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241006",
+            "fullstartdate": "202410060700",
+            "enddate": "20241007",
+            "url": "/th?id=OHR.SoranoItaly_EN-US2208208147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SoranoItaly_EN-US2208208147",
+            "copyright": "Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=sorano+tuscany&form=hpcapt&filters=HpDate%3a%2220241006_0700%22",
+            "title": "The stone town of Tuscany",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241006_SoranoItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee375f0481222683970e7a6b9f80c690",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241005",
             "fullstartdate": "202410050700",
