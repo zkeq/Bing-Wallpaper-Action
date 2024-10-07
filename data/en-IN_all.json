@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-06 00:49:18",
-    "Total": 893,
+    "LastUpdate": "2024-10-07 00:49:05",
+    "Total": 894,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241006",
+            "fullstartdate": "202410061830",
+            "enddate": "20241007",
+            "url": "/th?id=OHR.ElbePhilharmonic_EN-IN7738424525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElbePhilharmonic_EN-IN7738424525",
+            "copyright": "The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Elbphilharmonie&form=hpcapt&filters=HpDate%3a%2220241006_1830%22",
+            "title": "A day for blueprints and beyond",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241006_ElbePhilharmonic%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "8e0191cf5ae9223bbca5fc001aeb6f88",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241005",
             "fullstartdate": "202410051830",
