@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-07 00:49:01",
-    "Total": 892,
+    "LastUpdate": "2024-10-08 00:48:54",
+    "Total": 893,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241007",
+            "fullstartdate": "202410072300",
+            "enddate": "20241008",
+            "url": "/th?id=OHR.MototiOctopus_EN-GB7709724340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MototiOctopus_EN-GB7709724340",
+            "copyright": "Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220241007_2300%22",
+            "title": "Ocean's eight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241007_MototiOctopus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d8f586c7ab019c6f3a4caf6fa2f9b55",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241006",
             "fullstartdate": "202410062300",
