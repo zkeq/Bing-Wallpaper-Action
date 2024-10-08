@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-07 00:48:57",
-    "Total": 893,
+    "LastUpdate": "2024-10-08 00:48:49",
+    "Total": 894,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241007",
+            "fullstartdate": "202410070400",
+            "enddate": "20241008",
+            "url": "/th?id=OHR.ElbePhilharmonic_EN-CA1458789835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElbePhilharmonic_EN-CA1458789835",
+            "copyright": "The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Architecture+Day&form=hpcapt&filters=HpDate%3a%2220241007_0400%22",
+            "title": "A day for blueprints and beyond",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241007_ElbePhilharmonic%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "36b20396a6fcd284dba08885409c69fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241006",
             "fullstartdate": "202410060400",
