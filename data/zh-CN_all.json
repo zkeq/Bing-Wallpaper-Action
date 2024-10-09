@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-08 00:48:30",
-    "Total": 895,
+    "LastUpdate": "2024-10-09 00:48:33",
+    "Total": 896,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241008",
+            "fullstartdate": "202410081600",
+            "enddate": "20241009",
+            "url": "/th?id=OHR.AspensColorado_ZH-CN0132780533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AspensColorado_ZH-CN0132780533",
+            "copyright": "马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn",
+            "title": "色彩斑斓的秋天",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241008_AspensColorado%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4aff13040459411b2ca5233af7e8445",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241007",
             "fullstartdate": "202410071600",
