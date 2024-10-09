@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-08 00:48:54",
-    "Total": 893,
+    "LastUpdate": "2024-10-09 00:48:56",
+    "Total": 894,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241008",
+            "fullstartdate": "202410082300",
+            "enddate": "20241009",
+            "url": "/th?id=OHR.AspensColorado_EN-GB2371416593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AspensColorado_EN-GB2371416593",
+            "copyright": "Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Aspen+tree&form=hpcapt&filters=HpDate%3a%2220241008_2300%22",
+            "title": "Colorado in full colour",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241008_AspensColorado%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de9f96f3958f80dc9c300289c4ba794d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241007",
             "fullstartdate": "202410072300",
