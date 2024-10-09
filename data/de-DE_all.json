@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-08 00:48:45",
-    "Total": 895,
+    "LastUpdate": "2024-10-09 00:48:47",
+    "Total": 896,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241008",
+            "fullstartdate": "202410082200",
+            "enddate": "20241009",
+            "url": "/th?id=OHR.PotsdamerPlatzBerlin_DE-DE6566333403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PotsdamerPlatzBerlin_DE-DE6566333403",
+            "copyright": "Potsdamer Platz in Berlin (© franckreporter/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Potsdamer+Platz&form=hpcapt&filters=HpDate%3a%2220241008_2200%22",
+            "title": "Zwischen Himmel und Hölle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241008_PotsdamerPlatzBerlin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b8a1ae6785baf48e9fc464b20400963",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241007",
             "fullstartdate": "202410072200",
