@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-09 00:48:39",
-    "Total": 896,
+    "LastUpdate": "2024-10-10 00:48:37",
+    "Total": 897,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241009",
+            "fullstartdate": "202410090700",
+            "enddate": "20241010",
+            "url": "/th?id=OHR.AspensColorado_EN-US9105602602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AspensColorado_EN-US9105602602",
+            "copyright": "Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Aspen+tree&form=hpcapt&filters=HpDate%3a%2220241009_0700%22",
+            "title": "Colorado in full color",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241009_AspensColorado%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "450613e87d79a49ce9ede25b58f1ce97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241008",
             "fullstartdate": "202410080700",
