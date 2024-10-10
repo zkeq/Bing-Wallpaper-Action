@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-09 00:48:33",
-    "Total": 896,
+    "LastUpdate": "2024-10-10 00:48:31",
+    "Total": 897,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241009",
+            "fullstartdate": "202410091600",
+            "enddate": "20241010",
+            "url": "/th?id=OHR.SoranoItaly_ZH-CN5842160079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SoranoItaly_ZH-CN5842160079",
+            "copyright": "索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B4%A2%E6%8B%89%E8%AF%BA%E5%B8%82&form=hpcapt&mkt=zh-cn",
+            "title": "托斯卡纳的石头小镇",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241009_SoranoItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0628ea8f15958a12590caa3d471c2791",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241008",
             "fullstartdate": "202410081600",
