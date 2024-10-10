@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-09 00:49:04",
-    "Total": 896,
+    "LastUpdate": "2024-10-10 00:49:04",
+    "Total": 897,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241009",
+            "fullstartdate": "202410092200",
+            "enddate": "20241010",
+            "url": "/th?id=OHR.SoranoItaly_FR-FR2493523171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SoranoItaly_FR-FR2493523171",
+            "copyright": "Sorano, Toscane, Italie (© Luigi Vaccarella/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Sorano+italie&form=hpcapt&filters=HpDate%3a%2220241009_2200%22",
+            "title": "Échappée médiévale en Toscane",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241009_SoranoItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3c829c7916dab25b89c0c7e807c14c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241008",
             "fullstartdate": "202410082200",
