@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-10 00:48:59",
-    "Total": 897,
+    "LastUpdate": "2024-10-11 00:49:03",
+    "Total": 898,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241010",
+            "fullstartdate": "202410101830",
+            "enddate": "20241011",
+            "url": "/th?id=OHR.QuebecDuck_EN-IN6498950304_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecDuck_EN-IN6498950304",
+            "copyright": "Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wood+duck&form=hpcapt&filters=HpDate%3a%2220241010_1830%22",
+            "title": "Winging it across continents",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241010_QuebecDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2972a9f46f5e1f3775fbb53d613c080",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241009",
             "fullstartdate": "202410091830",
