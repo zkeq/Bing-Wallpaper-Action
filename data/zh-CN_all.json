@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-11 00:48:37",
-    "Total": 898,
+    "LastUpdate": "2024-10-12 00:48:25",
+    "Total": 899,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241011",
+            "fullstartdate": "202410111600",
+            "enddate": "20241012",
+            "url": "/th?id=OHR.QuebecDuck_ZH-CN0588954873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecDuck_ZH-CN0588954873",
+            "copyright": "林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9E%97%E9%B8%B3%E9%B8%AF&form=hpcapt&mkt=zh-cn",
+            "title": "飞越各大洲",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241011_QuebecDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a89b7d00c125d0bd6977f723b6087390",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241010",
             "fullstartdate": "202410101600",
