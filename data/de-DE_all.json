@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-11 00:48:51",
-    "Total": 898,
+    "LastUpdate": "2024-10-12 00:48:39",
+    "Total": 899,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241011",
+            "fullstartdate": "202410112200",
+            "enddate": "20241012",
+            "url": "/th?id=OHR.QuebecDuck_DE-DE2140613391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecDuck_DE-DE2140613391",
+            "copyright": "Brautente, Quebec, Kanada (© Maxime Riendeau/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Brautente&form=hpcapt&filters=HpDate%3a%2220241011_2200%22",
+            "title": "Im Reisefieber",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241011_QuebecDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "40c0537422de02c1b658ff8fc7199076",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241010",
             "fullstartdate": "202410102200",
