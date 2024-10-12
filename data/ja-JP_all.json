@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-11 00:48:47",
-    "Total": 898,
+    "LastUpdate": "2024-10-12 00:48:35",
+    "Total": 899,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241011",
+            "fullstartdate": "202410111500",
+            "enddate": "20241012",
+            "url": "/th?id=OHR.QuebecDuck_JA-JP7270367085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuebecDuck_JA-JP7270367085",
+            "copyright": "アメリカオシ, カナダ ケベック州 (© Maxime Riendeau/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%AA%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220241011_1500%22",
+            "title": "今日は「世界渡り鳥の日」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241011_QuebecDuck%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7dc93a781ff742714a402f641186d4af",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241010",
             "fullstartdate": "202410101500",
