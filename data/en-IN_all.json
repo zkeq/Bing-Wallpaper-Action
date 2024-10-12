@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-11 00:49:03",
-    "Total": 898,
+    "LastUpdate": "2024-10-12 00:48:53",
+    "Total": 899,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241011",
+            "fullstartdate": "202410111830",
+            "enddate": "20241012",
+            "url": "/th?id=OHR.DussehraMysore_EN-IN0426603332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DussehraMysore_EN-IN0426603332",
+            "copyright": "Mysuru Palace during Dasara, Karnataka (© Fameleaf Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mysore+dasara&form=hpcapt&filters=HpDate%3a%2220241011_1830%22",
+            "title": "Under a thousand lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241011_DussehraMysore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2678b3526f97f59491403ab1c1c09258",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241010",
             "fullstartdate": "202410101830",
