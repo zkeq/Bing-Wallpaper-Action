@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-12 00:48:53",
-    "Total": 899,
+    "LastUpdate": "2024-10-13 00:49:11",
+    "Total": 900,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241012",
+            "fullstartdate": "202410121830",
+            "enddate": "20241013",
+            "url": "/th?id=OHR.AlcazarSeville_EN-IN3915163511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlcazarSeville_EN-IN3915163511",
+            "copyright": "Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alcazar+of+Seville&form=hpcapt&filters=HpDate%3a%2220241012_1830%22",
+            "title": "The splendour of Seville",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241012_AlcazarSeville%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77bfbbaca8da0a44b4d1789271bfb2e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241011",
             "fullstartdate": "202410111830",
