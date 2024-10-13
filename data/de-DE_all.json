@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-12 00:48:39",
-    "Total": 899,
+    "LastUpdate": "2024-10-13 00:48:58",
+    "Total": 900,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241012",
+            "fullstartdate": "202410122200",
+            "enddate": "20241013",
+            "url": "/th?id=OHR.AlcazarSeville_DE-DE3041524458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlcazarSeville_DE-DE3041524458",
+            "copyright": "Innenhof der Jungfrauen, Alcázar von Sevilla, Spanien (© Danny Lehman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alc%C3%A1zar+Sevilla&form=hpcapt&filters=HpDate%3a%2220241012_2200%22",
+            "title": "1000 und eine Nacht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241012_AlcazarSeville%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f63edbdbdafc5e8ebbe0ed16137e691",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241011",
             "fullstartdate": "202410112200",
