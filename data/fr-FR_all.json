@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-15 01:15:26",
-    "Total": 902,
+    "LastUpdate": "2024-10-16 00:49:09",
+    "Total": 903,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241015",
+            "fullstartdate": "202410152200",
+            "enddate": "20241016",
+            "url": "/th?id=OHR.FossilsDorset_FR-FR6425876617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FossilsDorset_FR-FR6425876617",
+            "copyright": "Fossiles de bélemnites et d'ammonites, côte jurassique, Dorset, Royaume-Uni (© Nature Picture Library/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=fossile&form=hpcapt&filters=HpDate%3a%2220241015_2200%22",
+            "title": "Dévoiler le passé",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241015_FossilsDorset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23575f7973738417a16c7f2d4dc12b0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241014",
             "fullstartdate": "202410142200",
