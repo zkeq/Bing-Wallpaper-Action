@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-16 00:48:56",
-    "Total": 902,
+    "LastUpdate": "2024-10-17 00:48:47",
+    "Total": 903,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241016",
+            "fullstartdate": "202410160400",
+            "enddate": "20241017",
+            "url": "/th?id=OHR.FossilsDorset_EN-CA8526505485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FossilsDorset_EN-CA8526505485",
+            "copyright": "Fossils of belemnites and ammonites, Jurassic Coast, Dorset, United Kingdom (© Nature Picture Library/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Jurassic+Coast+Dorset&form=hpcapt&filters=HpDate%3a%2220241016_0400%22",
+            "title": "Unearthing the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241016_FossilsDorset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4a7631f1ed83e9a40652c67996e2b6a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241015",
             "fullstartdate": "202410150400",
