@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-16 00:48:52",
-    "Total": 903,
+    "LastUpdate": "2024-10-17 00:48:43",
+    "Total": 904,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241016",
+            "fullstartdate": "202410162200",
+            "enddate": "20241017",
+            "url": "/th?id=OHR.KochiaJapan_DE-DE4546575583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KochiaJapan_DE-DE4546575583",
+            "copyright": "Sommerzypressen, Präfektur Ibaraki, Japan (© DigiPub/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sommerzypresse+&form=hpcapt&filters=HpDate%3a%2220241016_2200%22",
+            "title": "Japanisches Flammenmeer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241016_KochiaJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "def70ed1fabfa0018f232b821fbdb31b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241015",
             "fullstartdate": "202410152200",
