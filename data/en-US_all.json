@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-16 00:48:43",
-    "Total": 903,
+    "LastUpdate": "2024-10-17 00:48:34",
+    "Total": 904,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241016",
+            "fullstartdate": "202410160700",
+            "enddate": "20241017",
+            "url": "/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FossilsDorset_EN-US9782204825",
+            "copyright": "Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220241016_0700%22",
+            "title": "Unearthing the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241016_FossilsDorset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4b6e0b9fc909be0fdc81cc674e4ec58",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241015",
             "fullstartdate": "202410150700",
