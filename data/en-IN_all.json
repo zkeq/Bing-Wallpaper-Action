@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-16 00:49:05",
-    "Total": 903,
+    "LastUpdate": "2024-10-17 00:48:56",
+    "Total": 904,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241016",
+            "fullstartdate": "202410161830",
+            "enddate": "20241017",
+            "url": "/th?id=OHR.KochiaJapan_EN-IN5650335355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KochiaJapan_EN-IN5650335355",
+            "copyright": "Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kochia+herb&form=hpcapt&filters=HpDate%3a%2220241016_1830%22",
+            "title": "Rolling into fall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241016_KochiaJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3886a86dda8d472115e36340b0aaa8eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241015",
             "fullstartdate": "202410151830",
