@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-17 00:49:00",
-    "Total": 904,
+    "LastUpdate": "2024-10-18 00:49:01",
+    "Total": 905,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241017",
+            "fullstartdate": "202410172200",
+            "enddate": "20241018",
+            "url": "/th?id=OHR.CentralParkAutumn_FR-FR5749913554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CentralParkAutumn_FR-FR5749913554",
+            "copyright": "Automne à Central Park, Manhattan, New York, États-Unis (© mapman/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=central+park+new+york+&form=hpcapt&filters=HpDate%3a%2220241017_2200%22",
+            "title": "New York en habits d’automne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241017_CentralParkAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df3c171e29c74ed158251f76de075eaa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241016",
             "fullstartdate": "202410162200",
