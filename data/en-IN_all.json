@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-17 00:48:56",
-    "Total": 904,
+    "LastUpdate": "2024-10-18 00:48:57",
+    "Total": 905,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241017",
+            "fullstartdate": "202410171830",
+            "enddate": "20241018",
+            "url": "/th?id=OHR.CentralParkAutumn_EN-IN5680267984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CentralParkAutumn_EN-IN5680267984",
+            "copyright": "Autumn in Central Park, Manhattan, New York, USA (© mapman/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Central+Park+in+autumn&form=hpcapt&filters=HpDate%3a%2220241017_1830%22",
+            "title": "Fall in the Mall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241017_CentralParkAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81df97dc04bddb1df9b2a2886134d0f1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241016",
             "fullstartdate": "202410161830",
