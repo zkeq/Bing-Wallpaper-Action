@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-17 00:48:28",
-    "Total": 904,
+    "LastUpdate": "2024-10-18 00:48:29",
+    "Total": 905,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241017",
+            "fullstartdate": "202410171600",
+            "enddate": "20241018",
+            "url": "/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CentralParkAutumn_ZH-CN2757358246",
+            "copyright": "曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9B%BC%E5%93%88%E9%A1%BF%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "邂逅秋日的林荫道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241017_CentralParkAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50c2a6c8dd56f351078a528a3814bb4a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241016",
             "fullstartdate": "202410161600",
