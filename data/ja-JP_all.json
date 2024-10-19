@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-18 00:48:39",
-    "Total": 905,
+    "LastUpdate": "2024-10-19 00:48:40",
+    "Total": 906,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241018",
+            "fullstartdate": "202410181500",
+            "enddate": "20241019",
+            "url": "/th?id=OHR.DenderaTemple_JA-JP4353072440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DenderaTemple_JA-JP4353072440",
+            "copyright": "ハトホル神殿, エジプト ケナ県 (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%88%E3%83%9B%E3%83%AB%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220241018_1500%22",
+            "title": "今日は国際考古学の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241018_DenderaTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c01b385e2852dad88ad9417a2be0b79e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241017",
             "fullstartdate": "202410171500",
