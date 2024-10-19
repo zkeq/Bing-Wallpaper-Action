@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-18 00:48:35",
-    "Total": 905,
+    "LastUpdate": "2024-10-19 00:48:35",
+    "Total": 906,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241018",
+            "fullstartdate": "202410180700",
+            "enddate": "20241019",
+            "url": "/th?id=OHR.CentralParkAutumn_EN-US2354288950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CentralParkAutumn_EN-US2354288950",
+            "copyright": "Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Central+Park+in+autumn&form=hpcapt&filters=HpDate%3a%2220241018_0700%22",
+            "title": "Falling for Central Park",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241018_CentralParkAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "499af36a77b78d3c31c9ffe7586ee1b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241017",
             "fullstartdate": "202410170700",
