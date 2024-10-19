@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-18 00:49:01",
-    "Total": 905,
+    "LastUpdate": "2024-10-19 00:49:02",
+    "Total": 906,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241018",
+            "fullstartdate": "202410182200",
+            "enddate": "20241019",
+            "url": "/th?id=OHR.DenderaTemple_FR-FR5972566058_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DenderaTemple_FR-FR5972566058",
+            "copyright": "Temple d'Hathor, complexe du temple de Dendera, Qena, Égypte (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Temple+d%27Hathor&form=hpcapt&filters=HpDate%3a%2220241018_2200%22",
+            "title": "Dévoiler la grandeur du passé",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241018_DenderaTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "80b64a99ca8be11ea0741a9926b3f208",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241017",
             "fullstartdate": "202410172200",
