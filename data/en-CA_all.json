@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-18 00:48:48",
-    "Total": 904,
+    "LastUpdate": "2024-10-19 00:48:49",
+    "Total": 905,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241018",
+            "fullstartdate": "202410180400",
+            "enddate": "20241019",
+            "url": "/th?id=OHR.JasperDark_EN-CA8643042761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JasperDark_EN-CA8643042761",
+            "copyright": "The Milky Way above Pyramid Lake, Jasper National Park, Alberta, Canada (© Salted Fish Studio/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park&form=hpcapt&filters=HpDate%3a%2220241018_0400%22",
+            "title": "Stars above, stillness below",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241018_JasperDark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53141600b78e492c8a80be325f6978e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241017",
             "fullstartdate": "202410170400",
