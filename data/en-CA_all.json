@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-19 00:48:49",
-    "Total": 905,
+    "LastUpdate": "2024-10-20 00:49:12",
+    "Total": 906,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241019",
+            "fullstartdate": "202410190400",
+            "enddate": "20241020",
+            "url": "/th?id=OHR.DenderaTemple_EN-CA1538664812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DenderaTemple_EN-CA1538664812",
+            "copyright": "Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220241019_0400%22",
+            "title": "Uncovering the past for the present",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241019_DenderaTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd4d8a78ccb2d0b7237a631d722c780a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241018",
             "fullstartdate": "202410180400",
