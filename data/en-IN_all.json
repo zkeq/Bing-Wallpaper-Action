@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-19 00:48:57",
-    "Total": 906,
+    "LastUpdate": "2024-10-20 00:49:21",
+    "Total": 907,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241019",
+            "fullstartdate": "202410191830",
+            "enddate": "20241020",
+            "url": "/th?id=OHR.SmilingSloth_EN-IN6528412181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmilingSloth_EN-IN6528412181",
+            "copyright": "Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220241019_1830%22",
+            "title": "Hanging in there",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241019_SmilingSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8b3698e35c99cefe65932f035d2dfe49",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241018",
             "fullstartdate": "202410181830",
