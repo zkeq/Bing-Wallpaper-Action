@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-19 00:48:40",
-    "Total": 906,
+    "LastUpdate": "2024-10-20 00:49:03",
+    "Total": 907,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241019",
+            "fullstartdate": "202410191500",
+            "enddate": "20241020",
+            "url": "/th?id=OHR.SmilingSloth_JA-JP4479144213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmilingSloth_JA-JP4479144213",
+            "copyright": "木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9C%A8%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220241019_1500%22",
+            "title": "今日は国際ナマケモノデー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241019_SmilingSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcd5e4bbc7e0d15344ae4af9e1b0ebe0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241018",
             "fullstartdate": "202410181500",
