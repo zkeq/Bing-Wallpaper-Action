@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-19 00:48:44",
-    "Total": 906,
+    "LastUpdate": "2024-10-20 00:49:08",
+    "Total": 907,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241019",
+            "fullstartdate": "202410192200",
+            "enddate": "20241020",
+            "url": "/th?id=OHR.SmilingSloth_DE-DE3423910925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmilingSloth_DE-DE3423910925",
+            "copyright": "Dreizehenfaultier in Costa Rica (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Faultiers&form=hpcapt&filters=HpDate%3a%2220241019_2200%22",
+            "title": "Cool abhängen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241019_SmilingSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7333afc027707828aee4916db0dd095c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241018",
             "fullstartdate": "202410182200",
