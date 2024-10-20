@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-19 00:48:29",
-    "Total": 906,
+    "LastUpdate": "2024-10-20 00:48:53",
+    "Total": 907,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241019",
+            "fullstartdate": "202410191600",
+            "enddate": "20241020",
+            "url": "/th?id=OHR.SmilingSloth_ZH-CN4646662964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmilingSloth_ZH-CN4646662964",
+            "copyright": "哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%A0%91%E6%87%92%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "坚持住",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241019_SmilingSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "418070a3009520b329fcfe0ffb863dc5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241018",
             "fullstartdate": "202410181600",
