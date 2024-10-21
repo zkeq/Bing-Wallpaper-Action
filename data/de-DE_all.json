@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-20 00:49:08",
-    "Total": 907,
+    "LastUpdate": "2024-10-21 00:48:50",
+    "Total": 908,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241020",
+            "fullstartdate": "202410202200",
+            "enddate": "20241021",
+            "url": "/th?id=OHR.GermanyBaldeneyseeFall_DE-DE3538373815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GermanyBaldeneyseeFall_DE-DE3538373815",
+            "copyright": "Herbstbäume am Baldeneysee, NRW (© Simon Perez/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Baldeneysee&form=hpcapt&filters=HpDate%3a%2220241020_2200%22",
+            "title": "Goldene Momente",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241020_GermanyBaldeneyseeFall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2df7cb25e8bdb68817e2eac26068f9f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241019",
             "fullstartdate": "202410192200",
