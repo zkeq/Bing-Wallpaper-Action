@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-20 00:48:53",
-    "Total": 907,
+    "LastUpdate": "2024-10-21 00:48:35",
+    "Total": 908,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241020",
+            "fullstartdate": "202410201600",
+            "enddate": "20241021",
+            "url": "/th?id=OHR.AutumnCypress_ZH-CN5099875619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCypress_ZH-CN5099875619",
+            "copyright": "乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B9%94%E6%B2%BB%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "在秋天里傲然挺立",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241020_AutumnCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "29e4ae67b9ae4e6443abb662ae40ec24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241019",
             "fullstartdate": "202410191600",
