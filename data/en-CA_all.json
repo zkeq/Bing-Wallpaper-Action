@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-21 00:48:54",
-    "Total": 907,
+    "LastUpdate": "2024-10-22 00:48:52",
+    "Total": 908,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241021",
+            "fullstartdate": "202410210400",
+            "enddate": "20241022",
+            "url": "/th?id=OHR.AutumnCypress_EN-CA3476365850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCypress_EN-CA3476365850",
+            "copyright": "Cypress trees in George L. Smith State Park, Georgia, USA (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=George+L+Smith+State+Park&form=hpcapt&filters=HpDate%3a%2220241021_0400%22",
+            "title": "Standing tall in fall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241021_AutumnCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "535657f4164a0d8056a5586dd7cba2b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241020",
             "fullstartdate": "202410200400",
