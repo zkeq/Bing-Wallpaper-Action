@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-22 00:48:52",
-    "Total": 908,
+    "LastUpdate": "2024-10-23 00:48:50",
+    "Total": 909,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241022",
+            "fullstartdate": "202410220400",
+            "enddate": "20241023",
+            "url": "/th?id=OHR.MonsterDoor_EN-CA3833144484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonsterDoor_EN-CA3833144484",
+            "copyright": "Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rome&form=hpcapt&filters=HpDate%3a%2220241022_0400%22",
+            "title": "Fearsome façade",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241022_MonsterDoor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0fb66dc6b86709c0e37cc8183b45d654",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241021",
             "fullstartdate": "202410210400",
