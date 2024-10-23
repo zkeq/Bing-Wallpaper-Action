@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-22 00:48:34",
-    "Total": 909,
+    "LastUpdate": "2024-10-23 00:48:30",
+    "Total": 910,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241022",
+            "fullstartdate": "202410221600",
+            "enddate": "20241023",
+            "url": "/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadameSherriCastle_ZH-CN8101580548",
+            "copyright": "雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E7%BD%95%E5%B8%83%E4%BB%80%E5%B0%94%E5%B7%9E&form=hpcapt&mkt=zh-cn",
+            "title": "无处可去的阶梯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241022_MadameSherriCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f1f6b2d8f40a236bed0cf2e3a7e9789c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241021",
             "fullstartdate": "202410211600",
