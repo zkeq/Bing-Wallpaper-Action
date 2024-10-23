@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-22 00:49:05",
-    "Total": 909,
+    "LastUpdate": "2024-10-23 00:49:03",
+    "Total": 910,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241022",
+            "fullstartdate": "202410222200",
+            "enddate": "20241023",
+            "url": "/th?id=OHR.MadameSherriCastle_FR-FR1984816895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadameSherriCastle_FR-FR1984816895",
+            "copyright": "Forêt de Madame Sherri et vestiges d'un ancien château, New Hampshire, États-Unis (© yggdrasill/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Hampshire%2c+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220241022_2200%22",
+            "title": "Un escalier vers nulle part",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241022_MadameSherriCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d63b92693ea55e61b161770af5a9acbc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241021",
             "fullstartdate": "202410212200",
