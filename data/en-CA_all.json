@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-23 00:48:50",
-    "Total": 909,
+    "LastUpdate": "2024-10-24 00:48:52",
+    "Total": 910,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241023",
+            "fullstartdate": "202410230400",
+            "enddate": "20241024",
+            "url": "/th?id=OHR.MadameSherriCastle_EN-CA4239046959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadameSherriCastle_EN-CA4239046959",
+            "copyright": "Madame Sherri Forest and the remnant of an old castle, New Hampshire, USA (© yggdrasill/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Hampshire&form=hpcapt&filters=HpDate%3a%2220241023_0400%22",
+            "title": "Stairway to nowhere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241023_MadameSherriCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a64446ec1715fbecff5a21c3682928fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241022",
             "fullstartdate": "202410220400",
