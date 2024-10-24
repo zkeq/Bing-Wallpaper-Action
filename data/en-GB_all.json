@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-23 00:48:54",
-    "Total": 908,
+    "LastUpdate": "2024-10-24 00:48:56",
+    "Total": 909,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241023",
+            "fullstartdate": "202410232300",
+            "enddate": "20241024",
+            "url": "/th?id=OHR.BodieCalifornia_EN-GB1752364687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BodieCalifornia_EN-GB1752364687",
+            "copyright": "Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Bodie+State+Historic+Park&form=hpcapt&filters=HpDate%3a%2220241023_2300%22",
+            "title": "Ghosts of the gold rush",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241023_BodieCalifornia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a33584dfaa088d935d00f8a0922a346b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241022",
             "fullstartdate": "202410222300",
