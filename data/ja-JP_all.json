@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-24 00:48:44",
-    "Total": 911,
+    "LastUpdate": "2024-10-25 00:48:48",
+    "Total": 912,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241024",
+            "fullstartdate": "202410241500",
+            "enddate": "20241025",
+            "url": "/th?id=OHR.MontBlancMassif_JA-JP5454742573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontBlancMassif_JA-JP5454742573",
+            "copyright": "シャモニー, フランス (© Simon Schöpf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%8B%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220241024_1500%22",
+            "title": "雲海に浮かぶ山々",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241024_MontBlancMassif%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "86e1afa88b010a68f567264c587a311f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241023",
             "fullstartdate": "202410231500",
