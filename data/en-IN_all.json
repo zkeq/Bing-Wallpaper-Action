@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-24 00:49:01",
-    "Total": 911,
+    "LastUpdate": "2024-10-25 00:49:05",
+    "Total": 912,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241024",
+            "fullstartdate": "202410241830",
+            "enddate": "20241025",
+            "url": "/th?id=OHR.GoldenTempleIN_EN-IN0200918572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenTempleIN_EN-IN0200918572",
+            "copyright": "Golden Temple at dusk, Amritsar (© Vincent Boisvert, all right reserved/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Temple&form=hpcapt&filters=HpDate%3a%2220241024_1830%22",
+            "title": "A timeless glow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241024_GoldenTempleIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "563b964d26fb51cdf9e308e788a0cf65",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241023",
             "fullstartdate": "202410231830",
