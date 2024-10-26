@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-25 00:49:09",
-    "Total": 912,
+    "LastUpdate": "2024-10-26 00:48:59",
+    "Total": 913,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241025",
+            "fullstartdate": "202410252200",
+            "enddate": "20241026",
+            "url": "/th?id=OHR.DaylightOrsay_FR-FR6504936679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DaylightOrsay_FR-FR6504936679",
+            "copyright": "Vue de Paris à travers l'horloge géante du Musée d'Orsay, Paris (© Bruce Beck/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=passage+heure&form=hpcapt&filters=HpDate%3a%2220241025_2200%22",
+            "title": "Il est l’heure du changement d’heure !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241025_DaylightOrsay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "45b26a74df9901e73a32e7162fa854f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241024",
             "fullstartdate": "202410242200",
