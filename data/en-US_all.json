@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-25 00:48:43",
-    "Total": 912,
+    "LastUpdate": "2024-10-26 00:48:33",
+    "Total": 913,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241025",
+            "fullstartdate": "202410250700",
+            "enddate": "20241026",
+            "url": "/th?id=OHR.MontBlancMassif_EN-US3284638409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontBlancMassif_EN-US3284638409",
+            "copyright": "The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Frankenstein+novel&form=hpcapt&filters=HpDate%3a%2220241025_0700%22",
+            "title": "The heights of horror",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241025_MontBlancMassif%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "05512334afbc91d8d0d638dcadf24a54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241024",
             "fullstartdate": "202410240700",
