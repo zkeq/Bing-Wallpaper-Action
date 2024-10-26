@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-25 00:48:52",
-    "Total": 912,
+    "LastUpdate": "2024-10-26 00:48:41",
+    "Total": 913,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241025",
+            "fullstartdate": "202410252200",
+            "enddate": "20241026",
+            "url": "/th?id=OHR.GhostForest_DE-DE7650231907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GhostForest_DE-DE7650231907",
+            "copyright": "Gespensterwald, Nienhagen, Mecklenburg-Vorpommern (© mauritius images GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Nienhagen+Mecklenburg-Vorpommern&form=hpcapt&filters=HpDate%3a%2220241025_2200%22",
+            "title": "Achtung Gespenster!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241025_GhostForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ea700fcd045f6ba8e27042e0671afcc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241024",
             "fullstartdate": "202410242200",
