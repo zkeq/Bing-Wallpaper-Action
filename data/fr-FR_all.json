@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-26 00:48:59",
-    "Total": 913,
+    "LastUpdate": "2024-10-27 00:49:16",
+    "Total": 914,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241026",
+            "fullstartdate": "202410262300",
+            "enddate": "20241027",
+            "url": "/th?id=OHR.PolarBearHug_FR-FR4269390170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearHug_FR-FR4269390170",
+            "copyright": "Ourse polaire avec son ourson, Churchill, Manitoba, Canada (© Design Pics/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220241026_2300%22",
+            "title": "Rien ne vaut un gros câlin !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241026_PolarBearHug%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4e771c8c3fb8583bbced3bce6652bb47",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241025",
             "fullstartdate": "202410252200",
