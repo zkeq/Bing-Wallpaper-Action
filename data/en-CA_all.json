@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-26 00:48:46",
-    "Total": 912,
+    "LastUpdate": "2024-10-27 00:49:02",
+    "Total": 913,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241026",
+            "fullstartdate": "202410260400",
+            "enddate": "20241027",
+            "url": "/th?id=OHR.GhostForest_EN-CA5302994217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GhostForest_EN-CA5302994217",
+            "copyright": "Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Nienhagen+Mecklenburg+Western+Pomerania&form=hpcapt&filters=HpDate%3a%2220241026_0400%22",
+            "title": "Mysterious woods by the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241026_GhostForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbeecae3be14b380f2d24fb3ea83acaf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241025",
             "fullstartdate": "202410250400",
