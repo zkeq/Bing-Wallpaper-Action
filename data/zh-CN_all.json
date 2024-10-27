@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-26 00:48:27",
-    "Total": 913,
+    "LastUpdate": "2024-10-27 00:48:43",
+    "Total": 914,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241026",
+            "fullstartdate": "202410261600",
+            "enddate": "20241027",
+            "url": "/th?id=OHR.PolarBearHug_ZH-CN0696077546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearHug_ZH-CN0696077546",
+            "copyright": "北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "寒风中的温情",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241026_PolarBearHug%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d99f4034a19fbc4d8e96d189dfcffb4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241025",
             "fullstartdate": "202410251600",
