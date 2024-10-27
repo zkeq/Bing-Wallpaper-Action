@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-26 00:48:33",
-    "Total": 913,
+    "LastUpdate": "2024-10-27 00:48:49",
+    "Total": 914,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241026",
+            "fullstartdate": "202410260700",
+            "enddate": "20241027",
+            "url": "/th?id=OHR.GhostForest_EN-US3389955484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GhostForest_EN-US3389955484",
+            "copyright": "Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=gespensterwald+germany&form=hpcapt&filters=HpDate%3a%2220241026_0700%22",
+            "title": "Into the woods",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241026_GhostForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25bcacfe5391d51e798763c2b42d9759",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241025",
             "fullstartdate": "202410250700",
