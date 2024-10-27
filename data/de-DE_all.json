@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-26 00:48:41",
-    "Total": 913,
+    "LastUpdate": "2024-10-27 00:48:58",
+    "Total": 914,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241026",
+            "fullstartdate": "202410262200",
+            "enddate": "20241027",
+            "url": "/th?id=OHR.PolarBearHug_DE-DE3605401727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearHug_DE-DE3605401727",
+            "copyright": "Eisbär mit Jungtier, Churchill, Manitoba, Kanada (© Design Pics/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Eisb%C3%A4r&form=hpcapt&filters=HpDate%3a%2220241026_2200%22",
+            "title": "Eine bärige Umarmung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241026_PolarBearHug%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99462c73673401ffe930e8c2ca28dade",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241025",
             "fullstartdate": "202410252200",
