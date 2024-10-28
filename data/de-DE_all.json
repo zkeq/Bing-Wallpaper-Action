@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-27 00:48:58",
-    "Total": 914,
+    "LastUpdate": "2024-10-28 00:48:57",
+    "Total": 915,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241027",
+            "fullstartdate": "202410272300",
+            "enddate": "20241028",
+            "url": "/th?id=OHR.PumpkinMist_DE-DE2695575540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinMist_DE-DE2695575540",
+            "copyright": "Kürbisfeld, Victoria, British Columbia, Kanada (© Shaun Cunningham/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%BCrbis&form=hpcapt&filters=HpDate%3a%2220241027_2300%22",
+            "title": "Die Zeit ist reif!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241027_PumpkinMist%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d750f7c8968d909d42da8b4491a4175f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241026",
             "fullstartdate": "202410262200",
