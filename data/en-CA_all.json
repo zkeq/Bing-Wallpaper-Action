@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-27 00:49:02",
-    "Total": 913,
+    "LastUpdate": "2024-10-28 00:49:02",
+    "Total": 914,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241027",
+            "fullstartdate": "202410270400",
+            "enddate": "20241028",
+            "url": "/th?id=OHR.PolarBearHug_EN-CA5661955284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearHug_EN-CA5661955284",
+            "copyright": "Polar bear with cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220241027_0400%22",
+            "title": "A mother's warmth in the cold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241027_PolarBearHug%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36442f90598ee2029d11b71f132aa9d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241026",
             "fullstartdate": "202410260400",
