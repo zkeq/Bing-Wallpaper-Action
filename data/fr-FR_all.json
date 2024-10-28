@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-27 00:49:16",
-    "Total": 914,
+    "LastUpdate": "2024-10-28 00:49:15",
+    "Total": 915,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241027",
+            "fullstartdate": "202410272300",
+            "enddate": "20241028",
+            "url": "/th?id=OHR.PumpkinMist_FR-FR4008635206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinMist_FR-FR4008635206",
+            "copyright": "Champ de citrouilles, Victoria, Colombie-Britannique, Canada (© Shaun Cunningham/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=citrouille&form=hpcapt&filters=HpDate%3a%2220241027_2300%22",
+            "title": "L’automne en citrouilles à Victoria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241027_PumpkinMist%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b9283b78fb4ddf6c19d60088f32e2dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241026",
             "fullstartdate": "202410262300",
