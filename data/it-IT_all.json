@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-27 00:49:20",
-    "Total": 914,
+    "LastUpdate": "2024-10-28 00:49:20",
+    "Total": 915,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241027",
+            "fullstartdate": "202410272300",
+            "enddate": "20241028",
+            "url": "/th?id=OHR.PumpkinMist_IT-IT9256406866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinMist_IT-IT9256406866",
+            "copyright": "Campo di zucche, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Zucca&form=hpcapt",
+            "title": "Zucche stregate?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241027_PumpkinMist%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b4add34b5f8bd6b75962afe0509d47d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241026",
             "fullstartdate": "202410262200",
