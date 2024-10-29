@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-28 00:49:15",
-    "Total": 915,
+    "LastUpdate": "2024-10-29 00:49:07",
+    "Total": 916,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241028",
+            "fullstartdate": "202410282300",
+            "enddate": "20241029",
+            "url": "/th?id=OHR.GreatOwl_FR-FR5138937408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreatOwl_FR-FR5138937408",
+            "copyright": "Grand-duc d’Amérique (© Mark Newman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand-duc+d%27Amerique&form=hpcapt&filters=HpDate%3a%2220241028_2300%22",
+            "title": "L'esprit de la forêt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241028_GreatOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "10d5dfc41df3df362e92f4c89a231497",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241027",
             "fullstartdate": "202410272300",
