@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-28 00:48:48",
-    "Total": 915,
+    "LastUpdate": "2024-10-29 00:48:41",
+    "Total": 916,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241028",
+            "fullstartdate": "202410280700",
+            "enddate": "20241029",
+            "url": "/th?id=OHR.PumpkinMist_EN-US3686565863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinMist_EN-US3686565863",
+            "copyright": "Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Pumpkin&form=hpcapt&filters=HpDate%3a%2220241028_0700%22",
+            "title": "It's carving time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241028_PumpkinMist%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a14b003c29669b71ea03b0e4db92665",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241027",
             "fullstartdate": "202410270700",
