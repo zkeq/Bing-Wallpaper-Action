@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-28 00:48:53",
-    "Total": 915,
+    "LastUpdate": "2024-10-29 00:48:46",
+    "Total": 916,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241028",
+            "fullstartdate": "202410281500",
+            "enddate": "20241029",
+            "url": "/th?id=OHR.GreatOwl_JA-JP6299309375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreatOwl_JA-JP6299309375",
+            "copyright": "アメリカワシミミズク (© Mark Newman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241028_1500%22",
+            "title": "暗闇のスーパーハンター",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241028_GreatOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "15bd5eae071137509c0cb8fb7377ecdd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241027",
             "fullstartdate": "202410271500",
