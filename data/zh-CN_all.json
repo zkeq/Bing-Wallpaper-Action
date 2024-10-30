@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-29 00:48:36",
-    "Total": 916,
+    "LastUpdate": "2024-10-30 00:48:33",
+    "Total": 917,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241029",
+            "fullstartdate": "202410291600",
+            "enddate": "20241030",
+            "url": "/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159",
+            "copyright": "从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E7%88%B1%E4%B8%81%E5%A0%A1%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "令人毛骨悚然的历史",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241029_HauntedEdinburgh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d94a6cb961df6ecc61291b9b1f8705e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241028",
             "fullstartdate": "202410281600",
