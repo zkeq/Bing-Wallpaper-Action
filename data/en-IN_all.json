@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-29 00:49:03",
-    "Total": 916,
+    "LastUpdate": "2024-10-30 00:49:00",
+    "Total": 917,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241029",
+            "fullstartdate": "202410291830",
+            "enddate": "20241030",
+            "url": "/th?id=OHR.HauntedEdinburgh_EN-IN2114348431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HauntedEdinburgh_EN-IN2114348431",
+            "copyright": "View of Edinburgh Castle from a churchyard in Scotland, United Kingdom (© Chris Dorney/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Edinburgh+Castle+Scotland&form=hpcapt&filters=HpDate%3a%2220241029_1830%22",
+            "title": "A haunting history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241029_HauntedEdinburgh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad79a0f6c12c31c919411fa30568e40e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241028",
             "fullstartdate": "202410281830",
