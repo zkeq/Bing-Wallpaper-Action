@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-29 00:49:07",
-    "Total": 916,
+    "LastUpdate": "2024-10-30 00:49:04",
+    "Total": 917,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241029",
+            "fullstartdate": "202410292300",
+            "enddate": "20241030",
+            "url": "/th?id=OHR.HauntedEdinburgh_FR-FR5789637805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HauntedEdinburgh_FR-FR5789637805",
+            "copyright": "Vue du château d'Édimbourg depuis un cimetière en Écosse, Royaume-Uni (© Chris Dorney/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=chateau+d%27edimbourg+%C3%A9cosse&form=hpcapt&filters=HpDate%3a%2220241029_2300%22",
+            "title": "Une histoire qui hante",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241029_HauntedEdinburgh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c18bfac9f2c329e3687b3234eed8be31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241028",
             "fullstartdate": "202410282300",
