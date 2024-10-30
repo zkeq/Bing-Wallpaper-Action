@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-29 00:48:50",
-    "Total": 916,
+    "LastUpdate": "2024-10-30 00:48:48",
+    "Total": 917,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241029",
+            "fullstartdate": "202410292300",
+            "enddate": "20241030",
+            "url": "/th?id=OHR.HauntedEdinburgh_DE-DE5335021616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HauntedEdinburgh_DE-DE5335021616",
+            "copyright": "Blick auf Edinburgh Castle von einem Kirchhof in Schottland, Vereinigtes Königreich (© Chris Dorney/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Edinburgh+Castle+Schottland&form=hpcapt&filters=HpDate%3a%2220241029_2300%22",
+            "title": "Ein verfluchtes Schloss?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241029_HauntedEdinburgh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b757737f4a5efaad86c831a9efa1e08a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241028",
             "fullstartdate": "202410282300",
