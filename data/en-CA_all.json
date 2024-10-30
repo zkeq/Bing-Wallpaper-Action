@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-29 00:48:54",
-    "Total": 915,
+    "LastUpdate": "2024-10-30 00:48:52",
+    "Total": 916,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241029",
+            "fullstartdate": "202410290400",
+            "enddate": "20241030",
+            "url": "/th?id=OHR.GreatOwl_EN-CA6169202889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreatOwl_EN-CA6169202889",
+            "copyright": "Great horned owl (© Mark Newman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+horned+owl&form=hpcapt&filters=HpDate%3a%2220241029_0400%22",
+            "title": "Hoots and haunts",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241029_GreatOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "07ccf5582ca99075d43dfe2a2cead982",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241028",
             "fullstartdate": "202410280400",
