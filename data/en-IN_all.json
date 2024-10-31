@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-30 00:49:00",
-    "Total": 917,
+    "LastUpdate": "2024-10-31 00:49:00",
+    "Total": 918,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241030",
+            "fullstartdate": "202410301830",
+            "enddate": "20241031",
+            "url": "/th?id=OHR.FireworksDiwali_EN-IN6255593826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FireworksDiwali_EN-IN6255593826",
+            "copyright": "Diwali celebrations (© Umang Gajjar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220241030_1830%22",
+            "title": "Celebrating shades of light",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241030_FireworksDiwali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "645db3c73d017c270f516772c9dca9ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241029",
             "fullstartdate": "202410291830",
