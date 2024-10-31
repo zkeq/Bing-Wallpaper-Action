@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-30 00:48:43",
-    "Total": 917,
+    "LastUpdate": "2024-10-31 00:48:42",
+    "Total": 918,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241030",
+            "fullstartdate": "202410301500",
+            "enddate": "20241031",
+            "url": "/th?id=OHR.Halloween2024_JA-JP6692896772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Halloween2024_JA-JP6692896772",
+            "copyright": "草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F%E3%81%AE%E3%80%8C%E5%8D%97%E7%93%9C%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220241030_1500%22",
+            "title": "今日はハロウィン",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241030_Halloween2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a3321e0b0c70e97caed428f0266f039",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241029",
             "fullstartdate": "202410291500",
