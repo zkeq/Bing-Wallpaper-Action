@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-10-31 00:48:32",
-    "Total": 918,
+    "LastUpdate": "2024-11-01 00:48:47",
+    "Total": 919,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241031",
+            "fullstartdate": "202410311600",
+            "enddate": "20241101",
+            "url": "/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591",
+            "copyright": "秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BE%B7%E5%9B%BD%E9%BB%91%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "引以为豪的传统",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241031_VineyardsBlackForestFall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dc9a6afa85f7cef17818de36ccfa7ed7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241030",
             "fullstartdate": "202410301600",
