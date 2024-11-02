@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-01 00:48:47",
-    "Total": 919,
+    "LastUpdate": "2024-11-02 00:48:30",
+    "Total": 920,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241101",
+            "fullstartdate": "202411011600",
+            "enddate": "20241102",
+            "url": "/th?id=OHR.BisonYellowstone_ZH-CN7320887379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonYellowstone_ZH-CN7320887379",
+            "copyright": "黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E9%87%8E%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "从濒临灭绝到成为国家的象征",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241101_BisonYellowstone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "27724c9758732f0528406a8ad5c77159",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241031",
             "fullstartdate": "202410311600",
