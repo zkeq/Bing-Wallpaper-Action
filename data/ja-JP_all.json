@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-01 00:48:58",
-    "Total": 919,
+    "LastUpdate": "2024-11-02 00:48:40",
+    "Total": 920,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241101",
+            "fullstartdate": "202411011500",
+            "enddate": "20241102",
+            "url": "/th?id=OHR.BisonYellowstone_JA-JP3698112107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonYellowstone_JA-JP3698112107",
+            "copyright": "イエローストーン国立公園, 米国 ワイオミング州 (© Ian Shive/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%90%E3%82%A4%E3%82%BD%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241101_1500%22",
+            "title": "草原を歩き回るアメリカバイソン",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241101_BisonYellowstone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a772e06d03571b8ed6d80a62e7b3ceff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241031",
             "fullstartdate": "202410311500",
