@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-02 00:48:40",
-    "Total": 920,
+    "LastUpdate": "2024-11-03 00:48:57",
+    "Total": 921,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241102",
+            "fullstartdate": "202411021500",
+            "enddate": "20241103",
+            "url": "/th?id=OHR.YucatanBiosphere_JA-JP2886303469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YucatanBiosphere_JA-JP2886303469",
+            "copyright": "リア・ラガルトス生物圏保護区, メキシコ ユカタン州 (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%AC%E3%83%AB%E3%83%88%E3%82%B9%E7%94%9F%E7%89%A9%E5%9C%8F%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220241102_1500%22",
+            "title": "今日は国際生物圏保存地域の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241102_YucatanBiosphere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "286d5c73b4744700ec9d3cb768130c4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241101",
             "fullstartdate": "202411011500",
