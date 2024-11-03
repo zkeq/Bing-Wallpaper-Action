@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-02 00:49:06",
-    "Total": 920,
+    "LastUpdate": "2024-11-03 00:49:24",
+    "Total": 921,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241102",
+            "fullstartdate": "202411022300",
+            "enddate": "20241103",
+            "url": "/th?id=OHR.YucatanBiosphere_IT-IT6604296714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YucatanBiosphere_IT-IT6604296714",
+            "copyright": "Uovo di fenicottero caraibico nel nido, Riserva della Biosfera Ría Lagartos, Yucatán, Messico (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Ria+Lagartos+Biosphere+Reserve&form=hpcapt",
+            "title": "Dove la natura incontra la sostenibilità",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241102_YucatanBiosphere%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "acc3aaddf47ee25c2dd0f87efec68913",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241101",
             "fullstartdate": "202411012300",
