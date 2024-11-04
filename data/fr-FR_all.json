@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-03 00:49:20",
-    "Total": 921,
+    "LastUpdate": "2024-11-04 00:49:10",
+    "Total": 922,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241103",
+            "fullstartdate": "202411032300",
+            "enddate": "20241104",
+            "url": "/th?id=OHR.CumbriaAutumn_FR-FR6304384185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumbriaAutumn_FR-FR6304384185",
+            "copyright": "Grasmere, Lake District, Cumbria, Angleterre (© Thomas Molyneux/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grasmere+angleterre&form=hpcapt&filters=HpDate%3a%2220241103_2300%22",
+            "title": "Harmonie automnale au pied des collines",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241103_CumbriaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c602ad740a07928fa705ccb4d91a9d0c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241102",
             "fullstartdate": "202411022300",
