@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-03 00:48:47",
-    "Total": 921,
+    "LastUpdate": "2024-11-04 00:48:37",
+    "Total": 922,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241103",
+            "fullstartdate": "202411031600",
+            "enddate": "20241104",
+            "url": "/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumbriaAutumn_ZH-CN7697251216",
+            "copyright": "坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E6%8B%89%E6%96%AF%E7%B1%B3%E5%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "胜过千言万语",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241103_CumbriaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d1ff5f1ecbabdfe21a7b25b030732366",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241102",
             "fullstartdate": "202411021600",
