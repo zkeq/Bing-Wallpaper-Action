@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-03 00:49:11",
-    "Total": 919,
+    "LastUpdate": "2024-11-04 00:49:01",
+    "Total": 920,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241104",
+            "fullstartdate": "202411040000",
+            "enddate": "20241105",
+            "url": "/th?id=OHR.CumbriaAutumn_EN-GB1543365213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumbriaAutumn_EN-GB1543365213",
+            "copyright": "Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grasmere&form=hpcapt&filters=HpDate%3a%2220241104_0000%22",
+            "title": "Worth a thousand words",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241104_CumbriaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fd33acf27a752da036399d880a05e22",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241103",
             "fullstartdate": "202411030000",
