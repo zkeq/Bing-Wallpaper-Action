@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-04 00:49:01",
-    "Total": 920,
+    "LastUpdate": "2024-11-05 00:48:49",
+    "Total": 921,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241105",
+            "fullstartdate": "202411050000",
+            "enddate": "20241106",
+            "url": "/th?id=OHR.GuyFawkes2024_EN-GB5116542164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuyFawkes2024_EN-GB5116542164",
+            "copyright": "Fireworks at Bolton Priory, North Yorkshire on Guy Fawkes Night 2015 (© Thomas Holmes/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Guy+Fawkes+Night&form=hpcapt&filters=HpDate%3a%2220241105_0000%22",
+            "title": "A tale of treason and tradition",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241105_GuyFawkes2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0feb90f1cf8140ae4157c24002c494a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241104",
             "fullstartdate": "202411040000",
