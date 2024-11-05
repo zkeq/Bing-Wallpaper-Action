@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-04 00:49:10",
-    "Total": 922,
+    "LastUpdate": "2024-11-05 00:48:58",
+    "Total": 923,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241104",
+            "fullstartdate": "202411042300",
+            "enddate": "20241105",
+            "url": "/th?id=OHR.YucatanFlamingos_FR-FR7541144444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YucatanFlamingos_FR-FR7541144444",
+            "copyright": "Flamants des Caraïbes, péninsule du Yucatán, Mexique (© Claudio Contreras/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Flamants+des+Cara%C3%AFbes&form=hpcapt&filters=HpDate%3a%2220241104_2300%22",
+            "title": "La flamboyance en vol",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241104_YucatanFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7feb9aee4315d55063e08db9fa577ecf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241103",
             "fullstartdate": "202411032300",
