@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-05 00:48:25",
-    "Total": 923,
+    "LastUpdate": "2024-11-06 00:48:32",
+    "Total": 924,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241105",
+            "fullstartdate": "202411051600",
+            "enddate": "20241106",
+            "url": "/th?id=OHR.ShiShiBeach_ZH-CN8685799566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShiShiBeach_ZH-CN8685799566",
+            "copyright": "奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "日落的阴影",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241105_ShiShiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3d7167f0d1c15d7f533df550b3dd44da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241104",
             "fullstartdate": "202411041600",
