@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-05 00:48:58",
-    "Total": 923,
+    "LastUpdate": "2024-11-06 00:49:03",
+    "Total": 924,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241105",
+            "fullstartdate": "202411052300",
+            "enddate": "20241106",
+            "url": "/th?id=OHR.ShiShiBeach_FR-FR6500831097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShiShiBeach_FR-FR6500831097",
+            "copyright": "Shi Shi Beach, Parc national Olympique, Washington, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+olympique+%C3%89tats-Unis+&form=hpcapt&filters=HpDate%3a%2220241105_2300%22",
+            "title": "Quand la nature s’endort",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241105_ShiShiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bccbf73a57d077d05ca3e2ab82b49738",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241104",
             "fullstartdate": "202411042300",
