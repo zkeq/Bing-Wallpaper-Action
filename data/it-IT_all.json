@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-05 00:49:02",
-    "Total": 923,
+    "LastUpdate": "2024-11-06 00:49:07",
+    "Total": 924,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241105",
+            "fullstartdate": "202411052300",
+            "enddate": "20241106",
+            "url": "/th?id=OHR.ShiShiBeach_IT-IT3649802386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShiShiBeach_IT-IT3649802386",
+            "copyright": "Shi Shi Beach nel Parco Nazionale Olimpico, Washington, Stati Uniti (© T.M. Schultze/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+Olimpico+Washington&form=hpcapt",
+            "title": "Colori del tramonto",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241105_ShiShiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8dadbfde5ca81d882e6020d8d6e0f78",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241104",
             "fullstartdate": "202411042300",
