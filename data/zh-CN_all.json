@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-06 00:48:32",
-    "Total": 924,
+    "LastUpdate": "2024-11-07 00:48:28",
+    "Total": 925,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241106",
+            "fullstartdate": "202411061600",
+            "enddate": "20241107",
+            "url": "/th?id=OHR.LiDong2024_ZH-CN9944723194_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LiDong2024_ZH-CN9944723194",
+            "copyright": "金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%9D%9D%E4%B8%8A%E8%8D%89%E5%8E%9F&form=hpcapt&mkt=zh-cn",
+            "title": "初冬之美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241106_LiDong2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a476442315b77efb1638bf57bd111426",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241105",
             "fullstartdate": "202411051600",
