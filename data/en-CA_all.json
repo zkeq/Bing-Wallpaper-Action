@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-06 00:48:50",
-    "Total": 923,
+    "LastUpdate": "2024-11-07 00:48:48",
+    "Total": 924,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241106",
+            "fullstartdate": "202411060500",
+            "enddate": "20241107",
+            "url": "/th?id=OHR.ShiShiBeach_EN-CA3486295094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShiShiBeach_EN-CA3486295094",
+            "copyright": "Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate%3a%2220241106_0500%22",
+            "title": "Shades of sunset",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241106_ShiShiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81490b3071ceff6a0fb8b5e9d983bb68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241105",
             "fullstartdate": "202411050500",
