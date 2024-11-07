@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-06 00:48:42",
-    "Total": 924,
+    "LastUpdate": "2024-11-07 00:48:39",
+    "Total": 925,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241106",
+            "fullstartdate": "202411061500",
+            "enddate": "20241107",
+            "url": "/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824",
+            "copyright": "マガンの群れ (© feathercollector/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%82%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241106_1500%22",
+            "title": "今日は立冬",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241106_AnserAlbifrons2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "682cfe420aec04d1ce4c9267ec78f1cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241105",
             "fullstartdate": "202411051500",
