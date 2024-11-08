@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-07 00:48:52",
-    "Total": 923,
+    "LastUpdate": "2024-11-08 00:48:53",
+    "Total": 924,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241108",
+            "fullstartdate": "202411080000",
+            "enddate": "20241109",
+            "url": "/th?id=OHR.GlacialRivers_EN-GB5304818935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacialRivers_EN-GB5304818935",
+            "copyright": "Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Glacial+stream&form=hpcapt&filters=HpDate%3a%2220241108_0000%22",
+            "title": "From the land of fire and ice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241108_GlacialRivers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c5bd3723b271f06812edd13c500ae49",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241107",
             "fullstartdate": "202411070000",
