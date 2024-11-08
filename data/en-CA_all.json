@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-07 00:48:48",
-    "Total": 924,
+    "LastUpdate": "2024-11-08 00:48:48",
+    "Total": 925,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241107",
+            "fullstartdate": "202411070500",
+            "enddate": "20241108",
+            "url": "/th?id=OHR.CanadaWolves_EN-CA3643391655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanadaWolves_EN-CA3643391655",
+            "copyright": "Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Vancouver+Coastal+Sea+wolf&form=hpcapt&filters=HpDate%3a%2220241107_0500%22",
+            "title": "Wolves in the wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241107_CanadaWolves%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d4fcb99306cf86081675b8518357a98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241106",
             "fullstartdate": "202411060500",
