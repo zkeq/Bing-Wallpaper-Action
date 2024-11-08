@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-07 00:48:43",
-    "Total": 925,
+    "LastUpdate": "2024-11-08 00:48:44",
+    "Total": 926,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241107",
+            "fullstartdate": "202411072300",
+            "enddate": "20241108",
+            "url": "/th?id=OHR.GlacialRivers_DE-DE4755000150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlacialRivers_DE-DE4755000150",
+            "copyright": "Luftaufnahme von Gletscherflüssen in Island (© rybarmarekk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Verflochtener+Fluss&form=hpcapt&filters=HpDate%3a%2220241107_2300%22",
+            "title": "Das Land aus Feuer und Eis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241107_GlacialRivers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71671e8847b8ab2d786b084f3f1bd5f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241106",
             "fullstartdate": "202411062300",
