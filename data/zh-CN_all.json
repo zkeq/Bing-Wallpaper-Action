@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-08 00:48:30",
-    "Total": 926,
+    "LastUpdate": "2024-11-09 00:48:24",
+    "Total": 927,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241108",
+            "fullstartdate": "202411081600",
+            "enddate": "20241109",
+            "url": "/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290",
+            "copyright": "银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E4%BC%8A%E7%89%B9%E6%9C%AC%E5%93%88%E6%9D%9C%E6%9D%9C&form=hpcapt&mkt=zh-cn",
+            "title": "红尘中的宇宙美景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241108_MoroccoMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b52869e5e34425abc99fc977239efe0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241107",
             "fullstartdate": "202411071600",
