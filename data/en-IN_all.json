@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-08 00:48:57",
-    "Total": 926,
+    "LastUpdate": "2024-11-09 00:48:52",
+    "Total": 927,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241108",
+            "fullstartdate": "202411081830",
+            "enddate": "20241109",
+            "url": "/th?id=OHR.MoroccoMilkyWay_EN-IN8452456680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoroccoMilkyWay_EN-IN8452456680",
+            "copyright": "Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ait+Benhaddou&form=hpcapt&filters=HpDate%3a%2220241108_1830%22",
+            "title": "Cosmic views over earthly hues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241108_MoroccoMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f371c1d56257fbea8e9d7994defe1136",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241107",
             "fullstartdate": "202411071830",
