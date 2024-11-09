@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-08 00:48:40",
-    "Total": 926,
+    "LastUpdate": "2024-11-09 00:48:35",
+    "Total": 927,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241108",
+            "fullstartdate": "202411081500",
+            "enddate": "20241109",
+            "url": "/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696",
+            "copyright": "アイト・ベン・ハドゥの集落, モロッコ (© Cavan Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%A4%E3%83%88%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%89%E3%82%A5%E3%81%AE%E9%9B%86%E8%90%BD&form=hpcapt&filters=HpDate%3a%2220241108_1500%22",
+            "title": "集落の上空に広がる天の川",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241108_MoroccoMilkyWay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c0e31333b1e2f379ddc35404a1d8d6de",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241107",
             "fullstartdate": "202411071500",
