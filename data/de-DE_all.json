@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-09 00:48:39",
-    "Total": 927,
+    "LastUpdate": "2024-11-10 00:48:56",
+    "Total": 928,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241109",
+            "fullstartdate": "202411092300",
+            "enddate": "20241110",
+            "url": "/th?id=OHR.YucatanFlamingos_DE-DE2009828774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YucatanFlamingos_DE-DE2009828774",
+            "copyright": "Kubaflamingos, Halbinsel Yucatán, Mexiko (© Claudio Contreras/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Fliegende+Kubaflamingos&form=hpcapt&filters=HpDate%3a%2220241109_2300%22",
+            "title": "Eleganz in der Luft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241109_YucatanFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a0dce5828d8b02eb4ada95d69752967",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241108",
             "fullstartdate": "202411082300",
