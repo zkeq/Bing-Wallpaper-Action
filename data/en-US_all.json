@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-10 00:48:48",
-    "Total": 928,
+    "LastUpdate": "2024-11-11 00:48:42",
+    "Total": 929,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241110",
+            "fullstartdate": "202411100800",
+            "enddate": "20241111",
+            "url": "/th?id=OHR.YucatanFlamingos_EN-US4470232432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YucatanFlamingos_EN-US4470232432",
+            "copyright": "Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Caribbean+flamingos&form=hpcapt&filters=HpDate%3a%2220241110_0800%22",
+            "title": "Flamboyance in flight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241110_YucatanFlamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4582ab5feca2af29cd8a960b867d35d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241109",
             "fullstartdate": "202411090800",
