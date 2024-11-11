@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-10 00:49:14",
-    "Total": 928,
+    "LastUpdate": "2024-11-11 00:49:08",
+    "Total": 929,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241110",
+            "fullstartdate": "202411102300",
+            "enddate": "20241111",
+            "url": "/th?id=OHR.Banff24_FR-FR8236269164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Banff24_FR-FR8236269164",
+            "copyright": "Parc national de Banff, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+nacional+de+banff&form=hpcapt&filters=HpDate%3a%2220241110_2300%22",
+            "title": "Au cœur des Rocheuses canadiennes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241110_Banff24%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "13be4531f959d96530d73bc633bd9be6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241109",
             "fullstartdate": "202411092300",
