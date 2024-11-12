@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-11 00:49:03",
-    "Total": 929,
+    "LastUpdate": "2024-11-12 00:48:57",
+    "Total": 930,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241111",
+            "fullstartdate": "202411111830",
+            "enddate": "20241112",
+            "url": "/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650",
+            "copyright": "Aerial view of vineyards, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Varnhalt&form=hpcapt&filters=HpDate%3a%2220241111_1830%22",
+            "title": "A proud heritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241111_VineyardsBlackForestFall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "56e28b263b28c34cb87b06d8c92b2080",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241110",
             "fullstartdate": "202411101830",
