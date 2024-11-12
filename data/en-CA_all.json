@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-11 00:48:55",
-    "Total": 928,
+    "LastUpdate": "2024-11-12 00:48:48",
+    "Total": 929,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241111",
+            "fullstartdate": "202411110500",
+            "enddate": "20241112",
+            "url": "/th?id=OHR.Banff24_EN-CA4781010771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Banff24_EN-CA4781010771",
+            "copyright": "Sunset at Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Banff+National+Park&form=hpcapt&filters=HpDate%3a%2220241111_0500%22",
+            "title": "First flakes in the wilderness",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241111_Banff24%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee8b65168e08821bb72c39ce1d0fea31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241110",
             "fullstartdate": "202411100500",
