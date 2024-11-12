@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-11 00:48:37",
-    "Total": 929,
+    "LastUpdate": "2024-11-12 00:48:29",
+    "Total": 930,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241111",
+            "fullstartdate": "202411111600",
+            "enddate": "20241112",
+            "url": "/th?id=OHR.CoveArch_ZH-CN1281140578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoveArch_ZH-CN1281140578",
+            "copyright": "透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8A%B9%E4%BB%96%E5%B7%9E%E6%8B%B1%E9%97%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "拱门之下",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241111_CoveArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b51a4a4733165fd617f41bdee939a3c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241110",
             "fullstartdate": "202411101600",
