@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-11 00:48:59",
-    "Total": 927,
+    "LastUpdate": "2024-11-12 00:48:52",
+    "Total": 928,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241112",
+            "fullstartdate": "202411120000",
+            "enddate": "20241113",
+            "url": "/th?id=OHR.CoveArch_EN-GB6800987516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoveArch_EN-GB6800987516",
+            "copyright": "Double Arch seen through Cove Arch, Arches National Park, Utah, USA (© Jeff Foott/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park+Utah&form=hpcapt&filters=HpDate%3a%2220241112_0000%22",
+            "title": "Underneath the arches",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241112_CoveArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c0114d54f83d43edf8dd699e90615df8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241111",
             "fullstartdate": "202411110000",
