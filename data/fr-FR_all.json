@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-12 00:49:01",
-    "Total": 930,
+    "LastUpdate": "2024-11-13 00:49:04",
+    "Total": 931,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241112",
+            "fullstartdate": "202411122300",
+            "enddate": "20241113",
+            "url": "/th?id=OHR.KelpForest_FR-FR8537337820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpForest_FR-FR8537337820",
+            "copyright": "Lion de mer dans une forêt de varech géant, Basse-Californie, Mexique (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=lion+de+mer+animal&form=hpcapt&filters=HpDate%3a%2220241112_2300%22",
+            "title": "Le roi lion des mers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241112_KelpForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55e32660859308658456ffc7cb46b44a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241111",
             "fullstartdate": "202411112300",
