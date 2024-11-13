@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-12 00:48:52",
-    "Total": 928,
+    "LastUpdate": "2024-11-13 00:48:56",
+    "Total": 929,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241113",
+            "fullstartdate": "202411130000",
+            "enddate": "20241114",
+            "url": "/th?id=OHR.KelpForest_EN-GB7031468488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpForest_EN-GB7031468488",
+            "copyright": "California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=sea+lion+animal&form=hpcapt&filters=HpDate%3a%2220241113_0000%22",
+            "title": "The lion king of the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241113_KelpForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b1d7d80710924336142f76840ecb1a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241112",
             "fullstartdate": "202411120000",
