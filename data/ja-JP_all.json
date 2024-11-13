@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-12 00:48:39",
-    "Total": 930,
+    "LastUpdate": "2024-11-13 00:48:43",
+    "Total": 931,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241112",
+            "fullstartdate": "202411121500",
+            "enddate": "20241113",
+            "url": "/th?id=OHR.KelpForest_JA-JP2433405735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpForest_JA-JP2433405735",
+            "copyright": "海の中にある森, メキシコ バハ・カリフォルニア州  (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%AD%E3%83%A2&form=hpcapt&filters=HpDate%3a%2220241112_1500%22",
+            "title": "オオウキモとカリフォルニアアシカ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241112_KelpForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06175788d99b8b1ae417f8187719395d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241111",
             "fullstartdate": "202411111500",
