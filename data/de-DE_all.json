@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-12 00:48:43",
-    "Total": 930,
+    "LastUpdate": "2024-11-13 00:48:47",
+    "Total": 931,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241112",
+            "fullstartdate": "202411122300",
+            "enddate": "20241113",
+            "url": "/th?id=OHR.KelpForest_DE-DE3474015808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpForest_DE-DE3474015808",
+            "copyright": "Kalifornischer Seelöwe in einem Wald aus Riesentang, Baja California, Mexiko (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Kalifornischer+Seel%C3%B6we&form=hpcapt&filters=HpDate%3a%2220241112_2300%22",
+            "title": "Der König der Meere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241112_KelpForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ceb3764b72804c3bc401811cc37bf999",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241111",
             "fullstartdate": "202411112300",
