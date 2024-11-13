@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-12 00:48:29",
-    "Total": 930,
+    "LastUpdate": "2024-11-13 00:48:33",
+    "Total": 931,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241112",
+            "fullstartdate": "202411121600",
+            "enddate": "20241113",
+            "url": "/th?id=OHR.KelpForest_ZH-CN2357269491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpForest_ZH-CN2357269491",
+            "copyright": "巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥 (© Claudio Contreras/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%8B%AE&form=hpcapt&mkt=zh-cn",
+            "title": "海中的“狮子王”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241112_KelpForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4a63d1bff11448d2baf1dbf8f992f6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241111",
             "fullstartdate": "202411111600",
