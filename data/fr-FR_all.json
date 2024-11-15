@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-14 00:49:02",
-    "Total": 932,
+    "LastUpdate": "2024-11-15 00:49:10",
+    "Total": 933,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241114",
+            "fullstartdate": "202411142300",
+            "enddate": "20241115",
+            "url": "/th?id=OHR.YiPengLanterns_FR-FR2863208745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YiPengLanterns_FR-FR2863208745",
+            "copyright": "Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chiang+Mai&form=hpcapt&filters=HpDate%3a%2220241114_2300%22",
+            "title": "Quand l'espoir prend son envol",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241114_YiPengLanterns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec32508c1c7d400a2b67c42c01c32386",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241113",
             "fullstartdate": "202411132300",
