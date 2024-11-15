@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-14 00:48:53",
-    "Total": 930,
+    "LastUpdate": "2024-11-15 00:49:02",
+    "Total": 931,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411150000",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.YiPengLanterns_EN-GB5743270673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YiPengLanterns_EN-GB5743270673",
+            "copyright": "Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chiang+Mai+Thailand&form=hpcapt&filters=HpDate%3a%2220241115_0000%22",
+            "title": "Hope takes flight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_YiPengLanterns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04a30e1e139ef4d2cfa1c40139dc5090",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411140000",
