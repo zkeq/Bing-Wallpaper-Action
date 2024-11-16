@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-15 00:48:53",
-    "Total": 933,
+    "LastUpdate": "2024-11-16 00:48:53",
+    "Total": 934,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411152300",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_DE-DE2101104356",
+            "copyright": "Wattenmeerküste bei Moddergat, Friesland, Niederlande (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Wattenmeer&form=hpcapt&filters=HpDate%3a%2220241115_2300%22",
+            "title": "Schlick, Meer und Himmel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "16f76c9efa7fdddc3ef75e73712985c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411142300",
