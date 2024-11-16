@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-15 00:48:39",
-    "Total": 933,
+    "LastUpdate": "2024-11-16 00:48:38",
+    "Total": 934,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411151600",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898",
+            "copyright": "瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%93%A6%E7%99%BB%E6%B5%B7&form=hpcapt&mkt=zh-cn",
+            "title": "泥土、大海和天空",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e706e5a2edf59445c7458de3a94b5f1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411141600",
