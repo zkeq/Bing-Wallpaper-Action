@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-15 00:49:15",
-    "Total": 933,
+    "LastUpdate": "2024-11-16 00:49:15",
+    "Total": 934,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411152300",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.FrieslandNetherlands_IT-IT6096912016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_IT-IT6096912016",
+            "copyright": "Costa del Mare dei Wadden, vicino a Moddergat, Frisia, Paesi Bassi (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Mare+dei+Wadden%2c+Paesi+Bassi&form=hpcapt",
+            "title": "Eco di mare e cielo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "03f7b6c17cc9a6da72a4273106dbecd1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411142300",
