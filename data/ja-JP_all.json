@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-15 00:48:49",
-    "Total": 933,
+    "LastUpdate": "2024-11-16 00:48:48",
+    "Total": 934,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411151500",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_JA-JP3280523442",
+            "copyright": "ワッデン海, オランダ フリースラント州 (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%87%E3%83%B3%E6%B5%B7&form=hpcapt&filters=HpDate%3a%2220241115_1500%22",
+            "title": "世界最大の干潟地帯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95d7d1fca48f0b576be0b88b2b52059d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411141500",
