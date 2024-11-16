@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-15 00:49:10",
-    "Total": 933,
+    "LastUpdate": "2024-11-16 00:49:11",
+    "Total": 934,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241115",
+            "fullstartdate": "202411152300",
+            "enddate": "20241116",
+            "url": "/th?id=OHR.FrieslandNetherlands_FR-FR3199784151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_FR-FR3199784151",
+            "copyright": "Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=mer+des+Wadden&form=hpcapt&filters=HpDate%3a%2220241115_2300%22",
+            "title": "Le ciel, la mer et de la vase !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241115_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0bf58e6746a1e93f3be39d242548c6cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241114",
             "fullstartdate": "202411142300",
