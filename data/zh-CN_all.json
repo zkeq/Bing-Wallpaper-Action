@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-16 00:48:38",
-    "Total": 934,
+    "LastUpdate": "2024-11-17 00:48:50",
+    "Total": 935,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241116",
+            "fullstartdate": "202411161600",
+            "enddate": "20241117",
+            "url": "/th?id=OHR.RedStag_ZH-CN6403546321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedStag_ZH-CN6403546321",
+            "copyright": "加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E9%B9%BF&form=hpcapt&mkt=zh-cn",
+            "title": "苏格兰高地的马鹿",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241116_RedStag%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2dfe32ee45b2fe2ce39d0b084a0a7c9a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241115",
             "fullstartdate": "202411151600",
