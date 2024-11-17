@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-16 00:48:53",
-    "Total": 934,
+    "LastUpdate": "2024-11-17 00:49:05",
+    "Total": 935,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241116",
+            "fullstartdate": "202411162300",
+            "enddate": "20241117",
+            "url": "/th?id=OHR.RedStag_DE-DE2144943138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedStag_DE-DE2144943138",
+            "copyright": "Rothirsch im Caledonian Forest, Glen Affric, Schottische Highlands (© Terry Whittaker/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Rothirsch&form=hpcapt&filters=HpDate%3a%2220241116_2300%22",
+            "title": "König der schottischen Highlands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241116_RedStag%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b3745f221215b0bc4270d55a41a1622",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241115",
             "fullstartdate": "202411152300",
