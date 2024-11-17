@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-16 00:48:57",
-    "Total": 933,
+    "LastUpdate": "2024-11-17 00:49:10",
+    "Total": 934,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241116",
+            "fullstartdate": "202411160500",
+            "enddate": "20241117",
+            "url": "/th?id=OHR.FrieslandNetherlands_EN-CA6862102879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrieslandNetherlands_EN-CA6862102879",
+            "copyright": "Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Wadden+Sea&form=hpcapt&filters=HpDate%3a%2220241116_0500%22",
+            "title": "Mud, sea and sky",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241116_FrieslandNetherlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "404717c9c9dce6c06f649f280785b96c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241115",
             "fullstartdate": "202411150500",
