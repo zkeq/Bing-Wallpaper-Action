@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-16 00:49:11",
-    "Total": 934,
+    "LastUpdate": "2024-11-17 00:49:23",
+    "Total": 935,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241116",
+            "fullstartdate": "202411162300",
+            "enddate": "20241117",
+            "url": "/th?id=OHR.RedStag_FR-FR3460398465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedStag_FR-FR3460398465",
+            "copyright": "Cerf élaphe dans la forêt calédonienne, Glen Affric, Highlands, Écosse (© Terry Whittaker/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cerf+%C3%A9laphe&form=hpcapt&filters=HpDate%3a%2220241116_2300%22",
+            "title": "Le maître de ces bois",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241116_RedStag%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcb3551edf1b5aa0d8e3822fab65fd91",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241115",
             "fullstartdate": "202411152300",
