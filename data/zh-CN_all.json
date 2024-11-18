@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-17 00:48:50",
-    "Total": 935,
+    "LastUpdate": "2024-11-18 00:48:46",
+    "Total": 936,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241117",
+            "fullstartdate": "202411171600",
+            "enddate": "20241118",
+            "url": "/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820",
+            "copyright": "波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%B3%A2%E6%96%AF%E8%80%83%E5%B0%94%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "一直指引着方向",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241117_PorthcawlLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ff201e576ba0df278f01b2f8b4ea3fbf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241116",
             "fullstartdate": "202411161600",
