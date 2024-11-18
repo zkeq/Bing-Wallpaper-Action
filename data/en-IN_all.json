@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-17 00:49:18",
-    "Total": 935,
+    "LastUpdate": "2024-11-18 00:49:15",
+    "Total": 936,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241117",
+            "fullstartdate": "202411171830",
+            "enddate": "20241118",
+            "url": "/th?id=OHR.PorthcawlLighthouse_EN-IN5797196395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PorthcawlLighthouse_EN-IN5797196395",
+            "copyright": "Porthcawl lighthouse, South Wales, UK (© Leighton Collins/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Porthcawl+lighthouse+Wales&form=hpcapt&filters=HpDate%3a%2220241117_1830%22",
+            "title": "Guiding the way since 1860",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241117_PorthcawlLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9d78ebfa0079549c87ac8ba67b2999f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241116",
             "fullstartdate": "202411161830",
