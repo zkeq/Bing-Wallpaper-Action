@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-17 00:49:23",
-    "Total": 935,
+    "LastUpdate": "2024-11-18 00:49:20",
+    "Total": 936,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241117",
+            "fullstartdate": "202411172300",
+            "enddate": "20241118",
+            "url": "/th?id=OHR.PorthcawlLighthouse_FR-FR3687906997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PorthcawlLighthouse_FR-FR3687906997",
+            "copyright": "Phare de Porthcawl, Pays de Galles, Royaume-Uni (© Leighton Collins/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Phare+de+Porthcawl%2c+Pays+de+Galles%2c+Royaume-Uni&form=hpcapt&filters=HpDate%3a%2220241117_2300%22",
+            "title": "Le gardien des mers galloises",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241117_PorthcawlLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3f443d027aa8e8345c0d3fc523431b9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241116",
             "fullstartdate": "202411162300",
