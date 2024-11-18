@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-17 00:49:01",
-    "Total": 935,
+    "LastUpdate": "2024-11-18 00:48:57",
+    "Total": 936,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241117",
+            "fullstartdate": "202411171500",
+            "enddate": "20241118",
+            "url": "/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148",
+            "copyright": "ポースコール灯台, イギリス 南ウェールズ (© Leighton Collins/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9D%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%AB%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220241117_1500%22",
+            "title": "荒波が打ち付ける灯台",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241117_PorthcawlLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f70590f113cf06afffbcca54a0214ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241116",
             "fullstartdate": "202411161500",
