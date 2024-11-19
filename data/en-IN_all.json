@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-18 00:49:15",
-    "Total": 936,
+    "LastUpdate": "2024-11-19 00:49:08",
+    "Total": 937,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241118",
+            "fullstartdate": "202411181830",
+            "enddate": "20241119",
+            "url": "/th?id=OHR.TasmansArch_EN-IN6029485722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TasmansArch_EN-IN6029485722",
+            "copyright": "Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Tasmania&form=hpcapt&filters=HpDate%3a%2220241118_1830%22",
+            "title": "An arch that rocks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241118_TasmansArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c50c4a7266e0bef45d6ee68db7bc2479",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241117",
             "fullstartdate": "202411171830",
