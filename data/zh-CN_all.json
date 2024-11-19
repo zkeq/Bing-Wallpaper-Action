@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-18 00:48:46",
-    "Total": 936,
+    "LastUpdate": "2024-11-19 00:48:41",
+    "Total": 937,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241118",
+            "fullstartdate": "202411181600",
+            "enddate": "20241119",
+            "url": "/th?id=OHR.TasmansArch_ZH-CN7062784426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TasmansArch_ZH-CN7062784426",
+            "copyright": "塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E6%B4%B2&form=hpcapt&mkt=zh-cn",
+            "title": "令人震撼的拱门",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241118_TasmansArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52088015cec496f939437f48d8e0b6b0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241117",
             "fullstartdate": "202411171600",
