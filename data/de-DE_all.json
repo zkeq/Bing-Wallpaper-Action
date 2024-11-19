@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-18 00:49:02",
-    "Total": 936,
+    "LastUpdate": "2024-11-19 00:48:55",
+    "Total": 937,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241118",
+            "fullstartdate": "202411182300",
+            "enddate": "20241119",
+            "url": "/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667",
+            "copyright": "Weißbirkenwald (Betula pendula) im Herbstnebel, Deutschland (© Duncan Usher/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Birkenwald+Herbst&form=hpcapt&filters=HpDate%3a%2220241118_2300%22",
+            "title": "Hören Sie den Wald flüstern?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241118_GermanyEuropeanWhiteBirchAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8195a0fae2343dae474ca30cb873e154",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241117",
             "fullstartdate": "202411172300",
