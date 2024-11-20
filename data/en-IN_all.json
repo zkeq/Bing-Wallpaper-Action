@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-19 00:49:08",
-    "Total": 937,
+    "LastUpdate": "2024-11-20 00:49:17",
+    "Total": 938,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241119",
+            "fullstartdate": "202411191830",
+            "enddate": "20241120",
+            "url": "/th?id=OHR.TrulliGrove_EN-IN6379040036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrulliGrove_EN-IN6379040036",
+            "copyright": "Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Olive+Tree&form=hpcapt&filters=HpDate%3a%2220241119_1830%22",
+            "title": "Many centuries of olive trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241119_TrulliGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1a831154f451e19342d52f5a0b153f99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241118",
             "fullstartdate": "202411181830",
