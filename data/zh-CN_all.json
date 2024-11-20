@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-19 00:48:41",
-    "Total": 937,
+    "LastUpdate": "2024-11-20 00:48:49",
+    "Total": 938,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241119",
+            "fullstartdate": "202411191600",
+            "enddate": "20241120",
+            "url": "/th?id=OHR.PontBordeaux_ZH-CN7656263575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PontBordeaux_ZH-CN7656263575",
+            "copyright": "皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%A2%E5%B0%94%E5%A4%9A%E7%9A%AE%E5%9F%83%E5%B0%94%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "加龙河上的历史通道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241119_PontBordeaux%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb05ec85c0517677d57c4375622225fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241118",
             "fullstartdate": "202411181600",
