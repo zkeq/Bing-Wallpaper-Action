@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-19 00:49:12",
-    "Total": 937,
+    "LastUpdate": "2024-11-20 00:49:21",
+    "Total": 938,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241119",
+            "fullstartdate": "202411192300",
+            "enddate": "20241120",
+            "url": "/th?id=OHR.BeyondSaype_FR-FR1795905140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeyondSaype_FR-FR1795905140",
+            "copyright": "Fresque géante « Beyond Crisis » de Saype, Leysin, Suisse (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+internationale+des+droits+de+l%27enfant+&form=hpcapt&filters=HpDate%3a%2220241119_2300%22",
+            "title": "Un avenir à protéger, un présent à respecter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241119_BeyondSaype%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "160f8e5d32682db71628061f94474606",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241118",
             "fullstartdate": "202411182300",
