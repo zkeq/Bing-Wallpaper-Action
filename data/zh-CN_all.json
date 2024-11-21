@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-20 00:48:49",
-    "Total": 938,
+    "LastUpdate": "2024-11-21 00:48:40",
+    "Total": 939,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241120",
+            "fullstartdate": "202411201600",
+            "enddate": "20241121",
+            "url": "/th?id=OHR.LionCubs_ZH-CN8538754038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LionCubs_ZH-CN8538754038",
+            "copyright": "日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8B%AE%E5%AD%90&form=hpcapt&mkt=zh-cn",
+            "title": "在肩头远眺",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241120_LionCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1509355b9a72c603b78b79d7b51428a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241119",
             "fullstartdate": "202411191600",
