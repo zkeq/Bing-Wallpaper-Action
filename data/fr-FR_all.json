@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-20 00:49:21",
-    "Total": 938,
+    "LastUpdate": "2024-11-21 00:49:12",
+    "Total": 939,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241120",
+            "fullstartdate": "202411202300",
+            "enddate": "20241121",
+            "url": "/th?id=OHR.LionCubs_FR-FR2539679303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LionCubs_FR-FR2539679303",
+            "copyright": "Lionceaux au lever du soleil, Afrique du Sud (© Ruan Springorum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lion&form=hpcapt&filters=HpDate%3a%2220241120_2300%22",
+            "title": "Les jeunes rois de la savane",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241120_LionCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4405d6de8750df81741af7582802ab4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241119",
             "fullstartdate": "202411192300",
