@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-20 00:49:12",
-    "Total": 936,
+    "LastUpdate": "2024-11-21 00:49:03",
+    "Total": 937,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241121",
+            "fullstartdate": "202411210000",
+            "enddate": "20241122",
+            "url": "/th?id=OHR.LionCubs_EN-GB7386144841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LionCubs_EN-GB7386144841",
+            "copyright": "Two lion cubs, South Africa (© Ruan Springorum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lion&form=hpcapt&filters=HpDate%3a%2220241121_0000%22",
+            "title": "A look over the shoulder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241121_LionCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e414c6b52284f51b22daeb24def85e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241120",
             "fullstartdate": "202411200000",
