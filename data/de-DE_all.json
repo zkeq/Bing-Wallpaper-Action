@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-20 00:49:04",
-    "Total": 938,
+    "LastUpdate": "2024-11-21 00:48:54",
+    "Total": 939,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241120",
+            "fullstartdate": "202411202300",
+            "enddate": "20241121",
+            "url": "/th?id=OHR.LionCubs_DE-DE4457487465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LionCubs_DE-DE4457487465",
+            "copyright": "Zwei Löwenjunge bei Sonnenaufgang, Südafrika (© Ruan Springorum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=L%C3%B6we&form=hpcapt&filters=HpDate%3a%2220241120_2300%22",
+            "title": "Gemeinsam stark",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241120_LionCubs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ea88402b063c545e7bd6ebd65b20b4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241119",
             "fullstartdate": "202411192300",
