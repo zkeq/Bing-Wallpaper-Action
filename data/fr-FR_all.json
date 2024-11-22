@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-21 00:49:12",
-    "Total": 939,
+    "LastUpdate": "2024-11-22 00:49:17",
+    "Total": 940,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241121",
+            "fullstartdate": "202411212300",
+            "enddate": "20241122",
+            "url": "/th?id=OHR.ZafraCastle_FR-FR2717876307_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZafraCastle_FR-FR2717876307",
+            "copyright": "Château de Zafra, Guadalajara, Espagne (© Eduard Gene/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=ch%C3%A2teau+de+zafra%2c+espagne&form=hpcapt&filters=HpDate%3a%2220241121_2300%22",
+            "title": "Une fortification dans l'univers d'une série emblématique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241121_ZafraCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "727665198d999e9c0ad7be6ac413e1a1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241120",
             "fullstartdate": "202411202300",
