@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-21 00:49:17",
-    "Total": 939,
+    "LastUpdate": "2024-11-22 00:49:22",
+    "Total": 940,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241121",
+            "fullstartdate": "202411212300",
+            "enddate": "20241122",
+            "url": "/th?id=OHR.ZafraCastle_IT-IT7473974060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZafraCastle_IT-IT7473974060",
+            "copyright": "Castello di Zafra, provincia di Guadalajara, Spagna (© Eduard Gene/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Zafra%2c+Spagna&form=hpcapt",
+            "title": "Roccaforte ispanica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241121_ZafraCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d6bc2d837953853b93b7c519b764512",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241120",
             "fullstartdate": "202411202300",
