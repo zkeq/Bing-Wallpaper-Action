@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-21 00:48:50",
-    "Total": 939,
+    "LastUpdate": "2024-11-22 00:48:55",
+    "Total": 940,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241121",
+            "fullstartdate": "202411211500",
+            "enddate": "20241122",
+            "url": "/th?id=OHR.Xiaoxue2024_JA-JP4930643570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Xiaoxue2024_JA-JP4930643570",
+            "copyright": "白糸の滝, 静岡県 富士宮市 (© Sean Pavone/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E7%B3%B8%E3%81%AE%E6%BB%9D+%E9%9D%99%E5%B2%A1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220241121_1500%22",
+            "title": "今日は小雪",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241121_Xiaoxue2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "000f2c3f2690c5141e26ea14419321dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241120",
             "fullstartdate": "202411201500",
