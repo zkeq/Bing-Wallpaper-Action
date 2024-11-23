@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-22 00:49:17",
-    "Total": 940,
+    "LastUpdate": "2024-11-23 00:49:09",
+    "Total": 941,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241122",
+            "fullstartdate": "202411222300",
+            "enddate": "20241123",
+            "url": "/th?id=OHR.FibonacciAloe_FR-FR2896003531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FibonacciAloe_FR-FR2896003531",
+            "copyright": "Aloès en spirale, île Kangaroo, Australie (© Michael Melford/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+Fibonacci&form=hpcapt&filters=HpDate%3a%2220241122_2300%22",
+            "title": "Le code secret de la nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241122_FibonacciAloe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "84114543eba5fa3b8a81407ee14f63d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241121",
             "fullstartdate": "202411212300",
