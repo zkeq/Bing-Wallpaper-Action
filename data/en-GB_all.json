@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-22 00:49:08",
-    "Total": 938,
+    "LastUpdate": "2024-11-23 00:49:00",
+    "Total": 939,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241123",
+            "fullstartdate": "202411230000",
+            "enddate": "20241124",
+            "url": "/th?id=OHR.FibonacciAloe_EN-GB8183049694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FibonacciAloe_EN-GB8183049694",
+            "copyright": "Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Fibonacci+Day&form=hpcapt&filters=HpDate%3a%2220241123_0000%22",
+            "title": "Nature's secret code",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241123_FibonacciAloe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b2b08b9c061ff95d22662201333036b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241122",
             "fullstartdate": "202411220000",
