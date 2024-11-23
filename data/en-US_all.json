@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-22 00:48:51",
-    "Total": 940,
+    "LastUpdate": "2024-11-23 00:48:43",
+    "Total": 941,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241122",
+            "fullstartdate": "202411220800",
+            "enddate": "20241123",
+            "url": "/th?id=OHR.ZafraCastle_EN-US5032917939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZafraCastle_EN-US5032917939",
+            "copyright": "Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=castle+of+zafra&form=hpcapt&filters=HpDate%3a%2220241122_0800%22",
+            "title": "Castle on a crag",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241122_ZafraCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3bf7d8fad5667cb2e2391bcdec53c8c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241121",
             "fullstartdate": "202411210800",
