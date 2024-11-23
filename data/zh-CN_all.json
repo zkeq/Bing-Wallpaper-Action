@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-22 00:48:45",
-    "Total": 940,
+    "LastUpdate": "2024-11-23 00:48:37",
+    "Total": 941,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241122",
+            "fullstartdate": "202411221600",
+            "enddate": "20241123",
+            "url": "/th?id=OHR.FibonacciAloe_ZH-CN8974137481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FibonacciAloe_ZH-CN8974137481",
+            "copyright": "多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E7%BA%AA%E5%BF%B5%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "大自然的密码",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241122_FibonacciAloe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8118ce62b80700112ae617a007088bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241121",
             "fullstartdate": "202411211600",
