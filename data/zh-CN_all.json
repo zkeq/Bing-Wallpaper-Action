@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-23 00:48:37",
-    "Total": 941,
+    "LastUpdate": "2024-11-24 00:48:52",
+    "Total": 942,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241123",
+            "fullstartdate": "202411231600",
+            "enddate": "20241124",
+            "url": "/th?id=OHR.SonomaCoast_ZH-CN9187330701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonomaCoast_ZH-CN9187330701",
+            "copyright": "州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B4%A2%E8%AF%BA%E9%A9%AC%E6%B5%B7%E5%B2%B8%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "潮汐与暮色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241123_SonomaCoast%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "31e1a244a11b1cd1fa734c5f1b41e232",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241122",
             "fullstartdate": "202411221600",
