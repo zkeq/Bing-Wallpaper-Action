@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-23 00:49:13",
-    "Total": 941,
+    "LastUpdate": "2024-11-24 00:49:27",
+    "Total": 942,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241123",
+            "fullstartdate": "202411232300",
+            "enddate": "20241124",
+            "url": "/th?id=OHR.SonomaCoast_IT-IT7979490899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonomaCoast_IT-IT7979490899",
+            "copyright": "Parco statale della Costa di Sonoma, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Contea+di+Sonoma&form=hpcapt",
+            "title": "Nebbia pacifica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241123_SonomaCoast%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "076aab57dd0106e70983eece8dc6bf90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241122",
             "fullstartdate": "202411222300",
