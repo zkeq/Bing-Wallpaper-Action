@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-24 00:49:23",
-    "Total": 942,
+    "LastUpdate": "2024-11-25 00:49:34",
+    "Total": 943,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241124",
+            "fullstartdate": "202411242300",
+            "enddate": "20241125",
+            "url": "/th?id=OHR.AmboseliGiraffes_FR-FR8363811171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmboseliGiraffes_FR-FR8363811171",
+            "copyright": "Girafes Masai, parc national d'Amboseli, Kenya (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+d%27Amboseli%2c+Kenya+&form=hpcapt&filters=HpDate%3a%2220241124_2300%22",
+            "title": "La vie sauvage dans toute sa splendeur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241124_AmboseliGiraffes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f1194f0b13c8e0a168d639060e3882d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241123",
             "fullstartdate": "202411232300",
