@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-24 00:49:06",
-    "Total": 942,
+    "LastUpdate": "2024-11-25 00:49:17",
+    "Total": 943,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241124",
+            "fullstartdate": "202411242300",
+            "enddate": "20241125",
+            "url": "/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094",
+            "copyright": "Weihnachtsmarkt in Regensburg, Bayern (© Harald Nachtmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Regensburg+Christkindlmarkt&form=hpcapt&filters=HpDate%3a%2220241124_2300%22",
+            "title": "Festliche Vorfreude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241124_RegensburgChristmasMarket%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "21f7a3a30bcbdb148d5e028216717a30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241123",
             "fullstartdate": "202411232300",
