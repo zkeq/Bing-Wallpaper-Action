@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-24 00:48:58",
-    "Total": 942,
+    "LastUpdate": "2024-11-25 00:49:08",
+    "Total": 943,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241124",
+            "fullstartdate": "202411240800",
+            "enddate": "20241125",
+            "url": "/th?id=OHR.SonomaCoast_EN-US5218026576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonomaCoast_EN-US5218026576",
+            "copyright": "Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Sonoma+Coast+State+Park&form=hpcapt&filters=HpDate%3a%2220241124_0800%22",
+            "title": "Tides and twilight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241124_SonomaCoast%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a7bb2e26badf21472319bd431911207",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241123",
             "fullstartdate": "202411230800",
