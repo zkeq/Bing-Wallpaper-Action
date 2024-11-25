@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-24 00:48:52",
-    "Total": 942,
+    "LastUpdate": "2024-11-25 00:49:02",
+    "Total": 943,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241124",
+            "fullstartdate": "202411241600",
+            "enddate": "20241125",
+            "url": "/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602",
+            "copyright": "马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%AE%89%E5%8D%9A%E5%A1%9E%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "野生动物的生活",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241124_AmboseliGiraffes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f895182e7f5995b048efdec2b1d176ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241123",
             "fullstartdate": "202411231600",
