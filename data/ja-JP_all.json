@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-25 00:49:12",
-    "Total": 943,
+    "LastUpdate": "2024-11-26 00:48:51",
+    "Total": 944,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241125",
+            "fullstartdate": "202411251500",
+            "enddate": "20241126",
+            "url": "/th?id=OHR.HotBathDay2024_JA-JP6338825094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HotBathDay2024_JA-JP6338825094",
+            "copyright": "金鱗湖の鳥居, 大分県 由布市 (© T-Mizuguchi/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%91%E9%B1%97%E6%B9%96%E3%81%AE%E9%B3%A5%E5%B1%85&form=hpcapt&filters=HpDate%3a%2220241125_1500%22",
+            "title": "今日はいい風呂の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_HotBathDay2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7cae270490676d368969e7bf0b81d980",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241124",
             "fullstartdate": "202411241500",
