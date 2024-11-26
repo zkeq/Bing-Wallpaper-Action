@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-25 00:49:08",
-    "Total": 943,
+    "LastUpdate": "2024-11-26 00:48:47",
+    "Total": 944,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241125",
+            "fullstartdate": "202411250800",
+            "enddate": "20241126",
+            "url": "/th?id=OHR.AmboseliGiraffes_EN-US9072366924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmboseliGiraffes_EN-US9072366924",
+            "copyright": "Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Amboseli+National+Park+Kenya&form=hpcapt&filters=HpDate%3a%2220241125_0800%22",
+            "title": "Life in the wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_AmboseliGiraffes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e3a25f7c7192b22ae69e2e77fde29c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241124",
             "fullstartdate": "202411240800",
