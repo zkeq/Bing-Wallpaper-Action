@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-25 00:49:30",
-    "Total": 943,
+    "LastUpdate": "2024-11-26 00:49:09",
+    "Total": 944,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241125",
+            "fullstartdate": "202411251830",
+            "enddate": "20241126",
+            "url": "/th?id=OHR.ConstitutionDay_EN-IN3100148262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConstitutionDay_EN-IN3100148262",
+            "copyright": "Dr. B.R. Ambedkar statue, Dharwad, Karnataka (© AnilD/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Constitution+Day&form=hpcapt&filters=HpDate%3a%2220241125_1830%22",
+            "title": "Sculpted vision of freedom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_ConstitutionDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f6211a86a78199b1d18e470a7187e68a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241124",
             "fullstartdate": "202411241830",
