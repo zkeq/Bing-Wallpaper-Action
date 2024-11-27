@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-26 00:48:47",
-    "Total": 944,
+    "LastUpdate": "2024-11-27 00:48:48",
+    "Total": 945,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241126",
+            "fullstartdate": "202411260800",
+            "enddate": "20241127",
+            "url": "/th?id=OHR.TrulliGrove_EN-US5919292259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrulliGrove_EN-US5919292259",
+            "copyright": "Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=UNESCO+World+Olive+Tree+Day&form=hpcapt&filters=HpDate%3a%2220241126_0800%22",
+            "title": "Beneath ancient olive trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241126_TrulliGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9598d9d0c76b004c259674508e91179a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241125",
             "fullstartdate": "202411250800",
