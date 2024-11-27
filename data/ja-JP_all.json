@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-26 00:48:51",
-    "Total": 944,
+    "LastUpdate": "2024-11-27 00:48:53",
+    "Total": 945,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241126",
+            "fullstartdate": "202411261500",
+            "enddate": "20241127",
+            "url": "/th?id=OHR.SemoisRiver_JA-JP6578585711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SemoisRiver_JA-JP6578585711",
+            "copyright": "セモワ川が作り出した壮大な蛇行地形, ベルギー (© David Briard/Getty)",
+            "copyrightlink": "https://www.bing.com/search?q=Le%C2%A0Tombeau+du+G%C3%A9ant&form=hpcapt&filters=HpDate%3a%2220241126_1500%22",
+            "title": "伝説の巨人が眠る場所？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241126_SemoisRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83119e4c09e4d3587f46d53e36ae236d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241125",
             "fullstartdate": "202411251500",
