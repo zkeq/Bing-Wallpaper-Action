@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-26 00:48:56",
-    "Total": 944,
+    "LastUpdate": "2024-11-27 00:48:57",
+    "Total": 945,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241126",
+            "fullstartdate": "202411262300",
+            "enddate": "20241127",
+            "url": "/th?id=OHR.SemoisRiver_DE-DE8856578235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SemoisRiver_DE-DE8856578235",
+            "copyright": "Tombeau du Géant im Herbst, Bouillon, Belgien (© David Briard/Getty)",
+            "copyrightlink": "https://www.bing.com/search?q=Bouillon+Belgium&form=hpcapt&filters=HpDate%3a%2220241126_2300%22",
+            "title": "Wenn Riesen rasten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241126_SemoisRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "573b74d2b1392cabcec1ce266ffa95cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241125",
             "fullstartdate": "202411252300",
