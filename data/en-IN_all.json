@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-27 00:49:11",
-    "Total": 945,
+    "LastUpdate": "2024-11-28 00:49:24",
+    "Total": 946,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241127",
+            "fullstartdate": "202411271830",
+            "enddate": "20241128",
+            "url": "/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MurdeshwarTemple_EN-IN3830652229",
+            "copyright": "Murudeshwara Temple, Murdeshwar, Karnataka (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Murudeshwara&form=hpcapt&filters=HpDate%3a%2220241127_1830%22",
+            "title": "A divine night",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241127_MurdeshwarTemple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c8b020008b46ce554184059565973c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241126",
             "fullstartdate": "202411261830",
