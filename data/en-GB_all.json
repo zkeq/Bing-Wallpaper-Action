@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-27 00:49:06",
-    "Total": 943,
+    "LastUpdate": "2024-11-28 00:49:19",
+    "Total": 944,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411280000",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.CityHall2024_EN-GB2172832238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CityHall2024_EN-GB2172832238",
+            "copyright": "City Hall, London, England (© coldsnowstorm/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=City+Hall+London&form=hpcapt&filters=HpDate%3a%2220241128_0000%22",
+            "title": "A twist on modern architecture",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_CityHall2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e269aaa9b32c5206732c9d88024e07f3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411270000",
