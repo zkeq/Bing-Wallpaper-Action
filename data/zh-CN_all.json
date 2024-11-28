@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-27 00:48:42",
-    "Total": 945,
+    "LastUpdate": "2024-11-28 00:48:56",
+    "Total": 946,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241127",
+            "fullstartdate": "202411271600",
+            "enddate": "20241128",
+            "url": "/th?id=OHR.AssiniboineTS_ZH-CN9936042562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AssiniboineTS_ZH-CN9936042562",
+            "copyright": "日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E8%A5%BF%E5%B0%BC%E5%8D%9A%E5%9B%A0%E5%B1%B1%E7%9C%81%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "山峰从云层中探出头来",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241127_AssiniboineTS%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5124bd6ccb625668b2079b9b163d78c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241126",
             "fullstartdate": "202411261600",
