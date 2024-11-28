@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-27 00:49:02",
-    "Total": 944,
+    "LastUpdate": "2024-11-28 00:49:15",
+    "Total": 945,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241127",
+            "fullstartdate": "202411270500",
+            "enddate": "20241128",
+            "url": "/th?id=OHR.SemoisRiver_EN-CA3031671072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SemoisRiver_EN-CA3031671072",
+            "copyright": "Giant's Tomb in autumn, Bouillon, Belgium (© David Briard/Getty)",
+            "copyrightlink": "https://www.bing.com/search?q=Bouillon+Belgium&form=hpcapt&filters=HpDate%3a%2220241127_0500%22",
+            "title": "The giant's resting place",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241127_SemoisRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b0180139fd14da4921ef238746b700b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241126",
             "fullstartdate": "202411260500",
