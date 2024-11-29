@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-28 00:49:11",
-    "Total": 946,
+    "LastUpdate": "2024-11-29 00:48:58",
+    "Total": 947,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411282300",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.MtStMichel_DE-DE3578803710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtStMichel_DE-DE3578803710",
+            "copyright": "Mont-Saint-Michel, Normandie, Frankreich (© Captain Skyhigh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont+Saint+Michel+Frankreich&form=hpcapt&filters=HpDate%3a%2220241128_2300%22",
+            "title": "Im Bann der Zeit und Gezeiten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_MtStMichel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8947b8463dc95366d249069b8a016dfe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411272300",
