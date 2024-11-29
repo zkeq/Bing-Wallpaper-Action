@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-28 00:49:24",
-    "Total": 946,
+    "LastUpdate": "2024-11-29 00:49:11",
+    "Total": 947,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411281830",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.MtStMichel_EN-IN3221435828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtStMichel_EN-IN3221435828",
+            "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241128_1830%22",
+            "title": "An island of time and tide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_MtStMichel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f61705817afb47a567f73f581554447",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411271830",
