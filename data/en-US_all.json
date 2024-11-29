@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-28 00:49:02",
-    "Total": 946,
+    "LastUpdate": "2024-11-29 00:48:50",
+    "Total": 947,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411280800",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.TomTurkeys_EN-US6212893518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TomTurkeys_EN-US6212893518",
+            "copyright": "Wild turkeys, New York (© John Cancalosi/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=hpcapt&filters=HpDate%3a%2220241128_0800%22",
+            "title": "Stuffed with gratitude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_TomTurkeys%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "604dd83d7548854d31372971d6495cb0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411270800",
