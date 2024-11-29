@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-28 00:49:15",
-    "Total": 945,
+    "LastUpdate": "2024-11-29 00:49:02",
+    "Total": 946,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411280500",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.AssiniboineTS_EN-CA8487090970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AssiniboineTS_EN-CA8487090970",
+            "copyright": "Clearing storm at sunset, Mount Assiniboine Provincial Park, Canada (© Jeff Lewis/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Assiniboine+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220241128_0500%22",
+            "title": "A peak peeks through the clouds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_AssiniboineTS%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e185796b724d5e88bddc47d3d88a61b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411270500",
