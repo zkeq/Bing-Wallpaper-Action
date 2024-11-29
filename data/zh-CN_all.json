@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-28 00:48:56",
-    "Total": 946,
+    "LastUpdate": "2024-11-29 00:48:44",
+    "Total": 947,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241128",
+            "fullstartdate": "202411281600",
+            "enddate": "20241129",
+            "url": "/th?id=OHR.MtStMichel_ZH-CN1232662142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtStMichel_ZH-CN1232662142",
+            "copyright": "圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%9B%BD%E5%9C%A3%E7%B1%B3%E6%AD%87%E5%B0%94%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "时间与潮汐之岛",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_MtStMichel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d2128b674c19d338ec1f43a32f33c023",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241127",
             "fullstartdate": "202411271600",
