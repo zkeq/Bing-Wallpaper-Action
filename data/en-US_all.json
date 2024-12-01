@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-30 00:48:44",
-    "Total": 948,
+    "LastUpdate": "2024-12-01 00:49:15",
+    "Total": 949,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241130",
+            "fullstartdate": "202411300800",
+            "enddate": "20241201",
+            "url": "/th?id=OHR.KilchurnAutumn_EN-US6737063910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KilchurnAutumn_EN-US6737063910",
+            "copyright": "Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Saint+Andrew%27s+Day&form=hpcapt&filters=HpDate%3a%2220241130_0800%22",
+            "title": "Reflecting Scotland's heritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_KilchurnAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0428a619e4fed525d303a180d4c1ee8e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241129",
             "fullstartdate": "202411290800",
