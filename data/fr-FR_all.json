@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-30 00:49:11",
-    "Total": 948,
+    "LastUpdate": "2024-12-01 00:49:41",
+    "Total": 949,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241130",
+            "fullstartdate": "202411302300",
+            "enddate": "20241201",
+            "url": "/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergsAntarctica_FR-FR7491065799",
+            "copyright": "Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=jour+de+l%27Antarctique&form=hpcapt&filters=HpDate%3a%2220241130_2300%22",
+            "title": "Protéger les dernières grandes étendues sauvages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_IcebergsAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5563d1e85e32d74becb6a97b39ec08ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241129",
             "fullstartdate": "202411292300",
