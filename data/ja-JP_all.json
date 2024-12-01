@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-30 00:48:48",
-    "Total": 948,
+    "LastUpdate": "2024-12-01 00:49:20",
+    "Total": 949,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241130",
+            "fullstartdate": "202411301500",
+            "enddate": "20241201",
+            "url": "/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergsAntarctica_JA-JP7385959905",
+            "copyright": "南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8%E3%81%AE%E6%B0%B7%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220241130_1500%22",
+            "title": "今日は南極条約が採択された日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_IcebergsAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3538b268b0d74b4ed5773fe2f156ea94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241129",
             "fullstartdate": "202411291500",
