@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-30 00:48:38",
-    "Total": 948,
+    "LastUpdate": "2024-12-01 00:49:09",
+    "Total": 949,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241130",
+            "fullstartdate": "202411301600",
+            "enddate": "20241201",
+            "url": "/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295",
+            "copyright": "南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E6%9E%81%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "保护最后一片大荒野",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_IcebergsAntarctica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ca406984dac1c0aca3e41755d57c1e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241129",
             "fullstartdate": "202411291600",
