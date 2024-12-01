@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-11-30 00:48:53",
-    "Total": 948,
+    "LastUpdate": "2024-12-01 00:49:24",
+    "Total": 949,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241130",
+            "fullstartdate": "202411302300",
+            "enddate": "20241201",
+            "url": "/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728",
+            "copyright": "Verschneite Fachwerkhäuser in Freudenberg bei Siegen, Nordrhein-Westfalen (© Thorsten Frisch/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Beginn+der+Adventszeit&form=hpcapt&filters=HpDate%3a%2220241130_2300%22",
+            "title": "Zeit der Besinnung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_FreudenbergHistoricHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01354058232fe2589463093f95920c34",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241129",
             "fullstartdate": "202411292300",
