@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-01 00:49:41",
-    "Total": 949,
+    "LastUpdate": "2024-12-02 00:49:23",
+    "Total": 950,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241201",
+            "fullstartdate": "202412012300",
+            "enddate": "20241202",
+            "url": "/th?id=OHR.SnowMoose_FR-FR5886438114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowMoose_FR-FR5886438114",
+            "copyright": "Femelle élan, parc national de Denali, Alaska, États-Unis (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%A9lan&form=hpcapt&filters=HpDate%3a%2220241201_2300%22",
+            "title": "Prenez votre « élan » vers le Grand Nord",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241201_SnowMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcca01bb5c4f87e2ee88a6015ef2585a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241130",
             "fullstartdate": "202411302300",
