@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-01 00:49:20",
-    "Total": 949,
+    "LastUpdate": "2024-12-02 00:49:01",
+    "Total": 950,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241201",
+            "fullstartdate": "202412011500",
+            "enddate": "20241202",
+            "url": "/th?id=OHR.SnowMoose_JA-JP7555569429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowMoose_JA-JP7555569429",
+            "copyright": "デナリ国立公園のヘラジカ, 米国 アラスカ州  (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%87%E3%83%8A%E3%83%AA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AE%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220241201_1500%22",
+            "title": "北欧の森に生息する巨人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241201_SnowMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f10ac2c13c3d242ba64b7b579449e19f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241130",
             "fullstartdate": "202411301500",
