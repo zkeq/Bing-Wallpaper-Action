@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-01 00:49:24",
-    "Total": 949,
+    "LastUpdate": "2024-12-02 00:49:05",
+    "Total": 950,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241201",
+            "fullstartdate": "202412012300",
+            "enddate": "20241202",
+            "url": "/th?id=OHR.SnowMoose_DE-DE0618096568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowMoose_DE-DE0618096568",
+            "copyright": "Weiblicher Elch, Denali-Nationalpark, Alaska, USA (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Elch&form=hpcapt&filters=HpDate%3a%2220241201_2300%22",
+            "title": "Majestät der Wildnis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241201_SnowMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "284989da9297be581745e34477cd3756",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241130",
             "fullstartdate": "202411302300",
