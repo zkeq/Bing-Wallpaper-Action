@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-02 00:48:51",
-    "Total": 950,
+    "LastUpdate": "2024-12-03 00:48:49",
+    "Total": 951,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241202",
+            "fullstartdate": "202412021600",
+            "enddate": "20241203",
+            "url": "/th?id=OHR.JaipurFort_ZH-CN3891828158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JaipurFort_ZH-CN3891828158",
+            "copyright": "Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%90%A5%E7%8F%80%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "柱式遗产",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241202_JaipurFort%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "679e350cec1627576764382814237049",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241201",
             "fullstartdate": "202412011600",
