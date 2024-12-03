@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-02 00:49:10",
-    "Total": 949,
+    "LastUpdate": "2024-12-03 00:49:07",
+    "Total": 950,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241202",
+            "fullstartdate": "202412020500",
+            "enddate": "20241203",
+            "url": "/th?id=OHR.SnowMoose_EN-CA6422097332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowMoose_EN-CA6422097332",
+            "copyright": "Female moose, Denali National Park, Alaska, USA (© Cavan Images/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=moose&form=hpcapt&filters=HpDate%3a%2220241202_0500%22",
+            "title": "A wild stare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241202_SnowMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e864163732793bdf43a2ed40f6a113bc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241201",
             "fullstartdate": "202412010500",
