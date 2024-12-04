@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-03 00:48:54",
-    "Total": 951,
+    "LastUpdate": "2024-12-04 00:48:52",
+    "Total": 952,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241203",
+            "fullstartdate": "202412030800",
+            "enddate": "20241204",
+            "url": "/th?id=OHR.JaipurFort_EN-US7275752190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JaipurFort_EN-US7275752190",
+            "copyright": "Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Amber+Fort+Jaipur&form=hpcapt&filters=HpDate%3a%2220241203_0800%22",
+            "title": "Pillars of the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241203_JaipurFort%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b76c8430ce9dff83fbf64243b2d6fe53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241202",
             "fullstartdate": "202412020800",
