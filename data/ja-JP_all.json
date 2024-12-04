@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-03 00:48:58",
-    "Total": 951,
+    "LastUpdate": "2024-12-04 00:48:57",
+    "Total": 952,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241203",
+            "fullstartdate": "202412031500",
+            "enddate": "20241204",
+            "url": "/th?id=OHR.RhinosKenya_JA-JP7911615612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhinosKenya_JA-JP7911615612",
+            "copyright": "シロサイの顔合わせ, ケニア (© Ingo Arndt/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%AD%E3%82%B5%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220241203_1500%22",
+            "title": "今日は世界動物の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241203_RhinosKenya%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49d51eeeea2752403b00afbbf10c904c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241202",
             "fullstartdate": "202412021500",
