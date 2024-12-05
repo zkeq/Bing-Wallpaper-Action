@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:49:24",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:49:27",
+    "Total": 953,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412042300",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.MonoTufa_IT-IT7280531919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_IT-IT7280531919",
+            "copyright": "Formazione di tufo sul lago Mono, California, USA (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+Mono+California&form=hpcapt",
+            "title": "Nella quiete dei contrasti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "229f869f5e19f88002fdc5097df8ef9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412032300",
