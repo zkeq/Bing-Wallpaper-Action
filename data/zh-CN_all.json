@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:48:46",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:48:50",
+    "Total": 953,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412041600",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.MonoTufa_ZH-CN4998806540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_ZH-CN4998806540",
+            "copyright": "莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E8%8E%AB%E8%AF%BA%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "石灰华塔的崛起",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55d048ad3b661ebcb5d478a5fcecea5a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412031600",
