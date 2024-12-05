@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:49:20",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:49:22",
+    "Total": 953,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412042300",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.MonoTufa_FR-FR7760480527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_FR-FR7760480527",
+            "copyright": "Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=+lac+Mono%2c+Californie&form=hpcapt&filters=HpDate%3a%2220241204_2300%22",
+            "title": "Un trésor géologique californien",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf0a1c4122e9ea3945160a7cfc6557eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412032300",
