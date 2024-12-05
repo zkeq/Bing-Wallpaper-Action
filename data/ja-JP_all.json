@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:48:57",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:49:00",
+    "Total": 953,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412041500",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.MonoTufa_JA-JP8066767108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_JA-JP8066767108",
+            "copyright": "モノ湖, 米国 カリフォルニア州 (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%83%8E%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241204_1500%22",
+            "title": "石灰岩の柱がそびえる不思議な湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "741e49f72713a9f6df91feb722c74a00",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412031500",
