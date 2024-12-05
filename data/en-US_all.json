@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:48:52",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:48:56",
+    "Total": 953,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412040800",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.RhinosKenya_EN-US7514650014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhinosKenya_EN-US7514650014",
+            "copyright": "Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=White+Rhinoceros&form=hpcapt&filters=HpDate%3a%2220241204_0800%22",
+            "title": "On the front line of extinction",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_RhinosKenya%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2ddc2beb1e4d8ea74933839844bd4fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412030800",
