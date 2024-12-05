@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-04 00:49:02",
-    "Total": 952,
+    "LastUpdate": "2024-12-05 00:49:05",
+    "Total": 953,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241204",
+            "fullstartdate": "202412042300",
+            "enddate": "20241205",
+            "url": "/th?id=OHR.MonoTufa_DE-DE3076493863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_DE-DE3076493863",
+            "copyright": "Kalktuff-Formationen am Mono Lake, Kalifornien, USA (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mono+Lake+Kalifornien&form=hpcapt&filters=HpDate%3a%2220241204_2300%22",
+            "title": "Wunder der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241204_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa0b76dc2dd164d1baf0bcada93a677a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241203",
             "fullstartdate": "202412032300",
