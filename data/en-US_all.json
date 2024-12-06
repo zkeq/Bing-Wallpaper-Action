@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-05 00:48:56",
-    "Total": 953,
+    "LastUpdate": "2024-12-06 00:48:52",
+    "Total": 954,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241205",
+            "fullstartdate": "202412050800",
+            "enddate": "20241206",
+            "url": "/th?id=OHR.MonoTufa_EN-US7607210506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonoTufa_EN-US7607210506",
+            "copyright": "Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mono+Lake+California&form=hpcapt&filters=HpDate%3a%2220241205_0800%22",
+            "title": "The rise of tufa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241205_MonoTufa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ffd33dd95f59bc47a52c88adae148e5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241204",
             "fullstartdate": "202412040800",
