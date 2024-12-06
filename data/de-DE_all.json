@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-05 00:49:05",
-    "Total": 953,
+    "LastUpdate": "2024-12-06 00:49:00",
+    "Total": 954,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241205",
+            "fullstartdate": "202412052300",
+            "enddate": "20241206",
+            "url": "/th?id=OHR.HelsinkiDusk_DE-DE2937448278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelsinkiDusk_DE-DE2937448278",
+            "copyright": "Altstadt in Helsinki, Finnland (© Oleksiy Mark/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Finnland+Staat&form=hpcapt&filters=HpDate%3a%2220241205_2300%22",
+            "title": "Alles Gute Finnland!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241205_HelsinkiDusk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "595374674f5f4f35b8ebac3c004cd5b8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241204",
             "fullstartdate": "202412042300",
