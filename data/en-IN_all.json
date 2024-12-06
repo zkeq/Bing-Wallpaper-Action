@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-05 00:49:18",
-    "Total": 953,
+    "LastUpdate": "2024-12-06 00:49:13",
+    "Total": 954,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241205",
+            "fullstartdate": "202412051830",
+            "enddate": "20241206",
+            "url": "/th?id=OHR.HelsinkiDusk_EN-IN5970913809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelsinkiDusk_EN-IN5970913809",
+            "copyright": "Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Finnish+Independence+Day&form=hpcapt&filters=HpDate%3a%2220241205_1830%22",
+            "title": "Happy birthday, Finland!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241205_HelsinkiDusk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3cf28213188a1b11537041f22e70151",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241204",
             "fullstartdate": "202412041830",
