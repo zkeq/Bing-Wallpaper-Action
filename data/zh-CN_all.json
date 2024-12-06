@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-05 00:48:50",
-    "Total": 953,
+    "LastUpdate": "2024-12-06 00:48:46",
+    "Total": 954,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241205",
+            "fullstartdate": "202412051600",
+            "enddate": "20241206",
+            "url": "/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreaterSnow2024_ZH-CN5929129591",
+            "copyright": "鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E8%BF%9E%E6%B3%8A%E9%9C%9E%E6%B9%BE&form=hpcapt&mkt=zh-cn",
+            "title": "一路通往童话之路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241205_GreaterSnow2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad3df8e823ff7145649c7e8ba493c108",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241204",
             "fullstartdate": "202412041600",
