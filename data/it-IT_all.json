@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-05 00:49:27",
-    "Total": 953,
+    "LastUpdate": "2024-12-06 00:49:21",
+    "Total": 954,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241205",
+            "fullstartdate": "202412052300",
+            "enddate": "20241206",
+            "url": "/th?id=OHR.HelsinkiDusk_IT-IT9045834080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelsinkiDusk_IT-IT9045834080",
+            "copyright": "Città vecchia di Helsinki, Finlandia (© Oleksiy Mark/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Indipendenza+Finlandia&form=hpcapt",
+            "title": "Felice anniversario!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241205_HelsinkiDusk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c35f9763addc4d7ddc4241373c58ddc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241204",
             "fullstartdate": "202412042300",
