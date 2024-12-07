@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-06 00:49:17",
-    "Total": 954,
+    "LastUpdate": "2024-12-07 00:49:18",
+    "Total": 955,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241206",
+            "fullstartdate": "202412062300",
+            "enddate": "20241207",
+            "url": "/th?id=OHR.ArraialdoCabo_FR-FR2062864559_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArraialdoCabo_FR-FR2062864559",
+            "copyright": "Arraial do Cabo dans l'État de Rio de Janeiro, Brésil (© Derson Santana/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Arraial+do+Cabo%2c+br%C3%A9sil&form=hpcapt&filters=HpDate%3a%2220241206_2300%22",
+            "title": "Du bleu à perte de vue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241206_ArraialdoCabo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b05f085ae3b247b63afa9c726059335",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241205",
             "fullstartdate": "202412052300",
