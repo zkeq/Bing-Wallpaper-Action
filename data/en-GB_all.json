@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-06 00:49:09",
-    "Total": 952,
+    "LastUpdate": "2024-12-07 00:49:10",
+    "Total": 953,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241207",
+            "fullstartdate": "202412070000",
+            "enddate": "20241208",
+            "url": "/th?id=OHR.Stonehenge2024_EN-GB3942393785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Stonehenge2024_EN-GB3942393785",
+            "copyright": "Stonehenge, Wiltshire, England (© Gavin Hellier/robertharding/Subjects/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Stonehenge&form=hpcapt&filters=HpDate%3a%2220241207_0000%22",
+            "title": "The riddle of the stones",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241207_Stonehenge2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b81138df8f5da37383f188fb75b8fb9a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241206",
             "fullstartdate": "202412060000",
