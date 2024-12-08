@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-07 00:48:46",
-    "Total": 955,
+    "LastUpdate": "2024-12-08 00:49:02",
+    "Total": 956,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241207",
+            "fullstartdate": "202412071600",
+            "enddate": "20241208",
+            "url": "/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762",
+            "copyright": "巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2&form=hpcapt&mkt=zh-cn",
+            "title": "巴黎圣母院再度回归",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241207_ReopeningNotreDame%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ac31ac4fef5dacf5e0dfaceac3a72d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241206",
             "fullstartdate": "202412061600",
