@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-07 00:49:10",
-    "Total": 953,
+    "LastUpdate": "2024-12-08 00:49:26",
+    "Total": 954,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241208",
+            "fullstartdate": "202412080000",
+            "enddate": "20241209",
+            "url": "/th?id=OHR.ReopeningNotreDame_EN-GB4181670261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReopeningNotreDame_EN-GB4181670261",
+            "copyright": "Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Notre+Dame+de+Paris&form=hpcapt&filters=HpDate%3a%2220241208_0000%22",
+            "title": "The comeback of Notre-Dame",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241208_ReopeningNotreDame%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04e85f6248e264060d289a68e3d7da33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241207",
             "fullstartdate": "202412070000",
