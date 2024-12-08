@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-07 00:48:52",
-    "Total": 955,
+    "LastUpdate": "2024-12-08 00:49:08",
+    "Total": 956,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241207",
+            "fullstartdate": "202412070800",
+            "enddate": "20241208",
+            "url": "/th?id=OHR.NewHavenBridge_EN-US7922266620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NewHavenBridge_EN-US7922266620",
+            "copyright": "Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pearl+Harbor+Remembrance+Day&form=hpcapt&filters=HpDate%3a%2220241207_0800%22",
+            "title": "Remembering Pearl Harbor",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241207_NewHavenBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4aca65cf36a08c3edc8f3f0dfa2bc513",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241206",
             "fullstartdate": "202412060800",
