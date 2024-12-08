@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-07 00:49:23",
-    "Total": 955,
+    "LastUpdate": "2024-12-08 00:49:39",
+    "Total": 956,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241207",
+            "fullstartdate": "202412072300",
+            "enddate": "20241208",
+            "url": "/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156",
+            "copyright": "Santa Lucia, Belluno, Veneto (© Moreno Geremetta/Mauritius images GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Colle+Santa+Lucia%2c+Belluno&form=hpcapt",
+            "title": "Una fiaba natalizia?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241207_PonteDeellImmacolata%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "84387a6b904caf5e457fd67be7134fe3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241206",
             "fullstartdate": "202412062300",
