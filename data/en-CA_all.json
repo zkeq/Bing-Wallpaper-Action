@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-07 00:49:05",
-    "Total": 954,
+    "LastUpdate": "2024-12-08 00:49:21",
+    "Total": 955,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241207",
+            "fullstartdate": "202412070500",
+            "enddate": "20241208",
+            "url": "/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615",
+            "copyright": "Lake Ontario in the winter season, Toronto (© Brendan Riley/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Ontario&form=hpcapt&filters=HpDate%3a%2220241207_0500%22",
+            "title": "Where water meets winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241207_TorontoWinterSkyline%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d4e45142519176e60f9c7eeded5ee6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241206",
             "fullstartdate": "202412060500",
