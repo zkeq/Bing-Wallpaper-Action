@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-08 00:49:02",
-    "Total": 956,
+    "LastUpdate": "2024-12-09 00:48:56",
+    "Total": 957,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241208",
+            "fullstartdate": "202412081600",
+            "enddate": "20241209",
+            "url": "/th?id=OHR.GuanacosChile_ZH-CN7011761081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuanacosChile_ZH-CN7011761081",
+            "copyright": "两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8E%9F%E9%A9%BC&form=hpcapt&mkt=zh-cn",
+            "title": "态度和高度",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241208_GuanacosChile%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb54110a0aedfb81d6bee64c4ce09448",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241207",
             "fullstartdate": "202412071600",
