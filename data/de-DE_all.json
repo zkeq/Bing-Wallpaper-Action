@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-08 00:49:17",
-    "Total": 956,
+    "LastUpdate": "2024-12-09 00:49:10",
+    "Total": 957,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241208",
+            "fullstartdate": "202412082300",
+            "enddate": "20241209",
+            "url": "/th?id=OHR.GuanacosChile_DE-DE1043903141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuanacosChile_DE-DE1043903141",
+            "copyright": "Zwei Guanakos, Nationalpark Torres del Paine, Chile (© Floris van Breugel/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Torres+del+Paine%2c+Chile&form=hpcapt&filters=HpDate%3a%2220241208_2300%22",
+            "title": "Wo die Gipfel den Himmel berühren",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241208_GuanacosChile%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "feb13f60a8516f0a781eafd8848193a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241207",
             "fullstartdate": "202412072300",
