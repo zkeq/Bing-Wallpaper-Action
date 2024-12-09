@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-08 00:49:26",
-    "Total": 954,
+    "LastUpdate": "2024-12-09 00:49:19",
+    "Total": 955,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241209",
+            "fullstartdate": "202412090000",
+            "enddate": "20241210",
+            "url": "/th?id=OHR.GuanacosChile_EN-GB4439006560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GuanacosChile_EN-GB4439006560",
+            "copyright": "Two guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Llama+Day&form=hpcapt&filters=HpDate%3a%2220241209_0000%22",
+            "title": "Attitude and altitude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241209_GuanacosChile%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c71bf4acbfc7770b2ccb90b535ef6248",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241208",
             "fullstartdate": "202412080000",
