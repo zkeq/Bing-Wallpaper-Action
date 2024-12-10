@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-09 00:49:10",
-    "Total": 957,
+    "LastUpdate": "2024-12-10 00:49:03",
+    "Total": 958,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241209",
+            "fullstartdate": "202412092300",
+            "enddate": "20241210",
+            "url": "/th?id=OHR.CornwallSnow_DE-DE2370440399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CornwallSnow_DE-DE2370440399",
+            "copyright": "Verschneiter Cornish Coast Path, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Land%27s+End%2c+Cornwall%2c+England&form=hpcapt&filters=HpDate%3a%2220241209_2300%22",
+            "title": "Schnee und Gischt im Morgenlicht?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241209_CornwallSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8392bac19c4bbc8263d9766a9225222e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241208",
             "fullstartdate": "202412082300",
