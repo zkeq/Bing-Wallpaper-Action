@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-09 00:48:56",
-    "Total": 957,
+    "LastUpdate": "2024-12-10 00:48:48",
+    "Total": 958,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241209",
+            "fullstartdate": "202412091600",
+            "enddate": "20241210",
+            "url": "/th?id=OHR.CornwallSnow_ZH-CN8407245245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CornwallSnow_ZH-CN8407245245",
+            "copyright": "被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%B7%E6%B2%83%E5%B0%94%E9%83%A1%E5%85%B0%E5%85%B9%E8%A7%92&form=hpcapt&mkt=zh-cn",
+            "title": "世界的尽头？不完全是",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241209_CornwallSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "edfbd7e695abaddc73e28aae23a7fba0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241208",
             "fullstartdate": "202412081600",
