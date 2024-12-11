@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-10 00:49:16",
-    "Total": 958,
+    "LastUpdate": "2024-12-11 00:49:17",
+    "Total": 959,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241210",
+            "fullstartdate": "202412101830",
+            "enddate": "20241211",
+            "url": "/th?id=OHR.DolomitesSky_EN-IN3020670588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitesSky_EN-IN3020670588",
+            "copyright": "Tre Cime di Lavaredo, Italy (© Daniel Maran/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tre+Cime+di+Lavaredo&form=hpcapt&filters=HpDate%3a%2220241210_1830%22",
+            "title": "The triumphant trio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241210_DolomitesSky%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bd72fa6e8330e03b6960edf50349c75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241209",
             "fullstartdate": "202412091830",
