@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-10 00:49:03",
-    "Total": 958,
+    "LastUpdate": "2024-12-11 00:49:04",
+    "Total": 959,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241210",
+            "fullstartdate": "202412102300",
+            "enddate": "20241211",
+            "url": "/th?id=OHR.DolomitesSky_DE-DE3083933099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitesSky_DE-DE3083933099",
+            "copyright": "Drei Zinnen, Italien (© Daniel Maran/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Drei+Zinnen+Gebirgsgruppe&form=hpcapt&filters=HpDate%3a%2220241210_2300%22",
+            "title": "Die glorreichen Drei",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241210_DolomitesSky%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a22bd272748abd9b20c9e9d85601602c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241209",
             "fullstartdate": "202412092300",
