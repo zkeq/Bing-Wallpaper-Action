@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-11 00:49:13",
-    "Total": 957,
+    "LastUpdate": "2024-12-12 00:49:16",
+    "Total": 958,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241212",
+            "fullstartdate": "202412120000",
+            "enddate": "20241213",
+            "url": "/th?id=OHR.WildPoinsettia_EN-GB5028659817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildPoinsettia_EN-GB5028659817",
+            "copyright": "Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Poinsettia&form=hpcapt&filters=HpDate%3a%2220241212_0000%22",
+            "title": "'Red-y' for the holidays",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241212_WildPoinsettia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75b7d3a3840caeefb43c230d0a375bcf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241211",
             "fullstartdate": "202412110000",
