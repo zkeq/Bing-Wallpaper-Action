@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-12 00:49:29",
-    "Total": 960,
+    "LastUpdate": "2024-12-13 00:49:27",
+    "Total": 961,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241212",
+            "fullstartdate": "202412122300",
+            "enddate": "20241213",
+            "url": "/th?id=OHR.ChristmasBudapest_IT-IT6393045785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasBudapest_IT-IT6393045785",
+            "copyright": "Mercatino di Natale, Basilica di Santo Stefano, Budapest, Ungheria (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Basilica+concattedrale+di+Santo+Stefano+Budapest&form=hpcapt",
+            "title": "Un mercatino che racconta il Natale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241212_ChristmasBudapest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b99415580ecad1a6d4b9566e4d4c389",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241211",
             "fullstartdate": "202412112300",
