@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-12 00:49:16",
-    "Total": 958,
+    "LastUpdate": "2024-12-13 00:49:15",
+    "Total": 959,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241213",
+            "fullstartdate": "202412130000",
+            "enddate": "20241214",
+            "url": "/th?id=OHR.ChristmasBudapest_EN-GB5094460199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasBudapest_EN-GB5094460199",
+            "copyright": "Christmas market, St Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=St+Stephens+Basilica+Budapest&form=hpcapt&filters=HpDate%3a%2220241213_0000%22",
+            "title": "Advent at the basilica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241213_ChristmasBudapest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c77e7fc3a6ab3650cd2daba39042163d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241212",
             "fullstartdate": "202412120000",
