@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-12 00:49:03",
-    "Total": 960,
+    "LastUpdate": "2024-12-13 00:49:02",
+    "Total": 961,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241212",
+            "fullstartdate": "202412121500",
+            "enddate": "20241213",
+            "url": "/th?id=OHR.ChristmasBudapest_JA-JP6583292404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasBudapest_JA-JP6583292404",
+            "copyright": "聖イシュトヴァーン大聖堂, ハンガリー (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%81%96%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%88%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%B3%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220241212_1500%22",
+            "title": "賑やかなクリスマスマーケット",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241212_ChristmasBudapest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3aaca313725d225db09e14d851e88d5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241211",
             "fullstartdate": "202412111500",
