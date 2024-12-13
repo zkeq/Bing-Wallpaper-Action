@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-12 00:49:07",
-    "Total": 960,
+    "LastUpdate": "2024-12-13 00:49:06",
+    "Total": 961,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241212",
+            "fullstartdate": "202412122300",
+            "enddate": "20241213",
+            "url": "/th?id=OHR.ChristmasBudapest_DE-DE0464258749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasBudapest_DE-DE0464258749",
+            "copyright": "Weihnachtsmarkt, St. Stephans Basilika, Budapest, Ungarn (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=St.+Stephans+Basilika+Budapest&form=hpcapt&filters=HpDate%3a%2220241212_2300%22",
+            "title": "Advent rund um die Basilika",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241212_ChristmasBudapest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ff2ee280ec8c4ceda31b96c5cbd8fd58",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241211",
             "fullstartdate": "202412112300",
