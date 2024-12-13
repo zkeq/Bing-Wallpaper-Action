@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-12 00:48:53",
-    "Total": 960,
+    "LastUpdate": "2024-12-13 00:48:52",
+    "Total": 961,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241212",
+            "fullstartdate": "202412121600",
+            "enddate": "20241213",
+            "url": "/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasBudapest_ZH-CN8197439971",
+            "copyright": "圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E5%9C%A3%E6%96%AF%E8%92%82%E8%8A%AC%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn",
+            "title": "圣斯蒂芬大教堂的降临节",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241212_ChristmasBudapest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ee242ec4da80836ec176e42e0c4ed37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241211",
             "fullstartdate": "202412111600",
