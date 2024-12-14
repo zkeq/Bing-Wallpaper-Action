@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-13 00:49:15",
-    "Total": 959,
+    "LastUpdate": "2024-12-14 00:49:06",
+    "Total": 960,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241214",
+            "fullstartdate": "202412140000",
+            "enddate": "20241215",
+            "url": "/th?id=OHR.NorthernHawkOwl_EN-GB5538150484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthernHawkOwl_EN-GB5538150484",
+            "copyright": "Northern hawk-owl, Canada (© pchoui/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Northern+hawk+owl&form=hpcapt&filters=HpDate%3a%2220241214_0000%22",
+            "title": "'Hoo' said that?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241214_NorthernHawkOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd6be964793390f35080302b5889f511",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241213",
             "fullstartdate": "202412130000",
