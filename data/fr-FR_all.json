@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-13 00:49:23",
-    "Total": 961,
+    "LastUpdate": "2024-12-14 00:49:15",
+    "Total": 962,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241213",
+            "fullstartdate": "202412132300",
+            "enddate": "20241214",
+            "url": "/th?id=OHR.LynxTree_FR-FR1855644774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LynxTree_FR-FR1855644774",
+            "copyright": "Lynx de Boréal perché dans un arbre, France (© Marc Chesneau/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lynx+de+Bor%C3%A9al&form=hpcapt&filters=HpDate%3a%2220241213_2300%22",
+            "title": "Le sphinx des bois",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241213_LynxTree%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "62b89ffac47cf97a5e23677b68ba8ca4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241212",
             "fullstartdate": "202412122300",
