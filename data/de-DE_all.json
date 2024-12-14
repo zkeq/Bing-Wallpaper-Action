@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-13 00:49:06",
-    "Total": 961,
+    "LastUpdate": "2024-12-14 00:48:57",
+    "Total": 962,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241213",
+            "fullstartdate": "202412132300",
+            "enddate": "20241214",
+            "url": "/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthernHawkOwl_DE-DE0106015482",
+            "copyright": "Sperbereule, Kanada (© pchoui/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sperbereule&form=hpcapt&filters=HpDate%3a%2220241213_2300%22",
+            "title": "Wachsame Augen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241213_NorthernHawkOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6996f2b1cd966e336ff98b4472b7691c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241212",
             "fullstartdate": "202412122300",
