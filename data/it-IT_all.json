@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-14 00:49:20",
-    "Total": 962,
+    "LastUpdate": "2024-12-15 00:49:36",
+    "Total": 963,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241214",
+            "fullstartdate": "202412142300",
+            "enddate": "20241215",
+            "url": "/th?id=OHR.MisurinaLake_IT-IT7475356294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaLake_IT-IT7475356294",
+            "copyright": "Lago di Misurina, Auronzo di Cadore, Veneto (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Misurina&form=hpcapt",
+            "title": "Lago lago delle mie brame...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241214_MisurinaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df056eb6d94bc72ef21f5004af836339",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241213",
             "fullstartdate": "202412132300",
