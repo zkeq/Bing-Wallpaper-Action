@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-14 00:48:57",
-    "Total": 962,
+    "LastUpdate": "2024-12-15 00:49:14",
+    "Total": 963,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241214",
+            "fullstartdate": "202412142300",
+            "enddate": "20241215",
+            "url": "/th?id=OHR.MisurinaLake_DE-DE0931532016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaLake_DE-DE0931532016",
+            "copyright": "Misurinasee, Dolomiten, Italien (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Misurinasee+Italien&form=hpcapt&filters=HpDate%3a%2220241214_2300%22",
+            "title": "Gespiegelte Schönheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241214_MisurinaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b681108b72025cdefc135540b9a4767",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241213",
             "fullstartdate": "202412132300",
