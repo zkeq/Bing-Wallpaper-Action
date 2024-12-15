@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-14 00:48:53",
-    "Total": 962,
+    "LastUpdate": "2024-12-15 00:49:10",
+    "Total": 963,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241214",
+            "fullstartdate": "202412141500",
+            "enddate": "20241215",
+            "url": "/th?id=OHR.MisurinaLake_JA-JP7561735635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaLake_JA-JP7561735635",
+            "copyright": "ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9F%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%8A%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241214_1500%22",
+            "title": "鏡のように壮大な山々を映す湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241214_MisurinaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cbe5ca7f1d6fc325c431862133d2cc38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241213",
             "fullstartdate": "202412131500",
