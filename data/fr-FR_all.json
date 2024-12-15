@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-14 00:49:15",
-    "Total": 962,
+    "LastUpdate": "2024-12-15 00:49:32",
+    "Total": 963,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241214",
+            "fullstartdate": "202412142300",
+            "enddate": "20241215",
+            "url": "/th?id=OHR.MisurinaLake_FR-FR7558311472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaLake_FR-FR7558311472",
+            "copyright": "Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lac+Misurina%2c+Dolomites%2c+Italie&form=hpcapt&filters=HpDate%3a%2220241214_2300%22",
+            "title": "Un lac de larmes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241214_MisurinaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "290962694b03bd67c09ab133d53325a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241213",
             "fullstartdate": "202412132300",
