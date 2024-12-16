@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-15 00:49:32",
-    "Total": 963,
+    "LastUpdate": "2024-12-16 00:49:25",
+    "Total": 964,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241215",
+            "fullstartdate": "202412152300",
+            "enddate": "20241216",
+            "url": "/th?id=OHR.SalzburgSnow_FR-FR2498324626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalzburgSnow_FR-FR2498324626",
+            "copyright": "Salzbourg, Autriche (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Salzbourg&form=hpcapt&filters=HpDate%3a%2220241215_2300%22",
+            "title": "La perle des Alpes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241215_SalzburgSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "57ee776cb8dcc19b1439300d811754f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241214",
             "fullstartdate": "202412142300",
