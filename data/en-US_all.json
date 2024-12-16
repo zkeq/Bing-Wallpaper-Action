@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-15 00:49:05",
-    "Total": 963,
+    "LastUpdate": "2024-12-16 00:48:57",
+    "Total": 964,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241215",
+            "fullstartdate": "202412150800",
+            "enddate": "20241216",
+            "url": "/th?id=OHR.MisurinaLake_EN-US7921587884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaLake_EN-US7921587884",
+            "copyright": "Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Misurina+Italy&form=hpcapt&filters=HpDate%3a%2220241215_0800%22",
+            "title": "A lake of tears",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241215_MisurinaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c332da41c624b05d14a76ffae5565d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241214",
             "fullstartdate": "202412140800",
