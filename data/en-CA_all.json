@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-16 00:49:11",
-    "Total": 963,
+    "LastUpdate": "2024-12-17 00:49:09",
+    "Total": 964,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241216",
+            "fullstartdate": "202412160500",
+            "enddate": "20241217",
+            "url": "/th?id=OHR.SalzburgSnow_EN-CA2222024592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalzburgSnow_EN-CA2222024592",
+            "copyright": "Salzburg, Austria (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Salzburg&form=hpcapt&filters=HpDate%3a%2220241216_0500%22",
+            "title": "Twinkling streets and icy peaks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241216_SalzburgSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ab982c7417aec903df22709ff92b203",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241215",
             "fullstartdate": "202412150500",
