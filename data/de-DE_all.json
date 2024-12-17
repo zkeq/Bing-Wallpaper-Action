@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-16 00:49:07",
-    "Total": 964,
+    "LastUpdate": "2024-12-17 00:49:04",
+    "Total": 965,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241216",
+            "fullstartdate": "202412162300",
+            "enddate": "20241217",
+            "url": "/th?id=OHR.ReinefjordenNorway_DE-DE5744534611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReinefjordenNorway_DE-DE5744534611",
+            "copyright": "Traditionelle rote Fischerhütten am Ufer des Reinefjords, Norwegen (© Pilat666/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lofoten+Norwegen&form=hpcapt&filters=HpDate%3a%2220241216_2300%22",
+            "title": "Ein Hauch von Rot im Winterparadies",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241216_ReinefjordenNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bd29ad07693049d0b59131046798b866",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241215",
             "fullstartdate": "202412152300",
