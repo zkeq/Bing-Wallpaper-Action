@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-17 00:48:50",
-    "Total": 965,
+    "LastUpdate": "2024-12-18 00:48:42",
+    "Total": 966,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241217",
+            "fullstartdate": "202412171600",
+            "enddate": "20241218",
+            "url": "/th?id=OHR.MorningElephants_ZH-CN1418579765_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MorningElephants_ZH-CN1418579765",
+            "copyright": "印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%90%89%E5%A7%86%E7%A7%91%E6%AF%94%E7%89%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "壮观的象群队伍",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241217_MorningElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c79d6a26b3b5140790ae899abd0e901",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241216",
             "fullstartdate": "202412161600",
