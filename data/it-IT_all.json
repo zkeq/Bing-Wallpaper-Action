@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-18 00:49:18",
-    "Total": 966,
+    "LastUpdate": "2024-12-19 00:49:20",
+    "Total": 967,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241218",
+            "fullstartdate": "202412182300",
+            "enddate": "20241219",
+            "url": "/th?id=OHR.SibiuRomania_IT-IT8074363725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SibiuRomania_IT-IT8074363725",
+            "copyright": "Mercatino di Natale di Sibiu, Romania (© Calin Stan/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Sibiu&form=hpcapt",
+            "title": "Sapori d’inverno e luci di festa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241218_SibiuRomania%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a80c5653d5291616bd4ffa8ef7d6960",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241217",
             "fullstartdate": "202412172300",
