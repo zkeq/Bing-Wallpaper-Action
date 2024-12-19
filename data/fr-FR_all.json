@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-18 00:49:14",
-    "Total": 966,
+    "LastUpdate": "2024-12-19 00:49:16",
+    "Total": 967,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241218",
+            "fullstartdate": "202412182300",
+            "enddate": "20241219",
+            "url": "/th?id=OHR.SibiuRomania_FR-FR5904755818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SibiuRomania_FR-FR5904755818",
+            "copyright": "Marché de Noël de Sibiu, Roumanie  (© Calin Stan/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Sibiu%2c+Roumanie&form=hpcapt&filters=HpDate%3a%2220241218_2300%22",
+            "title": "Noël au Cœur de la Transylvanie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241218_SibiuRomania%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d61a40b1fcdb0550cefc657b2e56fcae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241217",
             "fullstartdate": "202412172300",
