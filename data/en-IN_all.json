@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-18 00:49:10",
-    "Total": 966,
+    "LastUpdate": "2024-12-19 00:49:12",
+    "Total": 967,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241218",
+            "fullstartdate": "202412181830",
+            "enddate": "20241219",
+            "url": "/th?id=OHR.SibiuRomania_EN-IN1994356758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SibiuRomania_EN-IN1994356758",
+            "copyright": "Sibiu Christmas Market, Romania (© Calin Stan/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Sibiu&form=hpcapt&filters=HpDate%3a%2220241218_1830%22",
+            "title": "Twinkle town",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241218_SibiuRomania%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89c115f39cb4a52613b8a6b60f31b7ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241217",
             "fullstartdate": "202412171830",
