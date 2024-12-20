@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-19 00:48:45",
-    "Total": 967,
+    "LastUpdate": "2024-12-20 00:48:34",
+    "Total": 968,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241219",
+            "fullstartdate": "202412191600",
+            "enddate": "20241220",
+            "url": "/th?id=OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaClausVillage_ZH-CN1839275027",
+            "copyright": "罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BD%97%E7%93%A6%E6%B6%85%E7%B1%B3&form=hpcapt&mkt=zh-cn",
+            "title": "圣诞老人要来镇上了",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241219_SantaClausVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c47e4c5341e35cd2cf789692cd9dfd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241218",
             "fullstartdate": "202412181600",
