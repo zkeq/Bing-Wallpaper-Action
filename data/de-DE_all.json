@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-19 00:48:59",
-    "Total": 967,
+    "LastUpdate": "2024-12-20 00:48:49",
+    "Total": 968,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241219",
+            "fullstartdate": "202412192300",
+            "enddate": "20241220",
+            "url": "/th?id=OHR.SantaClausVillage_DE-DE6517743209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaClausVillage_DE-DE6517743209",
+            "copyright": "Weihnachtsmanndorf in Rovaniemi, Lappland, Finnland (© Smelov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Rovaniemi%2c+Hauptstadt+Lappland%2c+Finnland&form=hpcapt&filters=HpDate%3a%2220241219_2300%22",
+            "title": "Ist es schon soweit?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241219_SantaClausVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a38a9613fbaf01088cd8a2432adcb5cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241218",
             "fullstartdate": "202412182300",
