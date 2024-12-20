@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-19 00:49:08",
-    "Total": 965,
+    "LastUpdate": "2024-12-20 00:48:58",
+    "Total": 966,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241220",
+            "fullstartdate": "202412200000",
+            "enddate": "20241221",
+            "url": "/th?id=OHR.SantaClausVillage_EN-GB5411562669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaClausVillage_EN-GB5411562669",
+            "copyright": "Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Rovaniemi&form=hpcapt&filters=HpDate%3a%2220241220_0000%22",
+            "title": "He's coming to town...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241220_SantaClausVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e5d4d2a28eab96ecfde2f7cc5de44ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241219",
             "fullstartdate": "202412190000",
