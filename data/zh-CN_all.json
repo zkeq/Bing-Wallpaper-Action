@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-20 00:48:34",
-    "Total": 968,
+    "LastUpdate": "2024-12-21 00:48:32",
+    "Total": 969,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241220",
+            "fullstartdate": "202412201600",
+            "enddate": "20241221",
+            "url": "/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterSolstice2024_ZH-CN2045153949",
+            "copyright": "满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%AC%E8%87%B3&form=hpcapt&mkt=zh-cn",
+            "title": "极致的冬日景色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241220_WinterSolstice2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "21f72495b7065a68a6621c8a82be1e7e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241219",
             "fullstartdate": "202412191600",
