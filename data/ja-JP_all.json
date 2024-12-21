@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-20 00:48:44",
-    "Total": 968,
+    "LastUpdate": "2024-12-21 00:48:42",
+    "Total": 969,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241220",
+            "fullstartdate": "202412201500",
+            "enddate": "20241221",
+            "url": "/th?id=OHR.BluePond2024_JA-JP2198755551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BluePond2024_JA-JP2198755551",
+            "copyright": "ライトアップされた青い池, 北海道 美瑛町 (© Sean Pavone/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%95%E3%82%8C%E3%81%9F%E9%9D%92%E3%81%84%E6%B1%A0&form=hpcapt&filters=HpDate%3a%2220241220_1500%22",
+            "title": "今日は冬至",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241220_BluePond2024%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f71510de33f45c3e5b9a4a7e0296f2a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241219",
             "fullstartdate": "202412191500",
