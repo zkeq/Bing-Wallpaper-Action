@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-20 00:49:02",
-    "Total": 968,
+    "LastUpdate": "2024-12-21 00:49:00",
+    "Total": 969,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241220",
+            "fullstartdate": "202412201830",
+            "enddate": "20241221",
+            "url": "/th?id=OHR.SolsticeHalo_EN-IN0859597164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SolsticeHalo_EN-IN0859597164",
+            "copyright": "Halo around the sun, Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Winter+solstice&form=hpcapt&filters=HpDate%3a%2220241220_1830%22",
+            "title": "Midwinter wonderland",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241220_SolsticeHalo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f3cc7f09c142d770a5be3b77884e775",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241219",
             "fullstartdate": "202412191830",
