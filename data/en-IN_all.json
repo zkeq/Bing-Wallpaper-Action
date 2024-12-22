@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-21 00:49:00",
-    "Total": 969,
+    "LastUpdate": "2024-12-22 00:49:15",
+    "Total": 970,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241221",
+            "fullstartdate": "202412211830",
+            "enddate": "20241222",
+            "url": "/th?id=OHR.CrystalPier_EN-IN1061631248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalPier_EN-IN1061631248",
+            "copyright": "Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=San+Diego+California&form=hpcapt&filters=HpDate%3a%2220241221_1830%22",
+            "title": "Surf, sand and Santa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241221_CrystalPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2601d1777f558b90ef5546d7f06b87f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241220",
             "fullstartdate": "202412201830",
