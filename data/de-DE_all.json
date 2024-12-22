@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-21 00:48:47",
-    "Total": 969,
+    "LastUpdate": "2024-12-22 00:49:03",
+    "Total": 970,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241221",
+            "fullstartdate": "202412212300",
+            "enddate": "20241222",
+            "url": "/th?id=OHR.GermanyAdventWreath_DE-DE0507962655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GermanyAdventWreath_DE-DE0507962655",
+            "copyright": "Adventskranz, 4. Advent (© Asvolas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Adventskranz&form=hpcapt&filters=HpDate%3a%2220241221_2300%22",
+            "title": "Steht es schon vor der Tür?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241221_GermanyAdventWreath%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1dd430a6e142f6e1af4dac41d997a341",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241220",
             "fullstartdate": "202412202300",
