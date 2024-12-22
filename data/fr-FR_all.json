@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-21 00:49:04",
-    "Total": 969,
+    "LastUpdate": "2024-12-22 00:49:19",
+    "Total": 970,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241221",
+            "fullstartdate": "202412212300",
+            "enddate": "20241222",
+            "url": "/th?id=OHR.CrystalPier_FR-FR4694395729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalPier_FR-FR4694395729",
+            "copyright": "Arbre de Noël à Crystal Pier, Pacific Beach, San Diego, Californie (© SamAntonioPhotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=San+Diego+Californie&form=hpcapt&filters=HpDate%3a%2220241221_2300%22",
+            "title": "Le surf, le sable et le Père Noël !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241221_CrystalPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b94c89877016ac6b463328100adc8e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241220",
             "fullstartdate": "202412202300",
