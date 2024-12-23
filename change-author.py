@@ -18,7 +18,7 @@ new_env = {
 cmd = '''
 git filter-branch -f --env-filter '
 COMMIT_MSG=$(git log --format=%B -n 1 $GIT_COMMIT)
-if [[ $COMMIT_MSG =~ "GitHub Actions Crawler ALL IN ONE at" ]]; then
+if [[ $COMMIT_MSG =~ "GitHub Actions " ]]; then
     export GIT_AUTHOR_NAME="github-actions[bot]"
     export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
     export GIT_COMMITTER_NAME="github-actions[bot]"
