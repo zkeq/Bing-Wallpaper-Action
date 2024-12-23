@@ -1,0 +1,149 @@
+name: GetDataBase Execute Every Day .
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 0 * * *'  
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - GetDataBase
+  # watch:
+  #   types: [started]
+
+jobs:
+  Crawler:
+    name: Crawler
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.10.15
+
+      - name: 'Install requirements'
+        run: |
+          pip install -r ./requirements.txt
+
+      - name: "GIT CONFIG SETUP"
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: 'CRAWLER zh-CN BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py zh-CN
+
+
+      - name: 'Commit zh-CN CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler zh-CN at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-US BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-US
+
+
+      - name: 'Commit en-US CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-US at $(date +'%Y-%m-%d %H:%M:%S')"
+          
+
+      - name: 'CRAWLER ja-JP BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py ja-JP
+
+
+      - name: 'Commit ja-JP CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler ja-JP at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER de-DE BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py de-DE
+
+
+      - name: 'Commit de-DE CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler de-DE at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-CA BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-CA
+
+
+      - name: 'Commit en-CA CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-CA at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER en-GB BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-GB
+
+
+      - name: 'Commit en-GB CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-GB at $(date +'%Y-%m-%d %H:%M:%S')"
+          
+
+      - name: 'CRAWLER en-IN BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py en-IN
+
+
+      - name: 'Commit en-IN CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler en-IN at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER fr-FR BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py fr-FR
+
+
+      - name: 'Commit fr-FR CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler fr-FR at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: 'CRAWLER it-IT BING DATABASE'
+        env:
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: python ./ALL.py it-IT
+
+
+      - name: 'Commit it-IT CRAWLER files'
+        run: |
+          git add .
+          git commit -m "GitHub Actions Crawler it-IT at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: "MAKE readme.md file"
+        run: python ./make_readme.py
+
+      - name: Commit readme.md files
+        run: |
+          git add .
+          git commit -m "GitHub Actions MAKE README.md at $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
