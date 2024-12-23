@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-23 00:49:19",
-    "Total": 970,
+    "LastUpdate": "2024-12-23 12:43:49",
+    "Total": 971,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241223",
+            "fullstartdate": "202412230500",
+            "enddate": "20241224",
+            "url": "/th?id=OHR.FestivusCranes_EN-CA3928943615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusCranes_EN-CA3928943615",
+            "copyright": "Two red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Festivus&form=hpcapt&filters=HpDate%3a%2220241223_0500%22",
+            "title": "Ready to let off some steam?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241223_FestivusCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae4c069032abb35b26e5b1bb371b2a42",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241222",
             "fullstartdate": "202412220500",
