@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-22 00:49:19",
-    "Total": 970,
+    "LastUpdate": "2024-12-23 00:49:31",
+    "Total": 971,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241222",
+            "fullstartdate": "202412222300",
+            "enddate": "20241223",
+            "url": "/th?id=OHR.FestivusCranes_FR-FR4485267796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusCranes_FR-FR4485267796",
+            "copyright": "Grues du Japon, Kushiro, Hokkaido, Japon (© Wirestock, Inc./Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=grues+du+japon&form=hpcapt&filters=HpDate%3a%2220241222_2300%22",
+            "title": "L'art du vol",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241222_FestivusCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9a0e79ac1dd4535a4423acdf3e8f13e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241221",
             "fullstartdate": "202412212300",
