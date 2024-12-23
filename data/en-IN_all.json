@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-22 00:49:15",
-    "Total": 970,
+    "LastUpdate": "2024-12-23 00:49:27",
+    "Total": 971,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241222",
+            "fullstartdate": "202412221830",
+            "enddate": "20241223",
+            "url": "/th?id=OHR.DhamekStupa_EN-IN0403888448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DhamekStupa_EN-IN0403888448",
+            "copyright": "Dhamek Stupa, Sarnath, Uttar Pradesh (© Dinodia Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dhamek+Stupa&form=hpcapt&filters=HpDate%3a%2220241222_1830%22",
+            "title": "Enlightened foundations",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241222_DhamekStupa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "19bc9dab4ee8ccf8f91b2267850d904d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241221",
             "fullstartdate": "202412211830",
