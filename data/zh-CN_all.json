@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-22 00:48:49",
-    "Total": 970,
+    "LastUpdate": "2024-12-23 00:49:00",
+    "Total": 971,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241222",
+            "fullstartdate": "202412221600",
+            "enddate": "20241223",
+            "url": "/th?id=OHR.FestivusCranes_ZH-CN2464862059_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestivusCranes_ZH-CN2464862059",
+            "copyright": "钏路的两只丹顶鹤，北海道，日本 (© Wirestock, Inc./Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%B9%E9%A1%B6%E9%B9%A4&form=hpcapt&mkt=zh-cn",
+            "title": "准备好发泄一些压力了吗？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241222_FestivusCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8590e305cfde526344279abb1a606884",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241221",
             "fullstartdate": "202412211600",
