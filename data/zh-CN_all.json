@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-23 12:43:35",
-    "Total": 971,
+    "LastUpdate": "2024-12-24 00:49:59",
+    "Total": 972,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241223",
+            "fullstartdate": "202412231600",
+            "enddate": "20241224",
+            "url": "/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaSnowglobe_ZH-CN2671421527",
+            "copyright": "德国圣诞市场 (© Cyril Gosselin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E5%A4%9C&form=hpcapt&mkt=zh-cn",
+            "title": "祝你圣诞快乐！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241223_SantaSnowglobe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c49fa8bb9b0522bd28520b0b3afb25df",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241222",
             "fullstartdate": "202412221600",
