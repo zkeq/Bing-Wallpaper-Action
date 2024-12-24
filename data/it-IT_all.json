@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-23 12:44:03",
-    "Total": 971,
+    "LastUpdate": "2024-12-24 00:50:31",
+    "Total": 972,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241223",
+            "fullstartdate": "202412232300",
+            "enddate": "20241224",
+            "url": "/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159",
+            "copyright": "Galleria Vittorio Emanuele II, Milano, Lombardia (© Stefan Huwiler/imageBROKER.com GmbH & Co. KG/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=24+dicembre&form=hpcapt",
+            "title": "Vigilia di Natale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241223_GalleriaVittiorioEmanuele%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "70af3992191c10ae1ec43b1f820e10d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241222",
             "fullstartdate": "202412222300",
