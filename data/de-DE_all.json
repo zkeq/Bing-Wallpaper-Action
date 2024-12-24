@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-23 12:43:46",
-    "Total": 971,
+    "LastUpdate": "2024-12-24 00:50:11",
+    "Total": 972,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241223",
+            "fullstartdate": "202412232300",
+            "enddate": "20241224",
+            "url": "/th?id=OHR.SantaSnowglobe_DE-DE7632109173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaSnowglobe_DE-DE7632109173",
+            "copyright": "Schneekugel mit dem Weihnachtsmann (© Cyril Gosselin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Heiligabend&form=hpcapt&filters=HpDate%3a%2220241223_2300%22",
+            "title": "Fröhliche Weihnachten allen heut’, Licht und Liebe für alle Leut’",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241223_SantaSnowglobe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3e3725746411e7b8ccb5f07aa1f9758",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241222",
             "fullstartdate": "202412222300",
