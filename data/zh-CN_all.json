@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-24 00:49:59",
-    "Total": 972,
+    "LastUpdate": "2024-12-25 00:49:56",
+    "Total": 973,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241224",
+            "fullstartdate": "202412241600",
+            "enddate": "20241225",
+            "url": "/th?id=OHR.CovadongaWinter_ZH-CN2873340163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CovadongaWinter_ZH-CN2873340163",
+            "copyright": "科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E7%93%A6%E4%B8%9C%E5%8A%A0%E5%8E%86%E5%8F%B2&form=hpcapt&mkt=zh-cn",
+            "title": "传说中的风景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241224_CovadongaWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c6f1ba27bdf3a10cf99246f1ffc7497",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241223",
             "fullstartdate": "202412231600",
