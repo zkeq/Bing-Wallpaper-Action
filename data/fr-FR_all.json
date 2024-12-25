@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-24 00:50:27",
-    "Total": 972,
+    "LastUpdate": "2024-12-25 00:50:25",
+    "Total": 973,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241224",
+            "fullstartdate": "202412242300",
+            "enddate": "20241225",
+            "url": "/th?id=OHR.ReindeerTrio_FR-FR3852495223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReindeerTrio_FR-FR3852495223",
+            "copyright": "Rennes du Svalbard, parc national de Van Mijenfjorden, Norvège (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=p%C3%A8re+no%C3%ABl&form=hpcapt&filters=HpDate%3a%2220241224_2300%22",
+            "title": "Joyeux Noël !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241224_ReindeerTrio%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e2226b5b6de0c75d641864f0cf9a17cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241223",
             "fullstartdate": "202412232300",
