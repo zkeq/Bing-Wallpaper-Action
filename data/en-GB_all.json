@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-25 00:50:17",
-    "Total": 971,
+    "LastUpdate": "2024-12-26 00:50:20",
+    "Total": 972,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241226",
+            "fullstartdate": "202412260000",
+            "enddate": "20241227",
+            "url": "/th?id=OHR.MouseholeXmas_EN-GB9459656621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MouseholeXmas_EN-GB9459656621",
+            "copyright": "Christmas lights at Mousehole harbour, Cornwall, England (© ianwool/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Boxing+Day&form=hpcapt&filters=HpDate%3a%2220241226_0000%22",
+            "title": "The holidays continue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241226_MouseholeXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "586fae04ea764ada3f4fcd31d50f50a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241225",
             "fullstartdate": "202412250000",
