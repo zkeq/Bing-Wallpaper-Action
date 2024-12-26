@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-25 00:49:56",
-    "Total": 973,
+    "LastUpdate": "2024-12-26 00:49:59",
+    "Total": 974,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241225",
+            "fullstartdate": "202412251600",
+            "enddate": "20241226",
+            "url": "/th?id=OHR.MouseholeXmas_ZH-CN3079184443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MouseholeXmas_ZH-CN3079184443",
+            "copyright": "莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "节日还在继续",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241225_MouseholeXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "271dade42d86dae4ce42ab63a50e5871",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241224",
             "fullstartdate": "202412241600",
