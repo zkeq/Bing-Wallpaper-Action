@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-25 00:50:05",
-    "Total": 973,
+    "LastUpdate": "2024-12-26 00:50:08",
+    "Total": 974,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241225",
+            "fullstartdate": "202412251500",
+            "enddate": "20241226",
+            "url": "/th?id=OHR.MouseholeXmas_JA-JP0779815955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MouseholeXmas_JA-JP0779815955",
+            "copyright": "マウゼル, イングランド (© ianwool/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%82%A6%E3%82%BC%E3%83%AB+%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220241225_1500%22",
+            "title": "今日はボクシング・デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241225_MouseholeXmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c93cf0505cc8a7eea3405df64a24f56a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241224",
             "fullstartdate": "202412241500",
