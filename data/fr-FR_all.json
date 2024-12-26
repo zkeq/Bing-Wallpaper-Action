@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-25 00:50:25",
-    "Total": 973,
+    "LastUpdate": "2024-12-26 00:50:28",
+    "Total": 974,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241225",
+            "fullstartdate": "202412252300",
+            "enddate": "20241226",
+            "url": "/th?id=OHR.PointeDiable_FR-FR3649413809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointeDiable_FR-FR3649413809",
+            "copyright": "Pointe du Diable, Saint Pierre, Parc national de la Réunion (© MONTICO Lionel/Hemis/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Pointe+du+Diable%2c+Saint+Pierre%2c+Parc+national+de+la+R%C3%A9union&form=hpcapt&filters=HpDate%3a%2220241225_2300%22",
+            "title": "Le souffle du diable et de la nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241225_PointeDiable%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "13b9e9965fc73a4c1db63cb7b954190f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241224",
             "fullstartdate": "202412242300",
