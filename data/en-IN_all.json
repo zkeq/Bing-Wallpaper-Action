@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-26 00:50:24",
-    "Total": 974,
+    "LastUpdate": "2024-12-27 00:50:23",
+    "Total": 975,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241226",
+            "fullstartdate": "202412261830",
+            "enddate": "20241227",
+            "url": "/th?id=OHR.LakeBledSnow_EN-IN8178018929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeBledSnow_EN-IN8178018929",
+            "copyright": "Lake Bled, Slovenia (© Kesu01/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Bled+Slovenia&form=hpcapt&filters=HpDate%3a%2220241226_1830%22",
+            "title": "Icy reflections and snow-dusted peaks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241226_LakeBledSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b66a0f827b0167dc1df8b26c1622ed7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241225",
             "fullstartdate": "202412251830",
