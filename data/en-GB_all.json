@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-27 00:50:19",
-    "Total": 973,
+    "LastUpdate": "2024-12-28 00:50:19",
+    "Total": 974,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241228",
+            "fullstartdate": "202412280000",
+            "enddate": "20241229",
+            "url": "/th?id=OHR.CoralTurtle_EN-GB3087704851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoralTurtle_EN-GB3087704851",
+            "copyright": "A green sea turtle swims in the Pacific Ocean near the French overseas territory of New Caledonia (© Damsea/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Green+sea+turtle&form=hpcapt&filters=HpDate%3a%2220241228_0000%22",
+            "title": "Shell-abrating a life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241228_CoralTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ad0b2d752b293d74e227ecf5f397537",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241227",
             "fullstartdate": "202412270000",
