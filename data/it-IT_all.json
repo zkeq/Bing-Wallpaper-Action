@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-27 00:50:31",
-    "Total": 975,
+    "LastUpdate": "2024-12-28 00:50:31",
+    "Total": 976,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241227",
+            "fullstartdate": "202412272300",
+            "enddate": "20241228",
+            "url": "/th?id=OHR.CoralTurtle_IT-IT2494528336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoralTurtle_IT-IT2494528336",
+            "copyright": "Tartaruga marina verde, Oceano Pacifico vicino al territorio francese d'oltremare della Nuova Caledonia (© Damsea/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tartaruga+Chelonia+mydas&form=hpcapt",
+            "title": "Danza marina",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241227_CoralTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7d1ee3726f4ebd7cd578e38b16b4367",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241226",
             "fullstartdate": "202412262300",
