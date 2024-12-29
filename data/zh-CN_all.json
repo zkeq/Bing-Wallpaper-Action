@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-28 00:49:58",
-    "Total": 976,
+    "LastUpdate": "2024-12-29 00:50:13",
+    "Total": 977,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241228",
+            "fullstartdate": "202412281600",
+            "enddate": "20241229",
+            "url": "/th?id=OHR.BorobudurBells_ZH-CN5291511365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorobudurBells_ZH-CN5291511365",
+            "copyright": "婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A9%86%E7%BD%97%E6%B5%AE%E5%B1%A0%E5%A4%A7%E4%BD%9B%E5%AF%BA&form=hpcapt&mkt=zh-cn",
+            "title": "圣山之上",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241228_BorobudurBells%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ab5d2b97d2da9a6a441cee154837bd1b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241227",
             "fullstartdate": "202412271600",
