@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-28 00:50:03",
-    "Total": 976,
+    "LastUpdate": "2024-12-29 00:50:18",
+    "Total": 977,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241228",
+            "fullstartdate": "202412280800",
+            "enddate": "20241229",
+            "url": "/th?id=OHR.CoralTurtle_EN-US6100263163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoralTurtle_EN-US6100263163",
+            "copyright": "A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Endangered+Species+Act&form=hpcapt&filters=HpDate%3a%2220241228_0800%22",
+            "title": "Shell-abrating a life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241228_CoralTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "742b7129862cbf586304093901e0c48b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241227",
             "fullstartdate": "202412270800",
