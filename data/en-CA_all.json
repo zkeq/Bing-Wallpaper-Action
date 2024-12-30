@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-29 00:50:30",
-    "Total": 976,
+    "LastUpdate": "2024-12-30 00:50:25",
+    "Total": 977,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241229",
+            "fullstartdate": "202412290500",
+            "enddate": "20241230",
+            "url": "/th?id=OHR.BorobudurBells_EN-CA5184067886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorobudurBells_EN-CA5184067886",
+            "copyright": "Borobudur temple, Java, Indonesia (© Robertharding/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Borobudur+temple+Java+Indonesia&form=hpcapt&filters=HpDate%3a%2220241229_0500%22",
+            "title": "On the sacred mountain",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241229_BorobudurBells%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa36f3a34527228421701ac3c846ee4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241228",
             "fullstartdate": "202412280500",
