@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-30 00:50:25",
-    "Total": 977,
+    "LastUpdate": "2024-12-31 00:50:14",
+    "Total": 978,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241230",
+            "fullstartdate": "202412300500",
+            "enddate": "20241231",
+            "url": "/th?id=OHR.MountFieldNP_EN-CA5418391081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountFieldNP_EN-CA5418391081",
+            "copyright": "Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Field+National+Park&form=hpcapt&filters=HpDate%3a%2220241230_0500%22",
+            "title": "A park for all seasons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241230_MountFieldNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "275e84a437f9c79cde9729e8f3dbe94b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241229",
             "fullstartdate": "202412290500",
