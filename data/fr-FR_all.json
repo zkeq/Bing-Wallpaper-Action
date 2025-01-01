@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-31 00:50:26",
-    "Total": 979,
+    "LastUpdate": "2025-01-01 00:50:47",
+    "Total": 980,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241231",
+            "fullstartdate": "202412312300",
+            "enddate": "20250101",
+            "url": "/th?id=OHR.PolarBearSwim_FR-FR0276887378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearSwim_FR-FR0276887378",
+            "copyright": "Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=jour+de+l%27an&form=hpcapt&filters=HpDate%3a%2220241231_2300%22",
+            "title": "Bienvenue 2025 !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241231_PolarBearSwim%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8627f4d260e8612931246a8ea341a26",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241230",
             "fullstartdate": "202412302300",
