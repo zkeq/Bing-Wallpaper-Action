@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-31 00:50:14",
-    "Total": 978,
+    "LastUpdate": "2025-01-01 00:50:35",
+    "Total": 979,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241231",
+            "fullstartdate": "202412310500",
+            "enddate": "20250101",
+            "url": "/th?id=OHR.CANYE24_EN-CA5635305751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CANYE24_EN-CA5635305751",
+            "copyright": "Fireworks over Parliament Hill with reflection, Ottawa (© naibak/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220241231_0500%22",
+            "title": "Midnight in Canada",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241231_CANYE24%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0ec2825e1e5ac0cbc7edc4cf5b5160c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241230",
             "fullstartdate": "202412300500",
