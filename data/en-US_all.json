@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2024-12-31 00:50:02",
-    "Total": 979,
+    "LastUpdate": "2025-01-01 00:50:24",
+    "Total": 980,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20241231",
+            "fullstartdate": "202412310800",
+            "enddate": "20250101",
+            "url": "/th?id=OHR.RioNewYear_EN-US7216341802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RioNewYear_EN-US7216341802",
+            "copyright": "New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Year%27s+Eve&form=hpcapt&filters=HpDate%3a%2220241231_0800%22",
+            "title": "Midnight in Rio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241231_RioNewYear%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e169c3c75983c86a8814c728137f5556",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241230",
             "fullstartdate": "202412300800",
