@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-01 00:50:19",
-    "Total": 980,
+    "LastUpdate": "2025-01-02 00:49:57",
+    "Total": 981,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250101",
+            "fullstartdate": "202501011600",
+            "enddate": "20250102",
+            "url": "/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240",
+            "copyright": "阿尔德兹村上空的星轨，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%91%9E%E5%A3%AB%E9%98%BF%E5%B0%94%E5%BE%B7%E5%85%B9&form=hpcapt&mkt=zh-cn",
+            "title": "熠熠生辉的村庄",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250101_ArdezSwitzerland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b12fd45784373333be42a167ac58a5fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241231",
             "fullstartdate": "202412311600",
