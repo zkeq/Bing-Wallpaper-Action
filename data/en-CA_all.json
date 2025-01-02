@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-01 00:50:35",
-    "Total": 979,
+    "LastUpdate": "2025-01-02 00:50:14",
+    "Total": 980,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250101",
+            "fullstartdate": "202501010500",
+            "enddate": "20250102",
+            "url": "/th?id=OHR.PolarBearSwim_EN-CA5875728051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarBearSwim_EN-CA5875728051",
+            "copyright": "Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220250101_0500%22",
+            "title": "Have an ice New Year's Day",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250101_PolarBearSwim%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48c813bc1dda46c0a7d8a8b1026be69d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241231",
             "fullstartdate": "202412310500",
