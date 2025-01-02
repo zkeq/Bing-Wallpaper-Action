@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-01 00:50:51",
-    "Total": 980,
+    "LastUpdate": "2025-01-02 00:50:30",
+    "Total": 981,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250101",
+            "fullstartdate": "202501012300",
+            "enddate": "20250102",
+            "url": "/th?id=OHR.ArdezSwitzerland_IT-IT8831023098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArdezSwitzerland_IT-IT8831023098",
+            "copyright": "Scie di stelle cadenti sul villaggio di Ardez, Grigioni, Svizzera (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ardez%2c+Svizzera&form=hpcapt",
+            "title": "Quante stelle, e quanti desideri",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250101_ArdezSwitzerland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4639940a0e566c0c9347c1154e25a21a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241231",
             "fullstartdate": "202412312300",
