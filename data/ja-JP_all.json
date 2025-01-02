@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-01 00:50:28",
-    "Total": 980,
+    "LastUpdate": "2025-01-02 00:50:06",
+    "Total": 981,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250101",
+            "fullstartdate": "202501011500",
+            "enddate": "20250102",
+            "url": "/th?id=OHR.PlumParakeet_JA-JP6915629740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumParakeet_JA-JP6915629740",
+            "copyright": "コセイインコ, インド カルナータカ州 (© Hira Punjabi/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%82%BB%E3%82%A4%E3%82%A4%E3%83%B3%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250101_1500%22",
+            "title": "カラフルな鳥",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250101_PlumParakeet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a3617e642da49e225535f3b7ad6c6f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20241231",
             "fullstartdate": "202412311500",
