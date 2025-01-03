@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-02 00:49:57",
-    "Total": 981,
+    "LastUpdate": "2025-01-03 00:50:01",
+    "Total": 982,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250102",
+            "fullstartdate": "202501021600",
+            "enddate": "20250103",
+            "url": "/th?id=OHR.TolkienOxford_ZH-CN6331694590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TolkienOxford_ZH-CN6331694590",
+            "copyright": "英国拉德克里夫图书馆和万灵学院，牛津大学，英格兰 (© atiger/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=JRR+%E6%89%98%E5%B0%94%E9%87%91&form=hpcapt&mkt=zh-cn",
+            "title": "尽享欢乐时光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250102_TolkienOxford%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4e756f0d51931065f6f9ae3ac4d7d3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250101",
             "fullstartdate": "202501011600",
