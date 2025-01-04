@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-03 00:50:09",
-    "Total": 982,
+    "LastUpdate": "2025-01-04 00:50:03",
+    "Total": 983,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250103",
+            "fullstartdate": "202501031500",
+            "enddate": "20250104",
+            "url": "/th?id=OHR.BouldersNZ_JA-JP7494581439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BouldersNZ_JA-JP7494581439",
+            "copyright": "丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%82%A8%E3%83%A9%E3%82%AD%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA&form=hpcapt&filters=HpDate%3a%2220250103_1500%22",
+            "title": "今日は石の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250103_BouldersNZ%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d023ae81a7448b26855d8f168d1b2eec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250102",
             "fullstartdate": "202501021500",
