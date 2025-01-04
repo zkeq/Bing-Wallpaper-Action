@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-03 00:50:13",
-    "Total": 982,
+    "LastUpdate": "2025-01-04 00:50:07",
+    "Total": 983,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250103",
+            "fullstartdate": "202501032300",
+            "enddate": "20250104",
+            "url": "/th?id=OHR.VietnamFalls_DE-DE6165029954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VietnamFalls_DE-DE6165029954",
+            "copyright": "Bản-Giốc-Detian-Wasserfälle am Quây Sơn Fluss, Vietnam (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=B%E1%BA%A3n-Gi%E1%BB%91c-Detian-Wasserf%C3%A4lle&form=hpcapt&filters=HpDate%3a%2220250103_2300%22",
+            "title": "Sind wir im Paradies?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250103_VietnamFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a19ee343289668f8a049b7ddec51d1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250102",
             "fullstartdate": "202501022300",
