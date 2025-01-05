@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-04 00:49:55",
-    "Total": 983,
+    "LastUpdate": "2025-01-05 00:50:12",
+    "Total": 984,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250104",
+            "fullstartdate": "202501041600",
+            "enddate": "20250105",
+            "url": "/th?id=OHR.PlumParakeet_ZH-CN0311942558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumParakeet_ZH-CN0311942558",
+            "copyright": "希莫加的紫红头鹦鹉，卡纳塔克邦，印度 (© Hira Punjabi/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B4%AB%E7%BA%A2%E5%A4%B4%E9%B9%A6%E9%B9%89&form=hpcapt&mkt=zh-cn",
+            "title": "树梢上的焦点",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250104_PlumParakeet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90dc090f9d664c77faa165b9835e6a7e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250103",
             "fullstartdate": "202501031600",
