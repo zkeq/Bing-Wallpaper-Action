@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-04 00:50:22",
-    "Total": 983,
+    "LastUpdate": "2025-01-05 00:50:40",
+    "Total": 984,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250104",
+            "fullstartdate": "202501042300",
+            "enddate": "20250105",
+            "url": "/th?id=OHR.PlumParakeet_FR-FR1766885015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumParakeet_FR-FR1766885015",
+            "copyright": "Perruche à tête de prune, Shimoga, Karnataka, Inde (© Hira Punjabi/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Perruche+%C3%A0+t%C3%AAte+prune&form=hpcapt&filters=HpDate%3a%2220250104_2300%22",
+            "title": "Une perruche qui compte pour des prunes !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250104_PlumParakeet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23da854c528c12c2b46fc150bd93705d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250103",
             "fullstartdate": "202501032300",
