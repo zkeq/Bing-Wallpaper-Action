@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-04 00:50:11",
-    "Total": 982,
+    "LastUpdate": "2025-01-05 00:50:28",
+    "Total": 983,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250104",
+            "fullstartdate": "202501040500",
+            "enddate": "20250105",
+            "url": "/th?id=OHR.VietnamFalls_EN-CA6990371995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VietnamFalls_EN-CA6990371995",
+            "copyright": "Bản Giốc – Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Ban+Gioc-Detian+Falls&form=hpcapt&filters=HpDate%3a%2220250104_0500%22",
+            "title": "A borderline paradise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250104_VietnamFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17385f1662c378b3f8c75828f6ce3c19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250103",
             "fullstartdate": "202501030500",
