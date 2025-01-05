@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-04 00:50:26",
-    "Total": 983,
+    "LastUpdate": "2025-01-05 00:50:44",
+    "Total": 984,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250104",
+            "fullstartdate": "202501042300",
+            "enddate": "20250105",
+            "url": "/th?id=OHR.BouldersNZ_IT-IT9574087004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BouldersNZ_IT-IT9574087004",
+            "copyright": "Massi di Moeraki al tramonto, Isola del Sud, Nuova Zelanda (© Douglas Pearson/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Isola+del+Sud%2c+Nuova+Zelanda&form=hpcapt",
+            "title": "Massi, ma no?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250104_BouldersNZ%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d60a5f43940f982ed4aa1af0e6fa080e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250103",
             "fullstartdate": "202501032300",
