@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-04 00:50:15",
-    "Total": 981,
+    "LastUpdate": "2025-01-05 00:50:32",
+    "Total": 982,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250105",
+            "fullstartdate": "202501050000",
+            "enddate": "20250106",
+            "url": "/th?id=OHR.PlumParakeet_EN-GB3398674878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumParakeet_EN-GB3398674878",
+            "copyright": "Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Plum-headed+parakeet&form=hpcapt&filters=HpDate%3a%2220250105_0000%22",
+            "title": "Head-turner on the treetops",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250105_PlumParakeet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88b6e66256ddb7692105bd6028174a15",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250104",
             "fullstartdate": "202501040000",
