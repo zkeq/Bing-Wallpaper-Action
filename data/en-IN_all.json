@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-05 00:50:36",
-    "Total": 984,
+    "LastUpdate": "2025-01-06 00:50:37",
+    "Total": 985,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250105",
+            "fullstartdate": "202501051830",
+            "enddate": "20250106",
+            "url": "/th?id=OHR.RavennaBasilica_EN-IN9380198974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RavennaBasilica_EN-IN9380198974",
+            "copyright": "Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ravenna+italy&form=hpcapt&filters=HpDate%3a%2220250105_1830%22",
+            "title": "Divine depths",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250105_RavennaBasilica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83f5e178f54914748e5759241d1f434f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250104",
             "fullstartdate": "202501041830",
