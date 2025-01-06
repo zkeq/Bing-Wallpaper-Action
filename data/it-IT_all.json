@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-05 00:50:44",
-    "Total": 984,
+    "LastUpdate": "2025-01-06 00:50:44",
+    "Total": 985,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250105",
+            "fullstartdate": "202501052300",
+            "enddate": "20250106",
+            "url": "/th?id=OHR.RavennaBasilica_IT-IT9888465442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RavennaBasilica_IT-IT9888465442",
+            "copyright": "Cripta allagata, Basilica di San Francesco, Ravenna, Italia (© Andrea Pucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Basilica+di+San+Francesco%2c+Ravenna%2c+Italia&form=hpcapt",
+            "title": "Cripte termali?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250105_RavennaBasilica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24604b4b458adc9f7e0ef1382b50f03d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250104",
             "fullstartdate": "202501042300",
