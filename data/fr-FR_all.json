@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-05 00:50:40",
-    "Total": 984,
+    "LastUpdate": "2025-01-06 00:50:40",
+    "Total": 985,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250105",
+            "fullstartdate": "202501052300",
+            "enddate": "20250106",
+            "url": "/th?id=OHR.RavennaBasilica_FR-FR1984355211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RavennaBasilica_FR-FR1984355211",
+            "copyright": "Crypte sous l’eau, Basilique Saint-François de Ravenne, Italie (© Andrea Pucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ravenna+italy&form=hpcapt&filters=HpDate%3a%2220250105_2300%22",
+            "title": "L'art à l'italienne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250105_RavennaBasilica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6c0ad1afc15d8970ae9130de6d507a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250104",
             "fullstartdate": "202501042300",
