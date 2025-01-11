@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-10 01:35:44",
-    "Total": 988,
+    "LastUpdate": "2025-01-11 00:50:20",
+    "Total": 989,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250110",
+            "fullstartdate": "202501100500",
+            "enddate": "20250111",
+            "url": "/th?id=OHR.BubbleLake_EN-CA0662387726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BubbleLake_EN-CA0662387726",
+            "copyright": "Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220250110_0500%22",
+            "title": "Bubbles, bubbles everywhere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250110_BubbleLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d54ea1980bffd863258fad75f7737844",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250109",
             "fullstartdate": "202501090500",
