@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-11 00:50:24",
-    "Total": 988,
+    "LastUpdate": "2025-01-12 00:50:49",
+    "Total": 989,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250112",
+            "fullstartdate": "202501120000",
+            "enddate": "20250113",
+            "url": "/th?id=OHR.CrescentTail_EN-GB8341655189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrescentTail_EN-GB8341655189",
+            "copyright": "Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Crescent-tail+Bigeye&form=hpcapt&filters=HpDate%3a%2220250112_0000%22",
+            "title": "Sharp vision in the depths",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250112_CrescentTail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c90b2c62dc5be3b9f72c1e42b2ce7d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250111",
             "fullstartdate": "202501110000",
