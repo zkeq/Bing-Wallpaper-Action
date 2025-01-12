@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-11 00:50:20",
-    "Total": 989,
+    "LastUpdate": "2025-01-12 00:50:45",
+    "Total": 990,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250111",
+            "fullstartdate": "202501110500",
+            "enddate": "20250112",
+            "url": "/th?id=OHR.MeknesMorocco_EN-CA1168151057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MeknesMorocco_EN-CA1168151057",
+            "copyright": "Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Heri+es-Swani+Morocco&form=hpcapt&filters=HpDate%3a%2220250111_0500%22",
+            "title": "Arches of a bygone era",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250111_MeknesMorocco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b8f5402e2fa44f7a8668dbb7102ece0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250110",
             "fullstartdate": "202501100500",
