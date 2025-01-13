@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-12 00:50:37",
-    "Total": 991,
+    "LastUpdate": "2025-01-13 00:50:22",
+    "Total": 992,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250112",
+            "fullstartdate": "202501121500",
+            "enddate": "20250113",
+            "url": "/th?id=OHR.CoastalWales_JA-JP4408975920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoastalWales_JA-JP4408975920",
+            "copyright": "イニス・ランドウィン, ウェールズ (© Westend61 on Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250112_1500%22",
+            "title": "今日はウェールズの新年",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250112_CoastalWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83e8e4ef72ed4abb345887340a51bc77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250111",
             "fullstartdate": "202501111500",
