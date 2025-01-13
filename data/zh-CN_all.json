@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-12 00:50:28",
-    "Total": 991,
+    "LastUpdate": "2025-01-13 00:50:13",
+    "Total": 992,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250112",
+            "fullstartdate": "202501121600",
+            "enddate": "20250113",
+            "url": "/th?id=OHR.CoastalWales_ZH-CN9113929287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoastalWales_ZH-CN9113929287",
+            "copyright": "小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国 (© Westend61 on Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%97%A7%E6%96%B0%E5%B9%B4&form=hpcapt&mkt=zh-cn",
+            "title": "“威尔士”祝你新年快乐！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250112_CoastalWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0ed0f1558fc5d9fb1a74c8a03ec2fd9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250111",
             "fullstartdate": "202501111600",
