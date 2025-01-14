@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-13 00:50:13",
-    "Total": 992,
+    "LastUpdate": "2025-01-14 00:49:49",
+    "Total": 993,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250113",
+            "fullstartdate": "202501131600",
+            "enddate": "20250114",
+            "url": "/th?id=OHR.CadizSpain_ZH-CN0032172399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CadizSpain_ZH-CN0032172399",
+            "copyright": "Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%90%A8%E9%98%BF%E6%8B%89%C2%B7%E5%BE%B7%E6%8B%89%E8%B0%A2%E6%8B%89&form=hpcapt&mkt=zh-cn",
+            "title": "宁静之地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250113_CadizSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "281d51d6434aba29274dbf3434ddf2c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250112",
             "fullstartdate": "202501121600",
