@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-13 00:50:18",
-    "Total": 992,
+    "LastUpdate": "2025-01-14 00:49:53",
+    "Total": 993,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250113",
+            "fullstartdate": "202501130800",
+            "enddate": "20250114",
+            "url": "/th?id=OHR.CoastalWales_EN-US9397534673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoastalWales_EN-US9397534673",
+            "copyright": "Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Calennig&form=hpcapt&filters=HpDate%3a%2220250113_0800%22",
+            "title": "'Welsh' you a Happy Hen Galan!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250113_CoastalWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1aa9deab4d5fa771b915e211b6ba7c78",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250112",
             "fullstartdate": "202501120800",
