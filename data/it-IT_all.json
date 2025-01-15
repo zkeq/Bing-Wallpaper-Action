@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-14 00:50:21",
-    "Total": 993,
+    "LastUpdate": "2025-01-15 00:50:26",
+    "Total": 994,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250114",
+            "fullstartdate": "202501142300",
+            "enddate": "20250115",
+            "url": "/th?id=OHR.MuseumCourt_IT-IT0217909528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuseumCourt_IT-IT0217909528",
+            "copyright": "La Grande Corte del British Museum, Londra, Inghilterra (© Cavan Images/Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Grande+Corte+British+Museum&form=hpcapt",
+            "title": "Dove il passato è sempre presente",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250114_MuseumCourt%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a9665c3e276b4b97cbae195e4a7ddd86",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250113",
             "fullstartdate": "202501132300",
