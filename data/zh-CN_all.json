@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-15 00:49:53",
-    "Total": 994,
+    "LastUpdate": "2025-01-16 00:49:52",
+    "Total": 995,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250115",
+            "fullstartdate": "202501151600",
+            "enddate": "20250116",
+            "url": "/th?id=OHR.PinnaclesPeaks_ZH-CN1603877182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinnaclesPeaks_ZH-CN1603877182",
+            "copyright": "尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国 (© yhelfman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B0%96%E5%B3%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "诞生于火，历久弥坚",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250115_PinnaclesPeaks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a65e77052364f201df3200d088ee0061",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250114",
             "fullstartdate": "202501141600",
