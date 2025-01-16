@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-15 00:50:22",
-    "Total": 994,
+    "LastUpdate": "2025-01-16 00:50:19",
+    "Total": 995,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250115",
+            "fullstartdate": "202501152300",
+            "enddate": "20250116",
+            "url": "/th?id=OHR.PinnaclesPeaks_FR-FR5164595445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinnaclesPeaks_FR-FR5164595445",
+            "copyright": "Parc national des Pinnacles, comté de San Benito, Californie, États-Unis (© yhelfman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+des+pinnacles+californie&form=hpcapt&filters=HpDate%3a%2220250115_2300%22",
+            "title": "Merveilles volcaniques",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250115_PinnaclesPeaks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99dc30075c3e91d2c6cccfcab05a4c86",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250114",
             "fullstartdate": "202501142300",
