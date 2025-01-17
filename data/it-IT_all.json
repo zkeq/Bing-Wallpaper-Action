@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-16 00:50:23",
-    "Total": 995,
+    "LastUpdate": "2025-01-17 00:50:23",
+    "Total": 996,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250116",
+            "fullstartdate": "202501162300",
+            "enddate": "20250117",
+            "url": "/th?id=OHR.NapoliPizza_IT-IT7432865458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NapoliPizza_IT-IT7432865458",
+            "copyright": "Golfo di Napoli e il Vesuvio, Campania, Italia (© ezypix/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pizza+prodotto+gastronomico&form=hpcapt",
+            "title": "Quando è Pizza, è Festa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250116_NapoliPizza%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f6c42cc70751714733b70a24c410c53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250115",
             "fullstartdate": "202501152300",
