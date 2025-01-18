@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-17 00:49:52",
-    "Total": 996,
+    "LastUpdate": "2025-01-18 00:49:43",
+    "Total": 997,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250117",
+            "fullstartdate": "202501171600",
+            "enddate": "20250118",
+            "url": "/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteSandsNP_ZH-CN2517618394",
+            "copyright": "白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B7%9E%E7%99%BD%E6%B2%99%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "1,001座白色沙丘",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250117_WhiteSandsNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65cd775d3efe28a2ada724c7ed8c445c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250116",
             "fullstartdate": "202501161600",
