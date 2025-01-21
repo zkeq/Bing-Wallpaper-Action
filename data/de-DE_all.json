@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-20 00:50:07",
-    "Total": 999,
+    "LastUpdate": "2025-01-21 00:50:04",
+    "Total": 1000,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250120",
+            "fullstartdate": "202501202300",
+            "enddate": "20250121",
+            "url": "/th?id=OHR.DutchSquirrel_DE-DE9795930868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DutchSquirrel_DE-DE9795930868",
+            "copyright": "Eurasisches Eichhörnchen mit Fliegenpilz (© Edwin Giesbers/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%C3%B6rnchen&form=hpcapt&filters=HpDate%3a%2220250120_2300%22",
+            "title": "Aufmerksamer Beobachter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250120_DutchSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96c38de24316abc8c4c73e97fba51fee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250119",
             "fullstartdate": "202501192300",
