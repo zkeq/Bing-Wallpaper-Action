@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-21 00:50:24",
-    "Total": 1000,
+    "LastUpdate": "2025-01-22 00:50:32",
+    "Total": 1001,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250121",
+            "fullstartdate": "202501212300",
+            "enddate": "20250122",
+            "url": "/th?id=OHR.PetraMonastery_IT-IT8921152499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PetraMonastery_IT-IT8921152499",
+            "copyright": "Ad-Deir, Petra, Giordania (© Punnawit Suwuttananun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ad-Deir%2c+Petra%2c+Giordania&form=hpcapt",
+            "title": "Segreti di Pietra antica?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_PetraMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fedce372b51bad5e6c55c8f39cc8de79",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250120",
             "fullstartdate": "202501202300",
