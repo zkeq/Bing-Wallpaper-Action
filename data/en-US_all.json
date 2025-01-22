@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-21 00:49:56",
-    "Total": 1000,
+    "LastUpdate": "2025-01-22 00:50:03",
+    "Total": 1001,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250121",
+            "fullstartdate": "202501210800",
+            "enddate": "20250122",
+            "url": "/th?id=OHR.DutchSquirrel_EN-US1600993769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DutchSquirrel_EN-US1600993769",
+            "copyright": "Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220250121_0800%22",
+            "title": "Feeling squirrely?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_DutchSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c857165da321497bee433ffb1c3ca20f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250120",
             "fullstartdate": "202501200800",
