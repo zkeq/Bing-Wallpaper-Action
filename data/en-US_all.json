@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-22 00:50:03",
-    "Total": 1001,
+    "LastUpdate": "2025-01-23 00:49:59",
+    "Total": 1002,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250122",
+            "fullstartdate": "202501220800",
+            "enddate": "20250123",
+            "url": "/th?id=OHR.PetraMonastery_EN-US1834130511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PetraMonastery_EN-US1834130511",
+            "copyright": "Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ad-Deir+Petra&form=hpcapt&filters=HpDate%3a%2220250122_0800%22",
+            "title": "Finding beauty in the Lost City",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250122_PetraMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f37426dd4dcb33c58b4b5aafe9099c38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250121",
             "fullstartdate": "202501210800",
