@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-22 00:50:11",
-    "Total": 1001,
+    "LastUpdate": "2025-01-23 00:50:08",
+    "Total": 1002,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250122",
+            "fullstartdate": "202501222300",
+            "enddate": "20250123",
+            "url": "/th?id=OHR.DeerValley_DE-DE5666572987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeerValley_DE-DE5666572987",
+            "copyright": "Deer Valley in der Abenddämmerung, Park City, Utah, USA (© Adventure_Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sundance+Film+Festival&form=hpcapt&filters=HpDate%3a%2220250122_2300%22",
+            "title": "Abfahrt ins Kino",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250122_DeerValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fd437c5050e6b049499c90ade3d7dff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250121",
             "fullstartdate": "202501212300",
