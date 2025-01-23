@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-22 00:49:58",
-    "Total": 1001,
+    "LastUpdate": "2025-01-23 00:49:54",
+    "Total": 1002,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250122",
+            "fullstartdate": "202501221600",
+            "enddate": "20250123",
+            "url": "/th?id=OHR.DeerValley_ZH-CN6029262704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeerValley_ZH-CN6029262704",
+            "copyright": "黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%95%E5%85%8B%E5%9F%8E%E9%B9%BF%E8%B0%B7%E6%BB%91%E9%9B%AA%E5%BA%A6%E5%81%87%E6%9D%91&form=hpcapt&mkt=zh-cn",
+            "title": "电影、山脉和魔法",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250122_DeerValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "868164321538e35238bc77159a5fbfc3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250121",
             "fullstartdate": "202501211600",
