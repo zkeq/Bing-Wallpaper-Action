@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-23 00:50:20",
-    "Total": 1002,
+    "LastUpdate": "2025-01-24 00:50:17",
+    "Total": 1003,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250123",
+            "fullstartdate": "202501231830",
+            "enddate": "20250124",
+            "url": "/th?id=OHR.IcelandGeyser_EN-IN1107479797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandGeyser_EN-IN1107479797",
+            "copyright": "Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Strokkur+geyser&form=hpcapt&filters=HpDate%3a%2220250123_1830%22",
+            "title": "Bubbling with power",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_IcelandGeyser%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81e5c4f9fe4434e475dde63b835901df",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250122",
             "fullstartdate": "202501221830",
