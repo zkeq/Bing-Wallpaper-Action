@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-23 00:49:54",
-    "Total": 1002,
+    "LastUpdate": "2025-01-24 00:49:53",
+    "Total": 1003,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250123",
+            "fullstartdate": "202501231600",
+            "enddate": "20250124",
+            "url": "/th?id=OHR.IcelandGeyser_ZH-CN2136665867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandGeyser_ZH-CN2136665867",
+            "copyright": "冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E5%B2%9B%E8%87%AD%E9%A3%9F%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "力量沸腾",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_IcelandGeyser%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "668e3578031e90151420067ba575f939",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250122",
             "fullstartdate": "202501221600",
