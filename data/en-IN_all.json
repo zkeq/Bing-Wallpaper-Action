@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-25 00:50:04",
-    "Total": 1004,
+    "LastUpdate": "2025-01-26 00:50:21",
+    "Total": 1005,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250125",
+            "fullstartdate": "202501251830",
+            "enddate": "20250126",
+            "url": "/th?id=OHR.IndiaGateTriColour_EN-IN3150557359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndiaGateTriColour_EN-IN3150557359",
+            "copyright": "India Gate, New Delhi (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Republic+Day&form=hpcapt&filters=HpDate%3a%2220250125_1830%22",
+            "title": "Three shades, one spirit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250125_IndiaGateTriColour%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "762e223dc2d4dad34a3338ff71e54511",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250124",
             "fullstartdate": "202501241830",
