@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-26 00:50:09",
-    "Total": 1005,
+    "LastUpdate": "2025-01-27 00:50:09",
+    "Total": 1006,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250126",
+            "fullstartdate": "202501262300",
+            "enddate": "20250127",
+            "url": "/th?id=OHR.CanyonSnow_DE-DE3570405094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanyonSnow_DE-DE3570405094",
+            "copyright": "Zoroaster Temple, Grand-Canyon-Nationalpark, Arizona, USA (© Nick Lake/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+Nationalpark&form=hpcapt&filters=HpDate%3a%2220250126_2300%22",
+            "title": "Schauspiel aus Farben und Formen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250126_CanyonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c4bea60098edf0be97e1213539bf1b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250125",
             "fullstartdate": "202501252300",
