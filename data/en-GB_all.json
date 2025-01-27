@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-26 00:50:17",
-    "Total": 1003,
+    "LastUpdate": "2025-01-27 00:50:16",
+    "Total": 1004,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250127",
+            "fullstartdate": "202501270000",
+            "enddate": "20250128",
+            "url": "/th?id=OHR.CanyonSnow_EN-GB0286033660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanyonSnow_EN-GB0286033660",
+            "copyright": "Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Zoroaster+Temple&form=hpcapt&filters=HpDate%3a%2220250127_0000%22",
+            "title": "Peaked your curiosity",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_CanyonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14b827835cb122a27b8fdeb4ccd4ca0a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250126",
             "fullstartdate": "202501260000",
