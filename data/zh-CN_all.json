@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-26 00:49:56",
-    "Total": 1005,
+    "LastUpdate": "2025-01-27 00:49:56",
+    "Total": 1006,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250126",
+            "fullstartdate": "202501261600",
+            "enddate": "20250127",
+            "url": "/th?id=OHR.CanyonSnow_ZH-CN3910130781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanyonSnow_ZH-CN3910130781",
+            "copyright": "琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn",
+            "title": "激发你的好奇心",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250126_CanyonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8a1ef4966a249a1349214f2c7cddf4d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250125",
             "fullstartdate": "202501251600",
