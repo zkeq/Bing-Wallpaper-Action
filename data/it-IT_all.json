@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-26 00:50:29",
-    "Total": 1005,
+    "LastUpdate": "2025-01-27 00:50:29",
+    "Total": 1006,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250126",
+            "fullstartdate": "202501262300",
+            "enddate": "20250127",
+            "url": "/th?id=OHR.CanyonSnow_IT-IT1813827101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanyonSnow_IT-IT1813827101",
+            "copyright": "Zoroaster Temple, Parco Nazionale del Grand Canyon, Arizona, USA (© Nick Lake/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+gola&form=hpcapt",
+            "title": "Cime immense...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250126_CanyonSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecbacbf22a376f3a5e1bc0408c8552c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250125",
             "fullstartdate": "202501252300",
