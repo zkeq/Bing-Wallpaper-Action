@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-27 00:49:56",
-    "Total": 1006,
+    "LastUpdate": "2025-01-28 00:49:54",
+    "Total": 1007,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250127",
+            "fullstartdate": "202501271600",
+            "enddate": "20250128",
+            "url": "/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695",
+            "copyright": "夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%99%A4%E5%A4%95%E5%A4%9C&form=hpcapt&mkt=zh-cn",
+            "title": "祝您阖家欢乐，万事如意！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_LunarNewYearEve25Y%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20183d1542f55bdc122b7ea86fb9cdcc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250126",
             "fullstartdate": "202501261600",
