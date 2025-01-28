@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-27 00:50:21",
-    "Total": 1006,
+    "LastUpdate": "2025-01-28 00:50:19",
+    "Total": 1007,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250127",
+            "fullstartdate": "202501271830",
+            "enddate": "20250128",
+            "url": "/th?id=OHR.FlyingOwl_EN-IN1693196635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyingOwl_EN-IN1693196635",
+            "copyright": "Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=short+eared+owl&form=hpcapt&filters=HpDate%3a%2220250127_1830%22",
+            "title": "Snow-way you'll miss it",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_FlyingOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5fde2fc3531c7630ef68a51f22a74c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250126",
             "fullstartdate": "202501261830",
