@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-30 00:50:12",
-    "Total": 1009,
+    "LastUpdate": "2025-01-31 00:50:17",
+    "Total": 1010,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250130",
+            "fullstartdate": "202501301830",
+            "enddate": "20250131",
+            "url": "/th?id=OHR.PlainsZebra_EN-IN2514350674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlainsZebra_EN-IN2514350674",
+            "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Zebra+Day&form=hpcapt&filters=HpDate%3a%2220250130_1830%22",
+            "title": "Anything but plain",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250130_PlainsZebra%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b998d7dd5cc8bc11e929dcaf3846556",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250129",
             "fullstartdate": "202501291830",
