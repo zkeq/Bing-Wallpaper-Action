@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-31 00:50:17",
-    "Total": 1010,
+    "LastUpdate": "2025-02-01 00:50:25",
+    "Total": 1011,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250131",
+            "fullstartdate": "202501311830",
+            "enddate": "20250201",
+            "url": "/th?id=OHR.FrostedBeech_EN-IN2659852695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrostedBeech_EN-IN2659852695",
+            "copyright": "European beech forest in Belgium (© Philippe Moes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=European+beech&form=hpcapt&filters=HpDate%3a%2220250131_1830%22",
+            "title": "Ageing gracefully",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250131_FrostedBeech%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ef16073ffd8cf318191e32fec9d0bed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250130",
             "fullstartdate": "202501301830",
