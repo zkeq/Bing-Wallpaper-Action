@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-01-31 00:50:13",
-    "Total": 1008,
+    "LastUpdate": "2025-02-01 00:50:21",
+    "Total": 1009,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502010000",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.FestungKonigsteinElbsandsteingebirge_EN-GB4405687940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FestungKonigsteinElbsandsteingebirge_EN-GB4405687940",
+            "copyright": "Königstein Fortress, Saxon Switzerland, Germany (© Bildagentur-online/Exss/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%B6nigstein+Fortress&form=hpcapt&filters=HpDate%3a%2220250201_0000%22",
+            "title": "Snow and stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_FestungKonigsteinElbsandsteingebirge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73aac6af8b11045fb3ef70e9859e80e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501310000",
