@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:00",
-    "Total": 1011,
+    "LastUpdate": "2025-02-02 00:50:03",
+    "Total": 1012,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502011600",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.AustriaMarmot_ZH-CN2303743586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AustriaMarmot_ZH-CN2303743586",
+            "copyright": "年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "天气预报还是运气预报？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_AustriaMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dafcd5fb177391426d740402e617ab53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501311600",
