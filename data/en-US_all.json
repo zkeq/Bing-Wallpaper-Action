@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:05",
-    "Total": 1011,
+    "LastUpdate": "2025-02-02 00:50:08",
+    "Total": 1012,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502010800",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AfricanMuseumDC_EN-US9749048351",
+            "copyright": "National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+History+Month&form=hpcapt&filters=HpDate%3a%2220250201_0800%22",
+            "title": "Roots of freedom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_AfricanMuseumDC%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b8d20e265d6b3352531ebfee57e451ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501310800",
