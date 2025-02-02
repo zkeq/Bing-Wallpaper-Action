@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:21",
-    "Total": 1009,
+    "LastUpdate": "2025-02-02 00:50:23",
+    "Total": 1010,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250202",
+            "fullstartdate": "202502020000",
+            "enddate": "20250203",
+            "url": "/th?id=OHR.AustriaMarmot_EN-GB0497553794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AustriaMarmot_EN-GB0497553794",
+            "copyright": "Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alpine+marmot&form=hpcapt&filters=HpDate%3a%2220250202_0000%22",
+            "title": "Marm-velous way to go Altitude attitude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250202_AustriaMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef7107a292a5cd5eff3b8ee0c63ff0b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250201",
             "fullstartdate": "202502010000",
