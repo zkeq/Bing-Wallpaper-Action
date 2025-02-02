@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:33",
-    "Total": 1011,
+    "LastUpdate": "2025-02-02 00:50:35",
+    "Total": 1012,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502012300",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.PortofinoMarathon_IT-IT1822275112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PortofinoMarathon_IT-IT1822275112",
+            "copyright": "Portofino, Liguria, Italia (© Haveseen/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Maratona+atletica+leggera&form=hpcapt",
+            "title": "Pronti, partenza, via!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_PortofinoMarathon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6bfadc183b9c927763f0adcfc6fca214",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501312300",
