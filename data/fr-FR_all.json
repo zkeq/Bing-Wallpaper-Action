@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:29",
-    "Total": 1011,
+    "LastUpdate": "2025-02-02 00:50:31",
+    "Total": 1012,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502012300",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.AustriaMarmot_FR-FR4256858728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AustriaMarmot_FR-FR4256858728",
+            "copyright": "Marmotte des Alpes (© Jonas Fichtner-Pflaum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jour+de+la+marmotte&form=hpcapt&filters=HpDate%3a%2220250201_2300%22",
+            "title": "Peu importe le temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_AustriaMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3326f26a6a60b838256eb9eab91af9a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501312300",
