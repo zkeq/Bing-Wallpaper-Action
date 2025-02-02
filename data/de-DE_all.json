@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-01 00:50:13",
-    "Total": 1011,
+    "LastUpdate": "2025-02-02 00:50:16",
+    "Total": 1012,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250201",
+            "fullstartdate": "202502012300",
+            "enddate": "20250202",
+            "url": "/th?id=OHR.WaddenSeaBiosphereReserve_DE-DE2245895557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaddenSeaBiosphereReserve_DE-DE2245895557",
+            "copyright": "Westerhever, Nationalpark Schleswig-Holsteinisches Wattenmeer (© 3quarks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Feuchtgebiete&form=hpcapt&filters=HpDate%3a%2220250201_2300%22",
+            "title": "Unberührtes Naturparadies",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_WaddenSeaBiosphereReserve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "80e8be5759edb2b79eeb1131adf68f56",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250131",
             "fullstartdate": "202501312300",
