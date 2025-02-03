@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-02 00:50:03",
-    "Total": 1012,
+    "LastUpdate": "2025-02-03 00:49:55",
+    "Total": 1013,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250202",
+            "fullstartdate": "202502021600",
+            "enddate": "20250203",
+            "url": "/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800",
+            "copyright": "盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E5%A4%B4%E9%95%BF%E5%B0%BE%E5%B1%B1%E9%9B%80&form=hpcapt&mkt=zh-cn",
+            "title": "春光明媚的日子",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250202_BeginningofSpring25Y%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0150de7aa3a4dbf3c00fac38199f72b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250201",
             "fullstartdate": "202502011600",
