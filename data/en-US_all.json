@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-02 00:50:08",
-    "Total": 1012,
+    "LastUpdate": "2025-02-03 00:50:00",
+    "Total": 1013,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250202",
+            "fullstartdate": "202502020800",
+            "enddate": "20250203",
+            "url": "/th?id=OHR.AustriaMarmot_EN-US0012248153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AustriaMarmot_EN-US0012248153",
+            "copyright": "Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Groundhog+Day&form=hpcapt&filters=HpDate%3a%2220250202_0800%22",
+            "title": "Weather or not",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250202_AustriaMarmot%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ea8e5425b0373a07aa6572f189d09d25",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250201",
             "fullstartdate": "202502010800",
