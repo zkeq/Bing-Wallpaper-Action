@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-02 00:50:16",
-    "Total": 1012,
+    "LastUpdate": "2025-02-03 00:50:08",
+    "Total": 1013,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250202",
+            "fullstartdate": "202502022300",
+            "enddate": "20250203",
+            "url": "/th?id=OHR.RibbleheadViaduct_DE-DE0601273840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RibbleheadViaduct_DE-DE0601273840",
+            "copyright": "Ribblehead-Viadukt und Ingleborough-Berg, North Yorkshire, England, UK (© AWL Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Ribblehead+Viadukt&form=hpcapt&filters=HpDate%3a%2220250202_2300%22",
+            "title": "Historisches Juwel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250202_RibbleheadViaduct%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49f9f1d9c5fda9d38cf83c81dd10246e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250201",
             "fullstartdate": "202502012300",
