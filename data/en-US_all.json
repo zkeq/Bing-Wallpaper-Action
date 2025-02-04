@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-03 00:50:00",
-    "Total": 1013,
+    "LastUpdate": "2025-02-04 00:50:00",
+    "Total": 1014,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250203",
+            "fullstartdate": "202502030800",
+            "enddate": "20250204",
+            "url": "/th?id=OHR.RibbleheadViaduct_EN-US0244245382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RibbleheadViaduct_EN-US0244245382",
+            "copyright": "Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Ribblehead+Viaduct&form=hpcapt&filters=HpDate%3a%2220250203_0800%22",
+            "title": "Bridging history, one arch at a time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250203_RibbleheadViaduct%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5a38ad76c9eae60aae7e12a8984d1b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250202",
             "fullstartdate": "202502020800",
