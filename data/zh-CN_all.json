@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-04 00:49:55",
-    "Total": 1014,
+    "LastUpdate": "2025-02-05 00:49:58",
+    "Total": 1015,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250204",
+            "fullstartdate": "202502041600",
+            "enddate": "20250205",
+            "url": "/th?id=OHR.ScottishSheep_ZH-CN3051181797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ScottishSheep_ZH-CN3051181797",
+            "copyright": "拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%80%80%E5%94%90%E4%BC%8A%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "对国家遗产的思考",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250204_ScottishSheep%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6034d59d6e921e39a2bcd259ed157935",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250203",
             "fullstartdate": "202502031600",
