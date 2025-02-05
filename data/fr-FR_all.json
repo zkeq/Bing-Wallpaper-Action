@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-04 00:50:25",
-    "Total": 1014,
+    "LastUpdate": "2025-02-05 00:50:27",
+    "Total": 1015,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250204",
+            "fullstartdate": "202502042300",
+            "enddate": "20250205",
+            "url": "/th?id=OHR.ScottishSheep_FR-FR6098426442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ScottishSheep_FR-FR6098426442",
+            "copyright": "Moutons Scottish Blackface, Écosse (© Mike Powles/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mouton+t%C3%AAte+noire+%C3%A9cossais&form=hpcapt&filters=HpDate%3a%2220250204_2300%22",
+            "title": "Des bêêh-liers pas comme les autres",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250204_ScottishSheep%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "86ece6b25d1433f1950e9a99db0c99e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250203",
             "fullstartdate": "202502032300",
