@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-04 00:50:00",
-    "Total": 1014,
+    "LastUpdate": "2025-02-05 00:50:03",
+    "Total": 1015,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250204",
+            "fullstartdate": "202502040800",
+            "enddate": "20250205",
+            "url": "/th?id=OHR.GoldenBridge_EN-US3362533203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldenBridge_EN-US3362533203",
+            "copyright": "Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Golden+Bridge+Vietnam&form=hpcapt&filters=HpDate%3a%2220250204_0800%22",
+            "title": "A walk among the clouds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250204_GoldenBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "86a6d2de7542426fc072f18530093eaf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250203",
             "fullstartdate": "202502030800",
