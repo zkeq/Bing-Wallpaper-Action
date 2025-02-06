@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-05 00:50:19",
-    "Total": 1013,
+    "LastUpdate": "2025-02-06 00:50:16",
+    "Total": 1014,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250206",
+            "fullstartdate": "202502060000",
+            "enddate": "20250207",
+            "url": "/th?id=OHR.WhararikiBeach_EN-GB0621465548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhararikiBeach_EN-GB0621465548",
+            "copyright": "Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Waitangi+Day&form=hpcapt&filters=HpDate%3a%2220250206_0000%22",
+            "title": "Reflections of a nation's legacy",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250206_WhararikiBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2ed78f433ed0b781820acb465b5de8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250205",
             "fullstartdate": "202502050000",
