@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-06 00:50:08",
-    "Total": 1016,
+    "LastUpdate": "2025-02-07 00:50:12",
+    "Total": 1017,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250206",
+            "fullstartdate": "202502062300",
+            "enddate": "20250207",
+            "url": "/th?id=OHR.BlueNorway_DE-DE6219110826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueNorway_DE-DE6219110826",
+            "copyright": "Blaue Stunde in Trondheim, Norwegen (© Jeanny Mueller/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Trondheim+Norwegen&form=hpcapt&filters=HpDate%3a%2220250206_2300%22",
+            "title": "Die blaue Stunde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250206_BlueNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "455025e759afbe129a3c9fe84d0b7896",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250205",
             "fullstartdate": "202502052300",
