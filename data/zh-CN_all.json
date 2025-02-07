@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-06 00:49:56",
-    "Total": 1016,
+    "LastUpdate": "2025-02-07 00:49:59",
+    "Total": 1017,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250206",
+            "fullstartdate": "202502061600",
+            "enddate": "20250207",
+            "url": "/th?id=OHR.BlueNorway_ZH-CN7489077966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueNorway_ZH-CN7489077966",
+            "copyright": "特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%8C%AA%E5%A8%81%E7%89%B9%E9%9A%86%E8%B5%AB%E5%A7%86&form=hpcapt&mkt=zh-cn",
+            "title": "沉浸在蓝调时分",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250206_BlueNorway%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1108abcb1d6f1b1a08898e2fab5ebb78",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250205",
             "fullstartdate": "202502051600",
