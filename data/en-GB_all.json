@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-12 00:50:18",
-    "Total": 1020,
+    "LastUpdate": "2025-02-13 00:50:17",
+    "Total": 1021,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250213",
+            "fullstartdate": "202502130000",
+            "enddate": "20250214",
+            "url": "/th?id=OHR.LakeTyrrell_EN-GB6332157230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeTyrrell_EN-GB6332157230",
+            "copyright": "Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lake+tyrrell+victoria+australia&form=hpcapt&filters=HpDate%3a%2220250213_0000%22",
+            "title": "Salt of the earth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250213_LakeTyrrell%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "84abc7fe7a2a533f795eef93051eb20c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250212",
             "fullstartdate": "202502120000",
