@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-12 00:50:10",
-    "Total": 1022,
+    "LastUpdate": "2025-02-13 00:50:09",
+    "Total": 1023,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250212",
+            "fullstartdate": "202502122300",
+            "enddate": "20250213",
+            "url": "/th?id=OHR.BerlinKinoZooPalast_DE-DE5942620149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerlinKinoZooPalast_DE-DE5942620149",
+            "copyright": "Kino Zoo Palast, Berlin (© Ponizak/Agencja Fotograficzna Caro/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationale+Filmfestspiele+Berlin&form=hpcapt&filters=HpDate%3a%2220250212_2300%22",
+            "title": "Film ab!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250212_BerlinKinoZooPalast%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "d8c92bb407689669e9966a467f61380c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250211",
             "fullstartdate": "202502112300",
