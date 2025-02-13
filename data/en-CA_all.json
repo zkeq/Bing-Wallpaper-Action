@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-12 00:50:14",
-    "Total": 1021,
+    "LastUpdate": "2025-02-13 00:50:13",
+    "Total": 1022,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250212",
+            "fullstartdate": "202502120500",
+            "enddate": "20250213",
+            "url": "/th?id=OHR.GalapagosIguana_EN-CA9835077586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GalapagosIguana_EN-CA9835077586",
+            "copyright": "Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Darwin+Day&form=hpcapt&filters=HpDate%3a%2220250212_0500%22",
+            "title": "Darwin's blueprint",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250212_GalapagosIguana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b0273a90d30429037aacae0a8ca4eb5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250211",
             "fullstartdate": "202502110500",
