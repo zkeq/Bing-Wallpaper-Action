@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-13 00:50:09",
-    "Total": 1023,
+    "LastUpdate": "2025-02-14 00:50:07",
+    "Total": 1024,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250213",
+            "fullstartdate": "202502132300",
+            "enddate": "20250214",
+            "url": "/th?id=OHR.PenguinLove_DE-DE2328190080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PenguinLove_DE-DE2328190080",
+            "copyright": "Zwei Magellanpinguine, Falklandinseln (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Valentinstag&form=hpcapt&filters=HpDate%3a%2220250213_2300%22",
+            "title": "Schaut euch diese Turteltauben an!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250213_PenguinLove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ac8915d66931a7476ba1f01a718ce811",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250212",
             "fullstartdate": "202502122300",
