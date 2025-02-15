@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-14 00:50:19",
-    "Total": 1024,
+    "LastUpdate": "2025-02-15 00:50:15",
+    "Total": 1025,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250214",
+            "fullstartdate": "202502141830",
+            "enddate": "20250215",
+            "url": "/th?id=OHR.Misotsuchi2025_EN-IN0138753388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Misotsuchi2025_EN-IN0138753388",
+            "copyright": "Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Chichibu+Saitama+Japan&form=hpcapt&filters=HpDate%3a%2220250214_1830%22",
+            "title": "These are so nice-icle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250214_Misotsuchi2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0777717aa265318fb2f18c2a5e755434",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250213",
             "fullstartdate": "202502131830",
