@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-15 00:50:03",
-    "Total": 1025,
+    "LastUpdate": "2025-02-16 00:50:20",
+    "Total": 1026,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250215",
+            "fullstartdate": "202502152300",
+            "enddate": "20250216",
+            "url": "/th?id=OHR.HumpbackMother_DE-DE2752468261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackMother_DE-DE2752468261",
+            "copyright": "Buckelwal-Mutter und Kalb, Tonga (© Chase Dekker/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Wale&form=hpcapt&filters=HpDate%3a%2220250215_2300%22",
+            "title": "Den Riesen des Meeres Schutz bieten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250215_HumpbackMother%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "083ae3a276a6fb547c5678200724de80",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250214",
             "fullstartdate": "202502142300",
