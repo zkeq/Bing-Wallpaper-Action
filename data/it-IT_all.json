@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-16 00:50:40",
-    "Total": 1026,
+    "LastUpdate": "2025-02-17 00:50:35",
+    "Total": 1027,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250216",
+            "fullstartdate": "202502162300",
+            "enddate": "20250217",
+            "url": "/th?id=OHR.CatalanPyrenees_IT-IT5630945736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CatalanPyrenees_IT-IT5630945736",
+            "copyright": "Coll d'Ares, Pirenei Catalani, Spagna (© CRISTIAN IONUT ZAHARIA/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Pirenei&form=hpcapt",
+            "title": "Luce tra le vette",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250216_CatalanPyrenees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0409cbeff646665b183dfb7ae3b430c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250215",
             "fullstartdate": "202502152300",
