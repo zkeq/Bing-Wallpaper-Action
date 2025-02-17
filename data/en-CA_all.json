@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-16 00:50:24",
-    "Total": 1025,
+    "LastUpdate": "2025-02-17 00:50:18",
+    "Total": 1026,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250216",
+            "fullstartdate": "202502160500",
+            "enddate": "20250217",
+            "url": "/th?id=OHR.HumpbackMother_EN-CA1768570796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumpbackMother_EN-CA1768570796",
+            "copyright": "Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Whale+Day&form=hpcapt&filters=HpDate%3a%2220250216_0500%22",
+            "title": "Protecting the giants of the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250216_HumpbackMother%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "274439d027defc4a01c056f286190b71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250215",
             "fullstartdate": "202502150500",
