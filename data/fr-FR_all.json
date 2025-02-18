@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-17 00:50:30",
-    "Total": 1027,
+    "LastUpdate": "2025-02-18 00:50:23",
+    "Total": 1028,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250217",
+            "fullstartdate": "202502172300",
+            "enddate": "20250218",
+            "url": "/th?id=OHR.BlueBelize_FR-FR7135169329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueBelize_FR-FR7135169329",
+            "copyright": "Le Grand Trou Bleu, Belize (© JamiesOnAMission/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Trou+Bleu%2c+Belize&form=hpcapt&filters=HpDate%3a%2220250217_2300%22",
+            "title": "Le Grand Bleu",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250217_BlueBelize%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "594df05a2f6b0db930f5de359df3857e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250216",
             "fullstartdate": "202502162300",
