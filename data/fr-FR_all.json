@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-18 00:50:23",
-    "Total": 1028,
+    "LastUpdate": "2025-02-19 00:50:28",
+    "Total": 1029,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250218",
+            "fullstartdate": "202502182300",
+            "enddate": "20250219",
+            "url": "/th?id=OHR.IceHoleOtter_FR-FR7480810536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceHoleOtter_FR-FR7480810536",
+            "copyright": "Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=loutre+d%27Europe+esp%C3%A8ce&form=hpcapt&filters=HpDate%3a%2220250218_2300%22",
+            "title": "Je nage loutrement bien !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250218_IceHoleOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73482f5d3dfbdfa04bb3311e7859205c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250217",
             "fullstartdate": "202502172300",
