@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-18 00:49:55",
-    "Total": 1028,
+    "LastUpdate": "2025-02-19 00:50:01",
+    "Total": 1029,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250218",
+            "fullstartdate": "202502181600",
+            "enddate": "20250219",
+            "url": "/th?id=OHR.IceHoleOtter_ZH-CN0106321041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceHoleOtter_ZH-CN0106321041",
+            "copyright": "欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E6%B0%B4%E7%8D%AD&form=hpcapt&mkt=zh-cn",
+            "title": "水獭的另一面",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250218_IceHoleOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "775d8ebf10087fe181913a8cdea73489",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250217",
             "fullstartdate": "202502171600",
