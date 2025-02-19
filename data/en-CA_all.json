@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-18 00:50:12",
-    "Total": 1027,
+    "LastUpdate": "2025-02-19 00:50:17",
+    "Total": 1028,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250218",
+            "fullstartdate": "202502180500",
+            "enddate": "20250219",
+            "url": "/th?id=OHR.BlueBelize_EN-CA2231756573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueBelize_EN-CA2231756573",
+            "copyright": "Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Blue+Hole+Belize&form=hpcapt&filters=HpDate%3a%2220250218_0500%22",
+            "title": "Endless blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250218_BlueBelize%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a53f81ed207298e25551dbae968e86cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250217",
             "fullstartdate": "202502170500",
