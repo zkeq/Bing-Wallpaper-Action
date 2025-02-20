@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-19 00:50:21",
-    "Total": 1027,
+    "LastUpdate": "2025-02-20 00:50:17",
+    "Total": 1028,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502200000",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.CanadaDeer_EN-GB7840896375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanadaDeer_EN-GB7840896375",
+            "copyright": "Red deer, Canada (© Delbars/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Red+deer+mammal&form=hpcapt&filters=HpDate%3a%2220250220_0000%22",
+            "title": "A regal duo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_CanadaDeer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7fccee97171fcf85f628da5708fff293",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502190000",
