@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-19 00:50:13",
-    "Total": 1029,
+    "LastUpdate": "2025-02-20 00:50:09",
+    "Total": 1030,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250219",
+            "fullstartdate": "202502192300",
+            "enddate": "20250220",
+            "url": "/th?id=OHR.CanadaDeer_DE-DE5282411972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanadaDeer_DE-DE5282411972",
+            "copyright": "Rothirsch, Kanada (© Delbars/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rothirsch&form=hpcapt&filters=HpDate%3a%2220250219_2300%22",
+            "title": "Ein königliches Duo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_CanadaDeer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fcb92745c047684f632e8c2ff9c01bca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250218",
             "fullstartdate": "202502182300",
