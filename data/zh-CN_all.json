@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-20 00:49:55",
-    "Total": 1030,
+    "LastUpdate": "2025-02-21 00:50:00",
+    "Total": 1031,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502201600",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChampakaSarasi_ZH-CN0254940579",
+            "copyright": "希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%8C%E8%8E%AB%E5%8A%A0&form=hpcapt&mkt=zh-cn",
+            "title": "静水流深的传说",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e061c9577a31c5c4940b0b753483a9aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502191600",
