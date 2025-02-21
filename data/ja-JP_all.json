@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-20 00:50:05",
-    "Total": 1030,
+    "LastUpdate": "2025-02-21 00:50:08",
+    "Total": 1031,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502201500",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.ChampakaSarasi_JA-JP0008600806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChampakaSarasi_JA-JP0008600806",
+            "copyright": "チャンパカ・サラシール, インド カルナータカ州 (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Champaka+Sarasi+pond+&form=hpcapt&filters=HpDate%3a%2220250220_1500%22",
+            "title": "魅力的な古代の水槽",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ef73648cfd888ec92a9b4d010bf7258",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502191500",
