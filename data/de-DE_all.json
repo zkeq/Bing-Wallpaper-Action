@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-20 00:50:09",
-    "Total": 1030,
+    "LastUpdate": "2025-02-21 00:50:12",
+    "Total": 1031,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502202300",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.GoldfinchSunflower_DE-DE5115131607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoldfinchSunflower_DE-DE5115131607",
+            "copyright": "Stieglitze (Carduelis carduelis) auf der Nahrungssuche in einem Sonnenblumenfeld, Deutschland (© Arndt, S.E./Juniors Bildarchiv GmbH/Alamy Stock Foto)",
+            "copyrightlink": "https://www.bing.com/search?q=Stieglitz+Distelfink&form=hpcapt&filters=HpDate%3a%2220250220_2300%22",
+            "title": "Farbenfrohe Gäste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_GoldfinchSunflower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59af306e8eb98a6f0639653a1a8ae9e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502192300",
