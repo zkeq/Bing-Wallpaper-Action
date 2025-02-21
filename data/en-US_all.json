@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-20 00:50:00",
-    "Total": 1030,
+    "LastUpdate": "2025-02-21 00:50:04",
+    "Total": 1031,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502200800",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.AdamsYosemite_EN-US7924059397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdamsYosemite_EN-US7924059397",
+            "copyright": "Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Ansel+Adams&form=hpcapt&filters=HpDate%3a%2220250220_0800%22",
+            "title": "Celebrating Ansel Adams",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_AdamsYosemite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "052a2f0a80cf8570a51df10b735e329c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502190800",
