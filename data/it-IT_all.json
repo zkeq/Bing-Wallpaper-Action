@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-20 00:50:30",
-    "Total": 1030,
+    "LastUpdate": "2025-02-21 00:50:32",
+    "Total": 1031,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250220",
+            "fullstartdate": "202502202300",
+            "enddate": "20250221",
+            "url": "/th?id=OHR.BattagliaDiPavia_IT-IT9266388577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BattagliaDiPavia_IT-IT9266388577",
+            "copyright": "Castello di Mornico Losana, Mornico Losana, Provincia di Pavia, Lombardia (© Massimo Ripani/Sime/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Mornico+Losana+fortificazione&form=hpcapt",
+            "title": "Castelli, Neve e Cavalieri?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_BattagliaDiPavia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3913cf93ae723f3a59771f2efef03b57",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250219",
             "fullstartdate": "202502192300",
