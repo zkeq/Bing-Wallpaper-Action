@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-21 00:50:00",
-    "Total": 1031,
+    "LastUpdate": "2025-02-22 00:49:47",
+    "Total": 1032,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250221",
+            "fullstartdate": "202502211600",
+            "enddate": "20250222",
+            "url": "/th?id=OHR.StLouisArch_ZH-CN0442955735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StLouisArch_ZH-CN0442955735",
+            "copyright": "圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E8%B7%AF%E6%98%93%E6%96%AF%E6%8B%B1%E9%97%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "向辉煌迈进",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0cf3c747d53e77557e81d9e5876f3487",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250220",
             "fullstartdate": "202502201600",
