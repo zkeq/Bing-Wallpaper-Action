@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-21 00:50:16",
-    "Total": 1030,
+    "LastUpdate": "2025-02-22 00:50:04",
+    "Total": 1031,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250221",
+            "fullstartdate": "202502210500",
+            "enddate": "20250222",
+            "url": "/th?id=OHR.ChampakaSarasi_EN-CA6048642265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChampakaSarasi_EN-CA6048642265",
+            "copyright": "Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shimoga&form=hpcapt&filters=HpDate%3a%2220250221_0500%22",
+            "title": "A tale of still waters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_ChampakaSarasi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c0bc9c2b4acaac36b59b8ae002c3e50",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250220",
             "fullstartdate": "202502200500",
