@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-21 00:50:20",
-    "Total": 1029,
+    "LastUpdate": "2025-02-22 00:50:08",
+    "Total": 1030,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250222",
+            "fullstartdate": "202502220000",
+            "enddate": "20250223",
+            "url": "/th?id=OHR.StLouisArch_EN-GB0667383384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StLouisArch_EN-GB0667383384",
+            "copyright": "Gateway Arch and St Louis, Missouri, United States (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gateway+Arch+national+park&form=hpcapt&filters=HpDate%3a%2220250222_0000%22",
+            "title": "Bending towards brilliance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_StLouisArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f83c97bf370e470a34eea3a27a8be09e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250221",
             "fullstartdate": "202502210000",
