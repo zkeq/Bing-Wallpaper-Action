@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-22 00:50:16",
-    "Total": 1032,
+    "LastUpdate": "2025-02-23 00:50:40",
+    "Total": 1033,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250222",
+            "fullstartdate": "202502222300",
+            "enddate": "20250223",
+            "url": "/th?id=OHR.MtFujiSunrise_FR-FR3629705815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtFujiSunrise_FR-FR3629705815",
+            "copyright": "Lever de soleil au mont Fuji, Lac Kawaguchi, Japon (© Twenty47studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220250222_2300%22",
+            "title": "L'appel du mont Fuji",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b95de0d68141a8ed121b4dc6c227f7da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250221",
             "fullstartdate": "202502212300",
