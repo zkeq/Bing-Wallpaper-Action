@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-23 00:50:12",
-    "Total": 1033,
+    "LastUpdate": "2025-02-24 00:50:06",
+    "Total": 1034,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250223",
+            "fullstartdate": "202502231600",
+            "enddate": "20250224",
+            "url": "/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantCuttlefish_ZH-CN0670915878",
+            "copyright": "斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%9E%E8%86%9C%E4%B9%8C%E8%B4%BC&form=hpcapt&mkt=zh-cn",
+            "title": "墨迹与伪装",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "03ef903ff996ef25011315666a445f3a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250222",
             "fullstartdate": "202502221600",
