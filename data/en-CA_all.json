@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-23 00:50:28",
-    "Total": 1032,
+    "LastUpdate": "2025-02-24 00:50:21",
+    "Total": 1033,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250223",
+            "fullstartdate": "202502230500",
+            "enddate": "20250224",
+            "url": "/th?id=OHR.MtFujiSunrise_EN-CA7120845966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MtFujiSunrise_EN-CA7120845966",
+            "copyright": "Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220250223_0500%22",
+            "title": "Wind of Fuji, my souvenir from Edo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_MtFujiSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a96085d9e44980bdf1bdebb17e0ceb31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250222",
             "fullstartdate": "202502220500",
