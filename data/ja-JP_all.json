@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-23 00:50:21",
-    "Total": 1033,
+    "LastUpdate": "2025-02-24 00:50:14",
+    "Total": 1034,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250223",
+            "fullstartdate": "202502231500",
+            "enddate": "20250224",
+            "url": "/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RibbleheadViaduct_JA-JP0769503543",
+            "copyright": "リブルヘッド高架橋, イングランド ノース・ヨークシャー (© AWL Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AA%E3%83%96%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E9%AB%98%E6%9E%B6%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220250223_1500%22",
+            "title": "歴史的な鉄道橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_RibbleheadViaduct%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5330c690390f70d826b59e1890eee8d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250222",
             "fullstartdate": "202502221500",
