@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-23 00:50:40",
-    "Total": 1033,
+    "LastUpdate": "2025-02-24 00:50:33",
+    "Total": 1034,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250223",
+            "fullstartdate": "202502232300",
+            "enddate": "20250224",
+            "url": "/th?id=OHR.GiantCuttlefish_FR-FR8590035625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantCuttlefish_FR-FR8590035625",
+            "copyright": "Groupe de seiches géantes dans le golfe Spencer, au large de Whyalla, Australie-Méridionale (© Gary Bell/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Seiche+g%C3%A9ante&form=hpcapt&filters=HpDate%3a%2220250223_2300%22",
+            "title": "Des seiches archi seiches",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7cf0da4a4896dce148a24d75e2568f53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250222",
             "fullstartdate": "202502222300",
