@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-23 00:50:25",
-    "Total": 1033,
+    "LastUpdate": "2025-02-24 00:50:18",
+    "Total": 1034,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250223",
+            "fullstartdate": "202502232300",
+            "enddate": "20250224",
+            "url": "/th?id=OHR.GiantCuttlefish_DE-DE6436813426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiantCuttlefish_DE-DE6436813426",
+            "copyright": "Gruppe von Riesensepien im Spencer-Golf vor Whyalla, Südaustralien (© Gary Bell/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Riesensepia&form=hpcapt&filters=HpDate%3a%2220250223_2300%22",
+            "title": "Tiefsee-Gigant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8efd90deab7b83662f3e3ab0a6c28911",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250222",
             "fullstartdate": "202502222300",
