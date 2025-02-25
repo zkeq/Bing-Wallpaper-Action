@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-24 00:50:25",
-    "Total": 1032,
+    "LastUpdate": "2025-02-25 00:50:22",
+    "Total": 1033,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250225",
+            "fullstartdate": "202502250000",
+            "enddate": "20250226",
+            "url": "/th?id=OHR.BryceHoodoos_EN-GB1524631248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceHoodoos_EN-GB1524631248",
+            "copyright": "Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220250225_0000%22",
+            "title": "Hoodoo you do?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_BryceHoodoos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9a6a38bc490f2efda33b68df6adba68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250224",
             "fullstartdate": "202502240000",
