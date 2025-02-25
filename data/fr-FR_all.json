@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-24 00:50:33",
-    "Total": 1034,
+    "LastUpdate": "2025-02-25 00:50:31",
+    "Total": 1035,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250224",
+            "fullstartdate": "202502242300",
+            "enddate": "20250225",
+            "url": "/th?id=OHR.MillauBridge_FR-FR5934709762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MillauBridge_FR-FR5934709762",
+            "copyright": "Viaduc de Millau, Aveyron, France (© Andrzej Gorzkowski Photography/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=viaduc+de+millau&form=hpcapt&filters=HpDate%3a%2220250224_2300%22",
+            "title": "Un géant dans les nuages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_MillauBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bab1f6566c1d000738af94f6296a827f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250223",
             "fullstartdate": "202502232300",
