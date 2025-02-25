@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-24 00:50:06",
-    "Total": 1034,
+    "LastUpdate": "2025-02-25 00:50:01",
+    "Total": 1035,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250224",
+            "fullstartdate": "202502241600",
+            "enddate": "20250225",
+            "url": "/th?id=OHR.BryceHoodoos_ZH-CN0817211446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BryceHoodoos_ZH-CN0817211446",
+            "copyright": "砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E6%96%AF%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "风蚀石们的问候",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8fb7123ba731263cb078834faa0901b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250223",
             "fullstartdate": "202502231600",
