@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-25 00:50:27",
-    "Total": 1035,
+    "LastUpdate": "2025-02-26 00:50:30",
+    "Total": 1036,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250225",
+            "fullstartdate": "202502251830",
+            "enddate": "20250226",
+            "url": "/th?id=OHR.TungnathShiva_EN-IN3198630247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TungnathShiva_EN-IN3198630247",
+            "copyright": "Tungnath Temple, Uttarakhand (© draco-zlat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Maha+Shivaratri+festival&form=hpcapt&filters=HpDate%3a%2220250225_1830%22",
+            "title": "Honouring Shiva",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_TungnathShiva%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ea3ae49755e6e3414271dfbc4b5a632",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250224",
             "fullstartdate": "202502241830",
