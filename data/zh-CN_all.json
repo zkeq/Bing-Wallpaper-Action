@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-25 00:50:01",
-    "Total": 1035,
+    "LastUpdate": "2025-02-26 00:50:05",
+    "Total": 1036,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250225",
+            "fullstartdate": "202502251600",
+            "enddate": "20250226",
+            "url": "/th?id=OHR.ArgyllStalker_ZH-CN0970395078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArgyllStalker_ZH-CN0970395078",
+            "copyright": "莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%96%AF%E6%89%98%E5%85%8B%E5%B0%94%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "苏格兰战略的最佳体现",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "965a5c8348aeab206e279d65f8181971",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250224",
             "fullstartdate": "202502241600",
