@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-25 00:50:31",
-    "Total": 1035,
+    "LastUpdate": "2025-02-26 00:50:34",
+    "Total": 1036,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250225",
+            "fullstartdate": "202502252300",
+            "enddate": "20250226",
+            "url": "/th?id=OHR.ArgyllStalker_FR-FR0089551685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArgyllStalker_FR-FR0089551685",
+            "copyright": "Château de Stalker sur le loch Laich, Argyll, Écosse (© WLDavies/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Stalker&form=hpcapt&filters=HpDate%3a%2220250225_2300%22",
+            "title": "Les mystères voilés du loch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8d930c6c5f28514aab82fcd057d220c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250224",
             "fullstartdate": "202502242300",
