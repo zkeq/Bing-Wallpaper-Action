@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-26 00:50:10",
-    "Total": 1036,
+    "LastUpdate": "2025-02-27 00:50:04",
+    "Total": 1037,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250226",
+            "fullstartdate": "202502260800",
+            "enddate": "20250227",
+            "url": "/th?id=OHR.ArgyllStalker_EN-US2452683665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArgyllStalker_EN-US2452683665",
+            "copyright": "Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castle+Stalker&form=hpcapt&filters=HpDate%3a%2220250226_0800%22",
+            "title": "Scottish strategy at its finest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_ArgyllStalker%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "29b7d9e4d2950eb44a3d5561282acace",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250225",
             "fullstartdate": "202502250800",
