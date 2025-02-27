@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-26 00:50:05",
-    "Total": 1036,
+    "LastUpdate": "2025-02-27 00:49:59",
+    "Total": 1037,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250226",
+            "fullstartdate": "202502261600",
+            "enddate": "20250227",
+            "url": "/th?id=OHR.PolarCub_ZH-CN1179361319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarCub_ZH-CN1179361319",
+            "copyright": "北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%8C%97%E6%9E%81%E7%86%8A%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "极地关怀",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_PolarCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c0a8c8a29e280d906d8c2a2ad0f0ff8c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250225",
             "fullstartdate": "202502251600",
