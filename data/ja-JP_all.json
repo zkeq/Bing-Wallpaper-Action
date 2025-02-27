@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-26 00:50:14",
-    "Total": 1036,
+    "LastUpdate": "2025-02-27 00:50:08",
+    "Total": 1037,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250226",
+            "fullstartdate": "202502261500",
+            "enddate": "20250227",
+            "url": "/th?id=OHR.PolarCub_JA-JP1257956041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarCub_JA-JP1257956041",
+            "copyright": "雪の中のホッキョクグマの子, カナダ マニトバ州 (© Eric Baccega/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220250226_1500%22",
+            "title": "今日は国際ホッキョクグマの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_PolarCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9927719e7e296aaeaa7e46caa185fc3e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250225",
             "fullstartdate": "202502251500",
