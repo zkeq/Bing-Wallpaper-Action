@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-27 00:50:24",
-    "Total": 1037,
+    "LastUpdate": "2025-02-28 00:50:21",
+    "Total": 1038,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250227",
+            "fullstartdate": "202502271830",
+            "enddate": "20250228",
+            "url": "/th?id=OHR.BhutanMonastery_EN-IN9102034060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanMonastery_EN-IN9102034060",
+            "copyright": "Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tibetan+new+year&form=hpcapt&filters=HpDate%3a%2220250227_1830%22",
+            "title": "Have a rest at the Tiger's Nest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_BhutanMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cce95565d8b73bee80fc6dd9c1d5da0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250226",
             "fullstartdate": "202502261830",
