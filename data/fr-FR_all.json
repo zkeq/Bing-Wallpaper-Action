@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-27 00:50:28",
-    "Total": 1037,
+    "LastUpdate": "2025-02-28 00:50:25",
+    "Total": 1038,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250227",
+            "fullstartdate": "202502272300",
+            "enddate": "20250228",
+            "url": "/th?id=OHR.BhutanMonastery_FR-FR1020195060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanMonastery_FR-FR1020195060",
+            "copyright": "Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Losar+nouvel+an+tib%C3%A9tain&form=hpcapt&filters=HpDate%3a%2220250227_2300%22",
+            "title": "Une sérénité ancrée dans la montagne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_BhutanMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "739e4866d87f4bcf0301461829a4465d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250226",
             "fullstartdate": "202502262300",
