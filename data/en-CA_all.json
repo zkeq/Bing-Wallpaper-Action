@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-27 00:50:16",
-    "Total": 1036,
+    "LastUpdate": "2025-02-28 00:50:13",
+    "Total": 1037,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250227",
+            "fullstartdate": "202502270500",
+            "enddate": "20250228",
+            "url": "/th?id=OHR.PolarCub_EN-CA8015894762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PolarCub_EN-CA8015894762",
+            "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220250227_0500%22",
+            "title": "Polar care",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_PolarCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "18780402326e94d41e3189fc6954dcda",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250226",
             "fullstartdate": "202502260500",
