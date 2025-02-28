@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-27 00:50:12",
-    "Total": 1037,
+    "LastUpdate": "2025-02-28 00:50:09",
+    "Total": 1038,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250227",
+            "fullstartdate": "202502272300",
+            "enddate": "20250228",
+            "url": "/th?id=OHR.BhutanMonastery_DE-DE8934073002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BhutanMonastery_DE-DE8934073002",
+            "copyright": "Kloster Taktshang Palphug, Bhutan (© Baron Reznik/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tibetisches+Neujahr+Losar&form=hpcapt&filters=HpDate%3a%2220250227_2300%22",
+            "title": "Willkommen im Jahr 2152!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_BhutanMonastery%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b9ee98c1913fe1f129ff1a68eb8223e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250226",
             "fullstartdate": "202502262300",
