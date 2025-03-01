@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-02-28 00:49:56",
-    "Total": 1038,
+    "LastUpdate": "2025-03-01 00:50:16",
+    "Total": 1039,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250228",
+            "fullstartdate": "202502281600",
+            "enddate": "20250301",
+            "url": "/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451",
+            "copyright": "玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8E%9B%E7%90%B3%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "天空之镜",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250228_MaligneLakeJasper%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b05bad03565fe16252bf8bcad980ce70",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250227",
             "fullstartdate": "202502271600",
