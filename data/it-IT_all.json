@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-01 00:50:49",
-    "Total": 1039,
+    "LastUpdate": "2025-03-02 00:50:45",
+    "Total": 1040,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250301",
+            "fullstartdate": "202503012300",
+            "enddate": "20250302",
+            "url": "/th?id=OHR.EucalyptusForest_IT-IT0078107703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EucalyptusForest_IT-IT0078107703",
+            "copyright": "Alberi di eucalipto, Megalong Valley, Parco Nazionale delle Blue Mountains, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=L%27Area+delle+Greater+Blue+Mountains&form=hpcapt",
+            "title": "Flora, Fauna e Fiaba",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_EucalyptusForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "85e089d8adf2c2113b820cb998926d5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250228",
             "fullstartdate": "202502282300",
