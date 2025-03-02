@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-01 00:50:16",
-    "Total": 1039,
+    "LastUpdate": "2025-03-02 00:50:14",
+    "Total": 1040,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250301",
+            "fullstartdate": "202503011600",
+            "enddate": "20250302",
+            "url": "/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EucalyptusForest_ZH-CN3052498076",
+            "copyright": "桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%93%9D%E5%B1%B1%E5%B1%B1%E8%84%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "桉树奇景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_EucalyptusForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "788eeed57b5fb2387cab1cd6278c7f84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250228",
             "fullstartdate": "202502281600",
