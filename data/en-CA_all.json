@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-01 00:50:33",
-    "Total": 1038,
+    "LastUpdate": "2025-03-02 00:50:30",
+    "Total": 1039,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250301",
+            "fullstartdate": "202503010500",
+            "enddate": "20250302",
+            "url": "/th?id=OHR.MaligneLakeJasper_EN-CA0802451019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaligneLakeJasper_EN-CA0802451019",
+            "copyright": "Aurora borealis over Maligne Lake in Jasper National Park, Alberta, Canada (© Mumemories/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Maligne+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220250301_0500%22",
+            "title": "Celestial reflections",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_MaligneLakeJasper%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2481c8abae165bef5848544848c95cb5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250228",
             "fullstartdate": "202502280500",
