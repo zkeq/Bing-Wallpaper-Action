@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-02 00:50:14",
-    "Total": 1040,
+    "LastUpdate": "2025-03-03 00:50:05",
+    "Total": 1041,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250302",
+            "fullstartdate": "202503021600",
+            "enddate": "20250303",
+            "url": "/th?id=OHR.HornbillPair_ZH-CN3380997666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HornbillPair_ZH-CN3380997666",
+            "copyright": "南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%8B%E9%B2%81%E6%A0%BC%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "狂热野生",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250302_HornbillPair%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b5e1785bead3eea4780c262540e3066",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250301",
             "fullstartdate": "202503011600",
