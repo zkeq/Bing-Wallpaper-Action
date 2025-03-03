@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-02 00:50:42",
-    "Total": 1040,
+    "LastUpdate": "2025-03-03 00:50:34",
+    "Total": 1041,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250302",
+            "fullstartdate": "202503022300",
+            "enddate": "20250303",
+            "url": "/th?id=OHR.HornbillPair_FR-FR3828518426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HornbillPair_FR-FR3828518426",
+            "copyright": "Calaos à bec jaune du sud dans le parc national Kruger, Afrique du Sud (© Richard Du Toit/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=le+parc+national+Kruger&form=hpcapt&filters=HpDate%3a%2220250302_2300%22",
+            "title": "Envol vers la vie sauvage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250302_HornbillPair%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "db9fd1106d44ef4fd067fb3632cb5f37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250301",
             "fullstartdate": "202503012300",
