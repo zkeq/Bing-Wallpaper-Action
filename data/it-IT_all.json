@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-02 00:50:45",
-    "Total": 1040,
+    "LastUpdate": "2025-03-03 00:50:38",
+    "Total": 1041,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250302",
+            "fullstartdate": "202503022300",
+            "enddate": "20250303",
+            "url": "/th?id=OHR.HornbillPair_IT-IT0150079379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HornbillPair_IT-IT0150079379",
+            "copyright": "Buceri dal becco giallo meridionale nel Parco Nazionale Kruger, Sudafrica (© Richard Du Toit/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+Kruger+Sudafrica&form=hpcapt",
+            "title": "Fauna Selvatica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250302_HornbillPair%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a8cafefe2d46078574996a6b5cef744",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250301",
             "fullstartdate": "202503012300",
