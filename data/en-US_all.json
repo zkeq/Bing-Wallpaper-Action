@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-02 00:50:18",
-    "Total": 1040,
+    "LastUpdate": "2025-03-03 00:50:10",
+    "Total": 1041,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250302",
+            "fullstartdate": "202503020800",
+            "enddate": "20250303",
+            "url": "/th?id=OHR.EucalyptusForest_EN-US3015819767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EucalyptusForest_EN-US3015819767",
+            "copyright": "Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Blue+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220250302_0800%22",
+            "title": "A eucalyp-tastic view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250302_EucalyptusForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c53d7ffa21e488220ac3dd802cd12ce2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250301",
             "fullstartdate": "202503010800",
