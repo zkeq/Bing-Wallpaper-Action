@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-04 00:50:35",
-    "Total": 1042,
+    "LastUpdate": "2025-03-05 00:50:40",
+    "Total": 1043,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250304",
+            "fullstartdate": "202503042300",
+            "enddate": "20250305",
+            "url": "/th?id=OHR.SuratThani_IT-IT0062631130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SuratThani_IT-IT0062631130",
+            "copyright": "Vista aerea del Parco Nazionale di Khao Sok, Surat Thani, Thailandia (© Peetatham Kongkapech/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Thailandia&form=hpcapt",
+            "title": "Serpente d'Acqua?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250304_SuratThani%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78a1e7025e5e1dc4b5d4beb0d979669c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250303",
             "fullstartdate": "202503032300",
