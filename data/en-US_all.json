@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-04 00:50:07",
-    "Total": 1042,
+    "LastUpdate": "2025-03-05 00:50:12",
+    "Total": 1043,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250304",
+            "fullstartdate": "202503040800",
+            "enddate": "20250305",
+            "url": "/th?id=OHR.MardiGrasJackson_EN-US3277683692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MardiGrasJackson_EN-US3277683692",
+            "copyright": "Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mardi+gras&form=hpcapt&filters=HpDate%3a%2220250304_0800%22",
+            "title": "Not your ordinary Tuesday",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250304_MardiGrasJackson%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ace7793a3a5d2db50675978e7e277c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250303",
             "fullstartdate": "202503030800",
