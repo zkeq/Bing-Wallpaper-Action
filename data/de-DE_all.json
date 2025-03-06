@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-05 00:50:20",
-    "Total": 1043,
+    "LastUpdate": "2025-03-06 00:50:15",
+    "Total": 1044,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250305",
+            "fullstartdate": "202503052300",
+            "enddate": "20250306",
+            "url": "/th?id=OHR.NevadaBigHorns_DE-DE7640201407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NevadaBigHorns_DE-DE7640201407",
+            "copyright": "Wüsten-Dickhornschafe im Valley of Fire State Park, Nevada, USA (© Rachid Dahnoun/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Valley+of+Fire+State+Park&form=hpcapt&filters=HpDate%3a%2220250305_2300%22",
+            "title": "Mutige Kletterer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250305_NevadaBigHorns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "350c8406c703e4c3fcf3310461b25000",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250304",
             "fullstartdate": "202503042300",
