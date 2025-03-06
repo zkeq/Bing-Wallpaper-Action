@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-05 00:50:36",
-    "Total": 1043,
+    "LastUpdate": "2025-03-06 00:50:30",
+    "Total": 1044,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250305",
+            "fullstartdate": "202503052300",
+            "enddate": "20250306",
+            "url": "/th?id=OHR.NevadaBigHorns_FR-FR5758477568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NevadaBigHorns_FR-FR5758477568",
+            "copyright": "Mouflon du désert dans le parc d'État Valley of Fire, Nevada, États-Unis (© Rachid Dahnoun/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=vall%C3%A9e+de+feu&form=hpcapt&filters=HpDate%3a%2220250305_2300%22",
+            "title": "Symbiose sculptée dans la roche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250305_NevadaBigHorns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83a2154b0ab76e6cbd2e3cf39cc7d4a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250304",
             "fullstartdate": "202503042300",
