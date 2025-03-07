@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-06 00:50:03",
-    "Total": 1044,
+    "LastUpdate": "2025-03-07 00:50:06",
+    "Total": 1045,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250306",
+            "fullstartdate": "202503061600",
+            "enddate": "20250307",
+            "url": "/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumBlossom_ZH-CN5888621119",
+            "copyright": "中国的梅花 (© zhikun sun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A2%85%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+            "title": "花开中国",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250306_PlumBlossom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b76ab5021d55be6c8a424f9cfa49698c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250305",
             "fullstartdate": "202503051600",
