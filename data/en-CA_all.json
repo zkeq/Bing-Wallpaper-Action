@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-06 00:50:19",
-    "Total": 1043,
+    "LastUpdate": "2025-03-07 00:50:23",
+    "Total": 1044,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250306",
+            "fullstartdate": "202503060500",
+            "enddate": "20250307",
+            "url": "/th?id=OHR.WalterdaleBridge_EN-CA9868203704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalterdaleBridge_EN-CA9868203704",
+            "copyright": "Walterdale Bridge in Edmonton, Canada (© ronniechua/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Walterdale+Bridge+in+Edmonton&form=hpcapt&filters=HpDate%3a%2220250306_0500%22",
+            "title": "Bridging the gap",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250306_WalterdaleBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d9d9f25135f77c7870c81ac0cea96a82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250305",
             "fullstartdate": "202503050500",
