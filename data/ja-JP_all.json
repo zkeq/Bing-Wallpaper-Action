@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-06 00:50:11",
-    "Total": 1044,
+    "LastUpdate": "2025-03-07 00:50:15",
+    "Total": 1045,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250306",
+            "fullstartdate": "202503061500",
+            "enddate": "20250307",
+            "url": "/th?id=OHR.PlumBlossom_JA-JP3242294823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumBlossom_JA-JP3242294823",
+            "copyright": "梅の花, 中国 (© zhikun sun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%A2%85%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250306_1500%22",
+            "title": "寒さの中に凛とした姿で咲く花",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250306_PlumBlossom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1208b47072a49f84928f7d459f25355e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250305",
             "fullstartdate": "202503051500",
