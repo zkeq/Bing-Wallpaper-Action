@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-07 00:50:27",
-    "Total": 1043,
+    "LastUpdate": "2025-03-08 00:49:38",
+    "Total": 1044,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250308",
+            "fullstartdate": "202503080000",
+            "enddate": "20250309",
+            "url": "/th?id=OHR.FearlessWomen_EN-GB0884411482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FearlessWomen_EN-GB0884411482",
+            "copyright": "Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Womens+Day&form=hpcapt&filters=HpDate%3a%2220250308_0000%22",
+            "title": "Making her-story!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250308_FearlessWomen%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "181ffa207b3253c79479316b8d474e44",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250307",
             "fullstartdate": "202503070000",
