@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-07 00:50:19",
-    "Total": 1045,
+    "LastUpdate": "2025-03-08 00:49:31",
+    "Total": 1046,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250307",
+            "fullstartdate": "202503072300",
+            "enddate": "20250308",
+            "url": "/th?id=OHR.FearlessWomen_DE-DE2789139190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FearlessWomen_DE-DE2789139190",
+            "copyright": "Fearless Girl-Statue vor der New Yorker Börse, New York City, USA (© JOHANNES EISELE/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Frauentag&form=hpcapt&filters=HpDate%3a%2220250307_2300%22",
+            "title": "Furchtlose Entschlossenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250307_FearlessWomen%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1ccd1f1a732124f2d14e1751a971fc6d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250306",
             "fullstartdate": "202503062300",
