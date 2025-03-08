@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-07 00:50:23",
-    "Total": 1044,
+    "LastUpdate": "2025-03-08 00:49:35",
+    "Total": 1045,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250307",
+            "fullstartdate": "202503070500",
+            "enddate": "20250308",
+            "url": "/th?id=OHR.PlumBlossom_EN-CA9667491704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlumBlossom_EN-CA9667491704",
+            "copyright": "Plum blossoms, China (© zhikun sun/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pink+plum+blossom+in+China&form=hpcapt&filters=HpDate%3a%2220250307_0500%22",
+            "title": "China in bloom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250307_PlumBlossom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9d0301f8bf8b252489e4b6886cb7082",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250306",
             "fullstartdate": "202503060500",
