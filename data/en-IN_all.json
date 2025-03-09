@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-08 00:49:42",
-    "Total": 1046,
+    "LastUpdate": "2025-03-09 00:50:06",
+    "Total": 1047,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250308",
+            "fullstartdate": "202503081830",
+            "enddate": "20250309",
+            "url": "/th?id=OHR.KedarkanthaSummit_EN-IN0550105745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KedarkanthaSummit_EN-IN0550105745",
+            "copyright": "Sunrise at the summit of Kedarkantha (© Jeet Khagram/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=kedarkantha&form=hpcapt&filters=HpDate%3a%2220250308_1830%22",
+            "title": "Frozen trails, soft sunrise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250308_KedarkanthaSummit%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8f7682a8c0f2487417126fe62bb9c3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250307",
             "fullstartdate": "202503071830",
