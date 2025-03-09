@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-08 00:49:46",
-    "Total": 1046,
+    "LastUpdate": "2025-03-09 00:50:10",
+    "Total": 1047,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250308",
+            "fullstartdate": "202503082300",
+            "enddate": "20250309",
+            "url": "/th?id=OHR.kingfisherFr_FR-FR6370911716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.kingfisherFr_FR-FR6370911716",
+            "copyright": "Martin-pêcheur d'Europe sur une branche (© Javier Fernández Sánchez/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Martin-p%C3%AAcheur+d%27Europe&form=hpcapt&filters=HpDate%3a%2220250308_2300%22",
+            "title": "À la rencontre du pêcheur aux ailes de saphir",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250308_kingfisherFr%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0b4190bcbd766625824267e8e66614c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250307",
             "fullstartdate": "202503072300",
