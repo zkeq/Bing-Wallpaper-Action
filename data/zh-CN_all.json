@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-08 00:49:19",
-    "Total": 1046,
+    "LastUpdate": "2025-03-09 00:49:41",
+    "Total": 1047,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250308",
+            "fullstartdate": "202503081600",
+            "enddate": "20250309",
+            "url": "/th?id=OHR.ItalyClock_ZH-CN0846995743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyClock_ZH-CN0846995743",
+            "copyright": "圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8F%E4%BB%A4%E6%97%B6&form=hpcapt&mkt=zh-cn",
+            "title": "时间的步伐",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250308_ItalyClock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1206ff08df9cf86290fa086d353b94ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250307",
             "fullstartdate": "202503071600",
