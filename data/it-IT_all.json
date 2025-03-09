@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-08 00:49:50",
-    "Total": 1046,
+    "LastUpdate": "2025-03-09 00:50:14",
+    "Total": 1047,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250308",
+            "fullstartdate": "202503082300",
+            "enddate": "20250309",
+            "url": "/th?id=OHR.WinterGamesTurin_IT-IT9894957082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterGamesTurin_IT-IT9894957082",
+            "copyright": "Vista su Torino, Piemonte (© Fabio Lamanna/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Inverno&form=hpcapt",
+            "title": "Che vinca il migliore!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250308_WinterGamesTurin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "389acbbc3fbec0ed7402e13c56a0ae37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250307",
             "fullstartdate": "202503072300",
