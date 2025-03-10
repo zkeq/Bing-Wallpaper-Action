@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-09 00:49:41",
-    "Total": 1047,
+    "LastUpdate": "2025-03-10 00:49:45",
+    "Total": 1048,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250309",
+            "fullstartdate": "202503091600",
+            "enddate": "20250310",
+            "url": "/th?id=OHR.NappingLion_ZH-CN1214312983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NappingLion_ZH-CN1214312983",
+            "copyright": "在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "小睡片刻，再征服世界",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_NappingLion%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9bf7db22b577e46afa60b257168a89e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250308",
             "fullstartdate": "202503081600",
