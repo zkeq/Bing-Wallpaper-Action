@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-09 00:49:46",
-    "Total": 1047,
+    "LastUpdate": "2025-03-10 00:49:49",
+    "Total": 1048,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250309",
+            "fullstartdate": "202503090700",
+            "enddate": "20250310",
+            "url": "/th?id=OHR.ItalyClock_EN-US7397391355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyClock_EN-US7397391355",
+            "copyright": "St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Daylight+saving+time&form=hpcapt&filters=HpDate%3a%2220250309_0700%22",
+            "title": "The March of time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_ItalyClock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4240de545e84d5824158a7eae87df8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250308",
             "fullstartdate": "202503080800",
