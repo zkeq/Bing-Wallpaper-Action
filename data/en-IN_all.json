@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-10 00:50:09",
-    "Total": 1048,
+    "LastUpdate": "2025-03-11 00:50:32",
+    "Total": 1049,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250310",
+            "fullstartdate": "202503101830",
+            "enddate": "20250311",
+            "url": "/th?id=OHR.NusaPenida_EN-IN9109539452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NusaPenida_EN-IN9109539452",
+            "copyright": "Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nusa+Penida+Island&form=hpcapt&filters=HpDate%3a%2220250310_1830%22",
+            "title": "When the ocean breaks the rules",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250310_NusaPenida%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0555a259edc49e4cc5ebc641d2d0679e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250309",
             "fullstartdate": "202503091830",
