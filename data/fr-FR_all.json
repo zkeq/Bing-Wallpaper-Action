@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-10 00:50:13",
-    "Total": 1048,
+    "LastUpdate": "2025-03-11 00:50:37",
+    "Total": 1049,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250310",
+            "fullstartdate": "202503102300",
+            "enddate": "20250311",
+            "url": "/th?id=OHR.NusaPenida_FR-FR6937590982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NusaPenida_FR-FR6937590982",
+            "copyright": "Broken Beach à Nusa Penida, Bali, Indonésie (© joakimbkk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nusa+Penida+Indon%C3%A9sie+&form=hpcapt&filters=HpDate%3a%2220250310_2300%22",
+            "title": "Un paradis bien caché",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250310_NusaPenida%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "460644d5b0276c23ea5313610fdd5eec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250309",
             "fullstartdate": "202503092300",
