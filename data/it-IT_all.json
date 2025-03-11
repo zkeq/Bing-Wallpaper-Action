@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-10 00:50:17",
-    "Total": 1048,
+    "LastUpdate": "2025-03-11 00:50:41",
+    "Total": 1049,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250310",
+            "fullstartdate": "202503102300",
+            "enddate": "20250311",
+            "url": "/th?id=OHR.NusaPenida_IT-IT9952682567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NusaPenida_IT-IT9952682567",
+            "copyright": "Broken Beach, Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Indonesia&form=hpcapt",
+            "title": "Ti fidi dei tuoi occhi?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250310_NusaPenida%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3facb7ce88956d777d110711688e0f53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250309",
             "fullstartdate": "202503092300",
