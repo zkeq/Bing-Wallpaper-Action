@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-12 00:50:11",
-    "Total": 1050,
+    "LastUpdate": "2025-03-13 00:50:12",
+    "Total": 1051,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250312",
+            "fullstartdate": "202503121500",
+            "enddate": "20250313",
+            "url": "/th?id=OHR.HoliColors_JA-JP6070846521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoliColors_JA-JP6070846521",
+            "copyright": "カラフルな色粉を投げ合う祭り, インド (© powerofforever/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E7%A5%AD&form=hpcapt&filters=HpDate%3a%2220250312_1500%22",
+            "title": "今日はホーリー祭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250312_HoliColors%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f78778d996e9e09de2d05aeb44cf8e29",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250311",
             "fullstartdate": "202503111500",
