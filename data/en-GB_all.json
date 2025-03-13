@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-12 00:50:23",
-    "Total": 1048,
+    "LastUpdate": "2025-03-13 00:50:24",
+    "Total": 1049,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250313",
+            "fullstartdate": "202503130000",
+            "enddate": "20250314",
+            "url": "/th?id=OHR.HoliColors_EN-GB1907650380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoliColors_EN-GB1907650380",
+            "copyright": "Holi celebration in Jaipur, India (© powerofforever/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Holi&form=hpcapt&filters=HpDate%3a%2220250313_0000%22",
+            "title": "Holi colour splash",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250313_HoliColors%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cbf4c51e19e84e8a87a49ccdebb32256",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250312",
             "fullstartdate": "202503120000",
