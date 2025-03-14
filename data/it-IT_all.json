@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-13 00:50:36",
-    "Total": 1051,
+    "LastUpdate": "2025-03-14 00:50:31",
+    "Total": 1052,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250313",
+            "fullstartdate": "202503132300",
+            "enddate": "20250314",
+            "url": "/th?id=OHR.BasqueDolmen_IT-IT0162501946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BasqueDolmen_IT-IT0162501946",
+            "copyright": "Dolmen di Sorginetxe, Paesi Baschi, Alava, Spagna (© David Herraez Calzada/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Pi+greco&form=hpcapt",
+            "title": "Eco di Riti Antichi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250313_BasqueDolmen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50f5a548cfd7f4f23bbfdfeada7b349b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250312",
             "fullstartdate": "202503122300",
