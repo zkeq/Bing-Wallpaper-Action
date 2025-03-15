@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-14 00:50:12",
-    "Total": 1052,
+    "LastUpdate": "2025-03-15 00:50:11",
+    "Total": 1053,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250314",
+            "fullstartdate": "202503142300",
+            "enddate": "20250315",
+            "url": "/th?id=OHR.ForumRomanum_DE-DE5477113300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ForumRomanum_DE-DE5477113300",
+            "copyright": "Der Saturntempel im Forum Romanum, Rom, Italien (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Iden+des+M%C3%A4rz&form=hpcapt&filters=HpDate%3a%2220250314_2300%22",
+            "title": "Majestätische Säulen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250314_ForumRomanum%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22de36fbc31376cf3c62781a7de0e846",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250313",
             "fullstartdate": "202503132300",
