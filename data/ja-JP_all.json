@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-15 00:50:07",
-    "Total": 1053,
+    "LastUpdate": "2025-03-16 00:50:21",
+    "Total": 1054,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250315",
+            "fullstartdate": "202503151500",
+            "enddate": "20250316",
+            "url": "/th?id=OHR.NusaPenida_JA-JP6740183252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NusaPenida_JA-JP6740183252",
+            "copyright": "ブロークンビーチ, インドネシア (© joakimbkk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220250315_1500%22",
+            "title": "天使の水溜まり",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250315_NusaPenida%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f2874fc334798b133c08d6b63df921e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250314",
             "fullstartdate": "202503141500",
