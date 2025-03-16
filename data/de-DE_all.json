@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-15 00:50:11",
-    "Total": 1053,
+    "LastUpdate": "2025-03-16 00:50:25",
+    "Total": 1054,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250315",
+            "fullstartdate": "202503152300",
+            "enddate": "20250316",
+            "url": "/th?id=OHR.PandaSnow_DE-DE6090290293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PandaSnow_DE-DE6090290293",
+            "copyright": "Baby-Riesenpanda im Schnee, China (© Cheryl Schneider/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Riesenpanda&form=hpcapt&filters=HpDate%3a%2220250315_2300%22",
+            "title": "Schwarz-weiße Winterfreude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250315_PandaSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecba83e757eab6d602a7e97ad708d715",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250314",
             "fullstartdate": "202503142300",
