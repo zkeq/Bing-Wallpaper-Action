@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-15 00:50:14",
-    "Total": 1052,
+    "LastUpdate": "2025-03-16 00:50:29",
+    "Total": 1053,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250315",
+            "fullstartdate": "202503150400",
+            "enddate": "20250316",
+            "url": "/th?id=OHR.WhaleFestival_EN-CA5433600142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhaleFestival_EN-CA5433600142",
+            "copyright": "Ucluelet, Vancouver Island, British Columbia (© AWL Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Ucluelet+district+municipality&form=hpcapt&filters=HpDate%3a%2220250315_0400%22",
+            "title": "Big splashes, bigger journeys",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250315_WhaleFestival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33f5b57075f6a25c433daa06a0ed9534",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250314",
             "fullstartdate": "202503140400",
