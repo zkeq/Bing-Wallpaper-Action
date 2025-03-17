@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-16 00:50:46",
-    "Total": 1054,
+    "LastUpdate": "2025-03-17 00:50:38",
+    "Total": 1055,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250316",
+            "fullstartdate": "202503162300",
+            "enddate": "20250317",
+            "url": "/th?id=OHR.BeckettBridge_IT-IT9734044392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeckettBridge_IT-IT9734044392",
+            "copyright": "Samuel Beckett Bridge, Dublino, Irlanda (© Colm Keating/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=San+Patrizio&form=hpcapt",
+            "title": "Luce d’Irlanda",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f8c597de79a022de3d99f96ce64ec23",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250315",
             "fullstartdate": "202503152300",
