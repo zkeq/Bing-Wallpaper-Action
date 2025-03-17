@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-16 00:50:13",
-    "Total": 1054,
+    "LastUpdate": "2025-03-17 00:50:05",
+    "Total": 1055,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250316",
+            "fullstartdate": "202503161600",
+            "enddate": "20250317",
+            "url": "/th?id=OHR.BeckettBridge_ZH-CN6206942429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeckettBridge_ZH-CN6206942429",
+            "copyright": "塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A1%9E%E7%BC%AA%E5%B0%94%C2%B7%E8%B4%9D%E5%85%8B%E7%89%B9%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "圣帕特里克节的魅力",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90025f716293b0ea0b425b862ed06118",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250315",
             "fullstartdate": "202503151600",
