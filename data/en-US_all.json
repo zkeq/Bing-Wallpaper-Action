@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-18 00:50:08",
-    "Total": 1056,
+    "LastUpdate": "2025-03-19 00:50:06",
+    "Total": 1057,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250318",
+            "fullstartdate": "202503180700",
+            "enddate": "20250319",
+            "url": "/th?id=OHR.SedonaSpring_EN-US9611080272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SedonaSpring_EN-US9611080272",
+            "copyright": "Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=sedona+arizona&form=hpcapt&filters=HpDate%3a%2220250318_0700%22",
+            "title": "A vortex state of mind",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250318_SedonaSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8da7221bc817302fdbde4b510a322988",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250317",
             "fullstartdate": "202503170700",
