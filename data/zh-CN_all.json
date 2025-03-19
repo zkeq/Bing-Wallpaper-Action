@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-18 00:50:03",
-    "Total": 1056,
+    "LastUpdate": "2025-03-19 00:50:01",
+    "Total": 1057,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250318",
+            "fullstartdate": "202503181600",
+            "enddate": "20250319",
+            "url": "/th?id=OHR.BlackHeron_ZH-CN6764711050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackHeron_ZH-CN6764711050",
+            "copyright": "黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%91%E9%B9%AD&form=hpcapt&mkt=zh-cn",
+            "title": "伞状捕猎术",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250318_BlackHeron%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "811243be4cbe8ee565816ba210d77884",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250317",
             "fullstartdate": "202503171600",
