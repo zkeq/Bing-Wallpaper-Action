@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-19 00:50:01",
-    "Total": 1057,
+    "LastUpdate": "2025-03-20 00:50:01",
+    "Total": 1058,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250319",
+            "fullstartdate": "202503191600",
+            "enddate": "20250320",
+            "url": "/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringequinoxY25_ZH-CN1635828827",
+            "copyright": "美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%A5%E5%88%86&form=hpcapt&mkt=zh-cn",
+            "title": "春日仙境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250319_SpringequinoxY25%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f482f0e0a8ef096538154d821b83058",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250318",
             "fullstartdate": "202503181600",
