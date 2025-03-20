@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-19 00:50:34",
-    "Total": 1057,
+    "LastUpdate": "2025-03-20 00:50:34",
+    "Total": 1058,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250319",
+            "fullstartdate": "202503192300",
+            "enddate": "20250320",
+            "url": "/th?id=OHR.PrimaveraToscana_IT-IT0282064526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrimaveraToscana_IT-IT0282064526",
+            "copyright": "San Quirico d’Orcia, Toscana (© Fabio Muzzi/Connect Images/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Equinozio&form=hpcapt",
+            "title": "Che fretta c’era...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250319_PrimaveraToscana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7dce092f297772a013ee100e0988c39c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250318",
             "fullstartdate": "202503182300",
