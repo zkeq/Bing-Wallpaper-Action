@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-20 00:50:26",
-    "Total": 1058,
+    "LastUpdate": "2025-03-21 00:50:27",
+    "Total": 1059,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250320",
+            "fullstartdate": "202503201830",
+            "enddate": "20250321",
+            "url": "/th?id=OHR.DanumValley_EN-IN8272296990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DanumValley_EN-IN8272296990",
+            "copyright": "Mist over lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Forests&form=hpcapt&filters=HpDate%3a%2220250320_1830%22",
+            "title": "Long live the trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250320_DanumValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0497ff3c4c27c04577c2e3ee87b9e50f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250319",
             "fullstartdate": "202503191830",
