@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-20 00:50:34",
-    "Total": 1058,
+    "LastUpdate": "2025-03-21 00:50:35",
+    "Total": 1059,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250320",
+            "fullstartdate": "202503202300",
+            "enddate": "20250321",
+            "url": "/th?id=OHR.DanumValley_IT-IT2622437428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DanumValley_IT-IT2622437428",
+            "copyright": "Foresta pluviale di pianura, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+delle+Foreste&form=hpcapt",
+            "title": "Nebbia e Foresta",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250320_DanumValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd88f0f07bc73909709fd43aa3ef52f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250319",
             "fullstartdate": "202503192300",
