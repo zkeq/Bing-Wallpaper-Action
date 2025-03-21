@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-20 00:50:05",
-    "Total": 1058,
+    "LastUpdate": "2025-03-21 00:50:08",
+    "Total": 1059,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250320",
+            "fullstartdate": "202503200700",
+            "enddate": "20250321",
+            "url": "/th?id=OHR.SpringDaffodils_EN-US9726346116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringDaffodils_EN-US9726346116",
+            "copyright": "Spring daffodils glowing in morning light (© LedyX/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=March+equinox&form=hpcapt&filters=HpDate%3a%2220250320_0700%22",
+            "title": "Spring awakening",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250320_SpringDaffodils%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a0f95a59dcd31b9b631b93df6bc005d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250319",
             "fullstartdate": "202503190700",
