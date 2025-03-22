@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-21 00:50:12",
-    "Total": 1059,
+    "LastUpdate": "2025-03-22 00:50:08",
+    "Total": 1060,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250321",
+            "fullstartdate": "202503211500",
+            "enddate": "20250322",
+            "url": "/th?id=OHR.CenoteLilies_JA-JP9666252322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CenoteLilies_JA-JP9666252322",
+            "copyright": "セノーテの水面に咲く睡蓮, メキシコ (© Franco Banfi/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%83%8E%E3%83%BC%E3%83%86%2c+%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250321_1500%22",
+            "title": "今日は世界水の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250321_CenoteLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f40691a971d73a5620cce33538b75bbd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250320",
             "fullstartdate": "202503201500",
