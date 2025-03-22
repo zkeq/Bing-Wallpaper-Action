@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-21 00:50:31",
-    "Total": 1059,
+    "LastUpdate": "2025-03-22 00:50:29",
+    "Total": 1060,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250321",
+            "fullstartdate": "202503212300",
+            "enddate": "20250322",
+            "url": "/th?id=OHR.CenoteLilies_FR-FR2811028281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CenoteLilies_FR-FR2811028281",
+            "copyright": "Nénuphars à la surface du Cenote Nicte-Ha, Tulum, Mexique (© Franco Banfi/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+l%27eau&form=hpcapt&filters=HpDate%3a%2220250321_2300%22",
+            "title": "Trésors aquatiques, une richesse fragile",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250321_CenoteLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2aae5a3fa097ec97356ff0754485161e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250320",
             "fullstartdate": "202503202300",
