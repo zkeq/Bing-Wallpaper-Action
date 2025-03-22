@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-21 00:50:35",
-    "Total": 1059,
+    "LastUpdate": "2025-03-22 00:50:33",
+    "Total": 1060,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250321",
+            "fullstartdate": "202503212300",
+            "enddate": "20250322",
+            "url": "/th?id=OHR.CenoteLilies_IT-IT2531353898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CenoteLilies_IT-IT2531353898",
+            "copyright": "Ninfee sulla superficie del Cenote Nicte-Ha, Tulum, Messico (© Franco Banfi/NPL/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+dell+acqua&form=hpcapt",
+            "title": "Gocce di luce nel ventre della Terra",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250321_CenoteLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01b0d20fe566ac665ccb7799a22a9ddd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250320",
             "fullstartdate": "202503202300",
