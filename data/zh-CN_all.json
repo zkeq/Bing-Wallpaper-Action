@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-21 00:50:03",
-    "Total": 1059,
+    "LastUpdate": "2025-03-22 00:49:59",
+    "Total": 1060,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250321",
+            "fullstartdate": "202503211600",
+            "enddate": "20250322",
+            "url": "/th?id=OHR.CenoteLilies_ZH-CN5915682591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CenoteLilies_ZH-CN5915682591",
+            "copyright": "尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "水的奇妙世界！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250321_CenoteLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6244d8f5fdceb77cc21681d4e3b2b739",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250320",
             "fullstartdate": "202503201600",
