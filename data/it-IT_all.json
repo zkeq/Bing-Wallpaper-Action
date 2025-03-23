@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-22 00:50:33",
-    "Total": 1060,
+    "LastUpdate": "2025-03-23 00:50:45",
+    "Total": 1061,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250322",
+            "fullstartdate": "202503222300",
+            "enddate": "20250323",
+            "url": "/th?id=OHR.NebraskaStorm_IT-IT9749175316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NebraskaStorm_IT-IT9749175316",
+            "copyright": "Fulmini e nubi temporalesche al tramonto vicino a Bowman, Nebraska, USA (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+della+meteorologia&form=hpcapt",
+            "title": "La Notte dei Tempi?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250322_NebraskaStorm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dc44c30019d6aeecc63cfa33f0e8d996",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250321",
             "fullstartdate": "202503212300",
