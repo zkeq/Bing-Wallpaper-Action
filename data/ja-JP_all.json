@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-22 00:50:08",
-    "Total": 1060,
+    "LastUpdate": "2025-03-23 00:50:22",
+    "Total": 1061,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250322",
+            "fullstartdate": "202503221500",
+            "enddate": "20250323",
+            "url": "/th?id=OHR.NebraskaStorm_JA-JP9880301157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NebraskaStorm_JA-JP9880301157",
+            "copyright": "アンビルクローラー, 米国 ネブラスカ州 (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2c+%E3%83%8D%E3%83%96%E3%83%A9%E3%82%B9%E3%82%AB%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250322_1500%22",
+            "title": "今日は世界気象デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250322_NebraskaStorm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe1f96f9a00f114bc43266db9c52f7d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250321",
             "fullstartdate": "202503211500",
