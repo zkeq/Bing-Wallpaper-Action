@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-23 00:50:29",
-    "Total": 1060,
+    "LastUpdate": "2025-03-24 00:50:33",
+    "Total": 1061,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250323",
+            "fullstartdate": "202503230400",
+            "enddate": "20250324",
+            "url": "/th?id=OHR.NebraskaStorm_EN-CA8250611097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NebraskaStorm_EN-CA8250611097",
+            "copyright": "Lightning and storm clouds at sunset near Bowman, Nebraska, United States (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=world+meteorological+day&form=hpcapt&filters=HpDate%3a%2220250323_0400%22",
+            "title": "You can't silence thunder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250323_NebraskaStorm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b3f8445721f0aaf525bbe51686b98a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250322",
             "fullstartdate": "202503220400",
