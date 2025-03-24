@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-23 00:50:45",
-    "Total": 1061,
+    "LastUpdate": "2025-03-24 00:50:49",
+    "Total": 1062,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250323",
+            "fullstartdate": "202503232300",
+            "enddate": "20250324",
+            "url": "/th?id=OHR.PiazzaBologna_IT-IT4343709340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PiazzaBologna_IT-IT4343709340",
+            "copyright": "Piazza Maggiore al sorgere del sole, Bologna, Emilia-Romagna (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Piazza+Maggiore+piazza+principale+di+Bologna&form=hpcapt",
+            "title": "Nel centro di Bologna si può perdere un bambino?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250323_PiazzaBologna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "181f743676f41f48ef609d147ba1e930",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250322",
             "fullstartdate": "202503222300",
