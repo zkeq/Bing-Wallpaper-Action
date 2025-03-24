@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-23 00:50:33",
-    "Total": 1059,
+    "LastUpdate": "2025-03-24 00:50:37",
+    "Total": 1060,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250324",
+            "fullstartdate": "202503240000",
+            "enddate": "20250325",
+            "url": "/th?id=OHR.SydneyHarbour_EN-GB4487505878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SydneyHarbour_EN-GB4487505878",
+            "copyright": "Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Port+Jackson+Australia&form=hpcapt&filters=HpDate%3a%2220250324_0000%22",
+            "title": "Harbouring nice views",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250324_SydneyHarbour%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f18dbad9a5e2ea86c47a34b3179ea953",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250323",
             "fullstartdate": "202503230000",
