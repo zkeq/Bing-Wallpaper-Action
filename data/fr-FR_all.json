@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-24 00:50:45",
-    "Total": 1062,
+    "LastUpdate": "2025-03-25 00:50:41",
+    "Total": 1063,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250324",
+            "fullstartdate": "202503242300",
+            "enddate": "20250325",
+            "url": "/th?id=OHR.ProcrastinationD_FR-FR5977849258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ProcrastinationD_FR-FR5977849258",
+            "copyright": "Marmottes des Alpes, Marmota Marmota, Hautes Pyrénées (© Yann Guichaoua-Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Marmottes+des+Alpes&form=hpcapt&filters=HpDate%3a%2220250324_2300%22",
+            "title": "Mieux vaut tard que trop tôt : parole de marmotte !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250324_ProcrastinationD%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c44547a6de67c3dde1ff6c090e9cc9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250323",
             "fullstartdate": "202503232300",
