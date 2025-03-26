@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-25 00:50:45",
-    "Total": 1063,
+    "LastUpdate": "2025-03-26 00:50:39",
+    "Total": 1064,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250325",
+            "fullstartdate": "202503252300",
+            "enddate": "20250326",
+            "url": "/th?id=OHR.CrystalManatee_IT-IT9883831174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalManatee_IT-IT9883831174",
+            "copyright": "Trichechus a Crystal River, Florida, USA (© Stephen Frink/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Trichechus&form=hpcapt",
+            "title": "Fluire senza tempo?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250325_CrystalManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0fd9a5e71d7a49128ddca824a0cdc060",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250324",
             "fullstartdate": "202503242300",
