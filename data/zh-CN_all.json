@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-25 00:50:14",
-    "Total": 1063,
+    "LastUpdate": "2025-03-26 00:50:07",
+    "Total": 1064,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250325",
+            "fullstartdate": "202503251600",
+            "enddate": "20250326",
+            "url": "/th?id=OHR.CrystalManatee_ZH-CN7547286414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalManatee_ZH-CN7547286414",
+            "copyright": "水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%89%9B%E6%84%9F%E6%81%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "水面下的生命",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250325_CrystalManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb44278e1c65ddc3713d1d5c3c084674",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250324",
             "fullstartdate": "202503241600",
