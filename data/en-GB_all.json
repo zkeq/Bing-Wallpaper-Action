@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-25 00:50:33",
-    "Total": 1061,
+    "LastUpdate": "2025-03-26 00:50:27",
+    "Total": 1062,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250326",
+            "fullstartdate": "202503260000",
+            "enddate": "20250327",
+            "url": "/th?id=OHR.CrystalManatee_EN-GB4829470738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalManatee_EN-GB4829470738",
+            "copyright": "Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatee+Appreciation+Day&form=hpcapt&filters=HpDate%3a%2220250326_0000%22",
+            "title": "Life below the surface",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250326_CrystalManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "69c3ced4e17c9a88cba76890e2ef17f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250325",
             "fullstartdate": "202503250000",
