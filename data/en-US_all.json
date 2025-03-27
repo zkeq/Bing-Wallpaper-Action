@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-26 00:50:12",
-    "Total": 1064,
+    "LastUpdate": "2025-03-27 00:50:04",
+    "Total": 1065,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250326",
+            "fullstartdate": "202503260700",
+            "enddate": "20250327",
+            "url": "/th?id=OHR.CrystalManatee_EN-US1724106178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CrystalManatee_EN-US1724106178",
+            "copyright": "Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatee+Appreciation+Day&form=hpcapt&filters=HpDate%3a%2220250326_0700%22",
+            "title": "Life below the surface",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250326_CrystalManatee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3fd083651aa332185026c2c8b582419",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250325",
             "fullstartdate": "202503250700",
