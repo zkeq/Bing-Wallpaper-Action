@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-27 00:50:12",
-    "Total": 1065,
+    "LastUpdate": "2025-03-28 00:50:16",
+    "Total": 1066,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250327",
+            "fullstartdate": "202503272300",
+            "enddate": "20250328",
+            "url": "/th?id=OHR.NestingMonarch_DE-DE4342475181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NestingMonarch_DE-DE4342475181",
+            "copyright": "Weiblicher Schwarzgenickschnäpper im Nest (© komkrit tonusin/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Schwarzgenickschn%C3%A4pper&form=hpcapt&filters=HpDate%3a%2220250327_2300%22",
+            "title": "Bunt gefiederter Freund",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250327_NestingMonarch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a806e0317093e708c5950a75151bcf8e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250326",
             "fullstartdate": "202503262300",
