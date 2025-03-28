@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-27 00:50:32",
-    "Total": 1065,
+    "LastUpdate": "2025-03-28 00:50:36",
+    "Total": 1066,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250327",
+            "fullstartdate": "202503272300",
+            "enddate": "20250328",
+            "url": "/th?id=OHR.ElephantGrass_IT-IT5535834532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantGrass_IT-IT5535834532",
+            "copyright": "Elefante del deserto con cucciolo che si nutre di erba alta, Namibia (© Christophe Courteau/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Elefante+africano&form=hpcapt",
+            "title": "Più uniti di così?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250327_ElephantGrass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ddf454330720fba75e9b6e296ae3a04b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250326",
             "fullstartdate": "202503262300",
