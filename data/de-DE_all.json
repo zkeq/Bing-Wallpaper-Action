@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-28 00:50:16",
-    "Total": 1066,
+    "LastUpdate": "2025-03-29 00:50:16",
+    "Total": 1067,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250328",
+            "fullstartdate": "202503282300",
+            "enddate": "20250329",
+            "url": "/th?id=OHR.CarrizoBloom_DE-DE4724342753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CarrizoBloom_DE-DE4724342753",
+            "copyright": "Superbloom in Carrizo Plain National Monument, Kalifornien, USA (© Robb Hirsch/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Superbl%C3%BCte+Kalifornien&form=hpcapt&filters=HpDate%3a%2220250328_2300%22",
+            "title": "Endloses Blütenmeer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250328_CarrizoBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51cedb8cd14ccf8efbb11e3b2cc3c359",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250327",
             "fullstartdate": "202503272300",
