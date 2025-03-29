@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-28 00:50:20",
-    "Total": 1065,
+    "LastUpdate": "2025-03-29 00:50:20",
+    "Total": 1066,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250328",
+            "fullstartdate": "202503280400",
+            "enddate": "20250329",
+            "url": "/th?id=OHR.NestingMonarch_EN-CA9445717272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NestingMonarch_EN-CA9445717272",
+            "copyright": "Female black-naped monarch nesting (© komkrit tonusin/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=black-naped+monarch&form=hpcapt&filters=HpDate%3a%2220250328_0400%22",
+            "title": "A cosy cradle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250328_NestingMonarch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f686c120d8e6463f3edd45796159f70c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250327",
             "fullstartdate": "202503270400",
