@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-29 00:50:16",
-    "Total": 1067,
+    "LastUpdate": "2025-03-30 00:50:28",
+    "Total": 1068,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250329",
+            "fullstartdate": "202503292300",
+            "enddate": "20250330",
+            "url": "/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200",
+            "copyright": "Steinkauz-Junges in einem Baumloch (© Bildagentur Zoonar GmbH/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Sommerzeit&form=hpcapt&filters=HpDate%3a%2220250329_2300%22",
+            "title": "Wer hat an der Uhr gedreht?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250329_AtheneNoctuaGermany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1c8fb2e5397ea20725d3310f622b2377",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250328",
             "fullstartdate": "202503282300",
