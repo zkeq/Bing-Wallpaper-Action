@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-31 00:50:33",
-    "Total": 1066,
+    "LastUpdate": "2025-04-01 00:50:43",
+    "Total": 1067,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250331",
+            "fullstartdate": "202503312300",
+            "enddate": "20250401",
+            "url": "/th?id=OHR.TicanFrog_EN-GB2046965668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TicanFrog_EN-GB2046965668",
+            "copyright": "Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Canal+Zone+tree+frog&form=hpcapt&filters=HpDate%3a%2220250331_2300%22",
+            "title": "From treetops to puddles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_TicanFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1300e7afac6099bebbde2e4ea9448689",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250330",
             "fullstartdate": "202503300000",
