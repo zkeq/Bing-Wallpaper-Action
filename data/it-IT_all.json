@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-31 00:50:45",
-    "Total": 1069,
+    "LastUpdate": "2025-04-01 00:50:55",
+    "Total": 1070,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250331",
+            "fullstartdate": "202503312200",
+            "enddate": "20250401",
+            "url": "/th?id=OHR.TicanFrog_IT-IT7236834033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TicanFrog_IT-IT7236834033",
+            "copyright": "Rana, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Rane+anfibi&form=hpcapt",
+            "title": "Rana d'aprile?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_TicanFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06c886e374e0f3b2f99c5953f48d2015",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250330",
             "fullstartdate": "202503302200",
