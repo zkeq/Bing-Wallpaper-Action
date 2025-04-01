@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-31 00:50:21",
-    "Total": 1069,
+    "LastUpdate": "2025-04-01 00:50:32",
+    "Total": 1070,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250331",
+            "fullstartdate": "202503311500",
+            "enddate": "20250401",
+            "url": "/th?id=OHR.CherryBlossom2025_JA-JP1573820444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CherryBlossom2025_JA-JP1573820444",
+            "copyright": "奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92%E3%81%AE%E6%A1%9C%2c+%E5%A5%88%E8%89%AF%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250331_1500%22",
+            "title": "今日は年度初日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_CherryBlossom2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3045c4cbbbe564ceaaadc0ec734c355d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250330",
             "fullstartdate": "202503301500",
