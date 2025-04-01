@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-31 00:50:17",
-    "Total": 1069,
+    "LastUpdate": "2025-04-01 00:50:28",
+    "Total": 1070,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250331",
+            "fullstartdate": "202503310700",
+            "enddate": "20250401",
+            "url": "/th?id=OHR.ItalyOstuni_EN-US2964422003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyOstuni_EN-US2964422003",
+            "copyright": "Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ostuni+Italy&form=hpcapt&filters=HpDate%3a%2220250331_0700%22",
+            "title": "Apulia's White City",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_ItalyOstuni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "227e9b248b999178eaf569282c0d6257",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250330",
             "fullstartdate": "202503300700",
