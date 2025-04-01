@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-03-31 00:50:25",
-    "Total": 1069,
+    "LastUpdate": "2025-04-01 00:50:36",
+    "Total": 1070,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250331",
+            "fullstartdate": "202503312200",
+            "enddate": "20250401",
+            "url": "/th?id=OHR.TicanFrog_DE-DE8199372905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TicanFrog_DE-DE8199372905",
+            "copyright": "Kanalzonen-Baumfrosch, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Fr%C3%B6sche&form=hpcapt&filters=HpDate%3a%2220250331_2200%22",
+            "title": "Auf dem Sprung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_TicanFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4a41ac714eadde58aebf58fa0b19209",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250330",
             "fullstartdate": "202503302200",
