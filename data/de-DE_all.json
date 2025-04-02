@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-01 00:50:36",
-    "Total": 1070,
+    "LastUpdate": "2025-04-02 00:50:18",
+    "Total": 1071,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250401",
+            "fullstartdate": "202504012200",
+            "enddate": "20250402",
+            "url": "/th?id=OHR.UtahBadlands_DE-DE8578683347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UtahBadlands_DE-DE8578683347",
+            "copyright": "Sandsteinformationen in den Badlands bei Caineville, Utah, USA (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Caineville+Utah&form=hpcapt&filters=HpDate%3a%2220250401_2200%22",
+            "title": "Bizarre Felsformationen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250401_UtahBadlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b32cada48ddc3f7d4f51912962117a9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250331",
             "fullstartdate": "202503312200",
