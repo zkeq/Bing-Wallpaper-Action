@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-01 00:50:28",
-    "Total": 1070,
+    "LastUpdate": "2025-04-02 00:50:10",
+    "Total": 1071,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250401",
+            "fullstartdate": "202504010700",
+            "enddate": "20250402",
+            "url": "/th?id=OHR.TicanFrog_EN-US3006346741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TicanFrog_EN-US3006346741",
+            "copyright": "Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Canal+Zone+tree+frog&form=hpcapt&filters=HpDate%3a%2220250401_0700%22",
+            "title": "Hoppin' into National Frog Month",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250401_TicanFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f1e2dc5dbf25cbf69b45329a3cf18f1b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250331",
             "fullstartdate": "202503310700",
