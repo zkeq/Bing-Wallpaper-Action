@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-01 00:50:55",
-    "Total": 1070,
+    "LastUpdate": "2025-04-02 00:50:37",
+    "Total": 1071,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250401",
+            "fullstartdate": "202504012200",
+            "enddate": "20250402",
+            "url": "/th?id=OHR.UtahBadlands_IT-IT7290436395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UtahBadlands_IT-IT7290436395",
+            "copyright": "Formazioni di arenaria nelle badlands vicino a Caineville, Utah, USA (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Utah+Stati+Uniti+America&form=hpcapt",
+            "title": "Silenzio scolpito",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250401_UtahBadlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f45d20a01fc0faa75c0408be0b3f829b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250331",
             "fullstartdate": "202503312200",
