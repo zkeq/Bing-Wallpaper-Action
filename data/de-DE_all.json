@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-02 00:50:18",
-    "Total": 1071,
+    "LastUpdate": "2025-04-03 00:50:13",
+    "Total": 1072,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250402",
+            "fullstartdate": "202504022200",
+            "enddate": "20250403",
+            "url": "/th?id=OHR.SaguaroRainbow_DE-DE8863396941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaguaroRainbow_DE-DE8863396941",
+            "copyright": "Regenbogen über dem Wasson Peak, Saguaro-Nationalpark, Arizona, USA (© Frank Staub/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Regenbogen+Besonderheiten&form=hpcapt&filters=HpDate%3a%2220250402_2200%22",
+            "title": "Farben der Freude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250402_SaguaroRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa404660a89568d8758adea6146ef629",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250401",
             "fullstartdate": "202504012200",
