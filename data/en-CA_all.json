@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-02 00:50:22",
-    "Total": 1070,
+    "LastUpdate": "2025-04-03 00:50:17",
+    "Total": 1071,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250402",
+            "fullstartdate": "202504020400",
+            "enddate": "20250403",
+            "url": "/th?id=OHR.UtahBadlands_EN-CA2102882917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.UtahBadlands_EN-CA2102882917",
+            "copyright": "Sandstone formations in the badlands near Caineville, Utah, United States (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Caineville+Utah&form=hpcapt&filters=HpDate%3a%2220250402_0400%22",
+            "title": "Waves of time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250402_UtahBadlands%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a942df5271f104aceb9cf0a0f309666",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250401",
             "fullstartdate": "202504010400",
