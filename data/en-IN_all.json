@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-02 00:50:30",
-    "Total": 1071,
+    "LastUpdate": "2025-04-03 00:50:25",
+    "Total": 1072,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250402",
+            "fullstartdate": "202504021830",
+            "enddate": "20250403",
+            "url": "/th?id=OHR.KanyakumariSunrise_EN-IN5756215519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KanyakumariSunrise_EN-IN5756215519",
+            "copyright": "Thiruvalluvar Statue, Kanyakumari, Tamil Nadu (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Thiruvalluvar+Statue&form=hpcapt&filters=HpDate%3a%2220250402_1830%22",
+            "title": "A monumental view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250402_KanyakumariSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9c13163e4a03b105425b0480fc396dea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250401",
             "fullstartdate": "202504011830",
