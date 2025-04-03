@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-02 00:50:37",
-    "Total": 1071,
+    "LastUpdate": "2025-04-03 00:50:34",
+    "Total": 1072,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250402",
+            "fullstartdate": "202504022200",
+            "enddate": "20250403",
+            "url": "/th?id=OHR.SaguaroRainbow_IT-IT7336031543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaguaroRainbow_IT-IT7336031543",
+            "copyright": "Arcobaleno sul Wasson Peak, Parco Nazionale dei Saguaro, Arizona, USA (© Frank Staub/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+dei+Saguaro+USA+&form=hpcapt",
+            "title": "Magia tra le spine?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250402_SaguaroRainbow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d10050e96b5b697d728e0491acd69e0d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250401",
             "fullstartdate": "202504012200",
