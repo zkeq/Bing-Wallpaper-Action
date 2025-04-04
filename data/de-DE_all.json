@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:13",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:19",
+    "Total": 1073,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504032200",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.IKMZLibrary_DE-DE3922270471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IKMZLibrary_DE-DE3922270471",
+            "copyright": "Informations-, Kommunikations- und Medienzentrum Cottbus, Brandenburg (© H & D ZIELSKE/Gallery Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nacht+der+Bibliotheken+2025&form=hpcapt&filters=HpDate%3a%2220250403_2200%22",
+            "title": "„Wissen. Teilen. Entdecken.“",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_IKMZLibrary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92ad344ee61adb81f0b8ba98388b9948",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504022200",
