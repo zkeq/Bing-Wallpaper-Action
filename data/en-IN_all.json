@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:25",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:31",
+    "Total": 1073,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504031830",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.HumayunsTomb_EN-IN9625838128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HumayunsTomb_EN-IN9625838128",
+            "copyright": "Humayun's Tomb, Delhi (© SoumenNath/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Humayuns+Tomb&form=hpcapt&filters=HpDate%3a%2220250403_1830%22",
+            "title": "A walk through history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_HumayunsTomb%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b87f8086b78284aad5a08f9ec59ee85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504021830",
