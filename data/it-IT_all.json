@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:34",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:39",
+    "Total": 1073,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504032200",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.CherryBlossomDC_IT-IT5867846300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CherryBlossomDC_IT-IT5867846300",
+            "copyright": "Ciliegi in fiore, Washington, DC, USA (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ciliegi&form=hpcapt",
+            "title": "Pioggia profumata",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_CherryBlossomDC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b07d5693b824128864c857efcc46b302",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504022200",
