@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:17",
-    "Total": 1071,
+    "LastUpdate": "2025-04-04 00:50:23",
+    "Total": 1072,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504030400",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.RufousHummingbird_EN-CA2493433576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RufousHummingbird_EN-CA2493433576",
+            "copyright": "Rufous hummingbird, Salt Spring Island, British Columbia, Canada (© Dave Hutchison Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rufous+hummingbird&form=hpcapt&filters=HpDate%3a%2220250403_0400%22",
+            "title": "Nectar stopover",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_RufousHummingbird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed29f9489f59abe013d08cd82a06910a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504020400",
