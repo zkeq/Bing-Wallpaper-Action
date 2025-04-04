@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:09",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:15",
+    "Total": 1073,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504031500",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.Qingming2025_JA-JP2915866958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qingming2025_JA-JP2915866958",
+            "copyright": "首里城の守礼門, 沖縄県 那覇市 (© Richie Chan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E3%81%AE%E5%AE%88%E7%A4%BC%E9%96%80%2c+%E9%82%A3%E8%A6%87%E5%B8%82%2c+%E6%B2%96%E7%B8%84%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250403_1500%22",
+            "title": "今日は清明",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_Qingming2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "736250d6a065135cad1710caa24ca53f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504021500",
