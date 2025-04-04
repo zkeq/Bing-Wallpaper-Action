@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:29",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:35",
+    "Total": 1073,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504032200",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.CherryBlossomDC_FR-FR9055412719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CherryBlossomDC_FR-FR9055412719",
+            "copyright": "Cerisiers en fleurs, Washington DC, États-Unis (© f11photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cerisier+arbre&form=hpcapt&filters=HpDate%3a%2220250403_2200%22",
+            "title": "Un moment suspendu dans le temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_CherryBlossomDC%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe8a01c7698569de08bb3151b2e70939",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504022200",
