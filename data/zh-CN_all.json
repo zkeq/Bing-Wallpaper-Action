@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-03 00:50:01",
-    "Total": 1072,
+    "LastUpdate": "2025-04-04 00:50:06",
+    "Total": 1073,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250403",
+            "fullstartdate": "202504031600",
+            "enddate": "20250404",
+            "url": "/th?id=OHR.QingMingY25_ZH-CN9818431198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QingMingY25_ZH-CN9818431198",
+            "copyright": "苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "春和景明",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_QingMingY25%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35a0bd79e1dd1ae1313c0a2c3e392549",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250402",
             "fullstartdate": "202504021600",
