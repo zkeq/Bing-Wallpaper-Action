@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-04 00:50:19",
-    "Total": 1073,
+    "LastUpdate": "2025-04-05 00:50:15",
+    "Total": 1074,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250404",
+            "fullstartdate": "202504042200",
+            "enddate": "20250405",
+            "url": "/th?id=OHR.GaztelugatxeSunset_DE-DE0917848827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GaztelugatxeSunset_DE-DE0917848827",
+            "copyright": "Insel Gaztelugatxe bei Sonnenuntergang, Baskenland, Spanien (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gaztelugatxe&form=hpcapt&filters=HpDate%3a%2220250404_2200%22",
+            "title": "Auf den Spuren der Einsiedler",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250404_GaztelugatxeSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d1da8e9b442a4a668cc19e1e92bac338",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250403",
             "fullstartdate": "202504032200",
