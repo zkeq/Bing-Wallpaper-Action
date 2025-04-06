@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-05 00:50:01",
-    "Total": 1074,
+    "LastUpdate": "2025-04-06 00:50:21",
+    "Total": 1075,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250405",
+            "fullstartdate": "202504051600",
+            "enddate": "20250406",
+            "url": "/th?id=OHR.ShardLondon2025_ZH-CN0722863055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShardLondon2025_ZH-CN0722863055",
+            "copyright": "碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A2%8E%E7%89%87%E5%A4%A7%E5%8E%A6&form=hpcapt&mkt=zh-cn",
+            "title": "伦敦最尖锐的地标",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250405_ShardLondon2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc04e8cf1215e305b28e896b11af178a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250404",
             "fullstartdate": "202504041600",
