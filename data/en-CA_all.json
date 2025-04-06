@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-05 00:50:19",
-    "Total": 1073,
+    "LastUpdate": "2025-04-06 00:50:39",
+    "Total": 1074,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250405",
+            "fullstartdate": "202504050400",
+            "enddate": "20250406",
+            "url": "/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GaztelugatxeSunset_EN-CA8176973652",
+            "copyright": "Gaztelugatxe islet at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gaztelugatxe&form=hpcapt&filters=HpDate%3a%2220250405_0400%22",
+            "title": "Pilgrimage to San Juan de Gaztelugatxe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250405_GaztelugatxeSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3f66d854317bf345181bf76763c81ee9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250404",
             "fullstartdate": "202504040400",
