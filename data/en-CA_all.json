@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-06 00:50:39",
-    "Total": 1074,
+    "LastUpdate": "2025-04-07 00:50:28",
+    "Total": 1075,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250406",
+            "fullstartdate": "202504060400",
+            "enddate": "20250407",
+            "url": "/th?id=OHR.YellowWarbler_EN-CA8652491444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowWarbler_EN-CA8652491444",
+            "copyright": "Yellow warbler in Canada (© mirceax/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Yellow+warbler&form=hpcapt&filters=HpDate%3a%2220250406_0400%22",
+            "title": "Bright feathers, sweet songs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250406_YellowWarbler%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d16c44da042d945e75ade762c3014610",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250405",
             "fullstartdate": "202504050400",
