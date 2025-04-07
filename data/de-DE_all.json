@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-06 00:50:35",
-    "Total": 1075,
+    "LastUpdate": "2025-04-07 00:50:24",
+    "Total": 1076,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250406",
+            "fullstartdate": "202504062200",
+            "enddate": "20250407",
+            "url": "/th?id=OHR.BeaverDay_DE-DE8403333829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverDay_DE-DE8403333829",
+            "copyright": "Kanadischer Biber, Moran, Wyoming, USA (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Bibertag&form=hpcapt&filters=HpDate%3a%2220250406_2200%22",
+            "title": "Die Ingenieure des Ökosystems",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250406_BeaverDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e459ea91741c0ef5c61e55c52da453f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250405",
             "fullstartdate": "202504052200",
