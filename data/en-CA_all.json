@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-07 00:50:28",
-    "Total": 1075,
+    "LastUpdate": "2025-04-08 00:50:26",
+    "Total": 1076,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250407",
+            "fullstartdate": "202504070400",
+            "enddate": "20250408",
+            "url": "/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhistlerSnowboard_EN-CA9156013019",
+            "copyright": "Whistler and Blackcomb mountains, British Columbia (© Pierre Leclerc/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Whistler+British+Columbia&form=hpcapt&filters=HpDate%3a%2220250407_0400%22",
+            "title": "Whistler turns up the thrill",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250407_WhistlerSnowboard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6d61094b9e58176428ace43b3e343a1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250406",
             "fullstartdate": "202504060400",
