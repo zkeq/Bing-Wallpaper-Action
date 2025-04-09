@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-08 00:50:14",
-    "Total": 1077,
+    "LastUpdate": "2025-04-09 00:50:16",
+    "Total": 1078,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250408",
+            "fullstartdate": "202504080700",
+            "enddate": "20250409",
+            "url": "/th?id=OHR.ParoTsechu_EN-US0177055246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParoTsechu_EN-US0177055246",
+            "copyright": "Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Paro+Tsechu+Festival&form=hpcapt&filters=HpDate%3a%2220250408_0700%22",
+            "title": "Patterns from the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250408_ParoTsechu%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "816b5381a952c13742a6b3e7e777eef4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250407",
             "fullstartdate": "202504070700",
