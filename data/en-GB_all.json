@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-08 00:50:30",
-    "Total": 1074,
+    "LastUpdate": "2025-04-09 00:50:32",
+    "Total": 1075,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250408",
+            "fullstartdate": "202504082300",
+            "enddate": "20250409",
+            "url": "/th?id=OHR.BlueNaxos_EN-GB4555979110_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueNaxos_EN-GB4555979110",
+            "copyright": "Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Naxos+Greece&form=hpcapt&filters=HpDate%3a%2220250408_2300%22",
+            "title": "Before the stars take over",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250408_BlueNaxos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eab10084e6730051d3ca2cf7135a7b32",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250407",
             "fullstartdate": "202504072300",
