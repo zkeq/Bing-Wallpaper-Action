@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-09 00:50:39",
-    "Total": 1078,
+    "LastUpdate": "2025-04-10 00:50:36",
+    "Total": 1079,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250409",
+            "fullstartdate": "202504092200",
+            "enddate": "20250410",
+            "url": "/th?id=OHR.LittleFoxes_FR-FR7823312506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LittleFoxes_FR-FR7823312506",
+            "copyright": "Renardeaux près de leur tanière (© WildMedia/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+des+fr%C3%A8res+et+s%C5%93urs&form=hpcapt&filters=HpDate%3a%2220250409_2200%22",
+            "title": "Un lien fraternel et universel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250409_LittleFoxes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "586e3d546cd1c359de78a0ad4ca62100",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250408",
             "fullstartdate": "202504082200",
