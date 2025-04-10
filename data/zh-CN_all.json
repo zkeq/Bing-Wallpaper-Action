@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-09 00:50:11",
-    "Total": 1078,
+    "LastUpdate": "2025-04-10 00:50:08",
+    "Total": 1079,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250409",
+            "fullstartdate": "202504091600",
+            "enddate": "20250410",
+            "url": "/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LittleFoxes_ZH-CN8622806156",
+            "copyright": "靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E7%8B%90%E5%B9%BC%E5%B4%BD&form=hpcapt&mkt=zh-cn",
+            "title": "野性本能",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250409_LittleFoxes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca81a2a08df94c0b05b0079d72e779e5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250408",
             "fullstartdate": "202504081600",
