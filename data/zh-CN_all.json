@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-12 00:50:04",
-    "Total": 1081,
+    "LastUpdate": "2025-04-13 01:09:48",
+    "Total": 1082,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250412",
+            "fullstartdate": "202504121600",
+            "enddate": "20250413",
+            "url": "/th?id=OHR.ThailandPagodas_ZH-CN1143878296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThailandPagodas_ZH-CN1143878296",
+            "copyright": "班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%BC%E6%B0%B4%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "让我们一起庆祝宋干节！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250412_ThailandPagodas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4803ae393f313a0c420a29d747684fc1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250411",
             "fullstartdate": "202504111600",
