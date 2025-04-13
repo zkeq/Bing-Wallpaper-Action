@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-12 00:50:28",
-    "Total": 1081,
+    "LastUpdate": "2025-04-13 01:10:12",
+    "Total": 1082,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250412",
+            "fullstartdate": "202504121830",
+            "enddate": "20250413",
+            "url": "/th?id=OHR.ThailandPagodas_EN-IN4796043507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThailandPagodas_EN-IN4796043507",
+            "copyright": "Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Songkran&form=hpcapt&filters=HpDate%3a%2220250412_1830%22",
+            "title": "Let's celebrate Songkran!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250412_ThailandPagodas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83964a9ebec103e3ee5bed0a4de71ea8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250411",
             "fullstartdate": "202504111830",
