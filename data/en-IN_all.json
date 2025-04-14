@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-13 01:10:12",
-    "Total": 1082,
+    "LastUpdate": "2025-04-14 00:50:38",
+    "Total": 1083,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250413",
+            "fullstartdate": "202504131830",
+            "enddate": "20250414",
+            "url": "/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmbedkarMemorialIN_EN-IN5190883644",
+            "copyright": "Ambedkar Memorial Park, Lucknow, Uttar Pradesh (© aquarajiv/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ambedkar+Jayanti&form=hpcapt&filters=HpDate%3a%2220250413_1830%22",
+            "title": "Tribute to an iconic leader",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250413_AmbedkarMemorialIN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f94a5326df8a2bc57b4818990ae23b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250412",
             "fullstartdate": "202504121830",
