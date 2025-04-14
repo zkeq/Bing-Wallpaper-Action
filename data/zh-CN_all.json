@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-13 01:09:48",
-    "Total": 1082,
+    "LastUpdate": "2025-04-14 00:50:12",
+    "Total": 1083,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250413",
+            "fullstartdate": "202504131600",
+            "enddate": "20250414",
+            "url": "/th?id=OHR.SpottedDolphins_ZH-CN1257100316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpottedDolphins_ZH-CN1257100316",
+            "copyright": "圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E7%BB%86%E5%90%BB%E6%B5%B7%E8%B1%9A&form=hpcapt&mkt=zh-cn",
+            "title": "追逐开始！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250413_SpottedDolphins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25b9668b09e3e866d6b7fe73664c3c0d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250412",
             "fullstartdate": "202504121600",
