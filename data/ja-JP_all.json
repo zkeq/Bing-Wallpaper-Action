@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-13 01:09:56",
-    "Total": 1082,
+    "LastUpdate": "2025-04-14 00:50:21",
+    "Total": 1083,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250413",
+            "fullstartdate": "202504131500",
+            "enddate": "20250414",
+            "url": "/th?id=OHR.TakayamaFestival2025_JA-JP4780504174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TakayamaFestival2025_JA-JP4780504174",
+            "copyright": "精巧なからくり人形, 岐阜県 高山市 (© N. F. Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%AB%98%E5%B1%B1%E7%A5%AD%E3%81%AE%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%A5%89%E7%B4%8D%2c+%E9%AB%98%E5%B1%B1%E5%B8%82%2c+%E5%B2%90%E9%98%9C%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250413_1500%22",
+            "title": "今日は春の山王祭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250413_TakayamaFestival2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04e6aee4273ef1e474ba8027b270d242",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250412",
             "fullstartdate": "202504121500",
