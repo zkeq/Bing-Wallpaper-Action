@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-14 00:50:46",
-    "Total": 1083,
+    "LastUpdate": "2025-04-15 00:50:45",
+    "Total": 1084,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250414",
+            "fullstartdate": "202504142200",
+            "enddate": "20250415",
+            "url": "/th?id=OHR.BeachArt_IT-IT8015252028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachArt_IT-IT8015252028",
+            "copyright": "Opera d'arte sulla spiaggia di Sauveterre di Zarpo, Les Sables-d'Olonne, Vandea, Francia (© Hemis/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=L+Arte&form=hpcapt",
+            "title": "D'Arte e d'Ardore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250414_BeachArt%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a79d057a9993cc8b9a7a53141d975a6b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250413",
             "fullstartdate": "202504132200",
