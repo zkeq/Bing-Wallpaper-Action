@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-14 00:50:38",
-    "Total": 1083,
+    "LastUpdate": "2025-04-15 00:50:37",
+    "Total": 1084,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250414",
+            "fullstartdate": "202504141830",
+            "enddate": "20250415",
+            "url": "/th?id=OHR.BeachArt_EN-IN5781333917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachArt_EN-IN5781333917",
+            "copyright": "Beach art on Sauveterre Beach by Zarpo, Les Sables-d'Olonne, Vendee, France (© Hemis/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Art+Day&form=hpcapt&filters=HpDate%3a%2220250414_1830%22",
+            "title": "See Art, Do Art, Be Art",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250414_BeachArt%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "e283de29bcdd7650de4b544b318729a1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250413",
             "fullstartdate": "202504131830",
