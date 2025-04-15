@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-14 00:50:25",
-    "Total": 1083,
+    "LastUpdate": "2025-04-15 00:50:24",
+    "Total": 1084,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250414",
+            "fullstartdate": "202504142200",
+            "enddate": "20250415",
+            "url": "/th?id=OHR.BeachArt_DE-DE2496270870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachArt_DE-DE2496270870",
+            "copyright": "Sandkunst am Sauveterre Strand bei Zarpo, Les Sables-d'Olonne, Vendee, Frankreich (© Hemis/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltkunsttag&form=hpcapt&filters=HpDate%3a%2220250414_2200%22",
+            "title": "Kunst erleben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250414_BeachArt%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7167c8b11e4abc36eb07aa6debdae23f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250413",
             "fullstartdate": "202504132200",
