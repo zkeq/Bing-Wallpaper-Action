@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-15 00:50:24",
-    "Total": 1084,
+    "LastUpdate": "2025-04-16 00:50:23",
+    "Total": 1085,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250415",
+            "fullstartdate": "202504152200",
+            "enddate": "20250416",
+            "url": "/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794",
+            "copyright": "Strandkörbe vor der Seebrücke auf Steinwarder in Heiligenhafen, Schleswig-Holstein, Deutschland (© Frank Lukasseck/Huber/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Heiligenhafen&form=hpcapt&filters=HpDate%3a%2220250415_2200%22",
+            "title": "Ostseezauber",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250415_BeachChairsSteinwarder%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "436005186e4cb60074e164bce31e608c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250414",
             "fullstartdate": "202504142200",
