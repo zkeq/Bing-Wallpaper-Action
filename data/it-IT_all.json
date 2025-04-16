@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-15 00:50:45",
-    "Total": 1084,
+    "LastUpdate": "2025-04-16 00:50:44",
+    "Total": 1085,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250415",
+            "fullstartdate": "202504152200",
+            "enddate": "20250416",
+            "url": "/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261",
+            "copyright": "Duomo di Milano, Milano, Lombardia (© Tupungato/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Duomo+di+Milano+ufficialmente+Cattedrale+Metropolitana+della+Nativit%C3%A0+della+Beata+Vergine+Maria&form=hpcapt",
+            "title": "Guglie e Ciliegi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250415_MilanSpringCiliegi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3841776109bb25d4c01df2207e9c29f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250414",
             "fullstartdate": "202504142200",
