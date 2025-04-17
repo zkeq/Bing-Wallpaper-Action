@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-16 00:50:39",
-    "Total": 1085,
+    "LastUpdate": "2025-04-17 00:50:36",
+    "Total": 1086,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250416",
+            "fullstartdate": "202504162200",
+            "enddate": "20250417",
+            "url": "/th?id=OHR.EcuadorBird_FR-FR4091583945_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EcuadorBird_FR-FR4091583945",
+            "copyright": "Coq-de-roche péruvien, Écuateur (© Kit Day/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Coq-de-roche+P%C3%A9rou&form=hpcapt&filters=HpDate%3a%2220250416_2200%22",
+            "title": "Qui-va-là !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250416_EcuadorBird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a66266febcb81f9dc1f70be7545c4c7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250415",
             "fullstartdate": "202504152200",
