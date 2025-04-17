@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-16 00:50:10",
-    "Total": 1085,
+    "LastUpdate": "2025-04-17 00:50:07",
+    "Total": 1086,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250416",
+            "fullstartdate": "202504161600",
+            "enddate": "20250417",
+            "url": "/th?id=OHR.EcuadorBird_ZH-CN3676173654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EcuadorBird_ZH-CN3676173654",
+            "copyright": "安第斯动冠伞鸟，厄瓜多尔 (© Kit Day/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AE%89%E7%AC%AC%E6%96%AF%E5%8A%A8%E5%86%A0%E4%BC%9E%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "双重戏剧",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250416_EcuadorBird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a27d82b6255c50a12dee1e798f3bb6ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250415",
             "fullstartdate": "202504151600",
