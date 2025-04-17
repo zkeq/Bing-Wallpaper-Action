@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-16 00:50:44",
-    "Total": 1085,
+    "LastUpdate": "2025-04-17 00:50:40",
+    "Total": 1086,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250416",
+            "fullstartdate": "202504162200",
+            "enddate": "20250417",
+            "url": "/th?id=OHR.PeabodyBaltimore_IT-IT8224367841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeabodyBaltimore_IT-IT8224367841",
+            "copyright": "Biblioteca George Peabody, Baltimore, Maryland, USA (© Wim Wiskerke/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Biblioteca+George+Peabody&form=hpcapt",
+            "title": "Libri, libri e solo libri",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250416_PeabodyBaltimore%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "da39da5c129e26994c66582e191647a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250415",
             "fullstartdate": "202504152200",
