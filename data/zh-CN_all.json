@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-17 00:50:07",
-    "Total": 1086,
+    "LastUpdate": "2025-04-18 00:50:06",
+    "Total": 1087,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250417",
+            "fullstartdate": "202504171600",
+            "enddate": "20250418",
+            "url": "/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoremeTurkey_ZH-CN0255739302",
+            "copyright": "卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%8F%A4%E8%BF%B9%E9%81%97%E5%9D%80%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "纪念历史",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250417_GoremeTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d138a93edb2724ca297e3a6cc2f0140",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250416",
             "fullstartdate": "202504161600",
