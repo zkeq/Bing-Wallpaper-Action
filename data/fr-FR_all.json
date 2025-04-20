@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-19 00:50:27",
-    "Total": 1088,
+    "LastUpdate": "2025-04-20 00:50:49",
+    "Total": 1089,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250419",
+            "fullstartdate": "202504192200",
+            "enddate": "20250420",
+            "url": "/th?id=OHR.BunnyLove_FR-FR9891527833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BunnyLove_FR-FR9891527833",
+            "copyright": "Lapins de Garenne au printemps (© Fiona McAllister Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=f%C3%AAte+de+P%C3%A2ques&form=hpcapt&filters=HpDate%3a%2220250419_2200%22",
+            "title": "Une ode à la nature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250419_BunnyLove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f58fc207dac2d83393f94a60fbd0e4ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250418",
             "fullstartdate": "202504182200",
