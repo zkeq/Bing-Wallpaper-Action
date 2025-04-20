@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-19 00:49:57",
-    "Total": 1088,
+    "LastUpdate": "2025-04-20 00:50:20",
+    "Total": 1089,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250419",
+            "fullstartdate": "202504191600",
+            "enddate": "20250420",
+            "url": "/th?id=OHR.BunnyLove_ZH-CN1145897965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BunnyLove_ZH-CN1145897965",
+            "copyright": "春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%85%94%E5%AD%90&form=hpcapt&mkt=zh-cn",
+            "title": "复活节兔子要来了",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250419_BunnyLove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4047d46ca416fbf5bbf5b0a0204b565",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250418",
             "fullstartdate": "202504181600",
