@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-19 00:50:02",
-    "Total": 1088,
+    "LastUpdate": "2025-04-20 00:50:25",
+    "Total": 1089,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250419",
+            "fullstartdate": "202504190700",
+            "enddate": "20250420",
+            "url": "/th?id=OHR.ZionValley_EN-US2520458606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ZionValley_EN-US2520458606",
+            "copyright": "Zion National Park, Utah (© Simon Dannhauer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=national+park+week+2025&form=hpcapt&filters=HpDate%3a%2220250419_0700%22",
+            "title": "National Park Week begins",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250419_ZionValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02a20e9c69cc19a6fc24a8836a22870a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250418",
             "fullstartdate": "202504180700",
