@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-19 00:50:07",
-    "Total": 1088,
+    "LastUpdate": "2025-04-20 00:50:29",
+    "Total": 1089,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250419",
+            "fullstartdate": "202504191500",
+            "enddate": "20250420",
+            "url": "/th?id=OHR.BunnyLove_JA-JP1230746476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BunnyLove_JA-JP1230746476",
+            "copyright": "野生の子ウサギ (© Fiona McAllister Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250419_1500%22",
+            "title": "今日はイースター",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250419_BunnyLove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2529282520648598129c28ef98f83e6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250418",
             "fullstartdate": "202504181500",
