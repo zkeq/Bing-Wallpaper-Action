@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-19 00:50:23",
-    "Total": 1088,
+    "LastUpdate": "2025-04-20 00:50:45",
+    "Total": 1089,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250419",
+            "fullstartdate": "202504191830",
+            "enddate": "20250420",
+            "url": "/th?id=OHR.BunnyLove_EN-IN1663801678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BunnyLove_EN-IN1663801678",
+            "copyright": "Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=easter&form=hpcapt&filters=HpDate%3a%2220250419_1830%22",
+            "title": "The Easter Bunny is coming to town",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250419_BunnyLove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd9031a05cbddd49be5338cac46c1406",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250418",
             "fullstartdate": "202504181830",
