@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-20 00:50:33",
-    "Total": 1089,
+    "LastUpdate": "2025-04-21 00:50:28",
+    "Total": 1090,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250420",
+            "fullstartdate": "202504202200",
+            "enddate": "20250421",
+            "url": "/th?id=OHR.JoshuaStars_DE-DE4771713346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JoshuaStars_DE-DE4771713346",
+            "copyright": "Josuabäume unter der Milchstraße, Kalifornien, USA (© Chao Zhang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationale+Woche+des+dunklen+Himmels&form=hpcapt&filters=HpDate%3a%2220250420_2200%22",
+            "title": "Die Magie der Sterne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250420_JoshuaStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b02ea6622c9b0d9739cf022d4516afbf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250419",
             "fullstartdate": "202504192200",
