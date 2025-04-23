@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-22 00:50:29",
-    "Total": 1090,
+    "LastUpdate": "2025-04-23 00:50:25",
+    "Total": 1091,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250422",
+            "fullstartdate": "202504220400",
+            "enddate": "20250423",
+            "url": "/th?id=OHR.YellowstoneSpring_EN-CA7520480120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneSpring_EN-CA7520480120",
+            "copyright": "Grand Prismatic Spring, Yellowstone National Park, Wyoming, United States (© Ajith Kumar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Earth+Day&form=hpcapt&filters=HpDate%3a%2220250422_0400%22",
+            "title": "'Our Power, Our Planet'",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250422_YellowstoneSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d83db5a4a232f5cc53415fa4253e630f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250421",
             "fullstartdate": "202504210400",
