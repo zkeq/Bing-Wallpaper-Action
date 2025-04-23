@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-22 00:50:25",
-    "Total": 1091,
+    "LastUpdate": "2025-04-23 00:50:21",
+    "Total": 1092,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250422",
+            "fullstartdate": "202504222200",
+            "enddate": "20250423",
+            "url": "/th?id=OHR.GlobeTheatre_DE-DE3738219615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlobeTheatre_DE-DE3738219615",
+            "copyright": "Shakespeares Globe Theatre, London, England (© Peter Dazeley/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shakespeare+Geburtstag&form=hpcapt&filters=HpDate%3a%2220250422_2200%22",
+            "title": "Viel Lärm um Shakespeare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250422_GlobeTheatre%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1865142b92f30adea0ccae53d80b3786",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250421",
             "fullstartdate": "202504212200",
