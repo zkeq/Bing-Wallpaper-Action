@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-22 00:50:12",
-    "Total": 1091,
+    "LastUpdate": "2025-04-23 00:50:08",
+    "Total": 1092,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250422",
+            "fullstartdate": "202504221600",
+            "enddate": "20250423",
+            "url": "/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092",
+            "copyright": "海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E5%88%A9%E6%A0%B9%E6%B8%AF%E6%96%AF&form=hpcapt&mkt=zh-cn",
+            "title": "波罗的海的魔力",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250422_BeachChairsSteinwarder%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d463be5ccab990b27b008a2b96f3ceea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250421",
             "fullstartdate": "202504211600",
