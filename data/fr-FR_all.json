@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-22 00:50:41",
-    "Total": 1091,
+    "LastUpdate": "2025-04-23 00:50:38",
+    "Total": 1092,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250422",
+            "fullstartdate": "202504222200",
+            "enddate": "20250423",
+            "url": "/th?id=OHR.GlobeTheatre_FR-FR2329774006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlobeTheatre_FR-FR2329774006",
+            "copyright": "Théâtre du Globe, Londres, Angleterre (© Peter Dazeley/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shakespeare+&form=hpcapt&filters=HpDate%3a%2220250422_2200%22",
+            "title": "Le verbe de Shakespeare en héritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250422_GlobeTheatre%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "a699595e19882f81f4279d8fb09e07ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250421",
             "fullstartdate": "202504212200",
