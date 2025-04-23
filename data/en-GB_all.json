@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-22 00:50:33",
-    "Total": 1088,
+    "LastUpdate": "2025-04-23 00:50:29",
+    "Total": 1089,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250422",
+            "fullstartdate": "202504222300",
+            "enddate": "20250423",
+            "url": "/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StGeorgeDay2025_EN-GB0136708024",
+            "copyright": "A large mechanical dragon at Saint George's Day celebrations (© MediaWorldImages/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Saint+George+Day+England&form=hpcapt&filters=HpDate%3a%2220250422_2300%22",
+            "title": "Happy Saint George's Day!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250422_StGeorgeDay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f1aea14bea2807e8b6f23f8ac422680",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250421",
             "fullstartdate": "202504212300",
