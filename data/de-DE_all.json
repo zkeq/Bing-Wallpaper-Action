@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-23 00:50:21",
-    "Total": 1092,
+    "LastUpdate": "2025-04-24 00:50:24",
+    "Total": 1093,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250423",
+            "fullstartdate": "202504232200",
+            "enddate": "20250424",
+            "url": "/th?id=OHR.KenaiSpires_DE-DE8277470819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KenaiSpires_DE-DE8277470819",
+            "copyright": "Spire Cove im Kenai-Fjords-Nationalpark, Seward, Alaska, USA (© Wander Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kenai-Fjords-Nationalpark&form=hpcapt&filters=HpDate%3a%2220250423_2200%22",
+            "title": "Raue Gipfel und wilde Gewässer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250423_KenaiSpires%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3fd036e37fd4c13579308059b17a572a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250422",
             "fullstartdate": "202504222200",
