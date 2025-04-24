@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-23 00:50:38",
-    "Total": 1092,
+    "LastUpdate": "2025-04-24 00:50:40",
+    "Total": 1093,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250423",
+            "fullstartdate": "202504232200",
+            "enddate": "20250424",
+            "url": "/th?id=OHR.KenaiSpires_FR-FR3080979017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KenaiSpires_FR-FR3080979017",
+            "copyright": "Spire Cove, parc national des fjords de Kenai, Alaska, États-Unis (© Wander Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+de+Kenai+Fjords&form=hpcapt&filters=HpDate%3a%2220250423_2200%22",
+            "title": "Kenai, là où la glace rencontre l’océan",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250423_KenaiSpires%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c63a1633f91a34588f9f4ec22da443aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250422",
             "fullstartdate": "202504222200",
