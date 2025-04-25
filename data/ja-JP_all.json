@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-24 00:50:20",
-    "Total": 1093,
+    "LastUpdate": "2025-04-25 00:50:19",
+    "Total": 1094,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250424",
+            "fullstartdate": "202504241500",
+            "enddate": "20250425",
+            "url": "/th?id=OHR.MagellanicPenguin_JA-JP2151034914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MagellanicPenguin_JA-JP2151034914",
+            "copyright": "フォークランド諸島のマゼランペンギン, イギリス (© imageBROKER/Matthias Graben/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%82%BC%E3%83%A9%E3%83%B3%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%2c+%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220250424_1500%22",
+            "title": "今日は世界ペンギンの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250424_MagellanicPenguin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ea68a01efe08c7fdc97aa4a597fbfac3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250423",
             "fullstartdate": "202504231500",
