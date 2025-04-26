@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-25 00:50:39",
-    "Total": 1094,
+    "LastUpdate": "2025-04-26 00:50:30",
+    "Total": 1095,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250425",
+            "fullstartdate": "202504252200",
+            "enddate": "20250426",
+            "url": "/th?id=OHR.BrucePeninsula_FR-FR8669320621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrucePeninsula_FR-FR8669320621",
+            "copyright": "Indian Head Cove, parc national de la Péninsule-Bruce, Ontario, Canada (© Maurice Prokaziuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+de+la+p%C3%A9ninsule+bruce+&form=hpcapt&filters=HpDate%3a%2220250425_2200%22",
+            "title": "La perle turquoise du Canada",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250425_BrucePeninsula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd1717f069c022d913104a75bd399c44",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250424",
             "fullstartdate": "202504242200",
