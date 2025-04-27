@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-26 00:50:18",
-    "Total": 1094,
+    "LastUpdate": "2025-04-27 00:50:37",
+    "Total": 1095,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250426",
+            "fullstartdate": "202504260400",
+            "enddate": "20250427",
+            "url": "/th?id=OHR.BrucePeninsula_EN-CA7672437122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrucePeninsula_EN-CA7672437122",
+            "copyright": "Bruce Peninsula National Park, Ontario (© Maurice Prokaziuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bruce+Peninsula+National+Park+&form=hpcapt&filters=HpDate%3a%2220250426_0400%22",
+            "title": "Cliffs, caves and clear waters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250426_BrucePeninsula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad197f3883197ce0659f2a55b47e87c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250425",
             "fullstartdate": "202504250400",
