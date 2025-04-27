@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-26 00:50:01",
-    "Total": 1095,
+    "LastUpdate": "2025-04-27 00:50:20",
+    "Total": 1096,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250426",
+            "fullstartdate": "202504261600",
+            "enddate": "20250427",
+            "url": "/th?id=OHR.RedwoodGrove_ZH-CN3339576686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedwoodGrove_ZH-CN3339576686",
+            "copyright": "红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E6%9C%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "就在这里驻足吧",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250426_RedwoodGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44aa3f0d6468d0c7cf3daeb9baab75b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250425",
             "fullstartdate": "202504251600",
