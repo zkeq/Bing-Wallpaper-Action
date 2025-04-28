@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-27 00:50:46",
-    "Total": 1096,
+    "LastUpdate": "2025-04-28 00:50:40",
+    "Total": 1097,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250427",
+            "fullstartdate": "202504271830",
+            "enddate": "20250428",
+            "url": "/th?id=OHR.OrangeImpala_EN-IN2539045763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrangeImpala_EN-IN2539045763",
+            "copyright": "Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Impala&form=hpcapt&filters=HpDate%3a%2220250427_1830%22",
+            "title": "Pause and pose",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250427_OrangeImpala%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "268e3675e78976cde8a3f0d5f5fdc24c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250426",
             "fullstartdate": "202504261830",
