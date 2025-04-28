@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-27 00:50:20",
-    "Total": 1096,
+    "LastUpdate": "2025-04-28 00:50:17",
+    "Total": 1097,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250427",
+            "fullstartdate": "202504271600",
+            "enddate": "20250428",
+            "url": "/th?id=OHR.OrangeImpala_ZH-CN3417660107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrangeImpala_ZH-CN3417660107",
+            "copyright": "莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%AB%98%E8%A7%92%E7%BE%9A&form=hpcapt&mkt=zh-cn",
+            "title": "这只黑斑羚正在何处漫游？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250427_OrangeImpala%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "968aabc67d96a320b4a5038bb09fb6fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250426",
             "fullstartdate": "202504261600",
