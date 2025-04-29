@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-28 00:50:48",
-    "Total": 1097,
+    "LastUpdate": "2025-04-29 00:50:47",
+    "Total": 1098,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250428",
+            "fullstartdate": "202504282200",
+            "enddate": "20250429",
+            "url": "/th?id=OHR.GardensVillandry_IT-IT2296635680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GardensVillandry_IT-IT2296635680",
+            "copyright": "Castello di Villandry, Valle della Loira, Francia (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Villandry&form=hpcapt",
+            "title": "Geometria in Fiore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250428_GardensVillandry%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0782dd1f197e56f4fe7835a12bf35dd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250427",
             "fullstartdate": "202504272200",
