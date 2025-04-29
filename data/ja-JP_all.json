@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-28 00:50:25",
-    "Total": 1097,
+    "LastUpdate": "2025-04-29 00:50:24",
+    "Total": 1098,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250428",
+            "fullstartdate": "202504281500",
+            "enddate": "20250429",
+            "url": "/th?id=OHR.GardensVillandry_JA-JP2835269741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GardensVillandry_JA-JP2835269741",
+            "copyright": "ヴィランドリー城, フランス (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E5%9F%8E%E3%81%AE%E5%BA%AD%E5%9C%92%2c+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250428_1500%22",
+            "title": "絢爛たる迷宮庭園",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250428_GardensVillandry%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ac8a0ba1fe988b90a0816ff8e6920c36",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250427",
             "fullstartdate": "202504271500",
