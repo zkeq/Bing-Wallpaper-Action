@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-29 00:50:39",
-    "Total": 1098,
+    "LastUpdate": "2025-04-30 00:50:36",
+    "Total": 1099,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250429",
+            "fullstartdate": "202504291830",
+            "enddate": "20250430",
+            "url": "/th?id=OHR.ColtraneBand_EN-IN4058785023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColtraneBand_EN-IN4058785023",
+            "copyright": "Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Jazz+Day&form=hpcapt&filters=HpDate%3a%2220250429_1830%22",
+            "title": "All that jazz and more",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250429_ColtraneBand%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "3c3d47611e5da38f8e77c8c1469e07be",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250428",
             "fullstartdate": "202504281830",
