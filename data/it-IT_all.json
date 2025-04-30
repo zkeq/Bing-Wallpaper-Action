@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-29 00:50:47",
-    "Total": 1098,
+    "LastUpdate": "2025-04-30 00:50:44",
+    "Total": 1099,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250429",
+            "fullstartdate": "202504292200",
+            "enddate": "20250430",
+            "url": "/th?id=OHR.ColtraneBand_IT-IT2364291009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColtraneBand_IT-IT2364291009",
+            "copyright": "Il sassofonista John Coltrane e la sua band si esibiscono nel 1961 a Londra, Inghilterra (© Popperfoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jazz&form=hpcapt",
+            "title": "Jazztastico!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250429_ColtraneBand%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "dfc99cec66e136c10c4db803e848d70c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250428",
             "fullstartdate": "202504282200",
