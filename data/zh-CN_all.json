@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-30 00:50:11",
-    "Total": 1099,
+    "LastUpdate": "2025-05-01 00:50:26",
+    "Total": 1100,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250430",
+            "fullstartdate": "202504301600",
+            "enddate": "20250501",
+            "url": "/th?id=OHR.PinkPlumeria_ZH-CN3890147555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkPlumeria_ZH-CN3890147555",
+            "copyright": "鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%B8%A1%E8%9B%8B%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+            "title": "芬芳的传统",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250430_PinkPlumeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5973ef49e2aec13aed6667d6a7bd5aae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250429",
             "fullstartdate": "202504291600",
