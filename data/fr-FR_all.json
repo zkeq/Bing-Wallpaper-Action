@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-04-30 00:50:40",
-    "Total": 1099,
+    "LastUpdate": "2025-05-01 00:50:56",
+    "Total": 1100,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250430",
+            "fullstartdate": "202504302200",
+            "enddate": "20250501",
+            "url": "/th?id=OHR.PinkPlumeria_FR-FR9237716464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkPlumeria_FR-FR9237716464",
+            "copyright": "Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=frangipanier&form=hpcapt&filters=HpDate%3a%2220250430_2200%22",
+            "title": "Dites-le avec Aloha !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250430_PinkPlumeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "103494d0a577fe9e4f933d270806c407",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250429",
             "fullstartdate": "202504292200",
