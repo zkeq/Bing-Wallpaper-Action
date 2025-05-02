@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-01 00:50:26",
-    "Total": 1100,
+    "LastUpdate": "2025-05-02 00:50:11",
+    "Total": 1101,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250501",
+            "fullstartdate": "202505011600",
+            "enddate": "20250502",
+            "url": "/th?id=OHR.BrazilHeron_ZH-CN7200229300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrazilHeron_ZH-CN7200229300",
+            "copyright": "维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BB%BF%E9%B9%AD&form=hpcapt&mkt=zh-cn",
+            "title": "绿鹭",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250501_BrazilHeron%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66f2d3d960a49de6a8e1e7b5871b8bd2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250430",
             "fullstartdate": "202504301600",
