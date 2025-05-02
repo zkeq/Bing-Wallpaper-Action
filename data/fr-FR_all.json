@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-01 00:50:56",
-    "Total": 1100,
+    "LastUpdate": "2025-05-02 00:50:39",
+    "Total": 1101,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250501",
+            "fullstartdate": "202505012200",
+            "enddate": "20250502",
+            "url": "/th?id=OHR.BrazilHeron_FR-FR2379480505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrazilHeron_FR-FR2379480505",
+            "copyright": "Héron strié sur un nénuphar Victoria, Pantanal, Brésil (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=H%C3%A9ron+stri%C3%A9&form=hpcapt&filters=HpDate%3a%2220250501_2200%22",
+            "title": "Un, deux, trois… soleil !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250501_BrazilHeron%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dc31ec7a2bfe8f30b52ca72fe9b04bf9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250430",
             "fullstartdate": "202504302200",
