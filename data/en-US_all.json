@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-01 00:50:31",
-    "Total": 1100,
+    "LastUpdate": "2025-05-02 00:50:16",
+    "Total": 1101,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250501",
+            "fullstartdate": "202505010700",
+            "enddate": "20250502",
+            "url": "/th?id=OHR.PinkPlumeria_EN-US3595771407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkPlumeria_EN-US3595771407",
+            "copyright": "Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lei+Day&form=hpcapt&filters=HpDate%3a%2220250501_0700%22",
+            "title": "A fragrant tradition",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250501_PinkPlumeria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "868b1a2c5efa022611fdfcdd23fd21ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250430",
             "fullstartdate": "202504300700",
