@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-02 00:50:24",
-    "Total": 1101,
+    "LastUpdate": "2025-05-03 00:50:23",
+    "Total": 1102,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250502",
+            "fullstartdate": "202505022200",
+            "enddate": "20250503",
+            "url": "/th?id=OHR.SchlossMoritzburg_DE-DE9218601077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SchlossMoritzburg_DE-DE9218601077",
+            "copyright": "Schloss Moritzburg bei Dresden, Sachsen (© Hans-Peter Szyszka/Huber/eStock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Schloss+Moritzburg+Sachsen&form=hpcapt&filters=HpDate%3a%2220250502_2200%22",
+            "title": "Wie im Märchen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250502_SchlossMoritzburg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7d781f882431c59d65e7d6955e57101",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250501",
             "fullstartdate": "202505012200",
