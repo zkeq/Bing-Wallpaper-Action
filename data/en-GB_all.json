@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-03 00:50:31",
-    "Total": 1099,
+    "LastUpdate": "2025-05-04 00:50:44",
+    "Total": 1100,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250503",
+            "fullstartdate": "202505032300",
+            "enddate": "20250504",
+            "url": "/th?id=OHR.SevilleNaboo_EN-GB9843700805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SevilleNaboo_EN-GB9843700805",
+            "copyright": "Plaza de España, Seville, Spain (© Horia Merla/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Star+Wars+Day&form=hpcapt&filters=HpDate%3a%2220250503_2300%22",
+            "title": "Welcome to planet Naboo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250503_SevilleNaboo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fa134bd05e67d37f6269b616dd03ed13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250502",
             "fullstartdate": "202505022300",
