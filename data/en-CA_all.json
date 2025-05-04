@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-03 00:50:27",
-    "Total": 1101,
+    "LastUpdate": "2025-05-04 00:50:40",
+    "Total": 1102,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250503",
+            "fullstartdate": "202505030400",
+            "enddate": "20250504",
+            "url": "/th?id=OHR.ArchesGalaxy_EN-CA8569224386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArchesGalaxy_EN-CA8569224386",
+            "copyright": "The Milky Way framed by Double Arch in Arches National Park, Utah, United States (© Adventure_Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Astronomy+Day&form=hpcapt&filters=HpDate%3a%2220250503_0400%22",
+            "title": "Let's celebrate the cosmos",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250503_ArchesGalaxy%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "140cef3f8f2a3c6774361568918f46bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250502",
             "fullstartdate": "202505020400",
