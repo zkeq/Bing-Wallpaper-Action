@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-04 00:50:22",
-    "Total": 1103,
+    "LastUpdate": "2025-05-05 00:50:20",
+    "Total": 1104,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250504",
+            "fullstartdate": "202505041600",
+            "enddate": "20250505",
+            "url": "/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236",
+            "copyright": "日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A1%82%E6%9E%97%E5%96%80%E6%96%AF%E7%89%B9%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn",
+            "title": "秀美壮丽的山河",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250504_BeginningofSummer25Y%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43360733a3973e28b1e954220f55a5a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250503",
             "fullstartdate": "202505031600",
