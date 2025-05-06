@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-05 00:50:20",
-    "Total": 1104,
+    "LastUpdate": "2025-05-06 00:50:10",
+    "Total": 1105,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250505",
+            "fullstartdate": "202505051600",
+            "enddate": "20250506",
+            "url": "/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyoverNamibia_ZH-CN2114171516",
+            "copyright": "一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B6%85%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "不一般的沙漠之旅",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250505_FlyoverNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02cbf9871fdcf641a7cda18a0510b12a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250504",
             "fullstartdate": "202505041600",
