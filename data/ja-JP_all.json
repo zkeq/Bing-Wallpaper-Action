@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-05 00:50:29",
-    "Total": 1104,
+    "LastUpdate": "2025-05-06 00:50:20",
+    "Total": 1105,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250505",
+            "fullstartdate": "202505051500",
+            "enddate": "20250506",
+            "url": "/th?id=OHR.FlyoverNamibia_JA-JP8746385575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyoverNamibia_JA-JP8746385575",
+            "copyright": "ナミブ砂漠, ナミビア (© Burt Johnson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0%2c+%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250505_1500%22",
+            "title": "上空を舞う超軽量動力機",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250505_FlyoverNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "067a29fc11dfb236691c828a3ddec5ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250504",
             "fullstartdate": "202505041500",
