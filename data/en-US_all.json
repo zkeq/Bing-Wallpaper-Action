@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-06 00:50:16",
-    "Total": 1105,
+    "LastUpdate": "2025-05-07 00:50:19",
+    "Total": 1106,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250506",
+            "fullstartdate": "202505060700",
+            "enddate": "20250507",
+            "url": "/th?id=OHR.FlyoverNamibia_EN-US6033011196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyoverNamibia_EN-US6033011196",
+            "copyright": "An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=ultralight+aviation&form=hpcapt&filters=HpDate%3a%2220250506_0700%22",
+            "title": "Not your average desert trip",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250506_FlyoverNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "877c57f27ace27f60eef2dcd6e751262",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250505",
             "fullstartdate": "202505050700",
