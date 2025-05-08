@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-07 00:50:27",
-    "Total": 1106,
+    "LastUpdate": "2025-05-08 00:50:27",
+    "Total": 1107,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250507",
+            "fullstartdate": "202505072200",
+            "enddate": "20250508",
+            "url": "/th?id=OHR.RhyoliteDonkeys_DE-DE0880172671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhyoliteDonkeys_DE-DE0880172671",
+            "copyright": "Esel in einem Tal bei Rhyolite, Nevada, USA (© Moelyn Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Esel&form=hpcapt&filters=HpDate%3a%2220250507_2200%22",
+            "title": "Von wegen faul",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250507_RhyoliteDonkeys%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "57c2ea6b09f4914cd11397bb92b2a66d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250506",
             "fullstartdate": "202505062200",
