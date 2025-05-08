@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-07 00:50:42",
-    "Total": 1106,
+    "LastUpdate": "2025-05-08 00:50:42",
+    "Total": 1107,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250507",
+            "fullstartdate": "202505072200",
+            "enddate": "20250508",
+            "url": "/th?id=OHR.VictoryDay_FR-FR8101939030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VictoryDay_FR-FR8101939030",
+            "copyright": "Volcan Puy du Pariou, Auvergne (© Frantisek ZVARDON/Onlyfrance.fr/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=8+mai+armistice&form=hpcapt&filters=HpDate%3a%2220250507_2200%22",
+            "title": "Le volcan silencieux, mémoire de la Résistance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250507_VictoryDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c688d5c665347c1353a8b6c9db58b19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250506",
             "fullstartdate": "202505062200",
