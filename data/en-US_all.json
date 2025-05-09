@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-08 00:50:19",
-    "Total": 1107,
+    "LastUpdate": "2025-05-09 00:50:14",
+    "Total": 1108,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250508",
+            "fullstartdate": "202505080700",
+            "enddate": "20250509",
+            "url": "/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RhyoliteDonkeys_EN-US6439068828",
+            "copyright": "Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Donkey&form=hpcapt&filters=HpDate%3a%2220250508_0700%22",
+            "title": "A day to bray about",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250508_RhyoliteDonkeys%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81f4b70c19ead381660f0afcb3cb9e71",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250507",
             "fullstartdate": "202505070700",
