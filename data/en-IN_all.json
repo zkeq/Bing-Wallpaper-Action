@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-08 00:50:39",
-    "Total": 1107,
+    "LastUpdate": "2025-05-09 00:50:35",
+    "Total": 1108,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250508",
+            "fullstartdate": "202505081830",
+            "enddate": "20250509",
+            "url": "/th?id=OHR.CuteChameleon_EN-IN3680584611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CuteChameleon_EN-IN3680584611",
+            "copyright": "Common chameleon (© Photostock-Israel/SPL/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chameleon&form=hpcapt&filters=HpDate%3a%2220250508_1830%22",
+            "title": "Blending in and standing out",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250508_CuteChameleon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8cd3f1bd9dc7ad5e41ea602af989246",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250507",
             "fullstartdate": "202505071830",
