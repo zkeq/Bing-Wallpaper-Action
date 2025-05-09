@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-08 00:50:46",
-    "Total": 1107,
+    "LastUpdate": "2025-05-09 00:50:44",
+    "Total": 1108,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250508",
+            "fullstartdate": "202505082200",
+            "enddate": "20250509",
+            "url": "/th?id=OHR.GiroItalia_IT-IT8486738014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiroItalia_IT-IT8486738014",
+            "copyright": "Comincia il Giro d'Italia, Durazzo, Albania (© Tim de Waele/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giro+d+Italia+2025&form=hpcapt",
+            "title": "Testa bassa e pedalare",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250508_GiroItalia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dbb39c81f4f4c04a1e3b6a30fa4d5c53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250507",
             "fullstartdate": "202505072200",
