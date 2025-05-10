@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-09 00:50:44",
-    "Total": 1108,
+    "LastUpdate": "2025-05-10 00:50:39",
+    "Total": 1109,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250509",
+            "fullstartdate": "202505092200",
+            "enddate": "20250510",
+            "url": "/th?id=OHR.MinnesotaRotunda_IT-IT5434409102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinnesotaRotunda_IT-IT5434409102",
+            "copyright": "Campidoglio del Minnesota, St. Paul, Minnesota, USA (© lavin photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Campidoglio+del+Minnesota+St+Paul+Minnesota&form=hpcapt",
+            "title": "Cupole Dorate?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250509_MinnesotaRotunda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f12453309066ed6b8a70f0a5d8ad846",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250508",
             "fullstartdate": "202505082200",
