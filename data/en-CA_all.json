@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-10 00:50:23",
-    "Total": 1108,
+    "LastUpdate": "2025-05-11 00:50:45",
+    "Total": 1109,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250510",
+            "fullstartdate": "202505100400",
+            "enddate": "20250511",
+            "url": "/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinnesotaRotunda_EN-CA2092943439",
+            "copyright": "Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Minnesota+State+Capitol&form=hpcapt&filters=HpDate%3a%2220250510_0400%22",
+            "title": "Gilded glory",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250510_MinnesotaRotunda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41e6932bee26f8e5b1291835112f73ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250509",
             "fullstartdate": "202505090400",
