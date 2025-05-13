@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-12 00:50:37",
-    "Total": 1111,
+    "LastUpdate": "2025-05-13 00:50:32",
+    "Total": 1112,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250512",
+            "fullstartdate": "202505122200",
+            "enddate": "20250513",
+            "url": "/th?id=OHR.TorresChile_DE-DE8890780027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TorresChile_DE-DE8890780027",
+            "copyright": "Nationalpark Torres del Paine, Patagonien, Chile (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Torres+del+Paine+&form=hpcapt&filters=HpDate%3a%2220250512_2200%22",
+            "title": "Magische Naturkulisse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250512_TorresChile%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f43ce1c7acdf69a61333275d46e5ece9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250511",
             "fullstartdate": "202505112200",
