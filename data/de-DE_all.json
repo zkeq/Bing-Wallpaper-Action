@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-13 00:50:32",
-    "Total": 1112,
+    "LastUpdate": "2025-05-14 00:50:31",
+    "Total": 1113,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250513",
+            "fullstartdate": "202505132200",
+            "enddate": "20250514",
+            "url": "/th?id=OHR.SardiniaFlavia_DE-DE3762608321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardiniaFlavia_DE-DE3762608321",
+            "copyright": "Porto Flavia, Sulcis-Iglesiente, Sardinien, Italien (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Porto+Flavia+Seehafen&form=hpcapt&filters=HpDate%3a%2220250513_2200%22",
+            "title": "Ein gewagtes Projekt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250513_SardiniaFlavia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8605ee2da643a8369cacf9a179d022f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250512",
             "fullstartdate": "202505122200",
