@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-14 00:50:50",
-    "Total": 1113,
+    "LastUpdate": "2025-05-15 00:50:55",
+    "Total": 1114,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250514",
+            "fullstartdate": "202505142200",
+            "enddate": "20250515",
+            "url": "/th?id=OHR.LeopardMother_IT-IT3189476011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeopardMother_IT-IT3189476011",
+            "copyright": "Madre leopardo con il suo cucciolo, Riserva di Jao, Botswana (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Leopardo&form=hpcapt",
+            "title": "Grrr-andiosi!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250514_LeopardMother%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d36a37416bc85e6a646e8212e8111dc7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250513",
             "fullstartdate": "202505132200",
