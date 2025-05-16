@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-15 00:50:21",
-    "Total": 1114,
+    "LastUpdate": "2025-05-16 00:50:15",
+    "Total": 1115,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250515",
+            "fullstartdate": "202505151600",
+            "enddate": "20250516",
+            "url": "/th?id=OHR.GreenMacaw_ZH-CN3451340204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenMacaw_ZH-CN3451340204",
+            "copyright": "大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%BF%92%E5%8D%B1%E7%89%A9%E7%A7%8D%E4%BF%9D%E6%8A%A4%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "守护濒危生命的一天",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250515_GreenMacaw%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14860ac50f4da32c09cca93e75e52285",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250514",
             "fullstartdate": "202505141600",
