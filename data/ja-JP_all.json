@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-18 00:50:33",
-    "Total": 1117,
+    "LastUpdate": "2025-05-19 00:50:33",
+    "Total": 1118,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250518",
+            "fullstartdate": "202505181500",
+            "enddate": "20250519",
+            "url": "/th?id=OHR.MountHamilton_JA-JP7427709229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountHamilton_JA-JP7427709229",
+            "copyright": "ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3%E5%B1%B1%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250518_1500%22",
+            "title": "くねくね道と山の美しい稜線",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250518_MountHamilton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd8ea211fe65a555f3f47d1772623667",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250517",
             "fullstartdate": "202505171500",
