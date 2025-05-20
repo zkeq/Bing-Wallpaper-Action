@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-19 00:50:29",
-    "Total": 1118,
+    "LastUpdate": "2025-05-20 00:50:25",
+    "Total": 1119,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250519",
+            "fullstartdate": "202505190700",
+            "enddate": "20250520",
+            "url": "/th?id=OHR.MountHamilton_EN-US3808058743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountHamilton_EN-US3808058743",
+            "copyright": "Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Hamilton+Bay+Area&form=hpcapt&filters=HpDate%3a%2220250519_0700%22",
+            "title": "Twists and turns of Mount Hamilton",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250519_MountHamilton%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a30120e1a3015965ea39c5e0cea44ce5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250518",
             "fullstartdate": "202505180700",
