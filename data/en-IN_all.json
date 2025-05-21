@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-20 00:50:45",
-    "Total": 1119,
+    "LastUpdate": "2025-05-21 00:50:43",
+    "Total": 1120,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250520",
+            "fullstartdate": "202505201830",
+            "enddate": "20250521",
+            "url": "/th?id=OHR.SongyangTeaGarden_EN-IN6965632313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SongyangTeaGarden_EN-IN6965632313",
+            "copyright": "Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=international+tea+day&form=hpcapt&filters=HpDate%3a%2220250520_1830%22",
+            "title": "Par-tea time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250520_SongyangTeaGarden%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51f331e87b5ecc1cde6730e4ef79db2d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250519",
             "fullstartdate": "202505191830",
