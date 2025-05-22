@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-21 00:50:51",
-    "Total": 1120,
+    "LastUpdate": "2025-05-22 00:50:51",
+    "Total": 1121,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250521",
+            "fullstartdate": "202505212200",
+            "enddate": "20250522",
+            "url": "/th?id=OHR.BaobabAvenue_IT-IT7755407638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BaobabAvenue_IT-IT7755407638",
+            "copyright": "Alberi di baobab al tramonto, Viale dei Baobab, Madagascar (© Framalicious/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+della+Biodiversit%C3%A0&form=hpcapt",
+            "title": "Viale Baobab",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250521_BaobabAvenue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0947bf1da703e775c0ae62e784885b0c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250520",
             "fullstartdate": "202505202200",
