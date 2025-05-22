@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-21 00:50:30",
-    "Total": 1120,
+    "LastUpdate": "2025-05-22 00:50:31",
+    "Total": 1121,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250521",
+            "fullstartdate": "202505212200",
+            "enddate": "20250522",
+            "url": "/th?id=OHR.BaobabAvenue_DE-DE3139251925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BaobabAvenue_DE-DE3139251925",
+            "copyright": "Affenbrotbäume bei Sonnenuntergang, Baobab-Allee, Madagaskar (© Framalicious/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Biologischen+Vielfalt&form=hpcapt&filters=HpDate%3a%2220250521_2200%22",
+            "title": "Majestätische Riesen der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250521_BaobabAvenue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0966113d1be4c45cf1c062e75d3ebbb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250520",
             "fullstartdate": "202505202200",
