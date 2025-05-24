@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-23 00:50:51",
-    "Total": 1122,
+    "LastUpdate": "2025-05-24 00:50:40",
+    "Total": 1123,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250523",
+            "fullstartdate": "202505232200",
+            "enddate": "20250524",
+            "url": "/th?id=OHR.JotunheimenPark_IT-IT9090188682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JotunheimenPark_IT-IT9090188682",
+            "copyright": "Parco Nazionale di Jotunheimen, Norvegia (© Marisa Estivill/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Jotunheimen+catena+montuosa&form=hpcapt",
+            "title": "La parte selvaggia dell’Europa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250523_JotunheimenPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f73cc7bbdf43e825afa20494e9c6279d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250522",
             "fullstartdate": "202505222200",
