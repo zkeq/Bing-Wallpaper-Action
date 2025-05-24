@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-23 00:50:43",
-    "Total": 1122,
+    "LastUpdate": "2025-05-24 00:50:32",
+    "Total": 1123,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250523",
+            "fullstartdate": "202505231830",
+            "enddate": "20250524",
+            "url": "/th?id=OHR.JotunheimenPark_EN-IN7530347754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JotunheimenPark_EN-IN7530347754",
+            "copyright": "Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Jotunheimen+National+Park&form=hpcapt&filters=HpDate%3a%2220250523_1830%22",
+            "title": "Europe's wild side",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250523_JotunheimenPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "057b4ff16e210285477af6eb43be0596",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250522",
             "fullstartdate": "202505221830",
