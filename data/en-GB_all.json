@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-25 00:50:59",
-    "Total": 1121,
+    "LastUpdate": "2025-05-26 00:50:42",
+    "Total": 1122,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250525",
+            "fullstartdate": "202505252300",
+            "enddate": "20250526",
+            "url": "/th?id=OHR.BaobabAvenue_EN-GB3065370914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BaobabAvenue_EN-GB3065370914",
+            "copyright": "Baobab trees, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Baobab+trees&form=hpcapt&filters=HpDate%3a%2220250525_2300%22",
+            "title": "Baobab boulevard",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250525_BaobabAvenue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc039229ecd395a32717e4a4d77b85d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250524",
             "fullstartdate": "202505242300",
