@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-25 00:50:39",
-    "Total": 1124,
+    "LastUpdate": "2025-05-26 00:50:21",
+    "Total": 1125,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250525",
+            "fullstartdate": "202505251600",
+            "enddate": "20250526",
+            "url": "/th?id=OHR.Arashiyama2025_ZH-CN7836747321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Arashiyama2025_ZH-CN7836747321",
+            "copyright": "沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B2%9A%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "山间奔驰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250525_Arashiyama2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "91cf7f61656fa5d937223692922f4872",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250524",
             "fullstartdate": "202505241600",
