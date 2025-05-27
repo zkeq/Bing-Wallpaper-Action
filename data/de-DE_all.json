@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-26 00:50:34",
-    "Total": 1125,
+    "LastUpdate": "2025-05-27 00:50:27",
+    "Total": 1126,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250526",
+            "fullstartdate": "202505262200",
+            "enddate": "20250527",
+            "url": "/th?id=OHR.MonaValePool_DE-DE2862421756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonaValePool_DE-DE2862421756",
+            "copyright": "Mona Vale Ozean-Pool, Sydney, Australien (© jamenpercy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mona+Vale+Ozean-Pool&form=hpcapt&filters=HpDate%3a%2220250526_2200%22",
+            "title": "Eine Badewanne im Meer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250526_MonaValePool%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81bcd528603bbe01e269ef9c87c6b279",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250525",
             "fullstartdate": "202505252200",
