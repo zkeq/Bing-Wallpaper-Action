@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-27 00:50:14",
-    "Total": 1126,
+    "LastUpdate": "2025-05-28 00:50:22",
+    "Total": 1127,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250527",
+            "fullstartdate": "202505271600",
+            "enddate": "20250528",
+            "url": "/th?id=OHR.KelpOtter_ZH-CN8297228161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpOtter_ZH-CN8297228161",
+            "copyright": "一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn",
+            "title": "海獭很重要",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250527_KelpOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1db0713ea6e67bb7834d344e8cd482b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250526",
             "fullstartdate": "202505261600",
