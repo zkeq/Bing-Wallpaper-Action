@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-27 00:50:36",
-    "Total": 1123,
+    "LastUpdate": "2025-05-28 00:50:43",
+    "Total": 1124,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250527",
+            "fullstartdate": "202505272300",
+            "enddate": "20250528",
+            "url": "/th?id=OHR.KelpOtter_EN-GB3307429854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KelpOtter_EN-GB3307429854",
+            "copyright": "Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Otters&form=hpcapt&filters=HpDate%3a%2220250527_2300%22",
+            "title": "Otterly important",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250527_KelpOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f009b558d7a94b5ba7ede6dc359299f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250526",
             "fullstartdate": "202505262300",
