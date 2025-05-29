@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-28 00:50:46",
-    "Total": 1127,
+    "LastUpdate": "2025-05-29 00:50:45",
+    "Total": 1128,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250528",
+            "fullstartdate": "202505281830",
+            "enddate": "20250529",
+            "url": "/th?id=OHR.MiravetSpain_EN-IN8368542648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MiravetSpain_EN-IN8368542648",
+            "copyright": "Miravet on the Ebro river, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Miravet+Spain&form=hpcapt&filters=HpDate%3a%2220250528_1830%22",
+            "title": "Flowing through the centuries",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250528_MiravetSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c0369d24a77e868131857f7a95735e8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250527",
             "fullstartdate": "202505271830",
