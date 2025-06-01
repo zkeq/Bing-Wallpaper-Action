@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-31 00:50:34",
-    "Total": 1129,
+    "LastUpdate": "2025-06-01 00:51:07",
+    "Total": 1130,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250531",
+            "fullstartdate": "202505310400",
+            "enddate": "20250601",
+            "url": "/th?id=OHR.SwedenReserve_EN-CA7601065601_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwedenReserve_EN-CA7601065601",
+            "copyright": "Knuthöjdsmossen nature reserve, Sweden (© Sven Halling/DEEPOL/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Knuthojdsmossen+Sweden&form=hpcapt&filters=HpDate%3a%2220250531_0400%22",
+            "title": "An ancient glacial landscape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250531_SwedenReserve%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2d3bc1cd22d5e458ca597d5225b801c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250530",
             "fullstartdate": "202505300400",
