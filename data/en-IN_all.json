@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-05-31 00:50:42",
-    "Total": 1130,
+    "LastUpdate": "2025-06-01 00:51:15",
+    "Total": 1131,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250531",
+            "fullstartdate": "202505311830",
+            "enddate": "20250601",
+            "url": "/th?id=OHR.GrandeTerreReef_EN-IN3346781319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandeTerreReef_EN-IN3346781319",
+            "copyright": "Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Reef+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220250531_1830%22",
+            "title": "Under the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250531_GrandeTerreReef%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba08ee0c9ca1d3bf5d79e7d66472bd11",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250530",
             "fullstartdate": "202505301830",
