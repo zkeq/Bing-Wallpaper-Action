@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-01 00:50:49",
-    "Total": 1131,
+    "LastUpdate": "2025-06-02 00:50:26",
+    "Total": 1132,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250601",
+            "fullstartdate": "202506011600",
+            "enddate": "20250602",
+            "url": "/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878",
+            "copyright": "一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B4%AB%E9%94%A5%E8%8F%8A&form=hpcapt&mkt=zh-cn",
+            "title": "花的力量",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250601_EchinaceaButterfly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe23a9e6af328e9bacd540ac48c92b37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250531",
             "fullstartdate": "202505311600",
