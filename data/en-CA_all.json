@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-02 00:50:43",
-    "Total": 1131,
+    "LastUpdate": "2025-06-03 00:50:34",
+    "Total": 1132,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250602",
+            "fullstartdate": "202506020400",
+            "enddate": "20250603",
+            "url": "/th?id=OHR.Fogoisland_EN-CA7909293676_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fogoisland_EN-CA7909293676",
+            "copyright": "Fogo Island, Newfoundland and Labrador (© Greg Johnston/Photodisc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fogo+Island+Newfoundland&form=hpcapt&filters=HpDate%3a%2220250602_0400%22",
+            "title": "To all the bright places",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250602_Fogoisland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6607d2e5fa18f01fc7ca5091090908c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250601",
             "fullstartdate": "202506010400",
