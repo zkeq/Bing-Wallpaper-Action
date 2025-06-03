@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-02 00:50:35",
-    "Total": 1132,
+    "LastUpdate": "2025-06-03 00:50:26",
+    "Total": 1133,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250602",
+            "fullstartdate": "202506021500",
+            "enddate": "20250603",
+            "url": "/th?id=OHR.BicyclesUtrecht_JA-JP5412033265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BicyclesUtrecht_JA-JP5412033265",
+            "copyright": "ユトレヒトの橋と自転車, オランダ (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A6%E3%83%88%E3%83%AC%E3%83%92%E3%83%88%E3%81%A8%E8%87%AA%E8%BB%A2%E8%BB%8A%2c+%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80&form=hpcapt&filters=HpDate%3a%2220250602_1500%22",
+            "title": "今日は世界自転車デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250602_BicyclesUtrecht%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7187d3a68d7646ea289e85b901b5942",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250601",
             "fullstartdate": "202506011500",
