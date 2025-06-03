@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-02 00:50:55",
-    "Total": 1132,
+    "LastUpdate": "2025-06-03 00:50:46",
+    "Total": 1133,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250602",
+            "fullstartdate": "202506022200",
+            "enddate": "20250603",
+            "url": "/th?id=OHR.BicyclesUtrecht_FR-FR5996200127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BicyclesUtrecht_FR-FR5996200127",
+            "copyright": "Vélos sur un pont à Utrecht, Pays-Bas (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+la+bicyclette&form=hpcapt&filters=HpDate%3a%2220250602_2200%22",
+            "title": "Rouler vers un avenir durable",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250602_BicyclesUtrecht%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50091f74354a9d8fdef2864255202dd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250601",
             "fullstartdate": "202506012200",
