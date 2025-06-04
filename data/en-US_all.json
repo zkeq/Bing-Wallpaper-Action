@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-03 00:50:22",
-    "Total": 1133,
+    "LastUpdate": "2025-06-04 00:50:24",
+    "Total": 1134,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250603",
+            "fullstartdate": "202506030700",
+            "enddate": "20250604",
+            "url": "/th?id=OHR.BicyclesUtrecht_EN-US8449213938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BicyclesUtrecht_EN-US8449213938",
+            "copyright": "Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Bicycle+Day&form=hpcapt&filters=HpDate%3a%2220250603_0700%22",
+            "title": "Break for joy",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250603_BicyclesUtrecht%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aca85c90440045a9e72d0f0c60907052",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250602",
             "fullstartdate": "202506020700",
