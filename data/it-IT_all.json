@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-03 00:50:50",
-    "Total": 1133,
+    "LastUpdate": "2025-06-04 00:50:53",
+    "Total": 1134,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250603",
+            "fullstartdate": "202506032200",
+            "enddate": "20250604",
+            "url": "/th?id=OHR.CalaLuna_IT-IT6388289498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalaLuna_IT-IT6388289498",
+            "copyright": "Cala Luna, Orosei, Sardegna (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cala+Luna+nel+golfo+di+Orosei+Sardegna&form=hpcapt",
+            "title": "Luna sul Mare?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250603_CalaLuna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "661c2d1486d1436ae1b0fe8177981dc8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250602",
             "fullstartdate": "202506022200",
