@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-03 00:50:46",
-    "Total": 1133,
+    "LastUpdate": "2025-06-04 00:50:49",
+    "Total": 1134,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250603",
+            "fullstartdate": "202506032200",
+            "enddate": "20250604",
+            "url": "/th?id=OHR.CalaLuna_FR-FR6223009660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalaLuna_FR-FR6223009660",
+            "copyright": "Plage de Cala Luna, Sardaigne, Italie (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sardaigne&form=hpcapt&filters=HpDate%3a%2220250603_2200%22",
+            "title": "Une crique au parfum de lune",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250603_CalaLuna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4188f404b704eb31e818dc793d5ddb5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250602",
             "fullstartdate": "202506022200",
