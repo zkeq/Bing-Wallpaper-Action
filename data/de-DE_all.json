@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-03 00:50:30",
-    "Total": 1133,
+    "LastUpdate": "2025-06-04 00:50:32",
+    "Total": 1134,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250603",
+            "fullstartdate": "202506032200",
+            "enddate": "20250604",
+            "url": "/th?id=OHR.CalaLuna_DE-DE8329861715_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalaLuna_DE-DE8329861715",
+            "copyright": "Strand Cala Luna, Sardinien, Italien (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sardinien&form=hpcapt&filters=HpDate%3a%2220250603_2200%22",
+            "title": "Klare Blautöne, scharfe Ansichten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250603_CalaLuna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6798ed1747b6e54ead25a435443b0e70",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250602",
             "fullstartdate": "202506022200",
