@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-04 00:50:19",
-    "Total": 1134,
+    "LastUpdate": "2025-06-05 00:50:13",
+    "Total": 1135,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250604",
+            "fullstartdate": "202506041600",
+            "enddate": "20250605",
+            "url": "/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FumacinhaBahia_ZH-CN9190616593",
+            "copyright": "福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%BF%AA%E4%BA%9A%E6%9B%BC%E8%92%82%E7%BA%B3%E9%AB%98%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "隐藏的美景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250604_FumacinhaBahia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aafb868e64f5685ae0bd3dec2b8da973",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250603",
             "fullstartdate": "202506031600",
