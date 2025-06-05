@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-04 00:50:24",
-    "Total": 1134,
+    "LastUpdate": "2025-06-05 00:50:18",
+    "Total": 1135,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250604",
+            "fullstartdate": "202506040700",
+            "enddate": "20250605",
+            "url": "/th?id=OHR.CalaLuna_EN-US8760708047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CalaLuna_EN-US8760708047",
+            "copyright": "The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sardinia&form=hpcapt&filters=HpDate%3a%2220250604_0700%22",
+            "title": "Crisp blues, sharp views",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250604_CalaLuna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2e83a37e5cdcd12153bf936ac90850f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250603",
             "fullstartdate": "202506030700",
