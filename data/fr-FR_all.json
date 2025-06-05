@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-04 00:50:49",
-    "Total": 1134,
+    "LastUpdate": "2025-06-05 00:50:42",
+    "Total": 1135,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250604",
+            "fullstartdate": "202506042200",
+            "enddate": "20250605",
+            "url": "/th?id=OHR.OlivaresMural_FR-FR6395710668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlivaresMural_FR-FR6395710668",
+            "copyright": "Fresque en bouchons de bouteilles réalisée par Oscar Olivares à Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+l%27environnement&form=hpcapt&filters=HpDate%3a%2220250604_2200%22",
+            "title": "L’art du recyclage pour éveiller les consciences",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250604_OlivaresMural%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "00eeb5239e2af9ef86901a9504f0fd82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250603",
             "fullstartdate": "202506032200",
