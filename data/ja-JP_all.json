@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-04 00:50:28",
-    "Total": 1134,
+    "LastUpdate": "2025-06-05 00:50:22",
+    "Total": 1135,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250604",
+            "fullstartdate": "202506041500",
+            "enddate": "20250605",
+            "url": "/th?id=OHR.OlivaresMural_JA-JP5583290879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlivaresMural_JA-JP5583290879",
+            "copyright": "ペットボトルキャップのモザイク画, ベネズエラ (© FEDERICO PARRA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%92%B0%E5%A2%83%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250604_1500%22",
+            "title": "今日は世界環境デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250604_OlivaresMural%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b2b63f8403e9dc03b4c01977813c49e5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250603",
             "fullstartdate": "202506031500",
