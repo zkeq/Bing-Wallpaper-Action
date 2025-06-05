@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-04 00:50:40",
-    "Total": 1131,
+    "LastUpdate": "2025-06-05 00:50:34",
+    "Total": 1132,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250604",
+            "fullstartdate": "202506042300",
+            "enddate": "20250605",
+            "url": "/th?id=OHR.OlivaresMural_EN-GB1816556360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlivaresMural_EN-GB1816556360",
+            "copyright": "Bottle cap mural by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Environment+Day&form=hpcapt&filters=HpDate%3a%2220250604_2300%22",
+            "title": "Recycling never looked so good",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250604_OlivaresMural%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "10358df54128096eeef9585b94a9898a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250603",
             "fullstartdate": "202506032300",
