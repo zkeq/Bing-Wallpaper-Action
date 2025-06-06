@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-05 00:50:13",
-    "Total": 1135,
+    "LastUpdate": "2025-06-06 00:50:25",
+    "Total": 1136,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250605",
+            "fullstartdate": "202506051600",
+            "enddate": "20250606",
+            "url": "/th?id=OHR.NormandyBeach_ZH-CN9312381737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NormandyBeach_ZH-CN9312381737",
+            "copyright": "诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%AF%BA%E6%9B%BC%E5%BA%95%E7%99%BB%E9%99%86&form=hpcapt&mkt=zh-cn",
+            "title": "诺曼底登陆日的转折点",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250605_NormandyBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcdc5c31c16233ba506c6b75737be4a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250604",
             "fullstartdate": "202506041600",
