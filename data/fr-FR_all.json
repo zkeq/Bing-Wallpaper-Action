@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-05 00:50:42",
-    "Total": 1135,
+    "LastUpdate": "2025-06-06 00:50:56",
+    "Total": 1136,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250605",
+            "fullstartdate": "202506052200",
+            "enddate": "20250606",
+            "url": "/th?id=OHR.NormandyBeach_FR-FR1019139404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NormandyBeach_FR-FR1019139404",
+            "copyright": "Plage du débarquement d’Arromanches-les-Bains, Normandie (© Horia Merla/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Plages+du+d%C3%A9barquement&form=hpcapt&filters=HpDate%3a%2220250605_2200%22",
+            "title": "Des plages chargées d'Histoire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250605_NormandyBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de077b635048295596acb1ae5e464d13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250604",
             "fullstartdate": "202506042200",
