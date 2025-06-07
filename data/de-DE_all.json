@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-06 00:50:39",
-    "Total": 1136,
+    "LastUpdate": "2025-06-07 00:50:30",
+    "Total": 1137,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250606",
+            "fullstartdate": "202506062200",
+            "enddate": "20250607",
+            "url": "/th?id=OHR.PacificCrestTrail_DE-DE7215406983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PacificCrestTrail_DE-DE7215406983",
+            "copyright": "Gipfel des Pine Mountain, Angeles National Forest, Kalifornien, USA (© Matthew Kuhns/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Angeles+National+Forest+Kalifornien&form=hpcapt&filters=HpDate%3a%2220250606_2200%22",
+            "title": "Auf abgelegenen Pfaden",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250606_PacificCrestTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bfb1f5d4bac79ad01661ee2f70c32231",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250605",
             "fullstartdate": "202506052200",
