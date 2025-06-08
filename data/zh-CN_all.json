@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-07 00:50:16",
-    "Total": 1137,
+    "LastUpdate": "2025-06-08 00:50:33",
+    "Total": 1138,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250607",
+            "fullstartdate": "202506071600",
+            "enddate": "20250608",
+            "url": "/th?id=OHR.StellarSeaLions_ZH-CN2859514359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StellarSeaLions_ZH-CN2859514359",
+            "copyright": "北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "来自彼岸的问候",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250607_StellarSeaLions%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c1d27c678b793b59f344e6de4470c1b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250606",
             "fullstartdate": "202506061600",
