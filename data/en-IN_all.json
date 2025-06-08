@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-07 00:50:42",
-    "Total": 1137,
+    "LastUpdate": "2025-06-08 00:50:57",
+    "Total": 1138,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250607",
+            "fullstartdate": "202506071830",
+            "enddate": "20250608",
+            "url": "/th?id=OHR.StellarSeaLions_EN-IN8181624578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StellarSeaLions_EN-IN8181624578",
+            "copyright": "Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Oceans+Day&form=hpcapt&filters=HpDate%3a%2220250607_1830%22",
+            "title": "Hello from the other side",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250607_StellarSeaLions%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5cb29b15b0423e2bfce1ed333c0bbc0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250606",
             "fullstartdate": "202506061830",
