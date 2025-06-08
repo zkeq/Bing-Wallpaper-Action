@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-07 00:50:46",
-    "Total": 1137,
+    "LastUpdate": "2025-06-08 00:51:01",
+    "Total": 1138,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250607",
+            "fullstartdate": "202506072200",
+            "enddate": "20250608",
+            "url": "/th?id=OHR.StellarSeaLions_FR-FR2842179483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StellarSeaLions_FR-FR2842179483",
+            "copyright": "Lions de mer de Steller, île de Vancouver, Colombie-Britannique, Canada (© Steve Woods Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+l%27oc%C3%A9an&form=hpcapt&filters=HpDate%3a%2220250607_2200%22",
+            "title": "Préserver ce qui nous préserve",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250607_StellarSeaLions%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "46453480612efd87e6fde1815331b771",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250606",
             "fullstartdate": "202506062200",
