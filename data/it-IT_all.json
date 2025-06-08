@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-07 00:50:50",
-    "Total": 1137,
+    "LastUpdate": "2025-06-08 00:51:05",
+    "Total": 1138,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250607",
+            "fullstartdate": "202506072200",
+            "enddate": "20250608",
+            "url": "/th?id=OHR.StellarSeaLions_IT-IT5341813083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StellarSeaLions_IT-IT5341813083",
+            "copyright": "Leoni marini di Steller, Isola di Vancouver, British Columbia, Canada (© Steve Woods Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oceano&form=hpcapt",
+            "title": "Tutti per uno, uno per tutti!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250607_StellarSeaLions%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2e4267804d068dd0ad9adfc71c05604",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250606",
             "fullstartdate": "202506062200",
