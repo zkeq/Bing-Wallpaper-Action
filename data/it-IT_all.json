@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-08 00:51:05",
-    "Total": 1138,
+    "LastUpdate": "2025-06-09 00:51:01",
+    "Total": 1139,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250608",
+            "fullstartdate": "202506082200",
+            "enddate": "20250609",
+            "url": "/th?id=OHR.DubrovnikTwilight_IT-IT4694671968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DubrovnikTwilight_IT-IT4694671968",
+            "copyright": "Città Vecchia di Dubrovnik, Dalmazia, Croazia (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dubrovnik&form=hpcapt",
+            "title": "Oltre l’arco del passato",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250608_DubrovnikTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a75fb7f8ffe77eba1ba2507d3d0c648",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250607",
             "fullstartdate": "202506072200",
