@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-08 00:51:01",
-    "Total": 1138,
+    "LastUpdate": "2025-06-09 00:50:57",
+    "Total": 1139,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250608",
+            "fullstartdate": "202506082200",
+            "enddate": "20250609",
+            "url": "/th?id=OHR.DubrovnikTwilight_FR-FR3018802906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DubrovnikTwilight_FR-FR3018802906",
+            "copyright": "Vieille ville de Dubrovnik, Dalmatie, Croatie (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dubrovnik&form=hpcapt&filters=HpDate%3a%2220250608_2200%22",
+            "title": "La perle de l’Adriatique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250608_DubrovnikTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0c072e697fd0023e39ca9e55611d943",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250607",
             "fullstartdate": "202506072200",
