@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-08 00:50:41",
-    "Total": 1138,
+    "LastUpdate": "2025-06-09 00:50:37",
+    "Total": 1139,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250608",
+            "fullstartdate": "202506081500",
+            "enddate": "20250609",
+            "url": "/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DubrovnikTwilight_JA-JP6048239722",
+            "copyright": "ドゥブロヴニク旧市街, クロアチア (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF%E6%97%A7%E5%B8%82%E8%A1%97%2c+%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250608_1500%22",
+            "title": "時が止まったかのような中世の街",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250608_DubrovnikTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e539eb8a3e1402d3c8ccbdc92f8c8f85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250607",
             "fullstartdate": "202506071500",
