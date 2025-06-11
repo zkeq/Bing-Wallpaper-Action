@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-10 00:50:30",
-    "Total": 1140,
+    "LastUpdate": "2025-06-11 00:50:27",
+    "Total": 1141,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250610",
+            "fullstartdate": "202506101500",
+            "enddate": "20250611",
+            "url": "/th?id=OHR.Hydrangea2025_JA-JP6293958044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hydrangea2025_JA-JP6293958044",
+            "copyright": "あじさいの丘, 静岡県 賀茂郡 (© Tommy Tsutsui/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%AE%E4%B8%98%2c+%E6%9D%BE%E5%B4%8E%E7%94%BA&form=hpcapt&filters=HpDate%3a%2220250610_1500%22",
+            "title": "今日は入梅",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250610_Hydrangea2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25fe63aa4e8d23ffa2976cdf4dda3d05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250609",
             "fullstartdate": "202506091500",
