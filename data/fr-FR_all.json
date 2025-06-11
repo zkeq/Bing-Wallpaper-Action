@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-10 00:50:51",
-    "Total": 1140,
+    "LastUpdate": "2025-06-11 00:50:48",
+    "Total": 1141,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250610",
+            "fullstartdate": "202506102200",
+            "enddate": "20250611",
+            "url": "/th?id=OHR.FlamingosNamibia_FR-FR3406043223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlamingosNamibia_FR-FR3406043223",
+            "copyright": "Flamants roses, Lüderitz, Namibie (© Karine Aigner/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=flamant+rose&form=hpcapt&filters=HpDate%3a%2220250610_2200%22",
+            "title": "La grâce à l’état pur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250610_FlamingosNamibia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51169b23bd5b35f60784de04d12a34e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250609",
             "fullstartdate": "202506092200",
