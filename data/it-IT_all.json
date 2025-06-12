@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-11 00:50:52",
-    "Total": 1141,
+    "LastUpdate": "2025-06-12 00:50:48",
+    "Total": 1142,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250611",
+            "fullstartdate": "202506112200",
+            "enddate": "20250612",
+            "url": "/th?id=OHR.BigBendChisos_IT-IT7015361266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendChisos_IT-IT7015361266",
+            "copyright": "Monti Chisos, Parco Nazionale Big Bend, Texas, USA (© Dean Fikar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+di+Big+Bend&form=hpcapt",
+            "title": "Stelle, Sassi e Silenzio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250611_BigBendChisos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "786fc1a6045f4e07c2abbe68349ca2cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250610",
             "fullstartdate": "202506102200",
