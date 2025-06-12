@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-11 00:50:40",
-    "Total": 1138,
+    "LastUpdate": "2025-06-12 00:50:35",
+    "Total": 1139,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250611",
+            "fullstartdate": "202506112300",
+            "enddate": "20250612",
+            "url": "/th?id=OHR.BigBendChisos_EN-GB2685461627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendChisos_EN-GB2685461627",
+            "copyright": "Chisos Mountains, Big Bend National Park, Texas, United States (© Dean Fikar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Big+Bend+National+Park&form=hpcapt&filters=HpDate%3a%2220250611_2300%22",
+            "title": "Stars, stone and solitude",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250611_BigBendChisos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3c802d16fbd1b0945fc02df544290eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250610",
             "fullstartdate": "202506102300",
