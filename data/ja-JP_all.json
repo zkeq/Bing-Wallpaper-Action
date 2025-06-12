@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-11 00:50:27",
-    "Total": 1141,
+    "LastUpdate": "2025-06-12 00:50:23",
+    "Total": 1142,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250611",
+            "fullstartdate": "202506111500",
+            "enddate": "20250612",
+            "url": "/th?id=OHR.BigBendChisos_JA-JP6210752580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigBendChisos_JA-JP6210752580",
+            "copyright": "ビッグ・ベンド国立公園, 米国 テキサス州 (© Dean Fikar/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%99%E3%83%B3%E3%83%89%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250611_1500%22",
+            "title": "多様な命が息づく砂漠の楽園",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250611_BigBendChisos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eaaddd9f18551d04294b47fcef60d43e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250610",
             "fullstartdate": "202506101500",
