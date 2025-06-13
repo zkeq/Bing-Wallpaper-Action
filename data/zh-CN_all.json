@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-12 00:50:14",
-    "Total": 1142,
+    "LastUpdate": "2025-06-13 00:50:24",
+    "Total": 1143,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250612",
+            "fullstartdate": "202506121600",
+            "enddate": "20250613",
+            "url": "/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanMiguelAzores_ZH-CN2511982585",
+            "copyright": "维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BB%B4%E6%8B%89%E5%BC%97%E5%85%B0%E5%8D%A1%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "海洋的隐秘心跳",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250612_SanMiguelAzores%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d94d1a94112fce9d52210a35d68298b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250611",
             "fullstartdate": "202506111600",
