@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-12 00:50:35",
-    "Total": 1139,
+    "LastUpdate": "2025-06-13 00:50:45",
+    "Total": 1140,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250612",
+            "fullstartdate": "202506122300",
+            "enddate": "20250613",
+            "url": "/th?id=OHR.SanMiguelAzores_EN-GB5976110890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanMiguelAzores_EN-GB5976110890",
+            "copyright": "Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vila+Franca+Islet&form=hpcapt&filters=HpDate%3a%2220250612_2300%22",
+            "title": "The ocean's hidden heartbeat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250612_SanMiguelAzores%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c788594c368d39c1df7f6862eab0fe44",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250611",
             "fullstartdate": "202506112300",
