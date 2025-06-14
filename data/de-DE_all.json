@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-13 00:50:37",
-    "Total": 1143,
+    "LastUpdate": "2025-06-14 00:50:21",
+    "Total": 1144,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250613",
+            "fullstartdate": "202506132200",
+            "enddate": "20250614",
+            "url": "/th?id=OHR.DolomitiEstate_DE-DE7890492022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitiEstate_DE-DE7890492022",
+            "copyright": "Cinque Torri, Dolomiten, Italien (© usabin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cinque+Torri+Dolomiten&form=hpcapt&filters=HpDate%3a%2220250613_2200%22",
+            "title": "Die Klänge der Stille",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250613_DolomitiEstate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8b8acd0068bbf8be6e70f2dc8b2543b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250612",
             "fullstartdate": "202506122200",
