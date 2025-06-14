@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-13 00:50:33",
-    "Total": 1143,
+    "LastUpdate": "2025-06-14 00:50:16",
+    "Total": 1144,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250613",
+            "fullstartdate": "202506131500",
+            "enddate": "20250614",
+            "url": "/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159",
+            "copyright": "日光東照宮, 栃木県 日光市 (© Pavel Nesvadba/shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE%2c+%E6%97%A5%E5%85%89%E5%B8%82%2c+%E6%A0%83%E6%9C%A8%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250613_1500%22",
+            "title": "明日は栃木県民の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250613_NikkoToshoguShrine%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "570a8ee40a5c16c3877894900df4cdbf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250612",
             "fullstartdate": "202506121500",
