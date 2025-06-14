@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-13 00:50:53",
-    "Total": 1143,
+    "LastUpdate": "2025-06-14 00:50:37",
+    "Total": 1144,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250613",
+            "fullstartdate": "202506132200",
+            "enddate": "20250614",
+            "url": "/th?id=OHR.DolomitiEstate_FR-FR4432604258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitiEstate_FR-FR4432604258",
+            "copyright": "Cinque Torri, Dolomites, Italie (© usabin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cinque+Torri+Dolomites+Italie&form=hpcapt&filters=HpDate%3a%2220250613_2200%22",
+            "title": "Des sentinelles au cœur des Dolomites",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250613_DolomitiEstate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8bd7522f0f3b81369cc337ea58e35e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250612",
             "fullstartdate": "202506122200",
