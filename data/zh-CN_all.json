@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-13 00:50:24",
-    "Total": 1143,
+    "LastUpdate": "2025-06-14 00:50:07",
+    "Total": 1144,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250613",
+            "fullstartdate": "202506131600",
+            "enddate": "20250614",
+            "url": "/th?id=OHR.DolomitiEstate_ZH-CN6501271709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitiEstate_ZH-CN6501271709",
+            "copyright": "五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1%E8%84%89%E4%BA%94%E5%A1%94%E5%B3%B0&form=hpcapt&mkt=zh-cn",
+            "title": "静谧之声",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250613_DolomitiEstate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77ef710f711b4b5de8705441741e70b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250612",
             "fullstartdate": "202506121600",
