@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-14 00:50:07",
-    "Total": 1144,
+    "LastUpdate": "2025-06-15 00:50:33",
+    "Total": 1145,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250614",
+            "fullstartdate": "202506141600",
+            "enddate": "20250615",
+            "url": "/th?id=OHR.RheaDad_ZH-CN6706868651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RheaDad_ZH-CN6706868651",
+            "copyright": "雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%88%B6%E4%BA%B2%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "羽翼下的父爱",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250614_RheaDad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "531d2b7cb7a014763eddb81176d12daf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250613",
             "fullstartdate": "202506131600",
