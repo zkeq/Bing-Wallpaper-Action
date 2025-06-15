@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-14 00:50:37",
-    "Total": 1144,
+    "LastUpdate": "2025-06-15 00:51:01",
+    "Total": 1145,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250614",
+            "fullstartdate": "202506142200",
+            "enddate": "20250615",
+            "url": "/th?id=OHR.RheaDad_FR-FR4814094029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RheaDad_FR-FR4814094029",
+            "copyright": "Nandou de Darwin mâle avec ses petits, parc national Torres del Paine, Patagonie, Chili (© Ignacio Yufera/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+des+P%C3%A8res&form=hpcapt&filters=HpDate%3a%2220250614_2200%22",
+            "title": "Un papa hors du commun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250614_RheaDad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2143edc793bb6e2068615ed72279dc5c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250613",
             "fullstartdate": "202506132200",
