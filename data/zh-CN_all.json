@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-15 00:50:33",
-    "Total": 1145,
+    "LastUpdate": "2025-06-16 00:50:25",
+    "Total": 1146,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250615",
+            "fullstartdate": "202506151600",
+            "enddate": "20250616",
+            "url": "/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064",
+            "copyright": "海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E9%BE%9F&form=hpcapt&mkt=zh-cn",
+            "title": "远古泳者的现代困境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250615_SeaTurtleBrazil%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6250c543ea549793168e3ed75740d489",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250614",
             "fullstartdate": "202506141600",
