@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-15 00:51:05",
-    "Total": 1145,
+    "LastUpdate": "2025-06-16 00:50:57",
+    "Total": 1146,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250615",
+            "fullstartdate": "202506152200",
+            "enddate": "20250616",
+            "url": "/th?id=OHR.SeaTurtleBrazil_IT-IT6000717103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeaTurtleBrazil_IT-IT6000717103",
+            "copyright": "Tartaruga marina, Fernando de Noronha, Brasile (© João Vianna/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tartaruga+marina&form=hpcapt",
+            "title": "Antica e Maestosa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250615_SeaTurtleBrazil%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2cc53517a1c47e4e39c972000c0eb6c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250614",
             "fullstartdate": "202506142200",
