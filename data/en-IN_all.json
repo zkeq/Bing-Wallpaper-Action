@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-15 00:50:57",
-    "Total": 1145,
+    "LastUpdate": "2025-06-16 00:50:49",
+    "Total": 1146,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250615",
+            "fullstartdate": "202506151830",
+            "enddate": "20250616",
+            "url": "/th?id=OHR.SeaTurtleBrazil_EN-IN8664549604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeaTurtleBrazil_EN-IN8664549604",
+            "copyright": "Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+turtles&form=hpcapt&filters=HpDate%3a%2220250615_1830%22",
+            "title": "Ancient swimmers, modern struggles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250615_SeaTurtleBrazil%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7da64b2bf887b141b62166cb12fb1e16",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250614",
             "fullstartdate": "202506141830",
