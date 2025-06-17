@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-16 00:50:53",
-    "Total": 1146,
+    "LastUpdate": "2025-06-17 00:50:48",
+    "Total": 1147,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250616",
+            "fullstartdate": "202506162200",
+            "enddate": "20250617",
+            "url": "/th?id=OHR.CumberlandOaks_FR-FR5406318422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumberlandOaks_FR-FR5406318422",
+            "copyright": "Forêt maritime sur l’île de Cumberland, Géorgie, États-Unis (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%AEle+de+Cumberland&form=hpcapt&filters=HpDate%3a%2220250616_2200%22",
+            "title": "Des arbres qui cachent la forêt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250616_CumberlandOaks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef711fe42fcf75afa42c7ee459aad03b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250615",
             "fullstartdate": "202506152200",
