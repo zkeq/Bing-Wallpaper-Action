@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-16 00:50:49",
-    "Total": 1146,
+    "LastUpdate": "2025-06-17 00:50:44",
+    "Total": 1147,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250616",
+            "fullstartdate": "202506161830",
+            "enddate": "20250617",
+            "url": "/th?id=OHR.CumberlandOaks_EN-IN9016883478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumberlandOaks_EN-IN9016883478",
+            "copyright": "Maritime Forest in Cumberland Island National Seashore, Georgia, United States (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Cumberland+Island+National+Seashore&form=hpcapt&filters=HpDate%3a%2220250616_1830%22",
+            "title": "Coastal quiet, untamed life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250616_CumberlandOaks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4db5237dfb9e67408486b7ec24072ab7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250615",
             "fullstartdate": "202506151830",
