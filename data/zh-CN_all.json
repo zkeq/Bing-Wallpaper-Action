@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-16 00:50:25",
-    "Total": 1146,
+    "LastUpdate": "2025-06-17 00:50:18",
+    "Total": 1147,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250616",
+            "fullstartdate": "202506161600",
+            "enddate": "20250617",
+            "url": "/th?id=OHR.CumberlandOaks_ZH-CN7265906780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CumberlandOaks_ZH-CN7265906780",
+            "copyright": "坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9D%8E%E4%BC%AF%E5%85%B0%E5%B2%9B%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "海岸静谧，野性依旧",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250616_CumberlandOaks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b9426e9680cbe1e1e0cbaec43ff1a3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250615",
             "fullstartdate": "202506151600",
