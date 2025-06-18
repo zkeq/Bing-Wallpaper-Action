@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-17 00:50:27",
-    "Total": 1147,
+    "LastUpdate": "2025-06-18 00:50:24",
+    "Total": 1148,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250617",
+            "fullstartdate": "202506171500",
+            "enddate": "20250618",
+            "url": "/th?id=OHR.AsianSwallowtail_JA-JP7699354207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AsianSwallowtail_JA-JP7699354207",
+            "copyright": "彼岸花にナミアゲハ (© lzh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BD%BC%E5%B2%B8%E8%8A%B1%E3%81%AB%E3%83%8A%E3%83%9F%E3%82%A2%E3%82%B2%E3%83%8F&form=hpcapt&filters=HpDate%3a%2220250617_1500%22",
+            "title": "今週は全米花粉媒介者週間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250617_AsianSwallowtail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afffb9d3ac6823be58cedd8bec2b636f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250616",
             "fullstartdate": "202506161500",
