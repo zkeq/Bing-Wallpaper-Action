@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-17 00:50:44",
-    "Total": 1147,
+    "LastUpdate": "2025-06-18 00:50:40",
+    "Total": 1148,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250617",
+            "fullstartdate": "202506171830",
+            "enddate": "20250618",
+            "url": "/th?id=OHR.AsianSwallowtail_EN-IN9285940259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AsianSwallowtail_EN-IN9285940259",
+            "copyright": "Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Asian+swallowtail&form=hpcapt&filters=HpDate%3a%2220250617_1830%22",
+            "title": "Let the pollinating games begin!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250617_AsianSwallowtail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc9aa6789d85b7f258ad7b8c17d96e52",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250616",
             "fullstartdate": "202506161830",
