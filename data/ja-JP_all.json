@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-18 00:50:24",
-    "Total": 1148,
+    "LastUpdate": "2025-06-19 00:50:23",
+    "Total": 1149,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250618",
+            "fullstartdate": "202506181500",
+            "enddate": "20250619",
+            "url": "/th?id=OHR.FireflySeason2025_JA-JP3057846302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FireflySeason2025_JA-JP3057846302",
+            "copyright": "ホタルが光る森, 岡山県 (© JGalione/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%8C%E5%85%89%E3%82%8B%E6%A3%AE%2c+%E5%B2%A1%E5%B1%B1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250618_1500%22",
+            "title": "初夏の夜を彩る光の舞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250618_FireflySeason2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "56ac3412a14464fba9636fa75796ed24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250617",
             "fullstartdate": "202506171500",
