@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-18 00:50:36",
-    "Total": 1145,
+    "LastUpdate": "2025-06-19 00:50:34",
+    "Total": 1146,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250618",
+            "fullstartdate": "202506182300",
+            "enddate": "20250619",
+            "url": "/th?id=OHR.DolomitiEstate_EN-GB8739058818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitiEstate_EN-GB8739058818",
+            "copyright": "Cinque Torri, Dolomites, Italy (© usabin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cinque+Torri&form=hpcapt&filters=HpDate%3a%2220250618_2300%22",
+            "title": "The sounds of silence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250618_DolomitiEstate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0619baafe60a5f2690b0cc2d17b3b3ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250617",
             "fullstartdate": "202506172300",
