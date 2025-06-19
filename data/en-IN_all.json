@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-18 00:50:40",
-    "Total": 1148,
+    "LastUpdate": "2025-06-19 00:50:38",
+    "Total": 1149,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250618",
+            "fullstartdate": "202506181830",
+            "enddate": "20250619",
+            "url": "/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SerengetiGiraffe_EN-IN6391269206",
+            "copyright": "Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Masai+giraffe&form=hpcapt&filters=HpDate%3a%2220250618_1830%22",
+            "title": "Spot the spots",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250618_SerengetiGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0196af9307361f2df5416637e075a7f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250617",
             "fullstartdate": "202506171830",
