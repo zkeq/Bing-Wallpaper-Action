@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-18 00:50:44",
-    "Total": 1148,
+    "LastUpdate": "2025-06-19 00:50:42",
+    "Total": 1149,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250618",
+            "fullstartdate": "202506182200",
+            "enddate": "20250619",
+            "url": "/th?id=OHR.WinterBegins_FR-FR5821587665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterBegins_FR-FR5821587665",
+            "copyright": "Plage à Santa Catarina, Brésil (© CaioCarvalhoPhotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina%2c+Br%C3%A9sil&form=hpcapt&filters=HpDate%3a%2220250618_2200%22",
+            "title": "Au rythme du sable et du temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250618_WinterBegins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c562a8438f2489d7bdbf00af6ceba34",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250617",
             "fullstartdate": "202506172200",
