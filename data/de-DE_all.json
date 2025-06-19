@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-18 00:50:28",
-    "Total": 1148,
+    "LastUpdate": "2025-06-19 00:50:27",
+    "Total": 1149,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250618",
+            "fullstartdate": "202506182200",
+            "enddate": "20250619",
+            "url": "/th?id=OHR.WinterBegins_DE-DE2019737039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterBegins_DE-DE2019737039",
+            "copyright": "Strand in Santa Catarina, Brasilien (© CaioCarvalhoPhotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220250618_2200%22",
+            "title": "Wellen der Zeit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250618_WinterBegins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1e3c1fc91e69922f20f4b8b9603425a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250617",
             "fullstartdate": "202506172200",
