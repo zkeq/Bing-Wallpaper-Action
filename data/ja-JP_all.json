@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-19 00:50:23",
-    "Total": 1149,
+    "LastUpdate": "2025-06-20 00:50:23",
+    "Total": 1150,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250619",
+            "fullstartdate": "202506191500",
+            "enddate": "20250620",
+            "url": "/th?id=OHR.IcelandSolstice_JA-JP9258082333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandSolstice_JA-JP9258082333",
+            "copyright": "セリャラントスフォス, アイスランド  (© Tom Mackie/AWL/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%83%AA%E3%83%A3%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%95%E3%82%A9%E3%82%B9%2c+%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89+&form=hpcapt&filters=HpDate%3a%2220250619_1500%22",
+            "title": "夕陽に染まる巨大な滝",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250619_IcelandSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "314bc4cee03fe24f58e06b2dfe5f5546",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250618",
             "fullstartdate": "202506181500",
