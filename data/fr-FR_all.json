@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-19 00:50:42",
-    "Total": 1149,
+    "LastUpdate": "2025-06-20 00:50:42",
+    "Total": 1150,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250619",
+            "fullstartdate": "202506192200",
+            "enddate": "20250620",
+            "url": "/th?id=OHR.SerengetiGiraffe_FR-FR9630201314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SerengetiGiraffe_FR-FR9630201314",
+            "copyright": "Girafe Masaï et son girafon, parc national du Serengeti, Tanzanie (© Alberto Cassani/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=girafe+Masa%C3%AF&form=hpcapt&filters=HpDate%3a%2220250619_2200%22",
+            "title": "La tendresse d’un monde à préserver",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250619_SerengetiGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "13a2595389361d0bf56afa6293f5c203",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250618",
             "fullstartdate": "202506182200",
