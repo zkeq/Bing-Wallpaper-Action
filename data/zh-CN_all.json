@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-20 00:50:14",
-    "Total": 1150,
+    "LastUpdate": "2025-06-21 00:50:13",
+    "Total": 1151,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250620",
+            "fullstartdate": "202506201600",
+            "enddate": "20250621",
+            "url": "/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774",
+            "copyright": "雾中莲花，中国佛山 (© huoguangliang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%B7%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+            "title": "此花端合在瑶池",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250620_SummerSolsticeY25%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "01207ff419ddbad6998299338f32b8c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250619",
             "fullstartdate": "202506191600",
