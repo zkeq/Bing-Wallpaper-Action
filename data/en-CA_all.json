@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-20 00:50:31",
-    "Total": 1149,
+    "LastUpdate": "2025-06-21 00:50:29",
+    "Total": 1150,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250620",
+            "fullstartdate": "202506200400",
+            "enddate": "20250621",
+            "url": "/th?id=OHR.IcelandSolstice_EN-CA5496259238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IcelandSolstice_EN-CA5496259238",
+            "copyright": "Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Summer+solstice&form=hpcapt&filters=HpDate%3a%2220250620_0400%22",
+            "title": "All set for sunset",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250620_IcelandSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d082f2bfc3c4fbab786901d0128a3180",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250619",
             "fullstartdate": "202506190400",
