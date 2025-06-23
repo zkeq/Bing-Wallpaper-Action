@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-22 00:50:49",
-    "Total": 1151,
+    "LastUpdate": "2025-06-23 00:50:42",
+    "Total": 1152,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250622",
+            "fullstartdate": "202506220400",
+            "enddate": "20250623",
+            "url": "/th?id=OHR.AmazonEcuador_EN-CA0127990523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmazonEcuador_EN-CA0127990523",
+            "copyright": "Amazon rainforest, Ecuador (© Mark Fox/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Amazon+rainforest+Ecuador&form=hpcapt&filters=HpDate%3a%2220250622_0400%22",
+            "title": "Jungle all the way",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250622_AmazonEcuador%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93ef0aee6c14951b45c50a19b13dadc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250621",
             "fullstartdate": "202506210400",
