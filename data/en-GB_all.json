@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-22 00:50:54",
-    "Total": 1149,
+    "LastUpdate": "2025-06-23 00:50:46",
+    "Total": 1150,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250622",
+            "fullstartdate": "202506222300",
+            "enddate": "20250623",
+            "url": "/th?id=OHR.DresdenElbe_EN-GB9622986558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DresdenElbe_EN-GB9622986558",
+            "copyright": "Elbe river in Dresden, Germany (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dresden&form=hpcapt&filters=HpDate%3a%2220250622_2300%22",
+            "title": "From ruins to resilience",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250622_DresdenElbe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e72744119202ac29960e4c9af377e407",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250621",
             "fullstartdate": "202506212300",
