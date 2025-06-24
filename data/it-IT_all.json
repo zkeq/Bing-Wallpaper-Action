@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-23 00:50:58",
-    "Total": 1153,
+    "LastUpdate": "2025-06-24 00:50:49",
+    "Total": 1154,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250623",
+            "fullstartdate": "202506232200",
+            "enddate": "20250624",
+            "url": "/th?id=OHR.DelicateArch_IT-IT6581270768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DelicateArch_IT-IT6581270768",
+            "copyright": "Delicate Arch, Parco Nazionale degli Arches, Utah, USA (© mmac72/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+degli+Arches&form=hpcapt",
+            "title": "Arco o Parco Geologico?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250623_DelicateArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "07eb74a9f979b3d4e8c60e02fb7dab9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250622",
             "fullstartdate": "202506222200",
