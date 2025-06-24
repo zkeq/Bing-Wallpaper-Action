@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-23 00:50:50",
-    "Total": 1153,
+    "LastUpdate": "2025-06-24 00:50:41",
+    "Total": 1154,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250623",
+            "fullstartdate": "202506231830",
+            "enddate": "20250624",
+            "url": "/th?id=OHR.DelicateArch_EN-IN0498341649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DelicateArch_EN-IN0498341649",
+            "copyright": "Delicate Arch, Arches National Park, Utah, United States (© mmac72/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Delicate+Arch+Arches+National+Park+Utah&form=hpcapt&filters=HpDate%3a%2220250623_1830%22",
+            "title": "Nature took its time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250623_DelicateArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a6d94b1e45d055dd501831c59f6e7d31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250622",
             "fullstartdate": "202506221830",
