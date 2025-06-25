@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-24 00:50:29",
-    "Total": 1154,
+    "LastUpdate": "2025-06-25 00:50:36",
+    "Total": 1155,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250624",
+            "fullstartdate": "202506242200",
+            "enddate": "20250625",
+            "url": "/th?id=OHR.GlastonburyScenic_DE-DE4536606439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlastonburyScenic_DE-DE4536606439",
+            "copyright": "St. Michael's Church Tower auf dem Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Glastonbury+Festival&form=hpcapt&filters=HpDate%3a%2220250624_2200%22",
+            "title": "Ein Ort der Mythen und Musik",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250624_GlastonburyScenic%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4c266b115250757f8a2213a029d17d7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250623",
             "fullstartdate": "202506232200",
