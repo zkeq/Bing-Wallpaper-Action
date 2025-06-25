@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-24 00:50:24",
-    "Total": 1154,
+    "LastUpdate": "2025-06-25 00:50:32",
+    "Total": 1155,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250624",
+            "fullstartdate": "202506241500",
+            "enddate": "20250625",
+            "url": "/th?id=OHR.GlastonburyScenic_JA-JP9733045581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlastonburyScenic_JA-JP9733045581",
+            "copyright": "グラストンベリー・トー, イングランド (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%88%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%2c+%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250624_1500%22",
+            "title": "今日からグラストンベリー・フェスティバル",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250624_GlastonburyScenic%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a63335cd9a8c1aa857a3c87ecef2dad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250623",
             "fullstartdate": "202506231500",
