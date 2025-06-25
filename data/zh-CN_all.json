@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-24 00:50:16",
-    "Total": 1154,
+    "LastUpdate": "2025-06-25 00:50:23",
+    "Total": 1155,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250624",
+            "fullstartdate": "202506241600",
+            "enddate": "20250625",
+            "url": "/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlastonburyScenic_ZH-CN9162571249",
+            "copyright": "格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E6%8B%89%E6%96%AF%E9%A1%BF%E4%BC%AF%E9%87%8C%E9%9F%B3%E4%B9%90%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "这里举办的是哪个音乐节？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250624_GlastonburyScenic%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc7c44d7149ecad1ffb83dc463cdb19a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250623",
             "fullstartdate": "202506231600",
