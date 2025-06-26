@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-25 00:50:51",
-    "Total": 1155,
+    "LastUpdate": "2025-06-26 00:50:48",
+    "Total": 1156,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250625",
+            "fullstartdate": "202506252200",
+            "enddate": "20250626",
+            "url": "/th?id=OHR.HorseheadRock_FR-FR1124567196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HorseheadRock_FR-FR1124567196",
+            "copyright": "Voie lactée, Horse Head Rock, Nouvelle-Galles du Sud, Australie (© Philip Thurston/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Horse+Head+Rock+Bermagui&form=hpcapt&filters=HpDate%3a%2220250625_2200%22",
+            "title": "Un cheval de pierre au milieu de l’océan",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250625_HorseheadRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c280b2245b2adfb70c34269e9cd9bd58",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250624",
             "fullstartdate": "202506242200",
