@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-26 00:50:36",
-    "Total": 1155,
+    "LastUpdate": "2025-06-27 00:50:35",
+    "Total": 1156,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250626",
+            "fullstartdate": "202506260400",
+            "enddate": "20250627",
+            "url": "/th?id=OHR.HorseheadRock_EN-CA0845252877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HorseheadRock_EN-CA0845252877",
+            "copyright": "The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Horse+Head+Rock+Bermagui&form=hpcapt&filters=HpDate%3a%2220250626_0400%22",
+            "title": "Horsing around the coastline",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250626_HorseheadRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "621167e3ecb8a069df7bb493b922c11b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250625",
             "fullstartdate": "202506250400",
