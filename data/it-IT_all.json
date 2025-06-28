@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-27 00:50:50",
-    "Total": 1157,
+    "LastUpdate": "2025-06-28 00:50:49",
+    "Total": 1158,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250627",
+            "fullstartdate": "202506272200",
+            "enddate": "20250628",
+            "url": "/th?id=OHR.PrideParade_IT-IT2013687797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideParade_IT-IT2013687797",
+            "copyright": "Bandiere Arcobaleno al New York Pride, USA (© Alan Schein/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=I+moti+di+Stonewall&form=hpcapt",
+            "title": "Orgoglio e Bandiere!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250627_PrideParade%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "135e29c85a0ff8ea3dd9e321590cd2ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250626",
             "fullstartdate": "202506262200",
