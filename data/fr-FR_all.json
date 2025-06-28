@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-27 00:50:46",
-    "Total": 1157,
+    "LastUpdate": "2025-06-28 00:50:45",
+    "Total": 1158,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250627",
+            "fullstartdate": "202506272200",
+            "enddate": "20250628",
+            "url": "/th?id=OHR.PrideParade_FR-FR6694433867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideParade_FR-FR6694433867",
+            "copyright": "Drapeaux arc-en-ciel à la Marche des Fiertés de New York, États-Unis (© Alan Schein/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=marche+LGBTQIA%2b+Pride&form=hpcapt&filters=HpDate%3a%2220250627_2200%22",
+            "title": "Une marche pour la liberté",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250627_PrideParade%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f809d66211996698c044c77c98779698",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250626",
             "fullstartdate": "202506262200",
