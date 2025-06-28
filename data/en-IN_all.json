@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-27 00:50:42",
-    "Total": 1157,
+    "LastUpdate": "2025-06-28 00:50:41",
+    "Total": 1158,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250627",
+            "fullstartdate": "202506271830",
+            "enddate": "20250628",
+            "url": "/th?id=OHR.PrideParade_EN-IN2010815861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideParade_EN-IN2010815861",
+            "copyright": "Rainbow flags at New York Pride, United States (© Alan Schein/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Stonewall+Uprising&form=hpcapt&filters=HpDate%3a%2220250627_1830%22",
+            "title": "The riot that lit the rainbow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250627_PrideParade%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "735864f49a08a84329acef984334fa96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250626",
             "fullstartdate": "202506261830",
