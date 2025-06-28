@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-27 00:50:18",
-    "Total": 1157,
+    "LastUpdate": "2025-06-28 00:50:15",
+    "Total": 1158,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250627",
+            "fullstartdate": "202506271600",
+            "enddate": "20250628",
+            "url": "/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WatertowerMannheim_ZH-CN0692039329",
+            "copyright": "曼海姆水塔, 德国 (© no limit pictures/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9B%BC%E6%B5%B7%E5%A7%86%E6%B0%B4%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "从实用建筑到地标象征",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250627_WatertowerMannheim%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4c7b207072b19c735415c61405a24264",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250626",
             "fullstartdate": "202506261600",
