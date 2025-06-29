@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-28 00:50:49",
-    "Total": 1158,
+    "LastUpdate": "2025-06-29 00:51:10",
+    "Total": 1159,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250628",
+            "fullstartdate": "202506282200",
+            "enddate": "20250629",
+            "url": "/th?id=OHR.BandaIsland_IT-IT2071858356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BandaIsland_IT-IT2071858356",
+            "copyright": "Laguna blu di Pulau Ay, Isole Banda, Indonesia (© fabio lamanna/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Isole+Banda+Indonesia&form=hpcapt",
+            "title": "Sussurri Tropicali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250628_BandaIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "467a286c46a4580d18505516fd07bfc7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250627",
             "fullstartdate": "202506272200",
