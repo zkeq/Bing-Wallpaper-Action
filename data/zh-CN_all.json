@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-29 00:50:33",
-    "Total": 1159,
+    "LastUpdate": "2025-06-30 00:50:27",
+    "Total": 1160,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250629",
+            "fullstartdate": "202506291600",
+            "enddate": "20250630",
+            "url": "/th?id=OHR.WolfeCrater_ZH-CN1652906326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WolfeCrater_ZH-CN1652906326",
+            "copyright": "沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "是谁击中了地面？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250629_WolfeCrater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "490b906651735cc38fd09e75afbed655",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250628",
             "fullstartdate": "202506281600",
