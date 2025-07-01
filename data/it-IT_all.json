@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-30 00:51:01",
-    "Total": 1160,
+    "LastUpdate": "2025-07-01 00:51:09",
+    "Total": 1161,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250630",
+            "fullstartdate": "202506302200",
+            "enddate": "20250701",
+            "url": "/th?id=OHR.CanadaDayFogo_IT-IT2208843144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanadaDayFogo_IT-IT2208843144",
+            "copyright": "Villaggio di pescatori di Tilting, Isola di Fogo, Terranova e Labrador, Canada (© FedevPhoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Festa+del+Canada&form=hpcapt",
+            "title": "Sogno di una Fresca Estate",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250630_CanadaDayFogo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f9e7f152099307b7cdeb90f1b8b944d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250629",
             "fullstartdate": "202506292200",
