@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-30 00:50:53",
-    "Total": 1160,
+    "LastUpdate": "2025-07-01 00:51:01",
+    "Total": 1161,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250630",
+            "fullstartdate": "202506301830",
+            "enddate": "20250701",
+            "url": "/th?id=OHR.KeralaHouseboats_EN-IN3537088049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeralaHouseboats_EN-IN3537088049",
+            "copyright": "Houseboats on Vembanad lake, Kerala (© artherng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=van+mahotsav&form=hpcapt&filters=HpDate%3a%2220250630_1830%22",
+            "title": "A green escape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250630_KeralaHouseboats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aee63e562e85eed15b5ff7918622cd05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250629",
             "fullstartdate": "202506291830",
