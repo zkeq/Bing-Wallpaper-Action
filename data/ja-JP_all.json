@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-30 00:50:37",
-    "Total": 1160,
+    "LastUpdate": "2025-07-01 00:50:44",
+    "Total": 1161,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250630",
+            "fullstartdate": "202506301500",
+            "enddate": "20250701",
+            "url": "/th?id=OHR.CanadaDayFogo_JA-JP7164591765_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CanadaDayFogo_JA-JP7164591765",
+            "copyright": "赤と白の漁師小屋, カナダ (© FedevPhoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%BC%81%E6%9D%91%2c+%E3%82%AB%E3%83%8A%E3%83%80&form=hpcapt&filters=HpDate%3a%2220250630_1500%22",
+            "title": "今日はカナダの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250630_CanadaDayFogo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0d66a3f86014e5f12021bd475fb0b817",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250629",
             "fullstartdate": "202506291500",
