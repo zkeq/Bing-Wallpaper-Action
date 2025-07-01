@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-06-30 00:50:45",
-    "Total": 1159,
+    "LastUpdate": "2025-07-01 00:50:52",
+    "Total": 1160,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250630",
+            "fullstartdate": "202506300400",
+            "enddate": "20250701",
+            "url": "/th?id=OHR.WolfeCrater_EN-CA2112068700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WolfeCrater_EN-CA2112068700",
+            "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Asteroid+Day&form=hpcapt&filters=HpDate%3a%2220250630_0400%22",
+            "title": "Rock-solid defence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250630_WolfeCrater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2aa24db444a79f175fb7be2aed97c34e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250629",
             "fullstartdate": "202506290400",
