@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-01 00:50:35",
-    "Total": 1161,
+    "LastUpdate": "2025-07-02 00:50:17",
+    "Total": 1162,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250701",
+            "fullstartdate": "202507011600",
+            "enddate": "20250702",
+            "url": "/th?id=OHR.MaroonClownfish_ZH-CN5071934692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaroonClownfish_ZH-CN5071934692",
+            "copyright": "被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%88%BA%E9%A2%8A%E6%B5%B7%E8%91%B5%E9%B1%BC&form=hpcapt&mkt=zh-cn",
+            "title": "触手之间的依赖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250701_MaroonClownfish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af6208ba3e67b6ff7af54d03c040160e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250630",
             "fullstartdate": "202506301600",
