@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-01 00:51:05",
-    "Total": 1161,
+    "LastUpdate": "2025-07-02 00:50:47",
+    "Total": 1162,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250701",
+            "fullstartdate": "202507012200",
+            "enddate": "20250702",
+            "url": "/th?id=OHR.MaroonClownfish_FR-FR8871091841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaroonClownfish_FR-FR8871091841",
+            "copyright": "Poisson-clown à joues épineuses entouré d'une anémone bulle, baie de Milne, Papouasie-Nouvelle-Guinée (© Fred Bavendam/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Poisson-clown+%C3%A0+joues+%C3%A9pineuses&form=hpcapt&filters=HpDate%3a%2220250701_2200%22",
+            "title": "Le gardien aux joues piquantes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250701_MaroonClownfish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2529c2e4863b0de39ca711b2e9a32a9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250630",
             "fullstartdate": "202506302200",
