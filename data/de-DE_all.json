@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-02 00:50:30",
-    "Total": 1162,
+    "LastUpdate": "2025-07-03 00:50:29",
+    "Total": 1163,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250702",
+            "fullstartdate": "202507022200",
+            "enddate": "20250703",
+            "url": "/th?id=OHR.RainbowRiver_DE-DE1687862683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RainbowRiver_DE-DE1687862683",
+            "copyright": "Rainbow River im Rainbow Springs State Park, Florida, USA (© Michel Roggo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Rainbow+River+Florida&form=hpcapt&filters=HpDate%3a%2220250702_2200%22",
+            "title": "Ein kristallklares Juwel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250702_RainbowRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2b97aeea9a9bc551f88b0b7be792c7c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250701",
             "fullstartdate": "202507012200",
