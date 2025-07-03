@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-02 00:50:17",
-    "Total": 1162,
+    "LastUpdate": "2025-07-03 00:50:16",
+    "Total": 1163,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250702",
+            "fullstartdate": "202507021600",
+            "enddate": "20250703",
+            "url": "/th?id=OHR.RainbowRiver_ZH-CN5320095849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RainbowRiver_ZH-CN5320095849",
+            "copyright": "彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%E5%BD%A9%E8%99%B9%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "彩虹河的清澈拥抱",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250702_RainbowRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ea18863e58698c9af16d61e4b37ecba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250701",
             "fullstartdate": "202507011600",
