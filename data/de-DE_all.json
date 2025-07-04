@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-03 00:50:29",
-    "Total": 1163,
+    "LastUpdate": "2025-07-04 00:50:28",
+    "Total": 1164,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250703",
+            "fullstartdate": "202507032200",
+            "enddate": "20250704",
+            "url": "/th?id=OHR.OroseiSardegna_DE-DE8440593584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OroseiSardegna_DE-DE8440593584",
+            "copyright": "Orosei, Sardinien, Italien (© EyeEm Mobile GmbH/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Orosei+Sardinien&form=hpcapt&filters=HpDate%3a%2220250703_2200%22",
+            "title": "Ein kleines Juwel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250703_OroseiSardegna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9fbb955170924350f67505571d25a85d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250702",
             "fullstartdate": "202507022200",
