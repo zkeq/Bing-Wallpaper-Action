@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-03 00:50:16",
-    "Total": 1163,
+    "LastUpdate": "2025-07-04 00:50:14",
+    "Total": 1164,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250703",
+            "fullstartdate": "202507031600",
+            "enddate": "20250704",
+            "url": "/th?id=OHR.OroseiSardegna_ZH-CN5789138034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OroseiSardegna_ZH-CN5789138034",
+            "copyright": "奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%92%92%E4%B8%81%E5%B2%9B%E5%A5%A5%E7%BD%97%E5%A1%9E&form=hpcapt&mkt=zh-cn",
+            "title": "水、空气、岩石",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250703_OroseiSardegna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "18710d4ae9da20c28e7c45d4fa9f2215",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250702",
             "fullstartdate": "202507021600",
