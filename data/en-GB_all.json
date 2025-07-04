@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-03 00:50:37",
-    "Total": 1160,
+    "LastUpdate": "2025-07-04 00:50:36",
+    "Total": 1161,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250703",
+            "fullstartdate": "202507032300",
+            "enddate": "20250704",
+            "url": "/th?id=OHR.OroseiSardegna_EN-GB2474653063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OroseiSardegna_EN-GB2474653063",
+            "copyright": "Orosei, Sardinia, Italy (© EyeEm Mobile GmbH/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Orosei+Sardinia&form=hpcapt&filters=HpDate%3a%2220250703_2300%22",
+            "title": "Water, air, rock",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250703_OroseiSardegna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9959ec418b1efcfccddf49222faaa3c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250702",
             "fullstartdate": "202507022300",
