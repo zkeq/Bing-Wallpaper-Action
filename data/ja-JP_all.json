@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-04 00:50:24",
-    "Total": 1164,
+    "LastUpdate": "2025-07-05 00:50:19",
+    "Total": 1165,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250704",
+            "fullstartdate": "202507041500",
+            "enddate": "20250705",
+            "url": "/th?id=OHR.TourCyclists_JA-JP7957952597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TourCyclists_JA-JP7957952597",
+            "copyright": "ツールマレー峠を越えるサイクリストたち, フランス (© THOMAS SAMSON/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%84%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250704_1500%22",
+            "title": "今日はツール・ド・フランスの開幕日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250704_TourCyclists%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "950119016bc06a5e0c6a64b35d7519cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250703",
             "fullstartdate": "202507031500",
