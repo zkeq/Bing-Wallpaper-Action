@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-05 00:50:10",
-    "Total": 1165,
+    "LastUpdate": "2025-07-06 00:50:34",
+    "Total": 1166,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250705",
+            "fullstartdate": "202507051600",
+            "enddate": "20250706",
+            "url": "/th?id=OHR.MesquiteFlats_ZH-CN7152959188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MesquiteFlats_ZH-CN7152959188",
+            "copyright": "死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AD%BB%E4%BA%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "时光沙丘",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250705_MesquiteFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a9d8422c4053904c2ff2cb0278cceef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250704",
             "fullstartdate": "202507041600",
