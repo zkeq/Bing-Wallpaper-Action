@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-05 00:50:32",
-    "Total": 1162,
+    "LastUpdate": "2025-07-06 00:50:55",
+    "Total": 1163,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250705",
+            "fullstartdate": "202507052300",
+            "enddate": "20250706",
+            "url": "/th?id=OHR.TourCyclists_EN-GB3254018245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TourCyclists_EN-GB3254018245",
+            "copyright": "Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220250705_2300%22",
+            "title": "Pedalling through history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250705_TourCyclists%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "008f16b03c565e3350e54d6b46f47019",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250704",
             "fullstartdate": "202507042300",
