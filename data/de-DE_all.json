@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-05 00:50:23",
-    "Total": 1165,
+    "LastUpdate": "2025-07-06 00:50:47",
+    "Total": 1166,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250705",
+            "fullstartdate": "202507052200",
+            "enddate": "20250706",
+            "url": "/th?id=OHR.MesquiteFlats_DE-DE8559445673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MesquiteFlats_DE-DE8559445673",
+            "copyright": "Mesquite Flat Sanddünen im Death-Valley-Nationalpark, Kalifornien, USA (© Bryan Jolley/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Death+Valley+Nationalpark&form=hpcapt&filters=HpDate%3a%2220250705_2200%22",
+            "title": "Grenzenlose Weiten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250705_MesquiteFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7fd6e5b64f251891685738c1ec1e3ad6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250704",
             "fullstartdate": "202507042200",
