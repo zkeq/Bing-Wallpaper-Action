@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-06 00:50:39",
-    "Total": 1166,
+    "LastUpdate": "2025-07-07 00:50:36",
+    "Total": 1167,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250706",
+            "fullstartdate": "202507060700",
+            "enddate": "20250707",
+            "url": "/th?id=OHR.MesquiteFlats_EN-US0638943216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MesquiteFlats_EN-US0638943216",
+            "copyright": "Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Death+Valley+National+Park&form=hpcapt&filters=HpDate%3a%2220250706_0700%22",
+            "title": "Sands of time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250706_MesquiteFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c34c145f12636ce1f5de0d2e753eede8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250705",
             "fullstartdate": "202507050700",
