@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-06 00:50:55",
-    "Total": 1163,
+    "LastUpdate": "2025-07-07 00:50:53",
+    "Total": 1164,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250706",
+            "fullstartdate": "202507062300",
+            "enddate": "20250707",
+            "url": "/th?id=OHR.ShetlandGannets_EN-GB3393360437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShetlandGannets_EN-GB3393360437",
+            "copyright": "Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Northern+gannet&form=hpcapt&filters=HpDate%3a%2220250706_2300%22",
+            "title": "Flash, splash, then snack",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250706_ShetlandGannets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2343440c69a50cda156fab45a9528e7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250705",
             "fullstartdate": "202507052300",
