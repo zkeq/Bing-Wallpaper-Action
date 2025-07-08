@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-07 00:50:53",
-    "Total": 1164,
+    "LastUpdate": "2025-07-08 00:50:36",
+    "Total": 1165,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250707",
+            "fullstartdate": "202507072300",
+            "enddate": "20250708",
+            "url": "/th?id=OHR.SecedaPeak_EN-GB3566713834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SecedaPeak_EN-GB3566713834",
+            "copyright": "Seceda, a peak in theDolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Dolomites&form=hpcapt&filters=HpDate%3a%2220250707_2300%22",
+            "title": "Beauty with an edge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250707_SecedaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8e5681b12ba46cc1bae26b643a3438c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250706",
             "fullstartdate": "202507062300",
