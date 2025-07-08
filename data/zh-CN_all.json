@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-07 00:50:31",
-    "Total": 1167,
+    "LastUpdate": "2025-07-08 00:50:15",
+    "Total": 1168,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250707",
+            "fullstartdate": "202507071600",
+            "enddate": "20250708",
+            "url": "/th?id=OHR.SecedaPeak_ZH-CN7633793128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SecedaPeak_ZH-CN7633793128",
+            "copyright": "塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn",
+            "title": "锋芒毕露的美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250707_SecedaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ae0b97ae4a2fbd136d489f90ce4683c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250706",
             "fullstartdate": "202507061600",
