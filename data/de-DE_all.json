@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-07 00:50:45",
-    "Total": 1167,
+    "LastUpdate": "2025-07-08 00:50:27",
+    "Total": 1168,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250707",
+            "fullstartdate": "202507072200",
+            "enddate": "20250708",
+            "url": "/th?id=OHR.SecedaPeak_DE-DE7304303596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SecedaPeak_DE-DE7304303596",
+            "copyright": "Seceda, ein Gipfel in den Dolomiten, Südtirol, Italien (© Kalyakan/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Dolomiten&form=hpcapt&filters=HpDate%3a%2220250707_2200%22",
+            "title": "Erhabene Gipfel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250707_SecedaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f5ee29b06b4580d8a703f2a540ce423",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250706",
             "fullstartdate": "202507062200",
