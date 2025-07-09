@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-08 00:50:40",
-    "Total": 1168,
+    "LastUpdate": "2025-07-09 00:50:49",
+    "Total": 1169,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250708",
+            "fullstartdate": "202507081830",
+            "enddate": "20250709",
+            "url": "/th?id=OHR.ConstitucionStation_EN-IN1557564124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConstitucionStation_EN-IN1557564124",
+            "copyright": "Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Argentina+Independence+Day&form=hpcapt&filters=HpDate%3a%2220250708_1830%22",
+            "title": "The rise of a republic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250708_ConstitucionStation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0530e18f046074b0d253db7f82cdca24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250707",
             "fullstartdate": "202507071830",
