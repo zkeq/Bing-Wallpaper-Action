@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-08 00:50:48",
-    "Total": 1168,
+    "LastUpdate": "2025-07-09 00:50:56",
+    "Total": 1169,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250708",
+            "fullstartdate": "202507082200",
+            "enddate": "20250709",
+            "url": "/th?id=OHR.ConstitucionStation_IT-IT2913035611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConstitucionStation_IT-IT2913035611",
+            "copyright": "Stazione Ferroviaria di Constitución, Buenos Aires, Argentina (© Grafissimo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Argentina&form=hpcapt",
+            "title": "Sorge il Sole della Repubblica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250708_ConstitucionStation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7cae42e6d56057ca69b88c93233b7a4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250707",
             "fullstartdate": "202507072200",
