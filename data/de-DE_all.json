@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-08 00:50:27",
-    "Total": 1168,
+    "LastUpdate": "2025-07-09 00:50:37",
+    "Total": 1169,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250708",
+            "fullstartdate": "202507082200",
+            "enddate": "20250709",
+            "url": "/th?id=OHR.ConstitucionStation_DE-DE6862611016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ConstitucionStation_DE-DE6862611016",
+            "copyright": "Constitución-Bahnhof, Buenos Aires, Argentinien (© Grafissimo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Buenos+Aires+Argentinien&form=hpcapt&filters=HpDate%3a%2220250708_2200%22",
+            "title": "„Das Paris Südamerikas“",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250708_ConstitucionStation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "57c54509905ad06d87a6432d662bef0e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250707",
             "fullstartdate": "202507072200",
