@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-09 00:50:53",
-    "Total": 1169,
+    "LastUpdate": "2025-07-10 00:50:51",
+    "Total": 1170,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250709",
+            "fullstartdate": "202507092200",
+            "enddate": "20250710",
+            "url": "/th?id=OHR.BahamaBlues_FR-FR8439615037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BahamaBlues_FR-FR8439615037",
+            "copyright": "Eaux turquoise des Bahamas (© BlueOrange Studio/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Les+Bahamas&form=hpcapt&filters=HpDate%3a%2220250709_2200%22",
+            "title": "Bahamas, une nation en fête",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250709_BahamaBlues%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "43a7ca22566d4d40e62fead72ee50389",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250708",
             "fullstartdate": "202507082200",
