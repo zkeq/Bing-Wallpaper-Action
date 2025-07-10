@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-09 00:50:56",
-    "Total": 1169,
+    "LastUpdate": "2025-07-10 00:50:55",
+    "Total": 1170,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250709",
+            "fullstartdate": "202507092200",
+            "enddate": "20250710",
+            "url": "/th?id=OHR.BahamaBlues_IT-IT2994052693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BahamaBlues_IT-IT2994052693",
+            "copyright": "Acque turchesi delle Bahamas (© BlueOrange Studio/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Stato+delle+Bahamas&form=hpcapt",
+            "title": "Onde e Libertà",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250709_BahamaBlues%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "285076e622bc932385cf7124cdbb1b61",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250708",
             "fullstartdate": "202507082200",
