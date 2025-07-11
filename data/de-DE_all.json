@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-10 00:50:35",
-    "Total": 1170,
+    "LastUpdate": "2025-07-11 00:50:33",
+    "Total": 1171,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250710",
+            "fullstartdate": "202507102200",
+            "enddate": "20250711",
+            "url": "/th?id=OHR.TokyoSunrise_DE-DE6224327686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TokyoSunrise_DE-DE6224327686",
+            "copyright": "Tokio bei Sonnenaufgang, Japan (© pongnathee kluaythong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltbev%C3%B6lkerungstag&form=hpcapt&filters=HpDate%3a%2220250710_2200%22",
+            "title": "Wir gehören alle dazu",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250710_TokyoSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "308a7eae9345c73430b183be28ecf900",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250709",
             "fullstartdate": "202507092200",
