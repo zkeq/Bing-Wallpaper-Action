@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-10 00:50:27",
-    "Total": 1170,
+    "LastUpdate": "2025-07-11 00:50:25",
+    "Total": 1171,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250710",
+            "fullstartdate": "202507100700",
+            "enddate": "20250711",
+            "url": "/th?id=OHR.BahamaBlues_EN-US1367794856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BahamaBlues_EN-US1367794856",
+            "copyright": "Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=the+Bahamas&form=hpcapt&filters=HpDate%3a%2220250710_0700%22",
+            "title": "To the waves of freedom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250710_BahamaBlues%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1032ee1a930c6481e481286bd5c25b59",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250709",
             "fullstartdate": "202507090700",
