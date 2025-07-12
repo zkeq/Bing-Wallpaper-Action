@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-11 00:50:33",
-    "Total": 1171,
+    "LastUpdate": "2025-07-12 00:50:47",
+    "Total": 1172,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250711",
+            "fullstartdate": "202507112200",
+            "enddate": "20250712",
+            "url": "/th?id=OHR.ThomsonGazelle_DE-DE6657498392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThomsonGazelle_DE-DE6657498392",
+            "copyright": "Thomson-Gazelle, Mutter und Kitz, Maasai Mara, Kenia (© Gallo Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Thomson-Gazelle&form=hpcapt&filters=HpDate%3a%2220250711_2200%22",
+            "title": "Nach dem Vorbild der Mutter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250711_ThomsonGazelle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fcbebbcdb936d48f38c30a238d42f7c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250710",
             "fullstartdate": "202507102200",
