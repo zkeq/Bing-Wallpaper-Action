@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-11 00:50:20",
-    "Total": 1171,
+    "LastUpdate": "2025-07-12 00:50:34",
+    "Total": 1172,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250711",
+            "fullstartdate": "202507111600",
+            "enddate": "20250712",
+            "url": "/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThomsonGazelle_ZH-CN0413171014",
+            "copyright": "汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B1%A4%E6%B0%8F%E7%9E%AA%E7%BE%9A&form=hpcapt&mkt=zh-cn",
+            "title": "跟随妈妈的脚步",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250711_ThomsonGazelle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ba149f5a916e37b15165710864ed41b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250710",
             "fullstartdate": "202507101600",
