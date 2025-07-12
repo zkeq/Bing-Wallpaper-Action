@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-11 00:50:50",
-    "Total": 1171,
+    "LastUpdate": "2025-07-12 00:51:03",
+    "Total": 1172,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250711",
+            "fullstartdate": "202507112200",
+            "enddate": "20250712",
+            "url": "/th?id=OHR.ThomsonGazelle_FR-FR0750503899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThomsonGazelle_FR-FR0750503899",
+            "copyright": "Gazelle de Thomson, mère et faon, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Gazelle+de+Thomson&form=hpcapt&filters=HpDate%3a%2220250711_2200%22",
+            "title": "Dans l’or de la savane, une vie commence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250711_ThomsonGazelle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6f929102df943de01bbb416ff2e2cdf5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250710",
             "fullstartdate": "202507102200",
