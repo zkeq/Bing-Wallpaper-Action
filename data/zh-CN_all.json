@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-12 00:50:34",
-    "Total": 1172,
+    "LastUpdate": "2025-07-13 00:50:37",
+    "Total": 1173,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250712",
+            "fullstartdate": "202507121600",
+            "enddate": "20250713",
+            "url": "/th?id=OHR.BasaltColumns_ZH-CN0743036217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BasaltColumns_ZH-CN0743036217",
+            "copyright": "卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B2%A9%E7%9F%B3%E5%9C%B0%E8%B4%A8%E5%AD%A6&form=hpcapt&mkt=zh-cn",
+            "title": "层层叠叠的岩石",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250712_BasaltColumns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8bf8e48fdb73f8f2a85dfeff409e6e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250711",
             "fullstartdate": "202507111600",
