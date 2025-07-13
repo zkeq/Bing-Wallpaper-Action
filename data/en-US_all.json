@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-12 00:50:39",
-    "Total": 1172,
+    "LastUpdate": "2025-07-13 00:50:42",
+    "Total": 1173,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250712",
+            "fullstartdate": "202507120700",
+            "enddate": "20250713",
+            "url": "/th?id=OHR.ThomsonGazelle_EN-US4354285846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThomsonGazelle_EN-US4354285846",
+            "copyright": "Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Thomson%27s+gazelle&form=hpcapt&filters=HpDate%3a%2220250712_0700%22",
+            "title": "Following mom's lead",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250712_ThomsonGazelle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75be8d1462c77bc51191931bea6e1713",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250711",
             "fullstartdate": "202507110700",
