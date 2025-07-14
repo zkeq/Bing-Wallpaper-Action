@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-13 00:51:09",
-    "Total": 1173,
+    "LastUpdate": "2025-07-14 00:51:00",
+    "Total": 1174,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250713",
+            "fullstartdate": "202507132200",
+            "enddate": "20250714",
+            "url": "/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819",
+            "copyright": "Cattedrale di Palermo, Palermo, Sicilia (© Sean Pavone/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Rosalia+Palermo&form=hpcapt",
+            "title": "Sacro o Profano?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250713_CattedraleDiPalermo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2df460f83fdf6bf58c0988b04b7d41d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250712",
             "fullstartdate": "202507122200",
