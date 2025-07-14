@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-13 00:51:05",
-    "Total": 1173,
+    "LastUpdate": "2025-07-14 00:50:56",
+    "Total": 1174,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250713",
+            "fullstartdate": "202507132200",
+            "enddate": "20250714",
+            "url": "/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BastilleDayCelebration_FR-FR1452357775",
+            "copyright": "Feu d'artifice du 14 juillet au-dessus de la citadelle de Sisteron au crépuscule, Provence (© francois-roux/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=f%C3%AAte+nationale+fran%C3%A7aise&form=hpcapt&filters=HpDate%3a%2220250713_2200%22",
+            "title": "Quand la liberté éclaire le ciel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250713_BastilleDayCelebration%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8200d41f3caf8f7029471cb1e108277f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250712",
             "fullstartdate": "202507122200",
