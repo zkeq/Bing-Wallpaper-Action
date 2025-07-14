@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-13 00:50:42",
-    "Total": 1173,
+    "LastUpdate": "2025-07-14 00:50:32",
+    "Total": 1174,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250713",
+            "fullstartdate": "202507130700",
+            "enddate": "20250714",
+            "url": "/th?id=OHR.BasaltColumns_EN-US4476950150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BasaltColumns_EN-US4476950150",
+            "copyright": "Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Rock+geology&form=hpcapt&filters=HpDate%3a%2220250713_0700%22",
+            "title": "Rockin' those layers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250713_BasaltColumns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eeb8717a444c1d641dda4675745b41cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250712",
             "fullstartdate": "202507120700",
