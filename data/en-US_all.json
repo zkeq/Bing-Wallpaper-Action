@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-14 00:50:32",
-    "Total": 1174,
+    "LastUpdate": "2025-07-15 00:50:28",
+    "Total": 1175,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250714",
+            "fullstartdate": "202507140700",
+            "enddate": "20250715",
+            "url": "/th?id=OHR.YoungShark_EN-US4689572794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungShark_EN-US4689572794",
+            "copyright": "Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=blue+shark&form=hpcapt&filters=HpDate%3a%2220250714_0700%22",
+            "title": "Chasing waves",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250714_YoungShark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7754c7bf3e366fb9d92c825144e959d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250713",
             "fullstartdate": "202507130700",
