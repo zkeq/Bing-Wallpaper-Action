@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-14 00:50:52",
-    "Total": 1174,
+    "LastUpdate": "2025-07-15 00:50:49",
+    "Total": 1175,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250714",
+            "fullstartdate": "202507141830",
+            "enddate": "20250715",
+            "url": "/th?id=OHR.MuchalindaLake_EN-IN3808425098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuchalindaLake_EN-IN3808425098",
+            "copyright": "Muchalinda Sarovar, Bodh Gaya, Bihar (© Alexander Reshnya/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Muchalinda+Sarovar+Bodh+Gaya&form=hpcapt&filters=HpDate%3a%2220250714_1830%22",
+            "title": "Pond of peace",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250714_MuchalindaLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed3d43311542fb47e6c1da614784cede",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250713",
             "fullstartdate": "202507131830",
