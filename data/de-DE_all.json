@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-15 00:50:37",
-    "Total": 1175,
+    "LastUpdate": "2025-07-16 00:50:38",
+    "Total": 1176,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250715",
+            "fullstartdate": "202507152200",
+            "enddate": "20250716",
+            "url": "/th?id=OHR.TemplePhilae_DE-DE7883088350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TemplePhilae_DE-DE7883088350",
+            "copyright": "Tempel von Philae, Assuan, Ägypten (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Philae+temple+Aswan+Egypt&form=hpcapt&filters=HpDate%3a%2220250715_2200%22",
+            "title": "Im Schatten der Götter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250715_TemplePhilae%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6f6203dd6f9993ba1b94fcef7a3b119",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250714",
             "fullstartdate": "202507142200",
