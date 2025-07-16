@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-15 00:50:23",
-    "Total": 1175,
+    "LastUpdate": "2025-07-16 00:50:25",
+    "Total": 1176,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250715",
+            "fullstartdate": "202507151600",
+            "enddate": "20250716",
+            "url": "/th?id=OHR.TemplePhilae_ZH-CN1232015188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TemplePhilae_ZH-CN1232015188",
+            "copyright": "菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E5%8F%8A%E9%98%BF%E6%96%AF%E6%97%BA%E8%8F%B2%E8%8E%B1%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn",
+            "title": "伊西斯女神的光辉照耀下",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250715_TemplePhilae%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0131d5c2e6214dff88c9c93727e2945d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250714",
             "fullstartdate": "202507141600",
