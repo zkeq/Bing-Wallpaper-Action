@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-15 00:50:49",
-    "Total": 1175,
+    "LastUpdate": "2025-07-16 00:50:50",
+    "Total": 1176,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250715",
+            "fullstartdate": "202507151830",
+            "enddate": "20250716",
+            "url": "/th?id=OHR.TemplePhilae_EN-IN4820282952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TemplePhilae_EN-IN4820282952",
+            "copyright": "Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Philae+temple+Aswan+Egypt&form=hpcapt&filters=HpDate%3a%2220250715_1830%22",
+            "title": "Illuminated by goddess Isis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250715_TemplePhilae%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f618a3f22539a840a07012adf77b715f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250714",
             "fullstartdate": "202507141830",
