@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-16 00:50:25",
-    "Total": 1176,
+    "LastUpdate": "2025-07-17 00:50:28",
+    "Total": 1177,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250716",
+            "fullstartdate": "202507161600",
+            "enddate": "20250717",
+            "url": "/th?id=OHR.FranceLavender_ZH-CN1639602547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FranceLavender_ZH-CN1639602547",
+            "copyright": "瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%93%A6%E6%9C%97%E7%B4%A2%E5%8B%92%E9%AB%98%E5%8E%9F&form=hpcapt&mkt=zh-cn",
+            "title": "追随香气的地平线",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250716_FranceLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "864122771728c6a2298050290b702458",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250715",
             "fullstartdate": "202507151600",
