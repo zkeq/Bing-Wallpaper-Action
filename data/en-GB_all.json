@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-16 00:50:46",
-    "Total": 1173,
+    "LastUpdate": "2025-07-17 00:50:49",
+    "Total": 1174,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250716",
+            "fullstartdate": "202507162300",
+            "enddate": "20250717",
+            "url": "/th?id=OHR.FranceLavender_EN-GB9687234826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FranceLavender_EN-GB9687234826",
+            "copyright": "Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Plateau+de+Valensole&form=hpcapt&filters=HpDate%3a%2220250716_2300%22",
+            "title": "Fragrant horizons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250716_FranceLavender%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "140731d214c54f470d9957ca8e4e59b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250715",
             "fullstartdate": "202507152300",
