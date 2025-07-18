@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-17 00:50:49",
-    "Total": 1174,
+    "LastUpdate": "2025-07-18 00:50:42",
+    "Total": 1175,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250717",
+            "fullstartdate": "202507172300",
+            "enddate": "20250718",
+            "url": "/th?id=OHR.AcroporaReef_EN-GB6231237422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AcroporaReef_EN-GB6231237422",
+            "copyright": "Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Staghorn+coral&form=hpcapt&filters=HpDate%3a%2220250717_2300%22",
+            "title": "Rainforests of the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250717_AcroporaReef%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae738324f32d4ffcf957833e89f8d162",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250716",
             "fullstartdate": "202507162300",
