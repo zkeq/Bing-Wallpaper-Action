@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-18 00:50:34",
-    "Total": 1178,
+    "LastUpdate": "2025-07-19 00:50:34",
+    "Total": 1179,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250718",
+            "fullstartdate": "202507182200",
+            "enddate": "20250719",
+            "url": "/th?id=OHR.MothWeek_DE-DE7350997027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MothWeek_DE-DE7350997027",
+            "copyright": "Luna-Motte auf einer Zedern-Ulme ruhend, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Nachtfalter&form=hpcapt&filters=HpDate%3a%2220250718_2200%22",
+            "title": "Ein Leben im Schatten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250718_MothWeek%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a28464b332142b1c11ba7abc159cda2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250717",
             "fullstartdate": "202507172200",
