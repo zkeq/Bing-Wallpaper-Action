@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-18 00:50:50",
-    "Total": 1178,
+    "LastUpdate": "2025-07-19 00:50:50",
+    "Total": 1179,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250718",
+            "fullstartdate": "202507182200",
+            "enddate": "20250719",
+            "url": "/th?id=OHR.Saumur_FR-FR4957130952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Saumur_FR-FR4957130952",
+            "copyright": "Saumur et son château au crépuscule, Vallée de la Loire (© Hiroshi Higuchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Saumur&form=hpcapt&filters=HpDate%3a%2220250718_2200%22",
+            "title": "Crépuscule royal sur les bords de Loire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250718_Saumur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4126024467907bbd2a541b1e2a8f9459",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250717",
             "fullstartdate": "202507172200",
