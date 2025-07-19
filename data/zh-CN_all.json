@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-18 00:50:22",
-    "Total": 1178,
+    "LastUpdate": "2025-07-19 00:50:21",
+    "Total": 1179,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250718",
+            "fullstartdate": "202507181600",
+            "enddate": "20250719",
+            "url": "/th?id=OHR.YohoNP_ZH-CN2349599497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YohoNP_ZH-CN2349599497",
+            "copyright": "幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B9%BD%E9%B9%A4%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "化石、瀑布与林间小径",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250718_YohoNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3c2b3eaf7ed773c72adcba37569ccf79",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250717",
             "fullstartdate": "202507171600",
