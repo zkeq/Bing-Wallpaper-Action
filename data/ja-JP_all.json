@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-18 00:50:30",
-    "Total": 1178,
+    "LastUpdate": "2025-07-19 00:50:30",
+    "Total": 1179,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250718",
+            "fullstartdate": "202507181500",
+            "enddate": "20250719",
+            "url": "/th?id=OHR.VaticanCity_JA-JP3107889250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaticanCity_JA-JP3107889250",
+            "copyright": "サン・ピエトロ大聖堂, バチカン市国 (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%88%E3%83%AD%E5%A4%A7%E8%81%96%E5%A0%82%2c+%E3%83%90%E3%83%81%E3%82%AB%E3%83%B3%E5%B8%82%E5%9B%BD&form=hpcapt&filters=HpDate%3a%2220250718_1500%22",
+            "title": "カトリック教会の総本山",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250718_VaticanCity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d74e39f4ba2cc6f946f9f58127d4ba14",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250717",
             "fullstartdate": "202507171500",
