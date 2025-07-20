@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-19 00:50:46",
-    "Total": 1179,
+    "LastUpdate": "2025-07-20 00:51:03",
+    "Total": 1180,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250719",
+            "fullstartdate": "202507191830",
+            "enddate": "20250720",
+            "url": "/th?id=OHR.BigMoon_EN-IN7770430598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigMoon_EN-IN7770430598",
+            "copyright": "The moon's surface seen through a telescope (© Sergey Kuznetsov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=moon&form=hpcapt&filters=HpDate%3a%2220250719_1830%22",
+            "title": "Dancing in the moonlight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250719_BigMoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aec689a054cc126efc218ec3bf7e13c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250718",
             "fullstartdate": "202507181830",
