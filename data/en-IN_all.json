@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-20 00:51:03",
-    "Total": 1180,
+    "LastUpdate": "2025-07-21 00:51:05",
+    "Total": 1181,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250720",
+            "fullstartdate": "202507201830",
+            "enddate": "20250721",
+            "url": "/th?id=OHR.AcroporaReef_EN-IN7935562509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AcroporaReef_EN-IN7935562509",
+            "copyright": "Staghorn coral in shallow ocean (© blue-sea.cz/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Staghorn+coral&form=hpcapt&filters=HpDate%3a%2220250720_1830%22",
+            "title": "Rainforests of the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250720_AcroporaReef%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "720993c330985dc781714c6c052e5481",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250719",
             "fullstartdate": "202507191830",
