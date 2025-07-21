@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-20 00:50:47",
-    "Total": 1180,
+    "LastUpdate": "2025-07-21 00:50:47",
+    "Total": 1181,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250720",
+            "fullstartdate": "202507201500",
+            "enddate": "20250721",
+            "url": "/th?id=OHR.MarineDay2025_JA-JP8195760967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarineDay2025_JA-JP8195760967",
+            "copyright": "青い海に浮かぶ種子島の無人島, 鹿児島県 (© Ippei Naoi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250720_1500%22",
+            "title": "今日は海の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250720_MarineDay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d05d2547883dae990345d52e9d77ac5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250719",
             "fullstartdate": "202507191500",
