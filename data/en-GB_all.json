@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-21 00:51:00",
-    "Total": 1178,
+    "LastUpdate": "2025-07-22 00:50:46",
+    "Total": 1179,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250721",
+            "fullstartdate": "202507212300",
+            "enddate": "20250722",
+            "url": "/th?id=OHR.BadlandsSunset_EN-GB0865631210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadlandsSunset_EN-GB0865631210",
+            "copyright": "Sunset over Badlands National Park, South Dakota, United States (© Petr Bednarik/Danita Delimont/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Badlands+National+Park+South+Dakota&form=hpcapt&filters=HpDate%3a%2220250721_2300%22",
+            "title": "Epic sunsets and ancient secrets",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250721_BadlandsSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "68be61107383feaa95e725811a4021ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250720",
             "fullstartdate": "202507202300",
