@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-21 00:50:47",
-    "Total": 1181,
+    "LastUpdate": "2025-07-22 00:50:34",
+    "Total": 1182,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250721",
+            "fullstartdate": "202507211500",
+            "enddate": "20250722",
+            "url": "/th?id=OHR.BadlandsSunset_JA-JP4206808892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadlandsSunset_JA-JP4206808892",
+            "copyright": "バッドランズ国立公園, 米国 サウスダコタ州 (© Petr Bednarik/Danita Delimont/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%82%B5%E3%82%A6%E3%82%B9%E3%83%80%E3%82%B3%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250721_1500%22",
+            "title": "風と水が刻んだ奇岩地帯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250721_BadlandsSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7b72bc40135aa74b8569b1737267d3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250720",
             "fullstartdate": "202507201500",
