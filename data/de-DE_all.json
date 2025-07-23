@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-22 00:50:38",
-    "Total": 1182,
+    "LastUpdate": "2025-07-23 00:50:47",
+    "Total": 1183,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250722",
+            "fullstartdate": "202507222200",
+            "enddate": "20250723",
+            "url": "/th?id=OHR.VaticanCity_DE-DE5887283665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaticanCity_DE-DE5887283665",
+            "copyright": "Vatikanstadt mit dem Petersdom, Rom, Italien (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vatikanstadt&form=hpcapt&filters=HpDate%3a%2220250722_2200%22",
+            "title": "Ein Staat innerhalb einer Stadt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250722_VaticanCity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "895bd050ca69f0468cf32729a7b98380",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250721",
             "fullstartdate": "202507212200",
