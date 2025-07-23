@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-22 00:50:50",
-    "Total": 1182,
+    "LastUpdate": "2025-07-23 00:50:59",
+    "Total": 1183,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250722",
+            "fullstartdate": "202507221830",
+            "enddate": "20250723",
+            "url": "/th?id=OHR.VaticanCity_EN-IN8408106347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaticanCity_EN-IN8408106347",
+            "copyright": "Vatican City with Saint Peter's Basilica, Rome, Italy (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vatican+City&form=hpcapt&filters=HpDate%3a%2220250722_1830%22",
+            "title": "A country within a city",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250722_VaticanCity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed8c46bc76548b36d370f0753f579f4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250721",
             "fullstartdate": "202507211830",
