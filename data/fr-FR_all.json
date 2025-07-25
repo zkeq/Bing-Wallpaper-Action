@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-24 00:50:59",
-    "Total": 1184,
+    "LastUpdate": "2025-07-25 00:51:05",
+    "Total": 1185,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250724",
+            "fullstartdate": "202507242200",
+            "enddate": "20250725",
+            "url": "/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackfinBarracuda_FR-FR4425436788",
+            "copyright": "Banc de barracudas chevrons, Shark Reef, parc national de Ras Mohammed, péninsule du Sinaï, Égypte (© Alex Mustard/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+Ras+Mohammed+%C3%89gypte&form=hpcapt&filters=HpDate%3a%2220250724_2200%22",
+            "title": "Plus d’appétit qu’un barracuda",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250724_BlackfinBarracuda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f54ef9e9eaeb93970e04679722bb9c06",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250723",
             "fullstartdate": "202507232200",
