@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-25 00:51:09",
-    "Total": 1185,
+    "LastUpdate": "2025-07-26 00:50:52",
+    "Total": 1186,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250725",
+            "fullstartdate": "202507252200",
+            "enddate": "20250726",
+            "url": "/th?id=OHR.MangroveTwilight_IT-IT8283933203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangroveTwilight_IT-IT8283933203",
+            "copyright": "Mangrovie al tramonto, Spiaggia di Walakiri, Isola di Sumba, Indonesia (© Boonchet Ch./Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mangrovia&form=hpcapt",
+            "title": "Sentinelle della marea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250725_MangroveTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72336a083a5418155945d0a64280cca3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250724",
             "fullstartdate": "202507242200",
