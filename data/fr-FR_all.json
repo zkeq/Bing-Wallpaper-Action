@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-25 00:51:05",
-    "Total": 1185,
+    "LastUpdate": "2025-07-26 00:50:48",
+    "Total": 1186,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250725",
+            "fullstartdate": "202507252200",
+            "enddate": "20250726",
+            "url": "/th?id=OHR.MangroveTwilight_FR-FR3644459674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangroveTwilight_FR-FR3644459674",
+            "copyright": "Mangroves au crépuscule, plage de Walakiri, île de Sumba, Indonésie (© Boonchet Ch./Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mangrove&form=hpcapt&filters=HpDate%3a%2220250725_2200%22",
+            "title": "Les sentinelles des marées",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250725_MangroveTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ca406aaf887156f43757adba7991b07",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250724",
             "fullstartdate": "202507242200",
