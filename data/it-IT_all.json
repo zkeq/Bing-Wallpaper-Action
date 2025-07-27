@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-26 00:50:52",
-    "Total": 1186,
+    "LastUpdate": "2025-07-27 00:51:11",
+    "Total": 1187,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250726",
+            "fullstartdate": "202507262200",
+            "enddate": "20250727",
+            "url": "/th?id=OHR.CaltagironeSicilia_IT-IT1493069823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CaltagironeSicilia_IT-IT1493069823",
+            "copyright": "Cattedrale di San Giuliano, Caltagirone, Catania, Sicilia (© Javier Cosio/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Caltagirone+comune+italiano&form=hpcapt",
+            "title": "Pietre, Silenzio e Pace",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250726_CaltagironeSicilia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6bec936a9b0e18f0a8e02e6957f28e1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250725",
             "fullstartdate": "202507252200",
