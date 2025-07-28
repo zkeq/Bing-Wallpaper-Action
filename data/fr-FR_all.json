@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-27 00:51:08",
-    "Total": 1187,
+    "LastUpdate": "2025-07-28 00:51:07",
+    "Total": 1188,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250727",
+            "fullstartdate": "202507272200",
+            "enddate": "20250728",
+            "url": "/th?id=OHR.MongoliaYurts_FR-FR7003855662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MongoliaYurts_FR-FR7003855662",
+            "copyright": "Yourtes dans les steppes de Mongolie (© Michel Arnault/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=La+nature&form=hpcapt&filters=HpDate%3a%2220250727_2200%22",
+            "title": "Protéger la nature, préserver les cultures",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250727_MongoliaYurts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3199be0772a9dcd13d4a2d9641a2522d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250726",
             "fullstartdate": "202507262200",
