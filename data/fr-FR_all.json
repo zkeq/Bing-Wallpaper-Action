@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-28 00:51:07",
-    "Total": 1188,
+    "LastUpdate": "2025-07-29 00:51:22",
+    "Total": 1189,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250728",
+            "fullstartdate": "202507282200",
+            "enddate": "20250729",
+            "url": "/th?id=OHR.TigerDay_FR-FR7212434732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TigerDay_FR-FR7212434732",
+            "copyright": "Tigresse du Bengale, parc national de Kanha, Inde (© Axel Gomille/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=tigre+du+Bengale&form=hpcapt&filters=HpDate%3a%2220250728_2200%22",
+            "title": "La Reine de la jungle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250728_TigerDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2217097f9ea6c58ef873237ad9db8bd8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250727",
             "fullstartdate": "202507272200",
