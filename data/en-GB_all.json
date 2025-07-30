@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-29 00:51:14",
-    "Total": 1186,
+    "LastUpdate": "2025-07-30 00:50:49",
+    "Total": 1187,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250729",
+            "fullstartdate": "202507292300",
+            "enddate": "20250730",
+            "url": "/th?id=OHR.SaypeDubai_EN-GB0166964258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaypeDubai_EN-GB0166964258",
+            "copyright": "'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Friendship&form=hpcapt&filters=HpDate%3a%2220250729_2300%22",
+            "title": "Friendship without borders",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250729_SaypeDubai%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "fa68d9cc2dcf199c404a2e28d5eeb051",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250728",
             "fullstartdate": "202507282300",
