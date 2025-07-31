@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-30 00:50:49",
-    "Total": 1187,
+    "LastUpdate": "2025-07-31 00:50:52",
+    "Total": 1188,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250730",
+            "fullstartdate": "202507302300",
+            "enddate": "20250731",
+            "url": "/th?id=OHR.NaPaliKauai_EN-GB0416524547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaPaliKauai_EN-GB0416524547",
+            "copyright": "Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States (© Russ Bishop/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Kalalau+Beach&form=hpcapt&filters=HpDate%3a%2220250730_2300%22",
+            "title": "Off the grid",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250730_NaPaliKauai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "747673bac069ad26ce7a5829946c54fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250729",
             "fullstartdate": "202507292300",
