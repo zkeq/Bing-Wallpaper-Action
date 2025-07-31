@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-30 00:50:36",
-    "Total": 1190,
+    "LastUpdate": "2025-07-31 00:50:40",
+    "Total": 1191,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250730",
+            "fullstartdate": "202507301500",
+            "enddate": "20250731",
+            "url": "/th?id=OHR.NaPaliKauai_JA-JP1764842674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaPaliKauai_JA-JP1764842674",
+            "copyright": "ナ・パリ・コースト, 米国 ハワイ州 (© Russ Bishop/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8A%E3%83%BB%E3%83%91%E3%83%AA%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250730_1500%22",
+            "title": "断崖絶壁の海岸線",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250730_NaPaliKauai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9d95cc98899f04063897fff1c5d5350",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250729",
             "fullstartdate": "202507291500",
