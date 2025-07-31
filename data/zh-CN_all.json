@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-30 00:50:27",
-    "Total": 1190,
+    "LastUpdate": "2025-07-31 00:50:31",
+    "Total": 1191,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250730",
+            "fullstartdate": "202507301600",
+            "enddate": "20250731",
+            "url": "/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaPaliKauai_ZH-CN5070149838",
+            "copyright": "纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E2%80%8C%E5%8D%A1%E6%8B%89%E5%8A%B3%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn",
+            "title": "远离尘嚣",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250730_NaPaliKauai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4512d15fc7a37e6056db5069e0e02d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250729",
             "fullstartdate": "202507291600",
