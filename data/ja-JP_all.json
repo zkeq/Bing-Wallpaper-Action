@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-31 00:50:40",
-    "Total": 1191,
+    "LastUpdate": "2025-08-01 00:51:10",
+    "Total": 1192,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250731",
+            "fullstartdate": "202507311500",
+            "enddate": "20250801",
+            "url": "/th?id=OHR.EdinburghFringe_JA-JP2026368495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EdinburghFringe_JA-JP2026368495",
+            "copyright": "エディンバラの旧市街, スコットランド (© MEDITERRANEAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%83%87%E3%82%A3%E3%83%B3%E3%83%90%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%83%BB%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220250731_1500%22",
+            "title": "今日からエディンバラ・フェスティバル・フリンジ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250731_EdinburghFringe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc898584083ac86a2fd0717de5365c4c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250730",
             "fullstartdate": "202507301500",
