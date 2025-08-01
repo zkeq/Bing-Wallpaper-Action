@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-31 00:50:31",
-    "Total": 1191,
+    "LastUpdate": "2025-08-01 00:51:02",
+    "Total": 1192,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250731",
+            "fullstartdate": "202507311600",
+            "enddate": "20250801",
+            "url": "/th?id=OHR.EdinburghFringe_ZH-CN5243292664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EdinburghFringe_ZH-CN5243292664",
+            "copyright": "皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%88%B1%E4%B8%81%E5%A0%A1%E8%89%BA%E7%A9%97%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "惊喜随时上演",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250731_EdinburghFringe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b88150a301bdcd34eb717be9dbdaa0e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250730",
             "fullstartdate": "202507301600",
