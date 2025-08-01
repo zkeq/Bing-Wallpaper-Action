@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-31 00:51:03",
-    "Total": 1191,
+    "LastUpdate": "2025-08-01 00:51:34",
+    "Total": 1192,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250731",
+            "fullstartdate": "202507312200",
+            "enddate": "20250801",
+            "url": "/th?id=OHR.EdinburghFringe_IT-IT8835204472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EdinburghFringe_IT-IT8835204472",
+            "copyright": "Royal Mile, Edimburgo, Scozia (© MEDITERRANEAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Edimburgo&form=hpcapt",
+            "title": "Scena Aperta",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250731_EdinburghFringe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d639de98fd2fb2a8bbe63b6d6b9fa4b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250730",
             "fullstartdate": "202507302200",
