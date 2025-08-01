@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-07-31 00:50:59",
-    "Total": 1191,
+    "LastUpdate": "2025-08-01 00:51:30",
+    "Total": 1192,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250731",
+            "fullstartdate": "202507312200",
+            "enddate": "20250801",
+            "url": "/th?id=OHR.LorientCeltic_FR-FR1271228559_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LorientCeltic_FR-FR1271228559",
+            "copyright": "Costumes folkloriques bretons, Lorient, Finistère (© guy-ozenne/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=+Festival+Celtic+de+Lorient&form=hpcapt&filters=HpDate%3a%2220250731_2200%22",
+            "title": "Lorient, au rythme des peuples celtes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250731_LorientCeltic%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96a2a8de3becd09e5fd92738d7dabcc0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250730",
             "fullstartdate": "202507302200",
