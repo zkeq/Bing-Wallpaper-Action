@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-01 00:51:18",
-    "Total": 1191,
+    "LastUpdate": "2025-08-02 00:50:36",
+    "Total": 1192,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250801",
+            "fullstartdate": "202508010400",
+            "enddate": "20250802",
+            "url": "/th?id=OHR.EdinburghFringe_EN-CA4550434753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EdinburghFringe_EN-CA4550434753",
+            "copyright": "Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Edinburgh+Festival+Fringe&form=hpcapt&filters=HpDate%3a%2220250801_0400%22",
+            "title": "Expect the unexpected",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250801_EdinburghFringe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8b905714504455197b7d477124cf9ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250731",
             "fullstartdate": "202507310400",
