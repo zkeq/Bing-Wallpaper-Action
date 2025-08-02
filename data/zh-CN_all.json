@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-01 00:51:02",
-    "Total": 1192,
+    "LastUpdate": "2025-08-02 00:50:19",
+    "Total": 1193,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250801",
+            "fullstartdate": "202508011600",
+            "enddate": "20250802",
+            "url": "/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955",
+            "copyright": "圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%86%E9%A1%B6%E7%A4%81%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "古老的岩画",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250801_FruitaPetroglyphs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b6dbf9b2815532f82c03d3c1b78f0bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250731",
             "fullstartdate": "202507311600",
