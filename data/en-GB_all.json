@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-01 00:51:22",
-    "Total": 1189,
+    "LastUpdate": "2025-08-02 00:50:39",
+    "Total": 1190,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250801",
+            "fullstartdate": "202508012300",
+            "enddate": "20250802",
+            "url": "/th?id=OHR.CowesWeek2025_EN-GB0990993509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CowesWeek2025_EN-GB0990993509",
+            "copyright": "Spectators at Cowes Week 2013 in Cowes, Isle of Wight (© Alan Crowhurst/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cowes+Week&form=hpcapt&filters=HpDate%3a%2220250801_2300%22",
+            "title": "Sails up, spirits high",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250801_CowesWeek2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66e63088c67fc63c2c3ab048c91316a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250731",
             "fullstartdate": "202507312300",
