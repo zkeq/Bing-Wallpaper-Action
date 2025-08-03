@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-02 00:50:23",
-    "Total": 1193,
+    "LastUpdate": "2025-08-03 00:50:53",
+    "Total": 1194,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250802",
+            "fullstartdate": "202508020700",
+            "enddate": "20250803",
+            "url": "/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FruitaPetroglyphs_EN-US8712481828",
+            "copyright": "Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=hpcapt&filters=HpDate%3a%2220250802_0700%22",
+            "title": "Age-old storyboard",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250802_FruitaPetroglyphs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "21b6dec2c82a4b7b4bc762d992832543",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250801",
             "fullstartdate": "202508010700",
