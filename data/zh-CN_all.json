@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-02 00:50:19",
-    "Total": 1193,
+    "LastUpdate": "2025-08-03 00:50:48",
+    "Total": 1194,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250802",
+            "fullstartdate": "202508021600",
+            "enddate": "20250803",
+            "url": "/th?id=OHR.HappySunflower_ZH-CN5840993161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HappySunflower_ZH-CN5840993161",
+            "copyright": "夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%90%91%E6%97%A5%E8%91%B5&form=hpcapt&mkt=zh-cn",
+            "title": "你好，黄色！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250802_HappySunflower%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0dc216cfc9919b34d1728956efd8220",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250801",
             "fullstartdate": "202508011600",
