@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-04 00:50:45",
-    "Total": 1195,
+    "LastUpdate": "2025-08-05 00:50:41",
+    "Total": 1196,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250804",
+            "fullstartdate": "202508040700",
+            "enddate": "20250805",
+            "url": "/th?id=OHR.LaplandOwl_EN-US8965493818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LaplandOwl_EN-US8965493818",
+            "copyright": "Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=great+gray+owl&form=hpcapt&filters=HpDate%3a%2220250804_0700%22",
+            "title": "Whooo's home?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250804_LaplandOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8216df13e54f767d0cd27ed79a94658",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250803",
             "fullstartdate": "202508030700",
