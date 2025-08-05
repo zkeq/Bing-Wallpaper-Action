@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-04 00:51:02",
-    "Total": 1192,
+    "LastUpdate": "2025-08-05 00:50:58",
+    "Total": 1193,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250804",
+            "fullstartdate": "202508042300",
+            "enddate": "20250805",
+            "url": "/th?id=OHR.CaliforniaTidepool_EN-GB1490855103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CaliforniaTidepool_EN-GB1490855103",
+            "copyright": "Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Jolla+California&form=hpcapt&filters=HpDate%3a%2220250804_2300%22",
+            "title": "Tide and seek",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250804_CaliforniaTidepool%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "446d87ca3b3fcdd59ce1afc0e1c5d42d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250803",
             "fullstartdate": "202508032300",
