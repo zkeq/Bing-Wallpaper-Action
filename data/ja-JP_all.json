@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-05 00:50:45",
-    "Total": 1196,
+    "LastUpdate": "2025-08-06 00:50:41",
+    "Total": 1197,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250805",
+            "fullstartdate": "202508051500",
+            "enddate": "20250806",
+            "url": "/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972",
+            "copyright": "平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%83%E5%B3%B6%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250805_1500%22",
+            "title": "今日は広島平和記念日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250805_HiroshimaPeace2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad66f162077908d53ea1423418753059",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250804",
             "fullstartdate": "202508041500",
