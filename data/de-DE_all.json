@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-06 00:50:45",
-    "Total": 1197,
+    "LastUpdate": "2025-08-07 00:50:41",
+    "Total": 1198,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250806",
+            "fullstartdate": "202508062200",
+            "enddate": "20250807",
+            "url": "/th?id=OHR.GasparillaLight_DE-DE5398633166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GasparillaLight_DE-DE5398633166",
+            "copyright": "Gasparilla Island Rear Range Light, Boca Grande, Florida, USA (© Wiltser/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gasparilla+Island&form=hpcapt&filters=HpDate%3a%2220250806_2200%22",
+            "title": "Stille Helden der Seefahrt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250806_GasparillaLight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3bebc5b824ab7ba1abc33461a208e3bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250805",
             "fullstartdate": "202508052200",
