@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-07 00:50:45",
-    "Total": 1197,
+    "LastUpdate": "2025-08-08 00:50:47",
+    "Total": 1198,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250807",
+            "fullstartdate": "202508070400",
+            "enddate": "20250808",
+            "url": "/th?id=OHR.MinganWonders_EN-CA5648384478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinganWonders_EN-CA5648384478",
+            "copyright": "Monoliths of the Mingan Archipelago, Quebec (© David Boutin Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mingan+Archipelago&form=hpcapt&filters=HpDate%3a%2220250807_0400%22",
+            "title": "Carved by sea and time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250807_MinganWonders%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c09ac244ac38f7177d48e43ce1cc644c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250806",
             "fullstartdate": "202508060400",
