@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-07 00:50:29",
-    "Total": 1198,
+    "LastUpdate": "2025-08-08 00:50:30",
+    "Total": 1199,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250807",
+            "fullstartdate": "202508071600",
+            "enddate": "20250808",
+            "url": "/th?id=OHR.IguazuArgentina_ZH-CN4457051931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IguazuArgentina_ZH-CN4457051931",
+            "copyright": "伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E7%93%9C%E8%8B%8F%E7%80%91%E5%B8%83+%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%B7%B4%E8%A5%BF&form=hpcapt&mkt=zh-cn",
+            "title": "奔流不息，为你为我",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250807_IguazuArgentina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "847e2f372bcb915dce036329519bc411",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250806",
             "fullstartdate": "202508061600",
