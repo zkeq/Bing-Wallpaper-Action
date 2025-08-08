@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-07 00:50:49",
-    "Total": 1195,
+    "LastUpdate": "2025-08-08 00:50:50",
+    "Total": 1196,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250807",
+            "fullstartdate": "202508072300",
+            "enddate": "20250808",
+            "url": "/th?id=OHR.BalloonFiesta2025_EN-GB9167684469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalloonFiesta2025_EN-GB9167684469",
+            "copyright": "Hot air balloons over a golf course during the Bristol International Balloon Fiesta (© Ben Birchall/PA Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bristol+International+Balloon+Fiesta&form=hpcapt&filters=HpDate%3a%2220250807_2300%22",
+            "title": "Sky's the limit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250807_BalloonFiesta2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e51128d6fc5369bdbd337d99b1059db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250806",
             "fullstartdate": "202508062300",
