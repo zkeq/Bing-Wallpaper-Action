@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-08 00:50:35",
-    "Total": 1199,
+    "LastUpdate": "2025-08-09 00:50:17",
+    "Total": 1200,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250808",
+            "fullstartdate": "202508080700",
+            "enddate": "20250809",
+            "url": "/th?id=OHR.IguazuArgentina_EN-US5953375078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IguazuArgentina_EN-US5953375078",
+            "copyright": "Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Iguazu+waterfalls+Argentina+Brazil&form=hpcapt&filters=HpDate%3a%2220250808_0700%22",
+            "title": "All for falls and falls for all",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250808_IguazuArgentina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d383b8da73cb7e4520e0a0b6060288c1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250807",
             "fullstartdate": "202508070700",
