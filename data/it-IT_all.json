@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-10 00:51:11",
-    "Total": 1201,
+    "LastUpdate": "2025-08-11 00:51:05",
+    "Total": 1202,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250810",
+            "fullstartdate": "202508102200",
+            "enddate": "20250811",
+            "url": "/th?id=OHR.StelleSanLorenzo_IT-IT2737058274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StelleSanLorenzo_IT-IT2737058274",
+            "copyright": "Via Lattea vista dalla Val d'Orcia, Toscana (© Fabio Massimo Zappulla/500px/500Px Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Meteora+astronomia&form=hpcapt",
+            "title": "Stelle cadenti, desideri latenti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250810_StelleSanLorenzo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f4329fb93b483e1625c6b78373a2e84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250809",
             "fullstartdate": "202508092200",
