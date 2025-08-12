@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-11 00:50:44",
-    "Total": 1202,
+    "LastUpdate": "2025-08-12 00:50:33",
+    "Total": 1203,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250811",
+            "fullstartdate": "202508112200",
+            "enddate": "20250812",
+            "url": "/th?id=OHR.KenyaElephants_DE-DE2871911456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KenyaElephants_DE-DE2871911456",
+            "copyright": "Afrikanische Elefantenherde, Amboseli-Nationalpark, Kenia (© Chase Dekker/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Elefanten&form=hpcapt&filters=HpDate%3a%2220250811_2200%22",
+            "title": "Weise Riesen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250811_KenyaElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6bca3466f801b12765d2a5b8e7e4100",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250810",
             "fullstartdate": "202508102200",
