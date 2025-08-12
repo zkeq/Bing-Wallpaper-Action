@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-11 00:50:56",
-    "Total": 1202,
+    "LastUpdate": "2025-08-12 00:50:45",
+    "Total": 1203,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250811",
+            "fullstartdate": "202508111830",
+            "enddate": "20250812",
+            "url": "/th?id=OHR.KenyaElephants_EN-IN4022653136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KenyaElephants_EN-IN4022653136",
+            "copyright": "African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220250811_1830%22",
+            "title": "Wild, wise and wonderful",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250811_KenyaElephants%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48670d621aca01c55be79027fbb25ace",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250810",
             "fullstartdate": "202508101830",
