@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-11 00:50:48",
-    "Total": 1201,
+    "LastUpdate": "2025-08-12 00:50:37",
+    "Total": 1202,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250811",
+            "fullstartdate": "202508110400",
+            "enddate": "20250812",
+            "url": "/th?id=OHR.SantaMaddalena_EN-CA6755277822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaMaddalena_EN-CA6755277822",
+            "copyright": "Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dolomites+Italy&form=hpcapt&filters=HpDate%3a%2220250811_0400%22",
+            "title": "Postcard from the peaks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250811_SantaMaddalena%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "16c0de64f103e6f60ac32a58a881b3c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250810",
             "fullstartdate": "202508100400",
