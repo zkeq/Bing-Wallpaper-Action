@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-12 00:50:49",
-    "Total": 1203,
+    "LastUpdate": "2025-08-13 00:50:51",
+    "Total": 1204,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250812",
+            "fullstartdate": "202508122200",
+            "enddate": "20250813",
+            "url": "/th?id=OHR.Flamingos_FR-FR9616625186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Flamingos_FR-FR9616625186",
+            "copyright": "Flamant rose, Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saintes-Maries-de-la-Mer&form=hpcapt&filters=HpDate%3a%2220250812_2200%22",
+            "title": "Le flamant rose, emblème vivant de la Camargue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250812_Flamingos%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "410d0d8522eac8935333a80ef2a822db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250811",
             "fullstartdate": "202508112200",
