@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-13 00:50:27",
-    "Total": 1204,
+    "LastUpdate": "2025-08-14 00:50:28",
+    "Total": 1205,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250813",
+            "fullstartdate": "202508130700",
+            "enddate": "20250814",
+            "url": "/th?id=OHR.CoronaArch_EN-US8928406175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoronaArch_EN-US8928406175",
+            "copyright": "A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Natural+arch&form=hpcapt&filters=HpDate%3a%2220250813_0700%22",
+            "title": "Earth's open secret",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250813_CoronaArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "065f7491376397b2b405e5c724f03a1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250812",
             "fullstartdate": "202508120700",
