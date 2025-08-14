@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-13 00:50:43",
-    "Total": 1201,
+    "LastUpdate": "2025-08-14 00:50:44",
+    "Total": 1202,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250813",
+            "fullstartdate": "202508132300",
+            "enddate": "20250814",
+            "url": "/th?id=OHR.PizNairPeak_EN-GB2398585795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PizNairPeak_EN-GB2398585795",
+            "copyright": "Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=hpcapt&filters=HpDate%3a%2220250813_2300%22",
+            "title": "Taking it from the top",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250813_PizNairPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "385b7caad58f1a78de8204996152ab67",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250812",
             "fullstartdate": "202508122300",
