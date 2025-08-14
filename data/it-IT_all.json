@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-13 00:50:55",
-    "Total": 1204,
+    "LastUpdate": "2025-08-14 00:50:59",
+    "Total": 1205,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250813",
+            "fullstartdate": "202508132200",
+            "enddate": "20250814",
+            "url": "/th?id=OHR.PizNairPeak_IT-IT2958589125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PizNairPeak_IT-IT2958589125",
+            "copyright": "Stazione della funivia sul monte Piz Nair, Grigioni, Svizzera (© Roberto Moiola/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=hpcapt",
+            "title": "La voce dei giganti",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250813_PizNairPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a788b1327fcafd1b5673bd2069172370",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250812",
             "fullstartdate": "202508122200",
