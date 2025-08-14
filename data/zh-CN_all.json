@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-13 00:50:23",
-    "Total": 1204,
+    "LastUpdate": "2025-08-14 00:50:23",
+    "Total": 1205,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250813",
+            "fullstartdate": "202508131600",
+            "enddate": "20250814",
+            "url": "/th?id=OHR.PizNairPeak_ZH-CN8209144138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PizNairPeak_ZH-CN8209144138",
+            "copyright": "皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A5%88%E5%B0%94%E5%B3%B0&form=hpcapt&mkt=zh-cn",
+            "title": "从山顶俯瞰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250813_PizNairPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48e572175cc0c3fb9d85e60a04421501",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250812",
             "fullstartdate": "202508121600",
