@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-13 00:50:36",
-    "Total": 1204,
+    "LastUpdate": "2025-08-14 00:50:36",
+    "Total": 1205,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250813",
+            "fullstartdate": "202508132200",
+            "enddate": "20250814",
+            "url": "/th?id=OHR.PizNairPeak_DE-DE6932582005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PizNairPeak_DE-DE6932582005",
+            "copyright": "Seilbahnstation auf dem Piz Nair, Graubünden, Schweiz (© Roberto Moiola/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=hpcapt&filters=HpDate%3a%2220250813_2200%22",
+            "title": "Der Gipfel ruft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250813_PizNairPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33f9a3fdd439437546220137b53dcb27",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250812",
             "fullstartdate": "202508122200",
