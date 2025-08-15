@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-14 00:50:59",
-    "Total": 1205,
+    "LastUpdate": "2025-08-15 00:51:01",
+    "Total": 1206,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250814",
+            "fullstartdate": "202508142200",
+            "enddate": "20250815",
+            "url": "/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950",
+            "copyright": "Parco Nazionale dell’Arcipelago di La Maddalena, Gallura Nord-Est Sardegna, Sardegna (© Travel Wild/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+dell%E2%80%99+Arcipelago+di+La+Maddalena&form=hpcapt",
+            "title": "Sapore di Sole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250814_LaMaddalenaSardegna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71e0ed34cb45b095e58b749704c2f54f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250813",
             "fullstartdate": "202508132200",
