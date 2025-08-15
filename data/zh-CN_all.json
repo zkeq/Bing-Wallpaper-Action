@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-14 00:50:23",
-    "Total": 1205,
+    "LastUpdate": "2025-08-15 00:50:28",
+    "Total": 1206,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250814",
+            "fullstartdate": "202508141600",
+            "enddate": "20250815",
+            "url": "/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpottedEagleRay_ZH-CN9894613260",
+            "copyright": "斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%91%E7%82%B9%E9%B9%9E%E9%B2%BC&form=hpcapt&mkt=zh-cn",
+            "title": "水下翱翔",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250814_SpottedEagleRay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c057af0ec14c712a8d9efd46fd2d6fa4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250813",
             "fullstartdate": "202508131600",
