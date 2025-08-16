@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-15 00:50:41",
-    "Total": 1206,
+    "LastUpdate": "2025-08-16 00:50:29",
+    "Total": 1207,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250815",
+            "fullstartdate": "202508152200",
+            "enddate": "20250816",
+            "url": "/th?id=OHR.ColorfulBeehives_DE-DE0790331743_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulBeehives_DE-DE0790331743",
+            "copyright": "Bunte Bienenstöcke, Italien (© Roberto Caucino/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Honigbienen&form=hpcapt&filters=HpDate%3a%2220250815_2200%22",
+            "title": "Kleine Helfer, große Wirkung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250815_ColorfulBeehives%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1d9f02cbfa5f957c93f1e3c7f0e2f6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250814",
             "fullstartdate": "202508142200",
