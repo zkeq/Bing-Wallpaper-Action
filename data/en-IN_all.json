@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-15 00:50:53",
-    "Total": 1206,
+    "LastUpdate": "2025-08-16 00:50:40",
+    "Total": 1207,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250815",
+            "fullstartdate": "202508151830",
+            "enddate": "20250816",
+            "url": "/th?id=OHR.ColorfulBeehives_EN-IN5686651222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulBeehives_EN-IN5686651222",
+            "copyright": "Colourful beehives, Italy (© Roberto Caucino/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Honey+bee&form=hpcapt&filters=HpDate%3a%2220250815_1830%22",
+            "title": "Bee the change",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250815_ColorfulBeehives%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "62cc537c33c994c58ac5a354b119e0b6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250814",
             "fullstartdate": "202508141830",
