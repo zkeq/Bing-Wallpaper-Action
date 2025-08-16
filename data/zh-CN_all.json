@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-15 00:50:28",
-    "Total": 1206,
+    "LastUpdate": "2025-08-16 00:50:16",
+    "Total": 1207,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250815",
+            "fullstartdate": "202508151600",
+            "enddate": "20250816",
+            "url": "/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulBeehives_ZH-CN0180195770",
+            "copyright": "色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%9C%9C%E8%9C%82&form=hpcapt&mkt=zh-cn",
+            "title": "成为改变的一“蜂”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250815_ColorfulBeehives%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "063da0e3eaef3f728b90bdf52809d48d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250814",
             "fullstartdate": "202508141600",
