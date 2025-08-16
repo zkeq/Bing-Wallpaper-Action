@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-15 00:50:45",
-    "Total": 1205,
+    "LastUpdate": "2025-08-16 00:50:32",
+    "Total": 1206,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250815",
+            "fullstartdate": "202508150400",
+            "enddate": "20250816",
+            "url": "/th?id=OHR.CNExhibit_EN-CA7387294969_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CNExhibit_EN-CA7387294969",
+            "copyright": "The Orbitor ride at the Canadian National Exhibition, Toronto (© James Hackland/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Canadian+National+Exhibition&form=hpcapt&filters=HpDate%3a%2220250815_0400%22",
+            "title": "CNE nights, city lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250815_CNExhibit%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7127467c7f32da64599e0eb52995c8bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250814",
             "fullstartdate": "202508140400",
