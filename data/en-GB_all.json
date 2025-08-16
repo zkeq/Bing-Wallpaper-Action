@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-15 00:50:49",
-    "Total": 1203,
+    "LastUpdate": "2025-08-16 00:50:36",
+    "Total": 1204,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250815",
+            "fullstartdate": "202508152300",
+            "enddate": "20250816",
+            "url": "/th?id=OHR.GarlicFestival2025_EN-GB2919536930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GarlicFestival2025_EN-GB2919536930",
+            "copyright": "Wild garlic, Greatwood Copse, Isle of Wight, England (© Available Light Photography/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=The+Isle+of+Wight+Garlic+Festival&form=hpcapt&filters=HpDate%3a%2220250815_2300%22",
+            "title": "A 'clove' affair to remember",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250815_GarlicFestival2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "979a92359e8fe7a926a9059c75ab58ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250814",
             "fullstartdate": "202508142300",
