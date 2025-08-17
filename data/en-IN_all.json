@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-16 00:50:40",
-    "Total": 1207,
+    "LastUpdate": "2025-08-17 00:50:55",
+    "Total": 1208,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250816",
+            "fullstartdate": "202508161830",
+            "enddate": "20250817",
+            "url": "/th?id=OHR.LyngvigLighthouse_EN-IN6166731437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LyngvigLighthouse_EN-IN6166731437",
+            "copyright": "Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lyngvig+Lighthouse&form=hpcapt&filters=HpDate%3a%2220250816_1830%22",
+            "title": "One tall way to spot the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250816_LyngvigLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d08c5fd1d0bd0ba836d248eaa3a8ac94",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250815",
             "fullstartdate": "202508151830",
