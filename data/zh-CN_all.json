@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-17 00:50:29",
-    "Total": 1208,
+    "LastUpdate": "2025-08-18 00:50:41",
+    "Total": 1209,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250817",
+            "fullstartdate": "202508171600",
+            "enddate": "20250818",
+            "url": "/th?id=OHR.AvalancheLake_ZH-CN1442576083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvalancheLake_ZH-CN1442576083",
+            "copyright": "雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%B7%9E%E9%9B%AA%E5%B4%A9%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "溪流入梦",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250817_AvalancheLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8bcba38dd338ec7016296d47d093320a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250816",
             "fullstartdate": "202508161600",
