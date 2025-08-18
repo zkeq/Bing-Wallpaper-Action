@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-17 00:50:55",
-    "Total": 1208,
+    "LastUpdate": "2025-08-18 00:51:06",
+    "Total": 1209,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250817",
+            "fullstartdate": "202508171830",
+            "enddate": "20250818",
+            "url": "/th?id=OHR.AvalancheLake_EN-IN2042962209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AvalancheLake_EN-IN2042962209",
+            "copyright": "Avalanche Lake trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Avalanche+Lake+New+York&form=hpcapt&filters=HpDate%3a%2220250817_1830%22",
+            "title": "Stream a little dream",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250817_AvalancheLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d229cb58c044b304f7dffa90eb861b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250816",
             "fullstartdate": "202508161830",
