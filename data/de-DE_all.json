@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-18 00:50:54",
-    "Total": 1209,
+    "LastUpdate": "2025-08-19 00:50:34",
+    "Total": 1210,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250818",
+            "fullstartdate": "202508182200",
+            "enddate": "20250819",
+            "url": "/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GipuzcoaSummer_DE-DE5130461802",
+            "copyright": "Flysch-Felsformationen in Zumaia, Baskenland, Spanien (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=hpcapt&filters=HpDate%3a%2220250818_2200%22",
+            "title": "Wunder der Geologie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250818_GipuzcoaSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f5203cec25eb94e48e18b0eca3023f77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250817",
             "fullstartdate": "202508172200",
