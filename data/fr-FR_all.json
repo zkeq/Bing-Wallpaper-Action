@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-18 00:51:10",
-    "Total": 1209,
+    "LastUpdate": "2025-08-19 00:50:50",
+    "Total": 1210,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250818",
+            "fullstartdate": "202508182200",
+            "enddate": "20250819",
+            "url": "/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GipuzcoaSummer_FR-FR5838334376",
+            "copyright": "Couches de flysch à Zumaia, Pays basque, Espagne (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=hpcapt&filters=HpDate%3a%2220250818_2200%22",
+            "title": "Voyage au cœur des âges",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250818_GipuzcoaSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d19bc6aff8bf0e6d8ec8149c66868170",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250817",
             "fullstartdate": "202508172200",
