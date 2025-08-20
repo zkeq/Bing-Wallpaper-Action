@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-19 00:50:46",
-    "Total": 1210,
+    "LastUpdate": "2025-08-20 00:50:46",
+    "Total": 1211,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250819",
+            "fullstartdate": "202508191830",
+            "enddate": "20250820",
+            "url": "/th?id=OHR.CitadelBonifacio_EN-IN2658303132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CitadelBonifacio_EN-IN2658303132",
+            "copyright": "The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bonifacio&form=hpcapt&filters=HpDate%3a%2220250819_1830%22",
+            "title": "Built to last",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250819_CitadelBonifacio%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d016a8f2e3b2f37b1d9f196d55491030",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250818",
             "fullstartdate": "202508181830",
