@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-19 00:50:26",
-    "Total": 1210,
+    "LastUpdate": "2025-08-20 00:50:25",
+    "Total": 1211,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250819",
+            "fullstartdate": "202508190700",
+            "enddate": "20250820",
+            "url": "/th?id=OHR.SolarAviation_EN-US1940905760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SolarAviation_EN-US1940905760",
+            "copyright": "Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Aviation+Day&form=hpcapt&filters=HpDate%3a%2220250819_0700%22",
+            "title": "Powered by the sun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250819_SolarAviation%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "eeb3ab740ec64620a1208f9fa52f7453",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250818",
             "fullstartdate": "202508180700",
