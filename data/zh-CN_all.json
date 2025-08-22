@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-21 00:50:09",
-    "Total": 1212,
+    "LastUpdate": "2025-08-22 00:50:13",
+    "Total": 1213,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250821",
+            "fullstartdate": "202508211600",
+            "enddate": "20250822",
+            "url": "/th?id=OHR.PalouseWA_ZH-CN2552273820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalouseWA_ZH-CN2552273820",
+            "copyright": "帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "大自然的绿色地毯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250821_PalouseWA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4aeb09af1d109ea63ab154412be77821",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250820",
             "fullstartdate": "202508201600",
