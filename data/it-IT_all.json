@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-22 00:50:47",
-    "Total": 1213,
+    "LastUpdate": "2025-08-23 00:50:41",
+    "Total": 1214,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250822",
+            "fullstartdate": "202508222200",
+            "enddate": "20250823",
+            "url": "/th?id=OHR.SaintBarbaras_IT-IT0267106236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaintBarbaras_IT-IT0267106236",
+            "copyright": "Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca (© Castka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cattedrale+di+Santa+Barbara+Kutn%C3%A1+Hora+Cechia&form=hpcapt",
+            "title": "Cuspidi e Mistica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250822_SaintBarbaras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df587f947a1ddf7988d0482be4ccc80d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250821",
             "fullstartdate": "202508212200",
