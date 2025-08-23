@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-22 00:50:39",
-    "Total": 1213,
+    "LastUpdate": "2025-08-23 00:50:33",
+    "Total": 1214,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250822",
+            "fullstartdate": "202508221830",
+            "enddate": "20250823",
+            "url": "/th?id=OHR.SaintBarbaras_EN-IN1181237590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaintBarbaras_EN-IN1181237590",
+            "copyright": "St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=St+Barbaras+Cathedral&form=hpcapt&filters=HpDate%3a%2220250822_1830%22",
+            "title": "Gothic majesty",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250822_SaintBarbaras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c875a25aef2fb705b5a629b09f1b7698",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250821",
             "fullstartdate": "202508211830",
