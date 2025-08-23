@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-22 00:50:43",
-    "Total": 1213,
+    "LastUpdate": "2025-08-23 00:50:37",
+    "Total": 1214,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250822",
+            "fullstartdate": "202508222200",
+            "enddate": "20250823",
+            "url": "/th?id=OHR.SaintBarbaras_FR-FR4490815569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaintBarbaras_FR-FR4490815569",
+            "copyright": "Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cath%C3%A9drale+Sainte-Barbe&form=hpcapt&filters=HpDate%3a%2220250822_2200%22",
+            "title": "Une cathédrale en hommage aux mineurs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250822_SaintBarbaras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4d314f9ef2b40d0540794bb269fcf82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250821",
             "fullstartdate": "202508212200",
