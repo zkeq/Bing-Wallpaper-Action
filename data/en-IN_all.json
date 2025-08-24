@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-23 00:50:33",
-    "Total": 1214,
+    "LastUpdate": "2025-08-24 00:50:54",
+    "Total": 1215,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250823",
+            "fullstartdate": "202508231830",
+            "enddate": "20250824",
+            "url": "/th?id=OHR.CervusDama_EN-IN1330796053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CervusDama_EN-IN1330796053",
+            "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=European+fallow+deer&form=hpcapt&filters=HpDate%3a%2220250823_1830%22",
+            "title": "'Fallow' me",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250823_CervusDama%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c6519948749aeb3cf1c652fc6059e09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250822",
             "fullstartdate": "202508221830",
