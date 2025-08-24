@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-23 00:50:29",
-    "Total": 1211,
+    "LastUpdate": "2025-08-24 00:50:50",
+    "Total": 1212,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250823",
+            "fullstartdate": "202508232300",
+            "enddate": "20250824",
+            "url": "/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603",
+            "copyright": "Notting Hill Carnival wall mural, London (© BRIAN ANTHONY/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220250823_2300%22",
+            "title": "Paint the town rhythmic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250823_NottingHillCarnival2025%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ecfd54c281118511dfd6369850104f3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250822",
             "fullstartdate": "202508222300",
