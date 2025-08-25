@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-24 00:50:42",
-    "Total": 1215,
+    "LastUpdate": "2025-08-25 00:50:34",
+    "Total": 1216,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250824",
+            "fullstartdate": "202508242200",
+            "enddate": "20250825",
+            "url": "/th?id=OHR.YellowstoneRiver_DE-DE2550082704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneRiver_DE-DE2550082704",
+            "copyright": "Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA (© Rebecca L. Latson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=+Yellowstone-Nationalpark+USA&form=hpcapt&filters=HpDate%3a%2220250824_2200%22",
+            "title": "Naturgewalten im Wandel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250824_YellowstoneRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "570eca2724eaee7d6fb3abb898edef4b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250823",
             "fullstartdate": "202508232200",
