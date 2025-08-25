@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-24 00:50:29",
-    "Total": 1215,
+    "LastUpdate": "2025-08-25 00:50:20",
+    "Total": 1216,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250824",
+            "fullstartdate": "202508241600",
+            "enddate": "20250825",
+            "url": "/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneRiver_ZH-CN3716808579",
+            "copyright": "方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E7%9F%B3%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "从火山之源到河流之路",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250824_YellowstoneRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22c32bfc3db56bce40a7f96c6f0fdf13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250823",
             "fullstartdate": "202508231600",
