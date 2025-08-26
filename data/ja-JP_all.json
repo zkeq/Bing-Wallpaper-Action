@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-25 00:50:29",
-    "Total": 1216,
+    "LastUpdate": "2025-08-26 00:50:23",
+    "Total": 1217,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250825",
+            "fullstartdate": "202508251500",
+            "enddate": "20250826",
+            "url": "/th?id=OHR.TrulliHouses_JA-JP5521004094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrulliHouses_JA-JP5521004094",
+            "copyright": "アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AD%E3%83%99%E3%83%83%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220250825_1500%22",
+            "title": "とんがり屋根が並ぶ小さな町",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250825_TrulliHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2d7966033772be5e38d3cdf3eb120d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250824",
             "fullstartdate": "202508241500",
