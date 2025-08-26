@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-25 00:50:34",
-    "Total": 1216,
+    "LastUpdate": "2025-08-26 00:50:28",
+    "Total": 1217,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250825",
+            "fullstartdate": "202508252200",
+            "enddate": "20250826",
+            "url": "/th?id=OHR.KitesurferGermany_DE-DE6337370430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KitesurferGermany_DE-DE6337370430",
+            "copyright": "Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer (© Jens Breuer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Defender+GKA+Kite+World+Cup+auf+Sylt&form=hpcapt&filters=HpDate%3a%2220250825_2200%22",
+            "title": "Wind, Wellen und Adrenalin",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250825_KitesurferGermany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "422fefa3a25fc20c5b28ba114d5bc553",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250824",
             "fullstartdate": "202508242200",
