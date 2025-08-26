@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-25 00:50:20",
-    "Total": 1216,
+    "LastUpdate": "2025-08-26 00:50:14",
+    "Total": 1217,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250825",
+            "fullstartdate": "202508251600",
+            "enddate": "20250826",
+            "url": "/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrulliHouses_ZH-CN3856452406",
+            "copyright": "阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E8%B4%9D%E7%BD%97%E8%B4%9D%E6%B4%9B&form=hpcapt&mkt=zh-cn",
+            "title": "一座非凡的特鲁洛小镇",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250825_TrulliHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fcc776e9123117cc3ce8279e5b965ef7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250824",
             "fullstartdate": "202508241600",
