@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-26 00:50:23",
-    "Total": 1217,
+    "LastUpdate": "2025-08-27 00:50:25",
+    "Total": 1218,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250826",
+            "fullstartdate": "202508261500",
+            "enddate": "20250827",
+            "url": "/th?id=OHR.FaroeLake_JA-JP5563873968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FaroeLake_JA-JP5563873968",
+            "copyright": "ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BD%E3%83%BC%E3%83%AB%E3%83%B4%E3%82%A1%E3%82%B0%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%88%E3%83%B3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220250826_1500%22",
+            "title": "今日は世界湖沼の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_FaroeLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9abc6ab44e33d460bad771f09cfb5bdd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250825",
             "fullstartdate": "202508251500",
