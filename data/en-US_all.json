@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-26 00:50:19",
-    "Total": 1217,
+    "LastUpdate": "2025-08-27 00:50:21",
+    "Total": 1218,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250826",
+            "fullstartdate": "202508260700",
+            "enddate": "20250827",
+            "url": "/th?id=OHR.TrulliHouses_EN-US3489439665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrulliHouses_EN-US3489439665",
+            "copyright": "Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alberobello&form=hpcapt&filters=HpDate%3a%2220250826_0700%22",
+            "title": "A 'trulli' remarkable town",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_TrulliHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7231458ee5cef7bedba833f4130963d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250825",
             "fullstartdate": "202508250700",
