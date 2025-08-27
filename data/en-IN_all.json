@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-26 00:50:40",
-    "Total": 1217,
+    "LastUpdate": "2025-08-27 00:50:41",
+    "Total": 1218,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250826",
+            "fullstartdate": "202508261830",
+            "enddate": "20250827",
+            "url": "/th?id=OHR.ClayGanesha_EN-IN3970807588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ClayGanesha_EN-IN3970807588",
+            "copyright": "Clay-idol of Ganesha at a temple near Bengaluru (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ganesh+Chaturthi&form=hpcapt&filters=HpDate%3a%2220250826_1830%22",
+            "title": "Crafted with soil and soul",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_ClayGanesha%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3a8f4bad081c3c32ea750ecd7815fd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250825",
             "fullstartdate": "202508251830",
