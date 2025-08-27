@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-26 00:50:44",
-    "Total": 1217,
+    "LastUpdate": "2025-08-27 00:50:45",
+    "Total": 1218,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250826",
+            "fullstartdate": "202508262200",
+            "enddate": "20250827",
+            "url": "/th?id=OHR.FaroeLake_FR-FR9783963301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FaroeLake_FR-FR9783963301",
+            "copyright": "Lac Sørvágsvatn, île de Vágar, Îles Féroé (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lac+S%C3%B8rv%C3%A1gsvatn&form=hpcapt&filters=HpDate%3a%2220250826_2200%22",
+            "title": "Vers l’infini… et l’eau de là",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_FaroeLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f44d2ea9980222c54fa7b849bd72e31",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250825",
             "fullstartdate": "202508252200",
