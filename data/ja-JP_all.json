@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:25",
-    "Total": 1218,
+    "LastUpdate": "2025-08-28 00:50:26",
+    "Total": 1219,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508271500",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.WhiteEgret_JA-JP5628214526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEgret_JA-JP5628214526",
+            "copyright": "ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%80%E3%82%A4%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250827_1500%22",
+            "title": "世界を渡る白き旅人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "31a1e72ba666a4279b787186b175d3ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508261500",
