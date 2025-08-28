@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:33",
-    "Total": 1217,
+    "LastUpdate": "2025-08-28 00:50:34",
+    "Total": 1218,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508270400",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.FaroeLake_EN-CA2287447037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FaroeLake_EN-CA2287447037",
+            "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220250827_0400%22",
+            "title": "A lake above the ocean",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_FaroeLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9700e024917a9ed88e7632b337a51206",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508260400",
