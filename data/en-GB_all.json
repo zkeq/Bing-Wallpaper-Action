@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:37",
-    "Total": 1215,
+    "LastUpdate": "2025-08-28 00:50:38",
+    "Total": 1216,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508272300",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.WhiteEgret_EN-GB9754251340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEgret_EN-GB9754251340",
+            "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+white+egret&form=hpcapt&filters=HpDate%3a%2220250827_2300%22",
+            "title": "This egret has no regrets",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9439fc95442e41d282be30f298f58cc8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508262300",
