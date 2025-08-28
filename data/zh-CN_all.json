@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:16",
-    "Total": 1218,
+    "LastUpdate": "2025-08-28 00:50:17",
+    "Total": 1219,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508271600",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEgret_ZH-CN4425921150",
+            "copyright": "大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%99%BD%E9%B9%AD&form=hpcapt&mkt=zh-cn",
+            "title": "这只白鹭毫无遗憾",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c69b1f7666e39eef5e89b4cea500c87f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508261600",
