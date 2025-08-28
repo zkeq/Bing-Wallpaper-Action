@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:45",
-    "Total": 1218,
+    "LastUpdate": "2025-08-28 00:50:46",
+    "Total": 1219,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508272200",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.WhiteEgret_FR-FR1372532221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEgret_FR-FR1372532221",
+            "copyright": "Grande Aigrette, Hongrie (© Markus Varesvuo/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Grande+Aigrette&form=hpcapt&filters=HpDate%3a%2220250827_2200%22",
+            "title": "Ça vit d’air pur et d’eau fraîche, une aigrette",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee5f26d87267f0d391bc6b37f1f4485f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508262200",
