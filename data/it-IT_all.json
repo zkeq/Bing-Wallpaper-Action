@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-27 00:50:49",
-    "Total": 1218,
+    "LastUpdate": "2025-08-28 00:50:50",
+    "Total": 1219,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250827",
+            "fullstartdate": "202508272200",
+            "enddate": "20250828",
+            "url": "/th?id=OHR.WhiteEgret_IT-IT9836668114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteEgret_IT-IT9836668114",
+            "copyright": "Airone bianco, Ungheria (© Markus Varesvuo/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Ardea+alba&form=hpcapt",
+            "title": "L’arte dell’attesa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "28678ecb791514268a7e1ea523865ed4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250826",
             "fullstartdate": "202508262200",
