@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-28 00:50:30",
-    "Total": 1219,
+    "LastUpdate": "2025-08-29 00:50:26",
+    "Total": 1220,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250828",
+            "fullstartdate": "202508282200",
+            "enddate": "20250829",
+            "url": "/th?id=OHR.PlazaMayor_DE-DE2952299555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlazaMayor_DE-DE2952299555",
+            "copyright": "Luftaufnahme der Plaza Mayor, Madrid, Spanien (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Madrid+Hauptstadt+Spanien&form=hpcapt&filters=HpDate%3a%2220250828_2200%22",
+            "title": "Das Wahrzeichen der Stadt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250828_PlazaMayor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1a5719d75febe56aceffbb97822d41d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250827",
             "fullstartdate": "202508272200",
