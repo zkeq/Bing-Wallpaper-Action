@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-28 00:50:46",
-    "Total": 1219,
+    "LastUpdate": "2025-08-29 00:50:43",
+    "Total": 1220,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250828",
+            "fullstartdate": "202508282200",
+            "enddate": "20250829",
+            "url": "/th?id=OHR.PlazaMayor_FR-FR2388557183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlazaMayor_FR-FR2388557183",
+            "copyright": "Vue aérienne de la Plaza Mayor, Madrid, Espagne (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Plaza+Mayor+de+Madrid&form=hpcapt&filters=HpDate%3a%2220250828_2200%22",
+            "title": "La géométrie du souvenir",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250828_PlazaMayor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "53ca45e6f86b8d2aa214383d6ed80790",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250827",
             "fullstartdate": "202508272200",
