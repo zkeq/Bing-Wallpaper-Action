@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-28 00:50:42",
-    "Total": 1219,
+    "LastUpdate": "2025-08-29 00:50:39",
+    "Total": 1220,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250828",
+            "fullstartdate": "202508281830",
+            "enddate": "20250829",
+            "url": "/th?id=OHR.PlazaMayor_EN-IN3487561181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlazaMayor_EN-IN3487561181",
+            "copyright": "Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=hpcapt&filters=HpDate%3a%2220250828_1830%22",
+            "title": "The heart of the grid",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250828_PlazaMayor%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47d06da4100854ecb7ee5a1a29a5a29b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250827",
             "fullstartdate": "202508271830",
