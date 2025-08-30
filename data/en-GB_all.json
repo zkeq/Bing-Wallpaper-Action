@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-29 00:50:35",
-    "Total": 1217,
+    "LastUpdate": "2025-08-30 00:50:30",
+    "Total": 1218,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250829",
+            "fullstartdate": "202508292300",
+            "enddate": "20250830",
+            "url": "/th?id=OHR.MaldivesWhaleShark_EN-GB0087739452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaldivesWhaleShark_EN-GB0087739452",
+            "copyright": "Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Whale+Shark+Day&form=hpcapt&filters=HpDate%3a%2220250829_2300%22",
+            "title": "Finned and fabulous",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250829_MaldivesWhaleShark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a22ae18a7c2022b8e4717d8b96886d73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250828",
             "fullstartdate": "202508282300",
