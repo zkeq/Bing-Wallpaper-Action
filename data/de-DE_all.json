@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-30 00:50:22",
-    "Total": 1221,
+    "LastUpdate": "2025-08-31 00:51:01",
+    "Total": 1222,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250830",
+            "fullstartdate": "202508302200",
+            "enddate": "20250831",
+            "url": "/th?id=OHR.ScottsBluff_DE-DE5756991570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ScottsBluff_DE-DE5756991570",
+            "copyright": "Scotts Bluff National Monument in Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nebraska&form=hpcapt&filters=HpDate%3a%2220250830_2200%22",
+            "title": "Markante Landschaftsformen mit langer Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250830_ScottsBluff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "647c8cd7aefb2c717de896e0a3ddfa43",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250829",
             "fullstartdate": "202508292200",
