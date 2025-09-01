@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-31 00:50:57",
-    "Total": 1222,
+    "LastUpdate": "2025-09-01 00:50:46",
+    "Total": 1223,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250831",
+            "fullstartdate": "202508311500",
+            "enddate": "20250901",
+            "url": "/th?id=OHR.SaintBarbaras_JA-JP5804029970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaintBarbaras_JA-JP5804029970",
+            "copyright": "聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%81%96%E3%83%90%E3%83%AB%E3%83%9C%E3%83%A9%E6%95%99%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220250831_1500%22",
+            "title": "尖頭アーチと肋骨ヴォールト",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250831_SaintBarbaras%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f5c3fe2b3e267a074a97bbff8368d9c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250830",
             "fullstartdate": "202508301500",
