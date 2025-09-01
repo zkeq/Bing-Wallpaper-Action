@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-08-31 00:51:09",
-    "Total": 1219,
+    "LastUpdate": "2025-09-01 00:50:59",
+    "Total": 1220,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250831",
+            "fullstartdate": "202508312300",
+            "enddate": "20250901",
+            "url": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324",
+            "copyright": "Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=hpcapt&filters=HpDate%3a%2220250831_2300%22",
+            "title": "Rocks that flow with the sea!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250831_GipuzcoaSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9fa3853946020372bef810a6fea8c5e5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250830",
             "fullstartdate": "202508302300",
