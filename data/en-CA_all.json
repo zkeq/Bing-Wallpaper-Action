@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-01 00:50:54",
-    "Total": 1222,
+    "LastUpdate": "2025-09-02 00:50:33",
+    "Total": 1223,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250901",
+            "fullstartdate": "202509010400",
+            "enddate": "20250902",
+            "url": "/th?id=OHR.YellowstoneRiver_EN-CA9627036432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneRiver_EN-CA9627036432",
+            "copyright": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Yellowstone+National+Park&form=hpcapt&filters=HpDate%3a%2220250901_0400%22",
+            "title": "From volcanic roots to river routes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_YellowstoneRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb53e72451014e23cdf331afd6f008bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250831",
             "fullstartdate": "202508310400",
