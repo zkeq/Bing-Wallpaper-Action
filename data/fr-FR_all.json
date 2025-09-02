@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-01 00:51:07",
-    "Total": 1223,
+    "LastUpdate": "2025-09-02 00:50:46",
+    "Total": 1224,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250901",
+            "fullstartdate": "202509012200",
+            "enddate": "20250902",
+            "url": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229",
+            "copyright": "Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+Namib-Naukluft%2c+Namibie&form=hpcapt&filters=HpDate%3a%2220250901_2200%22",
+            "title": "Les arbres du passé",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3107f78e1d9f04855e0d020a006ca59b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250831",
             "fullstartdate": "202508312200",
