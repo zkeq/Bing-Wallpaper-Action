@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-01 00:50:50",
-    "Total": 1223,
+    "LastUpdate": "2025-09-02 00:50:29",
+    "Total": 1224,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250901",
+            "fullstartdate": "202509012200",
+            "enddate": "20250902",
+            "url": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232",
+            "copyright": "Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia (© Inge Johnsson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Namib-Naukluft-Park+in+Namibia&form=hpcapt&filters=HpDate%3a%2220250901_2200%22",
+            "title": "Stumme Zeugen der Vergangenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa6310de87faa7587b9c75eb76032f84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250831",
             "fullstartdate": "202508312200",
