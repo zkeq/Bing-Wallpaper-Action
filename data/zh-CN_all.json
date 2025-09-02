@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-01 00:50:37",
-    "Total": 1223,
+    "LastUpdate": "2025-09-02 00:50:16",
+    "Total": 1224,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250901",
+            "fullstartdate": "202509011600",
+            "enddate": "20250902",
+            "url": "/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeadvleiTrees_ZH-CN0967414858",
+            "copyright": "骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E7%BA%B3%E7%B1%B3%E5%B8%83%E8%AF%BA%E5%85%8B%E8%B7%AF%E7%A6%8F%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "死谷的幽灵",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a90953aa8f36462fa4b1901ee601393",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250831",
             "fullstartdate": "202508311600",
