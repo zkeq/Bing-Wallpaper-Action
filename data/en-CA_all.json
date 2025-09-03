@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-02 00:50:33",
-    "Total": 1223,
+    "LastUpdate": "2025-09-03 00:50:26",
+    "Total": 1224,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250902",
+            "fullstartdate": "202509020400",
+            "enddate": "20250903",
+            "url": "/th?id=OHR.DeadvleiTrees_EN-CA3439734849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeadvleiTrees_EN-CA3439734849",
+            "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Namib+Naukluft+Park+in+Namibia&form=hpcapt&filters=HpDate%3a%2220250902_0400%22",
+            "title": "Ghosts of Deadvlei",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250902_DeadvleiTrees%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b8bc48bf7d2f6abe6166d90935dc265",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250901",
             "fullstartdate": "202509010400",
