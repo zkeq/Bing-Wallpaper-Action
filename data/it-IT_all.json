@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-02 00:50:50",
-    "Total": 1224,
+    "LastUpdate": "2025-09-03 00:50:42",
+    "Total": 1225,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250902",
+            "fullstartdate": "202509022200",
+            "enddate": "20250903",
+            "url": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126",
+            "copyright": "Tempio della Concordia, Agrigento, Sicilia (© Wirestock/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tempio+della+Concordia&form=hpcapt",
+            "title": "Luce sulle rovine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250902_AgrigentoSicilia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "29de630cba0f7135c551d31e626145ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250901",
             "fullstartdate": "202509012200",
