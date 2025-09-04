@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-03 00:50:10",
-    "Total": 1225,
+    "LastUpdate": "2025-09-04 00:50:13",
+    "Total": 1226,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250903",
+            "fullstartdate": "202509031600",
+            "enddate": "20250904",
+            "url": "/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WrestlingBears_ZH-CN6430637848",
+            "copyright": "灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%81%B0%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "力量的角逐",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "110b0fddf0f9262849ab2160b324a567",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250902",
             "fullstartdate": "202509021600",
