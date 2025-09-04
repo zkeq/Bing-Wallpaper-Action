@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-03 00:50:34",
-    "Total": 1225,
+    "LastUpdate": "2025-09-04 00:50:37",
+    "Total": 1226,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250903",
+            "fullstartdate": "202509031830",
+            "enddate": "20250904",
+            "url": "/th?id=OHR.WrestlingBears_EN-IN9132458412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WrestlingBears_EN-IN9132458412",
+            "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Grizzly+bears&form=hpcapt&filters=HpDate%3a%2220250903_1830%22",
+            "title": "Bear with us",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "85a4a95423fc9c61662fc9b9484e7dd4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250902",
             "fullstartdate": "202509021830",
