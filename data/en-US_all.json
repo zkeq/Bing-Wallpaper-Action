@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-03 00:50:14",
-    "Total": 1225,
+    "LastUpdate": "2025-09-04 00:50:17",
+    "Total": 1226,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250903",
+            "fullstartdate": "202509030700",
+            "enddate": "20250904",
+            "url": "/th?id=OHR.MinnesotaWaters_EN-US4282198656_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MinnesotaWaters_EN-US4282198656",
+            "copyright": "Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Wilderness+Act&form=hpcapt&filters=HpDate%3a%2220250903_0700%22",
+            "title": "Protected stillness",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_MinnesotaWaters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b2b6f22cb96742b8d53d72e281f08e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250902",
             "fullstartdate": "202509020700",
