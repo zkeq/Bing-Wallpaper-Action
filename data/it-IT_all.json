@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-03 00:50:42",
-    "Total": 1225,
+    "LastUpdate": "2025-09-04 00:50:45",
+    "Total": 1226,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250903",
+            "fullstartdate": "202509032200",
+            "enddate": "20250904",
+            "url": "/th?id=OHR.WrestlingBears_IT-IT9855887848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WrestlingBears_IT-IT9855887848",
+            "copyright": "Orsi grizzly, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Cavan Images/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Grizzly&form=hpcapt",
+            "title": "Giganti dal cuore selvaggio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6683a3f7626ccf50cdeffbe2dc53e081",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250902",
             "fullstartdate": "202509022200",
