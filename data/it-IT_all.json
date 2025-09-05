@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-04 00:50:45",
-    "Total": 1226,
+    "LastUpdate": "2025-09-05 00:50:49",
+    "Total": 1227,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250904",
+            "fullstartdate": "202509042200",
+            "enddate": "20250905",
+            "url": "/th?id=OHR.SunsetPier_IT-IT8926979057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetPier_IT-IT8926979057",
+            "copyright": "Pacific Park, Santa Monica State Beach, California, USA (© EXTREME-PHOTOGRAPHER/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Monica+comune+degli+Stati+Uniti&form=hpcapt",
+            "title": "Gira la ruota",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250904_SunsetPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17580125b185a4462a5849e152cd42b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250903",
             "fullstartdate": "202509032200",
