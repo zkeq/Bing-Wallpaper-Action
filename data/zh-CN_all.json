@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-04 00:50:13",
-    "Total": 1226,
+    "LastUpdate": "2025-09-05 00:50:14",
+    "Total": 1227,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250904",
+            "fullstartdate": "202509041600",
+            "enddate": "20250905",
+            "url": "/th?id=OHR.SunsetPier_ZH-CN1202083395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetPier_ZH-CN1202083395",
+            "copyright": "太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国 (© EXTREME-PHOTOGRAPHER/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E8%8E%AB%E5%A6%AE%E5%8D%A1%E5%B7%9E%E7%AB%8B%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn",
+            "title": "完美的夜晚",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250904_SunsetPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7547e05be918d2e85a058dca4529353c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250903",
             "fullstartdate": "202509031600",
