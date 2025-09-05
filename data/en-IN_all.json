@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-04 00:50:37",
-    "Total": 1226,
+    "LastUpdate": "2025-09-05 00:50:40",
+    "Total": 1227,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250904",
+            "fullstartdate": "202509041830",
+            "enddate": "20250905",
+            "url": "/th?id=OHR.BoatraceOnam_EN-IN9170886628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoatraceOnam_EN-IN9170886628",
+            "copyright": "Oarsmen rowing in snake boats at Aranmula, Kerala (© Rajesh Narayanan/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Onam&form=hpcapt&filters=HpDate%3a%2220250904_1830%22",
+            "title": "Racing the harvest tides",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250904_BoatraceOnam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90d5ffe77438d93a7ff13fc7fdb1cab8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250903",
             "fullstartdate": "202509031830",
