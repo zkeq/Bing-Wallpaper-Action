@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-05 00:50:40",
-    "Total": 1227,
+    "LastUpdate": "2025-09-06 00:50:35",
+    "Total": 1228,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250905",
+            "fullstartdate": "202509051830",
+            "enddate": "20250906",
+            "url": "/th?id=OHR.SunsetPier_EN-IN9369889790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetPier_EN-IN9369889790",
+            "copyright": "Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Monica+State+Beach&form=hpcapt&filters=HpDate%3a%2220250905_1830%22",
+            "title": "A pier-fect evening",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_SunsetPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47d1f1d7b495d4b3e9bf55c603b3b225",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250904",
             "fullstartdate": "202509041830",
