@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-05 00:50:14",
-    "Total": 1227,
+    "LastUpdate": "2025-09-06 00:50:10",
+    "Total": 1228,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250905",
+            "fullstartdate": "202509051600",
+            "enddate": "20250906",
+            "url": "/th?id=OHR.RufousHummer_ZH-CN1777072350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RufousHummer_ZH-CN1777072350",
+            "copyright": "棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A3%95%E7%85%8C%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "忙碌的一天",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_RufousHummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0296a632d12a641ec19ae90db95860c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250904",
             "fullstartdate": "202509041600",
