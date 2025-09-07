@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-06 00:50:23",
-    "Total": 1228,
+    "LastUpdate": "2025-09-07 00:50:36",
+    "Total": 1229,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250906",
+            "fullstartdate": "202509062200",
+            "enddate": "20250907",
+            "url": "/th?id=OHR.BlueGdansk_DE-DE2028955580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueGdansk_DE-DE2028955580",
+            "copyright": "Danzig am Ufer der Mottlau, Polen (© Oscar Dominguez/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Danzig&form=hpcapt&filters=HpDate%3a%2220250906_2200%22",
+            "title": "Eine Perle an der Ostsee",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250906_BlueGdansk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d40fd6cd5034863f40453590d01379c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250905",
             "fullstartdate": "202509052200",
