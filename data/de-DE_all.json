@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-07 00:50:36",
-    "Total": 1229,
+    "LastUpdate": "2025-09-08 00:50:32",
+    "Total": 1230,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250907",
+            "fullstartdate": "202509072200",
+            "enddate": "20250908",
+            "url": "/th?id=OHR.OrchardLibrary_DE-DE1336292524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrchardLibrary_DE-DE1336292524",
+            "copyright": "library@orchard, Singapur (© Darwin Fan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltalphabetisierungstag&form=hpcapt&filters=HpDate%3a%2220250907_2200%22",
+            "title": "Lesen bringt Wesen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250907_OrchardLibrary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd3fe74d534719f6ac23062eaef21019",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250906",
             "fullstartdate": "202509062200",
