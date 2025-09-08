@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-07 00:50:22",
-    "Total": 1229,
+    "LastUpdate": "2025-09-08 00:50:19",
+    "Total": 1230,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250907",
+            "fullstartdate": "202509071600",
+            "enddate": "20250908",
+            "url": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798",
+            "copyright": "乌节图书馆，新加坡 (© Darwin Fan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%89%AB%E7%9B%B2%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "当天预订",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250907_OrchardLibrary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ea8f398bf14d39c4c5c213917911f1f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250906",
             "fullstartdate": "202509061600",
