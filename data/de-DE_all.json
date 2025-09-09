@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-08 00:50:32",
-    "Total": 1230,
+    "LastUpdate": "2025-09-09 00:50:28",
+    "Total": 1231,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250908",
+            "fullstartdate": "202509082200",
+            "enddate": "20250909",
+            "url": "/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwissSquirrel_DE-DE3902212654",
+            "copyright": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%C3%B6rnchen&form=hpcapt&filters=HpDate%3a%2220250908_2200%22",
+            "title": "Ein Meister des Kletterns",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_SwissSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e276323a49be3656419b5b82ecf2638",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250907",
             "fullstartdate": "202509072200",
