@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-08 00:50:54",
-    "Total": 1230,
+    "LastUpdate": "2025-09-09 00:50:49",
+    "Total": 1231,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250908",
+            "fullstartdate": "202509082200",
+            "enddate": "20250909",
+            "url": "/th?id=OHR.DunquinIreland_IT-IT9116681695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunquinIreland_IT-IT9116681695",
+            "copyright": "Scala a chiocciola del molo di Dún Chaoin, Contea di Kerry, Irlanda (© Hugh O'Connor/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=D%C3%BAn+Chaoin&form=hpcapt",
+            "title": "Là dove finisce la Terra",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_DunquinIreland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba8398768edea25f1be8d688860b7966",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250907",
             "fullstartdate": "202509072200",
