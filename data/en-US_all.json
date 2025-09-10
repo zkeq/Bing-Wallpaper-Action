@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-09 00:50:20",
-    "Total": 1231,
+    "LastUpdate": "2025-09-10 00:50:26",
+    "Total": 1232,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250909",
+            "fullstartdate": "202509090700",
+            "enddate": "20250910",
+            "url": "/th?id=OHR.SwissSquirrel_EN-US8185093853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwissSquirrel_EN-US8185093853",
+            "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220250909_0700%22",
+            "title": "Twig by twig, she prepares",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250909_SwissSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "989786968814aa5568a14f673510b7d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250908",
             "fullstartdate": "202509080700",
