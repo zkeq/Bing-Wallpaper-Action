@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-11 00:50:59",
-    "Total": 1233,
+    "LastUpdate": "2025-09-12 00:51:02",
+    "Total": 1234,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250911",
+            "fullstartdate": "202509112200",
+            "enddate": "20250912",
+            "url": "/th?id=OHR.SpinnerDolphins_IT-IT5393623378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpinnerDolphins_IT-IT5393623378",
+            "copyright": "Branco di delfini stenella striata nel Mar Rosso, Marsa Alam, Egitto (© Franco Banfi/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Delfino&form=hpcapt",
+            "title": "Rituali Blu?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250911_SpinnerDolphins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4e5523ed81be102acada65fee22af9c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250910",
             "fullstartdate": "202509102200",
