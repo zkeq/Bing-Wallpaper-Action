@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-12 00:50:28",
-    "Total": 1234,
+    "LastUpdate": "2025-09-13 00:50:04",
+    "Total": 1235,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250912",
+            "fullstartdate": "202509121600",
+            "enddate": "20250913",
+            "url": "/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyesSeashore_ZH-CN0076789582",
+            "copyright": "烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9B%B7%E6%96%AF%E5%B2%AC%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "崎岖而狂野",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_PointReyesSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c97edb724a49c9594d43bc757372562e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250911",
             "fullstartdate": "202509111600",
