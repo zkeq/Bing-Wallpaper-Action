@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-12 00:50:41",
-    "Total": 1234,
+    "LastUpdate": "2025-09-13 00:50:16",
+    "Total": 1235,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250912",
+            "fullstartdate": "202509122200",
+            "enddate": "20250913",
+            "url": "/th?id=OHR.PointReyesSeashore_DE-DE5164774211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyesSeashore_DE-DE5164774211",
+            "copyright": "Chimney Rock, Point Reyes National Seashore, Kalifornien, USA (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore+Kalifornien&form=hpcapt&filters=HpDate%3a%2220250912_2200%22",
+            "title": "Ungezähmte Landschaft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_PointReyesSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0779b2f08d5903537766bf81fdf44aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250911",
             "fullstartdate": "202509112200",
