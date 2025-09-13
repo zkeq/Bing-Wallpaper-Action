@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-12 00:50:58",
-    "Total": 1234,
+    "LastUpdate": "2025-09-13 00:50:32",
+    "Total": 1235,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250912",
+            "fullstartdate": "202509122200",
+            "enddate": "20250913",
+            "url": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233",
+            "copyright": "Chimney Rock, Point Reyes National Seashore, Californie, États-Unis (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Point+reyes+national+seashore+etats-unis&form=hpcapt&filters=HpDate%3a%2220250912_2200%22",
+            "title": "La vigie du Pacifique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_PointReyesSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3367d8b29d2390b19e6e5ac924312f12",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250911",
             "fullstartdate": "202509112200",
