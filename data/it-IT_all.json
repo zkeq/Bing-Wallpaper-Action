@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-13 00:50:37",
-    "Total": 1235,
+    "LastUpdate": "2025-09-14 00:51:10",
+    "Total": 1236,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250913",
+            "fullstartdate": "202509132200",
+            "enddate": "20250914",
+            "url": "/th?id=OHR.HohWaterfall_IT-IT5534141652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HohWaterfall_IT-IT5534141652",
+            "copyright": "Parco Nazionale Olimpico, Washington, USA (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+Olimpico+area+protetta&form=hpcapt",
+            "title": "Muschio e Misteri?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250913_HohWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6bfea92967fd255aced5db53251ab89a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250912",
             "fullstartdate": "202509122200",
