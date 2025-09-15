@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-14 00:50:35",
-    "Total": 1236,
+    "LastUpdate": "2025-09-15 00:50:38",
+    "Total": 1237,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250914",
+            "fullstartdate": "202509141600",
+            "enddate": "20250915",
+            "url": "/th?id=OHR.Echasse_ZH-CN0670369582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Echasse_ZH-CN0670369582",
+            "copyright": "黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%91%E7%BF%85%E9%95%BF%E8%84%9A%E9%B9%AC&form=hpcapt&mkt=zh-cn",
+            "title": "涉水寻迹",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_Echasse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e490132fc65c11ae52de1471548a0dea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250913",
             "fullstartdate": "202509131600",
