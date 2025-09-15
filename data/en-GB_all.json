@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-14 00:50:57",
-    "Total": 1233,
+    "LastUpdate": "2025-09-15 00:50:58",
+    "Total": 1234,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250914",
+            "fullstartdate": "202509142300",
+            "enddate": "20250915",
+            "url": "/th?id=OHR.PointReyesSeashore_EN-GB2522924402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PointReyesSeashore_EN-GB2522924402",
+            "copyright": "Chimney Rock, Point Reyes National Seashore, California, United States (© Enrique Aguirre Aves/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate%3a%2220250914_2300%22",
+            "title": "Rugged and wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_PointReyesSeashore%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce79a8967ea1845f3846870ca35ae22d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250913",
             "fullstartdate": "202509132300",
