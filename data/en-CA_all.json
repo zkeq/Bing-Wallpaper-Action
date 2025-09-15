@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-14 00:50:53",
-    "Total": 1235,
+    "LastUpdate": "2025-09-15 00:50:55",
+    "Total": 1236,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250914",
+            "fullstartdate": "202509140400",
+            "enddate": "20250915",
+            "url": "/th?id=OHR.HohWaterfall_EN-CA7082475802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HohWaterfall_EN-CA7082475802",
+            "copyright": "A waterfall in Olympic National Park, Washington, United States (© Chris Moore/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate%3a%2220250914_0400%22",
+            "title": "Moss and mist",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_HohWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec24f5085f8cc61f095a95152f6e8bd1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250913",
             "fullstartdate": "202509130400",
