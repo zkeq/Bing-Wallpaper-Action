@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-14 00:51:01",
-    "Total": 1236,
+    "LastUpdate": "2025-09-15 00:51:02",
+    "Total": 1237,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250914",
+            "fullstartdate": "202509141830",
+            "enddate": "20250915",
+            "url": "/th?id=OHR.Echasse_EN-IN1542383073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Echasse_EN-IN1542383073",
+            "copyright": "Black-winged stilts, France (© Antonio Sementa/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate%3a%2220250914_1830%22",
+            "title": "Wading for a sign",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_Echasse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "944e2ae4d3ad73e7a91a0c6ceea66ea9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250913",
             "fullstartdate": "202509131830",
