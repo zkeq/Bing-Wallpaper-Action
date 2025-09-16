@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-15 00:51:06",
-    "Total": 1237,
+    "LastUpdate": "2025-09-16 00:50:47",
+    "Total": 1238,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250915",
+            "fullstartdate": "202509152200",
+            "enddate": "20250916",
+            "url": "/th?id=OHR.OzoneEarth_FR-FR6213796059_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OzoneEarth_FR-FR6213796059",
+            "copyright": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Protection+de+la+couche+d%27ozone&form=hpcapt&filters=HpDate%3a%2220250915_2200%22",
+            "title": "La couche d’ozone, un succès environnemental",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f6deeeaa3df60cf17601cd12ebae204f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250914",
             "fullstartdate": "202509142200",
