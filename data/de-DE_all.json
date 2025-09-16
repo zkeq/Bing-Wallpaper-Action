@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-15 00:50:51",
-    "Total": 1237,
+    "LastUpdate": "2025-09-16 00:50:31",
+    "Total": 1238,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250915",
+            "fullstartdate": "202509152200",
+            "enddate": "20250916",
+            "url": "/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OzoneEarth_DE-DE2800551844",
+            "copyright": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=hpcapt&filters=HpDate%3a%2220250915_2200%22",
+            "title": "Ein stratosphärischer Erfolg",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d810d9d4b92233387548920f6514d305",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250914",
             "fullstartdate": "202509142200",
