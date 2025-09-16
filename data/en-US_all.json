@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-15 00:50:43",
-    "Total": 1237,
+    "LastUpdate": "2025-09-16 00:50:22",
+    "Total": 1238,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250915",
+            "fullstartdate": "202509150700",
+            "enddate": "20250916",
+            "url": "/th?id=OHR.DallasLegorreta_EN-US9050675226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DallasLegorreta_EN-US9050675226",
+            "copyright": "Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220250915_0700%22",
+            "title": "Vibrancy in every brick",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_DallasLegorreta%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7c0d848a580ca0652fbe1a7f6c722854",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250914",
             "fullstartdate": "202509140700",
