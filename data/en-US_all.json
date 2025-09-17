@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-16 00:50:22",
-    "Total": 1238,
+    "LastUpdate": "2025-09-17 00:50:24",
+    "Total": 1239,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250916",
+            "fullstartdate": "202509160700",
+            "enddate": "20250917",
+            "url": "/th?id=OHR.OzoneEarth_EN-US9728527733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OzoneEarth_EN-US9728527733",
+            "copyright": "Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ozone+Day&form=hpcapt&filters=HpDate%3a%2220250916_0700%22",
+            "title": "A stratospheric success",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250916_OzoneEarth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "215a6d1639aa7afc9717b73c37ae5403",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250915",
             "fullstartdate": "202509150700",
