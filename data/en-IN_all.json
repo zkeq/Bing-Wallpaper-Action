@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-16 00:50:43",
-    "Total": 1238,
+    "LastUpdate": "2025-09-17 00:50:44",
+    "Total": 1239,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250916",
+            "fullstartdate": "202509161830",
+            "enddate": "20250917",
+            "url": "/th?id=OHR.YoungMoose_EN-IN1905120338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungMoose_EN-IN1905120338",
+            "copyright": "A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Alaska+moose&form=hpcapt&filters=HpDate%3a%2220250916_1830%22",
+            "title": "A crown in the making",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250916_YoungMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d81e3a7bc4b110acd77810842228d0f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250915",
             "fullstartdate": "202509151830",
