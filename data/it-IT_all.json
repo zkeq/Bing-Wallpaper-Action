@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-16 00:50:51",
-    "Total": 1238,
+    "LastUpdate": "2025-09-17 00:50:51",
+    "Total": 1239,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250916",
+            "fullstartdate": "202509162200",
+            "enddate": "20250917",
+            "url": "/th?id=OHR.YoungMoose_IT-IT1966102379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YoungMoose_IT-IT1966102379",
+            "copyright": "Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Alce+Alaska&form=hpcapt",
+            "title": "Ho visto un re?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250916_YoungMoose%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b433c9bed4d33219ad1b875a8444230",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250915",
             "fullstartdate": "202509152200",
