@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-17 00:50:32",
-    "Total": 1239,
+    "LastUpdate": "2025-09-18 00:50:32",
+    "Total": 1240,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250917",
+            "fullstartdate": "202509172200",
+            "enddate": "20250918",
+            "url": "/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunquinIreland_DE-DE4797885512",
+            "copyright": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=D%C3%BAn+Chaoin&form=hpcapt&filters=HpDate%3a%2220250917_2200%22",
+            "title": "Der westlichste Punkt Irlands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_DunquinIreland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ac0fe4c375890801c2aeaf985e4ee17d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250916",
             "fullstartdate": "202509162200",
