@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-18 00:50:36",
-    "Total": 1239,
+    "LastUpdate": "2025-09-19 00:50:37",
+    "Total": 1240,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250918",
+            "fullstartdate": "202509180400",
+            "enddate": "20250919",
+            "url": "/th?id=OHR.DunquinIreland_EN-CA7995972934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunquinIreland_EN-CA7995972934",
+            "copyright": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dunquin+Pier&form=hpcapt&filters=HpDate%3a%2220250918_0400%22",
+            "title": "Ireland's western edge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250918_DunquinIreland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "21fddc9a7b940ce6bba8f8b05e669530",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250917",
             "fullstartdate": "202509170400",
