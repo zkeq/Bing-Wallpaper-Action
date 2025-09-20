@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-19 00:50:20",
-    "Total": 1241,
+    "LastUpdate": "2025-09-20 00:50:22",
+    "Total": 1242,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250919",
+            "fullstartdate": "202509191600",
+            "enddate": "20250920",
+            "url": "/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestSwing_ZH-CN5270146600",
+            "copyright": "慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%85%95%E5%B0%BC%E9%BB%91%E5%95%A4%E9%85%92%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "关于啤酒和风景的故事",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "733bd460c646ad947d6bfffaa51f52ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250918",
             "fullstartdate": "202509181600",
