@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-19 00:50:41",
-    "Total": 1238,
+    "LastUpdate": "2025-09-20 00:50:42",
+    "Total": 1239,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250919",
+            "fullstartdate": "202509192300",
+            "enddate": "20250920",
+            "url": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671",
+            "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220250919_2300%22",
+            "title": "A tale of brews and views",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3cf1cd18cbaa88f3892bcdfcdee97b2f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250918",
             "fullstartdate": "202509182300",
