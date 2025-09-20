@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-19 00:50:48",
-    "Total": 1241,
+    "LastUpdate": "2025-09-20 00:50:50",
+    "Total": 1242,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250919",
+            "fullstartdate": "202509192200",
+            "enddate": "20250920",
+            "url": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061",
+            "copyright": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne (© LOOK-foto/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Oktoberfest+Allemagne&form=hpcapt&filters=HpDate%3a%2220250919_2200%22",
+            "title": "À vos pintes, prêts, trinquez !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b5167146bdaf2a05d669285e25aeab02",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250918",
             "fullstartdate": "202509182200",
