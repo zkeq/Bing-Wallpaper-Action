@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-20 00:50:50",
-    "Total": 1242,
+    "LastUpdate": "2025-09-21 00:51:00",
+    "Total": 1243,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250920",
+            "fullstartdate": "202509202200",
+            "enddate": "20250921",
+            "url": "/th?id=OHR.EtretatBeach_FR-FR4685460454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EtretatBeach_FR-FR4685460454",
+            "copyright": "L’aiguille et la Porte d’Aval, falaises d’Étretat, Normandie (© Luis Henrique Boucault/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Falaises+d%E2%80%99%C3%89tretat&form=hpcapt&filters=HpDate%3a%2220250920_2200%22",
+            "title": "Une cathédrale de pierre et de mer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250920_EtretatBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "97a297e3cf5e9b7726577c438f7ce9f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250919",
             "fullstartdate": "202509192200",
