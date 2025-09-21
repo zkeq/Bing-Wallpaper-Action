@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-20 00:50:30",
-    "Total": 1242,
+    "LastUpdate": "2025-09-21 00:50:41",
+    "Total": 1243,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250920",
+            "fullstartdate": "202509201500",
+            "enddate": "20250921",
+            "url": "/th?id=OHR.IceOtters_JA-JP8317371641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceOtters_JA-JP8317371641",
+            "copyright": "プリンス・ウィリアム湾, 米国 アラスカ州 (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E6%B9%BE%E3%81%AE%E3%83%A9%E3%83%83%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250920_1500%22",
+            "title": "今週はラッコ啓蒙週間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250920_IceOtters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "46af60343a9d894cabc4a52f49ee5c9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250919",
             "fullstartdate": "202509191500",
