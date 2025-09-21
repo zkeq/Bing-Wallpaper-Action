@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-20 00:50:42",
-    "Total": 1239,
+    "LastUpdate": "2025-09-21 00:50:53",
+    "Total": 1240,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250920",
+            "fullstartdate": "202509202300",
+            "enddate": "20250921",
+            "url": "/th?id=OHR.IceOtters_EN-GB2135978576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceOtters_EN-GB2135978576",
+            "copyright": "Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220250920_2300%22",
+            "title": "Otterly cool",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250920_IceOtters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3be96b0bac79c6d28875efeacbd700a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250919",
             "fullstartdate": "202509192300",
