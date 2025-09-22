@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-21 00:51:04",
-    "Total": 1243,
+    "LastUpdate": "2025-09-22 00:51:10",
+    "Total": 1244,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250921",
+            "fullstartdate": "202509212200",
+            "enddate": "20250922",
+            "url": "/th?id=OHR.AspenEquinox_IT-IT3698686278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AspenEquinox_IT-IT3698686278",
+            "copyright": "Pini tremuli in autunno, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Equinozio&form=hpcapt",
+            "title": "Equilibrio tra due mondi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_AspenEquinox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b63e1e7a854a262935a70a767332bc2f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250920",
             "fullstartdate": "202509202200",
