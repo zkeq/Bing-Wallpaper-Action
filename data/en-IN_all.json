@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-21 00:50:57",
-    "Total": 1243,
+    "LastUpdate": "2025-09-22 00:51:02",
+    "Total": 1244,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250921",
+            "fullstartdate": "202509211830",
+            "enddate": "20250922",
+            "url": "/th?id=OHR.AspenEquinox_EN-IN2120497410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AspenEquinox_EN-IN2120497410",
+            "copyright": "Aspen trees during autumn Fishlake National Forest, Utah, United States (© Danita Delimont/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Autumn+equinox&form=hpcapt&filters=HpDate%3a%2220250921_1830%22",
+            "title": "Midway to winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_AspenEquinox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0e282a66e01821dd8c6ff05bfbb1831f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250920",
             "fullstartdate": "202509201830",
