@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-22 00:51:02",
-    "Total": 1244,
+    "LastUpdate": "2025-09-23 00:50:42",
+    "Total": 1245,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250922",
+            "fullstartdate": "202509221830",
+            "enddate": "20250923",
+            "url": "/th?id=OHR.ToucanForest_EN-IN2300582458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ToucanForest_EN-IN2300582458",
+            "copyright": "Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Keel+billed+toucan&form=hpcapt&filters=HpDate%3a%2220250922_1830%22",
+            "title": "Beak-side story",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250922_ToucanForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b37a43c50c5dda6e6533e9e30b3b5b1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250921",
             "fullstartdate": "202509211830",
