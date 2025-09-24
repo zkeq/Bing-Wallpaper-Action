@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-23 00:50:38",
-    "Total": 1242,
+    "LastUpdate": "2025-09-24 00:50:37",
+    "Total": 1243,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250923",
+            "fullstartdate": "202509232300",
+            "enddate": "20250924",
+            "url": "/th?id=OHR.BearLodge_EN-GB8627501672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearLodge_EN-GB8627501672",
+            "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=hpcapt&filters=HpDate%3a%2220250923_2300%22",
+            "title": "The lonely giant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250923_BearLodge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25cc90f382170f0313711898486b691c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250922",
             "fullstartdate": "202509222300",
