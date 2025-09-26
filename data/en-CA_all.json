@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-25 00:50:47",
-    "Total": 1246,
+    "LastUpdate": "2025-09-26 00:50:34",
+    "Total": 1247,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250925",
+            "fullstartdate": "202509250400",
+            "enddate": "20250926",
+            "url": "/th?id=OHR.FortChittorgarh_EN-CA6914700264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FortChittorgarh_EN-CA6914700264",
+            "copyright": "Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Chittorgarh+Fort+India&form=hpcapt&filters=HpDate%3a%2220250925_0400%22",
+            "title": "Carved stones of courage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250925_FortChittorgarh%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "895831f9006d60e65305980fef1b6e7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250924",
             "fullstartdate": "202509240400",
