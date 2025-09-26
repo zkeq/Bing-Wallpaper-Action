@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-25 00:51:03",
-    "Total": 1247,
+    "LastUpdate": "2025-09-26 00:50:49",
+    "Total": 1248,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250925",
+            "fullstartdate": "202509252200",
+            "enddate": "20250926",
+            "url": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643",
+            "copyright": "Scoiattolo minore, Foresta Nazionale di Kootenai, Montana, USA (© Donald M. Jones/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Tamias+minimus&form=hpcapt",
+            "title": "Il suo tessoro?!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250925_AutumnChipmunk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccc644bbdf765b29678c6a376dbb8f81",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250924",
             "fullstartdate": "202509242200",
