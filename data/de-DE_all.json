@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-26 00:50:29",
-    "Total": 1248,
+    "LastUpdate": "2025-09-27 00:50:23",
+    "Total": 1249,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250926",
+            "fullstartdate": "202509262200",
+            "enddate": "20250927",
+            "url": "/th?id=OHR.BerlinAutumn_DE-DE0881465418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerlinAutumn_DE-DE0881465418",
+            "copyright": "Herbstliche Farben in Berlin (© Sergio Saavedra Ruiz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Berlin&form=hpcapt&filters=HpDate%3a%2220250926_2200%22",
+            "title": "Mystische Atmosphäre",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250926_BerlinAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3cf9b35028758c4167a1f60230b6caec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250925",
             "fullstartdate": "202509252200",
