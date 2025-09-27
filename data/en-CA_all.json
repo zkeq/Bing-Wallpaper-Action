@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-26 00:50:34",
-    "Total": 1247,
+    "LastUpdate": "2025-09-27 00:50:27",
+    "Total": 1248,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250926",
+            "fullstartdate": "202509260400",
+            "enddate": "20250927",
+            "url": "/th?id=OHR.AutumnChipmunk_EN-CA7669023856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnChipmunk_EN-CA7669023856",
+            "copyright": "Least chipmunk, Kootenai National Forest, Montana, United States (© Donald M. Jones/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Least+chipmunk&form=hpcapt&filters=HpDate%3a%2220250926_0400%22",
+            "title": "The fast and the furriest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250926_AutumnChipmunk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "87cc9e1a6d4463d23c36ff9b024b77ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250925",
             "fullstartdate": "202509250400",
