@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-26 00:50:16",
-    "Total": 1248,
+    "LastUpdate": "2025-09-27 00:50:10",
+    "Total": 1249,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250926",
+            "fullstartdate": "202509261600",
+            "enddate": "20250927",
+            "url": "/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TankLakes_ZH-CN6402368934",
+            "copyright": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E9%AB%98%E5%B1%B1%E6%B9%96%E6%B3%8A%E8%8D%92%E9%87%8E%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "美丽的星空",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250926_TankLakes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25b2aab73b24069e1123611e3cf7c003",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250925",
             "fullstartdate": "202509251600",
