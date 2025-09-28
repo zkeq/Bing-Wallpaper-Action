@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-27 00:50:10",
-    "Total": 1249,
+    "LastUpdate": "2025-09-28 00:50:41",
+    "Total": 1250,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250927",
+            "fullstartdate": "202509271600",
+            "enddate": "20250928",
+            "url": "/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PienzaItaly_ZH-CN6564335348",
+            "copyright": "托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9A%AE%E6%81%A9%E6%89%8E&form=hpcapt&mkt=zh-cn",
+            "title": "品味皮恩扎",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_PienzaItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7111f0189625cea9244104a06f8bd70a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250926",
             "fullstartdate": "202509261600",
