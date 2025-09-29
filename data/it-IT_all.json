@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-28 00:51:13",
-    "Total": 1250,
+    "LastUpdate": "2025-09-29 00:50:58",
+    "Total": 1251,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250928",
+            "fullstartdate": "202509282200",
+            "enddate": "20250929",
+            "url": "/th?id=OHR.HoutenHouses_IT-IT9070932054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoutenHouses_IT-IT9070932054",
+            "copyright": "Case arcobaleno nella città di Houten, Paesi Bassi (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Houten+provincia+di+Utrecht&form=hpcapt",
+            "title": "Arcobaleno sull’Acqua",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_HoutenHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f254a06ea0acd4fdf69f0b860c08e2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250927",
             "fullstartdate": "202509272200",
