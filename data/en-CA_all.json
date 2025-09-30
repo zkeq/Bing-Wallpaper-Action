@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-29 00:50:41",
-    "Total": 1250,
+    "LastUpdate": "2025-09-30 00:50:34",
+    "Total": 1251,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250929",
+            "fullstartdate": "202509290400",
+            "enddate": "20250930",
+            "url": "/th?id=OHR.HoutenHouses_EN-CA8693710238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoutenHouses_EN-CA8693710238",
+            "copyright": "Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Houten+Netherlands&form=hpcapt&filters=HpDate%3a%2220250929_0400%22",
+            "title": "Rainbow rides and quiet vibes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250929_HoutenHouses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5ff55bdd2fdc522f6ce79d231faed09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250928",
             "fullstartdate": "202509280400",
