@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-29 00:50:58",
-    "Total": 1251,
+    "LastUpdate": "2025-09-30 00:50:51",
+    "Total": 1252,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250929",
+            "fullstartdate": "202509292200",
+            "enddate": "20250930",
+            "url": "/th?id=OHR.EucalyptusKoala_IT-IT9137756909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EucalyptusKoala_IT-IT9137756909",
+            "copyright": "Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=koala&form=hpcapt",
+            "title": "In posa per noi?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250929_EucalyptusKoala%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f6dccde3bdffb82965e1ac39c060454a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250928",
             "fullstartdate": "202509282200",
