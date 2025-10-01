@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-09-30 00:50:47",
-    "Total": 1252,
+    "LastUpdate": "2025-10-01 00:51:18",
+    "Total": 1253,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20250930",
+            "fullstartdate": "202509302200",
+            "enddate": "20251001",
+            "url": "/th?id=OHR.YosemiteClark_FR-FR2430625241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteClark_FR-FR2430625241",
+            "copyright": "Clark Range, Sierra Nevada, parc national de Yosemite, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+de+Yosemite+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220250930_2200%22",
+            "title": "Un parc Yosé-mythique !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250930_YosemiteClark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb965077ae62ac9f5140e13f04e05252",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250929",
             "fullstartdate": "202509292200",
