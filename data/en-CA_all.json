@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-01 00:51:05",
-    "Total": 1252,
+    "LastUpdate": "2025-10-02 00:50:30",
+    "Total": 1253,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251001",
+            "fullstartdate": "202510010400",
+            "enddate": "20251002",
+            "url": "/th?id=OHR.YosemiteClark_EN-CA9187443856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteClark_EN-CA9187443856",
+            "copyright": "Clark Range, Sierra Nevada, Yosemite National Park, California, United States (© Robb Hirsch/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Park+Yosemite&form=hpcapt&filters=HpDate%3a%2220251001_0400%22",
+            "title": "Echoes from the Clark Range",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_YosemiteClark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0eb1a470b02fa27924498255c8b8136b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250930",
             "fullstartdate": "202509300400",
