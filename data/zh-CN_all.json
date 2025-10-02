@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-01 00:50:48",
-    "Total": 1253,
+    "LastUpdate": "2025-10-02 00:50:12",
+    "Total": 1254,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251001",
+            "fullstartdate": "202510011600",
+            "enddate": "20251002",
+            "url": "/th?id=OHR.OxbowBend_ZH-CN7211791969_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OxbowBend_ZH-CN7211791969",
+            "copyright": "蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E9%A3%8E%E6%99%AF%E4%B8%8E%E8%87%AA%E7%84%B6%E6%B2%B3%E6%B5%81%E4%BD%93%E7%B3%BB&form=hpcapt&mkt=zh-cn",
+            "title": "法定自然区",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_OxbowBend%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20e8b3ab07b86c59669ac422bd4302e7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250930",
             "fullstartdate": "202509301600",
