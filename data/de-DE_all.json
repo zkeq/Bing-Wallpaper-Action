@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-01 00:51:01",
-    "Total": 1253,
+    "LastUpdate": "2025-10-02 00:50:25",
+    "Total": 1254,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251001",
+            "fullstartdate": "202510012200",
+            "enddate": "20251002",
+            "url": "/th?id=OHR.OxbowBend_DE-DE1318690148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OxbowBend_DE-DE1318690148",
+            "copyright": "Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA (© DanitaDelimont.com/AWL Images/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand-Teton-Nationalpark+Wyoming+USA&form=hpcapt&filters=HpDate%3a%2220251001_2200%22",
+            "title": "Die Natur in ihrer reinsten Form",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_OxbowBend%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2eed728a0e2761a356f35bc1166b0481",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250930",
             "fullstartdate": "202509302200",
