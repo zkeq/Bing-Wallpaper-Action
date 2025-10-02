@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-01 00:51:22",
-    "Total": 1253,
+    "LastUpdate": "2025-10-02 00:50:46",
+    "Total": 1254,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251001",
+            "fullstartdate": "202510012200",
+            "enddate": "20251002",
+            "url": "/th?id=OHR.ToscanaAutunno_IT-IT9368718519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ToscanaAutunno_IT-IT9368718519",
+            "copyright": "Bolgheri, frazione di Castagneto Carducci, Livorno, Maremma, Toscana (© ©StevanZZ/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bolgheri+frazione&form=hpcapt",
+            "title": "Un Mare di Vino?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_ToscanaAutunno%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e54e7f3a14d81065b1aefbee9cd40f81",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20250930",
             "fullstartdate": "202509302200",
