@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-02 00:50:25",
-    "Total": 1254,
+    "LastUpdate": "2025-10-03 00:50:29",
+    "Total": 1255,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251002",
+            "fullstartdate": "202510022200",
+            "enddate": "20251003",
+            "url": "/th?id=OHR.BrandenburgGate_DE-DE4138430516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrandenburgGate_DE-DE4138430516",
+            "copyright": "Brandenburger Tor bei Sonnenuntergang, Berlin (© Craig Hastings/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220251002_2200%22",
+            "title": "Symbol der Einheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251002_BrandenburgGate%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "806b45873e930bc04a70be1caca1d98c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251001",
             "fullstartdate": "202510012200",
