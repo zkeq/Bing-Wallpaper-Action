@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-02 00:50:46",
-    "Total": 1254,
+    "LastUpdate": "2025-10-03 00:50:50",
+    "Total": 1255,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251002",
+            "fullstartdate": "202510022200",
+            "enddate": "20251003",
+            "url": "/th?id=OHR.SkyeHeather_IT-IT9085939814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkyeHeather_IT-IT9085939814",
+            "copyright": "Erica a Glen Brittle, Isola di Skye, Scozia (© Adam Mowery/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Skye&form=hpcapt",
+            "title": "Verso l’Infinito...",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251002_SkyeHeather%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eaf7ab35053c48facd2e8894609e738d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251001",
             "fullstartdate": "202510012200",
