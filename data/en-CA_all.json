@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-02 00:50:30",
-    "Total": 1253,
+    "LastUpdate": "2025-10-03 00:50:33",
+    "Total": 1254,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251002",
+            "fullstartdate": "202510020400",
+            "enddate": "20251003",
+            "url": "/th?id=OHR.OxbowBend_EN-CA0110307953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OxbowBend_EN-CA0110307953",
+            "copyright": "Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming, United States (© DanitaDelimont.com/AWL Images/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Snake+River&form=hpcapt&filters=HpDate%3a%2220251002_0400%22",
+            "title": "Wild by law",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251002_OxbowBend%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bdebd2f8f8e3c004ebe094045efe557",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251001",
             "fullstartdate": "202510010400",
