@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-02 00:50:12",
-    "Total": 1254,
+    "LastUpdate": "2025-10-03 00:50:16",
+    "Total": 1255,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251002",
+            "fullstartdate": "202510021600",
+            "enddate": "20251003",
+            "url": "/th?id=OHR.SkyeHeather_ZH-CN2820283990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkyeHeather_ZH-CN2820283990",
+            "copyright": "布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰 (© Adam Mowery/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E5%87%AF%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "雾中遐想",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251002_SkyeHeather%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "467be40c964090c293e783fc168a6ae2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251001",
             "fullstartdate": "202510011600",
