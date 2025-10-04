@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-03 00:50:46",
-    "Total": 1255,
+    "LastUpdate": "2025-10-04 00:50:34",
+    "Total": 1256,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251003",
+            "fullstartdate": "202510032200",
+            "enddate": "20251004",
+            "url": "/th?id=OHR.CamagueHorses_FR-FR8949135937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CamagueHorses_FR-FR8949135937",
+            "copyright": "Chevaux de Camargue, Aigues-Mortes, Occitanie (© Francesco Riccardo Lacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+des+animaux&form=hpcapt&filters=HpDate%3a%2220251003_2200%22",
+            "title": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251003_CamagueHorses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c05e7caff090063f9c9a56f35e21f84a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251002",
             "fullstartdate": "202510022200",
