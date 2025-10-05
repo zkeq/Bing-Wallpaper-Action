@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-04 00:50:18",
-    "Total": 1256,
+    "LastUpdate": "2025-10-05 00:50:51",
+    "Total": 1257,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251004",
+            "fullstartdate": "202510042200",
+            "enddate": "20251005",
+            "url": "/th?id=OHR.TeacherOwl_DE-DE2816959094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeacherOwl_DE-DE2816959094",
+            "copyright": "Raufußkauz in einem Wald in Mitteleuropa (© Ondrej Prosicky/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220251004_2200%22",
+            "title": "Weisheit feiern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_TeacherOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a1e25e2fb52e15158cb5015bebe1ac3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251003",
             "fullstartdate": "202510032200",
