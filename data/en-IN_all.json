@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-04 00:50:30",
-    "Total": 1256,
+    "LastUpdate": "2025-10-05 00:51:03",
+    "Total": 1257,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251004",
+            "fullstartdate": "202510041830",
+            "enddate": "20251005",
+            "url": "/th?id=OHR.JahangirMahal_EN-IN7628563681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JahangirMahal_EN-IN7628563681",
+            "copyright": "Jahangir Mahal, Orchha, Madhya Pradesh (© Alf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jahangir+Mahal+Orchha&form=hpcapt&filters=HpDate%3a%2220251004_1830%22",
+            "title": "A fortress of fading echoes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_JahangirMahal%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "632c3a1b8acf02b79893becc55d6087e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251003",
             "fullstartdate": "202510031830",
