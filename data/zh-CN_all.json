@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-05 00:50:38",
-    "Total": 1257,
+    "LastUpdate": "2025-10-06 00:50:20",
+    "Total": 1258,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251005",
+            "fullstartdate": "202510051600",
+            "enddate": "20251006",
+            "url": "/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnshunBridge_ZH-CN8392458102",
+            "copyright": "安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "千里共婵娟",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e276da4ffe4dd53c3ee48f4ce4386645",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251004",
             "fullstartdate": "202510041600",
