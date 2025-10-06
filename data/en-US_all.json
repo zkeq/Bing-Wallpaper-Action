@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-05 00:50:43",
-    "Total": 1257,
+    "LastUpdate": "2025-10-06 00:50:25",
+    "Total": 1258,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251005",
+            "fullstartdate": "202510050700",
+            "enddate": "20251006",
+            "url": "/th?id=OHR.TeacherOwl_EN-US9991815804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TeacherOwl_EN-US9991815804",
+            "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220251005_0700%22",
+            "title": "Celebrating our teachers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_TeacherOwl%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bebab527d47ed9590611a3e56211515d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251004",
             "fullstartdate": "202510040700",
