@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-05 00:50:47",
-    "Total": 1257,
+    "LastUpdate": "2025-10-06 00:50:29",
+    "Total": 1258,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251005",
+            "fullstartdate": "202510051500",
+            "enddate": "20251006",
+            "url": "/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnshunBridge_JA-JP7739273331",
+            "copyright": "錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AE%89%E9%A0%86%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220251005_1500%22",
+            "title": "今日は中秋の名月",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6831830d4852b47247b2a03b98f72629",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251004",
             "fullstartdate": "202510041500",
