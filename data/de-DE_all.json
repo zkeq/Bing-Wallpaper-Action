@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-06 00:50:33",
-    "Total": 1258,
+    "LastUpdate": "2025-10-07 00:50:34",
+    "Total": 1259,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251006",
+            "fullstartdate": "202510062200",
+            "enddate": "20251007",
+            "url": "/th?id=OHR.RidgwayAspens_DE-DE7371815159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RidgwayAspens_DE-DE7371815159",
+            "copyright": "Herbstfarben unterhalb des Mount Sneffels nahe Ridgway, Colorado, USA (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220251006_2200%22",
+            "title": "Goldener Herbstglanz",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251006_RidgwayAspens%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d242b0a3ef9d32e0e5de5f807428873b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251005",
             "fullstartdate": "202510052200",
