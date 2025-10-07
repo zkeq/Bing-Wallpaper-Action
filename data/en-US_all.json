@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-06 00:50:25",
-    "Total": 1258,
+    "LastUpdate": "2025-10-07 00:50:26",
+    "Total": 1259,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251006",
+            "fullstartdate": "202510060700",
+            "enddate": "20251007",
+            "url": "/th?id=OHR.AnshunBridge_EN-US0059795497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnshunBridge_EN-US0059795497",
+            "copyright": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=mid+autumn+festival&form=hpcapt&filters=HpDate%3a%2220251006_0700%22",
+            "title": "To the moon and back",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251006_AnshunBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b2005effc68967668a064ef6aba9870",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251005",
             "fullstartdate": "202510050700",
