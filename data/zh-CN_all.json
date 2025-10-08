@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-07 00:50:21",
-    "Total": 1259,
+    "LastUpdate": "2025-10-08 00:50:16",
+    "Total": 1260,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251007",
+            "fullstartdate": "202510071600",
+            "enddate": "20251008",
+            "url": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460",
+            "copyright": "白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%AB%A0%E9%B1%BC%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "动态伪装",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_OctopusCyanea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73707cc9c1f2e5caf9baba35316c2866",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251006",
             "fullstartdate": "202510061600",
