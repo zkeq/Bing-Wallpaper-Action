@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-08 00:50:50",
-    "Total": 1260,
+    "LastUpdate": "2025-10-09 00:50:53",
+    "Total": 1261,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251008",
+            "fullstartdate": "202510082200",
+            "enddate": "20251009",
+            "url": "/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WebbPillars_IT-IT0673029544",
+            "copyright": "I Pilastri della Creazione visti dal telescopio spaziale James Webb (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Pilastri+della+Creazione&form=hpcapt",
+            "title": "Universo in Fiore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d53abd3d3f8d640824fcec6155a748e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251007",
             "fullstartdate": "202510072200",
