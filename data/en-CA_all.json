@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-08 00:50:33",
-    "Total": 1259,
+    "LastUpdate": "2025-10-09 00:50:37",
+    "Total": 1260,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251008",
+            "fullstartdate": "202510080400",
+            "enddate": "20251009",
+            "url": "/th?id=OHR.OctopusCyanea_EN-CA7864486363_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OctopusCyanea_EN-CA7864486363",
+            "copyright": "Day octopus, Maui, Hawaii, United States (© Dave Fleetham/plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=world+octopus+day&form=hpcapt&filters=HpDate%3a%2220251008_0400%22",
+            "title": "Camouflage in motion",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_OctopusCyanea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3ec8ddf759ba2bde2213c75f8bdf9daa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251007",
             "fullstartdate": "202510070400",
