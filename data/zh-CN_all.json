@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-09 00:50:21",
-    "Total": 1261,
+    "LastUpdate": "2025-10-10 00:50:19",
+    "Total": 1262,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251009",
+            "fullstartdate": "202510091600",
+            "enddate": "20251010",
+            "url": "/th?id=OHR.MonurikiFiji_ZH-CN9178115886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonurikiFiji_ZH-CN9178115886",
+            "copyright": "莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8E%9B%E7%8E%9B%E5%8A%AA%E5%8D%A1%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "思绪之礁",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_MonurikiFiji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "31a1f2e3c22aa1dd8ad599d7657d750d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251008",
             "fullstartdate": "202510081600",
