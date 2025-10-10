@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-09 00:50:45",
-    "Total": 1261,
+    "LastUpdate": "2025-10-10 00:50:45",
+    "Total": 1262,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251009",
+            "fullstartdate": "202510091830",
+            "enddate": "20251010",
+            "url": "/th?id=OHR.MonurikiFiji_EN-IN0435648198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MonurikiFiji_EN-IN0435648198",
+            "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Fiji+Day&form=hpcapt&filters=HpDate%3a%2220251009_1830%22",
+            "title": "A reef of reflection",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_MonurikiFiji%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8d97bdfd6810b8870888235b473d2da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251008",
             "fullstartdate": "202510081830",
