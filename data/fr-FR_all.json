@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-10 00:50:49",
-    "Total": 1262,
+    "LastUpdate": "2025-10-11 00:50:40",
+    "Total": 1263,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251010",
+            "fullstartdate": "202510102200",
+            "enddate": "20251011",
+            "url": "/th?id=OHR.WoodDuckHen_FR-FR2128757864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WoodDuckHen_FR-FR2128757864",
+            "copyright": "Cane branchu, États-Unis (© ps50ace/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+oiseaux+migrateurs+&form=hpcapt&filters=HpDate%3a%2220251010_2200%22",
+            "title": "Prochain arrêt : le Sud !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_WoodDuckHen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "60ee380f49ef5ee69aa472c0e5814531",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251009",
             "fullstartdate": "202510092200",
