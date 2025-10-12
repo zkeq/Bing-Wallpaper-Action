@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-11 00:50:24",
-    "Total": 1263,
+    "LastUpdate": "2025-10-12 00:50:39",
+    "Total": 1264,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251011",
+            "fullstartdate": "202510112200",
+            "enddate": "20251012",
+            "url": "/th?id=OHR.SaranacLake_DE-DE3608042378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaranacLake_DE-DE3608042378",
+            "copyright": "Saranac Lake, Adirondack Mountains, New York, USA (© DenisTangneyJr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake+Ort+USA&form=hpcapt&filters=HpDate%3a%2220251011_2200%22",
+            "title": "Herbstidylle am See",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251011_SaranacLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f15c9487939bc8b7839082f50c5ef43b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251010",
             "fullstartdate": "202510102200",
