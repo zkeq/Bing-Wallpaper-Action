@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-11 00:50:40",
-    "Total": 1263,
+    "LastUpdate": "2025-10-12 00:50:54",
+    "Total": 1264,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251011",
+            "fullstartdate": "202510112200",
+            "enddate": "20251012",
+            "url": "/th?id=OHR.SaranacLake_FR-FR2186767346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaranacLake_FR-FR2186767346",
+            "copyright": "Village de Saranac Lake, Montagnes Adirondacks, New York, États-Unis (© DenisTangneyJr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=village+de+Saranac+Lake+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220251011_2200%22",
+            "title": "Un village américain qui ne manque pas de souffle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251011_SaranacLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "09fa5aabaa8dbacbaaa80875d67283d7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251010",
             "fullstartdate": "202510102200",
