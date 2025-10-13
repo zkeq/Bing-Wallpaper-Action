@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-12 00:50:35",
-    "Total": 1264,
+    "LastUpdate": "2025-10-13 00:50:41",
+    "Total": 1265,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251012",
+            "fullstartdate": "202510121500",
+            "enddate": "20251013",
+            "url": "/th?id=OHR.OiaSantorini_JA-JP8051360298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OiaSantorini_JA-JP8051360298",
+            "copyright": "イア村, グリース (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%82%A2%E6%9D%91&form=hpcapt&filters=HpDate%3a%2220251012_1500%22",
+            "title": "青空と海に囲まれたイア村",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_OiaSantorini%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cb64095448aaca49b7fa1f90ffa2c78",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251011",
             "fullstartdate": "202510111500",
