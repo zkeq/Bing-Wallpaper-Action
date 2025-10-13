@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-12 00:50:42",
-    "Total": 1263,
+    "LastUpdate": "2025-10-13 00:50:49",
+    "Total": 1264,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251012",
+            "fullstartdate": "202510120400",
+            "enddate": "20251013",
+            "url": "/th?id=OHR.SaranacLake_EN-CA8587691019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaranacLake_EN-CA8587691019",
+            "copyright": "Village of Saranac Lake, Adirondack Mountains, New York, United States (© DenisTangneyJr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake+village&form=hpcapt&filters=HpDate%3a%2220251012_0400%22",
+            "title": "Falling for Saranac",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_SaranacLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecac3f3551cf996a7454030145bfb06d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251011",
             "fullstartdate": "202510110400",
