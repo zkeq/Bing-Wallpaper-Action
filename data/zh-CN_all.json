@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-13 00:50:32",
-    "Total": 1265,
+    "LastUpdate": "2025-10-14 00:50:19",
+    "Total": 1266,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251013",
+            "fullstartdate": "202510131600",
+            "enddate": "20251014",
+            "url": "/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OiaSantorini_ZH-CN0531650189",
+            "copyright": "伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E4%BC%8A%E4%BA%9A%E9%95%87&form=hpcapt&mkt=zh-cn",
+            "title": "蓝与白的梦境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_OiaSantorini%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f0c73d9f1890a8b28df705ae01bc892c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251012",
             "fullstartdate": "202510121600",
