@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-13 00:50:49",
-    "Total": 1264,
+    "LastUpdate": "2025-10-14 00:50:36",
+    "Total": 1265,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251013",
+            "fullstartdate": "202510130400",
+            "enddate": "20251014",
+            "url": "/th?id=OHR.AlgonParkOnt_EN-CA8810326454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlgonParkOnt_EN-CA8810326454",
+            "copyright": "River rapids in Algonquin Provincial Park, Ontario (© Pgiam/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate%3a%2220251013_0400%22",
+            "title": "Ontario's wild heart",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_AlgonParkOnt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bee96fd135b46208464e143ecee5a1f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251012",
             "fullstartdate": "202510120400",
