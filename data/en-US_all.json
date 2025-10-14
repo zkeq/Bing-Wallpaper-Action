@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-13 00:50:37",
-    "Total": 1265,
+    "LastUpdate": "2025-10-14 00:50:24",
+    "Total": 1266,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251013",
+            "fullstartdate": "202510130700",
+            "enddate": "20251014",
+            "url": "/th?id=OHR.MuleCanyon_EN-US0527899523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuleCanyon_EN-US0527899523",
+            "copyright": "House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Indigenous+Peoples%27+Day&form=hpcapt&filters=HpDate%3a%2220251013_0700%22",
+            "title": "Flames of the past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_MuleCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "838f7e517b6cae15ec26069bcf1678b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251012",
             "fullstartdate": "202510120700",
