@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-13 00:50:41",
-    "Total": 1265,
+    "LastUpdate": "2025-10-14 00:50:28",
+    "Total": 1266,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251013",
+            "fullstartdate": "202510131500",
+            "enddate": "20251014",
+            "url": "/th?id=OHR.RailwayDay2025_JA-JP0346908442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RailwayDay2025_JA-JP0346908442",
+            "copyright": "第一只見川橋梁, 福島県 大沼郡 (© Doctor Egg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AC%AC%E4%B8%80%E5%8F%AA%E8%A6%8B%E5%B7%9D%E6%A9%8B%E6%A2%81&form=hpcapt&filters=HpDate%3a%2220251013_1500%22",
+            "title": "今日は鉄道の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_RailwayDay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8acfb994e0f36a128c178beaaf6d8e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251012",
             "fullstartdate": "202510121500",
