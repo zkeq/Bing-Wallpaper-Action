@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-13 00:50:45",
-    "Total": 1265,
+    "LastUpdate": "2025-10-14 00:50:32",
+    "Total": 1266,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251013",
+            "fullstartdate": "202510132200",
+            "enddate": "20251014",
+            "url": "/th?id=OHR.OiaSantorini_DE-DE3882296731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OiaSantorini_DE-DE3882296731",
+            "copyright": "Oia, Santorin, Griechenland (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oia+Griechenland&form=hpcapt&filters=HpDate%3a%2220251013_2200%22",
+            "title": "Träume in Blau und Weiß gemalt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_OiaSantorini%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef8c73fe0f683045405b87f076d4fcb7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251012",
             "fullstartdate": "202510122200",
