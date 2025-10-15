@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-14 00:50:47",
-    "Total": 1266,
+    "LastUpdate": "2025-10-15 00:51:02",
+    "Total": 1267,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251014",
+            "fullstartdate": "202510142200",
+            "enddate": "20251015",
+            "url": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835",
+            "copyright": "Champignon laccaria amethystina, Seabeck, Washington, États-Unis (© Danita Delimont/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Laccaria+amethystina&form=hpcapt&filters=HpDate%3a%2220251014_2200%22",
+            "title": "Fongique mais fantastique !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_AmethystLaccaria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ac92de7a5d81bfc2e81f3d05ec3d3d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251013",
             "fullstartdate": "202510132200",
