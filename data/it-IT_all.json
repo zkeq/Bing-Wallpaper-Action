@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-14 00:50:51",
-    "Total": 1266,
+    "LastUpdate": "2025-10-15 00:51:06",
+    "Total": 1267,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251014",
+            "fullstartdate": "202510142200",
+            "enddate": "20251015",
+            "url": "/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FontanaDiTrevi_IT-IT9781844919",
+            "copyright": "Fontana di Trevi, Piazza di Trevi, Roma (© RilindH/RooM)",
+            "copyrightlink": "https://www.bing.com/search?q=Festival+del+Cinema+di+Roma&form=hpcapt",
+            "title": "C’era ‘na vorta e ancora c’è",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_FontanaDiTrevi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35189002025dbb3236fe8f391d2c51c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251013",
             "fullstartdate": "202510132200",
