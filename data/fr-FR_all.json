@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-15 00:51:02",
-    "Total": 1267,
+    "LastUpdate": "2025-10-16 00:50:50",
+    "Total": 1268,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251015",
+            "fullstartdate": "202510152200",
+            "enddate": "20251016",
+            "url": "/th?id=OHR.SiberianLynx_FR-FR2540232502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SiberianLynx_FR-FR2540232502",
+            "copyright": "Lynx de Sibérie, Sibérie (© Mario Plechaty Photograph/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=lynx+de+siberie&form=hpcapt&filters=HpDate%3a%2220251015_2200%22",
+            "title": "Le chat des neiges",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251015_SiberianLynx%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ca71a918d15cb8a3e85eca834191c4c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251014",
             "fullstartdate": "202510142200",
