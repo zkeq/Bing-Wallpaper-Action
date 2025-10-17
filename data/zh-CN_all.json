@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-16 00:50:21",
-    "Total": 1268,
+    "LastUpdate": "2025-10-17 00:50:25",
+    "Total": 1269,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251016",
+            "fullstartdate": "202510161600",
+            "enddate": "20251017",
+            "url": "/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RockRiverFalls_ZH-CN6532185546",
+            "copyright": "罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E7%BD%97%E5%85%8B%E6%B2%B3%E8%8D%92%E9%87%8E&form=hpcapt&mkt=zh-cn",
+            "title": "爱上密歇根",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251016_RockRiverFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cbf6aa5f3599c40aa259afb62ee91301",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251015",
             "fullstartdate": "202510151600",
