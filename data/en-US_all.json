@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-16 00:50:26",
-    "Total": 1268,
+    "LastUpdate": "2025-10-17 00:50:30",
+    "Total": 1269,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251016",
+            "fullstartdate": "202510160700",
+            "enddate": "20251017",
+            "url": "/th?id=OHR.SiberianLynx_EN-US0696336220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SiberianLynx_EN-US0696336220",
+            "copyright": "Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+lynx&form=hpcapt&filters=HpDate%3a%2220251016_0700%22",
+            "title": "The phantom cat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251016_SiberianLynx%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e9fe085980d5a33175f495a732ddb30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251015",
             "fullstartdate": "202510150700",
