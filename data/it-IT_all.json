@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-17 00:50:58",
-    "Total": 1269,
+    "LastUpdate": "2025-10-18 00:50:52",
+    "Total": 1270,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251017",
+            "fullstartdate": "202510172200",
+            "enddate": "20251018",
+            "url": "/th?id=OHR.SilburyHill_IT-IT5036622504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SilburyHill_IT-IT5036622504",
+            "copyright": "Sito neolitico di Silbury Hill, Tilshead, Wiltshire, Inghilterra (© dbstockphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sito+neolitico+di+Silbury+Hill+Tilshead+Wiltshire+Inghilterra&form=hpcapt",
+            "title": "Montagna di Memoria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251017_SilburyHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f29dc954a0635ccf37680e854658efdd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251016",
             "fullstartdate": "202510162200",
