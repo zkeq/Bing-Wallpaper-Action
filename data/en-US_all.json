@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-17 00:50:30",
-    "Total": 1269,
+    "LastUpdate": "2025-10-18 00:50:25",
+    "Total": 1270,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251017",
+            "fullstartdate": "202510170700",
+            "enddate": "20251018",
+            "url": "/th?id=OHR.RockRiverFalls_EN-US2428797661_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RockRiverFalls_EN-US2428797661",
+            "copyright": "Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rock+River+Wilderness+Michigan&form=hpcapt&filters=HpDate%3a%2220251017_0700%22",
+            "title": "Falling for Michigan",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251017_RockRiverFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f25d11f7bb7da334767c4a7db4a072ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251016",
             "fullstartdate": "202510160700",
