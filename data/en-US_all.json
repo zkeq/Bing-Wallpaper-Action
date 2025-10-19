@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-18 00:50:25",
-    "Total": 1270,
+    "LastUpdate": "2025-10-19 00:50:51",
+    "Total": 1271,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251018",
+            "fullstartdate": "202510180700",
+            "enddate": "20251019",
+            "url": "/th?id=OHR.SilburyHill_EN-US2485144120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SilburyHill_EN-US2485144120",
+            "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220251018_0700%22",
+            "title": "The hill that remembers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_SilburyHill%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cf7be7bdb3255dec349c518ff6acad28",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251017",
             "fullstartdate": "202510170700",
