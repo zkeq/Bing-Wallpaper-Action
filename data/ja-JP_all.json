@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-18 00:50:29",
-    "Total": 1270,
+    "LastUpdate": "2025-10-19 00:50:55",
+    "Total": 1271,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251018",
+            "fullstartdate": "202510181500",
+            "enddate": "20251019",
+            "url": "/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AppleHarvest_JA-JP0862857490",
+            "copyright": "収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8F%8E%E7%A9%AB%E6%99%82%E6%9C%9F%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220251018_1500%22",
+            "title": "たわわに実るリンゴ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_AppleHarvest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c83c71e3271f5ad088c619927e9349d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251017",
             "fullstartdate": "202510171500",
