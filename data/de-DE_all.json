@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-19 00:50:59",
-    "Total": 1271,
+    "LastUpdate": "2025-10-20 00:50:46",
+    "Total": 1272,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251019",
+            "fullstartdate": "202510192200",
+            "enddate": "20251020",
+            "url": "/th?id=OHR.HoffmansSloth_DE-DE8974751665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoffmansSloth_DE-DE8974751665",
+            "copyright": "Hoffmann-Zweifingerfaultier, Ecuador (© Murray Cooper/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Faultiers&form=hpcapt&filters=HpDate%3a%2220251019_2200%22",
+            "title": "Ein Leben in Zeitlupe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251019_HoffmansSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77874788eef82964fd902e9fbfd40c83",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251018",
             "fullstartdate": "202510182200",
