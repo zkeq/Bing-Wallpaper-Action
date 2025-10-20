@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-19 00:50:46",
-    "Total": 1271,
+    "LastUpdate": "2025-10-20 00:50:33",
+    "Total": 1272,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251019",
+            "fullstartdate": "202510191600",
+            "enddate": "20251020",
+            "url": "/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HoffmansSloth_ZH-CN7563408641",
+            "copyright": "霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%A0%91%E6%87%92%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "慢节奏的生活",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251019_HoffmansSloth%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b8959b31205f8015dba9545d32acaef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251018",
             "fullstartdate": "202510181600",
