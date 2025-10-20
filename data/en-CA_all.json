@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-19 00:51:03",
-    "Total": 1270,
+    "LastUpdate": "2025-10-20 00:50:50",
+    "Total": 1271,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251019",
+            "fullstartdate": "202510190400",
+            "enddate": "20251020",
+            "url": "/th?id=OHR.AppleHarvest_EN-CA8300580215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AppleHarvest_EN-CA8300580215",
+            "copyright": "Apples ready for harvest, Minnesota, United States (© Tammi Mild/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Harvesting+apples&form=hpcapt&filters=HpDate%3a%2220251019_0400%22",
+            "title": "Sweet on science",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251019_AppleHarvest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c376f6328301d22437d1ca302583d15",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251018",
             "fullstartdate": "202510180400",
