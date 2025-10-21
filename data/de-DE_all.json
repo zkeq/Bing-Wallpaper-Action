@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-20 00:50:46",
-    "Total": 1272,
+    "LastUpdate": "2025-10-21 00:50:50",
+    "Total": 1273,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251020",
+            "fullstartdate": "202510202200",
+            "enddate": "20251021",
+            "url": "/th?id=OHR.DiyaDiwali_DE-DE9030345451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiyaDiwali_DE-DE9030345451",
+            "copyright": "Eine Diya im Harmandir Sahib (Goldener Tempel) während Diwali, Amritsar, Indien (© EyeEm Mobile GmbH/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220251020_2200%22",
+            "title": "Leuchtende Traditionen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251020_DiyaDiwali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "367fa03b1dbc476cd4d699f45142bb96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251019",
             "fullstartdate": "202510192200",
