@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-20 00:50:42",
-    "Total": 1272,
+    "LastUpdate": "2025-10-21 00:50:46",
+    "Total": 1273,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251020",
+            "fullstartdate": "202510201500",
+            "enddate": "20251021",
+            "url": "/th?id=OHR.DiyaDiwali_JA-JP1552911829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiyaDiwali_JA-JP1552911829",
+            "copyright": "ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%92%E3%83%96&form=hpcapt&filters=HpDate%3a%2220251020_1500%22",
+            "title": "今日はディワリ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251020_DiyaDiwali%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "46c14fffaf098f77c5a18cc69f5e0ae4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251019",
             "fullstartdate": "202510191500",
