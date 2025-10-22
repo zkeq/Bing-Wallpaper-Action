@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-21 00:51:10",
-    "Total": 1273,
+    "LastUpdate": "2025-10-22 00:51:20",
+    "Total": 1274,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251021",
+            "fullstartdate": "202510212200",
+            "enddate": "20251022",
+            "url": "/th?id=OHR.BulgariaRocks_IT-IT4526713367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BulgariaRocks_IT-IT4526713367",
+            "copyright": "Rocce di Belogradchik, Bulgaria (© EvaL Miko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Repubblica+di+Bulgaria&form=hpcapt",
+            "title": "Salve Sole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251021_BulgariaRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fa12ec29debbeedcb653bca7e2ffb2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251020",
             "fullstartdate": "202510202200",
