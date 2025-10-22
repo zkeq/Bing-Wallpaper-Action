@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-21 00:51:02",
-    "Total": 1273,
+    "LastUpdate": "2025-10-22 00:51:12",
+    "Total": 1274,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251021",
+            "fullstartdate": "202510211830",
+            "enddate": "20251022",
+            "url": "/th?id=OHR.BulgariaRocks_EN-IN6060043894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BulgariaRocks_EN-IN6060043894",
+            "copyright": "Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Belogradchik+Rocks&form=hpcapt&filters=HpDate%3a%2220251021_1830%22",
+            "title": "Set in stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251021_BulgariaRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3fd73582b0f9695c8ab0291541970fd7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251020",
             "fullstartdate": "202510201830",
