@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-23 00:50:32",
-    "Total": 1275,
+    "LastUpdate": "2025-10-24 00:50:17",
+    "Total": 1276,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251023",
+            "fullstartdate": "202510231600",
+            "enddate": "20251024",
+            "url": "/th?id=OHR.QueenMary_ZH-CN0468294074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QueenMary_ZH-CN0468294074",
+            "copyright": "玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%E7%9A%87%E5%90%8E%E5%8F%B7&form=hpcapt&mkt=zh-cn",
+            "title": "从“灰色幽灵”到幽灵传说",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_QueenMary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e73cc045743b7aaf6900c09fe65df5db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251022",
             "fullstartdate": "202510221600",
