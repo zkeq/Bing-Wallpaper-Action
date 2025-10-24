@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-23 00:50:49",
-    "Total": 1274,
+    "LastUpdate": "2025-10-24 00:50:34",
+    "Total": 1275,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251023",
+            "fullstartdate": "202510230400",
+            "enddate": "20251024",
+            "url": "/th?id=OHR.SnowLeopard_EN-CA8504425279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowLeopard_EN-CA8504425279",
+            "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Snow+Leopard&form=hpcapt&filters=HpDate%3a%2220251023_0400%22",
+            "title": "Snow much love",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_SnowLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93b1b6c5804c99869d9d83f066fa1017",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251022",
             "fullstartdate": "202510220400",
