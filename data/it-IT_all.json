@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-23 00:51:05",
-    "Total": 1275,
+    "LastUpdate": "2025-10-24 00:50:50",
+    "Total": 1276,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251023",
+            "fullstartdate": "202510232200",
+            "enddate": "20251024",
+            "url": "/th?id=OHR.PumpkinFarm_IT-IT9478392413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinFarm_IT-IT9478392413",
+            "copyright": "Zucche in azienda agricola, Carolina del Nord, USA (© Matthew H Irvin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zucca&form=hpcapt",
+            "title": "Intagli e ricette",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_PumpkinFarm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81f3fd540b47b9a8b2de409b99950621",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251022",
             "fullstartdate": "202510222200",
