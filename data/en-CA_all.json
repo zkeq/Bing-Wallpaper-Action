@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-24 00:50:34",
-    "Total": 1275,
+    "LastUpdate": "2025-10-25 00:50:47",
+    "Total": 1276,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251024",
+            "fullstartdate": "202510240400",
+            "enddate": "20251025",
+            "url": "/th?id=OHR.QueenMary_EN-CA8541079316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QueenMary_EN-CA8541079316",
+            "copyright": "Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=RMS+Queen+Mary&form=hpcapt&filters=HpDate%3a%2220251024_0400%22",
+            "title": "From 'Grey Ghost' to ghost stories",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251024_QueenMary%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "05cfdac99b1599de92be81648959ab4a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251023",
             "fullstartdate": "202510230400",
