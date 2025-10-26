@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-25 00:50:51",
-    "Total": 1274,
+    "LastUpdate": "2025-10-26 00:50:58",
+    "Total": 1275,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251025",
+            "fullstartdate": "202510252300",
+            "enddate": "20251027",
+            "url": "/th?id=OHR.DSTEnds2025_EN-GB3762675856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DSTEnds2025_EN-GB3762675856",
+            "copyright": "Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Daylight+Saving+Time+UK&form=hpcapt&filters=HpDate%3a%2220251025_2300%22",
+            "title": "Clocking off",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_DSTEnds2025%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b1c262a2d3d7352262eeef8101f402be",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251024",
             "fullstartdate": "202510242300",
