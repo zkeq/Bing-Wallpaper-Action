@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-25 00:50:59",
-    "Total": 1277,
+    "LastUpdate": "2025-10-26 00:51:06",
+    "Total": 1278,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251025",
+            "fullstartdate": "202510252200",
+            "enddate": "20251026",
+            "url": "/th?id=OHR.PumpkinFarm_FR-FR7536561457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinFarm_FR-FR7536561457",
+            "copyright": "Ferme de citrouilles en Caroline du Nord, États-Unis (© Matthew H Irvin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=citrouille&form=hpcapt&filters=HpDate%3a%2220251025_2200%22",
+            "title": "N’ayez pas la ci-trouille !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_PumpkinFarm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7693a315749f5b3e6c7db628db5352e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251024",
             "fullstartdate": "202510242200",
