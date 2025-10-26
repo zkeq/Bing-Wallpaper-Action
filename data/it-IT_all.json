@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-25 00:51:03",
-    "Total": 1277,
+    "LastUpdate": "2025-10-26 00:51:10",
+    "Total": 1278,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251025",
+            "fullstartdate": "202510252200",
+            "enddate": "20251026",
+            "url": "/th?id=OHR.ItalyClock_IT-IT0847273649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyClock_IT-IT0847273649",
+            "copyright": "Torre dell'Orologio di San Marco, Venezia, Veneto (© scaliger/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ora&form=hpcapt",
+            "title": "Dormiamo un’ora in più",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_ItalyClock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eadabb0f69a0e40cef16668c07cd6251",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251024",
             "fullstartdate": "202510242200",
