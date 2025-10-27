@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-26 00:51:06",
-    "Total": 1278,
+    "LastUpdate": "2025-10-27 00:51:19",
+    "Total": 1279,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251026",
+            "fullstartdate": "202510262300",
+            "enddate": "20251027",
+            "url": "/th?id=OHR.ChampagneDay_FR-FR1389141387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChampagneDay_FR-FR1389141387",
+            "copyright": "Grappe de raisins noirs, vignoble de Champagne (© Daniele SCHNEIDER/Photononstop/Alamy Stock Photo)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+du+champagne&form=hpcapt&filters=HpDate%3a%2220251026_2300%22",
+            "title": "Champagne !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_ChampagneDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06c46079f7897db634df0616363fdd4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251025",
             "fullstartdate": "202510252200",
