@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-26 00:50:37",
-    "Total": 1278,
+    "LastUpdate": "2025-10-27 00:50:51",
+    "Total": 1279,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251026",
+            "fullstartdate": "202510261600",
+            "enddate": "20251027",
+            "url": "/th?id=OHR.AutumnColorY25_ZH-CN1551135398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnColorY25_ZH-CN1551135398",
+            "copyright": "被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%83%A1%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn",
+            "title": "千年秘境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_AutumnColorY25%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c504ebfcfbd938c8ca46ac4b11c70145",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251025",
             "fullstartdate": "202510251600",
