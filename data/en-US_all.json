@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-26 00:50:42",
-    "Total": 1278,
+    "LastUpdate": "2025-10-27 00:50:56",
+    "Total": 1279,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251026",
+            "fullstartdate": "202510260700",
+            "enddate": "20251027",
+            "url": "/th?id=OHR.PumpkinFarm_EN-US3773448576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PumpkinFarm_EN-US3773448576",
+            "copyright": "Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Pumpkin+Day&form=hpcapt&filters=HpDate%3a%2220251026_0700%22",
+            "title": "Oh my gourd, it's today!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_PumpkinFarm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fca4bbdf22ca80ae6b9086bea5e9b02d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251025",
             "fullstartdate": "202510250700",
