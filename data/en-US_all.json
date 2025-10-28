@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-27 00:50:56",
-    "Total": 1279,
+    "LastUpdate": "2025-10-28 00:50:27",
+    "Total": 1280,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251027",
+            "fullstartdate": "202510270700",
+            "enddate": "20251028",
+            "url": "/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AfricanRaven_EN-US4057369898",
+            "copyright": "Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=thick+billed+raven&form=hpcapt&filters=HpDate%3a%2220251027_0700%22",
+            "title": "Bigger, bolder, beakier",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_AfricanRaven%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b53144c848e1f094b0492790f6da3e8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251026",
             "fullstartdate": "202510260700",
