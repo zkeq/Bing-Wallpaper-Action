@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-27 00:51:12",
-    "Total": 1276,
+    "LastUpdate": "2025-10-28 00:50:43",
+    "Total": 1277,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251028",
+            "fullstartdate": "202510280000",
+            "enddate": "20251029",
+            "url": "/th?id=OHR.TepliceRocks_EN-GB3818536107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TepliceRocks_EN-GB3818536107",
+            "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Adrspach+Teplice+Rocks+Czechia&form=hpcapt&filters=HpDate%3a%2220251028_0000%22",
+            "title": "A gateway to stone wonders",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_TepliceRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c6b4c0ca9b23db278622607301145698",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251027",
             "fullstartdate": "202510270000",
