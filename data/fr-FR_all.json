@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-27 00:51:19",
-    "Total": 1279,
+    "LastUpdate": "2025-10-28 00:50:51",
+    "Total": 1280,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251027",
+            "fullstartdate": "202510272300",
+            "enddate": "20251028",
+            "url": "/th?id=OHR.TepliceRocks_FR-FR0275962088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TepliceRocks_FR-FR0275962088",
+            "copyright": "Porte gothique, rochers d'Adršpach-Teplice, Tchéquie (© Kseniya_Milner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rochers+d%27Adr%C5%A1pach-Teplice%2c+Tch%C3%A9quie&form=hpcapt&filters=HpDate%3a%2220251027_2300%22",
+            "title": "Un monde au-delà de l’arche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_TepliceRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e7699f89859e9972b90c926089f1d987",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251026",
             "fullstartdate": "202510262300",
