@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-27 00:50:51",
-    "Total": 1279,
+    "LastUpdate": "2025-10-28 00:50:22",
+    "Total": 1280,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251027",
+            "fullstartdate": "202510271600",
+            "enddate": "20251028",
+            "url": "/th?id=OHR.TepliceRocks_ZH-CN1785316311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TepliceRocks_ZH-CN1785316311",
+            "copyright": "安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%93%A5%E7%89%B9%E5%BC%8F%E6%8B%B1%E9%97%A8&form=hpcapt&mkt=zh-cn",
+            "title": "通往石之奇境的大门",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_TepliceRocks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "961b071295536a9562a6695813ccca99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251026",
             "fullstartdate": "202510261600",
