@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-28 00:50:22",
-    "Total": 1280,
+    "LastUpdate": "2025-10-29 00:50:41",
+    "Total": 1281,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251028",
+            "fullstartdate": "202510281600",
+            "enddate": "20251029",
+            "url": "/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanalForest_ZH-CN2203572101",
+            "copyright": "法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E9%A9%AC%E5%BE%B7%E6%8B%89%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "时光扎根",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1dea4a6283f26038d069dede5aeb5695",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251027",
             "fullstartdate": "202510271600",
