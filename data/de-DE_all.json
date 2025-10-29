@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-28 00:50:35",
-    "Total": 1280,
+    "LastUpdate": "2025-10-29 00:50:54",
+    "Total": 1281,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251028",
+            "fullstartdate": "202510282300",
+            "enddate": "20251029",
+            "url": "/th?id=OHR.FanalForest_DE-DE4508530249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanalForest_DE-DE4508530249",
+            "copyright": "Uralte Stinklorbeerbäume im Fanal-Wald auf der Insel Madeira, Portugal (© Lukas Jonaitis/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Laurisilva+von+Madeira&form=hpcapt&filters=HpDate%3a%2220251028_2300%22",
+            "title": "In der Zeit verwurzelt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8f04eb3c1dc8857d94481cba13d9ef9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251027",
             "fullstartdate": "202510272300",
