@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-28 00:50:31",
-    "Total": 1280,
+    "LastUpdate": "2025-10-29 00:50:50",
+    "Total": 1281,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251028",
+            "fullstartdate": "202510281500",
+            "enddate": "20251029",
+            "url": "/th?id=OHR.FanalForest_JA-JP5058622515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanalForest_JA-JP5058622515",
+            "copyright": "マデイラ島のファナルの森, ポルトガル (© Lukas Jonaitis/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E5%B3%B6+%E3%83%95%E3%82%A1%E3%83%8A%E3%83%AB%E3%81%AE%E6%A3%AE&form=hpcapt&filters=HpDate%3a%2220251028_1500%22",
+            "title": "霧に包まれた幻想の森",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "efb970829b052b1f94c4fc6b8e8afd7b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251027",
             "fullstartdate": "202510271500",
