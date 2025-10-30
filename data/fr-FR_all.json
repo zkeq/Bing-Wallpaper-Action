@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-29 00:51:10",
-    "Total": 1281,
+    "LastUpdate": "2025-10-30 00:51:03",
+    "Total": 1282,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251029",
+            "fullstartdate": "202510292300",
+            "enddate": "20251030",
+            "url": "/th?id=OHR.PushkarFair_FR-FR0781642371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PushkarFair_FR-FR0781642371",
+            "copyright": "Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Foire+aux+chameaux+de+Pushkar&form=hpcapt&filters=HpDate%3a%2220251029_2300%22",
+            "title": "Le « bosse » du sable",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251029_PushkarFair%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5709ecd6e6cefb21f36ff20fcd548d33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251028",
             "fullstartdate": "202510282300",
