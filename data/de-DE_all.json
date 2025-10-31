@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-30 00:50:48",
-    "Total": 1282,
+    "LastUpdate": "2025-10-31 00:50:40",
+    "Total": 1283,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251030",
+            "fullstartdate": "202510302300",
+            "enddate": "20251031",
+            "url": "/th?id=OHR.BranCastle_DE-DE1129139069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BranCastle_DE-DE1129139069",
+            "copyright": "Eingang zum Schloss Bran, Brașov, Rumänien (© blue sky in my pocket/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Schloss+Bran+Bra%C8%99ov&form=hpcapt&filters=HpDate%3a%2220251030_2300%22",
+            "title": "Unter dem Zauber von Halloween",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5cde5c5a899062d8459ca53755ad0b9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251029",
             "fullstartdate": "202510292300",
