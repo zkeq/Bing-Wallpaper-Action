@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-30 00:51:07",
-    "Total": 1282,
+    "LastUpdate": "2025-10-31 00:50:59",
+    "Total": 1283,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251030",
+            "fullstartdate": "202510302300",
+            "enddate": "20251031",
+            "url": "/th?id=OHR.BranCastle_IT-IT5114720491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BranCastle_IT-IT5114720491",
+            "copyright": "Ingresso del Castello di Bran a Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+castello+di+Bran&form=hpcapt",
+            "title": "Sotto il segno di Halloween",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52bdbb2ff805b8dc201bd348959a2a4c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251029",
             "fullstartdate": "202510292300",
