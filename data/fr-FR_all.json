@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-30 00:51:03",
-    "Total": 1282,
+    "LastUpdate": "2025-10-31 00:50:55",
+    "Total": 1283,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251030",
+            "fullstartdate": "202510302300",
+            "enddate": "20251031",
+            "url": "/th?id=OHR.BranCastle_FR-FR2815069618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BranCastle_FR-FR2815069618",
+            "copyright": "Entrée du château de Bran, Brașov, Roumanie (© blue sky in my pocket/Getty Images) Caption URL:",
+            "copyrightlink": "https://www.bing.com/search?q=Bran%2c+Bra%C8%99ov%2c+Roumanie&form=hpcapt&filters=HpDate%3a%2220251030_2300%22",
+            "title": "Sortez vos gousses d’ail, vos pieux et vos cols roulés !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48d6900c00a3c205db67771c46bcac70",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251029",
             "fullstartdate": "202510292300",
