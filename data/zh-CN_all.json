@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-10-31 00:50:27",
-    "Total": 1283,
+    "LastUpdate": "2025-11-01 00:50:35",
+    "Total": 1284,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251031",
+            "fullstartdate": "202510311600",
+            "enddate": "20251101",
+            "url": "/th?id=OHR.BisonSprings_ZH-CN4419733534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonSprings_ZH-CN4419733534",
+            "copyright": "野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E7%9A%84%E9%87%8E%E7%89%9B%E7%BE%A4&form=hpcapt&mkt=zh-cn",
+            "title": "古老血脉的兽群",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251031_BisonSprings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55306a88232ab303670b16374dd0569b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251030",
             "fullstartdate": "202510301600",
