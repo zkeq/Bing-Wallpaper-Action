@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-01 00:51:05",
-    "Total": 1284,
+    "LastUpdate": "2025-11-02 00:51:13",
+    "Total": 1285,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251101",
+            "fullstartdate": "202511012300",
+            "enddate": "20251102",
+            "url": "/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KyotoMaple_FR-FR3189675625",
+            "copyright": "Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kyoto+Japon&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+            "title": "Quand la nature peint Kyoto de rouge et de vert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8715c06f08e3ee39b7b934675a9f1484",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251031",
             "fullstartdate": "202510312300",
