@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-01 00:50:53",
-    "Total": 1283,
+    "LastUpdate": "2025-11-02 00:51:01",
+    "Total": 1284,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251101",
+            "fullstartdate": "202511010400",
+            "enddate": "20251102",
+            "url": "/th?id=OHR.BisonSprings_EN-CA2849126992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BisonSprings_EN-CA2849126992",
+            "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Yellowstone+National+Park&form=hpcapt&filters=HpDate%3a%2220251101_0400%22",
+            "title": "Herds of heritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cab229c72c8758e61bf5621b476459c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251031",
             "fullstartdate": "202510310400",
