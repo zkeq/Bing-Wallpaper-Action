@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-01 00:50:44",
-    "Total": 1284,
+    "LastUpdate": "2025-11-02 00:50:52",
+    "Total": 1285,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251101",
+            "fullstartdate": "202511011500",
+            "enddate": "20251102",
+            "url": "/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KyotoMaple_JA-JP9092721776",
+            "copyright": "嵐山の竹林, 京都府 京都市 (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B5%90%E5%B1%B1%E3%81%AE%E7%AB%B9%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220251101_1500%22",
+            "title": "竹と紅葉が奏でる秋の風景",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35b22622a1cba49f48d9b4a307622cdb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251031",
             "fullstartdate": "202510311500",
