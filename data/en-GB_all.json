@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-01 00:50:57",
-    "Total": 1281,
+    "LastUpdate": "2025-11-02 00:51:05",
+    "Total": 1282,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251102",
+            "fullstartdate": "202511020000",
+            "enddate": "20251103",
+            "url": "/th?id=OHR.KyotoMaple_EN-GB3352646141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KyotoMaple_EN-GB3352646141",
+            "copyright": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Arashiyama+Kyoto&form=hpcapt&filters=HpDate%3a%2220251102_0000%22",
+            "title": "Where bamboo breathes and maples blaze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_KyotoMaple%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e83a6d41a4980b3ae3cca96fdabc5e11",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251101",
             "fullstartdate": "202511010000",
