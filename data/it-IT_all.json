@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-02 00:51:17",
-    "Total": 1285,
+    "LastUpdate": "2025-11-03 00:51:05",
+    "Total": 1286,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251102",
+            "fullstartdate": "202511022300",
+            "enddate": "20251103",
+            "url": "/th?id=OHR.MexicoJelly_IT-IT5297889908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MexicoJelly_IT-IT5297889908",
+            "copyright": "Medusa nell’Oceano Pacifico, Guerrero, Messico (© Christian Vizl/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Meduse&form=hpcapt",
+            "title": "Fluttuano, brillano, resistono",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d41d7e1f9e1f7bc79bf8b9a2ab6a7a28",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251101",
             "fullstartdate": "202511012300",
