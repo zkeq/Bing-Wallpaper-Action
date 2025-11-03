@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-02 00:51:13",
-    "Total": 1285,
+    "LastUpdate": "2025-11-03 00:51:01",
+    "Total": 1286,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251102",
+            "fullstartdate": "202511022300",
+            "enddate": "20251103",
+            "url": "/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MexicoJelly_FR-FR3982419293",
+            "copyright": "Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=m%C3%A9duse&form=hpcapt&filters=HpDate%3a%2220251102_2300%22",
+            "title": "Médusés devant tant de beauté",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d2dca63b1cf8f6b76cbe1307a55e5ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251101",
             "fullstartdate": "202511012300",
