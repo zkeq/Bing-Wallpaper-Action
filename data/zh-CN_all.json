@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-02 00:50:44",
-    "Total": 1285,
+    "LastUpdate": "2025-11-03 00:50:32",
+    "Total": 1286,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251102",
+            "fullstartdate": "202511021600",
+            "enddate": "20251103",
+            "url": "/th?id=OHR.MexicoJelly_ZH-CN5266285518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MexicoJelly_ZH-CN5266285518",
+            "copyright": "在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B0%B4%E6%AF%8D&form=hpcapt&mkt=zh-cn",
+            "title": "随波轻舞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a0dac88b7b3257d25add17a53e36991",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251101",
             "fullstartdate": "202511011600",
