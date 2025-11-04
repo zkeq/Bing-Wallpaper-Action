@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-03 00:50:32",
-    "Total": 1286,
+    "LastUpdate": "2025-11-04 00:50:26",
+    "Total": 1287,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251103",
+            "fullstartdate": "202511031600",
+            "enddate": "20251104",
+            "url": "/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TowerBridgeUK_ZH-CN1846533186",
+            "copyright": "塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%A6%E6%95%A6%E5%A1%94%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "小心空隙，桥面将开启！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f887236a99abd23ddcea5c2409d029c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251102",
             "fullstartdate": "202511021600",
