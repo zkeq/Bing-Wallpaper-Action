@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-04 00:50:55",
-    "Total": 1287,
+    "LastUpdate": "2025-11-05 00:50:59",
+    "Total": 1288,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251104",
+            "fullstartdate": "202511042300",
+            "enddate": "20251105",
+            "url": "/th?id=OHR.MoncayoAutumn_FR-FR2938988212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoncayoAutumn_FR-FR2938988212",
+            "copyright": "Forêt de hêtres de Añón de Moncayo, Parc naturel du Moncayo, Saragosse, Espagne (© David Santiago Garcia/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Saragosse+Espagne&form=hpcapt&filters=HpDate%3a%2220251104_2300%22",
+            "title": "Saragosse en habits d’automne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4e9f1b653425f54ae87f80ce6a21598",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251103",
             "fullstartdate": "202511032300",
