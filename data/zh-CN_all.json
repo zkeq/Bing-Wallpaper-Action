@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-04 00:50:26",
-    "Total": 1287,
+    "LastUpdate": "2025-11-05 00:50:31",
+    "Total": 1288,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251104",
+            "fullstartdate": "202511041600",
+            "enddate": "20251105",
+            "url": "/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoncayoAutumn_ZH-CN5187959516",
+            "copyright": "佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%90%A8%E6%8B%89%E6%88%88%E8%90%A8&form=hpcapt&mkt=zh-cn",
+            "title": "秋天来了，你开心吗？",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eee145866a2783055bd1f0ac0b8566a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251103",
             "fullstartdate": "202511031600",
