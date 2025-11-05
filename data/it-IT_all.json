@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-04 00:50:59",
-    "Total": 1287,
+    "LastUpdate": "2025-11-05 00:51:03",
+    "Total": 1288,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251104",
+            "fullstartdate": "202511042300",
+            "enddate": "20251105",
+            "url": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597",
+            "copyright": "Foresta di faggi di Peña Roya, Parco Naturale del Moncayo, Saragozza, Aragona, Spagna (© David Santiago Garcia/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=hpcapt",
+            "title": "Red carpet naturale?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d9a4f98e6ec14ebcd25c445718ee09cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251103",
             "fullstartdate": "202511032300",
