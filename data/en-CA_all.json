@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-04 00:50:43",
-    "Total": 1286,
+    "LastUpdate": "2025-11-05 00:50:47",
+    "Total": 1287,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251104",
+            "fullstartdate": "202511040500",
+            "enddate": "20251105",
+            "url": "/th?id=OHR.TowerBridgeUK_EN-CA4869370320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TowerBridgeUK_EN-CA4869370320",
+            "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate%3a%2220251104_0500%22",
+            "title": "Mind the gap—this one opens",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_TowerBridgeUK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14916438fc3078e09c1bf3ed6bc76d17",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251103",
             "fullstartdate": "202511030500",
