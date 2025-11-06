@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-05 00:50:35",
-    "Total": 1288,
+    "LastUpdate": "2025-11-06 00:50:36",
+    "Total": 1289,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251105",
+            "fullstartdate": "202511050800",
+            "enddate": "20251106",
+            "url": "/th?id=OHR.MoncayoAutumn_EN-US1753631441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MoncayoAutumn_EN-US1753631441",
+            "copyright": "Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)",
+            "copyrightlink": "https://www.bing.com/search?q=Zaragoza+Spain&form=hpcapt&filters=HpDate%3a%2220251105_0800%22",
+            "title": "Orange you glad it's fall?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_MoncayoAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "990b1dd4df590493397658409e2df526",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251104",
             "fullstartdate": "202511040800",
