@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-05 00:51:03",
-    "Total": 1288,
+    "LastUpdate": "2025-11-06 00:51:04",
+    "Total": 1289,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251105",
+            "fullstartdate": "202511052300",
+            "enddate": "20251106",
+            "url": "/th?id=OHR.LanternsThailand_IT-IT4602897634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LanternsThailand_IT-IT4602897634",
+            "copyright": "Lanterne colorate al tempio di Wat Phra That Hariphunchai, Lamphun, Thailandia (© MR. ANUJAK JAIMOOK/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lamphun+citt%C3%A0+minore+della+Thailandia&form=hpcapt",
+            "title": "Accendiamo la Passione",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c569c4ca71e73310c5d1e22b347bd6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251104",
             "fullstartdate": "202511042300",
