@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-05 00:50:43",
-    "Total": 1288,
+    "LastUpdate": "2025-11-06 00:50:44",
+    "Total": 1289,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251105",
+            "fullstartdate": "202511052300",
+            "enddate": "20251106",
+            "url": "/th?id=OHR.LanternsThailand_DE-DE6599353483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LanternsThailand_DE-DE6599353483",
+            "copyright": "Bunte Laternen im Tempel Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lichterfest+in+Chiang+Mai&form=hpcapt&filters=HpDate%3a%2220251105_2300%22",
+            "title": "Ein Himmel voller Wünsche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4dbc84aa98d4687a321a233cd13465b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251104",
             "fullstartdate": "202511042300",
