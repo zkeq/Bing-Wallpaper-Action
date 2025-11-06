@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-05 00:50:31",
-    "Total": 1288,
+    "LastUpdate": "2025-11-06 00:50:32",
+    "Total": 1289,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251105",
+            "fullstartdate": "202511051600",
+            "enddate": "20251106",
+            "url": "/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LanternsThailand_ZH-CN3419382923",
+            "copyright": "哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B8%85%E8%BF%88%E7%81%AF%E4%BC%9A&form=hpcapt&mkt=zh-cn",
+            "title": "满天心愿",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2831e2cd9da96c50bf64954516b983d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251104",
             "fullstartdate": "202511041600",
