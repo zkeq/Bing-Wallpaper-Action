@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-06 00:51:00",
-    "Total": 1289,
+    "LastUpdate": "2025-11-07 00:51:03",
+    "Total": 1290,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251106",
+            "fullstartdate": "202511062300",
+            "enddate": "20251107",
+            "url": "/th?id=OHR.WillowBear_FR-FR5230824319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowBear_FR-FR5230824319",
+            "copyright": "Ours polaire à Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Semaine+ours+polaire+Churchill&form=hpcapt&filters=HpDate%3a%2220251106_2300%22",
+            "title": "Un ours pas mal léché !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2edd3607c52ae859fc343fe1e2f4b467",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251105",
             "fullstartdate": "202511052300",
