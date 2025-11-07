@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-06 00:50:32",
-    "Total": 1289,
+    "LastUpdate": "2025-11-07 00:50:35",
+    "Total": 1290,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251106",
+            "fullstartdate": "202511061600",
+            "enddate": "20251107",
+            "url": "/th?id=OHR.WillowBear_ZH-CN3501489210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowBear_ZH-CN3501489210",
+            "copyright": "丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "魅力十足的巨型动物",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cb31ee02c85acf33b45cbf78cf55b35",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251105",
             "fullstartdate": "202511051600",
