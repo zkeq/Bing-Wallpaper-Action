@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-07 00:51:03",
-    "Total": 1290,
+    "LastUpdate": "2025-11-08 00:50:43",
+    "Total": 1291,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251107",
+            "fullstartdate": "202511072300",
+            "enddate": "20251108",
+            "url": "/th?id=OHR.BandonBeach_FR-FR5359077798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BandonBeach_FR-FR5359077798",
+            "copyright": "Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Bandon+Oregon+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220251107_2300%22",
+            "title": "L’Oregon sauvage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_BandonBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "069c5da0b87b87b858e8a3721e59c776",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251106",
             "fullstartdate": "202511062300",
