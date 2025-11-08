@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-07 00:50:39",
-    "Total": 1290,
+    "LastUpdate": "2025-11-08 00:50:20",
+    "Total": 1291,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251107",
+            "fullstartdate": "202511070800",
+            "enddate": "20251108",
+            "url": "/th?id=OHR.WillowBear_EN-US6995170630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowBear_EN-US6995170630",
+            "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220251107_0800%22",
+            "title": "Week of the white bear",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5b04b016f5cb5a28d59e1ca02eb45568",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251106",
             "fullstartdate": "202511060800",
