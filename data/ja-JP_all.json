@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-07 00:50:43",
-    "Total": 1290,
+    "LastUpdate": "2025-11-08 00:50:24",
+    "Total": 1291,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251107",
+            "fullstartdate": "202511071500",
+            "enddate": "20251108",
+            "url": "/th?id=OHR.BandonBeach_JA-JP1159899135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BandonBeach_JA-JP1159899135",
+            "copyright": "バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%89%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81%E3%81%AE%E6%B5%B7%E8%9D%95%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251107_1500%22",
+            "title": "波や風に削られた岩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_BandonBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "994f13afa460114be3de91d97a50dfa8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251106",
             "fullstartdate": "202511061500",
