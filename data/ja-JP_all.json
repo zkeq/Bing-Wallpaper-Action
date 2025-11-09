@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-08 00:50:24",
-    "Total": 1291,
+    "LastUpdate": "2025-11-09 00:50:43",
+    "Total": 1292,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251108",
+            "fullstartdate": "202511081500",
+            "enddate": "20251109",
+            "url": "/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LagoonNebula_JA-JP1393658321",
+            "copyright": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%9F%E9%96%93%E9%9B%B2&form=hpcapt&filters=HpDate%3a%2220251108_1500%22",
+            "title": "今日はカール・セーガン・デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a57de8af67f862e2e46d80d12b2ba84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251107",
             "fullstartdate": "202511071500",
