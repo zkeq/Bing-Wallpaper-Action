@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-08 00:50:39",
-    "Total": 1291,
+    "LastUpdate": "2025-11-09 00:50:59",
+    "Total": 1292,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251108",
+            "fullstartdate": "202511081830",
+            "enddate": "20251109",
+            "url": "/th?id=OHR.LagoonNebula_EN-IN3202220398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LagoonNebula_EN-IN3202220398",
+            "copyright": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Lagoon+Nebula&form=hpcapt&filters=HpDate%3a%2220251108_1830%22",
+            "title": "Once upon a star",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c90fdf876f2613a9d494974302a109e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251107",
             "fullstartdate": "202511071830",
