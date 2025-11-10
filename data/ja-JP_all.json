@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-09 00:50:43",
-    "Total": 1292,
+    "LastUpdate": "2025-11-10 00:50:48",
+    "Total": 1293,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251109",
+            "fullstartdate": "202511091500",
+            "enddate": "20251110",
+            "url": "/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133",
+            "copyright": "松本城, 長野県 松本市 (© Sangchai Olanrittinunt/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%BE%E6%9C%AC%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220251109_1500%22",
+            "title": "今日は松本城の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_MatsumotoCastleDay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55ce3299e39b7f21b2d34a6c1354e4e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251108",
             "fullstartdate": "202511081500",
