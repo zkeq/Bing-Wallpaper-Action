@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-09 00:50:47",
-    "Total": 1292,
+    "LastUpdate": "2025-11-10 00:50:52",
+    "Total": 1293,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251109",
+            "fullstartdate": "202511092300",
+            "enddate": "20251110",
+            "url": "/th?id=OHR.PrairieDogTown_DE-DE5557386085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrairieDogTown_DE-DE5557386085",
+            "copyright": "Schwarzschwanz-Präriehunde in der Roberts Prairie Dog Town, Badlands-Nationalpark, South Dakota, USA (© Greg Vaughn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Badlands-Nationalpark&form=hpcapt&filters=HpDate%3a%2220251109_2300%22",
+            "title": "Verstecktes Leben unter der Prärie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_PrairieDogTown%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6201ed737f66c9d87f7746ecfa1ed753",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251108",
             "fullstartdate": "202511082300",
