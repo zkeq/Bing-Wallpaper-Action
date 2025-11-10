@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-09 00:51:07",
-    "Total": 1292,
+    "LastUpdate": "2025-11-10 00:51:12",
+    "Total": 1293,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251109",
+            "fullstartdate": "202511092300",
+            "enddate": "20251110",
+            "url": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309",
+            "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+di+Rocca+Calascio&form=hpcapt",
+            "title": "Nel vento la memoria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_CastleAbruzzo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8eeee481672b6258fa308a8476cd1826",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251108",
             "fullstartdate": "202511082300",
