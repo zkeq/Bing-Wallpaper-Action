@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-10 00:50:39",
-    "Total": 1293,
+    "LastUpdate": "2025-11-11 00:50:26",
+    "Total": 1294,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251110",
+            "fullstartdate": "202511101600",
+            "enddate": "20251111",
+            "url": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102",
+            "copyright": "条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%A1%E9%A1%BF%E5%A0%A1%E6%9E%97%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "传奇之地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_ExternsteineSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9b43e40979ded3153848a0e901b2602",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251109",
             "fullstartdate": "202511091600",
