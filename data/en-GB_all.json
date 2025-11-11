@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-10 00:51:00",
-    "Total": 1290,
+    "LastUpdate": "2025-11-11 00:50:47",
+    "Total": 1291,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251111",
+            "fullstartdate": "202511110000",
+            "enddate": "20251112",
+            "url": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372",
+            "copyright": "The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=The+Externsteine+Teutoburg+Forest&form=hpcapt&filters=HpDate%3a%2220251111_0000%22",
+            "title": "Where legends rise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ExternsteineSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5db04308265c515dc11e0aab7607fa88",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251110",
             "fullstartdate": "202511100000",
