@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-10 00:51:08",
-    "Total": 1293,
+    "LastUpdate": "2025-11-11 00:50:55",
+    "Total": 1294,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251110",
+            "fullstartdate": "202511102300",
+            "enddate": "20251111",
+            "url": "/th?id=OHR.Armistice_FR-FR5922039911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Armistice_FR-FR5922039911",
+            "copyright": "Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tombe+du+soldat+inconnu&form=hpcapt&filters=HpDate%3a%2220251110_2300%22",
+            "title": "Un symbole plus que jamais d’actualité",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_Armistice%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ee815bd2d75a597648c7299f8c27ab22",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251109",
             "fullstartdate": "202511092300",
