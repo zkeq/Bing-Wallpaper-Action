@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-11 00:50:43",
-    "Total": 1293,
+    "LastUpdate": "2025-11-12 00:50:53",
+    "Total": 1294,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251111",
+            "fullstartdate": "202511110500",
+            "enddate": "20251112",
+            "url": "/th?id=OHR.AloeDichotoma_EN-CA9316195338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AloeDichotoma_EN-CA9316195338",
+            "copyright": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Quiver+tree&form=hpcapt&filters=HpDate%3a%2220251111_0500%22",
+            "title": "Quivering under starlight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_AloeDichotoma%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d55e7a97f46cd9ba27e7d381ee9ba4d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251110",
             "fullstartdate": "202511100500",
