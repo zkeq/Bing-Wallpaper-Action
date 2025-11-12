@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-11 00:50:51",
-    "Total": 1294,
+    "LastUpdate": "2025-11-12 00:51:01",
+    "Total": 1295,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251111",
+            "fullstartdate": "202511111830",
+            "enddate": "20251112",
+            "url": "/th?id=OHR.ColosseumRome_EN-IN3858080583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColosseumRome_EN-IN3858080583",
+            "copyright": "Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Colosseum+Rome&form=hpcapt&filters=HpDate%3a%2220251111_1830%22",
+            "title": "All roads lead to Rome",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d56f743f4ad67c6aafbfdf9962a875ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251110",
             "fullstartdate": "202511101830",
