@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-11 00:50:39",
-    "Total": 1294,
+    "LastUpdate": "2025-11-12 00:50:49",
+    "Total": 1295,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251111",
+            "fullstartdate": "202511112300",
+            "enddate": "20251112",
+            "url": "/th?id=OHR.ColosseumRome_DE-DE9770926344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColosseumRome_DE-DE9770926344",
+            "copyright": "Luftaufnahme des Kolosseums, Rom, Italien (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Das+Kolosseum+Amphitheater+im+antiken+Rom&form=hpcapt&filters=HpDate%3a%2220251111_2300%22",
+            "title": "Alle Wege führen nach Rom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83785d25636c850d4059c4feb4cc109a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251110",
             "fullstartdate": "202511102300",
