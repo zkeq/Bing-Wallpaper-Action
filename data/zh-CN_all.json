@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-11 00:50:26",
-    "Total": 1294,
+    "LastUpdate": "2025-11-12 00:50:36",
+    "Total": 1295,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251111",
+            "fullstartdate": "202511111600",
+            "enddate": "20251112",
+            "url": "/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColosseumRome_ZH-CN4305271578",
+            "copyright": "斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "条条大路通罗马",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3c668900008429e1cbda21fd2e95596",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251110",
             "fullstartdate": "202511101600",
