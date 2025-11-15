@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-14 00:50:28",
-    "Total": 1297,
+    "LastUpdate": "2025-11-15 00:50:30",
+    "Total": 1298,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251114",
+            "fullstartdate": "202511141600",
+            "enddate": "20251115",
+            "url": "/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245",
+            "copyright": "秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A0%83%E6%9C%A8%E5%8E%BF%E6%97%A5%E5%85%89%E5%B8%82&form=hpcapt&mkt=zh-cn",
+            "title": "像日光那样“弯道飞驰”",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_IrohazakaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6bb05bc43349afdfce43e5d8fca2c2ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251113",
             "fullstartdate": "202511131600",
