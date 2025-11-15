@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-14 00:50:33",
-    "Total": 1297,
+    "LastUpdate": "2025-11-15 00:50:34",
+    "Total": 1298,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251114",
+            "fullstartdate": "202511140800",
+            "enddate": "20251115",
+            "url": "/th?id=OHR.ManateeBaby_EN-US5594953777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeBaby_EN-US5594953777",
+            "copyright": "Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatee+Awareness&form=hpcapt&filters=HpDate%3a%2220251114_0800%22",
+            "title": "A slow reminder for a fast world",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_ManateeBaby%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "05ce9fc0756c99be99350fe807c46932",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251113",
             "fullstartdate": "202511130800",
