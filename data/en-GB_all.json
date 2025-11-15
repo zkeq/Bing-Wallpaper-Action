@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-14 00:50:49",
-    "Total": 1294,
+    "LastUpdate": "2025-11-15 00:50:50",
+    "Total": 1295,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251115",
+            "fullstartdate": "202511150000",
+            "enddate": "20251116",
+            "url": "/th?id=OHR.IrohazakaAutumn_EN-GB2923985391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IrohazakaAutumn_EN-GB2923985391",
+            "copyright": "Irohazaka Road in autumn, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nikko+Tochigi+Prefecture&form=hpcapt&filters=HpDate%3a%2220251115_0000%22",
+            "title": "Bend it like Nikko",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_IrohazakaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbac76e58734fb815a2dd63cae96e7e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251114",
             "fullstartdate": "202511140000",
