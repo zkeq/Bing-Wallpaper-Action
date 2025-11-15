@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-14 00:50:41",
-    "Total": 1297,
+    "LastUpdate": "2025-11-15 00:50:42",
+    "Total": 1298,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251114",
+            "fullstartdate": "202511142300",
+            "enddate": "20251115",
+            "url": "/th?id=OHR.IrohazakaAutumn_DE-DE0981983291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IrohazakaAutumn_DE-DE0981983291",
+            "copyright": "Irohazaka-Straße im Herbst, Nikkō, Tochigi, Japan (© oneinchpunch/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nikk%C5%8D+Pr%C3%A4fektur+Tochigi&form=hpcapt&filters=HpDate%3a%2220251114_2300%22",
+            "title": "Kurvenkunst in Nikkō",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_IrohazakaAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25fdfb6eb416f44c28a4ef1e300fa422",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251113",
             "fullstartdate": "202511132300",
