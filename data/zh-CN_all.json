@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-15 00:50:30",
-    "Total": 1298,
+    "LastUpdate": "2025-11-16 00:50:36",
+    "Total": 1299,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251115",
+            "fullstartdate": "202511151600",
+            "enddate": "20251116",
+            "url": "/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LyonTraboules_ZH-CN8476826325",
+            "copyright": "里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%8C%E6%98%82%E7%9A%84%E7%A9%BF%E5%BB%8A&form=hpcapt&mkt=zh-cn",
+            "title": "承载过往的篇章",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5c92f451fbab22fdf18a9f7fad81e47b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251114",
             "fullstartdate": "202511141600",
