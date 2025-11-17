@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-16 00:51:01",
-    "Total": 1299,
+    "LastUpdate": "2025-11-17 00:50:57",
+    "Total": 1300,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251116",
+            "fullstartdate": "202511161830",
+            "enddate": "20251117",
+            "url": "/th?id=OHR.ShenandoahTrail_EN-IN3789880572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShenandoahTrail_EN-IN3789880572",
+            "copyright": "Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220251116_1830%22",
+            "title": "The trails' call",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b1a163ece22794e8664dbbb4282fc4e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251115",
             "fullstartdate": "202511151830",
