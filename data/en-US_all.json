@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-16 00:50:41",
-    "Total": 1299,
+    "LastUpdate": "2025-11-17 00:50:37",
+    "Total": 1300,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251116",
+            "fullstartdate": "202511160800",
+            "enddate": "20251117",
+            "url": "/th?id=OHR.LyonTraboules_EN-US9432784340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LyonTraboules_EN-US9432784340",
+            "copyright": "A traboule in Lyon, France (© TPopova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Traboules+of+Lyon&form=hpcapt&filters=HpDate%3a%2220251116_0800%22",
+            "title": "Passages with a past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_LyonTraboules%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9a224c87f9394fcfdbc37f86d3a70d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251115",
             "fullstartdate": "202511150800",
