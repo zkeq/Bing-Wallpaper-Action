@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-16 00:50:57",
-    "Total": 1296,
+    "LastUpdate": "2025-11-17 00:50:53",
+    "Total": 1297,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251117",
+            "fullstartdate": "202511170000",
+            "enddate": "20251118",
+            "url": "/th?id=OHR.ShenandoahTrail_EN-GB3177635991_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShenandoahTrail_EN-GB3177635991",
+            "copyright": "Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Hiking+Day&form=hpcapt&filters=HpDate%3a%2220251117_0000%22",
+            "title": "The trails' call",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_ShenandoahTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a92f2d9f4cd5b25f0f4b85fe66db2ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251116",
             "fullstartdate": "202511160000",
