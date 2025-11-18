@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-17 00:50:49",
-    "Total": 1299,
+    "LastUpdate": "2025-11-18 00:50:50",
+    "Total": 1300,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251117",
+            "fullstartdate": "202511170500",
+            "enddate": "20251118",
+            "url": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827",
+            "copyright": "Red fox, Canada (© RT-Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Red+Fox&form=hpcapt&filters=HpDate%3a%2220251117_0500%22",
+            "title": "Fox in focus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_RedFoxVulpes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c765a0ec964ef02171e0360c5e819852",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251116",
             "fullstartdate": "202511160500",
