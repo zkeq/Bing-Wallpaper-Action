@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-18 00:50:50",
-    "Total": 1300,
+    "LastUpdate": "2025-11-19 00:50:43",
+    "Total": 1301,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251118",
+            "fullstartdate": "202511180500",
+            "enddate": "20251119",
+            "url": "/th?id=OHR.AutumnMerganser_EN-CA4410374678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnMerganser_EN-CA4410374678",
+            "copyright": "Male hooded merganser, Oregon, United States (© Eric Vogt/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Hooded+merganser&form=hpcapt&filters=HpDate%3a%2220251118_0500%22",
+            "title": "Autumn's feathered headliner",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_AutumnMerganser%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5252894637774e05089881fb5788ef50",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251117",
             "fullstartdate": "202511170500",
