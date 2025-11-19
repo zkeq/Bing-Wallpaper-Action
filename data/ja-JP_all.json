@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-18 00:50:42",
-    "Total": 1301,
+    "LastUpdate": "2025-11-19 00:50:35",
+    "Total": 1302,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251118",
+            "fullstartdate": "202511181500",
+            "enddate": "20251119",
+            "url": "/th?id=OHR.BudapestParliament_JA-JP4965401234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BudapestParliament_JA-JP4965401234",
+            "copyright": "国会議事堂, ハンガリー (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220251118_1500%22",
+            "title": "ライトアップされたブダペストの心臓",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a79c82a46d0281fc3f1289b4bb0d6397",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251117",
             "fullstartdate": "202511171500",
