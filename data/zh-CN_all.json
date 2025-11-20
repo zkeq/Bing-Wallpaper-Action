@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-19 00:50:27",
-    "Total": 1302,
+    "LastUpdate": "2025-11-20 00:50:27",
+    "Total": 1303,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251119",
+            "fullstartdate": "202511191600",
+            "enddate": "20251120",
+            "url": "/th?id=OHR.PondCave_ZH-CN2304770650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PondCave_ZH-CN2304770650",
+            "copyright": "查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9F%A5%E5%B8%95%E8%BE%BE-%E8%BF%AA%E4%BA%9A%E6%9B%BC%E8%92%82%E9%82%A3%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "颂扬保护与美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_PondCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dccf68161a0ec6da4f56ea1664aeb2f0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251118",
             "fullstartdate": "202511181600",
