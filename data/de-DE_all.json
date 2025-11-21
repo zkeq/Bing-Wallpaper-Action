@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-20 00:50:40",
-    "Total": 1303,
+    "LastUpdate": "2025-11-21 00:50:42",
+    "Total": 1304,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251120",
+            "fullstartdate": "202511202300",
+            "enddate": "20251121",
+            "url": "/th?id=OHR.SealWaving_DE-DE3822094080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealWaving_DE-DE3822094080",
+            "copyright": "Seehunde im Robert Moses State Park, Long Island, New York, USA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Hello+Day&form=hpcapt&filters=HpDate%3a%2220251120_2300%22",
+            "title": "Ein Gruß mit Flosse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eebc116281cb3c503f6644e3384404f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251119",
             "fullstartdate": "202511192300",
