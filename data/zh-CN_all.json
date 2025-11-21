@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-20 00:50:27",
-    "Total": 1303,
+    "LastUpdate": "2025-11-21 00:50:29",
+    "Total": 1304,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251120",
+            "fullstartdate": "202511201600",
+            "enddate": "20251121",
+            "url": "/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealWaving_ZH-CN2467723602",
+            "copyright": "罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B8%AF%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn",
+            "title": "带着“你好”的问候",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ba83cbe3cff36edcf3e219bc1c8ff6a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251119",
             "fullstartdate": "202511191600",
