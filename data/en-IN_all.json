@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-20 00:50:52",
-    "Total": 1303,
+    "LastUpdate": "2025-11-21 00:50:54",
+    "Total": 1304,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251120",
+            "fullstartdate": "202511201830",
+            "enddate": "20251121",
+            "url": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928",
+            "copyright": "Small island with a building near Ezhikkara, Kerala (© gulfu photography/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ezhikkara&form=hpcapt&filters=HpDate%3a%2220251120_1830%22",
+            "title": "Going with the flow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_KeralaEzhikara2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c17061c603e7debf8cdb3d46eaff7c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251119",
             "fullstartdate": "202511191830",
