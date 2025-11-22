@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-21 00:51:03",
-    "Total": 1304,
+    "LastUpdate": "2025-11-22 00:50:55",
+    "Total": 1305,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251121",
+            "fullstartdate": "202511212300",
+            "enddate": "20251122",
+            "url": "/th?id=OHR.LeshanBuddha_IT-IT0412372089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeshanBuddha_IT-IT0412372089",
+            "copyright": "Buddha gigante di Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Buddha+gigante+di+Leshan&form=hpcapt",
+            "title": "Gigante buono",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_LeshanBuddha%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de0703365284fe128bd1505bfbdfd443",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251120",
             "fullstartdate": "202511202300",
