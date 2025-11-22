@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-21 00:50:29",
-    "Total": 1304,
+    "LastUpdate": "2025-11-22 00:50:21",
+    "Total": 1305,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251121",
+            "fullstartdate": "202511211600",
+            "enddate": "20251122",
+            "url": "/th?id=OHR.LeshanBuddha_ZH-CN2804271540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeshanBuddha_ZH-CN2804271540",
+            "copyright": "乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B&form=hpcapt&mkt=zh-cn",
+            "title": "守护江河的佛像",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_LeshanBuddha%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d208e5c163e1d6cf207e4480422fa9f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251120",
             "fullstartdate": "202511201600",
