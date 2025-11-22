@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-21 00:50:34",
-    "Total": 1304,
+    "LastUpdate": "2025-11-22 00:50:26",
+    "Total": 1305,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251121",
+            "fullstartdate": "202511210800",
+            "enddate": "20251122",
+            "url": "/th?id=OHR.SealWaving_EN-US6277930581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SealWaving_EN-US6277930581",
+            "copyright": "Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hello+Day&form=hpcapt&filters=HpDate%3a%2220251121_0800%22",
+            "title": "Sealed with a hello",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_SealWaving%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4167fdc239aa45dc32629176d12c7636",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251120",
             "fullstartdate": "202511200800",
