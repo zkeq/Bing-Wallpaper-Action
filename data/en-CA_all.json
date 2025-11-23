@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-22 00:50:39",
-    "Total": 1304,
+    "LastUpdate": "2025-11-23 00:51:03",
+    "Total": 1305,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251122",
+            "fullstartdate": "202511220500",
+            "enddate": "20251123",
+            "url": "/th?id=OHR.LeshanBuddha_EN-CA5160256399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeshanBuddha_EN-CA5160256399",
+            "copyright": "Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Leshan+Giant+Buddha&form=hpcapt&filters=HpDate%3a%2220251122_0500%22",
+            "title": "The guardian of the waters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_LeshanBuddha%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34a1d326b96e4350b96b05414d9deaa7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251121",
             "fullstartdate": "202511210500",
