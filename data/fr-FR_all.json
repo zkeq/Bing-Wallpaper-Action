@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-22 00:50:51",
-    "Total": 1305,
+    "LastUpdate": "2025-11-23 00:51:15",
+    "Total": 1306,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251122",
+            "fullstartdate": "202511222300",
+            "enddate": "20251123",
+            "url": "/th?id=OHR.MadgascarAmmonite_FR-FR3013777807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadgascarAmmonite_FR-FR3013777807",
+            "copyright": "Fossile d’ammonite de Madagascar (© ThomasLENNE/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220251122_2300%22",
+            "title": "Fossile, mais pas has-been !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00b224c2174b8bbd11bedad68ef7e622",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251121",
             "fullstartdate": "202511212300",
