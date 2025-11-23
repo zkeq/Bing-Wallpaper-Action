@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-22 00:50:34",
-    "Total": 1305,
+    "LastUpdate": "2025-11-23 00:50:59",
+    "Total": 1306,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251122",
+            "fullstartdate": "202511222300",
+            "enddate": "20251123",
+            "url": "/th?id=OHR.MadgascarAmmonite_DE-DE9513617798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MadgascarAmmonite_DE-DE9513617798",
+            "copyright": "Ammonitenfossil aus Madagaskar (© ThomasLENNE/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Fibonacci%E2%80%91Folge&form=hpcapt&filters=HpDate%3a%2220251122_2300%22",
+            "title": "Natur im Zahlencode",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "54518fc643c9253b19a52ed8cdc800ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251121",
             "fullstartdate": "202511212300",
