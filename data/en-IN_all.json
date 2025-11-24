@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-23 00:51:11",
-    "Total": 1306,
+    "LastUpdate": "2025-11-24 00:51:00",
+    "Total": 1307,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251123",
+            "fullstartdate": "202511231830",
+            "enddate": "20251124",
+            "url": "/th?id=OHR.GwailorFort_EN-IN5085312905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GwailorFort_EN-IN5085312905",
+            "copyright": "Gwalior Fort, Madhya Pradesh (© ImagesofIndia/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Gwalior+Fort+Madhya+Pradesh&form=hpcapt&filters=HpDate%3a%2220251123_1830%22",
+            "title": "Secrets in stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "584de66475ac33d8b4e3f605ea74dd98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251122",
             "fullstartdate": "202511221830",
