@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-24 00:50:47",
-    "Total": 1307,
+    "LastUpdate": "2025-11-25 00:50:38",
+    "Total": 1308,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251124",
+            "fullstartdate": "202511242300",
+            "enddate": "20251125",
+            "url": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799",
+            "copyright": "Weihnachtsmarkt Erfurt, Thüringen (© Jareck/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Erfurter+Weihnachtsmarkt&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+            "title": "Ein Fest der Düfte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_ErfurtChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8301758a2ddb9e254bfc8de12f05d22e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251123",
             "fullstartdate": "202511232300",
