@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-24 00:50:34",
-    "Total": 1307,
+    "LastUpdate": "2025-11-25 00:50:25",
+    "Total": 1308,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251124",
+            "fullstartdate": "202511241600",
+            "enddate": "20251125",
+            "url": "/th?id=OHR.TreviFountain_ZH-CN6892299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TreviFountain_ZH-CN6892299520",
+            "copyright": "罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%89%B9%E9%9B%B7%E7%BB%B4%E5%96%B7%E6%B3%89&form=hpcapt&mkt=zh-cn",
+            "title": "爱情、幸运与硬币",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d769c765ab3966aa237b5d7a9a45436d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251123",
             "fullstartdate": "202511231600",
