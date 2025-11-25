@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-24 00:50:56",
-    "Total": 1304,
+    "LastUpdate": "2025-11-25 00:50:46",
+    "Total": 1305,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251125",
+            "fullstartdate": "202511250000",
+            "enddate": "20251126",
+            "url": "/th?id=OHR.TreviFountain_EN-GB4495201299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TreviFountain_EN-GB4495201299",
+            "copyright": "The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Trevi+Fountain&form=hpcapt&filters=HpDate%3a%2220251125_0000%22",
+            "title": "Love, luck and loose change",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_TreviFountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5289d52d6ea4d0772f36e522df502edb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251124",
             "fullstartdate": "202511240000",
