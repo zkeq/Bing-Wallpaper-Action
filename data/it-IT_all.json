@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-24 00:51:08",
-    "Total": 1307,
+    "LastUpdate": "2025-11-25 00:50:58",
+    "Total": 1308,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251124",
+            "fullstartdate": "202511242300",
+            "enddate": "20251125",
+            "url": "/th?id=OHR.TreviFountain_IT-IT0711532577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TreviFountain_IT-IT0711532577",
+            "copyright": "Fontana di Trevi, Rione Trevi, Roma (© Nico De Pasquale Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Fontana+di+Trevi&form=hpcapt",
+            "title": "Acqua di Roma",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d46b134291ef783424373aa41d685bec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251123",
             "fullstartdate": "202511232300",
