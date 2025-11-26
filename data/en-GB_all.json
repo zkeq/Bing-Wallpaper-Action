@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-25 00:50:46",
-    "Total": 1305,
+    "LastUpdate": "2025-11-26 00:50:49",
+    "Total": 1306,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251126",
+            "fullstartdate": "202511260000",
+            "enddate": "20251127",
+            "url": "/th?id=OHR.OliveGrove_EN-GB4643116459_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OliveGrove_EN-GB4643116459",
+            "copyright": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Olive+Tree+Day&form=hpcapt&filters=HpDate%3a%2220251126_0000%22",
+            "title": "'Leaf' it to history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_OliveGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd003d7ff39a127ab0e7d199bed9314f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251125",
             "fullstartdate": "202511250000",
