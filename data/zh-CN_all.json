@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-25 00:50:25",
-    "Total": 1308,
+    "LastUpdate": "2025-11-26 00:50:29",
+    "Total": 1309,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251125",
+            "fullstartdate": "202511251600",
+            "enddate": "20251126",
+            "url": "/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OliveGrove_ZH-CN7054006944",
+            "copyright": "特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A9%84%E6%A6%84%E6%A0%91&form=hpcapt&mkt=zh-cn",
+            "title": "让树叶诉说历史",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca119390eef0a52ed300069f311f5292",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251124",
             "fullstartdate": "202511241600",
