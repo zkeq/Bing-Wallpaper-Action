@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-26 00:50:29",
-    "Total": 1309,
+    "LastUpdate": "2025-11-27 00:50:30",
+    "Total": 1310,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251126",
+            "fullstartdate": "202511261600",
+            "enddate": "20251127",
+            "url": "/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269",
+            "copyright": "伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E6%96%AF%E7%89%B9%E6%9C%AC%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn",
+            "title": "潮起潮落的坚守",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_PierOfEastbourne2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4a1b3c46b18473903e655ad756ec842",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251125",
             "fullstartdate": "202511251600",
