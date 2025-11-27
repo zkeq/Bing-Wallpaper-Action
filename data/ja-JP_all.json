@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-26 00:50:37",
-    "Total": 1309,
+    "LastUpdate": "2025-11-27 00:50:39",
+    "Total": 1310,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251126",
+            "fullstartdate": "202511261500",
+            "enddate": "20251127",
+            "url": "/th?id=OHR.LeshanBuddha_JA-JP7625382649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeshanBuddha_JA-JP7625382649",
+            "copyright": "楽山大仏, 中国 四川省 (© www.anotherdayattheoffice.org/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A5%BD%E5%B1%B1%E5%A4%A7%E4%BB%8F&form=hpcapt&filters=HpDate%3a%2220251126_1500%22",
+            "title": "崖に彫られた巨大な石仏",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_LeshanBuddha%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d032d245b4c1bb269d8e15dbcfdce97c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251125",
             "fullstartdate": "202511251500",
