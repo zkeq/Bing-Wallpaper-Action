@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-27 00:50:42",
-    "Total": 1310,
+    "LastUpdate": "2025-11-28 00:50:31",
+    "Total": 1311,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251127",
+            "fullstartdate": "202511272300",
+            "enddate": "20251128",
+            "url": "/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.InvernoItalia_DE-DE4758348051",
+            "copyright": "Val Brandet, Brescia, Lombardei, Italien (© ClickAlps/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Val+Brandet+Lombardei&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+            "title": "Flüstern in Weiß",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a0f3122b78b20eee6a3fe42096c0fa7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251126",
             "fullstartdate": "202511262300",
