@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-27 00:50:58",
-    "Total": 1310,
+    "LastUpdate": "2025-11-28 00:50:47",
+    "Total": 1311,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251127",
+            "fullstartdate": "202511272300",
+            "enddate": "20251128",
+            "url": "/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.InvernoItalia_FR-FR6593189563",
+            "copyright": "Val Brandet, Brescia, Lombardie, Italie (© ClickAlps/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Val+Brandet+Lombardie&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+            "title": "Un paysage de glace à l’italienne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7a7806723b72a58d27cf5789bee9671",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251126",
             "fullstartdate": "202511262300",
