@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-27 00:50:35",
-    "Total": 1310,
+    "LastUpdate": "2025-11-28 00:50:23",
+    "Total": 1311,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251127",
+            "fullstartdate": "202511270800",
+            "enddate": "20251128",
+            "url": "/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TurkeyDetail_EN-US7401521602",
+            "copyright": "Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=hpcapt&filters=HpDate%3a%2220251127_0800%22",
+            "title": "The echoes of Plymouth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_TurkeyDetail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ef51b9779df1d9d11138836244ccc81",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251126",
             "fullstartdate": "202511260800",
