@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-27 00:50:46",
-    "Total": 1309,
+    "LastUpdate": "2025-11-28 00:50:35",
+    "Total": 1310,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251127",
+            "fullstartdate": "202511270500",
+            "enddate": "20251128",
+            "url": "/th?id=OHR.PierOfEastbourne2025_EN-CA6343784791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PierOfEastbourne2025_EN-CA6343784791",
+            "copyright": "Eastbourne Pier, East Sussex, England (© Tolga_TEZCAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eastbourne+Pier&form=hpcapt&filters=HpDate%3a%2220251127_0500%22",
+            "title": "Standing the test of tide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_PierOfEastbourne2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94de92e1e219d4634ed9aed8ca15e2ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251126",
             "fullstartdate": "202511260500",
