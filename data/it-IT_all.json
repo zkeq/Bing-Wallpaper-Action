@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-28 00:50:51",
-    "Total": 1311,
+    "LastUpdate": "2025-11-29 00:50:52",
+    "Total": 1312,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251128",
+            "fullstartdate": "202511282300",
+            "enddate": "20251129",
+            "url": "/th?id=OHR.DeerVeluwe_IT-IT1796855659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeerVeluwe_IT-IT1796855659",
+            "copyright": "Cervo rosso, Parco Nazionale De Hoge Veluwe, Paesi Bassi (© CreativeNature_nl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+De+Hoge+Veluwe&form=hpcapt",
+            "title": "Geometrie del selvatico",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c980b5d1ca6d22eed5aa0a4d657c19fc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251127",
             "fullstartdate": "202511272300",
