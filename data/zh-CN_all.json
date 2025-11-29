@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-28 00:50:18",
-    "Total": 1311,
+    "LastUpdate": "2025-11-29 00:50:21",
+    "Total": 1312,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251128",
+            "fullstartdate": "202511281600",
+            "enddate": "20251129",
+            "url": "/th?id=OHR.DeerVeluwe_ZH-CN1438758687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeerVeluwe_ZH-CN1438758687",
+            "copyright": "荷兰梵高国家森林公园的马鹿雄鹿, 荷兰 (© CreativeNature_nl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A2%B5%E9%AB%98%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "哎呀，好冷啊！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "514b9dfd12b6b1f62d82389157b2f82f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251127",
             "fullstartdate": "202511271600",
