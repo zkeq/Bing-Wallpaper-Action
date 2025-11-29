@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-28 00:50:35",
-    "Total": 1310,
+    "LastUpdate": "2025-11-29 00:50:37",
+    "Total": 1311,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251128",
+            "fullstartdate": "202511280500",
+            "enddate": "20251129",
+            "url": "/th?id=OHR.InvernoItalia_EN-CA2895961852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.InvernoItalia_EN-CA2895961852",
+            "copyright": "Val Brandet, Brescia, Lombardy, Italy (© ClickAlps/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Lombardy+Italy&form=hpcapt&filters=HpDate%3a%2220251128_0500%22",
+            "title": "Echoes in white",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_InvernoItalia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b18b23342f61aa0a0afeee41cc908856",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251127",
             "fullstartdate": "202511270500",
