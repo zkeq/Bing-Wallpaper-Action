@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-29 00:50:29",
-    "Total": 1312,
+    "LastUpdate": "2025-11-30 00:50:51",
+    "Total": 1313,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251129",
+            "fullstartdate": "202511291500",
+            "enddate": "20251130",
+            "url": "/th?id=OHR.LeipzigMarket_JA-JP4635398784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeipzigMarket_JA-JP4635398784",
+            "copyright": "ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%97%E3%83%84%E3%82%A3%E3%83%92%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88&form=hpcapt&filters=HpDate%3a%2220251129_1500%22",
+            "title": "賑やかなクリスマスマーケット",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_LeipzigMarket%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fe67dced8d85bc9b1e0d5320bdc098d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251128",
             "fullstartdate": "202511281500",
