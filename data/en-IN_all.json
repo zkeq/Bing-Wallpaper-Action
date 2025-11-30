@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-29 00:50:45",
-    "Total": 1312,
+    "LastUpdate": "2025-11-30 00:51:07",
+    "Total": 1313,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251129",
+            "fullstartdate": "202511291830",
+            "enddate": "20251130",
+            "url": "/th?id=OHR.LeipzigMarket_EN-IN0234720576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeipzigMarket_EN-IN0234720576",
+            "copyright": "Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_1830%22",
+            "title": "Twinkle all the way",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_LeipzigMarket%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "39fdf4a79485fe959679509a473eea5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251128",
             "fullstartdate": "202511281830",
