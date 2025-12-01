@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-30 00:51:11",
-    "Total": 1313,
+    "LastUpdate": "2025-12-01 00:51:54",
+    "Total": 1314,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251130",
+            "fullstartdate": "202511302300",
+            "enddate": "20251201",
+            "url": "/th?id=OHR.AntarcticArch_FR-FR7424154136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntarcticArch_FR-FR7424154136",
+            "copyright": "Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+l%E2%80%99Antarctique&form=hpcapt&filters=HpDate%3a%2220251130_2300%22",
+            "title": "L’arche du silence",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7eaa3608daaa5230ab77d3a7c4449cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251129",
             "fullstartdate": "202511292300",
