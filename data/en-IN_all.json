@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-30 00:51:07",
-    "Total": 1313,
+    "LastUpdate": "2025-12-01 00:51:50",
+    "Total": 1314,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251130",
+            "fullstartdate": "202511301830",
+            "enddate": "20251201",
+            "url": "/th?id=OHR.AntarcticArch_EN-IN0373340419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntarcticArch_EN-IN0373340419",
+            "copyright": "Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220251130_1830%22",
+            "title": "Where ice holds its breath",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0d85413113c5061adf4fd2e3b8e3610",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251129",
             "fullstartdate": "202511291830",
