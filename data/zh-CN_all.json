@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-11-30 00:50:42",
-    "Total": 1313,
+    "LastUpdate": "2025-12-01 00:51:25",
+    "Total": 1314,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251130",
+            "fullstartdate": "202511301600",
+            "enddate": "20251201",
+            "url": "/th?id=OHR.AntarcticArch_ZH-CN1622701432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AntarcticArch_ZH-CN1622701432",
+            "copyright": "冰山上天然形成的拱门, 南极洲 (© Gabrielle/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E6%9E%81%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "冰雪凝息之处",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e99d16465c531f6b67cbbcba0dea11a2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251129",
             "fullstartdate": "202511291600",
