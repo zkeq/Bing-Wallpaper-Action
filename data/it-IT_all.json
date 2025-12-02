@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-01 00:51:59",
-    "Total": 1314,
+    "LastUpdate": "2025-12-02 00:51:14",
+    "Total": 1315,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251201",
+            "fullstartdate": "202512012300",
+            "enddate": "20251202",
+            "url": "/th?id=OHR.WillowLake_IT-IT2902290451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowLake_IT-IT2902290451",
+            "copyright": "Lago Willow e Monte Blackburn, Parco Nazionale e Riserva di Wrangell-St. Elias, Alaska, USA (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+parco+nazionale+%C3%A8+riserva+di+Wrangell-St.+Elia&form=hpcapt",
+            "title": "Pace dei sensi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f4db297c4503f7f0014662b3800f91c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251130",
             "fullstartdate": "202511302300",
