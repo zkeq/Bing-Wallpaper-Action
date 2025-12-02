@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-01 00:51:25",
-    "Total": 1314,
+    "LastUpdate": "2025-12-02 00:50:39",
+    "Total": 1315,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251201",
+            "fullstartdate": "202512011600",
+            "enddate": "20251202",
+            "url": "/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowLake_ZH-CN9798614021",
+            "copyright": "柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E4%BC%8A%E5%88%A9%E4%BA%9A%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "一景胜千言",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2b083a735ebe7a3c1c951adefb1a359",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251130",
             "fullstartdate": "202511301600",
