@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-01 00:51:50",
-    "Total": 1314,
+    "LastUpdate": "2025-12-02 00:51:06",
+    "Total": 1315,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251201",
+            "fullstartdate": "202512011830",
+            "enddate": "20251202",
+            "url": "/th?id=OHR.WillowLake_EN-IN0569791558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowLake_EN-IN0569791558",
+            "copyright": "Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska, United States (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alaska+National+Interest+Lands+Conservation+Act&form=hpcapt&filters=HpDate%3a%2220251201_1830%22",
+            "title": "A view that speaks volumes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "774567c907ae801cce9f788091b692fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251130",
             "fullstartdate": "202511301830",
