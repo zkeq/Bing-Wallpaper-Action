@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-01 00:51:54",
-    "Total": 1314,
+    "LastUpdate": "2025-12-02 00:51:10",
+    "Total": 1315,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251201",
+            "fullstartdate": "202512012300",
+            "enddate": "20251202",
+            "url": "/th?id=OHR.WillowLake_FR-FR7610126878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WillowLake_FR-FR7610126878",
+            "copyright": "Willow Lake et le mont Blackburn, Parc national et réserve de Wrangell–Saint-Élie, Alaska, États-Unis (© Patrick J. Endres/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+et+r%C3%A9serve+de+Wrangell%E2%80%93Saint-%C3%89lie&form=hpcapt&filters=HpDate%3a%2220251201_2300%22",
+            "title": "Un royaume de glace et de feu",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f1eca2faa2a3a2ca12ae64ddb22bfea4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251130",
             "fullstartdate": "202511302300",
