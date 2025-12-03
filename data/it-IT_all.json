@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-02 00:51:14",
-    "Total": 1315,
+    "LastUpdate": "2025-12-03 00:51:03",
+    "Total": 1316,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251202",
+            "fullstartdate": "202512022300",
+            "enddate": "20251203",
+            "url": "/th?id=OHR.ComoChristmas_IT-IT9407440928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ComoChristmas_IT-IT9407440928",
+            "copyright": "Domaso, Lago di Como, Lombardia (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Como+forma+Y&form=hpcapt",
+            "title": "Volge a Nord?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_ComoChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47dc3f5b0e6d18df49c354cffb9b67cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251201",
             "fullstartdate": "202512012300",
