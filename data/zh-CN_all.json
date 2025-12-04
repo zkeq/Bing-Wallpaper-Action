@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-03 00:50:30",
-    "Total": 1316,
+    "LastUpdate": "2025-12-04 00:50:32",
+    "Total": 1317,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251203",
+            "fullstartdate": "202512031600",
+            "enddate": "20251204",
+            "url": "/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CheetahMound_ZH-CN1970221812",
+            "copyright": "马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8C%8E%E8%B1%B9&form=hpcapt&mkt=zh-cn",
+            "title": "为生存而疾驰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_CheetahMound%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "27df66ab3cdf254857cf9c7861c05044",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251202",
             "fullstartdate": "202512021600",
