@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-03 00:50:55",
-    "Total": 1316,
+    "LastUpdate": "2025-12-04 00:50:56",
+    "Total": 1317,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251203",
+            "fullstartdate": "202512031830",
+            "enddate": "20251204",
+            "url": "/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndianNavyDay2025_EN-IN1202327501",
+            "copyright": "Indian Navy sailors rehearse for Navy Day at Mumbai's Gateway of India, 1 December 2016 (© Anshuman Poyrekar/Hindustan Times/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Indian+Navy+Day&form=hpcapt&filters=HpDate%3a%2220251203_1830%22",
+            "title": "The night the tide shifted",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_IndianNavyDay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a51662967cd4fac0330011a56fefa3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251202",
             "fullstartdate": "202512021830",
