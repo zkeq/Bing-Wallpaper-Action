@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-04 00:50:32",
-    "Total": 1317,
+    "LastUpdate": "2025-12-05 00:50:35",
+    "Total": 1318,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251204",
+            "fullstartdate": "202512041600",
+            "enddate": "20251205",
+            "url": "/th?id=OHR.CopanRuins_ZH-CN2157795324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopanRuins_ZH-CN2157795324",
+            "copyright": "科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E6%BD%98%E7%8E%9B%E9%9B%85%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn",
+            "title": "绘制星图的城市",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "293804962e4ad22b8ef088eb23c8e6c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251203",
             "fullstartdate": "202512031600",
