@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-04 00:51:00",
-    "Total": 1317,
+    "LastUpdate": "2025-12-05 00:51:04",
+    "Total": 1318,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251204",
+            "fullstartdate": "202512042300",
+            "enddate": "20251205",
+            "url": "/th?id=OHR.CopanRuins_FR-FR8056709701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopanRuins_FR-FR8056709701",
+            "copyright": "Site maya de Copán, Honduras (© diegograndi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Site+maya+de+Cop%C3%A1n&form=hpcapt&filters=HpDate%3a%2220251204_2300%22",
+            "title": "La cité où les pierres parlent aux étoiles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9cdbf155b5cae9f49721fa2b74b0adb9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251203",
             "fullstartdate": "202512032300",
