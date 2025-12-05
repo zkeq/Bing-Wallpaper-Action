@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-04 00:51:04",
-    "Total": 1317,
+    "LastUpdate": "2025-12-05 00:51:08",
+    "Total": 1318,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251204",
+            "fullstartdate": "202512042300",
+            "enddate": "20251205",
+            "url": "/th?id=OHR.CopanRuins_IT-IT0133653708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CopanRuins_IT-IT0133653708",
+            "copyright": "Sito Maya a Copán, Honduras (© diegograndi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cop%C3%A0n&form=hpcapt",
+            "title": "Rituali e Santuari",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ce04100ef5ab8d53c6ea24648b4f5e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251203",
             "fullstartdate": "202512032300",
