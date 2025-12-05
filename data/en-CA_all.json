@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-04 00:50:48",
-    "Total": 1316,
+    "LastUpdate": "2025-12-05 00:50:52",
+    "Total": 1317,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251204",
+            "fullstartdate": "202512040500",
+            "enddate": "20251205",
+            "url": "/th?id=OHR.CheetahMound_EN-CA6737537090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CheetahMound_EN-CA6737537090",
+            "copyright": "Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Cheetah+Day&form=hpcapt&filters=HpDate%3a%2220251204_0500%22",
+            "title": "Sprint for survival",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CheetahMound%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20d4c3ed56de3073893646989908786a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251203",
             "fullstartdate": "202512030500",
