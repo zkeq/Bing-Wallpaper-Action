@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-05 00:50:56",
-    "Total": 1315,
+    "LastUpdate": "2025-12-06 00:50:41",
+    "Total": 1316,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251206",
+            "fullstartdate": "202512060000",
+            "enddate": "20251207",
+            "url": "/th?id=OHR.EvergladesSunrise_EN-GB6383912502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EvergladesSunrise_EN-GB6383912502",
+            "copyright": "Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate%3a%2220251206_0000%22",
+            "title": "Dawn breaks on the wild side",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_EvergladesSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1f633ebb28b558a6d47b3a5a3bccb06e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251205",
             "fullstartdate": "202512050000",
