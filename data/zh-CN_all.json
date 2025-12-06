@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-05 00:50:35",
-    "Total": 1318,
+    "LastUpdate": "2025-12-06 00:50:21",
+    "Total": 1319,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251205",
+            "fullstartdate": "202512051600",
+            "enddate": "20251206",
+            "url": "/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EvergladesSunrise_ZH-CN2298606730",
+            "copyright": "大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "佛罗里达州的生命湿地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_EvergladesSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b0c2a543fe8358d337466c5f07e9df9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251204",
             "fullstartdate": "202512041600",
