@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-06 00:50:33",
-    "Total": 1319,
+    "LastUpdate": "2025-12-07 00:50:59",
+    "Total": 1320,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251206",
+            "fullstartdate": "202512062300",
+            "enddate": "20251207",
+            "url": "/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MistyPineForest_DE-DE5663948524",
+            "copyright": "Ein Kiefernwald im Elsass, Frankreich (© alekseystemmer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Elsass&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+            "title": "Mystik zwischen Kiefern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "872bd0babbd6a081fe3e25b0776fd765",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251205",
             "fullstartdate": "202512052300",
