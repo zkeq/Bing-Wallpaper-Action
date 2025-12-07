@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-06 00:50:25",
-    "Total": 1319,
+    "LastUpdate": "2025-12-07 00:50:51",
+    "Total": 1320,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251206",
+            "fullstartdate": "202512060800",
+            "enddate": "20251207",
+            "url": "/th?id=OHR.EvergladesSunrise_EN-US5606230133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EvergladesSunrise_EN-US5606230133",
+            "copyright": "Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate%3a%2220251206_0800%22",
+            "title": "Florida's living wetlands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_EvergladesSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ba6d80be706ad1599885be858cc8d2e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251205",
             "fullstartdate": "202512050800",
