@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-07 00:50:47",
-    "Total": 1320,
+    "LastUpdate": "2025-12-08 00:50:37",
+    "Total": 1321,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251207",
+            "fullstartdate": "202512071600",
+            "enddate": "20251208",
+            "url": "/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ComoChristmas_ZH-CN2565627033",
+            "copyright": "多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E8%8E%AB%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "一切安详，一切明亮",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_ComoChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71e302fb9b1a70e7ce34caccb2a98be2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251206",
             "fullstartdate": "202512061600",
