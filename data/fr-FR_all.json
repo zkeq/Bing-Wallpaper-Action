@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-07 00:51:16",
-    "Total": 1320,
+    "LastUpdate": "2025-12-08 00:51:07",
+    "Total": 1321,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251207",
+            "fullstartdate": "202512072300",
+            "enddate": "20251208",
+            "url": "/th?id=OHR.ComoChristmas_FR-FR9116499676_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ComoChristmas_FR-FR9116499676",
+            "copyright": "Illuminations de Noël sur les bâtiments de Domaso, lac de Côme, Italie (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lac+de+C%C3%B4me&form=hpcapt&filters=HpDate%3a%2220251207_2300%22",
+            "title": "Reflets de fête sur le lac de Côme",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_ComoChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38708d280819b1db546bbc4c34ce4d45",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251206",
             "fullstartdate": "202512062300",
