@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-07 00:51:04",
-    "Total": 1319,
+    "LastUpdate": "2025-12-08 00:50:54",
+    "Total": 1320,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251207",
+            "fullstartdate": "202512070500",
+            "enddate": "20251208",
+            "url": "/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MistyPineForest_EN-CA3344515413",
+            "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alsace&form=hpcapt&filters=HpDate%3a%2220251207_0500%22",
+            "title": "Mist-ery in the pines",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "741fc01750106ff8fb85aace0a17e352",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251206",
             "fullstartdate": "202512060500",
