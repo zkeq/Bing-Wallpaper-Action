@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-08 00:51:07",
-    "Total": 1321,
+    "LastUpdate": "2025-12-09 00:51:02",
+    "Total": 1322,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251208",
+            "fullstartdate": "202512082300",
+            "enddate": "20251209",
+            "url": "/th?id=OHR.LlamaDay_FR-FR9248267589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LlamaDay_FR-FR9248267589",
+            "copyright": "Guanaco, Punta Norte, Péninsule Valdés, Argentine (© Sylvain Cordier/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=guanaco&form=hpcapt&filters=HpDate%3a%2220251208_2300%22",
+            "title": "Guanacool attitude !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_LlamaDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fc5cd47a5597b4c78bc922614126de6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251207",
             "fullstartdate": "202512072300",
