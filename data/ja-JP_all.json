@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-08 00:50:46",
-    "Total": 1321,
+    "LastUpdate": "2025-12-09 00:50:41",
+    "Total": 1322,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251208",
+            "fullstartdate": "202512081500",
+            "enddate": "20251209",
+            "url": "/th?id=OHR.LlamaDay_JA-JP7586440652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LlamaDay_JA-JP7586440652",
+            "copyright": "バルデス半島のグアナコ, アルゼンチン (© Sylvain Cordier/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%82%A2%E3%83%8A%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220251208_1500%22",
+            "title": "今日はリャマの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_LlamaDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a8d21bc8a26506864445533d0acb808",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251207",
             "fullstartdate": "202512071500",
