@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-08 00:50:54",
-    "Total": 1320,
+    "LastUpdate": "2025-12-09 00:50:50",
+    "Total": 1321,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251208",
+            "fullstartdate": "202512080500",
+            "enddate": "20251209",
+            "url": "/th?id=OHR.ComoChristmas_EN-CA3615556860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ComoChristmas_EN-CA3615556860",
+            "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Como&form=hpcapt&filters=HpDate%3a%2220251208_0500%22",
+            "title": "All is calm, all is bright",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_ComoChristmas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f5e01036656e53e68636a4cc24077c3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251207",
             "fullstartdate": "202512070500",
