@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-09 00:50:41",
-    "Total": 1322,
+    "LastUpdate": "2025-12-10 00:50:39",
+    "Total": 1323,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251209",
+            "fullstartdate": "202512091500",
+            "enddate": "20251210",
+            "url": "/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CordobaCathedral_JA-JP3405653486",
+            "copyright": "メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A1%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%BF&form=hpcapt&filters=HpDate%3a%2220251209_1500%22",
+            "title": "イスラムとキリスト教が交差する奇跡の空間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89047e64d90c7e081046e9f3695e5446",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251208",
             "fullstartdate": "202512081500",
