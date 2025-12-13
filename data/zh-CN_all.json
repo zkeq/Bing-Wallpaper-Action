@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-12 00:50:42",
-    "Total": 1325,
+    "LastUpdate": "2025-12-13 00:50:30",
+    "Total": 1326,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251212",
+            "fullstartdate": "202512121600",
+            "enddate": "20251213",
+            "url": "/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteWinter_ZH-CN3824387818",
+            "copyright": "默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%98%E5%A1%9E%E5%BE%B7%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+            "title": "冰封的倒影",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "11e4a7b0aa66a6bb034ad9faff434f24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251211",
             "fullstartdate": "202512111600",
