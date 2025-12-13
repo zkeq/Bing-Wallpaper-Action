@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-12 00:50:59",
-    "Total": 1324,
+    "LastUpdate": "2025-12-13 00:50:47",
+    "Total": 1325,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251212",
+            "fullstartdate": "202512120500",
+            "enddate": "20251213",
+            "url": "/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SuspensionLights_EN-CA1736218976",
+            "copyright": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia (© Brian Caissie/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Capilano+Suspension+Bridge+Park&form=hpcapt&filters=HpDate%3a%2220251212_0500%22",
+            "title": "Bridging the gap",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_SuspensionLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9dbfabe7fd47023b7babc87d3662570",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251211",
             "fullstartdate": "202512110500",
