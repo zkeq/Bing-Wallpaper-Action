@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-13 00:50:59",
-    "Total": 1326,
+    "LastUpdate": "2025-12-14 00:51:17",
+    "Total": 1327,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251213",
+            "fullstartdate": "202512132300",
+            "enddate": "20251214",
+            "url": "/th?id=OHR.TuftedTitmouse_FR-FR1797167944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TuftedTitmouse_FR-FR1797167944",
+            "copyright": "Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=M%C3%A9sange+bicolore&form=hpcapt&filters=HpDate%3a%2220251213_2300%22",
+            "title": "Sous la neige, le chant du vivant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_TuftedTitmouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb11a87d800419374ae2a768444cd31e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251212",
             "fullstartdate": "202512122300",
