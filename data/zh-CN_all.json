@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-13 00:50:30",
-    "Total": 1326,
+    "LastUpdate": "2025-12-14 00:50:48",
+    "Total": 1327,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251213",
+            "fullstartdate": "202512131600",
+            "enddate": "20251214",
+            "url": "/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TuftedTitmouse_ZH-CN4154825372",
+            "copyright": "簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B0%87%E5%B1%B1%E9%9B%80&form=hpcapt&mkt=zh-cn",
+            "title": "假日鸟类大比拼",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_TuftedTitmouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fa63cd5105179bc844b64b9bb015501",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251212",
             "fullstartdate": "202512121600",
