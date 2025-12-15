@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-14 00:50:57",
-    "Total": 1327,
+    "LastUpdate": "2025-12-15 00:50:58",
+    "Total": 1328,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251214",
+            "fullstartdate": "202512141500",
+            "enddate": "20251215",
+            "url": "/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmsterdamLights_JA-JP0747282471",
+            "copyright": "スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251214_1500%22",
+            "title": "ライトアップされたアムステルダムの鏡の運河",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a85fd677a6364d3e54efc1e345d9702",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251213",
             "fullstartdate": "202512131500",
