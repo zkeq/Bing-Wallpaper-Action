@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-15 00:51:06",
-    "Total": 1327,
+    "LastUpdate": "2025-12-16 00:51:00",
+    "Total": 1328,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251215",
+            "fullstartdate": "202512150500",
+            "enddate": "20251216",
+            "url": "/th?id=OHR.AmsterdamLights_EN-CA0631336225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmsterdamLights_EN-CA0631336225",
+            "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251215_0500%22",
+            "title": "Still waters, bright lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_AmsterdamLights%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35d36cac9ec3d5db2cdfda5254da69dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251214",
             "fullstartdate": "202512140500",
