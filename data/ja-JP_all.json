@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-15 00:50:58",
-    "Total": 1328,
+    "LastUpdate": "2025-12-16 00:50:52",
+    "Total": 1329,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251215",
+            "fullstartdate": "202512151500",
+            "enddate": "20251216",
+            "url": "/th?id=OHR.ChristmasGnomes_JA-JP0954643924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChristmasGnomes_JA-JP0954643924",
+            "copyright": "手作りのトムテ, クリスマス・マーケット (© Veronika Seppanen/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%88%E3%83%A0%E3%83%86&form=hpcapt&filters=HpDate%3a%2220251215_1500%22",
+            "title": "クリスマスマーケットに並べられた手作りトムテ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_ChristmasGnomes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3c8203f9e46e768e7901f90a3a58363",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251214",
             "fullstartdate": "202512141500",
