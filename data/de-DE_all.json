@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-16 00:50:56",
-    "Total": 1329,
+    "LastUpdate": "2025-12-17 00:51:19",
+    "Total": 1330,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251216",
+            "fullstartdate": "202512162300",
+            "enddate": "20251217",
+            "url": "/th?id=OHR.FrostySquirrel_DE-DE9962417509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrostySquirrel_DE-DE9962417509",
+            "copyright": "Eurasisches Eichhörnchen in Northumberland, England (© Michael_Conrad/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%C3%B6rnchen&form=hpcapt&filters=HpDate%3a%2220251216_2300%22",
+            "title": "Kleiner Wächter des Waldes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14fed6b5c84d69587608efacb510112b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251215",
             "fullstartdate": "202512152300",
