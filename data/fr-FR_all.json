@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-16 00:51:12",
-    "Total": 1329,
+    "LastUpdate": "2025-12-17 00:51:35",
+    "Total": 1330,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251216",
+            "fullstartdate": "202512162300",
+            "enddate": "20251217",
+            "url": "/th?id=OHR.FrostySquirrel_FR-FR0291090241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrostySquirrel_FR-FR0291090241",
+            "copyright": "Écureuil roux d’Eurasie dans le Northumberland, Angleterre (© Michael_Conrad/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%89cureuil+roux&form=hpcapt&filters=HpDate%3a%2220251216_2300%22",
+            "title": "Pause gourmande sous la neige",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a06ab628bb43fe8a0570971e1d7ee68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251215",
             "fullstartdate": "202512152300",
