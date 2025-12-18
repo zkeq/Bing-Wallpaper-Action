@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-17 00:51:27",
-    "Total": 1327,
+    "LastUpdate": "2025-12-18 00:50:47",
+    "Total": 1328,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251218",
+            "fullstartdate": "202512180000",
+            "enddate": "20251219",
+            "url": "/th?id=OHR.CathedralValley_EN-GB1105265816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CathedralValley_EN-GB1105265816",
+            "copyright": "Temple of the Sun, Capitol Reef National Park, Utah, USA (© Austin Cronnelly/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=hpcapt&filters=HpDate%3a%2220251218_0000%22",
+            "title": "Layers of time in Utah",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_CathedralValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccb5c8e0e193e71fcd28d91f9942ea10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251217",
             "fullstartdate": "202512170000",
