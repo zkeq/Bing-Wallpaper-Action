@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-18 00:50:56",
-    "Total": 1331,
+    "LastUpdate": "2025-12-19 00:51:00",
+    "Total": 1332,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251218",
+            "fullstartdate": "202512182300",
+            "enddate": "20251219",
+            "url": "/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YosemiteWinter_FR-FR0908929457",
+            "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rivi%C3%A8re+Merced+Californie+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220251218_2300%22",
+            "title": "L’hiver en majesté",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_YosemiteWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d7ee410ff0d01c23f32d0cb584d849e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251217",
             "fullstartdate": "202512172300",
