@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-18 00:51:00",
-    "Total": 1331,
+    "LastUpdate": "2025-12-19 00:51:04",
+    "Total": 1332,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251218",
+            "fullstartdate": "202512182300",
+            "enddate": "20251219",
+            "url": "/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BormioItaly_IT-IT9940500837",
+            "copyright": "Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bormio&form=hpcapt",
+            "title": "Il Comune nella Roccia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "561c4a9c9cc91b0439287ea10eafa649",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251217",
             "fullstartdate": "202512172300",
