@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-18 00:50:47",
-    "Total": 1328,
+    "LastUpdate": "2025-12-19 00:50:52",
+    "Total": 1329,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251219",
+            "fullstartdate": "202512190000",
+            "enddate": "20251220",
+            "url": "/th?id=OHR.BormioItaly_EN-GB1277241027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BormioItaly_EN-GB1277241027",
+            "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bormio+Italy&form=hpcapt&filters=HpDate%3a%2220251219_0000%22",
+            "title": "High mountains, deep history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_BormioItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f88f06378cc042ed2b79a143941cb51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251218",
             "fullstartdate": "202512180000",
