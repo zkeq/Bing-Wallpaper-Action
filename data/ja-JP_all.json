@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-18 00:50:35",
-    "Total": 1331,
+    "LastUpdate": "2025-12-19 00:50:39",
+    "Total": 1332,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251218",
+            "fullstartdate": "202512181500",
+            "enddate": "20251219",
+            "url": "/th?id=OHR.BormioItaly_JA-JP1791938778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BormioItaly_JA-JP1791938778",
+            "copyright": "ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E3%83%9C%E3%83%AB%E3%83%9F%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220251218_1500%22",
+            "title": "アルプスに抱かれた温泉の町",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e665a6fdb57ac2649e3b9a7bd7be6563",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251217",
             "fullstartdate": "202512171500",
