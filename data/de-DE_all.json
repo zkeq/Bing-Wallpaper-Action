@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-19 00:50:44",
-    "Total": 1332,
+    "LastUpdate": "2025-12-20 00:50:44",
+    "Total": 1333,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251219",
+            "fullstartdate": "202512192300",
+            "enddate": "20251220",
+            "url": "/th?id=OHR.StarLanterns_DE-DE0755319910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StarLanterns_DE-DE0755319910",
+            "copyright": "Weihnachtsstern-Laternen, Deutschland (© artas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Herrnhuter+Stern&form=hpcapt&filters=HpDate%3a%2220251219_2300%22",
+            "title": "Wo Tradition erstrahlt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec8c807da62e21b9f49ae7db6fd81ee7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251218",
             "fullstartdate": "202512182300",
