@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-19 00:51:04",
-    "Total": 1332,
+    "LastUpdate": "2025-12-20 00:51:06",
+    "Total": 1333,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251219",
+            "fullstartdate": "202512192300",
+            "enddate": "20251220",
+            "url": "/th?id=OHR.StarLanterns_IT-IT0134710984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StarLanterns_IT-IT0134710984",
+            "copyright": "Lanterne natalizie a forma di stella, Germania (© artas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lo+Herrnhuter+Stern&form=hpcapt",
+            "title": "Stelle del firmamento?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6f7720dc9b8c7534552a3ed642e4ea3b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251218",
             "fullstartdate": "202512182300",
