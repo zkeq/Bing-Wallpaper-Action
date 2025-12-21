@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-20 00:51:06",
-    "Total": 1333,
+    "LastUpdate": "2025-12-21 00:51:23",
+    "Total": 1334,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251220",
+            "fullstartdate": "202512202300",
+            "enddate": "20251221",
+            "url": "/th?id=OHR.SwedenSolstice_IT-IT0210098439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwedenSolstice_IT-IT0210098439",
+            "copyright": "Luce dell'alba tra gli alberi gelati, Svezia (© Schon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Solsitizio+d%E2%80%99+inverno&form=hpcapt",
+            "title": "Nasce un nuovo Sole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9bcea2d277e0f0464f56fd147686cefa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251219",
             "fullstartdate": "202512192300",
