@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-20 00:50:57",
-    "Total": 1333,
+    "LastUpdate": "2025-12-21 00:51:15",
+    "Total": 1334,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251220",
+            "fullstartdate": "202512201830",
+            "enddate": "20251221",
+            "url": "/th?id=OHR.SwedenSolstice_EN-IN7550918752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwedenSolstice_EN-IN7550918752",
+            "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Winter+solstice&form=hpcapt&filters=HpDate%3a%2220251220_1830%22",
+            "title": "Birth of the new sun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c09f7ff7f240a669c6cc296570c1dd39",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251219",
             "fullstartdate": "202512191830",
