@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-21 00:50:50",
-    "Total": 1334,
+    "LastUpdate": "2025-12-22 00:50:50",
+    "Total": 1335,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251221",
+            "fullstartdate": "202512211600",
+            "enddate": "20251222",
+            "url": "/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221",
+            "copyright": "法兰克福老桥，德国 (© diegograndi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E8%80%81%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "历史与现代的交融",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_FrankfurtAlteBruecke%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec581ede356c0c48e47ddf9b989b68dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251220",
             "fullstartdate": "202512201600",
