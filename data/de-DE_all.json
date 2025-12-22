@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-21 00:51:03",
-    "Total": 1334,
+    "LastUpdate": "2025-12-22 00:51:04",
+    "Total": 1335,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251221",
+            "fullstartdate": "202512212300",
+            "enddate": "20251222",
+            "url": "/th?id=OHR.NutcrackerAnkara_DE-DE1822801355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NutcrackerAnkara_DE-DE1822801355",
+            "copyright": "„Der Nussknacker“, aufgeführt vom Türkischen Staatsballett und der Türkischen Staatsoper in Ankara, Türkei (© Anadolu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Der+Nussknacker&form=hpcapt&filters=HpDate%3a%2220251221_2300%22",
+            "title": "Hoffmanns Traum – heute auf den großen Bühnen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_NutcrackerAnkara%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b529cf2c69298f3406d4a82761ce7e90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251220",
             "fullstartdate": "202512202300",
