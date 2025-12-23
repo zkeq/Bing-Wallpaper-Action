@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-22 00:51:00",
-    "Total": 1335,
+    "LastUpdate": "2025-12-23 00:50:49",
+    "Total": 1336,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251222",
+            "fullstartdate": "202512221500",
+            "enddate": "20251223",
+            "url": "/th?id=OHR.TokyoTower2025_JA-JP2794529209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TokyoTower2025_JA-JP2794529209",
+            "copyright": "ライトアップされた夜の東京タワー, 東京 (© Najjsiri Nimyizhune/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251222_1500%22",
+            "title": "今日は東京タワー完工の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251222_TokyoTower2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14fd6e2b7f86407746dfb1dd7d2230e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251221",
             "fullstartdate": "202512211500",
