@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-23 00:50:39",
-    "Total": 1336,
+    "LastUpdate": "2025-12-24 00:50:36",
+    "Total": 1337,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251223",
+            "fullstartdate": "202512231600",
+            "enddate": "20251224",
+            "url": "/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElmauChapel_ZH-CN6919330333",
+            "copyright": "巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国 (© mauritius images GmbH/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E5%A4%9C&form=hpcapt&mkt=zh-cn",
+            "title": "流动的传统",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "51128e8276f6933cfb94aa611007dc70",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251222",
             "fullstartdate": "202512221600",
