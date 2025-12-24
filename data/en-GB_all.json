@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-23 00:51:01",
-    "Total": 1333,
+    "LastUpdate": "2025-12-24 00:50:57",
+    "Total": 1334,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251224",
+            "fullstartdate": "202512240000",
+            "enddate": "20251225",
+            "url": "/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElmauChapel_EN-GB2006634958",
+            "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Christmas+Eve&form=hpcapt&filters=HpDate%3a%2220251224_0000%22",
+            "title": "Traditions that travel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_ElmauChapel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3840750a44eb5847e1fcaf4c3c641960",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251223",
             "fullstartdate": "202512230000",
