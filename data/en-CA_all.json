@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-23 00:50:57",
-    "Total": 1335,
+    "LastUpdate": "2025-12-24 00:50:52",
+    "Total": 1336,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251223",
+            "fullstartdate": "202512230500",
+            "enddate": "20251224",
+            "url": "/th?id=OHR.ReindeerFinland_EN-CA1872537703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReindeerFinland_EN-CA1872537703",
+            "copyright": "Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Reindeer&form=hpcapt&filters=HpDate%3a%2220251223_0500%22",
+            "title": "Where holiday magic runs on hooves",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ReindeerFinland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "676ffec71453e526a8b1765405cb9d10",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251222",
             "fullstartdate": "202512220500",
