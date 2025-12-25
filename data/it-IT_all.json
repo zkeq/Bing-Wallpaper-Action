@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-24 00:51:08",
-    "Total": 1337,
+    "LastUpdate": "2025-12-25 00:51:13",
+    "Total": 1338,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251224",
+            "fullstartdate": "202512242300",
+            "enddate": "20251225",
+            "url": "/th?id=OHR.MilanoNatale_IT-IT0776124040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanoNatale_IT-IT0776124040",
+            "copyright": "Albero di Natale, Piazza del Duomo, Milano, Lombardia (© Xantana/iStock/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Natale&form=hpcapt",
+            "title": "Magia in Piazza",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_MilanoNatale%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5a0219243536ea718e3f05bc0cace27",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251223",
             "fullstartdate": "202512232300",
