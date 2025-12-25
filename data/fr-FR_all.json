@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-24 00:51:05",
-    "Total": 1337,
+    "LastUpdate": "2025-12-25 00:51:09",
+    "Total": 1338,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251224",
+            "fullstartdate": "202512242300",
+            "enddate": "20251225",
+            "url": "/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaGlobe_FR-FR4387473652",
+            "copyright": "Boules à neige sur un marché de Noël à Heidelberg, Allemagne (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=jour+de+No%C3%ABl&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+            "title": "L’esprit de Noël, en miniature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4032ba1e40048ca90132b93e2f146268",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251223",
             "fullstartdate": "202512232300",
