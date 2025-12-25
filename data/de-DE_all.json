@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-24 00:50:48",
-    "Total": 1337,
+    "LastUpdate": "2025-12-25 00:50:52",
+    "Total": 1338,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251224",
+            "fullstartdate": "202512242300",
+            "enddate": "20251225",
+            "url": "/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaGlobe_DE-DE3146908571",
+            "copyright": "Schneekugeln auf einem Weihnachtsmarkt in Heidelberg, Baden-Württemberg (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weihnachten&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+            "title": "Kleine Welten, großer Zauber",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d47b60cd5d8a20755921a57439cd175c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251223",
             "fullstartdate": "202512232300",
