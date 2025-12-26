@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-25 00:51:09",
-    "Total": 1338,
+    "LastUpdate": "2025-12-26 00:51:02",
+    "Total": 1339,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251225",
+            "fullstartdate": "202512252300",
+            "enddate": "20251226",
+            "url": "/th?id=OHR.NuukGreenland_FR-FR4321343444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuukGreenland_FR-FR4321343444",
+            "copyright": "Nuuk, Groenland (© nevereverro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nuuk+Groenland&form=hpcapt&filters=HpDate%3a%2220251225_2300%22",
+            "title": "Cap sur l’Arctique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_NuukGreenland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "04b00ef0506ebf56a6dbf506fa357d8f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251224",
             "fullstartdate": "202512242300",
