@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-25 00:50:39",
-    "Total": 1338,
+    "LastUpdate": "2025-12-26 00:50:34",
+    "Total": 1339,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251225",
+            "fullstartdate": "202512251600",
+            "enddate": "20251226",
+            "url": "/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WiltshireDawn_ZH-CN2887906329",
+            "copyright": "索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "打破盒子的传统",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "792b448f747e37023fd3190fb391b45c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251224",
             "fullstartdate": "202512241600",
