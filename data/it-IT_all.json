@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-25 00:51:13",
-    "Total": 1338,
+    "LastUpdate": "2025-12-26 00:51:06",
+    "Total": 1339,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251225",
+            "fullstartdate": "202512252300",
+            "enddate": "20251226",
+            "url": "/th?id=OHR.WiltshireDawn_IT-IT1269440144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WiltshireDawn_IT-IT1269440144",
+            "copyright": "Cattedrale di Salisbury, Wiltshire, Inghilterra (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Boxing+Day&form=hpcapt",
+            "title": "Tradizioni d’Oltremanica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d46150ce2b9bbc908122a67e6edad34e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251224",
             "fullstartdate": "202512242300",
