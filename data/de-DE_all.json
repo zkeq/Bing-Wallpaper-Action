@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-25 00:50:52",
-    "Total": 1338,
+    "LastUpdate": "2025-12-26 00:50:46",
+    "Total": 1339,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251225",
+            "fullstartdate": "202512252300",
+            "enddate": "20251226",
+            "url": "/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WiltshireDawn_DE-DE2989262973",
+            "copyright": "Kathedrale von Salisbury, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zweiter+Weihnachtsfeiertag&form=hpcapt&filters=HpDate%3a%2220251225_2300%22",
+            "title": "Tradition trifft Entspannung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dfdd5d4bbd5a50130f1383bd6aadedb3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251224",
             "fullstartdate": "202512242300",
