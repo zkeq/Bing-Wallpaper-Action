@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-26 00:50:34",
-    "Total": 1339,
+    "LastUpdate": "2025-12-27 00:50:34",
+    "Total": 1340,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251226",
+            "fullstartdate": "202512261600",
+            "enddate": "20251227",
+            "url": "/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SuperiorIceMN_ZH-CN5339027344",
+            "copyright": "苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E8%8B%8F%E5%BF%85%E5%88%A9%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "冬之碎片",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_SuperiorIceMN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "edd7c635c48eed0de6f032d29b67fae7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251225",
             "fullstartdate": "202512251600",
