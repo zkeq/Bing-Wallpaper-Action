@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-27 00:51:04",
-    "Total": 1340,
+    "LastUpdate": "2025-12-28 00:51:21",
+    "Total": 1341,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251227",
+            "fullstartdate": "202512272300",
+            "enddate": "20251228",
+            "url": "/th?id=OHR.RuffedLemur_FR-FR5360368107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RuffedLemur_FR-FR5360368107",
+            "copyright": "Lémurien Vari noir et blanc de Madagascar (© Cyrielle Beaubois/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=L%C3%A9murien+Vari+noir+blanc+Madagascar&form=hpcapt&filters=HpDate%3a%2220251227_2300%22",
+            "title": "L’adorable et menacé cousin du singe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9eec7341537db1429f17afa2e131f1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251226",
             "fullstartdate": "202512262300",
