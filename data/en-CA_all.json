@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-27 00:50:52",
-    "Total": 1339,
+    "LastUpdate": "2025-12-28 00:51:09",
+    "Total": 1340,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251227",
+            "fullstartdate": "202512270500",
+            "enddate": "20251228",
+            "url": "/th?id=OHR.SuperiorIceMN_EN-CA3067089531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SuperiorIceMN_EN-CA3067089531",
+            "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota, United States (© wanderluster/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Superior+Minnesota&form=hpcapt&filters=HpDate%3a%2220251227_0500%22",
+            "title": "Shards of winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_SuperiorIceMN%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ccbe2882f91d89faa5ca6ffb3a8824b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251226",
             "fullstartdate": "202512260500",
