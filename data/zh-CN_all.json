@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-27 00:50:34",
-    "Total": 1340,
+    "LastUpdate": "2025-12-28 00:50:52",
+    "Total": 1341,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251227",
+            "fullstartdate": "202512271600",
+            "enddate": "20251228",
+            "url": "/th?id=OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RuffedLemur_ZH-CN5636795490",
+            "copyright": "马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%91%E7%99%BD%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4&form=hpcapt&mkt=zh-cn",
+            "title": "仍存野性",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "09c9bb8444ae3b26c13c7863223a07e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251226",
             "fullstartdate": "202512261600",
