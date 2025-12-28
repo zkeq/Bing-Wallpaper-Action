@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-27 00:51:00",
-    "Total": 1340,
+    "LastUpdate": "2025-12-28 00:51:17",
+    "Total": 1341,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251227",
+            "fullstartdate": "202512271830",
+            "enddate": "20251228",
+            "url": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327",
+            "copyright": "Aerial view of a sandy beach in Mangaluru, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mangaluru+Karnataka&form=hpcapt&filters=HpDate%3a%2220251227_1830%22",
+            "title": "A shore thing in Mangaluru",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_MangaloreBeach2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "996a9ec930214280a050114341f3a0fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251226",
             "fullstartdate": "202512261830",
