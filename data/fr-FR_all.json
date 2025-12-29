@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-28 00:51:21",
-    "Total": 1341,
+    "LastUpdate": "2025-12-29 00:51:23",
+    "Total": 1342,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251228",
+            "fullstartdate": "202512282300",
+            "enddate": "20251229",
+            "url": "/th?id=OHR.AniTurkey_FR-FR6681755589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AniTurkey_FR-FR6681755589",
+            "copyright": "Église Saint-Grégoire à Ani, Kars, Turquie (© Kenan Talas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=ruines+Ani+Turquie&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+            "title": "La ville aux mille et une églises",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9402fc9fc3f4f314020b52b6f09531b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251227",
             "fullstartdate": "202512272300",
