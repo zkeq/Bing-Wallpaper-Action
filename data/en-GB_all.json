@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-28 00:51:13",
-    "Total": 1338,
+    "LastUpdate": "2025-12-29 00:51:16",
+    "Total": 1339,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251229",
+            "fullstartdate": "202512290000",
+            "enddate": "20251230",
+            "url": "/th?id=OHR.AniTurkey_EN-GB1808269342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AniTurkey_EN-GB1808269342",
+            "copyright": "St Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ani+Ruins&form=hpcapt&filters=HpDate%3a%2220251229_0000%22",
+            "title": "The church that outlived a city",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_AniTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72cb00678a185558e4e2ad9c7b2c129e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251228",
             "fullstartdate": "202512280000",
