@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-28 00:51:05",
-    "Total": 1341,
+    "LastUpdate": "2025-12-29 00:51:08",
+    "Total": 1342,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251228",
+            "fullstartdate": "202512282300",
+            "enddate": "20251229",
+            "url": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020",
+            "copyright": "Markus Eisenbichler (GER) beim ersten Sprung am zweiten Tag der Vierschanzentournee, 30. Dezember 2016, Oberstdorf, Bayern (© Adam Pretty/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vierschanzentournee&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+            "title": "Lichter, Weite, Adrenalin",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_SkijumpingEisenbichler%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "7ff9d3df701b3a8d8d8d5e0eaa7daeaa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251227",
             "fullstartdate": "202512272300",
