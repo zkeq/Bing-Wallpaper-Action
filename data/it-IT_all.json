@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-28 00:51:25",
-    "Total": 1341,
+    "LastUpdate": "2025-12-29 00:51:27",
+    "Total": 1342,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251228",
+            "fullstartdate": "202512282300",
+            "enddate": "20251229",
+            "url": "/th?id=OHR.AniTurkey_IT-IT1549681594_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AniTurkey_IT-IT1549681594",
+            "copyright": "Chiesa di San Gregorio nelle rovine di Ani, Kars, Turchia (© Kenan Talas/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ani+citt%C3%A0&form=hpcapt",
+            "title": "Storia, Vento e Rovine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4e6c889397088367084a5c48b6d6dfb4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251227",
             "fullstartdate": "202512272300",
