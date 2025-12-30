@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-29 00:51:23",
-    "Total": 1342,
+    "LastUpdate": "2025-12-30 00:51:14",
+    "Total": 1343,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251229",
+            "fullstartdate": "202512292300",
+            "enddate": "20251230",
+            "url": "/th?id=OHR.JapanSwans_FR-FR9912215229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanSwans_FR-FR9912215229",
+            "copyright": "Cygnes chanteurs, Kotoku, Japon (© Martin Bailey/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Cygnes+chanteurs&form=hpcapt&filters=HpDate%3a%2220251229_2300%22",
+            "title": "Envol mélodieux vers le Japon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb05a2adcb4b3d83eae82c29bbf5e7bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251228",
             "fullstartdate": "202512282300",
