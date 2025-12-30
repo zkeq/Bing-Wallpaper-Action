@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-29 00:51:04",
-    "Total": 1342,
+    "LastUpdate": "2025-12-30 00:50:54",
+    "Total": 1343,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251229",
+            "fullstartdate": "202512291500",
+            "enddate": "20251230",
+            "url": "/th?id=OHR.JapanSwans_JA-JP3625883145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanSwans_JA-JP3625883145",
+            "copyright": "古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8F%A4%E5%BE%B3%E6%B2%BC&form=hpcapt&filters=HpDate%3a%2220251229_1500%22",
+            "title": "夕陽に染まる空を舞う冬の使者",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f6c9343833017af24b364376e454a84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251228",
             "fullstartdate": "202512281500",
