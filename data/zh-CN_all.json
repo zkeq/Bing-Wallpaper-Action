@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-29 00:50:55",
-    "Total": 1342,
+    "LastUpdate": "2025-12-30 00:50:45",
+    "Total": 1343,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251229",
+            "fullstartdate": "202512291600",
+            "enddate": "20251230",
+            "url": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700",
+            "copyright": "晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E5%8D%8A%E7%90%83%E7%9A%84%E5%86%AC%E5%AD%A3&form=hpcapt&mkt=zh-cn",
+            "title": "新太阳的诞生",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_SwedenSolstice%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d3aa55b4bdbf50f4e5c8454d76cf8c00",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251228",
             "fullstartdate": "202512281600",
