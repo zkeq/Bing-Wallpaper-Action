@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-29 00:51:20",
-    "Total": 1342,
+    "LastUpdate": "2025-12-30 00:51:10",
+    "Total": 1343,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251229",
+            "fullstartdate": "202512291830",
+            "enddate": "20251230",
+            "url": "/th?id=OHR.JapanSwans_EN-IN9853925542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapanSwans_EN-IN9853925542",
+            "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Whooper+swans&form=hpcapt&filters=HpDate%3a%2220251229_1830%22",
+            "title": "Whoop, there they fly",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ae21e0997dd8cbdfb8a62f9a27ac9fe4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251228",
             "fullstartdate": "202512281830",
