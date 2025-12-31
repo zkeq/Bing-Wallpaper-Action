@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-30 00:51:10",
-    "Total": 1343,
+    "LastUpdate": "2025-12-31 00:50:59",
+    "Total": 1344,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251230",
+            "fullstartdate": "202512301830",
+            "enddate": "20251231",
+            "url": "/th?id=OHR.GermanyNewYear_EN-IN0096135546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GermanyNewYear_EN-IN0096135546",
+            "copyright": "New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220251230_1830%22",
+            "title": "Where Berlin bridges the New Year",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_GermanyNewYear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9f25a8228e8f41e6a764756066b0ae93",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251229",
             "fullstartdate": "202512291830",
