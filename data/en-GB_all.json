@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-30 00:51:06",
-    "Total": 1340,
+    "LastUpdate": "2025-12-31 00:50:55",
+    "Total": 1341,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251231",
+            "fullstartdate": "202512310000",
+            "enddate": "20260101",
+            "url": "/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hogmanay2025_EN-GB7784153227",
+            "copyright": "National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220251231_0000%22",
+            "title": "New year, Scottish style",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_Hogmanay2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8c75529daebe384c772287a1ff6dfbc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251230",
             "fullstartdate": "202512300000",
