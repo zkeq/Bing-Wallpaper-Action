@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-30 00:51:18",
-    "Total": 1343,
+    "LastUpdate": "2025-12-31 00:51:07",
+    "Total": 1344,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251230",
+            "fullstartdate": "202512302300",
+            "enddate": "20251231",
+            "url": "/th?id=OHR.AnnoNuovo_IT-IT2133696487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AnnoNuovo_IT-IT2133696487",
+            "copyright": "Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Capodanno&form=hpcapt",
+            "title": "Fuochi di Speranza",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_AnnoNuovo%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "41a15a115e517fb7bc2484eaeb8fa509",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251229",
             "fullstartdate": "202512292300",
