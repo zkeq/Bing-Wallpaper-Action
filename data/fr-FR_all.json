@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-30 00:51:14",
-    "Total": 1343,
+    "LastUpdate": "2025-12-31 00:51:03",
+    "Total": 1344,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251230",
+            "fullstartdate": "202512302300",
+            "enddate": "20251231",
+            "url": "/th?id=OHR.FireworksParis_FR-FR0850151117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FireworksParis_FR-FR0850151117",
+            "copyright": "Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nouvel+An&form=hpcapt&filters=HpDate%3a%2220251230_2300%22",
+            "title": "Bonne année !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_FireworksParis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5792a27376f3d886f9a5058a982f290",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251229",
             "fullstartdate": "202512292300",
