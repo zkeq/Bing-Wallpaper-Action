@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-31 00:50:51",
-    "Total": 1343,
+    "LastUpdate": "2026-01-01 00:51:20",
+    "Total": 1344,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251231",
+            "fullstartdate": "202512310500",
+            "enddate": "20260101",
+            "url": "/th?id=OHR.NYEToronto_EN-CA2554609222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NYEToronto_EN-CA2554609222",
+            "copyright": "New Year's Eve fireworks in Toronto (© LeoPatrizi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220251231_0500%22",
+            "title": "Stepping into a new year",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NYEToronto%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7f698e1137d3009b1c70b26de8c746a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251230",
             "fullstartdate": "202512300500",
