@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2025-12-31 00:50:42",
-    "Total": 1344,
+    "LastUpdate": "2026-01-01 00:51:12",
+    "Total": 1345,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20251231",
+            "fullstartdate": "202512311500",
+            "enddate": "20260101",
+            "url": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723",
+            "copyright": "えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%81%88%E3%81%B3%E3%81%99%E5%B2%A9%E3%83%BB%E5%A4%A7%E9%BB%92%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251231_1500%22",
+            "title": "今日は元日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearSunrise2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2fe3c9d3c0ef659b509730a3de706b99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251230",
             "fullstartdate": "202512301500",
