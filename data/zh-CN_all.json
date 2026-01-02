@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-01 00:51:03",
-    "Total": 1345,
+    "LastUpdate": "2026-01-02 00:50:39",
+    "Total": 1346,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260101",
+            "fullstartdate": "202601011600",
+            "enddate": "20260102",
+            "url": "/th?id=OHR.VeniceView_ZH-CN3088407995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceView_ZH-CN3088407995",
+            "copyright": "威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A8%81%E5%B0%BC%E6%96%AF&form=hpcapt&mkt=zh-cn",
+            "title": "威尼斯的灵魂",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "239e0c1af12fbde772de535a95437033",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251231",
             "fullstartdate": "202512311600",
