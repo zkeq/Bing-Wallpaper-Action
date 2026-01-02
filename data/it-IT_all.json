@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-01 00:51:36",
-    "Total": 1345,
+    "LastUpdate": "2026-01-02 00:51:12",
+    "Total": 1346,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260101",
+            "fullstartdate": "202601012300",
+            "enddate": "20260102",
+            "url": "/th?id=OHR.ImpalaRooibok_IT-IT2418246080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ImpalaRooibok_IT-IT2418246080",
+            "copyright": "Branco di impala, Riserva naturale di Londolozi, Sudafrica (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Impala+antilope&form=hpcapt",
+            "title": "Battito della Savana",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_ImpalaRooibok%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8df7c8b82cd638503369ac2e495174bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251231",
             "fullstartdate": "202512312300",
