@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-01 00:51:16",
-    "Total": 1345,
+    "LastUpdate": "2026-01-02 00:50:51",
+    "Total": 1346,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260101",
+            "fullstartdate": "202601012300",
+            "enddate": "20260102",
+            "url": "/th?id=OHR.VeniceView_DE-DE5335643211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceView_DE-DE5335643211",
+            "copyright": "Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Venedig+Italien&form=hpcapt&filters=HpDate%3a%2220260101_2300%22",
+            "title": "Die Seele Venedigs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc62913501433dcb75e71f7f35190292",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251231",
             "fullstartdate": "202512312300",
