@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-01 00:51:20",
-    "Total": 1344,
+    "LastUpdate": "2026-01-02 00:50:55",
+    "Total": 1345,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260101",
+            "fullstartdate": "202601010500",
+            "enddate": "20260102",
+            "url": "/th?id=OHR.NewYearFox_EN-CA1770167062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NewYearFox_EN-CA1770167062",
+            "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220260101_0500%22",
+            "title": "Stretch into the New Year",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eec0a3d0e5a7f681ed5391260aa9d354",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20251231",
             "fullstartdate": "202512310500",
