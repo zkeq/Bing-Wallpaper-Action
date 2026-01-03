@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-02 00:50:43",
-    "Total": 1346,
+    "LastUpdate": "2026-01-03 00:50:40",
+    "Total": 1347,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260102",
+            "fullstartdate": "202601020800",
+            "enddate": "20260103",
+            "url": "/th?id=OHR.VeniceView_EN-US3244163136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceView_EN-US3244163136",
+            "copyright": "Aerial view of Venice, Italy (© Clement Leonard/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Venice+Italy&form=hpcapt&filters=HpDate%3a%2220260102_0800%22",
+            "title": "The soul of Venice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_VeniceView%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92a20f78f41d7a000d44b21028880138",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260101",
             "fullstartdate": "202601010800",
