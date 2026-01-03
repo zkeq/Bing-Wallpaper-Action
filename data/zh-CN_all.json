@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-02 00:50:39",
-    "Total": 1346,
+    "LastUpdate": "2026-01-03 00:50:35",
+    "Total": 1347,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260102",
+            "fullstartdate": "202601021600",
+            "enddate": "20260103",
+            "url": "/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217",
+            "copyright": "劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%BD%E9%99%B6%E5%B7%B4%E8%B5%AB%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn",
+            "title": "传奇故事前的篇章",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_LauterbrunnenValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "143ee0b5e6b80596c8b4c89b5300bd37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260101",
             "fullstartdate": "202601011600",
