@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-02 00:51:04",
-    "Total": 1346,
+    "LastUpdate": "2026-01-03 00:51:01",
+    "Total": 1347,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260102",
+            "fullstartdate": "202601021830",
+            "enddate": "20260103",
+            "url": "/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LauterbrunnenValley_EN-IN1404704660",
+            "copyright": "Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=JRR+Tolkien+Day&form=hpcapt&filters=HpDate%3a%2220260102_1830%22",
+            "title": "The steps before the saga",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_LauterbrunnenValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77e34661ce929fba7333d86df0a0ee0c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260101",
             "fullstartdate": "202601011830",
