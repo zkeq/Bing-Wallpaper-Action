@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-03 00:50:35",
-    "Total": 1347,
+    "LastUpdate": "2026-01-04 00:50:58",
+    "Total": 1348,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260103",
+            "fullstartdate": "202601031600",
+            "enddate": "20260104",
+            "url": "/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KingMountain_ZH-CN0397508222",
+            "copyright": "国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A5%9A%E5%8A%A0%E5%A5%87%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn",
+            "title": "王者视野",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8cf8bf55b8ddda8d0a9df7717c4890f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260102",
             "fullstartdate": "202601021600",
