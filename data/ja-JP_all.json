@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-03 00:50:45",
-    "Total": 1347,
+    "LastUpdate": "2026-01-04 00:51:06",
+    "Total": 1348,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260103",
+            "fullstartdate": "202601031500",
+            "enddate": "20260104",
+            "url": "/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KingMountain_JA-JP5338011772",
+            "copyright": "キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate%3a%2220260103_1500%22",
+            "title": "雪に覆われた険しい峰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6e31257532049f5861dcf3849a38cdb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260102",
             "fullstartdate": "202601021500",
