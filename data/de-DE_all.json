@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-03 00:50:49",
-    "Total": 1347,
+    "LastUpdate": "2026-01-04 00:51:11",
+    "Total": 1348,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260103",
+            "fullstartdate": "202601032300",
+            "enddate": "20260104",
+            "url": "/th?id=OHR.KingMountain_DE-DE9482861580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KingMountain_DE-DE9482861580",
+            "copyright": "Kings Mountain, Chugach Mountains, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kings+Mountain+Chugach+Mountains+USA&form=hpcapt&filters=HpDate%3a%2220260103_2300%22",
+            "title": "Majestätischer Ausblick",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "776620dc6bd9534b111796dadfb4e679",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260102",
             "fullstartdate": "202601022300",
