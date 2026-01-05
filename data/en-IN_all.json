@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-04 00:51:23",
-    "Total": 1348,
+    "LastUpdate": "2026-01-05 00:51:14",
+    "Total": 1349,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260104",
+            "fullstartdate": "202601041830",
+            "enddate": "20260105",
+            "url": "/th?id=OHR.ImpalaRooibok_EN-IN2071803879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ImpalaRooibok_EN-IN2071803879",
+            "copyright": "A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Impala+antelope&form=hpcapt&filters=HpDate%3a%2220260104_1830%22",
+            "title": "Herd on high alert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_ImpalaRooibok%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "747be0dff40f695c7b0f5ac08a9e9cb8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260103",
             "fullstartdate": "202601031830",
