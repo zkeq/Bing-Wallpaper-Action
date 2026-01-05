@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-04 00:51:02",
-    "Total": 1348,
+    "LastUpdate": "2026-01-05 00:50:54",
+    "Total": 1349,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260104",
+            "fullstartdate": "202601040800",
+            "enddate": "20260105",
+            "url": "/th?id=OHR.KingMountain_EN-US6730743729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KingMountain_EN-US6730743729",
+            "copyright": "Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Kings+Mountain+Chugach+Mountains&form=hpcapt&filters=HpDate%3a%2220260104_0800%22",
+            "title": "A royal view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_KingMountain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b8f294efdde0af2c43ef1e21071f8cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260103",
             "fullstartdate": "202601030800",
