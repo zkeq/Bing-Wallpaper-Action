@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-05 00:50:50",
-    "Total": 1349,
+    "LastUpdate": "2026-01-06 00:50:43",
+    "Total": 1350,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260105",
+            "fullstartdate": "202601051600",
+            "enddate": "20260106",
+            "url": "/th?id=OHR.NuukGreenland_ZH-CN2414771686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuukGreenland_ZH-CN2414771686",
+            "copyright": "努克, 格陵兰 (© nevereverro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8A%AA%E5%85%8B%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "努克的慵懒时光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_NuukGreenland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f42a213b48f82c835c88fd0704c5279",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260104",
             "fullstartdate": "202601041600",
