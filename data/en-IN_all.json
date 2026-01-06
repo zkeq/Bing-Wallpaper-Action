@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-05 00:51:14",
-    "Total": 1349,
+    "LastUpdate": "2026-01-06 00:51:09",
+    "Total": 1350,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260105",
+            "fullstartdate": "202601051830",
+            "enddate": "20260106",
+            "url": "/th?id=OHR.NuukGreenland_EN-IN2229697854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuukGreenland_EN-IN2229697854",
+            "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nuuk+Greenland&form=hpcapt&filters=HpDate%3a%2220260105_1830%22",
+            "title": "Chillin' in Nuuk",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_NuukGreenland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d1c8bb62df6ceac59732f689e814820",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260104",
             "fullstartdate": "202601041830",
