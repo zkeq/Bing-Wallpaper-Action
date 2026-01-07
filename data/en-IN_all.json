@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-06 00:51:09",
-    "Total": 1350,
+    "LastUpdate": "2026-01-07 00:51:09",
+    "Total": 1351,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260106",
+            "fullstartdate": "202601061830",
+            "enddate": "20260107",
+            "url": "/th?id=OHR.OldRockArch_EN-IN2577038067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OldRockArch_EN-IN2577038067",
+            "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park+Windows&form=hpcapt&filters=HpDate%3a%2220260106_1830%22",
+            "title": "Rock legends",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_OldRockArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c38e9293691d70682a5eb3bc994754f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260105",
             "fullstartdate": "202601051830",
