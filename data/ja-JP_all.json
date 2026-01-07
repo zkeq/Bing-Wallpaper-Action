@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-06 00:50:53",
-    "Total": 1350,
+    "LastUpdate": "2026-01-07 00:50:53",
+    "Total": 1351,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260106",
+            "fullstartdate": "202601061500",
+            "enddate": "20260107",
+            "url": "/th?id=OHR.OldRockArch_JA-JP5889672492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OldRockArch_JA-JP5889672492",
+            "copyright": "アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260106_1500%22",
+            "title": "ノース・ウィンドウの開口部から望むタレットアーチ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_OldRockArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "996ac3ff18a311db327be2f407e38d1e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260105",
             "fullstartdate": "202601051500",
