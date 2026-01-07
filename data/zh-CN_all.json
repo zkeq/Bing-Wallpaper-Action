@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-06 00:50:43",
-    "Total": 1350,
+    "LastUpdate": "2026-01-07 00:50:44",
+    "Total": 1351,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260106",
+            "fullstartdate": "202601061600",
+            "enddate": "20260107",
+            "url": "/th?id=OHR.OldRockArch_ZH-CN2061140260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OldRockArch_ZH-CN2061140260",
+            "copyright": "拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%8B%B1%E9%97%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "古老岩石的传奇",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_OldRockArch%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e34d3a5ddb821effa71078d658de8128",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260105",
             "fullstartdate": "202601051600",
