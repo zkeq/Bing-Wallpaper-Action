@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-07 00:51:09",
-    "Total": 1351,
+    "LastUpdate": "2026-01-08 00:51:07",
+    "Total": 1352,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260107",
+            "fullstartdate": "202601071830",
+            "enddate": "20260108",
+            "url": "/th?id=OHR.StarlingBrighton2025_EN-IN2955715491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StarlingBrighton2025_EN-IN2955715491",
+            "copyright": "Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Starlings&form=hpcapt&filters=HpDate%3a%2220260107_1830%22",
+            "title": "Rust meets rush",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_StarlingBrighton2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc9565b02a680ee3891e16f5b017652f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260106",
             "fullstartdate": "202601061830",
