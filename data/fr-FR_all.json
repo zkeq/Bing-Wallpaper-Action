@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-07 00:51:13",
-    "Total": 1351,
+    "LastUpdate": "2026-01-08 00:51:11",
+    "Total": 1352,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260107",
+            "fullstartdate": "202601072300",
+            "enddate": "20260108",
+            "url": "/th?id=OHR.StarlingBrighton2025_FR-FR5924794368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StarlingBrighton2025_FR-FR5924794368",
+            "copyright": "Nuée d’étourneaux au-dessus des ruines de la jetée ouest de Brighton, Angleterre (© Philip Reeve/Photodisc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=murmuration+d%27oiseaux&form=hpcapt&filters=HpDate%3a%2220260107_2300%22",
+            "title": "La danse des étourneaux",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_StarlingBrighton2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fcd78e8f2404207ac0df070052f970db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260106",
             "fullstartdate": "202601062300",
