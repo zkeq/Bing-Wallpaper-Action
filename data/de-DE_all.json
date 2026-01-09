@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-08 00:50:55",
-    "Total": 1352,
+    "LastUpdate": "2026-01-09 00:50:59",
+    "Total": 1353,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260108",
+            "fullstartdate": "202601082300",
+            "enddate": "20260109",
+            "url": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629",
+            "copyright": "Eurasische Luchse beim Spielen im Schnee im Wald, Bayern (© imagebroker/david & micha sheldon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasischer+Luchs&form=hpcapt&filters=HpDate%3a%2220260108_2300%22",
+            "title": "Vergnügen im Schnee",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_LynxBavariaSnow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2daa6f651fda4fedebe722b907037c3a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260107",
             "fullstartdate": "202601072300",
