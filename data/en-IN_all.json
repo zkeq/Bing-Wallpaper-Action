@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-09 00:51:11",
-    "Total": 1353,
+    "LastUpdate": "2026-01-10 00:51:02",
+    "Total": 1354,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260109",
+            "fullstartdate": "202601091830",
+            "enddate": "20260110",
+            "url": "/th?id=OHR.MatterhornSunrise_EN-IN8628292064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MatterhornSunrise_EN-IN8628292064",
+            "copyright": "The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Matterhorn&form=hpcapt&filters=HpDate%3a%2220260109_1830%22",
+            "title": "Pure Swiss magic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MatterhornSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0cf8502a5ebeca3435670ac4014ee703",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260108",
             "fullstartdate": "202601081830",
