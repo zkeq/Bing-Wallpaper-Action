@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-10 00:51:10",
-    "Total": 1354,
+    "LastUpdate": "2026-01-11 00:51:30",
+    "Total": 1355,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260110",
+            "fullstartdate": "202601102300",
+            "enddate": "20260111",
+            "url": "/th?id=OHR.BlueMorocco_IT-IT0979277662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueMorocco_IT-IT0979277662",
+            "copyright": "Le mura blu di Chefchaouen, Marocco (© AnetteAndersen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chefchaouen+Morocco&form=hpcapt",
+            "title": "Resistenza & Resilienza?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_BlueMorocco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e6238f04f8cfd8c32bd4029dd6cf91f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260109",
             "fullstartdate": "202601092300",
