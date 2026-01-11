@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-10 00:51:02",
-    "Total": 1354,
+    "LastUpdate": "2026-01-11 00:51:21",
+    "Total": 1355,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260110",
+            "fullstartdate": "202601101830",
+            "enddate": "20260111",
+            "url": "/th?id=OHR.BlueMorocco_EN-IN8859486933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueMorocco_EN-IN8859486933",
+            "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chefchaouen+Morocco&form=hpcapt&filters=HpDate%3a%2220260110_1830%22",
+            "title": "From resistance to radiance",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_BlueMorocco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23d1de04f2326af0c2b806e5985d1303",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260109",
             "fullstartdate": "202601091830",
