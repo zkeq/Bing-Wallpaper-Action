@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-11 00:51:26",
-    "Total": 1355,
+    "LastUpdate": "2026-01-12 00:51:18",
+    "Total": 1356,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260111",
+            "fullstartdate": "202601112300",
+            "enddate": "20260112",
+            "url": "/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowOtters_FR-FR5221259508",
+            "copyright": "Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=loutre+europe&form=hpcapt&filters=HpDate%3a%2220260111_2300%22",
+            "title": "L’Estonie, le paradis de nos loutres d’Europe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe35f6e4e2ca197527edf8c37c832832",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260110",
             "fullstartdate": "202601102300",
