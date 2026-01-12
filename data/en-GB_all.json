@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-11 00:51:17",
-    "Total": 1352,
+    "LastUpdate": "2026-01-12 00:51:11",
+    "Total": 1353,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260112",
+            "fullstartdate": "202601120000",
+            "enddate": "20260113",
+            "url": "/th?id=OHR.SnowOtters_EN-GB1734376903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowOtters_EN-GB1734376903",
+            "copyright": "Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+otter&form=hpcapt&filters=HpDate%3a%2220260112_0000%22",
+            "title": "Otter-ly Estonia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_SnowOtters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d4e8fa74a12928f38210a9c00b5c6a82",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260111",
             "fullstartdate": "202601110000",
