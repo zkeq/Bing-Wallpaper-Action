@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-12 00:50:50",
-    "Total": 1356,
+    "LastUpdate": "2026-01-13 00:50:26",
+    "Total": 1357,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260112",
+            "fullstartdate": "202601121600",
+            "enddate": "20260113",
+            "url": "/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWinter_ZH-CN3692879767",
+            "copyright": "克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%85%8B%E5%8D%A2%E4%BC%8A%E5%BE%B7%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+            "title": "苹果韵，旧时光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_WalesWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12f3326c63d6b341b36e0dca5fa03267",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260111",
             "fullstartdate": "202601111600",
