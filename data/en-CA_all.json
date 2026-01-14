@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-13 00:50:43",
-    "Total": 1356,
+    "LastUpdate": "2026-01-14 00:51:06",
+    "Total": 1357,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260113",
+            "fullstartdate": "202601130500",
+            "enddate": "20260114",
+            "url": "/th?id=OHR.WalesWinter_EN-CA2784090748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWinter_EN-CA2784090748",
+            "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hen+Galan+Wales&form=hpcapt&filters=HpDate%3a%2220260113_0500%22",
+            "title": "Apple rhymes and old times",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_WalesWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dea7d7a4fe9b8fdfca667de4b9e37f6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260112",
             "fullstartdate": "202601120500",
