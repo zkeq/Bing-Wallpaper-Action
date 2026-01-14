@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-13 00:50:51",
-    "Total": 1357,
+    "LastUpdate": "2026-01-14 00:51:14",
+    "Total": 1358,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260113",
+            "fullstartdate": "202601131830",
+            "enddate": "20260114",
+            "url": "/th?id=OHR.PalamidiFortress_EN-IN9328552930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalamidiFortress_EN-IN9328552930",
+            "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palamidi+fortress&form=hpcapt&filters=HpDate%3a%2220260113_1830%22",
+            "title": "Ascending history at Palamidi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fe0d7c49e90e65cc4baa32c40796e51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260112",
             "fullstartdate": "202601121830",
