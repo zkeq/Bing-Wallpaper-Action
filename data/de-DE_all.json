@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-13 00:50:39",
-    "Total": 1357,
+    "LastUpdate": "2026-01-14 00:51:02",
+    "Total": 1358,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260113",
+            "fullstartdate": "202601132300",
+            "enddate": "20260114",
+            "url": "/th?id=OHR.PalamidiFortress_DE-DE8463442485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PalamidiFortress_DE-DE8463442485",
+            "copyright": "Die Treppe der Festung Palamidi, Nafplio, Griechenland (© George Pachantouris/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palamidi+Festung&form=hpcapt&filters=HpDate%3a%2220260113_2300%22",
+            "title": "Geschichte Stufe für Stufe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d66e3be111316345ae16341cf98b4891",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260112",
             "fullstartdate": "202601122300",
