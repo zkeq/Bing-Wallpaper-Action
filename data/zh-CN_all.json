@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-14 00:50:49",
-    "Total": 1358,
+    "LastUpdate": "2026-01-15 00:50:37",
+    "Total": 1359,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260114",
+            "fullstartdate": "202601141600",
+            "enddate": "20260115",
+            "url": "/th?id=OHR.ReineSunrise_ZH-CN6297586399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReineSunrise_ZH-CN6297586399",
+            "copyright": "雷讷渔村, 挪威 (© Roberto Moiola/Cavan Images/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9B%B7%E8%AE%B7&form=hpcapt&mkt=zh-cn",
+            "title": "小村庄，大视野",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260114_ReineSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "034a43a02f9147fd49555e2ef99008c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260113",
             "fullstartdate": "202601131600",
