@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-15 00:50:53",
-    "Total": 1358,
+    "LastUpdate": "2026-01-16 00:50:59",
+    "Total": 1359,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260115",
+            "fullstartdate": "202601150500",
+            "enddate": "20260116",
+            "url": "/th?id=OHR.ReineSunrise_EN-CA3470666612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReineSunrise_EN-CA3470666612",
+            "copyright": "The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Reine&form=hpcapt&filters=HpDate%3a%2220260115_0500%22",
+            "title": "Tiny village, big views",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_ReineSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad0ae456dc3decadeefa367c28148ff4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260114",
             "fullstartdate": "202601140500",
