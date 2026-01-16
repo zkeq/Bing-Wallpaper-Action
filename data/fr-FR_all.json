@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-15 00:51:04",
-    "Total": 1359,
+    "LastUpdate": "2026-01-16 00:51:11",
+    "Total": 1360,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260115",
+            "fullstartdate": "202601152300",
+            "enddate": "20260116",
+            "url": "/th?id=OHR.DeerWinter_FR-FR0583142086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DeerWinter_FR-FR0583142086",
+            "copyright": "Cerf cachés dans la forêt (© AB Photography/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=cerf+for%C3%AAt&form=hpcapt&filters=HpDate%3a%2220260115_2300%22",
+            "title": "Promenons-nous dans les bois…",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_DeerWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b9f8ad83ab8546c99c7a41ca7694e52",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260114",
             "fullstartdate": "202601142300",
