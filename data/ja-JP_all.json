@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-15 00:50:45",
-    "Total": 1359,
+    "LastUpdate": "2026-01-16 00:50:51",
+    "Total": 1360,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260115",
+            "fullstartdate": "202601151500",
+            "enddate": "20260116",
+            "url": "/th?id=OHR.SnowOtters_JA-JP0357169871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SnowOtters_JA-JP0357169871",
+            "copyright": "ユーラシアカワウソ, エストニア (© Sven Zacek/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD&form=hpcapt&filters=HpDate%3a%2220260115_1500%22",
+            "title": "雪の上にたたずむ可愛い水辺の動物",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_SnowOtters%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c90f2d637678325e882f9f24dafd84f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260114",
             "fullstartdate": "202601141500",
