@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-17 00:51:05",
-    "Total": 1361,
+    "LastUpdate": "2026-01-18 00:51:22",
+    "Total": 1362,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260117",
+            "fullstartdate": "202601172300",
+            "enddate": "20260118",
+            "url": "/th?id=OHR.WhiteSandsNM_IT-IT4233174692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteSandsNM_IT-IT4233174692",
+            "copyright": "Parco Nazionale delle Sabbie Bianche, Nuovo Messico, USA (© Francesco Carucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+delle+Sabbie+Bianche&form=hpcapt",
+            "title": "Pace e Sabbia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "061fa2528aab40e5e2d97a2a29580d51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260116",
             "fullstartdate": "202601162300",
