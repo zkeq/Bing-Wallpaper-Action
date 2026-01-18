@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-17 00:50:33",
-    "Total": 1361,
+    "LastUpdate": "2026-01-18 00:50:50",
+    "Total": 1362,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260117",
+            "fullstartdate": "202601171600",
+            "enddate": "20260118",
+            "url": "/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteSandsNM_ZH-CN7070772772",
+            "copyright": "白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E6%B2%99%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "伪装成沙漠的奇境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f908e2960769968361a4eb8e0f743a30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260116",
             "fullstartdate": "202601161600",
