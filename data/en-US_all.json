@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-18 00:50:55",
-    "Total": 1362,
+    "LastUpdate": "2026-01-19 00:50:57",
+    "Total": 1363,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260118",
+            "fullstartdate": "202601180800",
+            "enddate": "20260119",
+            "url": "/th?id=OHR.WhiteSandsNM_EN-US0565482616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhiteSandsNM_EN-US0565482616",
+            "copyright": "White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=White+Sands+National+Park+New+Mexico&form=hpcapt&filters=HpDate%3a%2220260118_0800%22",
+            "title": "A desert in disguise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_WhiteSandsNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b841d44f8c6a6b685b3eaa6e6d268bfc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260117",
             "fullstartdate": "202601170800",
