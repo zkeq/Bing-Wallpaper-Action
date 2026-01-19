@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-18 00:50:50",
-    "Total": 1362,
+    "LastUpdate": "2026-01-19 00:50:52",
+    "Total": 1363,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260118",
+            "fullstartdate": "202601181600",
+            "enddate": "20260119",
+            "url": "/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BubblesAbraham_ZH-CN7203734882",
+            "copyright": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E6%B9%96&form=hpcapt&mkt=zh-cn",
+            "title": "大自然的波普艺术",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_BubblesAbraham%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afc989c66d232b241b295fdacb17912d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260117",
             "fullstartdate": "202601171600",
