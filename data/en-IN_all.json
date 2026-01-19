@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-18 00:51:14",
-    "Total": 1362,
+    "LastUpdate": "2026-01-19 00:51:17",
+    "Total": 1363,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260118",
+            "fullstartdate": "202601181830",
+            "enddate": "20260119",
+            "url": "/th?id=OHR.BubblesAbraham_EN-IN0433961351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BubblesAbraham_EN-IN0433961351",
+            "copyright": "Frozen Abraham Lake, Alberta, Canada (© Luis F Arevalo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220260118_1830%22",
+            "title": "Nature's pop art",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_BubblesAbraham%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f980703ba908e110c153fa038bb92106",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260117",
             "fullstartdate": "202601171830",
