@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-19 00:50:52",
-    "Total": 1363,
+    "LastUpdate": "2026-01-20 00:50:35",
+    "Total": 1364,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260119",
+            "fullstartdate": "202601191600",
+            "enddate": "20260120",
+            "url": "/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TheGreatColdY25_ZH-CN7239762815",
+            "copyright": "栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E5%AF%92%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn",
+            "title": "冬季里的呆萌小可爱",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_TheGreatColdY25%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "087049716999ffecbb2e662b46bf921e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260118",
             "fullstartdate": "202601181600",
