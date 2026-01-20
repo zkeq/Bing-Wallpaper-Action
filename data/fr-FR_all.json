@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-19 00:51:21",
-    "Total": 1363,
+    "LastUpdate": "2026-01-20 00:51:02",
+    "Total": 1364,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260119",
+            "fullstartdate": "202601192300",
+            "enddate": "20260120",
+            "url": "/th?id=OHR.IciclePenguin_FR-FR1509326905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IciclePenguin_FR-FR1509326905",
+            "copyright": "Un manchot papou, Île Petermann, Antarctique (© Paul Souders/DanitaDelimont.com/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Manchot+papou&form=hpcapt&filters=HpDate%3a%2220260119_2300%22",
+            "title": "Un bien drôle d’oiseau !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_IciclePenguin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24de8e20244438d4c2418d3b51f66970",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260118",
             "fullstartdate": "202601182300",
