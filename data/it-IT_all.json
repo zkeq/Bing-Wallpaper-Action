@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-19 00:51:25",
-    "Total": 1363,
+    "LastUpdate": "2026-01-20 00:51:06",
+    "Total": 1364,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260119",
+            "fullstartdate": "202601192300",
+            "enddate": "20260120",
+            "url": "/th?id=OHR.IciclePenguin_IT-IT4498026851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IciclePenguin_IT-IT4498026851",
+            "copyright": "Pinguino Gentoo, Isola Petermann, Antartide (© Paul Souders/DanitaDelimont.com/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Pinguino+Gentoo&form=hpcapt",
+            "title": "Danza tra i ghiacchi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_IciclePenguin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c792529da51607da1f0f49a2baaf37b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260118",
             "fullstartdate": "202601182300",
