@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-23 00:50:53",
-    "Total": 1367,
+    "LastUpdate": "2026-01-24 00:50:45",
+    "Total": 1368,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260123",
+            "fullstartdate": "202601232300",
+            "enddate": "20260124",
+            "url": "/th?id=OHR.AndermattSwiss_DE-DE4290950061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AndermattSwiss_DE-DE4290950061",
+            "copyright": "Andermatt in den Schweizer Alpen (© Xantana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Andermatt+Schweiz&form=hpcapt&filters=HpDate%3a%2220260123_2300%22",
+            "title": "Auszeit in der Schweiz",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad913d9b29b7cf9d906ea15d207244fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260122",
             "fullstartdate": "202601222300",
