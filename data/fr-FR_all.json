@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-23 00:51:09",
-    "Total": 1367,
+    "LastUpdate": "2026-01-24 00:51:01",
+    "Total": 1368,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260123",
+            "fullstartdate": "202601232300",
+            "enddate": "20260124",
+            "url": "/th?id=OHR.AndermattSwiss_FR-FR0683764999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AndermattSwiss_FR-FR0683764999",
+            "copyright": "Le village d’Andermatt, Suisse (© Xantana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Andermatt+Suisse&form=hpcapt&filters=HpDate%3a%2220260123_2300%22",
+            "title": "Rendez-vous sur les pistes !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ddd6320440e9ce5872753bd53fabc7e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260122",
             "fullstartdate": "202601222300",
