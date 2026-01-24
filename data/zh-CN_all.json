@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-23 00:50:40",
-    "Total": 1367,
+    "LastUpdate": "2026-01-24 00:50:32",
+    "Total": 1368,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260123",
+            "fullstartdate": "202601231600",
+            "enddate": "20260124",
+            "url": "/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AndermattSwiss_ZH-CN4112824348",
+            "copyright": "阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%91%9E%E5%A3%AB%E5%AE%89%E5%BE%B7%E9%A9%AC%E7%89%B9%E5%B0%8F%E9%95%87&form=hpcapt&mkt=zh-cn",
+            "title": "瑞士山间的短逃离",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c08a97b8176b01b10b5363e67cafaf1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260122",
             "fullstartdate": "202601221600",
