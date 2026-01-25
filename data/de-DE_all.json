@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-24 00:50:45",
-    "Total": 1368,
+    "LastUpdate": "2026-01-25 00:51:11",
+    "Total": 1369,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260124",
+            "fullstartdate": "202601242300",
+            "enddate": "20260125",
+            "url": "/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BurnsPark_DE-DE8456925914",
+            "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Schottland (© Alister Firth/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Burns+Supper+Robert+Burns+Schottland&form=hpcapt&filters=HpDate%3a%2220260124_2300%22",
+            "title": "Ein Abend voller Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BurnsPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23fed69606fd0f0d84124e1f0b1ef5d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260123",
             "fullstartdate": "202601232300",
