@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-24 00:50:41",
-    "Total": 1368,
+    "LastUpdate": "2026-01-25 00:51:07",
+    "Total": 1369,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260124",
+            "fullstartdate": "202601241500",
+            "enddate": "20260125",
+            "url": "/th?id=OHR.BurnsPark_JA-JP9708968769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BurnsPark_JA-JP9708968769",
+            "copyright": "バーンズ国立遺産公園, スコットランド (© Alister Firth/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Burns+National+Heritage+Park&form=hpcapt&filters=HpDate%3a%2220260124_1500%22",
+            "title": "今日はスコットランドの「バーンズ・ナイト」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BurnsPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5c3ae84792ab5df0dc2448c42a108ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260123",
             "fullstartdate": "202601231500",
