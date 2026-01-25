@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-24 00:50:53",
-    "Total": 1365,
+    "LastUpdate": "2026-01-25 00:51:20",
+    "Total": 1366,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260125",
+            "fullstartdate": "202601250000",
+            "enddate": "20260126",
+            "url": "/th?id=OHR.Northumberland2025_EN-GB5155433831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Northumberland2025_EN-GB5155433831",
+            "copyright": "Northumberland, England (© Design Pics/John Short/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=hpcapt&filters=HpDate%3a%2220260125_0000%22",
+            "title": "Tradition burns bright",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_Northumberland2025%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44e809b4689d0e3089409128fb6fe2d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260124",
             "fullstartdate": "202601240000",
