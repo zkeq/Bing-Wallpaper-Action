@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-25 00:51:07",
-    "Total": 1369,
+    "LastUpdate": "2026-01-26 00:51:08",
+    "Total": 1370,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260125",
+            "fullstartdate": "202601251500",
+            "enddate": "20260126",
+            "url": "/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BubblesAbraham_JA-JP9895459899",
+            "copyright": "アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%AC%E3%82%A4%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260125_1500%22",
+            "title": "色鮮やかな空の下に広がる凍った湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BubblesAbraham%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52c2fd433eb1a2559ac3f76414a02566",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260124",
             "fullstartdate": "202601241500",
