@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-25 00:51:03",
-    "Total": 1369,
+    "LastUpdate": "2026-01-26 00:51:04",
+    "Total": 1370,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260125",
+            "fullstartdate": "202601250800",
+            "enddate": "20260126",
+            "url": "/th?id=OHR.BurnsPark_EN-US9363066918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BurnsPark_EN-US9363066918",
+            "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=hpcapt&filters=HpDate%3a%2220260125_0800%22",
+            "title": "Tradition burns bright",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BurnsPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b1e8b4e049724d8a1856a02f0a0452ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260124",
             "fullstartdate": "202601240800",
