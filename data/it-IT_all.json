@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-26 00:51:31",
-    "Total": 1370,
+    "LastUpdate": "2026-01-27 00:51:28",
+    "Total": 1371,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260126",
+            "fullstartdate": "202601262300",
+            "enddate": "20260127",
+            "url": "/th?id=OHR.DalmationPelicans_IT-IT3852237792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DalmationPelicans_IT-IT3852237792",
+            "copyright": "Pellicani crespi, lago Kerkini, Grecia (© Guy Edwardes/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Pelecanus+crispus&form=hpcapt",
+            "title": "Oltre il bianco velo?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_DalmationPelicans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0bc13c35f14b9f2ef3dd77449f9d08e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260125",
             "fullstartdate": "202601252300",
