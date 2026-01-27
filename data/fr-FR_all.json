@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-26 00:51:27",
-    "Total": 1370,
+    "LastUpdate": "2026-01-27 00:51:24",
+    "Total": 1371,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260126",
+            "fullstartdate": "202601262300",
+            "enddate": "20260127",
+            "url": "/th?id=OHR.DalmationPelicans_FR-FR5454969823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DalmationPelicans_FR-FR5454969823",
+            "copyright": "Des pélicans frisés sur le Lac Kerkini, Grèce (© Guy Edwardes/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=P%C3%A9licans+fris%C3%A9s&form=hpcapt&filters=HpDate%3a%2220260126_2300%22",
+            "title": "Pélicans en vue !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_DalmationPelicans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb778447b2e3547edb00be265a81f06d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260125",
             "fullstartdate": "202601252300",
