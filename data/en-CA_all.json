@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-26 00:51:15",
-    "Total": 1369,
+    "LastUpdate": "2026-01-27 00:51:12",
+    "Total": 1370,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260126",
+            "fullstartdate": "202601260500",
+            "enddate": "20260127",
+            "url": "/th?id=OHR.NeuschwansteinWinter_EN-CA1052818090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NeuschwansteinWinter_EN-CA1052818090",
+            "copyright": "Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Neuschwanstein+Castle&form=hpcapt&filters=HpDate%3a%2220260126_0500%22",
+            "title": "Bavaria's gem",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_NeuschwansteinWinter%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "dc2b2d9abc942e15841581c700622f1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260125",
             "fullstartdate": "202601250500",
