@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-27 00:50:56",
-    "Total": 1371,
+    "LastUpdate": "2026-01-28 00:50:43",
+    "Total": 1372,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260127",
+            "fullstartdate": "202601271600",
+            "enddate": "20260128",
+            "url": "/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhanganuiPark_ZH-CN5664518836",
+            "copyright": "旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%BA%E6%A0%BC%E5%8A%AA%E4%BC%8A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "随河而行",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0dc6a5ec9fd8fbce80b449ffaad7903",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260126",
             "fullstartdate": "202601261600",
