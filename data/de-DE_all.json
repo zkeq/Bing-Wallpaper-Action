@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-27 00:51:08",
-    "Total": 1371,
+    "LastUpdate": "2026-01-28 00:50:55",
+    "Total": 1372,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260127",
+            "fullstartdate": "202601272300",
+            "enddate": "20260128",
+            "url": "/th?id=OHR.WhanganuiPark_DE-DE0122183899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhanganuiPark_DE-DE0122183899",
+            "copyright": "Whanganui-Nationalpark, Retaruke, Neuseeland (© Matthew Micah Wright/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Whanganui-Nationalpark+Neuseeland&form=hpcapt&filters=HpDate%3a%2220260127_2300%22",
+            "title": "Einfach treiben lassen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42e82c0204e4c646ee050e40d4741b5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260126",
             "fullstartdate": "202601262300",
