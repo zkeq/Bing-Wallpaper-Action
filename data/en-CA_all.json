@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-27 00:51:12",
-    "Total": 1370,
+    "LastUpdate": "2026-01-28 00:50:59",
+    "Total": 1371,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260127",
+            "fullstartdate": "202601270500",
+            "enddate": "20260128",
+            "url": "/th?id=OHR.DalmationPelicans_EN-CA1377390120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DalmationPelicans_EN-CA1377390120",
+            "copyright": "Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Dalmatian+pelicans&form=hpcapt&filters=HpDate%3a%2220260127_0500%22",
+            "title": "Feather forecast: pelicans ahead",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_DalmationPelicans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17a2ce5fe727bf9dbc35778871256aeb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260126",
             "fullstartdate": "202601260500",
