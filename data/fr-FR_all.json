@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-27 00:51:24",
-    "Total": 1371,
+    "LastUpdate": "2026-01-28 00:51:11",
+    "Total": 1372,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260127",
+            "fullstartdate": "202601272300",
+            "enddate": "20260128",
+            "url": "/th?id=OHR.WhanganuiPark_FR-FR8047545940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhanganuiPark_FR-FR8047545940",
+            "copyright": "Parc National de Whanganui, Retaruke, Nouvelle-Zélande (© Matthew Micah Wright/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+National+Whanganui&form=hpcapt&filters=HpDate%3a%2220260127_2300%22",
+            "title": "Suivez le courant de Whanganui",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "200a8cc87bb5490f7089d18dd4ec1aee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260126",
             "fullstartdate": "202601262300",
