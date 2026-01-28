@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-27 00:51:16",
-    "Total": 1368,
+    "LastUpdate": "2026-01-28 00:51:03",
+    "Total": 1369,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260128",
+            "fullstartdate": "202601280000",
+            "enddate": "20260129",
+            "url": "/th?id=OHR.WhanganuiPark_EN-GB2487918994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhanganuiPark_EN-GB2487918994",
+            "copyright": "Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Whanganui+National+park+New+Zealand&form=hpcapt&filters=HpDate%3a%2220260128_0000%22",
+            "title": "Flow with it",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_WhanganuiPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d1f62d13def0f7b5601ad6d4a7aa84ab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260127",
             "fullstartdate": "202601270000",
