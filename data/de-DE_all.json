@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-28 00:50:55",
-    "Total": 1372,
+    "LastUpdate": "2026-01-29 00:52:42",
+    "Total": 1373,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260128",
+            "fullstartdate": "202601282300",
+            "enddate": "20260129",
+            "url": "/th?id=OHR.MilwaukeeHall_DE-DE1517819604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilwaukeeHall_DE-DE1517819604",
+            "copyright": "Achtstöckiges offenes Atrium im Rathaus von Milwaukee, Wisconsin, USA (© lavin photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Milwaukee+Stadt+USA&form=hpcapt&filters=HpDate%3a%2220260128_2300%22",
+            "title": "Wo Geschichte nach oben führt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c4e2dfdd459efd5b31a31df19ff27a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260127",
             "fullstartdate": "202601272300",
