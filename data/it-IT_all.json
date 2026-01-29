@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-28 00:51:14",
-    "Total": 1372,
+    "LastUpdate": "2026-01-29 00:53:03",
+    "Total": 1373,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260128",
+            "fullstartdate": "202601282300",
+            "enddate": "20260129",
+            "url": "/th?id=OHR.ItalyBlackbird_IT-IT4018019243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ItalyBlackbird_IT-IT4018019243",
+            "copyright": "Merlo tra frutti di bosco (© Paolino Massimiliano Manuel/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giorni+della+merla&form=hpcapt",
+            "title": "La soglia del freddo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_ItalyBlackbird%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88264273b6d96761996fc3120f5d4088",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260127",
             "fullstartdate": "202601272300",
