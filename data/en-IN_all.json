@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-28 00:51:07",
-    "Total": 1372,
+    "LastUpdate": "2026-01-29 00:52:54",
+    "Total": 1373,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260128",
+            "fullstartdate": "202601281830",
+            "enddate": "20260129",
+            "url": "/th?id=OHR.MilwaukeeHall_EN-IN0132722943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilwaukeeHall_EN-IN0132722943",
+            "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Milwaukee+city&form=hpcapt&filters=HpDate%3a%2220260128_1830%22",
+            "title": "A tall story of Milwaukee",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e365fa88cac4bb30040680cf5cf0e86f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260127",
             "fullstartdate": "202601271830",
