@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-28 00:50:43",
-    "Total": 1372,
+    "LastUpdate": "2026-01-29 00:52:29",
+    "Total": 1373,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260128",
+            "fullstartdate": "202601281600",
+            "enddate": "20260129",
+            "url": "/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilwaukeeHall_ZH-CN5779477975",
+            "copyright": "密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AF%86%E5%B0%94%E6%B2%83%E5%9F%BA%E5%B8%82&form=hpcapt&mkt=zh-cn",
+            "title": "密尔沃基的传奇故事",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b4bc2c5d5f50c88ed51d6392ca8d7615",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260127",
             "fullstartdate": "202601271600",
