@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-30 00:53:04",
-    "Total": 1374,
+    "LastUpdate": "2026-01-31 00:51:25",
+    "Total": 1375,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260130",
+            "fullstartdate": "202601302300",
+            "enddate": "20260131",
+            "url": "/th?id=OHR.EtoshaZebra_FR-FR8636454138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EtoshaZebra_FR-FR8636454138",
+            "copyright": "Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=z%C3%A8bres+des+plaines&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+            "title": "Un mirage noir et blanc dans la savane",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dfd74251175875202b598cb0064c98fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260129",
             "fullstartdate": "202601292300",
