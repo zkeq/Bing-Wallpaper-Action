@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-30 00:52:44",
-    "Total": 1374,
+    "LastUpdate": "2026-01-31 00:51:04",
+    "Total": 1375,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260130",
+            "fullstartdate": "202601301500",
+            "enddate": "20260131",
+            "url": "/th?id=OHR.IceFestival2026_JA-JP1189462193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IceFestival2026_JA-JP1189462193",
+            "copyright": "ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%94%AF%E7%AC%8F%E6%B9%96%E6%B0%B7%E6%BF%A4%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260130_1500%22",
+            "title": "今日から千歳・支笏湖氷濤まつり",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_IceFestival2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72686f91286dd281cf660a873d14ce06",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260129",
             "fullstartdate": "202601291500",
