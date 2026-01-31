@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-30 00:52:48",
-    "Total": 1374,
+    "LastUpdate": "2026-01-31 00:51:09",
+    "Total": 1375,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260130",
+            "fullstartdate": "202601302300",
+            "enddate": "20260131",
+            "url": "/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EtoshaZebra_DE-DE4542235434",
+            "copyright": "Steppenzebras, Etosha-Nationalpark, Namibia (© Mogens Trolle/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Steppenzebras&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+            "title": "Liebe auf den ersten Streifen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "652e04976881fda50937b4a5347dd4aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260129",
             "fullstartdate": "202601292300",
