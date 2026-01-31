@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-30 00:52:52",
-    "Total": 1373,
+    "LastUpdate": "2026-01-31 00:51:13",
+    "Total": 1374,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260130",
+            "fullstartdate": "202601300500",
+            "enddate": "20260131",
+            "url": "/th?id=OHR.WinterludeKimono_EN-CA4738768244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinterludeKimono_EN-CA4738768244",
+            "copyright": "'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Winterlude+2026&form=hpcapt&filters=HpDate%3a%2220260130_0500%22",
+            "title": "Carved for the cold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_WinterludeKimono%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12a5de8bcaa392dde62138855c91185e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260129",
             "fullstartdate": "202601290500",
