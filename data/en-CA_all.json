@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-31 00:51:13",
-    "Total": 1374,
+    "LastUpdate": "2026-02-01 01:02:06",
+    "Total": 1375,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260131",
+            "fullstartdate": "202601310500",
+            "enddate": "20260201",
+            "url": "/th?id=OHR.EtoshaZebra_EN-CA5067971826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EtoshaZebra_EN-CA5067971826",
+            "copyright": "Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260131_0500%22",
+            "title": "Love at first stripe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_EtoshaZebra%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e332f765397908aa5e2c7587a50b753",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260130",
             "fullstartdate": "202601300500",
