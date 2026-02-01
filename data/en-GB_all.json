@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-31 00:51:17",
-    "Total": 1372,
+    "LastUpdate": "2026-02-01 01:02:10",
+    "Total": 1373,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260201",
+            "fullstartdate": "202602010000",
+            "enddate": "20260202",
+            "url": "/th?id=OHR.Olinda_EN-GB3341173663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Olinda_EN-GB3341173663",
+            "copyright": "Colourful house in Olinda, Brazil (© Robert Pekar/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Olinda+Brazil&form=hpcapt&filters=HpDate%3a%2220260201_0000%22",
+            "title": "Walls of wonder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_Olinda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a2f1764e8c9d3e351da6d6902bab98d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260131",
             "fullstartdate": "202601310000",
