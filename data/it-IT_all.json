@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-31 00:51:29",
-    "Total": 1375,
+    "LastUpdate": "2026-02-01 01:02:22",
+    "Total": 1376,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260131",
+            "fullstartdate": "202601312300",
+            "enddate": "20260201",
+            "url": "/th?id=OHR.Olinda_IT-IT4333912850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Olinda_IT-IT4333912850",
+            "copyright": "Casa colorata, Olinda, Pernambuco, Brasile (© Robert Pekar/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Olinda+Pernambuco+Brasile&form=hpcapt",
+            "title": "Calore e Colore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_Olinda%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df9878450a3b387fc9ece02cd14c6a3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260130",
             "fullstartdate": "202601302300",
