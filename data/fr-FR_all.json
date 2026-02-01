@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-01-31 00:51:25",
-    "Total": 1375,
+    "LastUpdate": "2026-02-01 01:02:18",
+    "Total": 1376,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260131",
+            "fullstartdate": "202601312300",
+            "enddate": "20260201",
+            "url": "/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmots_FR-FR0828345948",
+            "copyright": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=marmotte+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260131_2300%22",
+            "title": "L’ombre d’une promesse",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_AlpineMarmots%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "485812d282151026565a616fe4e236f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260130",
             "fullstartdate": "202601302300",
