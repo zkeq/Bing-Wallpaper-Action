@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-01 01:02:03",
-    "Total": 1376,
+    "LastUpdate": "2026-02-02 00:56:01",
+    "Total": 1377,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260201",
+            "fullstartdate": "202602012300",
+            "enddate": "20260202",
+            "url": "/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmots_DE-DE4432571270",
+            "copyright": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Alpenmurmeltiere&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+            "title": "Neugieriges Gemurmel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "80399661977cfe8ec1c9c00622ebdade",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260131",
             "fullstartdate": "202601312300",
