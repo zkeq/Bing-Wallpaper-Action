@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-01 01:01:50",
-    "Total": 1376,
+    "LastUpdate": "2026-02-02 00:55:49",
+    "Total": 1377,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260201",
+            "fullstartdate": "202602011600",
+            "enddate": "20260202",
+            "url": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910",
+            "copyright": "阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E5%9C%9F%E6%8B%A8%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+            "title": "影子的承诺",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "038d78f6d2a259e8ca9e24a650d85895",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260131",
             "fullstartdate": "202601311600",
