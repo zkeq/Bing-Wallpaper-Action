@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-01 01:02:22",
-    "Total": 1376,
+    "LastUpdate": "2026-02-02 00:56:21",
+    "Total": 1377,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260201",
+            "fullstartdate": "202602012300",
+            "enddate": "20260202",
+            "url": "/th?id=OHR.AlpineMarmots_IT-IT4461801484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmots_IT-IT4461801484",
+            "copyright": "Marmotte alpine, Parco Nazionale degli Alti Tauri, Austria (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Marmotta&form=hpcapt",
+            "title": "Sentinelle d’alta quota",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6298dd5183546a134f7d96602a9af185",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260131",
             "fullstartdate": "202601312300",
