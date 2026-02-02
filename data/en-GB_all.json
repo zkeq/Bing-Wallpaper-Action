@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-01 01:02:10",
-    "Total": 1373,
+    "LastUpdate": "2026-02-02 00:56:09",
+    "Total": 1374,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260202",
+            "fullstartdate": "202602020000",
+            "enddate": "20260203",
+            "url": "/th?id=OHR.AlpineMarmots_EN-GB8463846788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineMarmots_EN-GB8463846788",
+            "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Groundhog+Day+tradition&form=hpcapt&filters=HpDate%3a%2220260202_0000%22",
+            "title": "A shadow's promise",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d282f03496955ff9281655707fde7466",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260201",
             "fullstartdate": "202602010000",
