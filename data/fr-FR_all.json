@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-01 01:02:18",
-    "Total": 1376,
+    "LastUpdate": "2026-02-02 00:56:17",
+    "Total": 1377,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260201",
+            "fullstartdate": "202602012300",
+            "enddate": "20260202",
+            "url": "/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BretagneCrepe_FR-FR4282491151",
+            "copyright": "Le phare de Kermorvan au coucher de soleil, Bretagne, France (© Fisfra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Phare+Kermorvan&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+            "title": "Plutôt beurre sucre ou chocolat ?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_BretagneCrepe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8010f647712adebd44697f9e0ff256ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260131",
             "fullstartdate": "202601312300",
