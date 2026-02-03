@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-02 00:56:17",
-    "Total": 1377,
+    "LastUpdate": "2026-02-03 00:55:58",
+    "Total": 1378,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260202",
+            "fullstartdate": "202602022300",
+            "enddate": "20260203",
+            "url": "/th?id=OHR.FanetteIsland_FR-FR1712253597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanetteIsland_FR-FR1712253597",
+            "copyright": "Emerald Bay et Fanette Island, Lac Tahoe, Californie, États-Unis (© Bill Stevenson/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lac+Tahoe+Californie&form=hpcapt&filters=HpDate%3a%2220260202_2300%22",
+            "title": "Un lac d’une profondeur à couper le souffle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_FanetteIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "81af8924eb9092165b05d2bb09f520cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260201",
             "fullstartdate": "202602012300",
