@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-02 00:55:49",
-    "Total": 1377,
+    "LastUpdate": "2026-02-03 00:55:29",
+    "Total": 1378,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260202",
+            "fullstartdate": "202602021600",
+            "enddate": "20260203",
+            "url": "/th?id=OHR.FanetteIsland_ZH-CN6466809551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanetteIsland_ZH-CN6466809551",
+            "copyright": "翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%AA%E6%B5%A9%E6%B9%96%E8%8C%83%E5%86%85%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "太浩湖视觉盛宴",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_FanetteIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2501193f958f55d35603ce5bc3583faa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260201",
             "fullstartdate": "202602011600",
