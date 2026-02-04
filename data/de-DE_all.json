@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-03 00:55:42",
-    "Total": 1378,
+    "LastUpdate": "2026-02-04 00:51:37",
+    "Total": 1379,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260203",
+            "fullstartdate": "202602032300",
+            "enddate": "20260204",
+            "url": "/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313",
+            "copyright": "Speicherstadt in der Dämmerung, Hamburg (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hamburg+Speicherstadt&form=hpcapt&filters=HpDate%3a%2220260203_2300%22",
+            "title": "Magie der Speicherstadt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_HamburgSpeicherstadt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66322ba5bd6a7e5cf6ecc26534e050ec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260202",
             "fullstartdate": "202602022300",
