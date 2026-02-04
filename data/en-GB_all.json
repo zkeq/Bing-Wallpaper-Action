@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-03 00:55:50",
-    "Total": 1375,
+    "LastUpdate": "2026-02-04 00:51:44",
+    "Total": 1376,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260204",
+            "fullstartdate": "202602040000",
+            "enddate": "20260205",
+            "url": "/th?id=OHR.AndermattSwiss_EN-GB4496349406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AndermattSwiss_EN-GB4496349406",
+            "copyright": "Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Andermatt+Switzerland&form=hpcapt&filters=HpDate%3a%2220260204_0000%22",
+            "title": "A Swiss escape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_AndermattSwiss%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4fc5a19b54451dc0e94ad26892893949",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260203",
             "fullstartdate": "202602030000",
