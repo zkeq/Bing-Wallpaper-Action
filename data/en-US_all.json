@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-03 00:55:34",
-    "Total": 1378,
+    "LastUpdate": "2026-02-04 00:51:29",
+    "Total": 1379,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260203",
+            "fullstartdate": "202602030800",
+            "enddate": "20260204",
+            "url": "/th?id=OHR.FanetteIsland_EN-US0236094374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FanetteIsland_EN-US0236094374",
+            "copyright": "Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fannette+Island&form=hpcapt&filters=HpDate%3a%2220260203_0800%22",
+            "title": "Tahoe serving views",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_FanetteIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "069a784efc69451abd17952f7d2c9956",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260202",
             "fullstartdate": "202602020800",
