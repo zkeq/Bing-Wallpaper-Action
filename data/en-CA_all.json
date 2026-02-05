@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-04 00:51:40",
-    "Total": 1378,
+    "LastUpdate": "2026-02-05 00:55:08",
+    "Total": 1379,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260204",
+            "fullstartdate": "202602040500",
+            "enddate": "20260205",
+            "url": "/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062",
+            "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Red+kite+bird&form=hpcapt&filters=HpDate%3a%2220260204_0500%22",
+            "title": "Grace on the wing",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_BigGardenBirdwatch2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2a0e570e5461c8c71e714ce04a4d525a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260203",
             "fullstartdate": "202602030500",
