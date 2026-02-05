@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-04 00:51:48",
-    "Total": 1379,
+    "LastUpdate": "2026-02-05 00:55:16",
+    "Total": 1380,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260204",
+            "fullstartdate": "202602041830",
+            "enddate": "20260205",
+            "url": "/th?id=OHR.MaltaSalt_EN-IN2232887913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaltaSalt_EN-IN2232887913",
+            "copyright": "Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260204_1830%22",
+            "title": "Stuck in a grid",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9930d49a388e9f52c63780be75f6fc76",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260203",
             "fullstartdate": "202602031830",
