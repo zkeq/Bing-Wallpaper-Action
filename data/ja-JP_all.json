@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-04 00:51:33",
-    "Total": 1379,
+    "LastUpdate": "2026-02-05 00:55:01",
+    "Total": 1380,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260204",
+            "fullstartdate": "202602041500",
+            "enddate": "20260205",
+            "url": "/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaltaSalt_JA-JP9601510868",
+            "copyright": "ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B4%E3%82%BE%E5%B3%B6%E3%81%AE%E5%A1%A9%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260204_1500%22",
+            "title": "海岸沿いに広がる伝統的な塩田",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "54a71b65b327c9df51751e12bafa22c2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260203",
             "fullstartdate": "202602031500",
