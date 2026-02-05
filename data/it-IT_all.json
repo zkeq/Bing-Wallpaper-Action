@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-04 00:51:56",
-    "Total": 1379,
+    "LastUpdate": "2026-02-05 00:55:24",
+    "Total": 1380,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260204",
+            "fullstartdate": "202602042300",
+            "enddate": "20260205",
+            "url": "/th?id=OHR.MaltaSalt_IT-IT4724990773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaltaSalt_IT-IT4724990773",
+            "copyright": "Bacini di evaporazione del sale sull'isola di Gozo, Malta (© Marius Roman/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gozo+Malta&form=hpcapt",
+            "title": "Sole, Sale, Sole",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de1e59953ae32a7975f9e2fe99bacf0a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260203",
             "fullstartdate": "202602032300",
