@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-05 00:55:04",
-    "Total": 1380,
+    "LastUpdate": "2026-02-06 00:52:32",
+    "Total": 1381,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260205",
+            "fullstartdate": "202602052300",
+            "enddate": "20260206",
+            "url": "/th?id=OHR.GiauPass_DE-DE5864987336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiauPass_DE-DE5864987336",
+            "copyright": "Gipfel Ra Gusela am Giau-Pass nahe Cortina d’Ampezzo, Italien (© Tomasz Podolski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Olympische+Winterspiele+2026&form=hpcapt&filters=HpDate%3a%2220260205_2300%22",
+            "title": "Die Dolomiten im Olympiafieber",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "66312ee3f1da160d279b19401cba4456",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260204",
             "fullstartdate": "202602042300",
