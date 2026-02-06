@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-05 00:55:20",
-    "Total": 1380,
+    "LastUpdate": "2026-02-06 00:52:48",
+    "Total": 1381,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260205",
+            "fullstartdate": "202602052300",
+            "enddate": "20260206",
+            "url": "/th?id=OHR.GiauPass_FR-FR7292387386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiauPass_FR-FR7292387386",
+            "copyright": "Le Ra Gusela, col de Giau Pass, près de Cortina d'Ampezzo, Italie (© Tomasz Podolski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jeux+Olympiques+hiver+2026&form=hpcapt&filters=HpDate%3a%2220260205_2300%22",
+            "title": "Un sommet qui tombe à pic pour les JO d’hiver",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f5e96d199a9c5d87fa03088b00637f80",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260204",
             "fullstartdate": "202602042300",
