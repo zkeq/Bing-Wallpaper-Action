@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-05 00:55:01",
-    "Total": 1380,
+    "LastUpdate": "2026-02-06 00:52:28",
+    "Total": 1381,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260205",
+            "fullstartdate": "202602051500",
+            "enddate": "20260206",
+            "url": "/th?id=OHR.GiauPass_JA-JP8605769992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiauPass_JA-JP8605769992",
+            "copyright": "ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%BB%E3%82%B0%E3%82%BB%E3%83%A9%E5%B3%B0&form=hpcapt&filters=HpDate%3a%2220260205_1500%22",
+            "title": "今日から 2026 冬季五輪",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "26cb8d3daf134a6d0ff5f8faccf313c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260204",
             "fullstartdate": "202602041500",
