@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-05 00:55:12",
-    "Total": 1377,
+    "LastUpdate": "2026-02-06 00:52:40",
+    "Total": 1378,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260206",
+            "fullstartdate": "202602060000",
+            "enddate": "20260207",
+            "url": "/th?id=OHR.GiauPass_EN-GB8439205435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiauPass_EN-GB8439205435",
+            "copyright": "Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Winter+Olympics+2026&form=hpcapt&filters=HpDate%3a%2220260206_0000%22",
+            "title": "Ra Gusela—peak of the Olympic season",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_GiauPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8cd2335cf98d98fefaac825868d3aad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260205",
             "fullstartdate": "202602050000",
