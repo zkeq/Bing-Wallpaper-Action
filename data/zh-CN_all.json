@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-06 00:52:20",
-    "Total": 1381,
+    "LastUpdate": "2026-02-07 00:51:28",
+    "Total": 1382,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260206",
+            "fullstartdate": "202602061600",
+            "enddate": "20260207",
+            "url": "/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalarUyuni_ZH-CN4163237089",
+            "copyright": "玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E4%B9%8C%E5%B0%A4%E5%B0%BC%E7%9B%90%E6%B2%BC&form=hpcapt&mkt=zh-cn",
+            "title": "在盐沼与天空之间，万物静谧",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5e49da46885c74ac1bfe2d0a1dd896b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260205",
             "fullstartdate": "202602051600",
