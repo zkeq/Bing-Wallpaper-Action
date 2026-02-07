@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-06 00:52:40",
-    "Total": 1378,
+    "LastUpdate": "2026-02-07 00:51:49",
+    "Total": 1379,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260207",
+            "fullstartdate": "202602070000",
+            "enddate": "20260208",
+            "url": "/th?id=OHR.SalarUyuni_EN-GB6291060813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalarUyuni_EN-GB6291060813",
+            "copyright": "Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivia&form=hpcapt&filters=HpDate%3a%2220260207_0000%22",
+            "title": "Salt, sky and the stillness between",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_SalarUyuni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc312af105e0f1b22d953f0559c34228",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260206",
             "fullstartdate": "202602060000",
