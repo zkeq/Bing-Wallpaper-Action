@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-06 00:52:32",
-    "Total": 1381,
+    "LastUpdate": "2026-02-07 00:51:41",
+    "Total": 1382,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260206",
+            "fullstartdate": "202602062300",
+            "enddate": "20260207",
+            "url": "/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalarUyuni_DE-DE1726865557",
+            "copyright": "Salzebene Salar de Uyuni, Bolivien (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivien&form=hpcapt&filters=HpDate%3a%2220260206_2300%22",
+            "title": "Stille zwischen Salz und Himmel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77a5a775bf59c4d09a64f71f78ad7475",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260205",
             "fullstartdate": "202602052300",
