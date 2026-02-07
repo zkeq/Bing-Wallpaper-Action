@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-06 00:52:28",
-    "Total": 1381,
+    "LastUpdate": "2026-02-07 00:51:37",
+    "Total": 1382,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260206",
+            "fullstartdate": "202602061500",
+            "enddate": "20260207",
+            "url": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944",
+            "copyright": "大通公園, 札幌市 (© Reuters/Kimimasa Mayama)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%80%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260206_1500%22",
+            "title": "さっぽろ雪まつり開催中",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SapporoSnowFestival2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ec02227545a716597727bbdfd590af8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260205",
             "fullstartdate": "202602051500",
