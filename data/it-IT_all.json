@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-06 00:52:52",
-    "Total": 1381,
+    "LastUpdate": "2026-02-07 00:52:01",
+    "Total": 1382,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260206",
+            "fullstartdate": "202602062300",
+            "enddate": "20260207",
+            "url": "/th?id=OHR.SalarUyuni_IT-IT0441176057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SalarUyuni_IT-IT0441176057",
+            "copyright": "Salina del Salar de Uyuni, Bolivia (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=salar+de+uyuni+Bolivia&form=hpcapt",
+            "title": "Il silenzio del sale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b96e832a8264357d1408ac2e682f884b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260205",
             "fullstartdate": "202602052300",
