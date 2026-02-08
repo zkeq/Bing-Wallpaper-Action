@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-07 00:51:49",
-    "Total": 1379,
+    "LastUpdate": "2026-02-08 01:07:57",
+    "Total": 1380,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260208",
+            "fullstartdate": "202602080000",
+            "enddate": "20260209",
+            "url": "/th?id=OHR.CorfuGreece_EN-GB6599547326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorfuGreece_EN-GB6599547326",
+            "copyright": "Corfu, Greece (© whitewizzard/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Corfu+Greece&form=hpcapt&filters=HpDate%3a%2220260208_0000%22",
+            "title": "From quiet nights to adventurous days",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_CorfuGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "63fc90d3d7fbd703ca7983e1756c52ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260207",
             "fullstartdate": "202602070000",
