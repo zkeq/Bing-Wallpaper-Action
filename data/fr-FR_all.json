@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-07 00:51:57",
-    "Total": 1382,
+    "LastUpdate": "2026-02-08 01:08:05",
+    "Total": 1383,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260207",
+            "fullstartdate": "202602072300",
+            "enddate": "20260208",
+            "url": "/th?id=OHR.CorfuGreece_FR-FR6104979945_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CorfuGreece_FR-FR6104979945",
+            "copyright": "Corfou de nuit, Grèce (© whitewizzard/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Corfou+Gr%C3%A8ce&form=hpcapt&filters=HpDate%3a%2220260207_2300%22",
+            "title": "Éblouissante de jour comme de nuit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "830217a94e069bd3e6f8e9fab17d2dba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260206",
             "fullstartdate": "202602062300",
