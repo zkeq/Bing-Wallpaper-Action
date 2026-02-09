@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-08 01:07:37",
-    "Total": 1383,
+    "LastUpdate": "2026-02-09 00:56:50",
+    "Total": 1384,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260208",
+            "fullstartdate": "202602081600",
+            "enddate": "20260209",
+            "url": "/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeopardCat_ZH-CN4431427444",
+            "copyright": "阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B1%B9%E7%8C%AB&form=hpcapt&mkt=zh-cn",
+            "title": "斑纹流转",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_LeopardCat%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1d9bb3429311c1c2e04867f8a4ea7877",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260207",
             "fullstartdate": "202602071600",
