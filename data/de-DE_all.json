@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-09 00:57:35",
-    "Total": 1384,
+    "LastUpdate": "2026-02-10 01:02:15",
+    "Total": 1385,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260209",
+            "fullstartdate": "202602092300",
+            "enddate": "20260210",
+            "url": "/th?id=OHR.IbizaIslets_DE-DE2745456055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IbizaIslets_DE-DE2745456055",
+            "copyright": "Felsinseln Es Vedrà und Es Vedranell, Ibiza, Spanien (© L. Apolli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=hpcapt&filters=HpDate%3a%2220260209_2300%22",
+            "title": "Wo die Sirenen singen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_IbizaIslets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d7e20e36cbe97275c597c6d3087a904",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260208",
             "fullstartdate": "202602082300",
