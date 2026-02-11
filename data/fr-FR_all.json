@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-10 01:02:32",
-    "Total": 1385,
+    "LastUpdate": "2026-02-11 01:01:15",
+    "Total": 1386,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260210",
+            "fullstartdate": "202602102300",
+            "enddate": "20260211",
+            "url": "/th?id=OHR.NiceFestival_FR-FR9995350802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NiceFestival_FR-FR9995350802",
+            "copyright": "Détails d’un masque du Carnaval de Nice, Alpes-Maritimes (© litchi cyril photographe/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Carnaval+de+Nice&form=hpcapt&filters=HpDate%3a%2220260210_2300%22",
+            "title": "Quand les tambours font battre le cœur de Nice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_NiceFestival%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "276f5a2dc47326bf0228cba9cf743ea8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260209",
             "fullstartdate": "202602092300",
