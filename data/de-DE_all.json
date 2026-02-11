@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-10 01:02:15",
-    "Total": 1385,
+    "LastUpdate": "2026-02-11 01:00:59",
+    "Total": 1386,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260210",
+            "fullstartdate": "202602102300",
+            "enddate": "20260211",
+            "url": "/th?id=OHR.BadwaterFlats_DE-DE3152128237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadwaterFlats_DE-DE3152128237",
+            "copyright": "Salzpfannen im Badwater Basin, Death‑Valley‑Nationalpark, Kalifornien, USA (© Jim Patterson/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Death-Valley-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260210_2300%22",
+            "title": "Tal der Gegensätze",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_BadwaterFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "685ee0d2a73c3fed4566b8083e8f5759",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260209",
             "fullstartdate": "202602092300",
