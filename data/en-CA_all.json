@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-11 01:01:03",
-    "Total": 1385,
+    "LastUpdate": "2026-02-12 00:55:40",
+    "Total": 1386,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260211",
+            "fullstartdate": "202602110500",
+            "enddate": "20260212",
+            "url": "/th?id=OHR.BadwaterFlats_EN-CA8544222126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadwaterFlats_EN-CA8544222126",
+            "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, United States (© Jim Patterson/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Death+Valley+National+Park&form=hpcapt&filters=HpDate%3a%2220260211_0500%22",
+            "title": "The valley of contrasts",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BadwaterFlats%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "74498407b51c8a11406f12a606b3ee56",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260210",
             "fullstartdate": "202602100500",
