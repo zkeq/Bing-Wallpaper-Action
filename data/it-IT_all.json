@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-11 01:01:19",
-    "Total": 1386,
+    "LastUpdate": "2026-02-12 00:55:56",
+    "Total": 1387,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260211",
+            "fullstartdate": "202602112300",
+            "enddate": "20260212",
+            "url": "/th?id=OHR.DarwinBooby_IT-IT4879885475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DarwinBooby_IT-IT4879885475",
+            "copyright": "Sula dai piedi azzurri, Isole Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Darwin+Day&form=hpcapt",
+            "title": "Un cambio vitale?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_DarwinBooby%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "391d91d1be127600f28af8f015d1774f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260210",
             "fullstartdate": "202602102300",
