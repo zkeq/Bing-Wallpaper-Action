@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-11 01:00:59",
-    "Total": 1386,
+    "LastUpdate": "2026-02-12 00:55:36",
+    "Total": 1387,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260211",
+            "fullstartdate": "202602112300",
+            "enddate": "20260212",
+            "url": "/th?id=OHR.BerlinaleHall_DE-DE3416408525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BerlinaleHall_DE-DE3416408525",
+            "copyright": "Innenansicht des Hauptsaals des Kinos Zoo Palast in Berlin (© dpa picture alliance/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationale+Filmfestspiele+Berlin&form=hpcapt&filters=HpDate%3a%2220260211_2300%22",
+            "title": "Filmkunst, Vielfalt und Tradition",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BerlinaleHall%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1e6b5d6b4dbba1c03bbd53f48ead1a1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260210",
             "fullstartdate": "202602102300",
