@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-12 00:55:40",
-    "Total": 1386,
+    "LastUpdate": "2026-02-13 00:58:46",
+    "Total": 1387,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260212",
+            "fullstartdate": "202602120500",
+            "enddate": "20260213",
+            "url": "/th?id=OHR.DarwinBooby_EN-CA8905313156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DarwinBooby_EN-CA8905313156",
+            "copyright": "Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Darwin+Day&form=hpcapt&filters=HpDate%3a%2220260212_0500%22",
+            "title": "Evolution in focus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_DarwinBooby%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c518f83284a437a3d426206385e00ba1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260211",
             "fullstartdate": "202602110500",
