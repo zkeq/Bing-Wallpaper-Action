@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-12 00:55:24",
-    "Total": 1387,
+    "LastUpdate": "2026-02-13 00:58:29",
+    "Total": 1388,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260212",
+            "fullstartdate": "202602121600",
+            "enddate": "20260213",
+            "url": "/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FriendshipBridge_ZH-CN5199165736",
+            "copyright": "连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AC%AC%E4%B8%89%E5%BA%A7%E6%B3%B0%E8%80%81%E5%8F%8B%E8%B0%8A%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "为拉近距离而建",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8b8996dc66e890d23857e90d02e56fa9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260211",
             "fullstartdate": "202602111600",
