@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-12 00:55:36",
-    "Total": 1387,
+    "LastUpdate": "2026-02-13 00:58:42",
+    "Total": 1388,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260212",
+            "fullstartdate": "202602122300",
+            "enddate": "20260213",
+            "url": "/th?id=OHR.FriendshipBridge_DE-DE8245998463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FriendshipBridge_DE-DE8245998463",
+            "copyright": "Dritte Thailändisch‑Laotische Freundschaftsbrücke, die Laos und Thailand verbindet (© chaiyut samsuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dritte+Thail%C3%A4ndisch-Laotische+Freundschaftsbr%C3%BCcke&form=hpcapt&filters=HpDate%3a%2220260212_2300%22",
+            "title": "Brücken, die Nähe schaffen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "633e4fb892c4d697202c5875ddd9014f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260211",
             "fullstartdate": "202602112300",
