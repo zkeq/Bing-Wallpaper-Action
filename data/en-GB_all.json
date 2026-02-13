@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-12 00:55:44",
-    "Total": 1384,
+    "LastUpdate": "2026-02-13 00:58:50",
+    "Total": 1385,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260213",
+            "fullstartdate": "202602130000",
+            "enddate": "20260214",
+            "url": "/th?id=OHR.FriendshipBridge_EN-GB8080277679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FriendshipBridge_EN-GB8080277679",
+            "copyright": "Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Third+Thai+Lao+Friendship+Bridge&form=hpcapt&filters=HpDate%3a%2220260213_0000%22",
+            "title": "Built to bring closer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_FriendshipBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "890d8a81156d5a61284aa651080788e2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260212",
             "fullstartdate": "202602120000",
