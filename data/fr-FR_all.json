@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-12 00:55:52",
-    "Total": 1387,
+    "LastUpdate": "2026-02-13 00:58:58",
+    "Total": 1388,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260212",
+            "fullstartdate": "202602122300",
+            "enddate": "20260213",
+            "url": "/th?id=OHR.FriendshipBridge_FR-FR5704773652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FriendshipBridge_FR-FR5704773652",
+            "copyright": "Troisième pont de l’amitié lao-thaïlandaise reliant le Laos et la Thaïlande (© chaiyut samsuk/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Troisi%C3%A8me+pont+de+l%E2%80%99amiti%C3%A9+lao-tha%C3%AFlandaise&form=hpcapt&filters=HpDate%3a%2220260212_2300%22",
+            "title": "Construit pour rapprocher",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8b8452ef4ce946df3ddc0e25af016f3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260211",
             "fullstartdate": "202602112300",
