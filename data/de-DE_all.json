@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-13 00:58:42",
-    "Total": 1388,
+    "LastUpdate": "2026-02-14 00:53:26",
+    "Total": 1389,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260213",
+            "fullstartdate": "202602132300",
+            "enddate": "20260214",
+            "url": "/th?id=OHR.ValentineHearts_DE-DE3786630140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValentineHearts_DE-DE3786630140",
+            "copyright": "Tränendes Herz (© Dorene Hookey/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Valentinstag&form=hpcapt&filters=HpDate%3a%2220260213_2300%22",
+            "title": "Liebe in voller Blüte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "35677c36d511a405c1f2d5b8d23b8a45",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260212",
             "fullstartdate": "202602122300",
