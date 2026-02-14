@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-13 00:59:02",
-    "Total": 1388,
+    "LastUpdate": "2026-02-14 00:53:46",
+    "Total": 1389,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260213",
+            "fullstartdate": "202602132300",
+            "enddate": "20260214",
+            "url": "/th?id=OHR.SanValentino_IT-IT4953032598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanValentino_IT-IT4953032598",
+            "copyright": "Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=San+Valentino&form=hpcapt",
+            "title": "Dove nasce l'amore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_SanValentino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9aadc231128ec1c057cf75b024c666da",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260212",
             "fullstartdate": "202602122300",
