@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-13 00:58:29",
-    "Total": 1388,
+    "LastUpdate": "2026-02-14 00:53:13",
+    "Total": 1389,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260213",
+            "fullstartdate": "202602131600",
+            "enddate": "20260214",
+            "url": "/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValentineHearts_ZH-CN5332774664",
+            "copyright": "荷包牡丹 (© Dorene Hookey/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%83%85%E4%BA%BA%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "爱意绽放",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12f4f733d7a10cad65a150cffd972d85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260212",
             "fullstartdate": "202602121600",
