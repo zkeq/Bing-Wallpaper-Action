@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-14 00:53:42",
-    "Total": 1389,
+    "LastUpdate": "2026-02-15 00:58:48",
+    "Total": 1390,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260214",
+            "fullstartdate": "202602142300",
+            "enddate": "20260215",
+            "url": "/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontereyHumpbacks_FR-FR2588165622",
+            "copyright": "Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Baleine+%C3%A0+bosse&form=hpcapt&filters=HpDate%3a%2220260214_2300%22",
+            "title": "Un chant sous les vagues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_MontereyHumpbacks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ac8be6b3266580415c36b344c7f80dd5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260213",
             "fullstartdate": "202602132300",
