@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-14 00:53:13",
-    "Total": 1389,
+    "LastUpdate": "2026-02-15 00:58:18",
+    "Total": 1390,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260214",
+            "fullstartdate": "202602141600",
+            "enddate": "20260215",
+            "url": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466",
+            "copyright": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%B2%B8%E9%B1%BC&form=hpcapt&mkt=zh-cn",
+            "title": "浪涛下的歌谣",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_MontereyHumpbacks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9b375bb1d202badabad4471eee4051c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260213",
             "fullstartdate": "202602131600",
