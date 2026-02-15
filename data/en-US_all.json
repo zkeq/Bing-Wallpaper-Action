@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-14 00:53:18",
-    "Total": 1389,
+    "LastUpdate": "2026-02-15 00:58:23",
+    "Total": 1390,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260214",
+            "fullstartdate": "202602140800",
+            "enddate": "20260215",
+            "url": "/th?id=OHR.ValentineHearts_EN-US6208359150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValentineHearts_EN-US6208359150",
+            "copyright": "Bleeding hearts (© Dorene Hookey/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Valentines+day&form=hpcapt&filters=HpDate%3a%2220260214_0800%22",
+            "title": "Love in bloom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_ValentineHearts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7f7819e956a91a428f0b8c4d97da2426",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260213",
             "fullstartdate": "202602130800",
