@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-15 00:58:43",
-    "Total": 1390,
+    "LastUpdate": "2026-02-16 00:56:40",
+    "Total": 1391,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260215",
+            "fullstartdate": "202602151830",
+            "enddate": "20260216",
+            "url": "/th?id=OHR.BanffWinter_EN-IN9640409909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BanffWinter_EN-IN9640409909",
+            "copyright": "Scenic view of lake by snowcapped mountains in Banff, Alberta, Canada (© Herbert Rong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Banff+town&form=hpcapt&filters=HpDate%3a%2220260215_1830%22",
+            "title": "When Banff slows down",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_BanffWinter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "605996be34410a53368249e667510fb8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260214",
             "fullstartdate": "202602141830",
