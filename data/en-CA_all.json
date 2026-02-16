@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-15 00:58:35",
-    "Total": 1389,
+    "LastUpdate": "2026-02-16 00:56:31",
+    "Total": 1390,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260215",
+            "fullstartdate": "202602150500",
+            "enddate": "20260216",
+            "url": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533",
+            "copyright": "Humpback whales in Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Whale&form=hpcapt&filters=HpDate%3a%2220260215_0500%22",
+            "title": "Songs beneath the waves",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_MontereyHumpbacks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93be3087894dbaf8217014416334bd08",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260214",
             "fullstartdate": "202602140500",
