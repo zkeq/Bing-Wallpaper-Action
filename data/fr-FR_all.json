@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-15 00:58:48",
-    "Total": 1390,
+    "LastUpdate": "2026-02-16 00:56:45",
+    "Total": 1391,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260215",
+            "fullstartdate": "202602152300",
+            "enddate": "20260216",
+            "url": "/th?id=OHR.Bornand_FR-FR4225399243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Bornand_FR-FR4225399243",
+            "copyright": "Le Grand-Bornand, Haute-Savoie (© JACQUES Pierre/hemis.fr/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Le+Grand-Bornand&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+            "title": "Parfait pour un grand bol d’air",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_Bornand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f7767b51007a3d029ed26c053f55fe05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260214",
             "fullstartdate": "202602142300",
