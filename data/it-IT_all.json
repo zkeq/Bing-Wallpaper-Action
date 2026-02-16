@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-15 00:58:52",
-    "Total": 1390,
+    "LastUpdate": "2026-02-16 00:56:49",
+    "Total": 1391,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260215",
+            "fullstartdate": "202602152300",
+            "enddate": "20260216",
+            "url": "/th?id=OHR.DragonsEyeRock_IT-IT5246962899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonsEyeRock_IT-IT5246962899",
+            "copyright": "Formazione rocciosa Dragon's Eye, spiaggia di Uttakleiv, Norvegia (© reisegraf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Occhio+del+Drago+Uttakleiv&form=hpcapt",
+            "title": "Il mito del drago",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_DragonsEyeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25640d2e93309aed31e123314f5ff3cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260214",
             "fullstartdate": "202602142300",
