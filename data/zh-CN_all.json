@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-16 00:56:13",
-    "Total": 1391,
+    "LastUpdate": "2026-02-17 00:54:55",
+    "Total": 1392,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260216",
+            "fullstartdate": "202602161600",
+            "enddate": "20260217",
+            "url": "/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringFestivalY26_ZH-CN0228318064",
+            "copyright": "中国春节传统汉字“福” (© DuKai摄影师/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=2026%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "福气满满，马年大吉",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_SpringFestivalY26%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "feb0de4c3e69a31cf594fa921b5d503e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260215",
             "fullstartdate": "202602151600",
