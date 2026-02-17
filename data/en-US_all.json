@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-16 00:56:18",
-    "Total": 1391,
+    "LastUpdate": "2026-02-17 00:55:00",
+    "Total": 1392,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260216",
+            "fullstartdate": "202602160800",
+            "enddate": "20260217",
+            "url": "/th?id=OHR.PresidentsDay_EN-US6598155144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PresidentsDay_EN-US6598155144",
+            "copyright": "Lincoln Memorial, Washington, DC (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Presidents+Day&form=hpcapt&filters=HpDate%3a%2220260216_0800%22",
+            "title": "Legacies in view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_PresidentsDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afcd8b1b4fab850c85f2eb139c9d0b9a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260215",
             "fullstartdate": "202602150800",
