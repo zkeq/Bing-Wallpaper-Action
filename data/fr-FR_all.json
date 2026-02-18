@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-17 00:55:23",
-    "Total": 1392,
+    "LastUpdate": "2026-02-18 00:56:18",
+    "Total": 1393,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260217",
+            "fullstartdate": "202602172300",
+            "enddate": "20260218",
+            "url": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723",
+            "copyright": "Chevaux de Przewalski (© Nemyrivskyi Viacheslav/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cheval+de+Przewalski&form=hpcapt&filters=HpDate%3a%2220260217_2300%22",
+            "title": "Nés pour rester sauvages",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_PrzewalskisHorse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95608b4f2f0755101fd0f4afcc837fbf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260216",
             "fullstartdate": "202602162300",
