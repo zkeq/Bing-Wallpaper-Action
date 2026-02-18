@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-17 00:55:11",
-    "Total": 1391,
+    "LastUpdate": "2026-02-18 00:56:06",
+    "Total": 1392,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260217",
+            "fullstartdate": "202602170500",
+            "enddate": "20260218",
+            "url": "/th?id=OHR.NewYearLantern_EN-CA1106555722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NewYearLantern_EN-CA1106555722",
+            "copyright": "Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Chinese+New+Year&form=hpcapt&filters=HpDate%3a%2220260217_0500%22",
+            "title": "Fifteen days of light",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_NewYearLantern%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "74fa0882cb8fea819357e9f7a423b886",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260216",
             "fullstartdate": "202602160500",
