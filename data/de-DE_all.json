@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-17 00:55:07",
-    "Total": 1392,
+    "LastUpdate": "2026-02-18 00:56:02",
+    "Total": 1393,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260217",
+            "fullstartdate": "202602172300",
+            "enddate": "20260218",
+            "url": "/th?id=OHR.PrzewalskisHorse_DE-DE2303566149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrzewalskisHorse_DE-DE2303566149",
+            "copyright": "Przewalski-Pferde (© Nemyrivskyi Viacheslav/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Przewalski-Pferd&form=hpcapt&filters=HpDate%3a%2220260217_2300%22",
+            "title": "Letzte Spur der Wildheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_PrzewalskisHorse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b6c72565ede9170695c7c48a46603ec8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260216",
             "fullstartdate": "202602162300",
