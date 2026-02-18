@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-17 00:55:15",
-    "Total": 1389,
+    "LastUpdate": "2026-02-18 00:56:10",
+    "Total": 1390,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260218",
+            "fullstartdate": "202602180000",
+            "enddate": "20260219",
+            "url": "/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrzewalskisHorse_EN-GB1150597463",
+            "copyright": "Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Przewalskis+horse&form=hpcapt&filters=HpDate%3a%2220260218_0000%22",
+            "title": "Born to stay wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_PrzewalskisHorse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "00b38948d170237af45e0896399e84a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260217",
             "fullstartdate": "202602170000",
