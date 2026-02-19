@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-18 00:56:18",
-    "Total": 1393,
+    "LastUpdate": "2026-02-19 00:56:22",
+    "Total": 1394,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260218",
+            "fullstartdate": "202602182300",
+            "enddate": "20260219",
+            "url": "/th?id=OHR.DragonsEyeRock_FR-FR6691267699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonsEyeRock_FR-FR6691267699",
+            "copyright": "Dragon's Eye, formation rocheuse sur la plage d’Uttakleiv, Norvège (© reisegraf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=plage+d%E2%80%99Uttakleiv+Norv%C3%A8ge&form=hpcapt&filters=HpDate%3a%2220260218_2300%22",
+            "title": "Un regard hypnotisant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_DragonsEyeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d661feb3ca3aabd0ad62661ad950b6d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260217",
             "fullstartdate": "202602172300",
