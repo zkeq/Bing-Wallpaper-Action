@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-18 00:56:22",
-    "Total": 1393,
+    "LastUpdate": "2026-02-19 00:56:26",
+    "Total": 1394,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260218",
+            "fullstartdate": "202602182300",
+            "enddate": "20260219",
+            "url": "/th?id=OHR.GiauPass_IT-IT5498738884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GiauPass_IT-IT5498738884",
+            "copyright": "Cima Ra Gusela, Passo Giau, Cortina d'Ampezzo, Veneto (© Tomasz Podolski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ra+Gusela&form=hpcapt",
+            "title": "Oltre la cima",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_GiauPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7515fab0c70d37bf546da854ad82f58e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260217",
             "fullstartdate": "202602172300",
