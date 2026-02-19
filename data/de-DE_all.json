@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-18 00:56:02",
-    "Total": 1393,
+    "LastUpdate": "2026-02-19 00:56:06",
+    "Total": 1394,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260218",
+            "fullstartdate": "202602182300",
+            "enddate": "20260219",
+            "url": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680",
+            "copyright": "Die Felsformation Dragon’s Eye am Strand von Uttakleiv, Norwegen (© reisegraf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Uttakleiv+Strand+Norwegen&form=hpcapt&filters=HpDate%3a%2220260218_2300%22",
+            "title": "Im Blick des Drachen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_DragonsEyeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a713d08adb4b14f32eb14a3f75a110bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260217",
             "fullstartdate": "202602172300",
