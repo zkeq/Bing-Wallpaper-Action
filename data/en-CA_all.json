@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-19 00:56:10",
-    "Total": 1393,
+    "LastUpdate": "2026-02-20 00:52:49",
+    "Total": 1394,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260219",
+            "fullstartdate": "202602190500",
+            "enddate": "20260220",
+            "url": "/th?id=OHR.DragonsEyeRock_EN-CA2213623928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonsEyeRock_EN-CA2213623928",
+            "copyright": "The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Uttakleiv+Beach+Norway&form=hpcapt&filters=HpDate%3a%2220260219_0500%22",
+            "title": "Where the land stares back",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_DragonsEyeRock%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a871c1aba1cac8188dbe12aa68ffbc4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260218",
             "fullstartdate": "202602180500",
