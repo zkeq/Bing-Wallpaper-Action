@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-19 00:56:26",
-    "Total": 1394,
+    "LastUpdate": "2026-02-20 00:53:05",
+    "Total": 1395,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260219",
+            "fullstartdate": "202602192300",
+            "enddate": "20260220",
+            "url": "/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdamsFirefall_IT-IT7705285382",
+            "copyright": "Cascata Horsetail, Parco Nazionale di Yosemite, California, USA (© Jorge Villalba/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cascata+Horsetail&form=hpcapt",
+            "title": "Dove cade la luce",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb4d8ed099f6dc3b6106efc56c5e334a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260218",
             "fullstartdate": "202602182300",
