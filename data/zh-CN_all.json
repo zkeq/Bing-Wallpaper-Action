@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-19 00:55:52",
-    "Total": 1394,
+    "LastUpdate": "2026-02-20 00:52:32",
+    "Total": 1395,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260219",
+            "fullstartdate": "202602191600",
+            "enddate": "20260220",
+            "url": "/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdamsFirefall_ZH-CN9409143565",
+            "copyright": "约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A6%E5%A1%9E%E7%B1%B3%E8%92%82%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E9%87%8C%E7%9A%84%E7%81%AB%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn",
+            "title": "光照之处",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7e6513e69e4fde1fe73f72be0618640",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260218",
             "fullstartdate": "202602181600",
