@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-19 00:56:14",
-    "Total": 1391,
+    "LastUpdate": "2026-02-20 00:52:53",
+    "Total": 1392,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260220",
+            "fullstartdate": "202602200000",
+            "enddate": "20260221",
+            "url": "/th?id=OHR.AdamsFirefall_EN-GB5806562123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdamsFirefall_EN-GB5806562123",
+            "copyright": "Horsetail Fall, Yosemite National Park, California, United States (© Jorge Villalba/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Horsetail+Fall+Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220260220_0000%22",
+            "title": "Where light falls",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_AdamsFirefall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe5a8537a38f5b436df99a5cb8a33b97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260219",
             "fullstartdate": "202602190000",
