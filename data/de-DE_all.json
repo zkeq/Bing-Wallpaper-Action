@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-19 00:56:06",
-    "Total": 1394,
+    "LastUpdate": "2026-02-20 00:52:45",
+    "Total": 1395,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260219",
+            "fullstartdate": "202602192300",
+            "enddate": "20260220",
+            "url": "/th?id=OHR.SwanHesse_DE-DE7086737425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SwanHesse_DE-DE7086737425",
+            "copyright": "Höckerschwan schwimmt mit Küken, Hessen (© Wilfried Martin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=H%C3%B6ckerschwan&form=hpcapt&filters=HpDate%3a%2220260219_2300%22",
+            "title": "Geborgenheit auf dem Wasser",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_SwanHesse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c78873562f720f07a85706753d526dd7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260218",
             "fullstartdate": "202602182300",
