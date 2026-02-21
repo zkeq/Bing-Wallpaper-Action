@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-20 00:52:32",
-    "Total": 1395,
+    "LastUpdate": "2026-02-21 00:51:55",
+    "Total": 1396,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260220",
+            "fullstartdate": "202602201600",
+            "enddate": "20260221",
+            "url": "/th?id=OHR.TetonFox_ZH-CN9461948674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonFox_ZH-CN9461948674",
+            "copyright": "一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B5%A4%E7%8B%90&form=hpcapt&mkt=zh-cn",
+            "title": "冬日的低语",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b348e69454e249847fa9b02d8e4eba8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260219",
             "fullstartdate": "202602191600",
