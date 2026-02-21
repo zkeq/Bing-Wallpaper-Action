@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-20 00:52:53",
-    "Total": 1392,
+    "LastUpdate": "2026-02-21 00:52:15",
+    "Total": 1393,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260221",
+            "fullstartdate": "202602210000",
+            "enddate": "20260222",
+            "url": "/th?id=OHR.TetonFox_EN-GB1287383886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonFox_EN-GB1287383886",
+            "copyright": "Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Red+fox&form=hpcapt&filters=HpDate%3a%2220260221_0000%22",
+            "title": "Whispers of winter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_TetonFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "beb70bc3105b293296fd52c5f22d43d4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260220",
             "fullstartdate": "202602200000",
