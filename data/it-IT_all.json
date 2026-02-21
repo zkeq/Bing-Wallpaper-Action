@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-20 00:53:05",
-    "Total": 1395,
+    "LastUpdate": "2026-02-21 00:52:27",
+    "Total": 1396,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260220",
+            "fullstartdate": "202602202300",
+            "enddate": "20260221",
+            "url": "/th?id=OHR.TetonFox_IT-IT8444976522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TetonFox_IT-IT8444976522",
+            "copyright": "Volpe rossa, Parco Nazionale del Grand Teton, Wyoming, USA (© Radomir Jakubowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Volpe+rossa&form=hpcapt",
+            "title": "Sussurro invernale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0552d1ce5603a7c058cee2e5a6c533a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260219",
             "fullstartdate": "202602192300",
