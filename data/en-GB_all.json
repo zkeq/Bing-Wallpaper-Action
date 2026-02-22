@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-21 00:52:15",
-    "Total": 1393,
+    "LastUpdate": "2026-02-22 00:56:08",
+    "Total": 1394,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260222",
+            "fullstartdate": "202602220000",
+            "enddate": "20260223",
+            "url": "/th?id=OHR.MamTorSunrise_EN-GB1525919580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MamTorSunrise_EN-GB1525919580",
+            "copyright": "The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mam+Tor+hill&form=hpcapt&filters=HpDate%3a%2220260222_0000%22",
+            "title": "The mother of hills",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_MamTorSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "47a63431b41bb5c42af238d4aa0b5fd2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260221",
             "fullstartdate": "202602210000",
