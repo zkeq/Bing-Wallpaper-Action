@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-21 00:52:07",
-    "Total": 1396,
+    "LastUpdate": "2026-02-22 00:56:00",
+    "Total": 1397,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260221",
+            "fullstartdate": "202602212300",
+            "enddate": "20260222",
+            "url": "/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MamTorSunrise_DE-DE1078293930",
+            "copyright": "Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mam+Tor+Berg&form=hpcapt&filters=HpDate%3a%2220260221_2300%22",
+            "title": "Die Mutter der Hügel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "757c6b395aaa1914360b2592be032435",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260220",
             "fullstartdate": "202602202300",
