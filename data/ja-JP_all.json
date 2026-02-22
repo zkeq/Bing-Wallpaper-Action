@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-21 00:52:03",
-    "Total": 1396,
+    "LastUpdate": "2026-02-22 00:55:56",
+    "Total": 1397,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260221",
+            "fullstartdate": "202602211500",
+            "enddate": "20260222",
+            "url": "/th?id=OHR.MamTorSunrise_JA-JP8500587140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MamTorSunrise_JA-JP8500587140",
+            "copyright": "マム・トーの丘, イングランド (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%A0%E3%83%BB%E3%83%88%E3%83%BC%E3%81%AE%E4%B8%98&form=hpcapt&filters=HpDate%3a%2220260221_1500%22",
+            "title": "雪原に広がるなだらかな丘陵",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90bcba24b7d270b37b543cddc253a40e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260220",
             "fullstartdate": "202602201500",
