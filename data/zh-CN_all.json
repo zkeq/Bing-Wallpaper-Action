@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-21 00:51:55",
-    "Total": 1396,
+    "LastUpdate": "2026-02-22 00:55:47",
+    "Total": 1397,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260221",
+            "fullstartdate": "202602211600",
+            "enddate": "20260222",
+            "url": "/th?id=OHR.MamTorSunrise_ZH-CN9698497298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MamTorSunrise_ZH-CN9698497298",
+            "copyright": "马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%A7%86%E6%89%98%E5%B0%94%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "群山的母亲",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de10e0ef0ec7299ec3d1c6c5ad7cdb6d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260220",
             "fullstartdate": "202602201600",
