@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-22 00:56:08",
-    "Total": 1394,
+    "LastUpdate": "2026-02-23 03:26:04",
+    "Total": 1395,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260223",
+            "fullstartdate": "202602230000",
+            "enddate": "20260224",
+            "url": "/th?id=OHR.BavariaEgret_EN-GB1955700244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BavariaEgret_EN-GB1955700244",
+            "copyright": "Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+white+egret&form=hpcapt&filters=HpDate%3a%2220260223_0000%22",
+            "title": "Snowfield monarch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_BavariaEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "954d0bca2e91d2a85d1cdd97551402c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260222",
             "fullstartdate": "202602220000",
