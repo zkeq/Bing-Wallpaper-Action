@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-22 00:56:20",
-    "Total": 1397,
+    "LastUpdate": "2026-02-23 03:26:16",
+    "Total": 1398,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260222",
+            "fullstartdate": "202602222300",
+            "enddate": "20260223",
+            "url": "/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulumLilies_IT-IT7765619476",
+            "copyright": "Ninfee, Grand Cenote, Tulum, Messico (© Christian Vizl/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Cenote&form=hpcapt",
+            "title": "Battito floreale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_TulumLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0c449ce5837c9397ac74ac6f320f7801",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260221",
             "fullstartdate": "202602212300",
