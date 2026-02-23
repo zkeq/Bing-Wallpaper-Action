@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-22 00:55:56",
-    "Total": 1397,
+    "LastUpdate": "2026-02-23 03:25:52",
+    "Total": 1398,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260222",
+            "fullstartdate": "202602221500",
+            "enddate": "20260223",
+            "url": "/th?id=OHR.MountFuji2026_JA-JP8594170652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountFuji2026_JA-JP8594170652",
+            "copyright": "富士山, 静岡県 (© Cravetiger/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260222_1500%22",
+            "title": "今日は「富士山の日」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_MountFuji2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d05b6dd38b782eba920c7522b003af25",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260221",
             "fullstartdate": "202602211500",
