@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-22 00:56:00",
-    "Total": 1397,
+    "LastUpdate": "2026-02-23 03:25:56",
+    "Total": 1398,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260222",
+            "fullstartdate": "202602222300",
+            "enddate": "20260223",
+            "url": "/th?id=OHR.BavariaEgret_DE-DE1964732811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BavariaEgret_DE-DE1964732811",
+            "copyright": "Silberreiher, Oberbayern, Deutschland (© Konrad Wothe/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Silberreiher&form=hpcapt&filters=HpDate%3a%2220260222_2300%22",
+            "title": "Winterlicher Wächter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_BavariaEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7f7ad3933804ae5aabc923535a4a89c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260221",
             "fullstartdate": "202602212300",
