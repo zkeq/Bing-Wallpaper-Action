@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-23 03:26:04",
-    "Total": 1395,
+    "LastUpdate": "2026-02-24 03:21:07",
+    "Total": 1396,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260224",
+            "fullstartdate": "202602240000",
+            "enddate": "20260225",
+            "url": "/th?id=OHR.TulumLilies_EN-GB2782201800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulumLilies_EN-GB2782201800",
+            "copyright": "Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Cenote+Tulum&form=hpcapt&filters=HpDate%3a%2220260224_0000%22",
+            "title": "The pulse beneath the pond",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_TulumLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "24f385851c1eec8afbce25b68fb116f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260223",
             "fullstartdate": "202602230000",
