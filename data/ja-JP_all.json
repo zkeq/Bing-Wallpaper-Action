@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-23 03:25:52",
-    "Total": 1398,
+    "LastUpdate": "2026-02-24 03:20:55",
+    "Total": 1399,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260223",
+            "fullstartdate": "202602231500",
+            "enddate": "20260224",
+            "url": "/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulumLilies_JA-JP8645849779",
+            "copyright": "スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%A4%E3%83%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260223_1500%22",
+            "title": "自然の鏡に映る色とりどりの葉",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "42f0fcc367f59bee657713f5032ee054",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260222",
             "fullstartdate": "202602221500",
