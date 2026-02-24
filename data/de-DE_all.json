@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-23 03:25:56",
-    "Total": 1398,
+    "LastUpdate": "2026-02-24 03:20:59",
+    "Total": 1399,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260223",
+            "fullstartdate": "202602232300",
+            "enddate": "20260224",
+            "url": "/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulumLilies_DE-DE2753544781",
+            "copyright": "Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Gran+Cenote+Tulum+Mexiko&form=hpcapt&filters=HpDate%3a%2220260223_2300%22",
+            "title": "Der Puls unter der Wasseroberfläche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b39aedc616460451e3dafe5c1d95336",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260222",
             "fullstartdate": "202602222300",
