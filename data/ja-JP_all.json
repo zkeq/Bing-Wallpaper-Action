@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-24 03:20:55",
-    "Total": 1399,
+    "LastUpdate": "2026-02-25 03:21:56",
+    "Total": 1400,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260224",
+            "fullstartdate": "202602241500",
+            "enddate": "20260225",
+            "url": "/th?id=OHR.MendenhallCave_JA-JP8678792509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MendenhallCave_JA-JP8678792509",
+            "copyright": "メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A1%E3%83%B3%E3%83%87%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E6%B0%B7%E6%B2%B3%E3%81%AE%E6%B0%B7%E3%81%AE%E6%B4%9E%E7%AA%9F&form=hpcapt&filters=HpDate%3a%2220260224_1500%22",
+            "title": "泡のような天井が広がるアイスケーブ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_MendenhallCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "167b038a7a6627bae175686583b76402",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260223",
             "fullstartdate": "202602231500",
