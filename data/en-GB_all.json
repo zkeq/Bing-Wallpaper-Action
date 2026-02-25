@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-24 03:21:07",
-    "Total": 1396,
+    "LastUpdate": "2026-02-25 03:22:08",
+    "Total": 1397,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260225",
+            "fullstartdate": "202602250000",
+            "enddate": "20260226",
+            "url": "/th?id=OHR.MendenhallCave_EN-GB3238548442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MendenhallCave_EN-GB3238548442",
+            "copyright": "Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Mendenhall+Glacier&form=hpcapt&filters=HpDate%3a%2220260225_0000%22",
+            "title": "Ice, lit from within",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_MendenhallCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ddd3c9347177adb55b4a5b05b3c6670",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260224",
             "fullstartdate": "202602240000",
