@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-24 03:20:46",
-    "Total": 1399,
+    "LastUpdate": "2026-02-25 03:21:47",
+    "Total": 1400,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260224",
+            "fullstartdate": "202602241600",
+            "enddate": "20260225",
+            "url": "/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MendenhallCave_ZH-CN1850649760",
+            "copyright": "门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%97%A8%E7%99%BB%E9%9C%8D%E5%B0%94%E5%86%B0%E5%B7%9D&form=hpcapt&mkt=zh-cn",
+            "title": "冰，由内而外透出光芒",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_MendenhallCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bffceb41de17fdfa1fff45194e66fcf9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260223",
             "fullstartdate": "202602231600",
