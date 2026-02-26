@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-25 03:21:56",
-    "Total": 1400,
+    "LastUpdate": "2026-02-26 03:17:46",
+    "Total": 1401,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260225",
+            "fullstartdate": "202602251500",
+            "enddate": "20260226",
+            "url": "/th?id=OHR.GrandSunset_JA-JP8711394757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandSunset_JA-JP8711394757",
+            "copyright": "グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260225_1500%22",
+            "title": "今日は米国グランドキャニオン国立公園の記念日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "85effffa7d1a6400c2d84ced7443e7cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260224",
             "fullstartdate": "202602241500",
