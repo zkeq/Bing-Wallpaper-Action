@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:17:50",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:15:11",
+    "Total": 1402,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602262300",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_DE-DE4317147803",
+            "copyright": "Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+Eisb%C3%A4ren&form=hpcapt&filters=HpDate%3a%2220260226_2300%22",
+            "title": "Leben auf schwindendem Eis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "20158a3ce06b1a209c1cb4d4becb9b77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602252300",
