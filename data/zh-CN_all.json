@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:17:38",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:14:58",
+    "Total": 1402,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602261600",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.ArcitcCub_ZH-CN2725049760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_ZH-CN2725049760",
+            "copyright": "北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn",
+            "title": "薄冰上的生活",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d25364b6b8a38d9291bad838e0c4abfe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602251600",
