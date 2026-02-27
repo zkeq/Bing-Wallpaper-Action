@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:18:06",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:15:27",
+    "Total": 1402,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602262300",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.ArcitcCub_FR-FR4145142371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_FR-FR4145142371",
+            "copyright": "Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+de+l%E2%80%99ours+polaire&form=hpcapt&filters=HpDate%3a%2220260226_2300%22",
+            "title": "La vie sur une banquise toujours plus fine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2225f79b131456b26feb2d25ccd4882e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602252300",
