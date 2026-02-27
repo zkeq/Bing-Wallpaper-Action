@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:17:46",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:15:07",
+    "Total": 1402,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602261500",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.ArcitcCub_JA-JP8771161198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_JA-JP8771161198",
+            "copyright": "ホッキョクグマの子, 米国 アラスカ州 (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220260226_1500%22",
+            "title": "今日は国際ホッキョクグマの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e666fd5dd4abb7c30fbd9b543f20d20",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602251500",
