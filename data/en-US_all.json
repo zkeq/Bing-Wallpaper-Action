@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:17:42",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:15:03",
+    "Total": 1402,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602260800",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.GrandSunset_EN-US2473517741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandSunset_EN-US2473517741",
+            "copyright": "Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0800%22",
+            "title": "One grand view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_GrandSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "96fffadfa32782ec21a11d11e8d1d279",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602250800",
