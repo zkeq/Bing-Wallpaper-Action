@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-26 03:18:09",
-    "Total": 1401,
+    "LastUpdate": "2026-02-27 03:15:31",
+    "Total": 1402,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260226",
+            "fullstartdate": "202602262300",
+            "enddate": "20260227",
+            "url": "/th?id=OHR.ArcitcCub_IT-IT4577678073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_IT-IT4577678073",
+            "copyright": "Cucciolo di orso polare, Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+dell+Orso+Polare&form=hpcapt",
+            "title": "Squarci di bianco",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8222b9a55b26f8bfca8c83491bf8db95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260225",
             "fullstartdate": "202602252300",
