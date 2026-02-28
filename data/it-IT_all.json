@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-27 03:15:31",
-    "Total": 1402,
+    "LastUpdate": "2026-02-28 02:58:27",
+    "Total": 1403,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260227",
+            "fullstartdate": "202602272300",
+            "enddate": "20260228",
+            "url": "/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OloupenaFalls_IT-IT4647121958",
+            "copyright": "Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Molokai&form=hpcapt",
+            "title": "Respiro tropicale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "69d3085419dff471542d2fc81a2096de",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260226",
             "fullstartdate": "202602262300",
