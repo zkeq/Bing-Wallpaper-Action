@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-27 03:15:11",
-    "Total": 1402,
+    "LastUpdate": "2026-02-28 02:58:07",
+    "Total": 1403,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260227",
+            "fullstartdate": "202602272300",
+            "enddate": "20260228",
+            "url": "/th?id=OHR.OloupenaFalls_DE-DE5017042185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OloupenaFalls_DE-DE5017042185",
+            "copyright": "Oloʻupena‑Wasserfälle an der Nordküste der Insel Molokaʻi, Hawaii, USA (© Andrew Aylett/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Molokai+Hawaii&form=hpcapt&filters=HpDate%3a%2220260227_2300%22",
+            "title": "Höhen über dem Pazifik",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ea291d94d6489ed45d00cd127f04468",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260226",
             "fullstartdate": "202602262300",
