@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-27 03:15:03",
-    "Total": 1402,
+    "LastUpdate": "2026-02-28 02:57:59",
+    "Total": 1403,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260227",
+            "fullstartdate": "202602270800",
+            "enddate": "20260228",
+            "url": "/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArcitcCub_EN-US2529097123",
+            "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220260227_0800%22",
+            "title": "Life on thinning ice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_ArcitcCub%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2246847ac9fb140d3cba91c63ea7957",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260226",
             "fullstartdate": "202602260800",
