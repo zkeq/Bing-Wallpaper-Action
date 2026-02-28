@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-27 03:14:58",
-    "Total": 1402,
+    "LastUpdate": "2026-02-28 02:57:54",
+    "Total": 1403,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260227",
+            "fullstartdate": "202602271600",
+            "enddate": "20260228",
+            "url": "/th?id=OHR.OloupenaFalls_ZH-CN2980118660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OloupenaFalls_ZH-CN2980118660",
+            "copyright": "奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8E%AB%E6%B4%9B%E5%87%AF%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "洋溢着社区氛围",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd8f6b5435b4a89ef8c2b12b44629c7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260226",
             "fullstartdate": "202602261600",
