@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-28 02:58:19",
-    "Total": 1403,
+    "LastUpdate": "2026-03-01 03:28:32",
+    "Total": 1404,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260228",
+            "fullstartdate": "202602281830",
+            "enddate": "20260301",
+            "url": "/th?id=OHR.BabyElephant_EN-IN3027316479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BabyElephant_EN-IN3027316479",
+            "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=African+elephant&form=hpcapt&filters=HpDate%3a%2220260228_1830%22",
+            "title": "Ambassadors of cuteness",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BabyElephant%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e768770ffd7bd2a862fce3e1ed1c01bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260227",
             "fullstartdate": "202602271830",
