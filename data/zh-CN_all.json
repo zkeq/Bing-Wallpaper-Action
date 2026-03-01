@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-02-28 02:57:54",
-    "Total": 1403,
+    "LastUpdate": "2026-03-01 03:28:07",
+    "Total": 1404,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260228",
+            "fullstartdate": "202602281600",
+            "enddate": "20260301",
+            "url": "/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BalearesDay_ZH-CN5024902433",
+            "copyright": "伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E7%BB%B4%E8%90%A8%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "每一步，都是传承",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3780da0880bd5393e759fc50498dc54e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260227",
             "fullstartdate": "202602271600",
