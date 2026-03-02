@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-01 03:28:41",
-    "Total": 1404,
+    "LastUpdate": "2026-03-02 03:16:48",
+    "Total": 1405,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260301",
+            "fullstartdate": "202603012300",
+            "enddate": "20260302",
+            "url": "/th?id=OHR.PiazzaCatania_IT-IT5422643580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PiazzaCatania_IT-IT5422643580",
+            "copyright": "Piazza Vincenzo Bellini, Catania, Sicilia (© KavalenkavaVolha/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Catania&form=hpcapt",
+            "title": "Pietra e Palcoscenico",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_PiazzaCatania%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7480e874eca569f2a8ec0ffdf76641c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260228",
             "fullstartdate": "202602282300",
