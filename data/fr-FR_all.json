@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-01 03:28:36",
-    "Total": 1404,
+    "LastUpdate": "2026-03-02 03:16:44",
+    "Total": 1405,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260301",
+            "fullstartdate": "202603012300",
+            "enddate": "20260302",
+            "url": "/th?id=OHR.SamuiThailand_FR-FR4647225820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamuiThailand_FR-FR4647225820",
+            "copyright": "Bateaux à longue queue sur le port de Ko Samui, Thaïlande (© Foto2rich/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ko+Samui+Tha%C3%AFlande&form=hpcapt&filters=HpDate%3a%2220260301_2300%22",
+            "title": "Un héritage flottant",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7860bd2d3e01f63f0763404dc1394998",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260228",
             "fullstartdate": "202602282300",
