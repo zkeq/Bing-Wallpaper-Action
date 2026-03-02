@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-01 03:28:07",
-    "Total": 1404,
+    "LastUpdate": "2026-03-02 03:16:16",
+    "Total": 1405,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260301",
+            "fullstartdate": "202603011600",
+            "enddate": "20260302",
+            "url": "/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamuiThailand_ZH-CN3323790951",
+            "copyright": "苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E8%8B%8F%E6%A2%85%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "漂浮的传承",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d030509b56f36f3e2849c2f3170cc8b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260228",
             "fullstartdate": "202602281600",
