@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-01 03:28:24",
-    "Total": 1403,
+    "LastUpdate": "2026-03-02 03:16:32",
+    "Total": 1404,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260301",
+            "fullstartdate": "202603010500",
+            "enddate": "20260302",
+            "url": "/th?id=OHR.OwlonGuard_EN-CA7496212614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OwlonGuard_EN-CA7496212614",
+            "copyright": "Snowy owl near the Canadian Rockies (© www.harshadventure.com/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Snowy+owl&form=hpcapt&filters=HpDate%3a%2220260301_0500%22",
+            "title": "Feather you like it or not",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_OwlonGuard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e273f3b891d7507d66f7e156e78cd77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260228",
             "fullstartdate": "202602280500",
