@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-02 03:16:40",
-    "Total": 1405,
+    "LastUpdate": "2026-03-03 03:20:00",
+    "Total": 1406,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260302",
+            "fullstartdate": "202603021830",
+            "enddate": "20260303",
+            "url": "/th?id=OHR.RJINHoli_EN-IN3889528618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RJINHoli_EN-IN3889528618",
+            "copyright": "Group of people playing Holi in Rajasthan (© Bartosz Hadyniak/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Holi&form=hpcapt&filters=HpDate%3a%2220260302_1830%22",
+            "title": "Powered by Gulal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_RJINHoli%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a42467ceddf5a32f53d6394b82d6cbe3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260301",
             "fullstartdate": "202603011830",
