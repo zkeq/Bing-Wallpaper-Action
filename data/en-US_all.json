@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-02 03:16:21",
-    "Total": 1405,
+    "LastUpdate": "2026-03-03 03:19:40",
+    "Total": 1406,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260302",
+            "fullstartdate": "202603020800",
+            "enddate": "20260303",
+            "url": "/th?id=OHR.SamuiThailand_EN-US3008233136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamuiThailand_EN-US3008233136",
+            "copyright": "Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ko+Samui+Thailand&form=hpcapt&filters=HpDate%3a%2220260302_0800%22",
+            "title": "Floating legacies",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_SamuiThailand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6dcf518a6984ad993bc51ba45b368a56",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260301",
             "fullstartdate": "202603010800",
