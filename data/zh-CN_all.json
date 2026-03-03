@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-02 03:16:16",
-    "Total": 1405,
+    "LastUpdate": "2026-03-03 03:19:35",
+    "Total": 1406,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260302",
+            "fullstartdate": "202603021600",
+            "enddate": "20260303",
+            "url": "/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LanternFestivalY26_ZH-CN9186685796",
+            "copyright": "元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "花灯映月，团圆吉祥",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_LanternFestivalY26%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0fefbde539d29d484bcc791468b2b859",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260301",
             "fullstartdate": "202603011600",
