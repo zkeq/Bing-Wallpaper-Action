@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-03 03:20:08",
-    "Total": 1406,
+    "LastUpdate": "2026-03-04 03:11:56",
+    "Total": 1407,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260303",
+            "fullstartdate": "202603032300",
+            "enddate": "20260304",
+            "url": "/th?id=OHR.RilaCrocuses_IT-IT4861499603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RilaCrocuses_IT-IT4861499603",
+            "copyright": "Fiori di croco viola, Sette Laghi di Rila, Bulgaria (© Maya Karkalicheva/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sette+Laghi+di+Rila&form=hpcapt",
+            "title": "Risvegli",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_RilaCrocuses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bad70249a1a1e0d819e33bb706a6f6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260302",
             "fullstartdate": "202603022300",
