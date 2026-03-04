@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-03 03:20:04",
-    "Total": 1406,
+    "LastUpdate": "2026-03-04 03:11:52",
+    "Total": 1407,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260303",
+            "fullstartdate": "202603032300",
+            "enddate": "20260304",
+            "url": "/th?id=OHR.RilaCrocuses_FR-FR6060996205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RilaCrocuses_FR-FR6060996205",
+            "copyright": "Crocus en fleur, Sept Lacs de Rila, Bulgarie (© Maya Karkalicheva/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sept+Lacs+de+Rila+Bulgarie&form=hpcapt&filters=HpDate%3a%2220260303_2300%22",
+            "title": "Lumière sur les crocus",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_RilaCrocuses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "14c5422acbf783493796f152dce56cc8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260302",
             "fullstartdate": "202603022300",
