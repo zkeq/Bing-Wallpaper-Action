@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-03 03:20:00",
-    "Total": 1406,
+    "LastUpdate": "2026-03-04 03:11:48",
+    "Total": 1407,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260303",
+            "fullstartdate": "202603031830",
+            "enddate": "20260304",
+            "url": "/th?id=OHR.RilaCrocuses_EN-IN4128659959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RilaCrocuses_EN-IN4128659959",
+            "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Seven+Rila+Lakes+Bulgaria&form=hpcapt&filters=HpDate%3a%2220260303_1830%22",
+            "title": "Crocuses in the spotlight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_RilaCrocuses%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e067bb797bea4e0409edaef38e727b2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260302",
             "fullstartdate": "202603021830",
