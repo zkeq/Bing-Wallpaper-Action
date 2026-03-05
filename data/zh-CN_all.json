@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-04 03:11:24",
-    "Total": 1407,
+    "LastUpdate": "2026-03-05 03:14:39",
+    "Total": 1408,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260304",
+            "fullstartdate": "202603041600",
+            "enddate": "20260305",
+            "url": "/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoremeTwilight_ZH-CN3731931947",
+            "copyright": "格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%A0%BC%E9%9B%B7%E6%A2%85&form=hpcapt&mkt=zh-cn",
+            "title": "古老岩石，现代灯光",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50cee4f1967854fa4b55b1fc45fb10cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260303",
             "fullstartdate": "202603031600",
