@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-05 03:14:44",
-    "Total": 1408,
+    "LastUpdate": "2026-03-06 03:13:20",
+    "Total": 1409,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260305",
+            "fullstartdate": "202603050800",
+            "enddate": "20260306",
+            "url": "/th?id=OHR.GoremeTwilight_EN-US3224835148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GoremeTwilight_EN-US3224835148",
+            "copyright": "Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=G%C3%B6reme+T%C3%BCrkiye&form=hpcapt&filters=HpDate%3a%2220260305_0800%22",
+            "title": "Ancient rocks, modern lights",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_GoremeTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f97da67dae7b8a954cfdf5e72b0318b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260304",
             "fullstartdate": "202603040800",
