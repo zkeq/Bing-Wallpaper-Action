@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-05 03:15:11",
-    "Total": 1408,
+    "LastUpdate": "2026-03-06 03:13:49",
+    "Total": 1409,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260305",
+            "fullstartdate": "202603052300",
+            "enddate": "20260306",
+            "url": "/th?id=OHR.WaveDenmark_IT-IT6019644027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaveDenmark_IT-IT6019644027",
+            "copyright": "The Wave, Vejle, Danimarca (© Frank Bach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Vejle+Danimarca&form=hpcapt",
+            "title": "Onde architettoniche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0847a856a715f956496b0f9d05abd808",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260304",
             "fullstartdate": "202603042300",
