@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-05 03:14:39",
-    "Total": 1408,
+    "LastUpdate": "2026-03-06 03:13:15",
+    "Total": 1409,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260305",
+            "fullstartdate": "202603051600",
+            "enddate": "20260306",
+            "url": "/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaveDenmark_ZH-CN8825888678",
+            "copyright": "波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%B9%E9%BA%A6%E7%93%A6%E5%9F%83%E5%8B%92%E6%B3%A2%E6%B5%AA%E5%A4%A7%E5%8E%A6&form=hpcapt&mkt=zh-cn",
+            "title": "混凝土中铸造的波浪",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49c94e3b8c596ef869996e38a818919d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260304",
             "fullstartdate": "202603041600",
