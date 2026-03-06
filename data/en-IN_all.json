@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-05 03:15:04",
-    "Total": 1408,
+    "LastUpdate": "2026-03-06 03:13:40",
+    "Total": 1409,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260305",
+            "fullstartdate": "202603051830",
+            "enddate": "20260306",
+            "url": "/th?id=OHR.WaveDenmark_EN-IN9929501446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WaveDenmark_EN-IN9929501446",
+            "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=The+Wave+building+Vejle+Denmark&form=hpcapt&filters=HpDate%3a%2220260305_1830%22",
+            "title": "Waves cast in concrete",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8bbaefdb3cf27ef71bf1db933910d47",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260304",
             "fullstartdate": "202603041830",
