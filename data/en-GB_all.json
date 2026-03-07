@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-06 03:13:36",
-    "Total": 1406,
+    "LastUpdate": "2026-03-07 03:03:21",
+    "Total": 1407,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260307",
+            "fullstartdate": "202603070000",
+            "enddate": "20260308",
+            "url": "/th?id=OHR.BrockenSunrise_EN-GB9355519414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrockenSunrise_EN-GB9355519414",
+            "copyright": "The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Harz+National+Park&form=hpcapt&filters=HpDate%3a%2220260307_0000%22",
+            "title": "Peak-a-boo!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_BrockenSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "387196b859f999ac27336ef7436fe8a1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260306",
             "fullstartdate": "202603060000",
