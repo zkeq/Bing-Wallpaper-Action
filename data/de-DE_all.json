@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-06 03:13:28",
-    "Total": 1409,
+    "LastUpdate": "2026-03-07 03:03:12",
+    "Total": 1410,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260306",
+            "fullstartdate": "202603062300",
+            "enddate": "20260307",
+            "url": "/th?id=OHR.PacificRimNP_DE-DE6585110286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PacificRimNP_DE-DE6585110286",
+            "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pacific+Rim+National+Park+Reserve+Kanada&form=hpcapt&filters=HpDate%3a%2220260306_2300%22",
+            "title": "Zwischen Wald und Wellen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_PacificRimNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d72dfeb18e664075d570ddbd9a5f5541",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260305",
             "fullstartdate": "202603052300",
