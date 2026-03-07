@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-06 03:13:49",
-    "Total": 1409,
+    "LastUpdate": "2026-03-07 03:03:33",
+    "Total": 1410,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260306",
+            "fullstartdate": "202603062300",
+            "enddate": "20260307",
+            "url": "/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaplesBasilica_IT-IT2953708039",
+            "copyright": "Basilica reale pontificia di San Francesco di Paola, Napoli, Campania (© javarman3/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=San+Francesco+di+Paola+Napoli&form=hpcapt",
+            "title": "Eredità Romana",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_NaplesBasilica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd6d4ae1b0719dee852ce3df600425db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260305",
             "fullstartdate": "202603052300",
