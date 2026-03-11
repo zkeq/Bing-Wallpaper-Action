@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-10 03:11:40",
-    "Total": 1413,
+    "LastUpdate": "2026-03-11 00:51:47",
+    "Total": 1414,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260310",
+            "fullstartdate": "202603101600",
+            "enddate": "20260311",
+            "url": "/th?id=OHR.PeachBloom_ZH-CN9660251274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeachBloom_ZH-CN9660251274",
+            "copyright": "盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B0%A2%E8%90%A8&form=hpcapt&mkt=zh-cn",
+            "title": "一个美好的春天",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_PeachBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe67d7060091493ff9158fc488560519",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260309",
             "fullstartdate": "202603091600",
