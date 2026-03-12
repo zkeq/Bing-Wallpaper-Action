@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-11 00:51:47",
-    "Total": 1414,
+    "LastUpdate": "2026-03-12 00:50:44",
+    "Total": 1415,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260311",
+            "fullstartdate": "202603111600",
+            "enddate": "20260312",
+            "url": "/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunbitternEcuador_ZH-CN9772788253",
+            "copyright": "幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E9%B3%BD&form=hpcapt&mkt=zh-cn",
+            "title": "排练中的翅膀",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5fdc3e8711be01afcbc15fb4eae42d02",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260310",
             "fullstartdate": "202603101600",
