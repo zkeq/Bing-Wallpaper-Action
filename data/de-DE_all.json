@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-11 00:52:00",
-    "Total": 1414,
+    "LastUpdate": "2026-03-12 00:50:56",
+    "Total": 1415,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260311",
+            "fullstartdate": "202603112300",
+            "enddate": "20260312",
+            "url": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665",
+            "copyright": "Junger Sonnenralle beim Flügelspreizen am Nest, Ecuador (© Andy Rouse/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=Sonnenralle+Vogel&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+            "title": "Farbsignal im Wald",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d2bebc91edeac08b719c0a0a68794ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260310",
             "fullstartdate": "202603102300",
