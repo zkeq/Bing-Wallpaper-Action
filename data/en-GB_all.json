@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-11 00:52:08",
-    "Total": 1411,
+    "LastUpdate": "2026-03-12 00:51:05",
+    "Total": 1412,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260312",
+            "fullstartdate": "202603120000",
+            "enddate": "20260313",
+            "url": "/th?id=OHR.SunbitternEcuador_EN-GB7250985153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunbitternEcuador_EN-GB7250985153",
+            "copyright": "Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=sunbittern+bird&form=hpcapt&filters=HpDate%3a%2220260312_0000%22",
+            "title": "Wings in rehearsal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_SunbitternEcuador%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c1305fca99396a7f8add1da7195c654",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260311",
             "fullstartdate": "202603110000",
