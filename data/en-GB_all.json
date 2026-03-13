@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-12 00:51:05",
-    "Total": 1412,
+    "LastUpdate": "2026-03-13 00:54:15",
+    "Total": 1413,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260313",
+            "fullstartdate": "202603130000",
+            "enddate": "20260314",
+            "url": "/th?id=OHR.VendeeVaults_EN-GB7453353937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VendeeVaults_EN-GB7453353937",
+            "copyright": "Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Notre+Dame+de+Bon+Port+Les-Sables+France&form=hpcapt&filters=HpDate%3a%2220260313_0000%22",
+            "title": "A quiet masterpiece in stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_VendeeVaults%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8960311563083e0e315ff239139f4bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260312",
             "fullstartdate": "202603120000",
