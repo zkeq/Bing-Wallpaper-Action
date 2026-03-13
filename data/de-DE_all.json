@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-12 00:50:56",
-    "Total": 1415,
+    "LastUpdate": "2026-03-13 00:54:07",
+    "Total": 1416,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260312",
+            "fullstartdate": "202603122300",
+            "enddate": "20260313",
+            "url": "/th?id=OHR.VendeeVaults_DE-DE9788483793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VendeeVaults_DE-DE9788483793",
+            "copyright": "Gewölbe der Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich (© Helmut Meyer zur Capellen/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Les-Sables+Frankreich&form=hpcapt&filters=HpDate%3a%2220260312_2300%22",
+            "title": "Ein stilles Meisterwerk aus Stein",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c7fe323594ed41b03dec96a72943010a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260311",
             "fullstartdate": "202603112300",
