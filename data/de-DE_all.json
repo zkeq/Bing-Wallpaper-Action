@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-13 00:54:07",
-    "Total": 1416,
+    "LastUpdate": "2026-03-14 00:52:32",
+    "Total": 1417,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260313",
+            "fullstartdate": "202603132300",
+            "enddate": "20260314",
+            "url": "/th?id=OHR.CornwallDolmen_DE-DE0215801252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CornwallDolmen_DE-DE0215801252",
+            "copyright": "Lanyon Quoit, neolithischer Dolmen in Cornwall, England (© Helen Hotson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Pi-Tag&form=hpcapt&filters=HpDate%3a%2220260313_2300%22",
+            "title": "Ein uralter Blick auf π",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_CornwallDolmen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c663db693202ee6eb0da11d0f14c6b41",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260312",
             "fullstartdate": "202603122300",
