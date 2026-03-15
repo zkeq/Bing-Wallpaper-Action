@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-14 00:52:24",
-    "Total": 1417,
+    "LastUpdate": "2026-03-15 01:02:01",
+    "Total": 1418,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260314",
+            "fullstartdate": "202603140700",
+            "enddate": "20260315",
+            "url": "/th?id=OHR.CornwallDolmen_EN-US7192709883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CornwallDolmen_EN-US7192709883",
+            "copyright": "Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Pi+Day&form=hpcapt&filters=HpDate%3a%2220260314_0700%22",
+            "title": "An ancient angle on Pi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260314_CornwallDolmen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02f9c561df6e7f68a750ef37ee75619f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260313",
             "fullstartdate": "202603130700",
