@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-15 01:02:10",
-    "Total": 1418,
+    "LastUpdate": "2026-03-16 01:01:49",
+    "Total": 1419,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260315",
+            "fullstartdate": "202603152300",
+            "enddate": "20260316",
+            "url": "/th?id=OHR.PandaForest_DE-DE0631054848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PandaForest_DE-DE0631054848",
+            "copyright": "Großer Panda beim Bambusfressen, China (© Entwicklungsknecht/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gro%C3%9Fer+Panda&form=hpcapt&filters=HpDate%3a%2220260315_2300%22",
+            "title": "Ein Symbol des Naturschutzes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2db9b1b4b3972a8d4eed9dd6f5be9008",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260314",
             "fullstartdate": "202603142300",
