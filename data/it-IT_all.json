@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-15 01:02:30",
-    "Total": 1418,
+    "LastUpdate": "2026-03-16 01:02:09",
+    "Total": 1419,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260315",
+            "fullstartdate": "202603152300",
+            "enddate": "20260316",
+            "url": "/th?id=OHR.PandaForest_IT-IT6604612571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PandaForest_IT-IT6604612571",
+            "copyright": "Panda gigante che mangia bambù, Cina (© Entwicklungsknecht/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Panda+gigante&form=hpcapt",
+            "title": "Nel Pandaverso",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8d77f63064953fb26bbf7240c354631",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260314",
             "fullstartdate": "202603142300",
