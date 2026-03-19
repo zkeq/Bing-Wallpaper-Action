@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-18 00:57:10",
-    "Total": 1421,
+    "LastUpdate": "2026-03-19 00:57:55",
+    "Total": 1422,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260318",
+            "fullstartdate": "202603182300",
+            "enddate": "20260319",
+            "url": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171",
+            "copyright": "L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%A9chidn%C3%A9+%C3%A0+nez+court&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+            "title": "Piquez votre curiosité",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2045525b64849590ea516c7e6f28648d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260317",
             "fullstartdate": "202603172300",
