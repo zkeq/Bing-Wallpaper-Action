@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-18 00:57:14",
-    "Total": 1421,
+    "LastUpdate": "2026-03-19 00:57:59",
+    "Total": 1422,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260318",
+            "fullstartdate": "202603182300",
+            "enddate": "20260319",
+            "url": "/th?id=OHR.FathersDayItaly_IT-IT6801495105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FathersDayItaly_IT-IT6801495105",
+            "copyright": "Leone con prole (© JasonPrince/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Festa+del+Pap%C3%A0&form=hpcapt",
+            "title": "Ruggito di Papà",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_FathersDayItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "195580aab3c61edb7be67192aaf5cc8f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260317",
             "fullstartdate": "202603172300",
