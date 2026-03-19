@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-18 00:56:41",
-    "Total": 1421,
+    "LastUpdate": "2026-03-19 00:57:26",
+    "Total": 1422,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260318",
+            "fullstartdate": "202603181600",
+            "enddate": "20260319",
+            "url": "/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EchidnaAustralia_ZH-CN0913792118",
+            "copyright": "澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%BE%B3%E6%B4%B2%E9%92%88%E9%BC%B9&form=hpcapt&mkt=zh-cn",
+            "title": "激发你的好奇心",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7c74c637ed98ed5badb475339a04481",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260317",
             "fullstartdate": "202603171600",
