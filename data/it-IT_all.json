@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-19 00:57:59",
-    "Total": 1422,
+    "LastUpdate": "2026-03-20 00:55:01",
+    "Total": 1423,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260319",
+            "fullstartdate": "202603192300",
+            "enddate": "20260320",
+            "url": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717",
+            "copyright": "Bucaneve in fiore (© klagyivik/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Equinozio+primavera&form=hpcapt",
+            "title": "Fiori della transizione",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_SpringSnowdrops%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fdfbda74af3a7053dbb4ddfcc5db328c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260318",
             "fullstartdate": "202603182300",
