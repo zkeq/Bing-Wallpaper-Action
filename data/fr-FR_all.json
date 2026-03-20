@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-19 00:57:55",
-    "Total": 1422,
+    "LastUpdate": "2026-03-20 00:54:58",
+    "Total": 1423,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260319",
+            "fullstartdate": "202603192300",
+            "enddate": "20260320",
+            "url": "/th?id=OHR.FrancophonieIf_FR-FR2314499468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrancophonieIf_FR-FR2314499468",
+            "copyright": "Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+la+Francophonie&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+            "title": "La diversité à l’unisson",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_FrancophonieIf%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "deabbd7947d26a1def25d8680cf61543",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260318",
             "fullstartdate": "202603182300",
