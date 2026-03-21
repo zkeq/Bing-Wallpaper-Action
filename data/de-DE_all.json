@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-20 00:54:42",
-    "Total": 1423,
+    "LastUpdate": "2026-03-21 00:51:57",
+    "Total": 1424,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260320",
+            "fullstartdate": "202603202300",
+            "enddate": "20260321",
+            "url": "/th?id=OHR.LeteaForest_DE-DE7781976340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeteaForest_DE-DE7781976340",
+            "copyright": "Letea-Wald, Donaudelta, Rumänien (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Waldes&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+            "title": "Wo Natur tief verwurzelt ist",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "11f995ec152830593d2447f74d31d611",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260319",
             "fullstartdate": "202603192300",
