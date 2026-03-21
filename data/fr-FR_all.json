@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-20 00:54:58",
-    "Total": 1423,
+    "LastUpdate": "2026-03-21 00:52:13",
+    "Total": 1424,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260320",
+            "fullstartdate": "202603202300",
+            "enddate": "20260321",
+            "url": "/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LeteaForest_FR-FR7321636250",
+            "copyright": "Forêt de Letea, Delta du Danube, Roumanie (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+des+for%C3%AAts&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+            "title": "Les racines, nos piliers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3aa603f91d11a3c53433a8c342939b0e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260319",
             "fullstartdate": "202603192300",
