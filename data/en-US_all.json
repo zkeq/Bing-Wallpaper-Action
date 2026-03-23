@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-22 00:58:02",
-    "Total": 1425,
+    "LastUpdate": "2026-03-23 00:58:41",
+    "Total": 1426,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260322",
+            "fullstartdate": "202603220700",
+            "enddate": "20260323",
+            "url": "/th?id=OHR.TanganyikaWater_EN-US5685685365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TanganyikaWater_EN-US5685685365",
+            "copyright": "Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=world+water+day&form=hpcapt&filters=HpDate%3a%2220260322_0700%22",
+            "title": "When water draws the line",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_TanganyikaWater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f19e69d4bda8b446364276f7b3617c43",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260321",
             "fullstartdate": "202603210700",
