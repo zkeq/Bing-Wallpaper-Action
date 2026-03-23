@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-22 00:57:57",
-    "Total": 1425,
+    "LastUpdate": "2026-03-23 00:58:36",
+    "Total": 1426,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260322",
+            "fullstartdate": "202603221600",
+            "enddate": "20260323",
+            "url": "/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SonoranStorm_ZH-CN0579792563",
+            "copyright": "坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "当水划出界线",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c142b5bcdd689711b15443db9d4ff56a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260321",
             "fullstartdate": "202603211600",
