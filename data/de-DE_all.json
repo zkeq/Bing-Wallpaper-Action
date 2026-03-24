@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-23 00:58:49",
-    "Total": 1426,
+    "LastUpdate": "2026-03-24 00:52:25",
+    "Total": 1427,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260323",
+            "fullstartdate": "202603232300",
+            "enddate": "20260324",
+            "url": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398",
+            "copyright": "Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern (© Stefan Dinse/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kap+Arkona+R%C3%BCgen&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+            "title": "Stille an der Küste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_KapArkonaRuegen%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee5e71d7238b3d26ce706c7aebf28288",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260322",
             "fullstartdate": "202603222300",
