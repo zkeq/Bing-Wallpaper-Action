@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-23 00:59:04",
-    "Total": 1426,
+    "LastUpdate": "2026-03-24 00:52:41",
+    "Total": 1427,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260323",
+            "fullstartdate": "202603232300",
+            "enddate": "20260324",
+            "url": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492",
+            "copyright": "Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine (© Zhang Qiao/VCG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wuhan+Chine&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+            "title": "Ça sent le printemps !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "0a19ae4bbfe12883435d01c983200872",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260322",
             "fullstartdate": "202603222300",
