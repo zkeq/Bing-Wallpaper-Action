@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-23 00:58:45",
-    "Total": 1426,
+    "LastUpdate": "2026-03-24 00:52:21",
+    "Total": 1427,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260323",
+            "fullstartdate": "202603231500",
+            "enddate": "20260324",
+            "url": "/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444",
+            "copyright": "東湖桜花園, 中国 (© Zhang Qiao/VCG/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%B1%E6%B9%96%E6%A1%9C%E8%8A%B1%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260323_1500%22",
+            "title": "桜に包まれた五重塔",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "1e47a011496988a5a2a6ecef5753c347",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260322",
             "fullstartdate": "202603221500",
