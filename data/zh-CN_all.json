@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-24 00:52:13",
-    "Total": 1427,
+    "LastUpdate": "2026-03-25 00:56:45",
+    "Total": 1428,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260324",
+            "fullstartdate": "202603241600",
+            "enddate": "20260325",
+            "url": "/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeSpring_ZH-CN5252847120",
+            "copyright": "淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "海牛的秘密生活",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59da6c8be6a41d3ad6b37ecefc153469",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260323",
             "fullstartdate": "202603231600",
