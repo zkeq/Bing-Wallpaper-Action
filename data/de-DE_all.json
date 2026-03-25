@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-24 00:52:25",
-    "Total": 1427,
+    "LastUpdate": "2026-03-25 00:56:58",
+    "Total": 1428,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260324",
+            "fullstartdate": "202603242300",
+            "enddate": "20260325",
+            "url": "/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeSpring_DE-DE1785577917",
+            "copyright": "Junge Seekühe in einer Süßwasserquelle am Crystal River, Florida, USA (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Seek%C3%BChe&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+            "title": "Sanfte Meister des Wassers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9303fe747f74b799b543a842f35d3b1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260323",
             "fullstartdate": "202603232300",
