@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-24 00:52:33",
-    "Total": 1424,
+    "LastUpdate": "2026-03-25 00:57:06",
+    "Total": 1425,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260325",
+            "fullstartdate": "202603250000",
+            "enddate": "20260326",
+            "url": "/th?id=OHR.ManateeSpring_EN-GB4677992725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ManateeSpring_EN-GB4677992725",
+            "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Manatee+Appreciation+Day&form=hpcapt&filters=HpDate%3a%2220260325_0000%22",
+            "title": "The secret life of manatees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_ManateeSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "563a009f707693f5af3d65a05d538801",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260324",
             "fullstartdate": "202603240000",
