@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-25 00:56:54",
-    "Total": 1428,
+    "LastUpdate": "2026-03-26 01:00:05",
+    "Total": 1429,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260325",
+            "fullstartdate": "202603251500",
+            "enddate": "20260326",
+            "url": "/th?id=OHR.LoganCreek_JA-JP4033681513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LoganCreek_JA-JP4033681513",
+            "copyright": "ローガン・クリーク吊り橋, カナダ (© Tandem Stock/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Logan+Creek+Suspension+Bridge%2c+West+Coast+Trail&form=hpcapt&filters=HpDate%3a%2220260325_1500%22",
+            "title": "森に溶け込む吊り橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "4f319bb98b82f15e12e8769647b46e98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260324",
             "fullstartdate": "202603241500",
