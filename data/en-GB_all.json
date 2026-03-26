@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-25 00:57:06",
-    "Total": 1425,
+    "LastUpdate": "2026-03-26 01:00:17",
+    "Total": 1426,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260326",
+            "fullstartdate": "202603260000",
+            "enddate": "20260327",
+            "url": "/th?id=OHR.LoganCreek_EN-GB4805516529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LoganCreek_EN-GB4805516529",
+            "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=West+Coast+Trail+hike&form=hpcapt&filters=HpDate%3a%2220260326_0000%22",
+            "title": "A step above the wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_LoganCreek%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "97c344e22e5a007c22ad6b9df0b6d68a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260325",
             "fullstartdate": "202603250000",
