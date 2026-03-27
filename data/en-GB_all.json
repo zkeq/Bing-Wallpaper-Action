@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-26 01:00:17",
-    "Total": 1426,
+    "LastUpdate": "2026-03-27 01:00:17",
+    "Total": 1427,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260327",
+            "fullstartdate": "202603270000",
+            "enddate": "20260328",
+            "url": "/th?id=OHR.RadioCityHall_EN-GB4964203098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RadioCityHall_EN-GB4964203098",
+            "copyright": "Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Theatre+Day&form=hpcapt&filters=HpDate%3a%2220260327_0000%22",
+            "title": "Still burning bright",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_RadioCityHall%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "5299dc6b3201a1191e158413053a4c46",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260326",
             "fullstartdate": "202603260000",
