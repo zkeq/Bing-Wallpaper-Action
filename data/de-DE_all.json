@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-27 01:00:09",
-    "Total": 1430,
+    "LastUpdate": "2026-03-28 00:56:03",
+    "Total": 1431,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260327",
+            "fullstartdate": "202603272300",
+            "enddate": "20260328",
+            "url": "/th?id=OHR.CapeBuffalo_DE-DE9916963289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapeBuffalo_DE-DE9916963289",
+            "copyright": "Afrikanischer Büffel, Ngorongoro-Krater, Tansania (© jesuss8/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Afrikanischer+B%C3%BCffel&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+            "title": "Wächter des Kraters",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "10c953acfae41057448dd99374efb844",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260326",
             "fullstartdate": "202603262300",
