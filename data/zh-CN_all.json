@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-27 00:59:56",
-    "Total": 1430,
+    "LastUpdate": "2026-03-28 00:55:51",
+    "Total": 1431,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260327",
+            "fullstartdate": "202603271600",
+            "enddate": "20260328",
+            "url": "/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapeBuffalo_ZH-CN5591123662",
+            "copyright": "非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E6%B0%B4%E7%89%9B&form=hpcapt&mkt=zh-cn",
+            "title": "未驯服的精神",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed5a12fee21722be7801ea45d1cdeb9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260326",
             "fullstartdate": "202603261600",
