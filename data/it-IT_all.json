@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-27 01:00:28",
-    "Total": 1430,
+    "LastUpdate": "2026-03-28 00:56:22",
+    "Total": 1431,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260327",
+            "fullstartdate": "202603272300",
+            "enddate": "20260328",
+            "url": "/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapeBuffalo_IT-IT4967996112",
+            "copyright": "Bufalo africano, Cratere di Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Syncerus+caffer&form=hpcapt",
+            "title": "Spirito indomito",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1efd63055f335921e33136ded55e0393",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260326",
             "fullstartdate": "202603262300",
