@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-27 01:00:17",
-    "Total": 1427,
+    "LastUpdate": "2026-03-28 00:56:11",
+    "Total": 1428,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260328",
+            "fullstartdate": "202603280000",
+            "enddate": "20260329",
+            "url": "/th?id=OHR.CapeBuffalo_EN-GB5085555398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapeBuffalo_EN-GB5085555398",
+            "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=African+buffalo&form=hpcapt&filters=HpDate%3a%2220260328_0000%22",
+            "title": "The untamed spirit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_CapeBuffalo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f8a6d90ce2c26d13c7b41cc5769adf1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260327",
             "fullstartdate": "202603270000",
