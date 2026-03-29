@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-28 00:55:51",
-    "Total": 1431,
+    "LastUpdate": "2026-03-29 01:02:57",
+    "Total": 1432,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260328",
+            "fullstartdate": "202603281600",
+            "enddate": "20260329",
+            "url": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973",
+            "copyright": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BD%A9%E5%90%89%E8%A7%92%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "海边的宁静",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89174caee265ef8e63463a5630f6b58e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260327",
             "fullstartdate": "202603271600",
