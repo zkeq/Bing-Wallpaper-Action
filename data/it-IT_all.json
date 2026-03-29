@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-28 00:56:22",
-    "Total": 1431,
+    "LastUpdate": "2026-03-29 01:03:30",
+    "Total": 1432,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260328",
+            "fullstartdate": "202603282300",
+            "enddate": "20260329",
+            "url": "/th?id=OHR.PeggysLighthouse_IT-IT5137466865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeggysLighthouse_IT-IT5137466865",
+            "copyright": "Faro di Peggy's Point, costa atlantica, Nuova Scozia, Canada (© Prashanth Bala/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nuova+Scozia&form=hpcapt",
+            "title": "Faro e pace",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e2a1145a4f6a649113537bf688f21e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260327",
             "fullstartdate": "202603272300",
