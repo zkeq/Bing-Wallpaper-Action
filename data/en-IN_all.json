@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-28 00:56:14",
-    "Total": 1431,
+    "LastUpdate": "2026-03-29 01:03:22",
+    "Total": 1432,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260328",
+            "fullstartdate": "202603281830",
+            "enddate": "20260329",
+            "url": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875",
+            "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260328_1830%22",
+            "title": "Serenity by the sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "637652f190d984b580321cfa20bf8436",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260327",
             "fullstartdate": "202603271830",
