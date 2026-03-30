@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-29 01:03:06",
-    "Total": 1432,
+    "LastUpdate": "2026-03-30 01:03:35",
+    "Total": 1433,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260329",
+            "fullstartdate": "202603291500",
+            "enddate": "20260330",
+            "url": "/th?id=OHR.IndiaCranes_JA-JP0130275400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IndiaCranes_JA-JP0130275400",
+            "copyright": "アネハヅル, インド (© Axel Gomille/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%8D%E3%83%8F%E3%83%85%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260329_1500%22",
+            "title": "求愛ダンスが得意な鳥",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_IndiaCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0d8b0a9e3a085f470b97bea54065958",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260328",
             "fullstartdate": "202603281500",
