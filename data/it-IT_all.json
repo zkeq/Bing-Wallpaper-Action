@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-29 01:03:30",
-    "Total": 1432,
+    "LastUpdate": "2026-03-30 01:03:58",
+    "Total": 1433,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260329",
+            "fullstartdate": "202603292200",
+            "enddate": "20260330",
+            "url": "/th?id=OHR.DolomitiSpring_IT-IT3295923422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitiSpring_IT-IT3295923422",
+            "copyright": "Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+Federa&form=hpcapt",
+            "title": "Specchio di primavera",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_DolomitiSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0b575e7a1f4e7c1803ac9dee610983a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260328",
             "fullstartdate": "202603282300",
