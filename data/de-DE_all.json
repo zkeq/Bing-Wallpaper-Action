@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-30 01:03:39",
-    "Total": 1433,
+    "LastUpdate": "2026-03-31 01:00:24",
+    "Total": 1434,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260330",
+            "fullstartdate": "202603302200",
+            "enddate": "20260331",
+            "url": "/th?id=OHR.ParadiseCave_DE-DE0326941666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParadiseCave_DE-DE0326941666",
+            "copyright": "Paradise Cave, Nationalpark Phong Nha‑Ke Bang, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_2200%22",
+            "title": "Unterirdisches Paradies",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bbac3bd046df84f7991a57d9eaf77acf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260329",
             "fullstartdate": "202603292200",
