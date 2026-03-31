@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-30 01:03:35",
-    "Total": 1433,
+    "LastUpdate": "2026-03-31 01:00:20",
+    "Total": 1434,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260330",
+            "fullstartdate": "202603301500",
+            "enddate": "20260331",
+            "url": "/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParadiseCave_JA-JP9838102190",
+            "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A9%E5%9B%BD%E3%81%AE%E6%B4%9E&form=hpcapt&filters=HpDate%3a%2220260330_1500%22",
+            "title": "光に照らされた幻想的な洞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "db05e66d6671b6597b3f905f9e0271cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260329",
             "fullstartdate": "202603291500",
