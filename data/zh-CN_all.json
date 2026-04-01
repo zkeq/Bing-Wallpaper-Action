@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-31 01:00:11",
-    "Total": 1434,
+    "LastUpdate": "2026-04-01 01:06:55",
+    "Total": 1435,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260331",
+            "fullstartdate": "202603311600",
+            "enddate": "20260401",
+            "url": "/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766",
+            "copyright": "粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E6%A0%91%E8%9B%99&form=hpcapt&mkt=zh-cn",
+            "title": "跃入四月",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "68b066b81c6d22a5a701ab93cb780b1c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260330",
             "fullstartdate": "202603301600",
