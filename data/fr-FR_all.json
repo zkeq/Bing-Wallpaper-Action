@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-03-31 01:00:39",
-    "Total": 1434,
+    "LastUpdate": "2026-04-01 01:07:23",
+    "Total": 1435,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260331",
+            "fullstartdate": "202603312200",
+            "enddate": "20260401",
+            "url": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891",
+            "copyright": "Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=rainette+japonaise&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+            "title": "Un bond en avril",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7d85e9b08b54d8ab1af8a255b48ce43f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260330",
             "fullstartdate": "202603302200",
