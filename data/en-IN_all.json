@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-01 01:07:19",
-    "Total": 1435,
+    "LastUpdate": "2026-04-02 00:58:04",
+    "Total": 1436,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260401",
+            "fullstartdate": "202604011830",
+            "enddate": "20260402",
+            "url": "/th?id=OHR.WildflowerValley_EN-IN5256127708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildflowerValley_EN-IN5256127708",
+            "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Central+Valley+California&form=hpcapt&filters=HpDate%3a%2220260401_1830%22",
+            "title": "Patterns of spring",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9030257e484640b916f7465e44d22bb5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260331",
             "fullstartdate": "202603311830",
