@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-01 01:07:27",
-    "Total": 1435,
+    "LastUpdate": "2026-04-02 00:58:12",
+    "Total": 1436,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260401",
+            "fullstartdate": "202604012200",
+            "enddate": "20260402",
+            "url": "/th?id=OHR.WildflowerValley_IT-IT6134763724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildflowerValley_IT-IT6134763724",
+            "copyright": "Fiori selvatici, Central Valley, California, USA (© Jeff Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Central+Valley+California&form=hpcapt",
+            "title": "Il tempo dei fiori",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9df6e71566b2435b690c90f262572ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260331",
             "fullstartdate": "202603312200",
