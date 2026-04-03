@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-02 00:57:49",
-    "Total": 1436,
+    "LastUpdate": "2026-04-03 01:00:54",
+    "Total": 1437,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260402",
+            "fullstartdate": "202604021500",
+            "enddate": "20260403",
+            "url": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440",
+            "copyright": "アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%A0%E3%83%96%E3%83%AB%E3%82%B0%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260402_1500%22",
+            "title": "静かな運河に映る街並み",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "714f873564404ec0e466a8fcfc63d9ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260401",
             "fullstartdate": "202604011500",
