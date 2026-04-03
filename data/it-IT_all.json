@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-02 00:58:12",
-    "Total": 1436,
+    "LastUpdate": "2026-04-03 01:01:19",
+    "Total": 1437,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260402",
+            "fullstartdate": "202604022200",
+            "enddate": "20260403",
+            "url": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550",
+            "copyright": "Ponte Armbrug, Amsterdam, Paesi Bassi (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ponte+Armbrug+Amsterdam+Paesi+Bassi&form=hpcapt",
+            "title": "Cartoline sul canale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b120fbda932cb838087aa85ba2fe2a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260401",
             "fullstartdate": "202604012200",
