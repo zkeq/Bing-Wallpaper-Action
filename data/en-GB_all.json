@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-02 00:58:01",
-    "Total": 1432,
+    "LastUpdate": "2026-04-03 01:01:07",
+    "Total": 1433,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260402",
+            "fullstartdate": "202604022300",
+            "enddate": "20260403",
+            "url": "/th?id=OHR.ArmbrugBridge_EN-GB4782396202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArmbrugBridge_EN-GB4782396202",
+            "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Armbrug+bridge+Amsterdam&form=hpcapt&filters=HpDate%3a%2220260402_2300%22",
+            "title": "Bridging the gap, one arm at a time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f178773ec2433e4815ed4a95643f699c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260401",
             "fullstartdate": "202604012300",
