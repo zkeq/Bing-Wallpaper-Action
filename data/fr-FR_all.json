@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-03 01:01:15",
-    "Total": 1437,
+    "LastUpdate": "2026-04-04 00:56:44",
+    "Total": 1438,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260403",
+            "fullstartdate": "202604032200",
+            "enddate": "20260404",
+            "url": "/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrouseGuff_FR-FR1806901977",
+            "copyright": "Tétras lyres mâles lors d’une parade nuptiale, Estonie (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=T%C3%A9tras+lyre&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+            "title": "Les leks, arènes de séduction",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "690661c8271ad3a406d8b3c35a990974",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260402",
             "fullstartdate": "202604022200",
