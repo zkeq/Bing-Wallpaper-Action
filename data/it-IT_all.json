@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-03 01:01:19",
-    "Total": 1437,
+    "LastUpdate": "2026-04-04 00:56:48",
+    "Total": 1438,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260403",
+            "fullstartdate": "202604032200",
+            "enddate": "20260404",
+            "url": "/th?id=OHR.CastleBlossoms_IT-IT1656060709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleBlossoms_IT-IT1656060709",
+            "copyright": "Castello di Hirosaki con fiori di ciliegio, Hirosaki, Giappone (© Glenn Waters/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castello+Hirosaki&form=hpcapt",
+            "title": "Dove risiede il potere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_CastleBlossoms%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a0e62ab8b952c1b6406918d06e5c8f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260402",
             "fullstartdate": "202604022200",
