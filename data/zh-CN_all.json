@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-03 01:00:45",
-    "Total": 1437,
+    "LastUpdate": "2026-04-04 00:56:15",
+    "Total": 1438,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260403",
+            "fullstartdate": "202604031600",
+            "enddate": "20260404",
+            "url": "/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrouseGuff_ZH-CN2647001885",
+            "copyright": "求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%91%E7%90%B4%E9%B8%A1&form=hpcapt&mkt=zh-cn",
+            "title": "求偶展示场的故事",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cedbe514ccd5c6c786dd70d83bff3162",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260402",
             "fullstartdate": "202604021600",
