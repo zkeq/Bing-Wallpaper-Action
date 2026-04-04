@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-03 01:00:58",
-    "Total": 1437,
+    "LastUpdate": "2026-04-04 00:56:27",
+    "Total": 1438,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260403",
+            "fullstartdate": "202604032200",
+            "enddate": "20260404",
+            "url": "/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrouseGuff_DE-DE7947498839",
+            "copyright": "Birkhähne auf einem Balzplatz, Estland (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Birkhuhn&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+            "title": "Wenn die Balz zur Bühne wird",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3155b4d4ecab8e4f779c1b83ad342e5d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260402",
             "fullstartdate": "202604022200",
