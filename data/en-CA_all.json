@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-04 00:56:31",
-    "Total": 1437,
+    "LastUpdate": "2026-04-05 01:03:54",
+    "Total": 1438,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260404",
+            "fullstartdate": "202604040400",
+            "enddate": "20260405",
+            "url": "/th?id=OHR.GrouseGuff_EN-CA6763957448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrouseGuff_EN-CA6763957448",
+            "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+grouse&form=hpcapt&filters=HpDate%3a%2220260404_0400%22",
+            "title": "The lek side story",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_GrouseGuff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "af7e9b6ad76c7f0cc2b90c161ba32ec4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260403",
             "fullstartdate": "202604030400",
