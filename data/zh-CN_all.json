@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-04 00:56:15",
-    "Total": 1438,
+    "LastUpdate": "2026-04-05 01:03:37",
+    "Total": 1439,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260404",
+            "fullstartdate": "202604041600",
+            "enddate": "20260405",
+            "url": "/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringSnowdrops_ZH-CN2933051747",
+            "copyright": "春天的雪钟花 (© klagyivik/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9B%AA%E9%92%9F%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+            "title": "静静绽放的变化",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SpringSnowdrops%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0e04c62ff1cc802dc0ad2477031abe23",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260403",
             "fullstartdate": "202604031600",
