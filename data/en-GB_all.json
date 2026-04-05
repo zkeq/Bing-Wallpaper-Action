@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-04 00:56:35",
-    "Total": 1434,
+    "LastUpdate": "2026-04-05 01:03:58",
+    "Total": 1435,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260404",
+            "fullstartdate": "202604042300",
+            "enddate": "20260405",
+            "url": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759",
+            "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Easter+Sunday&form=hpcapt&filters=HpDate%3a%2220260404_2300%22",
+            "title": "Hello, Easter Sunday",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_LithuaniaEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecb64b609d73eede77ea4f3bc39763dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260403",
             "fullstartdate": "202604032300",
