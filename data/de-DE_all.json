@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-04 00:56:27",
-    "Total": 1438,
+    "LastUpdate": "2026-04-05 01:03:50",
+    "Total": 1439,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260404",
+            "fullstartdate": "202604042200",
+            "enddate": "20260405",
+            "url": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000",
+            "copyright": "Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ostersonntag&form=hpcapt&filters=HpDate%3a%2220260404_2200%22",
+            "title": "Frohe Ostern!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SorbianEasterEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d39f840a9aec6ae25493c5e6b400d18",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260403",
             "fullstartdate": "202604032200",
