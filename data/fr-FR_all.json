@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-05 01:04:06",
-    "Total": 1439,
+    "LastUpdate": "2026-04-06 01:03:54",
+    "Total": 1440,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260405",
+            "fullstartdate": "202604052200",
+            "enddate": "20260406",
+            "url": "/th?id=OHR.LithuaniaEggs_FR-FR0098459124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LithuaniaEggs_FR-FR0098459124",
+            "copyright": "Œufs de Pâques décorés à la main, Vilnius, Lituanie (© maximkabb/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lundi+de+P%C3%A2ques&form=hpcapt&filters=HpDate%3a%2220260405_2200%22",
+            "title": "C’est parti pour la chasse aux œufs !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_LithuaniaEggs%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb1e75cc2050d72660125344eb601470",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260404",
             "fullstartdate": "202604042200",
