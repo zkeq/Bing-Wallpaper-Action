@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-06 01:03:54",
-    "Total": 1440,
+    "LastUpdate": "2026-04-07 01:01:51",
+    "Total": 1441,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260406",
+            "fullstartdate": "202604062200",
+            "enddate": "20260407",
+            "url": "/th?id=OHR.BeaverPortrait_FR-FR0925060555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverPortrait_FR-FR0925060555",
+            "copyright": "Castor, Allemagne (© Andyworks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=castor+rongeur&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+            "title": "Une branche à la fois",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e49f333084c718d34300965ee8b8ab4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260405",
             "fullstartdate": "202604052200",
