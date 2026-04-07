@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-06 01:03:30",
-    "Total": 1440,
+    "LastUpdate": "2026-04-07 01:01:27",
+    "Total": 1441,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260406",
+            "fullstartdate": "202604060700",
+            "enddate": "20260407",
+            "url": "/th?id=OHR.CastleBlossoms_EN-US6202844131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastleBlossoms_EN-US6202844131",
+            "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Japanese+castle&form=hpcapt&filters=HpDate%3a%2220260406_0700%22",
+            "title": "Where power resides",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_CastleBlossoms%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bda9e72ee50dbbd6a7ea44dd3592e1e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260405",
             "fullstartdate": "202604050700",
