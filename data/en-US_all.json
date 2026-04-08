@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-07 01:01:27",
-    "Total": 1441,
+    "LastUpdate": "2026-04-08 01:02:05",
+    "Total": 1442,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260407",
+            "fullstartdate": "202604070700",
+            "enddate": "20260408",
+            "url": "/th?id=OHR.BeaverPortrait_EN-US6459336252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeaverPortrait_EN-US6459336252",
+            "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=beaver+rodent&form=hpcapt&filters=HpDate%3a%2220260407_0700%22",
+            "title": "One stick at a time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_BeaverPortrait%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "742190ac62a0a32cbc4a45ed45776210",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260406",
             "fullstartdate": "202604060700",
