@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-07 01:01:55",
-    "Total": 1441,
+    "LastUpdate": "2026-04-08 01:02:33",
+    "Total": 1442,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260407",
+            "fullstartdate": "202604072200",
+            "enddate": "20260408",
+            "url": "/th?id=OHR.SeattleSunrise_IT-IT2054215926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeattleSunrise_IT-IT2054215926",
+            "copyright": "Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Seattle&form=hpcapt",
+            "title": "La città della musica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95f7984723321c34575a8ee157af9e40",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260406",
             "fullstartdate": "202604062200",
