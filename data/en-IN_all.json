@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-07 01:01:47",
-    "Total": 1441,
+    "LastUpdate": "2026-04-08 01:02:25",
+    "Total": 1442,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260407",
+            "fullstartdate": "202604071830",
+            "enddate": "20260408",
+            "url": "/th?id=OHR.SeattleSunrise_EN-IN1391422222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeattleSunrise_EN-IN1391422222",
+            "copyright": "Seattle, Washington, United States (© Jim Patterson/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Seattle&form=hpcapt&filters=HpDate%3a%2220260407_1830%22",
+            "title": "The Emerald City",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3890e5369a647728d3662d0155968b83",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260406",
             "fullstartdate": "202604061830",
