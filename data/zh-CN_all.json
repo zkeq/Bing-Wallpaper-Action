@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-08 01:02:01",
-    "Total": 1442,
+    "LastUpdate": "2026-04-09 00:53:48",
+    "Total": 1443,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260408",
+            "fullstartdate": "202604081600",
+            "enddate": "20260409",
+            "url": "/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWaterfall_ZH-CN3175091833",
+            "copyright": "雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E9%9B%B7%E8%82%AF%E6%AF%94%E8%82%AF%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "光之水帘",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "941e3325116376df48714ec556da1485",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260407",
             "fullstartdate": "202604071600",
