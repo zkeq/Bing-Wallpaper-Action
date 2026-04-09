@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-08 01:02:29",
-    "Total": 1442,
+    "LastUpdate": "2026-04-09 00:54:16",
+    "Total": 1443,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260408",
+            "fullstartdate": "202604082200",
+            "enddate": "20260409",
+            "url": "/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWaterfall_FR-FR2361256494",
+            "copyright": "Cascade de Sgwd yr Eira, Parc national des Bannau Brycheiniog, Pays de Galles (© Guy Edwardes/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+national+des++Bannau+Brycheiniog&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+            "title": "Voile de lumière",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c20e8f282067a8a0ff43380161b457a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260407",
             "fullstartdate": "202604072200",
