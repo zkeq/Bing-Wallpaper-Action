@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-08 01:02:09",
-    "Total": 1442,
+    "LastUpdate": "2026-04-09 00:53:57",
+    "Total": 1443,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260408",
+            "fullstartdate": "202604081500",
+            "enddate": "20260409",
+            "url": "/th?id=OHR.WalesWaterfall_JA-JP5848698751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWaterfall_JA-JP5848698751",
+            "copyright": "スグド・イル・エイル滝, ウェールズ (© Guy Edwardes/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%B0%E3%83%89%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%AB%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260408_1500%22",
+            "title": "森の中に流れ落ちる滝",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc9b2a1721163aebd90c116f6e8bbac4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260407",
             "fullstartdate": "202604071500",
