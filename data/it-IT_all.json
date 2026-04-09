@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-08 01:02:33",
-    "Total": 1442,
+    "LastUpdate": "2026-04-09 00:54:20",
+    "Total": 1443,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260408",
+            "fullstartdate": "202604082200",
+            "enddate": "20260409",
+            "url": "/th?id=OHR.WalesWaterfall_IT-IT9480992833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WalesWaterfall_IT-IT9480992833",
+            "copyright": "Cascata Sgwd yr Eira, parco nazionale Bannau Brycheiniog, Galles (© Guy Edwardes/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+parco+nazionale+di+Brecon+Beacons+Galles&form=hpcapt",
+            "title": "Velo di luce",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49bda9519cb59569cf0b80e79bb35bba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260407",
             "fullstartdate": "202604072200",
