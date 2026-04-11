@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-10 01:02:04",
-    "Total": 1444,
+    "LastUpdate": "2026-04-11 00:58:49",
+    "Total": 1445,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260410",
+            "fullstartdate": "202604102200",
+            "enddate": "20260411",
+            "url": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913",
+            "copyright": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Kanarische+Inseln+Spanien&form=hpcapt&filters=HpDate%3a%2220260410_2200%22",
+            "title": "Wo Lava auf Meer trifft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b89acf507f40719000f071f68b86cfcf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260409",
             "fullstartdate": "202604092200",
