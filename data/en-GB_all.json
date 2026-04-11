@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-10 01:02:12",
-    "Total": 1440,
+    "LastUpdate": "2026-04-11 00:58:57",
+    "Total": 1441,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260410",
+            "fullstartdate": "202604102300",
+            "enddate": "20260411",
+            "url": "/th?id=OHR.PlayaPapagayo_EN-GB7620407286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayaPapagayo_EN-GB7620407286",
+            "copyright": "Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Canary+Islands+Spain&form=hpcapt&filters=HpDate%3a%2220260410_2300%22",
+            "title": "Volcanic veneer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "395b67879eddf329b45b7f2dec2b10bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260409",
             "fullstartdate": "202604092300",
