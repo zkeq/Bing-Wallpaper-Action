@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-10 01:02:24",
-    "Total": 1444,
+    "LastUpdate": "2026-04-11 00:59:09",
+    "Total": 1445,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260410",
+            "fullstartdate": "202604102200",
+            "enddate": "20260411",
+            "url": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748",
+            "copyright": "Spiaggia di Papagayo, Lanzarote, Isole Canarie, Spagna (© Gavin Hellier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Isole+Canarie&form=hpcapt",
+            "title": "Vena vulcanica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e967d90f2aa32f6896d2f89be378a622",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260409",
             "fullstartdate": "202604092200",
