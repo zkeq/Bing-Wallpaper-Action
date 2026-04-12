@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-11 00:58:49",
-    "Total": 1445,
+    "LastUpdate": "2026-04-12 01:06:16",
+    "Total": 1446,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260411",
+            "fullstartdate": "202604112200",
+            "enddate": "20260412",
+            "url": "/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpaceTrails_DE-DE4428560014",
+            "copyright": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+bemannten+Raumfahrt&form=hpcapt&filters=HpDate%3a%2220260411_2200%22",
+            "title": "Der erste Schritt ins All",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17678ce55ed1293fad7a050e56d46ac6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260410",
             "fullstartdate": "202604102200",
