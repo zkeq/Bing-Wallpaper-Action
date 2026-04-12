@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-11 00:58:53",
-    "Total": 1444,
+    "LastUpdate": "2026-04-12 01:06:20",
+    "Total": 1445,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260411",
+            "fullstartdate": "202604110400",
+            "enddate": "20260412",
+            "url": "/th?id=OHR.StanleySakura_EN-CA3455290957_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StanleySakura_EN-CA3455290957",
+            "copyright": "A canopy of cherry blossoms in Stanley Park, Vancouver (© WendyNordvikCarr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sakura+Days+Japan+Fair&form=hpcapt&filters=HpDate%3a%2220260411_0400%22",
+            "title": "Follow the blossom map",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_StanleySakura%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d6ec08cd737644b1269d08a27dcdf7d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260410",
             "fullstartdate": "202604100400",
