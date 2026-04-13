@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-12 01:06:24",
-    "Total": 1442,
+    "LastUpdate": "2026-04-13 01:07:41",
+    "Total": 1443,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260412",
+            "fullstartdate": "202604122300",
+            "enddate": "20260413",
+            "url": "/th?id=OHR.BorregoStars_EN-GB8139506405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorregoStars_EN-GB8139506405",
+            "copyright": "Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Dark+Sky+Week&form=hpcapt&filters=HpDate%3a%2220260412_2300%22",
+            "title": "After the lights go down",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "025755f1c26928bd1940f728471f6188",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260411",
             "fullstartdate": "202604112300",
