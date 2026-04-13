@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-12 01:06:20",
-    "Total": 1445,
+    "LastUpdate": "2026-04-13 01:07:37",
+    "Total": 1446,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260412",
+            "fullstartdate": "202604120400",
+            "enddate": "20260413",
+            "url": "/th?id=OHR.SpaceTrails_EN-CA4327583525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpaceTrails_EN-CA4327583525",
+            "copyright": "City lights streak below, taken from the International Space Station (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Human+Space+Flight&form=hpcapt&filters=HpDate%3a%2220260412_0400%22",
+            "title": "The first step off Earth",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_SpaceTrails%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59efa0ab9563951aa75f8e8be6af3347",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260411",
             "fullstartdate": "202604110400",
