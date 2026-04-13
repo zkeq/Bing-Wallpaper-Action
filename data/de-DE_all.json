@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-12 01:06:16",
-    "Total": 1446,
+    "LastUpdate": "2026-04-13 01:07:33",
+    "Total": 1447,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260412",
+            "fullstartdate": "202604122200",
+            "enddate": "20260413",
+            "url": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919",
+            "copyright": "Zilpzalp, Deutschland (© Andyworks/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Zilpzalp&form=hpcapt&filters=HpDate%3a%2220260412_2200%22",
+            "title": "Ein Vogel mit gutem Ruf",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_ChiffchaffSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7f2c8433b102577c64b88dfad63e15af",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260411",
             "fullstartdate": "202604112200",
