@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-12 01:06:32",
-    "Total": 1446,
+    "LastUpdate": "2026-04-13 01:07:50",
+    "Total": 1447,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260412",
+            "fullstartdate": "202604122200",
+            "enddate": "20260413",
+            "url": "/th?id=OHR.BorregoStars_FR-FR4220178429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BorregoStars_FR-FR4220178429",
+            "copyright": "La Voie lactée au-dessus du parc d’État du désert d’Anza-Borrego, Californie, États-Unis (© Kevin Key/Slworking/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Voie+lact%C3%A9e&form=hpcapt&filters=HpDate%3a%2220260412_2200%22",
+            "title": "Moins éclairer pour mieux observer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a52198d49808e9d1551d5d80760d1062",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260411",
             "fullstartdate": "202604112200",
