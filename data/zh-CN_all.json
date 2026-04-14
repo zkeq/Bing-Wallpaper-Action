@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-13 01:07:19",
-    "Total": 1447,
+    "LastUpdate": "2026-04-14 01:06:28",
+    "Total": 1448,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260413",
+            "fullstartdate": "202604131600",
+            "enddate": "20260414",
+            "url": "/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcellarisClownfish_ZH-CN9362948727",
+            "copyright": "海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E8%91%B5&form=hpcapt&mkt=zh-cn",
+            "title": "珊瑚礁邻居",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d79350d53fb05c623317d9c094de2cd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260412",
             "fullstartdate": "202604121600",
