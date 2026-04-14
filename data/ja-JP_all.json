@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-13 01:07:29",
-    "Total": 1447,
+    "LastUpdate": "2026-04-14 01:06:37",
+    "Total": 1448,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260413",
+            "fullstartdate": "202604131500",
+            "enddate": "20260414",
+            "url": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127",
+            "copyright": "クマノミ, インドネシア (© Magnus Lundgren/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260413_1500%22",
+            "title": "イソギンチャクの中で身を寄せる小魚",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1bd359d6594a820eaf6965c6f7b6d0c8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260412",
             "fullstartdate": "202604121500",
