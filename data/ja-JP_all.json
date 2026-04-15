@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-14 01:06:37",
-    "Total": 1448,
+    "LastUpdate": "2026-04-15 01:06:34",
+    "Total": 1449,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260414",
+            "fullstartdate": "202604141500",
+            "enddate": "20260415",
+            "url": "/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Shibazakura2026_JA-JP4532713069",
+            "copyright": "芝桜, 山梨県 (© DoctorEgg/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%9D%E6%A1%9C&form=hpcapt&filters=HpDate%3a%2220260414_1500%22",
+            "title": "富士芝桜まつりが開催中",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_Shibazakura2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9dcf610ee82e51f4fd424fde66d4e926",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260413",
             "fullstartdate": "202604131500",
