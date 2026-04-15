@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-14 01:06:45",
-    "Total": 1447,
+    "LastUpdate": "2026-04-15 01:06:42",
+    "Total": 1448,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260414",
+            "fullstartdate": "202604140400",
+            "enddate": "20260415",
+            "url": "/th?id=OHR.OcellarisClownfish_EN-CA5297847752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OcellarisClownfish_EN-CA5297847752",
+            "copyright": "Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+anemone&form=hpcapt&filters=HpDate%3a%2220260414_0400%22",
+            "title": "Reefside roommates",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_OcellarisClownfish%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2b7415061e828c9f9cbb7f71fda5d082",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260413",
             "fullstartdate": "202604130400",
