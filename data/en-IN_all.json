@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-15 01:06:50",
-    "Total": 1449,
+    "LastUpdate": "2026-04-16 01:08:57",
+    "Total": 1450,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260415",
+            "fullstartdate": "202604151830",
+            "enddate": "20260416",
+            "url": "/th?id=OHR.SkagitTulips_EN-IN3934438603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkagitTulips_EN-IN3934438603",
+            "copyright": "Skagit Valley Tulip Fields, Washington, United States (© Alan Majchrowicz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate%3a%2220260415_1830%22",
+            "title": "Petal parade",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "91a3bb3ad432efe42f58ed330c0e2feb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260414",
             "fullstartdate": "202604141830",
