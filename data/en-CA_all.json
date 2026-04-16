@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-15 01:06:42",
-    "Total": 1448,
+    "LastUpdate": "2026-04-16 01:08:49",
+    "Total": 1449,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260415",
+            "fullstartdate": "202604150400",
+            "enddate": "20260416",
+            "url": "/th?id=OHR.VanGoghFields_EN-CA4117156978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VanGoghFields_EN-CA4117156978",
+            "copyright": "The Carrières des Lumières exhibit of Vincent van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Art+Day&form=hpcapt&filters=HpDate%3a%2220260415_0400%22",
+            "title": "Stepping inside the living canvas",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_VanGoghFields%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "680d2e628f976bce746af0998d2cd37c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260414",
             "fullstartdate": "202604140400",
