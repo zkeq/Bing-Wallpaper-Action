@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-15 01:06:54",
-    "Total": 1449,
+    "LastUpdate": "2026-04-16 01:09:01",
+    "Total": 1450,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260415",
+            "fullstartdate": "202604152200",
+            "enddate": "20260416",
+            "url": "/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkagitTulips_FR-FR6378345422",
+            "copyright": "Champ de tulipes de Skagit Valley, Washington, États-Unis (© Alan Majchrowicz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate%3a%2220260415_2200%22",
+            "title": "La parade des tulipes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "385ba9b6a81bf34613e23cf60c234936",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260414",
             "fullstartdate": "202604142200",
