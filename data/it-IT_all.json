@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-15 01:06:58",
-    "Total": 1449,
+    "LastUpdate": "2026-04-16 01:09:05",
+    "Total": 1450,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260415",
+            "fullstartdate": "202604152200",
+            "enddate": "20260416",
+            "url": "/th?id=OHR.ToscanaSpring_IT-IT2623065946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ToscanaSpring_IT-IT2623065946",
+            "copyright": "Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Colline+toscane&form=hpcapt",
+            "title": "Onde bucoliche",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_ToscanaSpring%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5bdb3748a343639fa684b5ef7fc570db",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260414",
             "fullstartdate": "202604142200",
