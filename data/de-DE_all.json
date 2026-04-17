@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-16 01:08:45",
-    "Total": 1450,
+    "LastUpdate": "2026-04-17 01:06:59",
+    "Total": 1451,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260416",
+            "fullstartdate": "202604162200",
+            "enddate": "20260417",
+            "url": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824",
+            "copyright": "Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien (© Doug Gimesy/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Flughunde&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+            "title": "Fest an Mamas Seite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "643019535744758b718b66db37a793b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260415",
             "fullstartdate": "202604152200",
