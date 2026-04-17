@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-16 01:08:49",
-    "Total": 1449,
+    "LastUpdate": "2026-04-17 01:07:03",
+    "Total": 1450,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260416",
+            "fullstartdate": "202604160400",
+            "enddate": "20260417",
+            "url": "/th?id=OHR.Wildflowerbloom_EN-CA6661555631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Wildflowerbloom_EN-CA6661555631",
+            "copyright": "Blooming lupines in Newfoundland (© Nature, Parks/Outdoor/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lupinus&form=hpcapt&filters=HpDate%3a%2220260416_0400%22",
+            "title": "Be a wildflower",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_Wildflowerbloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b92ea88fbee920897ca75de3a4283eae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260415",
             "fullstartdate": "202604150400",
