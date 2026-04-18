@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-17 01:06:51",
-    "Total": 1451,
+    "LastUpdate": "2026-04-18 01:00:57",
+    "Total": 1452,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260417",
+            "fullstartdate": "202604170700",
+            "enddate": "20260418",
+            "url": "/th?id=OHR.FlyingFoxMom_EN-US0502464388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FlyingFoxMom_EN-US0502464388",
+            "copyright": "Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Bats&form=hpcapt&filters=HpDate%3a%2220260417_0700%22",
+            "title": "Bat signal: ON",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_FlyingFoxMom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a4791d022d37cf5c21ed4bf92e079af3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260416",
             "fullstartdate": "202604160700",
