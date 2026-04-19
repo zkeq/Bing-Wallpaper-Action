@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-18 01:01:01",
-    "Total": 1452,
+    "LastUpdate": "2026-04-19 01:08:41",
+    "Total": 1453,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260418",
+            "fullstartdate": "202604181500",
+            "enddate": "20260419",
+            "url": "/th?id=OHR.BelemTowerBank_JA-JP0304685153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BelemTowerBank_JA-JP0304685153",
+            "copyright": "ベレンの塔, ポルトガル (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%99%E3%83%AC%E3%83%B3%E3%81%AE%E5%A1%94&form=hpcapt&filters=HpDate%3a%2220260418_1500%22",
+            "title": "水辺にたたずむ歴史的な塔",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_BelemTowerBank%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65fa5441c45b312d17bec0149dc2f193",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260417",
             "fullstartdate": "202604171500",
