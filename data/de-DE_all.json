@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-18 01:01:05",
-    "Total": 1452,
+    "LastUpdate": "2026-04-19 01:08:45",
+    "Total": 1453,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260418",
+            "fullstartdate": "202604182200",
+            "enddate": "20260419",
+            "url": "/th?id=OHR.TranBA_DE-DE2926110774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TranBA_DE-DE2926110774",
+            "copyright": "Praia do Espelho, Porto Seguro, Bahia, Brasilien (© Marcelo Nacinovic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bahia+Brasilien&form=hpcapt&filters=HpDate%3a%2220260418_2200%22",
+            "title": "Die Handschrift der Gezeiten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_TranBA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "953f9ccd46d6a0765e9efb14624e09c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260417",
             "fullstartdate": "202604172200",
