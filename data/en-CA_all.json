@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-19 01:08:49",
-    "Total": 1452,
+    "LastUpdate": "2026-04-20 01:08:12",
+    "Total": 1453,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260419",
+            "fullstartdate": "202604190400",
+            "enddate": "20260420",
+            "url": "/th?id=OHR.TranBA_EN-CA3645190031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TranBA_EN-CA3645190031",
+            "copyright": "Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bahia+Brazil&form=hpcapt&filters=HpDate%3a%2220260419_0400%22",
+            "title": "The tide's passing signature",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_TranBA%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b23765f3f237588552a84106caac58ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260418",
             "fullstartdate": "202604180400",
