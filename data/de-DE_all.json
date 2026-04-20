@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-19 01:08:45",
-    "Total": 1453,
+    "LastUpdate": "2026-04-20 01:08:08",
+    "Total": 1454,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260419",
+            "fullstartdate": "202604192200",
+            "enddate": "20260420",
+            "url": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085",
+            "copyright": "Rathaus St. Johann, Saarbrücken, Saarland (© frantic00/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saarbr%C3%BCcken+Rathaus+St+Johann&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+            "title": "Ein Rathaus mit Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SaarbrueckenRathaus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f53f82c9c9e788aa09500944d51fb821",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260418",
             "fullstartdate": "202604182200",
