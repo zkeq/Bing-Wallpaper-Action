@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-19 01:09:05",
-    "Total": 1453,
+    "LastUpdate": "2026-04-20 01:08:28",
+    "Total": 1454,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260419",
+            "fullstartdate": "202604192200",
+            "enddate": "20260420",
+            "url": "/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetKiva_IT-IT3389674511",
+            "copyright": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA (© Jason Hatfield/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+delle+Canyonlands&form=hpcapt",
+            "title": "Oasi di stelle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "240fb2227d52b0a72f336506736b30d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260418",
             "fullstartdate": "202604182200",
