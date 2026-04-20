@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-19 01:09:01",
-    "Total": 1453,
+    "LastUpdate": "2026-04-20 01:08:24",
+    "Total": 1454,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260419",
+            "fullstartdate": "202604192200",
+            "enddate": "20260420",
+            "url": "/th?id=OHR.SunsetKiva_FR-FR2289691113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetKiva_FR-FR2289691113",
+            "copyright": "Coucher de soleil sur le parc national des Canyonlands, Moab, Utah, États-Unis (© Jason Hatfield/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=parc+national+des+Canyonlands&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+            "title": "Le spectacle continue au crépuscule",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0f9e01362614784a26a90571a5c31393",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260418",
             "fullstartdate": "202604182200",
