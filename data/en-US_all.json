@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-19 01:08:37",
-    "Total": 1453,
+    "LastUpdate": "2026-04-20 01:08:00",
+    "Total": 1454,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260419",
+            "fullstartdate": "202604190700",
+            "enddate": "20260420",
+            "url": "/th?id=OHR.LibraryWeek_EN-US0888768835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LibraryWeek_EN-US0888768835",
+            "copyright": "Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Library+Week&form=hpcapt&filters=HpDate%3a%2220260419_0700%22",
+            "title": "Stories start here",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_LibraryWeek%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bd7a3719db3b2c49b10a50b7ec87473b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260418",
             "fullstartdate": "202604180700",
