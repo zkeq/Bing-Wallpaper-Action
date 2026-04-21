@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-20 01:08:08",
-    "Total": 1454,
+    "LastUpdate": "2026-04-21 01:06:51",
+    "Total": 1455,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260420",
+            "fullstartdate": "202604202200",
+            "enddate": "20260421",
+            "url": "/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringHedgehog_DE-DE1345910488",
+            "copyright": "Europäischer Igel, Frankreich (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4ischer+Igel&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+            "title": "Stachelige Frühlingspatrouille",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d2f894287a7552a3e4abaaf4da22a5eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260419",
             "fullstartdate": "202604192200",
