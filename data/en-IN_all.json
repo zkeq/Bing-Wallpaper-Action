@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-20 01:08:20",
-    "Total": 1454,
+    "LastUpdate": "2026-04-21 01:07:03",
+    "Total": 1455,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260420",
+            "fullstartdate": "202604201830",
+            "enddate": "20260421",
+            "url": "/th?id=OHR.SpringHedgehog_EN-IN0774143305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpringHedgehog_EN-IN0774143305",
+            "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=European+hedgehog&form=hpcapt&filters=HpDate%3a%2220260420_1830%22",
+            "title": "Spring's prickly patrol",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb5134925d16d52bf5841bf102b8ccec",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260419",
             "fullstartdate": "202604191830",
