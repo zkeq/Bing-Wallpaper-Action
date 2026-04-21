@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-20 01:08:00",
-    "Total": 1454,
+    "LastUpdate": "2026-04-21 01:06:43",
+    "Total": 1455,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260420",
+            "fullstartdate": "202604200700",
+            "enddate": "20260421",
+            "url": "/th?id=OHR.SunsetKiva_EN-US1031978429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetKiva_EN-US1031978429",
+            "copyright": "Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Park+Week&form=hpcapt&filters=HpDate%3a%2220260420_0700%22",
+            "title": "The adventure doesn't end at sundown",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SunsetKiva%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2c3f533316e28881475dd0609a5ef076",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260419",
             "fullstartdate": "202604190700",
