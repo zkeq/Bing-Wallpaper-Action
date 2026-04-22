@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-21 01:07:07",
-    "Total": 1455,
+    "LastUpdate": "2026-04-22 01:04:10",
+    "Total": 1456,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260421",
+            "fullstartdate": "202604212200",
+            "enddate": "20260422",
+            "url": "/th?id=OHR.TartuEstonia_FR-FR1798225339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TartuEstonia_FR-FR1798225339",
+            "copyright": "Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Jour+de+la+Terre&form=hpcapt&filters=HpDate%3a%2220260421_2200%22",
+            "title": "Le pouvoir de la revendication",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "26943fda1828ec6b64446e2a0faef815",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260420",
             "fullstartdate": "202604202200",
