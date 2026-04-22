@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-21 01:07:03",
-    "Total": 1455,
+    "LastUpdate": "2026-04-22 01:04:06",
+    "Total": 1456,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260421",
+            "fullstartdate": "202604211830",
+            "enddate": "20260422",
+            "url": "/th?id=OHR.TartuEstonia_EN-IN0962469731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TartuEstonia_EN-IN0962469731",
+            "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Earth+Day&form=hpcapt&filters=HpDate%3a%2220260421_1830%22",
+            "title": "The power of protest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98c6beda5bd4e1c6f042c0799911d466",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260420",
             "fullstartdate": "202604201830",
