@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-21 01:07:11",
-    "Total": 1455,
+    "LastUpdate": "2026-04-22 01:04:14",
+    "Total": 1456,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260421",
+            "fullstartdate": "202604212200",
+            "enddate": "20260422",
+            "url": "/th?id=OHR.TartuEstonia_IT-IT3277915557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TartuEstonia_IT-IT3277915557",
+            "copyright": "Riserva naturale di Alam-Pedja, contea di Tartu, Estonia (© Sven Zacek/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Giornata+della+Terra&form=hpcapt",
+            "title": "Il potere della protesta",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4320cc865e0fde2a7532c73ff2aee76f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260420",
             "fullstartdate": "202604202200",
