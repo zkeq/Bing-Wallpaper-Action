@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-22 01:03:50",
-    "Total": 1456,
+    "LastUpdate": "2026-04-23 01:08:49",
+    "Total": 1457,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260422",
+            "fullstartdate": "202604221500",
+            "enddate": "20260423",
+            "url": "/th?id=OHR.HathawayCottage_JA-JP0891184783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HathawayCottage_JA-JP0891184783",
+            "copyright": "アン・ハサウェイのコテージ, イングランド (© David Steele/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E3%81%AE%E5%91%BD%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260422_1500%22",
+            "title": "今日はシェイクスピアの命日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "331d3c1cfb24e9b466f95cdf0f45ee90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260421",
             "fullstartdate": "202604211500",
