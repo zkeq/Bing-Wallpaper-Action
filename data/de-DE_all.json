@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-22 01:03:54",
-    "Total": 1456,
+    "LastUpdate": "2026-04-23 01:08:53",
+    "Total": 1457,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260422",
+            "fullstartdate": "202604222200",
+            "enddate": "20260423",
+            "url": "/th?id=OHR.HathawayCottage_DE-DE1846813831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HathawayCottage_DE-DE1846813831",
+            "copyright": "Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Shakespeare%E2%80%91Tag&form=hpcapt&filters=HpDate%3a%2220260422_2200%22",
+            "title": "Ein Cottage voller Geschichten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "22d5d906e233993328d5af247943b1b7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260421",
             "fullstartdate": "202604212200",
