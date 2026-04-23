@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-22 01:04:02",
-    "Total": 1452,
+    "LastUpdate": "2026-04-23 01:09:01",
+    "Total": 1453,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260422",
+            "fullstartdate": "202604222300",
+            "enddate": "20260423",
+            "url": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487",
+            "copyright": "Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Saint+Georges+Day&form=hpcapt&filters=HpDate%3a%2220260422_2300%22",
+            "title": "Faith, fire and folklore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_StGeorgeDay2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cb53552e385c89924467cd56d32b2ae5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260421",
             "fullstartdate": "202604212300",
