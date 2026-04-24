@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-23 01:08:53",
-    "Total": 1457,
+    "LastUpdate": "2026-04-24 01:09:08",
+    "Total": 1458,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260423",
+            "fullstartdate": "202604232200",
+            "enddate": "20260424",
+            "url": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852",
+            "copyright": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Gal%C3%A1pagos-Pinguin&form=hpcapt&filters=HpDate%3a%2220260423_2200%22",
+            "title": "Wenn Pinguine aus der Reihe tanzen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_GalapagosPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260422",
             "fullstartdate": "202604222200",
