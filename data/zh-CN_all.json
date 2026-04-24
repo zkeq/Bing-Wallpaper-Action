@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-23 01:08:40",
-    "Total": 1457,
+    "LastUpdate": "2026-04-24 01:08:54",
+    "Total": 1458,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260423",
+            "fullstartdate": "202604231600",
+            "enddate": "20260424",
+            "url": "/th?id=OHR.SlashPine_ZH-CN5629388290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SlashPine_ZH-CN5629388290",
+            "copyright": "湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "向树木致敬",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_SlashPine%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce3f5ced99bdc083200c434c35376d2a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260422",
             "fullstartdate": "202604221600",
