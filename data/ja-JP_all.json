@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-23 01:08:49",
-    "Total": 1457,
+    "LastUpdate": "2026-04-24 01:09:04",
+    "Total": 1458,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260423",
+            "fullstartdate": "202604231500",
+            "enddate": "20260424",
+            "url": "/th?id=OHR.SlashPine_JA-JP0980166238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SlashPine_JA-JP0980166238",
+            "copyright": "エバーグレーズ国立公園, 米国 フロリダ州 (© Mary Liz Austin/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%90%E3%83%BC%E3%83%87%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220260423_1500%22",
+            "title": "今日はアーバーデイ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_SlashPine%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e81bf251cb72014ee9d4e4f0fddf85b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260422",
             "fullstartdate": "202604221500",
