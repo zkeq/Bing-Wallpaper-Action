@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-24 01:09:30",
-    "Total": 1458,
+    "LastUpdate": "2026-04-25 01:03:44",
+    "Total": 1459,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260424",
+            "fullstartdate": "202604242200",
+            "enddate": "20260425",
+            "url": "/th?id=OHR.GalapagosPenguins_IT-IT3075883886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GalapagosPenguins_IT-IT3075883886",
+            "copyright": "Pinguini, Isole Galápagos, Ecuador (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+del+Pinguino&form=hpcapt",
+            "title": "Vite al limite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_GalapagosPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e45ef8c830ae464e640d45929bd169b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260423",
             "fullstartdate": "202604232200",
