@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-24 01:09:04",
-    "Total": 1458,
+    "LastUpdate": "2026-04-25 01:03:19",
+    "Total": 1459,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260424",
+            "fullstartdate": "202604241500",
+            "enddate": "20260425",
+            "url": "/th?id=OHR.GalapagosPenguins_JA-JP8635536385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GalapagosPenguins_JA-JP8635536385",
+            "copyright": "ガラパゴスペンギン, エクアドル (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260424_1500%22",
+            "title": "今日は世界ペンギンの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_GalapagosPenguins%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bd6b218c0184eaf72937fc616e0624bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260423",
             "fullstartdate": "202604231500",
