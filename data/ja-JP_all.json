@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-25 01:03:19",
-    "Total": 1459,
+    "LastUpdate": "2026-04-26 01:10:40",
+    "Total": 1460,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260425",
+            "fullstartdate": "202604251500",
+            "enddate": "20260426",
+            "url": "/th?id=OHR.AppleBlossoms_JA-JP1155653651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AppleBlossoms_JA-JP1155653651",
+            "copyright": "リンゴの花, 米国 カリフォルニア州 (© Mimi Ditchie Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260425_1500%22",
+            "title": "やさしく咲く淡いピンクの花",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "03e81dd9afdd692433048ade4213c49a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260424",
             "fullstartdate": "202604241500",
