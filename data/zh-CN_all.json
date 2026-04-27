@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-26 01:10:31",
-    "Total": 1460,
+    "LastUpdate": "2026-04-27 01:11:14",
+    "Total": 1461,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260426",
+            "fullstartdate": "202604261600",
+            "enddate": "20260427",
+            "url": "/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanGalleria_ZH-CN6060869879",
+            "copyright": "维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E9%A9%AC%E5%8A%AA%E5%9F%83%E8%8E%B1%E4%BA%8C%E4%B8%96%E6%8B%B1%E5%BB%8A&form=hpcapt&mkt=zh-cn",
+            "title": "有格调的玻璃",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b5ecf4970bd0ec199bb9fec96d3ad66",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260425",
             "fullstartdate": "202604251600",
