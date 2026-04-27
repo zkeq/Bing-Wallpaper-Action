@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-26 01:10:59",
-    "Total": 1460,
+    "LastUpdate": "2026-04-27 01:11:44",
+    "Total": 1461,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260426",
+            "fullstartdate": "202604262200",
+            "enddate": "20260427",
+            "url": "/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanGalleria_FR-FR0320459768",
+            "copyright": "Dôme en verre de la Galleria Vittorio Emanuele II, Milan, Italie (© PhillipMinnis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italie&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+            "title": "Un dôme qui épate la galerie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "226374cf28f155c2f0600ed7d760dd15",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260425",
             "fullstartdate": "202604252200",
