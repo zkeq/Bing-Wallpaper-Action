@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-26 01:10:47",
-    "Total": 1459,
+    "LastUpdate": "2026-04-27 01:11:32",
+    "Total": 1460,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260426",
+            "fullstartdate": "202604260400",
+            "enddate": "20260427",
+            "url": "/th?id=OHR.AppleBlossoms_EN-CA6292160620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AppleBlossoms_EN-CA6292160620",
+            "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Apple+tree&form=hpcapt&filters=HpDate%3a%2220260426_0400%22",
+            "title": "Bloom boom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_AppleBlossoms%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c3431b3048f25d9ab3813aa4347d1407",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260425",
             "fullstartdate": "202604250400",
