@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-26 01:11:03",
-    "Total": 1460,
+    "LastUpdate": "2026-04-27 01:11:48",
+    "Total": 1461,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260426",
+            "fullstartdate": "202604262200",
+            "enddate": "20260427",
+            "url": "/th?id=OHR.MilanGalleria_IT-IT4692336131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanGalleria_IT-IT4692336131",
+            "copyright": "Cupola di vetro della Galleria Vittorio Emanuele II, Milano (© PhillipMinnis/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II&form=hpcapt",
+            "title": "Aperitivo d’autore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "39266d030602636f820d6d2908e9cb23",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260425",
             "fullstartdate": "202604252200",
