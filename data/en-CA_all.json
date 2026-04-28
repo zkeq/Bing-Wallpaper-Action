@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-27 01:11:32",
-    "Total": 1460,
+    "LastUpdate": "2026-04-28 01:13:19",
+    "Total": 1461,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260427",
+            "fullstartdate": "202604270400",
+            "enddate": "20260428",
+            "url": "/th?id=OHR.MilanGalleria_EN-CA9394952547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MilanGalleria_EN-CA9394952547",
+            "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate%3a%2220260427_0400%22",
+            "title": "Glass with class",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_MilanGalleria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ead9335d8b2f77fb90634a37ffa0529d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260426",
             "fullstartdate": "202604260400",
