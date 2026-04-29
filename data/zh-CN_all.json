@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-28 01:13:02",
-    "Total": 1462,
+    "LastUpdate": "2026-04-29 01:14:22",
+    "Total": 1463,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260428",
+            "fullstartdate": "202604281600",
+            "enddate": "20260429",
+            "url": "/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BelemTowerBank_ZH-CN6235906597",
+            "copyright": "塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B4%9D%E4%BC%A6%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "历史镌刻于石上",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9064fde134056043c4a22d6daab05dd8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260427",
             "fullstartdate": "202604271600",
