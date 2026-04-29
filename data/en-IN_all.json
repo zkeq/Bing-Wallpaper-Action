@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-28 01:13:27",
-    "Total": 1462,
+    "LastUpdate": "2026-04-29 01:14:47",
+    "Total": 1463,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260428",
+            "fullstartdate": "202604281830",
+            "enddate": "20260429",
+            "url": "/th?id=OHR.BelemTowerBank_EN-IN2907801378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BelemTowerBank_EN-IN2907801378",
+            "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Belem+Tower&form=hpcapt&filters=HpDate%3a%2220260428_1830%22",
+            "title": "History anchored in stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5ebf106231a97abd919a6810bbfe2652",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260427",
             "fullstartdate": "202604271830",
