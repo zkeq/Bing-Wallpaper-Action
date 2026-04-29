@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-28 01:13:11",
-    "Total": 1462,
+    "LastUpdate": "2026-04-29 01:14:31",
+    "Total": 1463,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260428",
+            "fullstartdate": "202604281500",
+            "enddate": "20260429",
+            "url": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248",
+            "copyright": "国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%AD%E5%92%8C%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260428_1500%22",
+            "title": "今日は昭和の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_ShowaEraDay2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1811d2f2ae4b2202a80963dc3462f2b8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260427",
             "fullstartdate": "202604271500",
