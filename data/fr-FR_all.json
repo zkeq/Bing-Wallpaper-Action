@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-30 01:14:07",
-    "Total": 1464,
+    "LastUpdate": "2026-05-01 01:19:20",
+    "Total": 1465,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260430",
+            "fullstartdate": "202604302200",
+            "enddate": "20260501",
+            "url": "/th?id=OHR.LilyMay_FR-FR4501325006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LilyMay_FR-FR4501325006",
+            "copyright": "Brin de muguet, Ukraine (© tomch/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=1er+mai&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+            "title": "Bon 1er mai !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_LilyMay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "733871ae7c668983ba0c40ed429259d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260429",
             "fullstartdate": "202604292200",
