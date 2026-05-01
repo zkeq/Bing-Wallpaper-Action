@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-30 01:13:52",
-    "Total": 1464,
+    "LastUpdate": "2026-05-01 01:19:04",
+    "Total": 1465,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260430",
+            "fullstartdate": "202604302200",
+            "enddate": "20260501",
+            "url": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766",
+            "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Leuchtturm+Twr+Mawr&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+            "title": "Ein stiller Wächter an der Küste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a4a15de5ab1b3c735006ff074cabaf40",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260429",
             "fullstartdate": "202604292200",
