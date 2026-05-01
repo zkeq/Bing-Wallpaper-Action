@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-04-30 01:13:59",
-    "Total": 1460,
+    "LastUpdate": "2026-05-01 01:19:12",
+    "Total": 1461,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260430",
+            "fullstartdate": "202604302300",
+            "enddate": "20260501",
+            "url": "/th?id=OHR.BrightonFestival2026_EN-GB4224499383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BrightonFestival2026_EN-GB4224499383",
+            "copyright": "A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Brighton+Festival&form=hpcapt&filters=HpDate%3a%2220260430_2300%22",
+            "title": "Hop on, it's a creative ride",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_BrightonFestival2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a2a56069ea473b428eb847dd70ab87fb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260429",
             "fullstartdate": "202604292300",
