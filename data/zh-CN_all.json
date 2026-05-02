@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-01 01:18:51",
-    "Total": 1465,
+    "LastUpdate": "2026-05-02 01:10:03",
+    "Total": 1466,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260501",
+            "fullstartdate": "202605011600",
+            "enddate": "20260502",
+            "url": "/th?id=OHR.GreenJasper_ZH-CN3030401138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenJasper_ZH-CN3030401138",
+            "copyright": "阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E4%BC%AF%E5%A1%94%E7%9C%81%E8%B4%BE%E6%96%AF%E7%8F%80%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "贾斯珀的自然魅力",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5f4e193dc4f1e0ca4ebb8e153d0f05cf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260430",
             "fullstartdate": "202604301600",
