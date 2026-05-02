@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-01 01:19:00",
-    "Total": 1465,
+    "LastUpdate": "2026-05-02 01:10:11",
+    "Total": 1466,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260501",
+            "fullstartdate": "202605011500",
+            "enddate": "20260502",
+            "url": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671",
+            "copyright": "和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C&form=hpcapt&filters=HpDate%3a%2220260501_1500%22",
+            "title": "今日は八十八夜",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_HachijyuHachiya2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9989106b8aba04fcfd33e4f4643c302",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260430",
             "fullstartdate": "202604301500",
