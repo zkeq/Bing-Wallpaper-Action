@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-01 01:19:16",
-    "Total": 1465,
+    "LastUpdate": "2026-05-02 01:10:27",
+    "Total": 1466,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260501",
+            "fullstartdate": "202605011830",
+            "enddate": "20260502",
+            "url": "/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenJasper_EN-IN3195299837",
+            "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_1830%22",
+            "title": "The magic of Jasper",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2bb8063181f13d85d716d115cc81bb73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260430",
             "fullstartdate": "202604301830",
