@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-02 01:10:15",
-    "Total": 1466,
+    "LastUpdate": "2026-05-03 01:16:47",
+    "Total": 1467,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260502",
+            "fullstartdate": "202605022200",
+            "enddate": "20260503",
+            "url": "/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiLeopard_DE-DE1183742562",
+            "copyright": "Leopard, der in einem Baum in der Savanne schläft, Masai‑Mara‑Nationalreservat, Kenia (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Leoparden+Mai&form=hpcapt&filters=HpDate%3a%2220260502_2200%22",
+            "title": "Rast in der Savanne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49e74127999b1db3abc9fd59e0d1f2a1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260501",
             "fullstartdate": "202605012200",
