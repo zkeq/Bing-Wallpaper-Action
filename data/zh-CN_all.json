@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-02 01:10:03",
-    "Total": 1466,
+    "LastUpdate": "2026-05-03 01:16:34",
+    "Total": 1467,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260502",
+            "fullstartdate": "202605021600",
+            "enddate": "20260503",
+            "url": "/th?id=OHR.MasaiLeopard_ZH-CN3406483238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiLeopard_ZH-CN3406483238",
+            "copyright": "萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚 (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E8%B1%B9%E7%B1%BB%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "萨瓦纳的晚霞",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d0423e632ce156c7ed347d96d1b56c5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260501",
             "fullstartdate": "202605011600",
