@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-03 01:16:34",
-    "Total": 1467,
+    "LastUpdate": "2026-05-04 01:14:49",
+    "Total": 1468,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260503",
+            "fullstartdate": "202605031600",
+            "enddate": "20260504",
+            "url": "/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663",
+            "copyright": "乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "科幻源于现实",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_KsarOuledSoltane%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9c487d353c55368118a693a36a945691",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260502",
             "fullstartdate": "202605021600",
