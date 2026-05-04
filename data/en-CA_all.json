@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-03 01:16:51",
-    "Total": 1466,
+    "LastUpdate": "2026-05-04 01:15:05",
+    "Total": 1467,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260503",
+            "fullstartdate": "202605030400",
+            "enddate": "20260504",
+            "url": "/th?id=OHR.MasaiLeopard_EN-CA1789008589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiLeopard_EN-CA1789008589",
+            "copyright": "Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Leopard+Day&form=hpcapt&filters=HpDate%3a%2220260503_0400%22",
+            "title": "Savannah afterglow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_MasaiLeopard%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4e7935ef1261e62051415cea1124cc7c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260502",
             "fullstartdate": "202605020400",
