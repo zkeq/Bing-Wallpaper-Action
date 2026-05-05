@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-04 01:15:20",
-    "Total": 1468,
+    "LastUpdate": "2026-05-05 01:09:18",
+    "Total": 1469,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260504",
+            "fullstartdate": "202605042200",
+            "enddate": "20260505",
+            "url": "/th?id=OHR.MayoAgave_IT-IT8717745427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayoAgave_IT-IT8717745427",
+            "copyright": "Campo di agave blu nei pressi di Tequila, Jalisco, Messico (© Brian Overcast/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Tequila+citt%C3%A0+Jalisco&form=hpcapt",
+            "title": "Coltura & Cultura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bebf562442209368975f7ba14c567a89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260503",
             "fullstartdate": "202605032200",
