@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-04 01:14:53",
-    "Total": 1468,
+    "LastUpdate": "2026-05-05 01:08:49",
+    "Total": 1469,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260504",
+            "fullstartdate": "202605040700",
+            "enddate": "20260505",
+            "url": "/th?id=OHR.KsarOuledSoltane_EN-US0477407273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KsarOuledSoltane_EN-US0477407273",
+            "copyright": "Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=star+wars+day&form=hpcapt&filters=HpDate%3a%2220260504_0700%22",
+            "title": "Sci‑Fi, Earth‑made",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_KsarOuledSoltane%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8b2e0af22695a65b4de4bc00009d206",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260503",
             "fullstartdate": "202605030700",
