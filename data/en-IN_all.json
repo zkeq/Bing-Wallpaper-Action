@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-04 01:15:13",
-    "Total": 1468,
+    "LastUpdate": "2026-05-05 01:09:10",
+    "Total": 1469,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260504",
+            "fullstartdate": "202605041830",
+            "enddate": "20260505",
+            "url": "/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864",
+            "copyright": "Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Twr+Mawr+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260504_1830%22",
+            "title": "Light at the end of the isle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce5c9e7cde2dcd5cc6add6372225a78b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260503",
             "fullstartdate": "202605031830",
