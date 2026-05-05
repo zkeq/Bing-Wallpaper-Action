@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-04 01:15:09",
-    "Total": 1464,
+    "LastUpdate": "2026-05-05 01:09:06",
+    "Total": 1465,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260504",
+            "fullstartdate": "202605042300",
+            "enddate": "20260505",
+            "url": "/th?id=OHR.MayoAgave_EN-GB6749688899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayoAgave_EN-GB6749688899",
+            "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Tequila+Jalisco+Mexico&form=hpcapt&filters=HpDate%3a%2220260504_2300%22",
+            "title": "Where history took root",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa23b8ef8db0550ab7087cdfff188e1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260503",
             "fullstartdate": "202605032300",
