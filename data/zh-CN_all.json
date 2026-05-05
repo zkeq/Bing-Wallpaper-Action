@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-04 01:14:49",
-    "Total": 1468,
+    "LastUpdate": "2026-05-05 01:08:44",
+    "Total": 1469,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260504",
+            "fullstartdate": "202605041600",
+            "enddate": "20260505",
+            "url": "/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617",
+            "copyright": "莲花与莲花植株 (© real444/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%B7%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+            "title": "藕花风起，首夏清和",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_BeginningofSummerY26%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a9aeb0faa7a50a3d3fa6762692d37eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260503",
             "fullstartdate": "202605031600",
