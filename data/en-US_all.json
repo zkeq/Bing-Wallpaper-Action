@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-05 01:08:49",
-    "Total": 1469,
+    "LastUpdate": "2026-05-06 01:09:47",
+    "Total": 1470,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260505",
+            "fullstartdate": "202605050700",
+            "enddate": "20260506",
+            "url": "/th?id=OHR.MayoAgave_EN-US0521416350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayoAgave_EN-US0521416350",
+            "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Cinco+de+Mayo&form=hpcapt&filters=HpDate%3a%2220260505_0700%22",
+            "title": "Where history took root",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9d7429fc8aa5b6c350b668972576256",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260504",
             "fullstartdate": "202605040700",
