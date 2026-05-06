@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-05 01:08:58",
-    "Total": 1469,
+    "LastUpdate": "2026-05-06 01:09:55",
+    "Total": 1470,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260505",
+            "fullstartdate": "202605052200",
+            "enddate": "20260506",
+            "url": "/th?id=OHR.BulgariaPlains_DE-DE4866806694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BulgariaPlains_DE-DE4866806694",
+            "copyright": "Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bulgarien&form=hpcapt&filters=HpDate%3a%2220260505_2200%22",
+            "title": "Die Kräfte der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2720b5256d934c1653753b98bc473d83",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260504",
             "fullstartdate": "202605042200",
