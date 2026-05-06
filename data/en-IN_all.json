@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-05 01:09:10",
-    "Total": 1469,
+    "LastUpdate": "2026-05-06 01:10:07",
+    "Total": 1470,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260505",
+            "fullstartdate": "202605051830",
+            "enddate": "20260506",
+            "url": "/th?id=OHR.BulgariaPlains_EN-IN4718054909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BulgariaPlains_EN-IN4718054909",
+            "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bulgaria&form=hpcapt&filters=HpDate%3a%2220260505_1830%22",
+            "title": "Plains under pressure",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bf065bdb21db0aac2a7b97dc92c1dcc8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260504",
             "fullstartdate": "202605041830",
