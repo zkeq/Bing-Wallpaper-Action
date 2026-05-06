@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-05 01:09:02",
-    "Total": 1468,
+    "LastUpdate": "2026-05-06 01:09:59",
+    "Total": 1469,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260505",
+            "fullstartdate": "202605050400",
+            "enddate": "20260506",
+            "url": "/th?id=OHR.BullQuebec_EN-CA5955231847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BullQuebec_EN-CA5955231847",
+            "copyright": "A majestic bull moose foraging through the green undergrowth, Quebec (© pchoui/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Moose+animal&form=hpcapt&filters=HpDate%3a%2220260505_0400%22",
+            "title": "In step with the forest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BullQuebec%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7b7dffb06d398b96819c1df76854b8e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260504",
             "fullstartdate": "202605040400",
