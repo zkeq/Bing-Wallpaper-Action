@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-06 01:10:10",
-    "Total": 1470,
+    "LastUpdate": "2026-05-07 01:14:30",
+    "Total": 1471,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260506",
+            "fullstartdate": "202605062200",
+            "enddate": "20260507",
+            "url": "/th?id=OHR.Kofa_FR-FR5084005411_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Kofa_FR-FR5084005411",
+            "copyright": "Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Refuge+faunique+national+de+Kofa&form=hpcapt&filters=HpDate%3a%2220260506_2200%22",
+            "title": "Un désert à l’état pur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "762489513f93ff4d5c488c23aa218830",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260505",
             "fullstartdate": "202605052200",
