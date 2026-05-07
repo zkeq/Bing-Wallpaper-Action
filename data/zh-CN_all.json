@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-06 01:09:42",
-    "Total": 1470,
+    "LastUpdate": "2026-05-07 01:13:59",
+    "Total": 1471,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260506",
+            "fullstartdate": "202605061600",
+            "enddate": "20260507",
+            "url": "/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Kofa_ZH-CN0584573563",
+            "copyright": "科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E6%B3%95%E5%9B%BD%E5%AE%B6%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "广袤铺展的沙漠",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d91d9990e0f7060ab63f08eb699aab6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260505",
             "fullstartdate": "202605051600",
