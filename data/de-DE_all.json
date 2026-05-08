@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-07 01:14:13",
-    "Total": 1471,
+    "LastUpdate": "2026-05-08 01:14:51",
+    "Total": 1472,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260507",
+            "fullstartdate": "202605072200",
+            "enddate": "20260508",
+            "url": "/th?id=OHR.SardinianDonkey_DE-DE5829201604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardinianDonkey_DE-DE5829201604",
+            "copyright": "Sardische Eselstute mit Fohlen, Frankreich (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Hausesel&form=hpcapt&filters=HpDate%3a%2220260507_2200%22",
+            "title": "Mehr als nur ein I‑aah",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e226e2a99380b99ca3ffda6e7ab3d692",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260506",
             "fullstartdate": "202605062200",
