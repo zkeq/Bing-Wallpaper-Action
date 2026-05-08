@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-07 01:14:26",
-    "Total": 1471,
+    "LastUpdate": "2026-05-08 01:15:03",
+    "Total": 1472,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260507",
+            "fullstartdate": "202605071830",
+            "enddate": "20260508",
+            "url": "/th?id=OHR.SardinianDonkey_EN-IN5118136670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardinianDonkey_EN-IN5118136670",
+            "copyright": "Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Donkey+animal&form=hpcapt&filters=HpDate%3a%2220260507_1830%22",
+            "title": "More than a hee-haw",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "29351ac41efc9fc7d133640e77e36941",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260506",
             "fullstartdate": "202605061830",
