@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-07 01:14:17",
-    "Total": 1470,
+    "LastUpdate": "2026-05-08 01:14:55",
+    "Total": 1471,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260507",
+            "fullstartdate": "202605070400",
+            "enddate": "20260508",
+            "url": "/th?id=OHR.Kofa_EN-CA1760783023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Kofa_EN-CA1760783023",
+            "copyright": "Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kofa+National+Wildlife+Refuge&form=hpcapt&filters=HpDate%3a%2220260507_0400%22",
+            "title": "Desert, drawn wide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_Kofa%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6e562bb5f667efb6b74381051b714fb9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260506",
             "fullstartdate": "202605060400",
