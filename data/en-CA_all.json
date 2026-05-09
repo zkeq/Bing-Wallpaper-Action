@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-08 01:14:55",
-    "Total": 1471,
+    "LastUpdate": "2026-05-09 01:13:25",
+    "Total": 1472,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260508",
+            "fullstartdate": "202605080400",
+            "enddate": "20260509",
+            "url": "/th?id=OHR.TulipFestOT_EN-CA8431484438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TulipFestOT_EN-CA8431484438",
+            "copyright": "Tulips and cherry blossoms at the Rideau Canal, Ottawa, Ontario (© J Duquette/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Canadian+Tulip+Festival&form=hpcapt&filters=HpDate%3a%2220260508_0400%22",
+            "title": "When Ottawa turns tulip",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_TulipFestOT%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17d48f62337eb6b655159dc3faa107bc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260507",
             "fullstartdate": "202605070400",
