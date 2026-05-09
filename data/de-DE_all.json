@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-08 01:14:51",
-    "Total": 1472,
+    "LastUpdate": "2026-05-09 01:13:21",
+    "Total": 1473,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260508",
+            "fullstartdate": "202605082200",
+            "enddate": "20260509",
+            "url": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034",
+            "copyright": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien (© Amazing Aerial Agency/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Krka+Kroatien&form=hpcapt&filters=HpDate%3a%2220260508_2200%22",
+            "title": "Die Sprache des Wassers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba9ebd9313e646596f6fa173f6e6a1a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260507",
             "fullstartdate": "202605072200",
