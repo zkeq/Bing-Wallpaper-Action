@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-08 01:15:11",
-    "Total": 1472,
+    "LastUpdate": "2026-05-09 01:13:40",
+    "Total": 1473,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260508",
+            "fullstartdate": "202605082200",
+            "enddate": "20260509",
+            "url": "/th?id=OHR.SkradinskiBuk_IT-IT9815336437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SkradinskiBuk_IT-IT9815336437",
+            "copyright": "Cascata di Skradinski Buk, parco nazionale della Krka, Croazia (© Amazing Aerial Agency/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+della+Cherca&form=hpcapt",
+            "title": "Conoscete l'architetto?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "213120bacdb582aa01899be59b9214ed",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260507",
             "fullstartdate": "202605072200",
