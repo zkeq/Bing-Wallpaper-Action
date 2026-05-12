@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-11 01:20:16",
-    "Total": 1475,
+    "LastUpdate": "2026-05-12 01:13:29",
+    "Total": 1476,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260511",
+            "fullstartdate": "202605112200",
+            "enddate": "20260512",
+            "url": "/th?id=OHR.ChairsCannes_FR-FR7320484740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChairsCannes_FR-FR7320484740",
+            "copyright": "Des chaises attendent l'arrivée des célébrités et des cinéphiles au Festival de Cannes (© Christopher Furlong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Festival+de+Cannes&form=hpcapt&filters=HpDate%3a%2220260511_2200%22",
+            "title": "Place au tapis rouge !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260511_ChairsCannes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9e9827c3175c02be6cc376b058d902e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260510",
             "fullstartdate": "202605102200",
