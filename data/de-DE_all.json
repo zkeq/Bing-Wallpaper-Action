@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-11 01:20:00",
-    "Total": 1475,
+    "LastUpdate": "2026-05-12 01:13:13",
+    "Total": 1476,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260511",
+            "fullstartdate": "202605112200",
+            "enddate": "20260512",
+            "url": "/th?id=OHR.Fratercula_DE-DE8669315365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fratercula_DE-DE8669315365",
+            "copyright": "Papageitaucher, Wales (© FLPA/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Papageitaucher&form=hpcapt&filters=HpDate%3a%2220260511_2200%22",
+            "title": "Leben zwischen Luft und Meer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260511_Fratercula%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "985be79fd24d5b04e0ed5c25b0e29c16",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260510",
             "fullstartdate": "202605102200",
