@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-12 01:13:00",
-    "Total": 1476,
+    "LastUpdate": "2026-05-13 01:19:11",
+    "Total": 1477,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260512",
+            "fullstartdate": "202605121600",
+            "enddate": "20260513",
+            "url": "/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlabamaHills_ZH-CN1387018045",
+            "copyright": "拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E6%8B%89%E5%B7%B4%E9%A9%AC%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+            "title": "银河系，摇滚吧！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "abe3fdbc9d5da72fed5f115264cf2635",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260511",
             "fullstartdate": "202605111600",
