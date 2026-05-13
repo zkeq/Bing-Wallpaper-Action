@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-12 01:13:33",
-    "Total": 1476,
+    "LastUpdate": "2026-05-13 01:19:45",
+    "Total": 1477,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260512",
+            "fullstartdate": "202605122200",
+            "enddate": "20260513",
+            "url": "/th?id=OHR.AlabamaHills_IT-IT1042624581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlabamaHills_IT-IT1042624581",
+            "copyright": "Arco e Via Lattea, Alabama Hills, Sierra Nevada, California, USA (© Tim Fitzharris/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills+Stati+Uniti&form=hpcapt",
+            "title": "Portale dell'Universo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6de3b591b41cbb23ad2131cf08d88426",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260511",
             "fullstartdate": "202605112200",
