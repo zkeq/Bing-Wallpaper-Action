@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-13 01:19:11",
-    "Total": 1477,
+    "LastUpdate": "2026-05-14 01:20:04",
+    "Total": 1478,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260513",
+            "fullstartdate": "202605131600",
+            "enddate": "20260514",
+            "url": "/th?id=OHR.Pitigliano_ZH-CN1509921892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Pitigliano_ZH-CN1509921892",
+            "copyright": "中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9A%AE%E8%92%82%E5%88%A9%E4%BA%9A%E8%AF%BA&form=hpcapt&mkt=zh-cn",
+            "title": "一场穿越时空的旅程",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b56bc81ada1489dd30ab0de930100d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260512",
             "fullstartdate": "202605121600",
