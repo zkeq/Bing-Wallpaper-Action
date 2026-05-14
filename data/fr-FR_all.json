@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-13 01:19:41",
-    "Total": 1477,
+    "LastUpdate": "2026-05-14 01:20:33",
+    "Total": 1478,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260513",
+            "fullstartdate": "202605132200",
+            "enddate": "20260514",
+            "url": "/th?id=OHR.Pitigliano_FR-FR6271151676_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Pitigliano_FR-FR6271151676",
+            "copyright": "Ville médiévale de Pitigliano, Toscane, Italie (© bluejayphoto/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=ville+Pitigliano+Toscane&form=hpcapt&filters=HpDate%3a%2220260513_2200%22",
+            "title": "Un voyage dans le temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0286b851220f8a7302857fd437541c95",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260512",
             "fullstartdate": "202605122200",
