@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-13 01:19:24",
-    "Total": 1477,
+    "LastUpdate": "2026-05-14 01:20:17",
+    "Total": 1478,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260513",
+            "fullstartdate": "202605132200",
+            "enddate": "20260514",
+            "url": "/th?id=OHR.FathersDayItaly_DE-DE9115360587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FathersDayItaly_DE-DE9115360587",
+            "copyright": "Löwenmännchen mit Jungtier (© JasonPrince/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vatertag&form=hpcapt&filters=HpDate%3a%2220260513_2200%22",
+            "title": "An Vaters Seite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_FathersDayItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dbe6a66eace7df6ca5bd309fe861d774",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260512",
             "fullstartdate": "202605122200",
