@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-14 01:20:17",
-    "Total": 1478,
+    "LastUpdate": "2026-05-15 01:17:50",
+    "Total": 1479,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260514",
+            "fullstartdate": "202605142200",
+            "enddate": "20260515",
+            "url": "/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EndangeredWhales_DE-DE2753356925",
+            "copyright": "Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+gef%C3%A4hrdeten+Arten&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+            "title": "Ganz schön laut",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "abd9c81f5cff5e76c76c68117c628500",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260513",
             "fullstartdate": "202605132200",
