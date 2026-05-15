@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-14 01:20:21",
-    "Total": 1477,
+    "LastUpdate": "2026-05-15 01:17:54",
+    "Total": 1478,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260514",
+            "fullstartdate": "202605140400",
+            "enddate": "20260515",
+            "url": "/th?id=OHR.Pitigliano_EN-CA9857257534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Pitigliano_EN-CA9857257534",
+            "copyright": "Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Pitigliano+Tuscany&form=hpcapt&filters=HpDate%3a%2220260514_0400%22",
+            "title": "A journey through time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_Pitigliano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c6c73444f82e6fbd5c758ac73f3fc401",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260513",
             "fullstartdate": "202605130400",
