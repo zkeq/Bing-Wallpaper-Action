@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-15 01:18:06",
-    "Total": 1479,
+    "LastUpdate": "2026-05-16 01:13:15",
+    "Total": 1480,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260515",
+            "fullstartdate": "202605152200",
+            "enddate": "20260516",
+            "url": "/th?id=OHR.BirchForest_FR-FR7115403118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BirchForest_FR-FR7115403118",
+            "copyright": "Forêt de bouleaux, Bourgogne (© Wenphotos/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=bouleau&form=hpcapt&filters=HpDate%3a%2220260515_2200%22",
+            "title": "Ô bouleau !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_BirchForest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ba89eed6aae827737534e0d4d53fa33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260514",
             "fullstartdate": "202605142200",
