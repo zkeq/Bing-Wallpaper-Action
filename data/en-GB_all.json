@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-15 01:17:58",
-    "Total": 1475,
+    "LastUpdate": "2026-05-16 01:13:07",
+    "Total": 1476,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260515",
+            "fullstartdate": "202605152300",
+            "enddate": "20260516",
+            "url": "/th?id=OHR.SmithRockPark_EN-GB6390650151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmithRockPark_EN-GB6390650151",
+            "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Smith+Rock+State+Park&form=hpcapt&filters=HpDate%3a%2220260515_2300%22",
+            "title": "Rock bottom? Not here",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_SmithRockPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b64410e4a55ca1d3141f719679803ead",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260514",
             "fullstartdate": "202605142300",
