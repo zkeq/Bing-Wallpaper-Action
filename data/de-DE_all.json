@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-18 01:23:29",
-    "Total": 1482,
+    "LastUpdate": "2026-05-19 01:23:30",
+    "Total": 1483,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260518",
+            "fullstartdate": "202605182200",
+            "enddate": "20260519",
+            "url": "/th?id=OHR.SpainLighthouse_DE-DE4107700722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpainLighthouse_DE-DE4107700722",
+            "copyright": "Leuchtturm von Formentor, Mallorca, Balearen, Spanien (© Allard Schager/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Formentor+Leuchtturm+Spanien&form=hpcapt&filters=HpDate%3a%2220260518_2200%22",
+            "title": "Abgeschieden über den Klippen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_SpainLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "460ed32f9101a7ea92d4826a36c17dca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260517",
             "fullstartdate": "202605172200",
