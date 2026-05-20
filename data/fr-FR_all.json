@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-19 01:23:47",
-    "Total": 1483,
+    "LastUpdate": "2026-05-20 01:25:02",
+    "Total": 1484,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260519",
+            "fullstartdate": "202605192200",
+            "enddate": "20260520",
+            "url": "/th?id=OHR.BumbleBee_FR-FR9421197553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BumbleBee_FR-FR9421197553",
+            "copyright": "Bourdon, Worcester, Angleterre (© SimonEastwood87/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+abeilles&form=hpcapt&filters=HpDate%3a%2220260519_2200%22",
+            "title": "D’indispensables petites bêtes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bd59abd1951d26e28f11b40374bda04e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260518",
             "fullstartdate": "202605182200",
