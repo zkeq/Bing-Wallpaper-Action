@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-19 01:23:34",
-    "Total": 1482,
+    "LastUpdate": "2026-05-20 01:24:50",
+    "Total": 1483,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260519",
+            "fullstartdate": "202605190400",
+            "enddate": "20260520",
+            "url": "/th?id=OHR.SpainLighthouse_EN-CA8086734621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpainLighthouse_EN-CA8086734621",
+            "copyright": "Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Formentor+Lighthouse+Spain&form=hpcapt&filters=HpDate%3a%2220260519_0400%22",
+            "title": "The edge of Mallorca",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_SpainLighthouse%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a1eac416aa1f5303d874f483f84adc38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260518",
             "fullstartdate": "202605180400",
