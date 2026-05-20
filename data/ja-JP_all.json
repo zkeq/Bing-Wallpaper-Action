@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-19 01:23:26",
-    "Total": 1483,
+    "LastUpdate": "2026-05-20 01:24:42",
+    "Total": 1484,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260519",
+            "fullstartdate": "202605191500",
+            "enddate": "20260520",
+            "url": "/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BumbleBee_JA-JP8551190250",
+            "copyright": "受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%9F%E3%83%84%E3%83%90%E3%83%81%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260519_1500%22",
+            "title": "今日は世界ミツバチの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1bfe38fc2d9f751be042bb0fe1cdd8aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260518",
             "fullstartdate": "202605181500",
