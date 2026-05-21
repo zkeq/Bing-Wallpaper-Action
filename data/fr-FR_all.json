@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-20 01:25:02",
-    "Total": 1484,
+    "LastUpdate": "2026-05-21 01:25:54",
+    "Total": 1485,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260520",
+            "fullstartdate": "202605202200",
+            "enddate": "20260521",
+            "url": "/th?id=OHR.SichuanTea_FR-FR2758573736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SichuanTea_FR-FR2758573736",
+            "copyright": "Plantations de thé en terrasses, Sichuan, Chine (© lzf/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+du+th%C3%A9&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+            "title": "Un héritage liquide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "da30fae81467afc8de2de98d8d177b19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260519",
             "fullstartdate": "202605192200",
