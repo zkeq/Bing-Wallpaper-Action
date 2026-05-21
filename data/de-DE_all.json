@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-20 01:24:46",
-    "Total": 1484,
+    "LastUpdate": "2026-05-21 01:25:39",
+    "Total": 1485,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260520",
+            "fullstartdate": "202605202200",
+            "enddate": "20260521",
+            "url": "/th?id=OHR.SichuanTea_DE-DE2246997070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SichuanTea_DE-DE2246997070",
+            "copyright": "Teeterrassen in der Provinz Sichuan, China (© lzf/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Tees&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+            "title": "Wo Tradition aufgebrüht wird",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7cc0bde1475c6c9ae7f14a3b17825a92",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260519",
             "fullstartdate": "202605192200",
