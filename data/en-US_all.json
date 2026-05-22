@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-21 01:25:31",
-    "Total": 1485,
+    "LastUpdate": "2026-05-22 01:24:01",
+    "Total": 1486,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260521",
+            "fullstartdate": "202605210700",
+            "enddate": "20260522",
+            "url": "/th?id=OHR.SichuanTea_EN-US0676754504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SichuanTea_EN-US0676754504",
+            "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Tea+Day&form=hpcapt&filters=HpDate%3a%2220260521_0700%22",
+            "title": "Brewing a legacy",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_SichuanTea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d477922669a434258082a27c2056a923",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260520",
             "fullstartdate": "202605200700",
