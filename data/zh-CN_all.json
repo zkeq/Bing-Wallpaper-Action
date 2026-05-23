@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-22 01:23:55",
-    "Total": 1486,
+    "LastUpdate": "2026-05-23 04:25:47",
+    "Total": 1487,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260522",
+            "fullstartdate": "202605221600",
+            "enddate": "20260523",
+            "url": "/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571",
+            "copyright": "与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%B9%8C%E9%BE%9F%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "为龟类喝彩！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "72906b5097cae2f9f677b4e9e1b2d56c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260521",
             "fullstartdate": "202605211600",
