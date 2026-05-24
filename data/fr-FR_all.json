@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-23 04:26:16",
-    "Total": 1487,
+    "LastUpdate": "2026-05-24 04:48:21",
+    "Total": 1488,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260523",
+            "fullstartdate": "202605232200",
+            "enddate": "20260524",
+            "url": "/th?id=OHR.DolomitesPark_FR-FR3482729032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolomitesPark_FR-FR3482729032",
+            "copyright": "Parc naturel Trois Cimes, Bolzano, Italie (© Adisorn Fineday Chutikunakorn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+europ%C3%A9enne+des+parcs&form=hpcapt&filters=HpDate%3a%2220260523_2200%22",
+            "title": "La face sauvage de l’Europe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93719536654099462f8419903b9457ad",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260522",
             "fullstartdate": "202605222200",
