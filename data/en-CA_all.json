@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-23 04:26:04",
-    "Total": 1487,
+    "LastUpdate": "2026-05-24 04:48:09",
+    "Total": 1488,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260524",
+            "fullstartdate": "202605240400",
+            "enddate": "20260525",
+            "url": "/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MuteSwanGI_EN-CA6792012530",
+            "copyright": "A mute swan reflected on tranquil waters (© Don White/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mute+swan&form=hpcapt&filters=HpDate%3a%2220260524_0400%22",
+            "title": "The art of quiet control",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_MuteSwanGI%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90f855bc19daf0bedfa478a7c7d09725",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260523",
             "fullstartdate": "202605230400",
