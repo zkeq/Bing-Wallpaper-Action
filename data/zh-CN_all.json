@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-24 04:47:52",
-    "Total": 1488,
+    "LastUpdate": "2026-05-25 05:05:57",
+    "Total": 1489,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260524",
+            "fullstartdate": "202605241600",
+            "enddate": "20260525",
+            "url": "/th?id=OHR.HawaMahal2026_ZH-CN7233246545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaMahal2026_ZH-CN7233246545",
+            "copyright": "从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%A3%8E%E4%B9%8B%E5%AE%AB&form=hpcapt&mkt=zh-cn",
+            "title": "石间的清风",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d0c730fb1efb37e5b163b0ced40eae96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260523",
             "fullstartdate": "202605231600",
