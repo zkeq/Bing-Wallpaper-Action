@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-24 04:48:17",
-    "Total": 1488,
+    "LastUpdate": "2026-05-25 05:06:22",
+    "Total": 1489,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260524",
+            "fullstartdate": "202605241830",
+            "enddate": "20260525",
+            "url": "/th?id=OHR.HawaMahal2026_EN-IN3702170011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaMahal2026_EN-IN3702170011",
+            "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hawa+Mahal&form=hpcapt&filters=HpDate%3a%2220260524_1830%22",
+            "title": "A breeze in stone",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8aa6af5385e995031819a037a825122",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260523",
             "fullstartdate": "202605231830",
