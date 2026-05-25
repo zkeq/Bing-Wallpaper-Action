@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-24 04:48:21",
-    "Total": 1488,
+    "LastUpdate": "2026-05-25 05:06:26",
+    "Total": 1489,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260524",
+            "fullstartdate": "202605242200",
+            "enddate": "20260525",
+            "url": "/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaMahal2026_FR-FR4307485807",
+            "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palais+des+Vents+Jaipur&form=hpcapt&filters=HpDate%3a%2220260524_2200%22",
+            "title": "Un souffle entre les pierres",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c510349ba6586ee81e1b7d3fea070d1f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260523",
             "fullstartdate": "202605232200",
