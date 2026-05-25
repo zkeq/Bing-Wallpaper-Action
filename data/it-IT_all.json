@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-24 04:48:25",
-    "Total": 1488,
+    "LastUpdate": "2026-05-25 05:06:30",
+    "Total": 1489,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260524",
+            "fullstartdate": "202605242200",
+            "enddate": "20260525",
+            "url": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432",
+            "copyright": "Villa Adriana, Tivoli, Lazio (© SeanSavonePhoto/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Villa+Adriana+residenza+imperiale&form=hpcapt",
+            "title": "La villa dei tempi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_TivoliVillaAdriana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52e837e15c3fb689b4dd2d2b7d6690a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260523",
             "fullstartdate": "202605232200",
