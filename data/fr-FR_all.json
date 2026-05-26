@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-25 05:06:26",
-    "Total": 1489,
+    "LastUpdate": "2026-05-26 04:45:29",
+    "Total": 1490,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260525",
+            "fullstartdate": "202605252200",
+            "enddate": "20260526",
+            "url": "/th?id=OHR.LupineBloom_FR-FR4014773564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LupineBloom_FR-FR4014773564",
+            "copyright": "Lupins en fleur, Californie du Nord, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Lupin+fleur&form=hpcapt&filters=HpDate%3a%2220260525_2200%22",
+            "title": "Marée bleue sur la colline",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "69d915e6d9e8c364f8f5e493b9517437",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260524",
             "fullstartdate": "202605242200",
