@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-26 04:45:17",
-    "Total": 1490,
+    "LastUpdate": "2026-05-27 04:56:44",
+    "Total": 1491,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260527",
+            "fullstartdate": "202605270400",
+            "enddate": "20260528",
+            "url": "/th?id=OHR.OtterDay_EN-CA7380907364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OtterDay_EN-CA7380907364",
+            "copyright": "Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+otter+day&form=hpcapt&filters=HpDate%3a%2220260527_0400%22",
+            "title": "No 'otter' like them",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_OtterDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7fbde0b9e1352d3592c129da3daab8ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260526",
             "fullstartdate": "202605260400",
