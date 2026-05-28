@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-27 04:56:56",
-    "Total": 1491,
+    "LastUpdate": "2026-05-28 04:51:17",
+    "Total": 1492,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260527",
+            "fullstartdate": "202605272200",
+            "enddate": "20260528",
+            "url": "/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HwaesongFortress_FR-FR4479337112",
+            "copyright": "Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Forteresse+de+Waseong+Suwon&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+            "title": "Quand architecture et discipline ne font qu’une",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1cb80ae090a475e0889db05cb3ffc063",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260526",
             "fullstartdate": "202605262200",
