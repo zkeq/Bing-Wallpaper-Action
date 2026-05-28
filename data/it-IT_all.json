@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-27 04:57:00",
-    "Total": 1491,
+    "LastUpdate": "2026-05-28 04:51:21",
+    "Total": 1492,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260527",
+            "fullstartdate": "202605272200",
+            "enddate": "20260528",
+            "url": "/th?id=OHR.HwaesongFortress_IT-IT4766993604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HwaesongFortress_IT-IT4766993604",
+            "copyright": "Antiche mura della fortezza di Hwaseong, Suwon, Corea del Sud (© aomam/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fortezza+di+Hwaseong+Suwon+Corea+del+Sud&form=hpcapt",
+            "title": "Estetica e disciplina",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1a5e7edeb8d70856d4e2a35a7e7c21ac",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260526",
             "fullstartdate": "202605262200",
