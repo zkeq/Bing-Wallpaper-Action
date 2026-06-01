@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-31 09:04:54",
-    "Total": 1495,
+    "LastUpdate": "2026-06-01 05:26:23",
+    "Total": 1496,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260531",
+            "fullstartdate": "202605311830",
+            "enddate": "20260601",
+            "url": "/th?id=OHR.OlivaPalermo_EN-IN8542997213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlivaPalermo_EN-IN8542997213",
+            "copyright": "Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palermo&form=hpcapt&filters=HpDate%3a%2220260531_1830%22",
+            "title": "Flavours of history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f7d7631c5224d97c076b6cdbed7bd850",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260530",
             "fullstartdate": "202605301830",
