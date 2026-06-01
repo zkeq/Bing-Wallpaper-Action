@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-31 09:04:37",
-    "Total": 1495,
+    "LastUpdate": "2026-06-01 05:26:07",
+    "Total": 1496,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260531",
+            "fullstartdate": "202605311500",
+            "enddate": "20260601",
+            "url": "/th?id=OHR.Qinghai_JA-JP8687946851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qinghai_JA-JP8687946851",
+            "copyright": "西タイジナール湖, 中国 (© Kaicheng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Xitai+Jinaier+Lake&form=hpcapt&filters=HpDate%3a%2220260531_1500%22",
+            "title": "二つの世界をつなぐ一本道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_Qinghai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e32fd8ad768ab0f028c3f8915833de06",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260530",
             "fullstartdate": "202605301500",
