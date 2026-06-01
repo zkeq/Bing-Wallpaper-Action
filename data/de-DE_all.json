@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-05-31 09:04:41",
-    "Total": 1495,
+    "LastUpdate": "2026-06-01 05:26:11",
+    "Total": 1496,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260531",
+            "fullstartdate": "202605312200",
+            "enddate": "20260601",
+            "url": "/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlivaPalermo_DE-DE3024542120",
+            "copyright": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palermo+Sizilien&form=hpcapt&filters=HpDate%3a%2220260531_2200%22",
+            "title": "Geschichten aus Stein und Zeit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e15da4e9d4d5987b13883e4add2de216",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260530",
             "fullstartdate": "202605302200",
