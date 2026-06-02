@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-01 05:26:07",
-    "Total": 1496,
+    "LastUpdate": "2026-06-02 01:32:07",
+    "Total": 1497,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260601",
+            "fullstartdate": "202606011500",
+            "enddate": "20260602",
+            "url": "/th?id=OHR.YokohamaPort2026_JA-JP8907488905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YokohamaPort2026_JA-JP8907488905",
+            "copyright": "みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A8%AA%E6%B5%9C%E9%96%8B%E6%B8%AF%E8%A8%98%E5%BF%B5%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260601_1500%22",
+            "title": "今日は横浜開港記念日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_YokohamaPort2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "896f0b7de7e9390a8f6179fb2af89d93",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260531",
             "fullstartdate": "202605311500",
