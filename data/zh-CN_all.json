@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-01 05:25:59",
-    "Total": 1496,
+    "LastUpdate": "2026-06-02 01:31:58",
+    "Total": 1497,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260601",
+            "fullstartdate": "202606011600",
+            "enddate": "20260602",
+            "url": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qinghai_ZH-CN9899656327",
+            "copyright": "穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9F%B4%E8%BE%BE%E6%9C%A8%E7%9B%86%E5%9C%B0&form=hpcapt&mkt=zh-cn",
+            "title": "穿行于蓝色之间",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "517ab01bc515a94d6619be1259b11e38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260531",
             "fullstartdate": "202605311600",
