@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-01 05:26:11",
-    "Total": 1496,
+    "LastUpdate": "2026-06-02 01:32:11",
+    "Total": 1497,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260601",
+            "fullstartdate": "202606012200",
+            "enddate": "20260602",
+            "url": "/th?id=OHR.Qinghai_DE-DE2779615258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qinghai_DE-DE2779615258",
+            "copyright": "Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China (© Kaicheng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Qaidam+Becken+China&form=hpcapt&filters=HpDate%3a%2220260601_2200%22",
+            "title": "Wo der Weg das Wasser teilt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "23ffa29104770ebcabef1042bc65df1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260531",
             "fullstartdate": "202605312200",
