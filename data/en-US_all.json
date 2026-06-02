@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-01 05:26:04",
-    "Total": 1496,
+    "LastUpdate": "2026-06-02 01:32:03",
+    "Total": 1497,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260601",
+            "fullstartdate": "202606010700",
+            "enddate": "20260602",
+            "url": "/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RockefellerPride_EN-US1087499810",
+            "copyright": "Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pride+Month+US&form=hpcapt&filters=HpDate%3a%2220260601_0700%22",
+            "title": "Pride in plain sight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_RockefellerPride%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "acdae0644e1af36a388c31870839456f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260531",
             "fullstartdate": "202605310700",
