@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-01 05:26:27",
-    "Total": 1496,
+    "LastUpdate": "2026-06-02 01:32:26",
+    "Total": 1497,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260601",
+            "fullstartdate": "202606012200",
+            "enddate": "20260602",
+            "url": "/th?id=OHR.Qinghai_FR-FR8896155512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qinghai_FR-FR8896155512",
+            "copyright": "Route nationale 315 traversant le lac Xitai Jinaier, Province du Qinghai, Chine (© Kaicheng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bassin+du+Qaidam+Chine&form=hpcapt&filters=HpDate%3a%2220260601_2200%22",
+            "title": "Nuances de bleu",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33ddceb0d5ae952c5a151fa754c2ac30",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260531",
             "fullstartdate": "202605312200",
