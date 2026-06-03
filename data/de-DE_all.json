@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-02 01:32:11",
-    "Total": 1497,
+    "LastUpdate": "2026-06-03 01:37:35",
+    "Total": 1498,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260602",
+            "fullstartdate": "202606022200",
+            "enddate": "20260603",
+            "url": "/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasReales_DE-DE2578527889",
+            "copyright": "Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien (© Artur Debat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Weltfahrradtag&form=hpcapt&filters=HpDate%3a%2220260602_2200%22",
+            "title": "Wo die Straße endet, beginnt das Abenteuer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d5790ac089588987777e06ecd81f05d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260601",
             "fullstartdate": "202606012200",
