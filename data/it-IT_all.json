@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-02 01:32:30",
-    "Total": 1497,
+    "LastUpdate": "2026-06-03 01:37:54",
+    "Total": 1498,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260602",
+            "fullstartdate": "202606022200",
+            "enddate": "20260603",
+            "url": "/th?id=OHR.BardenasReales_IT-IT5937080217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasReales_IT-IT5937080217",
+            "copyright": "Ciclista nel parco naturale e riserva della biosfera delle Bardenas Reales, Navarra, Spagna (© Artur Debat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+della+bicicletta&form=hpcapt",
+            "title": "Oltre i confini",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d48cb22768f1fa3b46907e64c5c5d8dc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260601",
             "fullstartdate": "202606012200",
