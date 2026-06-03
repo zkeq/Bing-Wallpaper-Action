@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-02 01:32:03",
-    "Total": 1497,
+    "LastUpdate": "2026-06-03 01:37:28",
+    "Total": 1498,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260602",
+            "fullstartdate": "202606020700",
+            "enddate": "20260603",
+            "url": "/th?id=OHR.Qinghai_EN-US8807254633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Qinghai_EN-US8807254633",
+            "copyright": "Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Qaidam+Basin+China&form=hpcapt&filters=HpDate%3a%2220260602_0700%22",
+            "title": "Between the blues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_Qinghai%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ffefc2befdab095daa0d96353ade2012",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260601",
             "fullstartdate": "202606010700",
