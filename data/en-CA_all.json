@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-03 01:37:39",
-    "Total": 1497,
+    "LastUpdate": "2026-06-04 01:38:26",
+    "Total": 1498,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260603",
+            "fullstartdate": "202606030400",
+            "enddate": "20260604",
+            "url": "/th?id=OHR.BardenasReales_EN-CA9380471029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BardenasReales_EN-CA9380471029",
+            "copyright": "Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Bicycle+Day&form=hpcapt&filters=HpDate%3a%2220260603_0400%22",
+            "title": "Where the road stops, the ride begins",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_BardenasReales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "daa67fbe8daf3e2c5aca3118733af19f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260602",
             "fullstartdate": "202606020400",
