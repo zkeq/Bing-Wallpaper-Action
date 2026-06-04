@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-03 01:37:23",
-    "Total": 1498,
+    "LastUpdate": "2026-06-04 01:38:09",
+    "Total": 1499,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260603",
+            "fullstartdate": "202606031600",
+            "enddate": "20260604",
+            "url": "/th?id=OHR.PreeningEgret_ZH-CN2216012708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PreeningEgret_ZH-CN2216012708",
+            "copyright": "梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9B%AA%E9%B9%AD&form=hpcapt&mkt=zh-cn",
+            "title": "优雅羽饰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_PreeningEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c3191cd2ed2f1b16bbc3dbaa07b7e74d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260602",
             "fullstartdate": "202606021600",
