@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-04 01:38:14",
-    "Total": 1499,
+    "LastUpdate": "2026-06-05 01:27:58",
+    "Total": 1500,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260604",
+            "fullstartdate": "202606040700",
+            "enddate": "20260605",
+            "url": "/th?id=OHR.PreeningEgret_EN-US9350488148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PreeningEgret_EN-US9350488148",
+            "copyright": "Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=snowy+egret&form=hpcapt&filters=HpDate%3a%2220260604_0700%22",
+            "title": "Fancy feathers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_PreeningEgret%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4cdcef26e713810819d975c799b04d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260603",
             "fullstartdate": "202606030700",
