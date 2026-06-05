@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-04 01:38:18",
-    "Total": 1499,
+    "LastUpdate": "2026-06-05 01:28:02",
+    "Total": 1500,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260604",
+            "fullstartdate": "202606041500",
+            "enddate": "20260605",
+            "url": "/th?id=OHR.WedLapland_JA-JP9552121230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WedLapland_JA-JP9552121230",
+            "copyright": "サーレク国立公園, スウェーデン (© Robert Haasmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%92%B0%E5%A2%83%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260604_1500%22",
+            "title": "今日は世界環境デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77c63c7b0c01832489a04470d92616d6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260603",
             "fullstartdate": "202606031500",
