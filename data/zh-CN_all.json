@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-04 01:38:09",
-    "Total": 1499,
+    "LastUpdate": "2026-06-05 01:27:53",
+    "Total": 1500,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260604",
+            "fullstartdate": "202606041600",
+            "enddate": "20260605",
+            "url": "/th?id=OHR.WedLapland_ZH-CN2365942547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WedLapland_ZH-CN2365942547",
+            "copyright": "从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "无人问津之地的静默力量",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a3e55178ec51942df1077ed8b1d3ce3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260603",
             "fullstartdate": "202606031600",
