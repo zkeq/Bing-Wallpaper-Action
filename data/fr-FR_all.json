@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-04 01:38:38",
-    "Total": 1499,
+    "LastUpdate": "2026-06-05 01:28:23",
+    "Total": 1500,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260604",
+            "fullstartdate": "202606042200",
+            "enddate": "20260605",
+            "url": "/th?id=OHR.WedLapland_FR-FR5600667341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WedLapland_FR-FR5600667341",
+            "copyright": "Vue sur Skierffe et la vallée de Rapa, Parc national de Sarek, Laponie, Suède (© Robert Haasmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+Mondiale+de+l%E2%80%99environnement&form=hpcapt&filters=HpDate%3a%2220260604_2200%22",
+            "title": "Une terre indomptable",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "be033f77ff25e8f1af662e953ac2409e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260603",
             "fullstartdate": "202606032200",
