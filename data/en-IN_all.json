@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-05 01:28:19",
-    "Total": 1500,
+    "LastUpdate": "2026-06-06 01:22:41",
+    "Total": 1501,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260605",
+            "fullstartdate": "202606051830",
+            "enddate": "20260606",
+            "url": "/th?id=OHR.HikingNatchez_EN-IN6692623597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HikingNatchez_EN-IN6692623597",
+            "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Natchez+Trace+Parkway&form=hpcapt&filters=HpDate%3a%2220260605_1830%22",
+            "title": "Wander often, wonder more",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd9dea6d1e71e787e70d919e400e584d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260604",
             "fullstartdate": "202606041830",
