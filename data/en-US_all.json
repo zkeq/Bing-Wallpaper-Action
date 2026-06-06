@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-05 01:27:58",
-    "Total": 1500,
+    "LastUpdate": "2026-06-06 01:22:21",
+    "Total": 1501,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260605",
+            "fullstartdate": "202606050700",
+            "enddate": "20260606",
+            "url": "/th?id=OHR.WedLapland_EN-US9813120088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WedLapland_EN-US9813120088",
+            "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Environment+Day&form=hpcapt&filters=HpDate%3a%2220260605_0700%22",
+            "title": "The quiet power of an unclaimed world",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_WedLapland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "25bb7cc44c4301458110a58178f91892",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260604",
             "fullstartdate": "202606040700",
