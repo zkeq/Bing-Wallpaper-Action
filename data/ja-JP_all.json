@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-05 01:28:02",
-    "Total": 1500,
+    "LastUpdate": "2026-06-06 01:22:25",
+    "Total": 1501,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260605",
+            "fullstartdate": "202606051500",
+            "enddate": "20260606",
+            "url": "/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HikingNatchez_JA-JP9730895087",
+            "copyright": "ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%80%8C%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%83%87%E3%83%BC%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220260605_1500%22",
+            "title": "今日は米国の「トレイルデー」",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9907bc5c7d2a7aec69deb9b62504b04e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260604",
             "fullstartdate": "202606041500",
