@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-05 01:27:53",
-    "Total": 1500,
+    "LastUpdate": "2026-06-06 01:22:17",
+    "Total": 1501,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260605",
+            "fullstartdate": "202606051600",
+            "enddate": "20260606",
+            "url": "/th?id=OHR.HikingNatchez_ZH-CN2495512699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HikingNatchez_ZH-CN2495512699",
+            "copyright": "纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国 (© The best photo is earned/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%B3%E5%A5%87%E5%85%B9%E5%B0%8F%E5%BE%84%E6%97%A5%E5%87%BA%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn",
+            "title": "多走走，多思考",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ab51fb9737355417109fd194d44af522",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260604",
             "fullstartdate": "202606041600",
