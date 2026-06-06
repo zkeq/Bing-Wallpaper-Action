@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-05 01:28:06",
-    "Total": 1500,
+    "LastUpdate": "2026-06-06 01:22:29",
+    "Total": 1501,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260605",
+            "fullstartdate": "202606052200",
+            "enddate": "20260606",
+            "url": "/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RothenburgPloenlein_DE-DE1102047823",
+            "copyright": "Plönlein mit Siebersturm und Kobolzeller Tor, Rothenburg ob der Tauber, Bayern (© Harald Nachtmann/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pl%C3%B6nlein+Rothenburg&form=hpcapt&filters=HpDate%3a%2220260605_2200%22",
+            "title": "Wie aus dem Märchen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_RothenburgPloenlein%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "445746fd93812ec817f3889e382cad6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260604",
             "fullstartdate": "202606042200",
