@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:21",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:31:52",
+    "Total": 1502,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606060700",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.HikingNatchez_EN-US0663065299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HikingNatchez_EN-US0663065299",
+            "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Trails+Day&form=hpcapt&filters=HpDate%3a%2220260606_0700%22",
+            "title": "Wander often, wonder more",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_HikingNatchez%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "27800678f53bd05858ca33ad7c2b26ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606050700",
