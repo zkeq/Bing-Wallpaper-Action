@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:25",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:31:56",
+    "Total": 1502,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606061500",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.Limpets_JA-JP0282972005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Limpets_JA-JP0282972005",
+            "copyright": "プラヤ・ダ・ウルサ, ポルトガル (© Theo Bosboom/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%97%E3%83%A9%E3%83%A4%E3%83%BB%E3%83%80%E3%83%BB%E3%82%A6%E3%83%AB%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260606_1500%22",
+            "title": "干潮時の浜辺で露出した巻貝たち",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_Limpets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33ee8e8fb6b749c25385f56cbe70543f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606051500",
