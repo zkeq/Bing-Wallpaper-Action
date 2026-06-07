@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:48",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:32:21",
+    "Total": 1502,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606062200",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.Hnausapollur_IT-IT7264622546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hnausapollur_IT-IT7264622546",
+            "copyright": "Lago del cratere Hnausapollur, riserva naturale di Fjallabak, Islanda (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hnausapollur+Islanda&form=hpcapt",
+            "title": "Aria, acqua, terra e fuoco",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_Hnausapollur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "145b39448ca4bd3e4613a9c3eab512a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606052200",
