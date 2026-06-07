@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:17",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:31:47",
+    "Total": 1502,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606061600",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326",
+            "copyright": "邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%82%93%E5%A1%9E%E5%BC%97%E9%87%8C%E5%85%8B%E5%9F%8E%E5%A0%A1++&form=hpcapt&mkt=zh-cn",
+            "title": "最后一堵墙矗立着",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_DunseverickCastle2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ddd129f06e2cfb60ebf7e0e82edcb54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606051600",
