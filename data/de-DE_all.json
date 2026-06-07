@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:29",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:32:00",
+    "Total": 1502,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606062200",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.DunseverickCastle2026_DE-DE1972643390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunseverickCastle2026_DE-DE1972643390",
+            "copyright": "Ruine von Dunseverick Castle, County Antrim, Nordirland (© Krzysztof Rogalski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dunseverick+Castle+Nordirland&form=hpcapt&filters=HpDate%3a%2220260606_2200%22",
+            "title": "Ruinen voller Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_DunseverickCastle2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92effe479082b952a8da77395c383eaa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606052200",
