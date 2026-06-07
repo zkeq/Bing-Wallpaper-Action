@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:41",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:32:13",
+    "Total": 1502,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606061830",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.DunseverickCastle2026_EN-IN6819043109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunseverickCastle2026_EN-IN6819043109",
+            "copyright": "Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dunseverick+Castle&form=hpcapt&filters=HpDate%3a%2220260606_1830%22",
+            "title": "The last wall standing",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_DunseverickCastle2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3d170d0471b7d8c27f0fde098eb5a3e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606051830",
