@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-06 01:22:45",
-    "Total": 1501,
+    "LastUpdate": "2026-06-07 01:32:17",
+    "Total": 1502,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260606",
+            "fullstartdate": "202606062200",
+            "enddate": "20260607",
+            "url": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493",
+            "copyright": "Ruines du château de Dunseverick, Antrim, Irlande du Nord (© Krzysztof Rogalski/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Dunseverick&form=hpcapt&filters=HpDate%3a%2220260606_2200%22",
+            "title": "Il tient encore bon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_DunseverickCastle2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6434f497af9158fac4a7b96601edc4ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260605",
             "fullstartdate": "202606052200",
