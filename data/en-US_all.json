@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-07 01:31:52",
-    "Total": 1502,
+    "LastUpdate": "2026-06-08 01:31:30",
+    "Total": 1503,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260607",
+            "fullstartdate": "202606070700",
+            "enddate": "20260608",
+            "url": "/th?id=OHR.GardenAtlanta_EN-US2319128074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GardenAtlanta_EN-US2319128074",
+            "copyright": "Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Garden+Week&form=hpcapt&filters=HpDate%3a%2220260607_0700%22",
+            "title": "Plant your kingdom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_GardenAtlanta%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "df4fe01ec1d8fc8215fc47eb61db674d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260606",
             "fullstartdate": "202606060700",
