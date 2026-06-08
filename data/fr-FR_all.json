@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-07 01:32:17",
-    "Total": 1502,
+    "LastUpdate": "2026-06-08 01:31:53",
+    "Total": 1503,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260607",
+            "fullstartdate": "202606072200",
+            "enddate": "20260608",
+            "url": "/th?id=OHR.PantheonParisNight_FR-FR5459826291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PantheonParisNight_FR-FR5459826291",
+            "copyright": "Le Panthéon de nuit, Paris (© Don White/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=George+Sand&form=hpcapt&filters=HpDate%3a%2220260607_2200%22",
+            "title": "Une voix libre à tout jamais",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_PantheonParisNight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "337318d27c987402929db7fa896e5264",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260606",
             "fullstartdate": "202606062200",
