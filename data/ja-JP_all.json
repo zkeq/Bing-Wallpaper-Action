@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-07 01:31:56",
-    "Total": 1502,
+    "LastUpdate": "2026-06-08 01:31:34",
+    "Total": 1503,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260607",
+            "fullstartdate": "202606071500",
+            "enddate": "20260608",
+            "url": "/th?id=OHR.Cyanea_JA-JP0508555494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Cyanea_JA-JP0508555494",
+            "copyright": "海中を泳ぐキタユウレイクラゲ (© Alexander Semenov Images/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260607_1500%22",
+            "title": "今日は世界海洋デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a4451eee5536bb37e20058086c66f48",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260606",
             "fullstartdate": "202606061500",
