@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-08 01:31:34",
-    "Total": 1503,
+    "LastUpdate": "2026-06-09 01:22:20",
+    "Total": 1504,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260608",
+            "fullstartdate": "202606081500",
+            "enddate": "20260609",
+            "url": "/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CTNPVernazza_JA-JP0736280487",
+            "copyright": "ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260608_1500%22",
+            "title": "夕暮れに包まれた海辺の町",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7973514b7b264697023b40e1a1d6775e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260607",
             "fullstartdate": "202606071500",
