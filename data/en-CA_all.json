@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-08 01:31:42",
-    "Total": 1502,
+    "LastUpdate": "2026-06-09 01:22:28",
+    "Total": 1503,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260608",
+            "fullstartdate": "202606080400",
+            "enddate": "20260609",
+            "url": "/th?id=OHR.Cyanea_EN-CA5037200918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Cyanea_EN-CA5037200918",
+            "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Oceans+Day&form=hpcapt&filters=HpDate%3a%2220260608_0400%22",
+            "title": "Drift with the current",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_Cyanea%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9ff0675227c432920a9f2e554056a16",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260607",
             "fullstartdate": "202606070400",
