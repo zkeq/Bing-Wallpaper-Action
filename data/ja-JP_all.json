@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-09 01:22:20",
-    "Total": 1504,
+    "LastUpdate": "2026-06-10 01:27:31",
+    "Total": 1505,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260609",
+            "fullstartdate": "202606091500",
+            "enddate": "20260610",
+            "url": "/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hnausapollur_JA-JP1632213498",
+            "copyright": "フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hnausapollur&form=hpcapt&filters=HpDate%3a%2220260609_1500%22",
+            "title": "大地に走る一筋の青",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17b5d9f9967f216ff4c0ea7581b3ef40",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260608",
             "fullstartdate": "202606081500",
