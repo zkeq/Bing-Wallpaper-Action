@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-09 01:22:28",
-    "Total": 1503,
+    "LastUpdate": "2026-06-10 01:27:39",
+    "Total": 1504,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260609",
+            "fullstartdate": "202606090400",
+            "enddate": "20260610",
+            "url": "/th?id=OHR.CTNPVernazza_EN-CA5243327024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CTNPVernazza_EN-CA5243327024",
+            "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Vernazza+Cinque+Terre+Liguria+Italy&form=hpcapt&filters=HpDate%3a%2220260609_0400%22",
+            "title": "Taste the sunset",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_CTNPVernazza%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34676e350f404c284fec975301b3073c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260608",
             "fullstartdate": "202606080400",
