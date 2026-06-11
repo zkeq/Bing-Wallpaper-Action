@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-10 01:27:23",
-    "Total": 1505,
+    "LastUpdate": "2026-06-11 01:30:50",
+    "Total": 1506,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260610",
+            "fullstartdate": "202606101600",
+            "enddate": "20260611",
+            "url": "/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Limpets_ZH-CN4991771513",
+            "copyright": "退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%B0%94%E8%90%A8%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn",
+            "title": "沉静的力量",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8decfbedfd8b4d8d5927fc0707260454",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260609",
             "fullstartdate": "202606091600",
