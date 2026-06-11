@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-10 01:27:27",
-    "Total": 1505,
+    "LastUpdate": "2026-06-11 01:30:55",
+    "Total": 1506,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260610",
+            "fullstartdate": "202606100700",
+            "enddate": "20260611",
+            "url": "/th?id=OHR.Hnausapollur_EN-US2080493040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Hnausapollur_EN-US2080493040",
+            "copyright": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hnausapollur+Iceland&form=hpcapt&filters=HpDate%3a%2220260610_0700%22",
+            "title": "A splash of blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Hnausapollur%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b168166fd84f5e4eecd386f797f5588",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260609",
             "fullstartdate": "202606090700",
