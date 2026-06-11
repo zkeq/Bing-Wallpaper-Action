@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-10 01:27:35",
-    "Total": 1505,
+    "LastUpdate": "2026-06-11 01:31:03",
+    "Total": 1506,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260610",
+            "fullstartdate": "202606102200",
+            "enddate": "20260611",
+            "url": "/th?id=OHR.Limpets_DE-DE3433588374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Limpets_DE-DE3433588374",
+            "copyright": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260610_2200%22",
+            "title": "Fest im Fels",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3744d25fe711e06733e20e3f5410c991",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260609",
             "fullstartdate": "202606092200",
