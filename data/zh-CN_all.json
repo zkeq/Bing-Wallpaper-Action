@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-11 01:30:50",
-    "Total": 1506,
+    "LastUpdate": "2026-06-12 01:33:56",
+    "Total": 1507,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260611",
+            "fullstartdate": "202606111600",
+            "enddate": "20260612",
+            "url": "/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpainBeeEater_ZH-CN4424052851",
+            "copyright": "黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E5%96%89%E8%9C%82%E8%99%8E&form=hpcapt&mkt=zh-cn",
+            "title": "惊鸿一瞥",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbd977f0c7519c3f19070b67747e385a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260610",
             "fullstartdate": "202606101600",
