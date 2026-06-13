@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-12 01:34:17",
-    "Total": 1503,
+    "LastUpdate": "2026-06-13 01:30:24",
+    "Total": 1504,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260612",
+            "fullstartdate": "202606122300",
+            "enddate": "20260613",
+            "url": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TroopingTheColour2026_EN-GB9412651820",
+            "copyright": "Members of the Household Cavalry Mounted Regiment at Hyde Park, London (© Leon Neal/Staff/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Trooping+the+Colour&form=hpcapt&filters=HpDate%3a%2220260612_2300%22",
+            "title": "Marching to the royal beat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_TroopingTheColour2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "737f28cfbf5ec427cc9121abe5ed554a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260611",
             "fullstartdate": "202606112300",
