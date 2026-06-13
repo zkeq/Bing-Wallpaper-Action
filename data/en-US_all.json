@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-12 01:34:01",
-    "Total": 1507,
+    "LastUpdate": "2026-06-13 01:30:08",
+    "Total": 1508,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260612",
+            "fullstartdate": "202606120700",
+            "enddate": "20260613",
+            "url": "/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SpainBeeEater_EN-US5920719155",
+            "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0700%22",
+            "title": "A flash in flight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_SpainBeeEater%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1fd67d0341095f88fb217ddb96fb2b54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260611",
             "fullstartdate": "202606110700",
