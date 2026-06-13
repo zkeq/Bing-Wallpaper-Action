@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-12 01:34:21",
-    "Total": 1507,
+    "LastUpdate": "2026-06-13 01:30:28",
+    "Total": 1508,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260612",
+            "fullstartdate": "202606121830",
+            "enddate": "20260613",
+            "url": "/th?id=OHR.BadSunset_EN-IN7356808062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadSunset_EN-IN7356808062",
+            "copyright": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260612_1830%22",
+            "title": "Layers of change",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "895c413a051a5de3ec09e3c4059811a9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260611",
             "fullstartdate": "202606111830",
