@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-12 01:33:56",
-    "Total": 1507,
+    "LastUpdate": "2026-06-13 01:30:03",
+    "Total": 1508,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260612",
+            "fullstartdate": "202606121600",
+            "enddate": "20260613",
+            "url": "/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadSunset_ZH-CN9050997938",
+            "copyright": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%81%B6%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "岁月的层峦",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bf12af6a788b4374eb75b0a576f9b7a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260611",
             "fullstartdate": "202606111600",
