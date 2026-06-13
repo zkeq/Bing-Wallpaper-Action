@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-12 01:34:29",
-    "Total": 1507,
+    "LastUpdate": "2026-06-13 01:30:36",
+    "Total": 1508,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260612",
+            "fullstartdate": "202606122200",
+            "enddate": "20260613",
+            "url": "/th?id=OHR.BadSunset_IT-IT7610700468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadSunset_IT-IT7610700468",
+            "copyright": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Badlands&form=hpcapt",
+            "title": "Terre di cenere",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5375f7cbb325748b9861236f5c3b51e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260611",
             "fullstartdate": "202606112200",
