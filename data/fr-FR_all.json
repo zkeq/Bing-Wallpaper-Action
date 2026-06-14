@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-13 01:30:32",
-    "Total": 1508,
+    "LastUpdate": "2026-06-14 01:34:33",
+    "Total": 1509,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260613",
+            "fullstartdate": "202606132200",
+            "enddate": "20260614",
+            "url": "/th?id=OHR.DuckPond_FR-FR7676171535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuckPond_FR-FR7676171535",
+            "copyright": "Canard colvert (© Philippe Paternolli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=canard+colvert&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+            "title": "C’est la danse des canards",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_DuckPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7f195d663df6bbb5f122b263c29ca020",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260612",
             "fullstartdate": "202606122200",
