@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-13 01:30:12",
-    "Total": 1508,
+    "LastUpdate": "2026-06-14 01:34:12",
+    "Total": 1509,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260613",
+            "fullstartdate": "202606131500",
+            "enddate": "20260614",
+            "url": "/th?id=OHR.BadSunset_JA-JP5960860484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BadSunset_JA-JP5960860484",
+            "copyright": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22",
+            "title": "夕焼けに染まる層をなす岩の景観",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_BadSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ba516e20c8e57933b06565471dfa4d3b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260612",
             "fullstartdate": "202606121500",
