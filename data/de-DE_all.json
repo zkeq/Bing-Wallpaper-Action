@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-13 01:30:16",
-    "Total": 1508,
+    "LastUpdate": "2026-06-14 01:34:16",
+    "Total": 1509,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260613",
+            "fullstartdate": "202606132200",
+            "enddate": "20260614",
+            "url": "/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MainauFlowers_DE-DE9640558313",
+            "copyright": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+            "title": "Die stille Kunst des Gartens",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_MainauFlowers%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c432ae898abca2e4bfce43eb0816cdab",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260612",
             "fullstartdate": "202606122200",
