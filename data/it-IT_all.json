@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-14 01:34:37",
-    "Total": 1509,
+    "LastUpdate": "2026-06-15 01:37:28",
+    "Total": 1510,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260614",
+            "fullstartdate": "202606142200",
+            "enddate": "20260615",
+            "url": "/th?id=OHR.ParkEstd_IT-IT3908775482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParkEstd_IT-IT3908775482",
+            "copyright": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Great+Smoky+Mountains&form=hpcapt",
+            "title": "Valli nella nebbia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7ae675f8fa48cb6ee35cd260ba17adb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260613",
             "fullstartdate": "202606132200",
