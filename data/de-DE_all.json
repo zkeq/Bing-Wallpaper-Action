@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-14 01:34:16",
-    "Total": 1509,
+    "LastUpdate": "2026-06-15 01:37:07",
+    "Total": 1510,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260614",
+            "fullstartdate": "202606142200",
+            "enddate": "20260615",
+            "url": "/th?id=OHR.DuckPond_DE-DE9877208937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DuckPond_DE-DE9877208937",
+            "copyright": "Stockente (© Philippe Paternolli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Stockente&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
+            "title": "Ein vertrauter Gast am Wasser",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_DuckPond%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33318bb15ec48145a28270656dcb7e4e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260613",
             "fullstartdate": "202606132200",
