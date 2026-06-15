@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-14 01:34:29",
-    "Total": 1509,
+    "LastUpdate": "2026-06-15 01:37:20",
+    "Total": 1510,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260614",
+            "fullstartdate": "202606141830",
+            "enddate": "20260615",
+            "url": "/th?id=OHR.ParkEstd_EN-IN7979223128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParkEstd_EN-IN7979223128",
+            "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_1830%22",
+            "title": "Aged to scenic perfection",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92640b0fcbbf6b50cbb0b467db088318",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260613",
             "fullstartdate": "202606131830",
