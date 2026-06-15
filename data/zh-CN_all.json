@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-14 01:34:04",
-    "Total": 1509,
+    "LastUpdate": "2026-06-15 01:36:54",
+    "Total": 1510,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260614",
+            "fullstartdate": "202606141600",
+            "enddate": "20260615",
+            "url": "/th?id=OHR.ParkEstd_ZH-CN3419035151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParkEstd_ZH-CN3419035151",
+            "copyright": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%83%9F%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "岁月雕琢，风景始成",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ed734be8f459949c040bf05b4d33fcd3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260613",
             "fullstartdate": "202606131600",
