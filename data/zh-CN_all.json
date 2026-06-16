@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-15 01:36:54",
-    "Total": 1510,
+    "LastUpdate": "2026-06-16 01:37:31",
+    "Total": 1511,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260615",
+            "fullstartdate": "202606151600",
+            "enddate": "20260616",
+            "url": "/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SevenMileTurtle_ZH-CN4346512721",
+            "copyright": "七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E9%BE%9F%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "蔚蓝海礁的守护者",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9ee387a7e6da153b239862a768876cde",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260614",
             "fullstartdate": "202606141600",
