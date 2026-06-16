@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-15 01:37:03",
-    "Total": 1510,
+    "LastUpdate": "2026-06-16 01:37:41",
+    "Total": 1511,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260615",
+            "fullstartdate": "202606151500",
+            "enddate": "20260616",
+            "url": "/th?id=OHR.SevenMileTurtle_JA-JP9577560353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SevenMileTurtle_JA-JP9577560353",
+            "copyright": "優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260615_1500%22",
+            "title": "今日は世界ウミガメの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "92c71e45c6bedcd975ae0a57066a170d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260614",
             "fullstartdate": "202606141500",
