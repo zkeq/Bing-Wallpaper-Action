@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-16 01:38:05",
-    "Total": 1511,
+    "LastUpdate": "2026-06-17 01:36:34",
+    "Total": 1512,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260616",
+            "fullstartdate": "202606162200",
+            "enddate": "20260617",
+            "url": "/th?id=OHR.TremolaRoad_IT-IT1436390409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TremolaRoad_IT-IT1436390409",
+            "copyright": "Strada della Tremola, passo del San Gottardo, Airolo, Svizzera (© Sandro Bisaro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tremola+strada+serpentina&form=hpcapt",
+            "title": "Discese ardite?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_TremolaRoad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9954d209d02de9c21a1aa5742681c65a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260615",
             "fullstartdate": "202606152200",
