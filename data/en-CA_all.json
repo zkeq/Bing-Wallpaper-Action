@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-17 01:36:18",
-    "Total": 1511,
+    "LastUpdate": "2026-06-18 01:33:09",
+    "Total": 1512,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260617",
+            "fullstartdate": "202606170400",
+            "enddate": "20260618",
+            "url": "/th?id=OHR.TremolaRoad_EN-CA6025249827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TremolaRoad_EN-CA6025249827",
+            "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tremola+Road&form=hpcapt&filters=HpDate%3a%2220260617_0400%22",
+            "title": "Twist your way up",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_TremolaRoad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0066ad583a647fa618c4109ca90a85b8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260616",
             "fullstartdate": "202606160400",
