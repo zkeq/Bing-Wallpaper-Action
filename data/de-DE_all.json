@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-17 01:36:14",
-    "Total": 1512,
+    "LastUpdate": "2026-06-18 01:33:05",
+    "Total": 1513,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260617",
+            "fullstartdate": "202606172200",
+            "enddate": "20260618",
+            "url": "/th?id=OHR.Saqsaywaman_DE-DE3241976270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Saqsaywaman_DE-DE3241976270",
+            "copyright": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260617_2200%22",
+            "title": "Wunder aus Stein",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_Saqsaywaman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eff48900c62f0203b384cb37c5a6d8ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260616",
             "fullstartdate": "202606162200",
