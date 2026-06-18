@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-17 01:36:22",
-    "Total": 1508,
+    "LastUpdate": "2026-06-18 01:33:13",
+    "Total": 1509,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260617",
+            "fullstartdate": "202606172300",
+            "enddate": "20260618",
+            "url": "/th?id=OHR.Saqsaywaman_EN-GB0811852640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Saqsaywaman_EN-GB0811852640",
+            "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260617_2300%22",
+            "title": "A rock-solid marvel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_Saqsaywaman%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f4a16e81bd8f2f2617dd8f5551e1c4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260616",
             "fullstartdate": "202606162300",
