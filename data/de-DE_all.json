@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-18 01:33:05",
-    "Total": 1513,
+    "LastUpdate": "2026-06-19 01:39:41",
+    "Total": 1514,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260618",
+            "fullstartdate": "202606182200",
+            "enddate": "20260619",
+            "url": "/th?id=OHR.IsolaElba_DE-DE0710166341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IsolaElba_DE-DE0710166341",
+            "copyright": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Rocchetta+Leuchtturm&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
+            "title": "Meer, Licht und Weite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_IsolaElba%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "97db13f2aab80a449c0a8fcaad4eaac7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260617",
             "fullstartdate": "202606172200",
