@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-18 01:33:17",
-    "Total": 1513,
+    "LastUpdate": "2026-06-19 01:39:54",
+    "Total": 1514,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260618",
+            "fullstartdate": "202606181830",
+            "enddate": "20260619",
+            "url": "/th?id=OHR.IsolaElba_EN-IN7931152562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IsolaElba_EN-IN7931152562",
+            "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lighthouse+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_1830%22",
+            "title": "What stands at the edge?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_IsolaElba%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b49ed3b9102c68925d5a077575c94966",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260617",
             "fullstartdate": "202606171830",
