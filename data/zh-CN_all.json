@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-18 01:32:54",
-    "Total": 1513,
+    "LastUpdate": "2026-06-19 01:39:28",
+    "Total": 1514,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260618",
+            "fullstartdate": "202606181600",
+            "enddate": "20260619",
+            "url": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417",
+            "copyright": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "龙吟古韵",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_DragonBoatFestivalY26%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bdc5eebdc6dcf00bbeeefcb4144d54eb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260617",
             "fullstartdate": "202606171600",
