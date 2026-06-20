@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-19 01:40:02",
-    "Total": 1514,
+    "LastUpdate": "2026-06-20 01:27:15",
+    "Total": 1515,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260619",
+            "fullstartdate": "202606192200",
+            "enddate": "20260620",
+            "url": "/th?id=OHR.ArchedIceberg_IT-IT9191790217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArchedIceberg_IT-IT9191790217",
+            "copyright": "Iceberg, costa occidentale della penisola Antartica, oceano Antartico (© Steven Kazlowski/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Iceberg&form=hpcapt",
+            "title": "Il tempio del ghiaccio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e0d13d66d8706f8cb0b321a23762b9e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260618",
             "fullstartdate": "202606182200",
