@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-19 01:39:41",
-    "Total": 1514,
+    "LastUpdate": "2026-06-20 01:26:54",
+    "Total": 1515,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260619",
+            "fullstartdate": "202606192200",
+            "enddate": "20260620",
+            "url": "/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KielSailing_DE-DE0980571166",
+            "copyright": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+            "title": "Unter vollen Segeln",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_KielSailing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "838622184c099061c164b0d5ad39506a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260618",
             "fullstartdate": "202606182200",
