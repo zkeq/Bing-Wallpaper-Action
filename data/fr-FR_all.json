@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-20 01:27:11",
-    "Total": 1515,
+    "LastUpdate": "2026-06-21 01:37:01",
+    "Total": 1516,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260620",
+            "fullstartdate": "202606202200",
+            "enddate": "20260621",
+            "url": "/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeineRiverside_FR-FR9034174472",
+            "copyright": "Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=f%C3%AAte+de+la+musique&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+            "title": "Tous en chœur !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_SeineRiverside%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "107c0545863f8bf96fffe62598d00552",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260619",
             "fullstartdate": "202606192200",
