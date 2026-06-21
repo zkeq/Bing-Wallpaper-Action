@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-20 01:26:54",
-    "Total": 1515,
+    "LastUpdate": "2026-06-21 01:36:46",
+    "Total": 1516,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260620",
+            "fullstartdate": "202606202200",
+            "enddate": "20260621",
+            "url": "/th?id=OHR.EggDad_DE-DE1185821144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EggDad_DE-DE1185821144",
+            "copyright": "Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=K%C3%B6nigspinguin&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+            "title": "Wächter im Eis",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_EggDad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f4eea450a211d71bb606156df8c656fd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260619",
             "fullstartdate": "202606192200",
