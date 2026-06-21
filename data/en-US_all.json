@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-20 01:26:44",
-    "Total": 1515,
+    "LastUpdate": "2026-06-21 01:36:39",
+    "Total": 1516,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260620",
+            "fullstartdate": "202606200700",
+            "enddate": "20260621",
+            "url": "/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArchedIceberg_EN-US6345786269",
+            "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260620_0700%22",
+            "title": "An ocean's frozen cathedral",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_ArchedIceberg%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "60b075fbea28a5bfdf8be14c61f3d1f9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260619",
             "fullstartdate": "202606190700",
