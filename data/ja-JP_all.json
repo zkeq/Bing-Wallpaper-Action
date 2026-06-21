@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-20 01:26:48",
-    "Total": 1515,
+    "LastUpdate": "2026-06-21 01:36:43",
+    "Total": 1516,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260620",
+            "fullstartdate": "202606201500",
+            "enddate": "20260621",
+            "url": "/th?id=OHR.EggDad_JA-JP1066785458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EggDad_JA-JP1066785458",
+            "copyright": "オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%88%B6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260620_1500%22",
+            "title": "今日は父の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_EggDad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "79f0589020ff96eea112af7e6cfd367c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260619",
             "fullstartdate": "202606191500",
