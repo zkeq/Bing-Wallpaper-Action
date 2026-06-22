@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-21 01:36:39",
-    "Total": 1516,
+    "LastUpdate": "2026-06-22 01:37:02",
+    "Total": 1517,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260621",
+            "fullstartdate": "202606210700",
+            "enddate": "20260622",
+            "url": "/th?id=OHR.EggDad_EN-US6390221455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.EggDad_EN-US6390221455",
+            "copyright": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=father%27s+day&form=hpcapt&filters=HpDate%3a%2220260621_0700%22",
+            "title": "Feathered fathers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_EggDad%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "54ba4bc3eb5010791c5ba22457bb9b1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260620",
             "fullstartdate": "202606200700",
