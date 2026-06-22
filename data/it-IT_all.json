@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-21 01:37:05",
-    "Total": 1516,
+    "LastUpdate": "2026-06-22 01:37:30",
+    "Total": 1517,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260621",
+            "fullstartdate": "202606212200",
+            "enddate": "20260622",
+            "url": "/th?id=OHR.QuinaultFerns_IT-IT2013381547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuinaultFerns_IT-IT2013381547",
+            "copyright": "Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=giornata+mondiale+della+foresta+pluviale&form=hpcapt",
+            "title": "Il richiamo della foresta?",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f77d8016d260385703f46980a870748b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260620",
             "fullstartdate": "202606202200",
