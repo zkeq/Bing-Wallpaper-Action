@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-21 01:36:34",
-    "Total": 1516,
+    "LastUpdate": "2026-06-22 01:36:57",
+    "Total": 1517,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260621",
+            "fullstartdate": "202606211600",
+            "enddate": "20260622",
+            "url": "/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuinaultFerns_ZH-CN6696428927",
+            "copyright": "奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%9B%A8%E6%9E%97%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "一个郁郁葱葱的王国",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca38d7053e41c9f40d5e0bd510ebf152",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260620",
             "fullstartdate": "202606201600",
