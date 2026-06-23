@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-22 01:37:06",
-    "Total": 1517,
+    "LastUpdate": "2026-06-23 01:21:33",
+    "Total": 1518,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260622",
+            "fullstartdate": "202606221500",
+            "enddate": "20260623",
+            "url": "/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuinaultFerns_JA-JP6908853562",
+            "copyright": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AD%E3%83%8E%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22",
+            "title": "陽光が貫く密林",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "07071317cb4c146c3f892599d810552a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260621",
             "fullstartdate": "202606211500",
