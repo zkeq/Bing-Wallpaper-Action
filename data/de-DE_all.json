@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-22 01:37:10",
-    "Total": 1517,
+    "LastUpdate": "2026-06-23 01:21:37",
+    "Total": 1518,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260622",
+            "fullstartdate": "202606222200",
+            "enddate": "20260623",
+            "url": "/th?id=OHR.Fujisan_DE-DE4332870275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fujisan_DE-DE4332870275",
+            "copyright": "Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fuji+Berg&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
+            "title": "Ikone am Horizont",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_Fujisan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5c99600e37e60e588a9b1264f76c90ff",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260621",
             "fullstartdate": "202606212200",
