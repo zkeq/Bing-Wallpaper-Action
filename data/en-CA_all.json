@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-22 01:37:14",
-    "Total": 1516,
+    "LastUpdate": "2026-06-23 01:21:41",
+    "Total": 1517,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260622",
+            "fullstartdate": "202606220400",
+            "enddate": "20260623",
+            "url": "/th?id=OHR.QuinaultFerns_EN-CA8536233053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.QuinaultFerns_EN-CA8536233053",
+            "copyright": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0400%22",
+            "title": "A lush kingdom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d9010e47714bc3e5ba9b96c28aed6ce3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260621",
             "fullstartdate": "202606210400",
