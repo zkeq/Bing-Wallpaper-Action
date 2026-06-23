@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-22 01:37:26",
-    "Total": 1517,
+    "LastUpdate": "2026-06-23 01:21:52",
+    "Total": 1518,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260622",
+            "fullstartdate": "202606222200",
+            "enddate": "20260623",
+            "url": "/th?id=OHR.Fujisan_FR-FR9764365414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Fujisan_FR-FR9764365414",
+            "copyright": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
+            "title": "Empreinte intemporelle à l’horizon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_Fujisan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260621",
             "fullstartdate": "202606212200",
