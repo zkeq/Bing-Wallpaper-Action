@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-23 01:21:33",
-    "Total": 1518,
+    "LastUpdate": "2026-06-24 01:19:20",
+    "Total": 1519,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260623",
+            "fullstartdate": "202606231500",
+            "enddate": "20260624",
+            "url": "/th?id=OHR.BFPollin_JA-JP2026844024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BFPollin_JA-JP2026844024",
+            "copyright": "花の蜜を味わう蝶 (© lzh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%B1%E3%81%AE%E8%9C%9C%E3%82%92%E5%90%B8%E3%81%86%E8%9D%B6&form=hpcapt&filters=HpDate%3a%2220260623_1500%22",
+            "title": "今週は全米花粉媒介者週間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "84168003da3feef0222ab3fc5906d57c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260622",
             "fullstartdate": "202606221500",
