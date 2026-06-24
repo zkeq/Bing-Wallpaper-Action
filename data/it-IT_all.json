@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-23 01:21:56",
-    "Total": 1518,
+    "LastUpdate": "2026-06-24 01:19:44",
+    "Total": 1519,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260623",
+            "fullstartdate": "202606232200",
+            "enddate": "20260624",
+            "url": "/th?id=OHR.BFPollin_IT-IT1968773839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BFPollin_IT-IT1968773839",
+            "copyright": "Farfalla che impollina un fiore giallo (© lzh/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Impollinazione&form=hpcapt",
+            "title": "Impollinare il mondo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1bff7c5244bc51bcfd3c106c7e2f4a37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260622",
             "fullstartdate": "202606222200",
