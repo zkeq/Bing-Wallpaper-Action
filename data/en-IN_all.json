@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-24 01:19:36",
-    "Total": 1519,
+    "LastUpdate": "2026-06-25 01:24:57",
+    "Total": 1520,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260624",
+            "fullstartdate": "202606241830",
+            "enddate": "20260625",
+            "url": "/th?id=OHR.GrandPlace_EN-IN3033098257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlace_EN-IN3033098257",
+            "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_1830%22",
+            "title": "Square up to history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "247253a89dfab7698ab51d3dff9cc7ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260623",
             "fullstartdate": "202606231830",
