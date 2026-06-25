@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-24 01:19:44",
-    "Total": 1519,
+    "LastUpdate": "2026-06-25 01:25:05",
+    "Total": 1520,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260624",
+            "fullstartdate": "202606242200",
+            "enddate": "20260625",
+            "url": "/th?id=OHR.GrandPlace_IT-IT4483523148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlace_IT-IT4483523148",
+            "copyright": "Edifici sulla Grand-Place a Bruxelles, Belgio (© Vladislav Zolotov/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Grand-Place+a+Bruxelles&form=hpcapt",
+            "title": "Rinata dal fuoco",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c2d44e7214bc62c0cf2f0c40e5589acc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260623",
             "fullstartdate": "202606232200",
