@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-24 01:19:20",
-    "Total": 1519,
+    "LastUpdate": "2026-06-25 01:24:42",
+    "Total": 1520,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260624",
+            "fullstartdate": "202606241500",
+            "enddate": "20260625",
+            "url": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LavenderSeason2026_JA-JP7050134160",
+            "copyright": "ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260624_1500%22",
+            "title": "初夏に揺れる紫の花畑",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_LavenderSeason2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e9583dd2a8474948f4bd46567967d44c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260623",
             "fullstartdate": "202606231500",
