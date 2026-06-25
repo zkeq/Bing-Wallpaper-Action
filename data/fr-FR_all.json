@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-24 01:19:40",
-    "Total": 1519,
+    "LastUpdate": "2026-06-25 01:25:01",
+    "Total": 1520,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260624",
+            "fullstartdate": "202606242200",
+            "enddate": "20260625",
+            "url": "/th?id=OHR.GrandPlace_FR-FR1172312712_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlace_FR-FR1172312712",
+            "copyright": "Bâtiments sur la Grand-Place de Bruxelles, Belgique (© Vladislav Zolotov/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand-Place+Bruxelles&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
+            "title": "Grande et incontournable",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ade4111e420d7f5893d70e116e522f1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260623",
             "fullstartdate": "202606232200",
