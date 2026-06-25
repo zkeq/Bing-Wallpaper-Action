@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-24 01:19:24",
-    "Total": 1519,
+    "LastUpdate": "2026-06-25 01:24:46",
+    "Total": 1520,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260624",
+            "fullstartdate": "202606242200",
+            "enddate": "20260625",
+            "url": "/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrandPlace_DE-DE1914769137",
+            "copyright": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand-Place+Br%C3%BCssel&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
+            "title": "Glanz trifft Geschichte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "89fd269357e9016a4dbbdb4f4fef38f7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260623",
             "fullstartdate": "202606232200",
