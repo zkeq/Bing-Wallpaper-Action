@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-25 01:25:05",
-    "Total": 1520,
+    "LastUpdate": "2026-06-26 01:27:18",
+    "Total": 1521,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260625",
+            "fullstartdate": "202606252200",
+            "enddate": "20260626",
+            "url": "/th?id=OHR.ThamesSummer_IT-IT7472747077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThamesSummer_IT-IT7472747077",
+            "copyright": "Il fiume Tamigi, Londra, Inghilterra (© Daniel Lange/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tamigi+Londra&form=hpcapt",
+            "title": "Attualità",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a3fec5987f7013f4e4773abaf27c0988",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260624",
             "fullstartdate": "202606242200",
