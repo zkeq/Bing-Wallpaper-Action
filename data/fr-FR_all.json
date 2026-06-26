@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-25 01:25:01",
-    "Total": 1520,
+    "LastUpdate": "2026-06-26 01:27:14",
+    "Total": 1521,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260625",
+            "fullstartdate": "202606252200",
+            "enddate": "20260626",
+            "url": "/th?id=OHR.ThamesSummer_FR-FR5709336854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThamesSummer_FR-FR5709336854",
+            "copyright": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Fleuve+Tamise&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+            "title": "On se la coule douce",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "41a7afc1bfdb3517d78a9a82516be7bd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260624",
             "fullstartdate": "202606242200",
