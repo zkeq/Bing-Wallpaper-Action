@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-26 01:26:49",
-    "Total": 1521,
+    "LastUpdate": "2026-06-27 01:22:01",
+    "Total": 1522,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260626",
+            "fullstartdate": "202606260700",
+            "enddate": "20260627",
+            "url": "/th?id=OHR.ThamesSummer_EN-US6783349970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ThamesSummer_EN-US6783349970",
+            "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260626_0700%22",
+            "title": "Current affairs",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_ThamesSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d06b3160ab48ed831fa5c5fe42786459",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260625",
             "fullstartdate": "202606250700",
