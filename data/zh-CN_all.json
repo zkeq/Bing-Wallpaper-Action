@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-26 01:26:44",
-    "Total": 1521,
+    "LastUpdate": "2026-06-27 01:21:57",
+    "Total": 1522,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260626",
+            "fullstartdate": "202606261600",
+            "enddate": "20260627",
+            "url": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570",
+            "copyright": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BA%A8%E5%BB%B7%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "逐渐失去立足之地的树木",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "430c1f4847a17f50aecd5df4f069b9b9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260625",
             "fullstartdate": "202606251600",
