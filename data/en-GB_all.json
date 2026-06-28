@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-27 01:22:18",
-    "Total": 1518,
+    "LastUpdate": "2026-06-28 01:28:21",
+    "Total": 1519,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260627",
+            "fullstartdate": "202606272300",
+            "enddate": "20260628",
+            "url": "/th?id=OHR.SaguaroSun_EN-GB1588043989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaguaroSun_EN-GB1588043989",
+            "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260627_2300%22",
+            "title": "Looking sharp",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dfd0029f0703323fd05c06c9e14d4a35",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260626",
             "fullstartdate": "202606262300",
