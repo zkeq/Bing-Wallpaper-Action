@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-27 01:22:14",
-    "Total": 1521,
+    "LastUpdate": "2026-06-28 01:28:17",
+    "Total": 1522,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260627",
+            "fullstartdate": "202606270400",
+            "enddate": "20260628",
+            "url": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353",
+            "copyright": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Multiculturalism+Day+Canada&form=hpcapt&filters=HpDate%3a%2220260627_0400%22",
+            "title": "Many voices, one country",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_MulticulturalismDY%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cef6c4b235657ed3dcf512edf4daf68",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260626",
             "fullstartdate": "202606260400",
