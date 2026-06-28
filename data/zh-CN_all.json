@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-27 01:21:57",
-    "Total": 1522,
+    "LastUpdate": "2026-06-28 01:28:00",
+    "Total": 1523,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260627",
+            "fullstartdate": "202606271600",
+            "enddate": "20260628",
+            "url": "/th?id=OHR.SaguaroSun_ZH-CN5820504732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaguaroSun_ZH-CN5820504732",
+            "copyright": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E6%9F%B1%E4%BB%99%E4%BA%BA%E6%8E%8C&form=hpcapt&mkt=zh-cn",
+            "title": "看起来很精神",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4f35aa0cbdbf480e6f052920a29d947e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260626",
             "fullstartdate": "202606261600",
