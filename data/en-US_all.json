@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-27 01:22:01",
-    "Total": 1522,
+    "LastUpdate": "2026-06-28 01:28:05",
+    "Total": 1523,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260627",
+            "fullstartdate": "202606270700",
+            "enddate": "20260628",
+            "url": "/th?id=OHR.BoneyardBeach_EN-US8247496696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoneyardBeach_EN-US8247496696",
+            "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260627_0700%22",
+            "title": "The trees that lost ground",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_BoneyardBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0efeebaf1356a2176a28bf4308f49281",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260626",
             "fullstartdate": "202606260700",
