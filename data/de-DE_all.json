@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-27 01:22:09",
-    "Total": 1522,
+    "LastUpdate": "2026-06-28 01:28:13",
+    "Total": 1523,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260627",
+            "fullstartdate": "202606272200",
+            "enddate": "20260628",
+            "url": "/th?id=OHR.SaguaroSun_DE-DE9702644922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SaguaroSun_DE-DE9702644922",
+            "copyright": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+            "title": "Stille Riesen der Wüste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bdaf1c08758ab1d15b94bf2d388e1dc5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260626",
             "fullstartdate": "202606262200",
