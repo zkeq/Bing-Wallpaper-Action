@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-28 01:28:13",
-    "Total": 1523,
+    "LastUpdate": "2026-06-29 01:29:29",
+    "Total": 1524,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260628",
+            "fullstartdate": "202606282200",
+            "enddate": "20260629",
+            "url": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
+            "copyright": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+            "title": "Aus Feuer geboren, vom Wasser gehalten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_BoraBoraLagoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ea61dafe714c89b7b3bece40bec1d51",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260627",
             "fullstartdate": "202606272200",
