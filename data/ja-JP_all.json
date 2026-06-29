@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-28 01:28:09",
-    "Total": 1523,
+    "LastUpdate": "2026-06-29 01:29:25",
+    "Total": 1524,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260628",
+            "fullstartdate": "202606281500",
+            "enddate": "20260629",
+            "url": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879",
+            "copyright": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E7%86%B1%E5%B8%AF%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
+            "title": "今日は国際熱帯デー",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_BoraBoraLagoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8d4b8c3914490b5720111918ca064e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260627",
             "fullstartdate": "202606271500",
