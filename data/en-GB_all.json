@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-28 01:28:21",
-    "Total": 1519,
+    "LastUpdate": "2026-06-29 01:29:37",
+    "Total": 1520,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260628",
+            "fullstartdate": "202606282300",
+            "enddate": "20260629",
+            "url": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoraBoraLagoon_EN-GB1950063282",
+            "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260628_2300%22",
+            "title": "Born on fire, held by water",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_BoraBoraLagoon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5eb96546b2aa4efe04841b4f2011f03f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260627",
             "fullstartdate": "202606272300",
