@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-28 01:28:33",
-    "Total": 1523,
+    "LastUpdate": "2026-06-29 01:29:49",
+    "Total": 1524,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260628",
+            "fullstartdate": "202606282200",
+            "enddate": "20260629",
+            "url": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696",
+            "copyright": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santi+Pietro+e+Paolo&form=hpcapt",
+            "title": "Notte della Girandola",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_SanPietroPaolo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3e24d8ad6cc12438e6c4d26a350c2167",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260627",
             "fullstartdate": "202606272200",
