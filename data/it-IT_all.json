@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-29 01:29:49",
-    "Total": 1524,
+    "LastUpdate": "2026-06-30 01:23:50",
+    "Total": 1525,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260629",
+            "fullstartdate": "202606292200",
+            "enddate": "20260630",
+            "url": "/th?id=OHR.MasaiGiraffe_IT-IT8100161271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiGiraffe_IT-IT8100161271",
+            "copyright": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Masai+Mara&form=hpcapt",
+            "title": "La vista dalla cima è meravigliosa",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8a75c4027363926fe17a931f65830717",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260628",
             "fullstartdate": "202606282200",
