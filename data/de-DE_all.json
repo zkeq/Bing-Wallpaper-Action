@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-29 01:29:29",
-    "Total": 1524,
+    "LastUpdate": "2026-06-30 01:23:29",
+    "Total": 1525,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260629",
+            "fullstartdate": "202606292200",
+            "enddate": "20260630",
+            "url": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610",
+            "copyright": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Masai+Mara+Nationalreservat&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+            "title": "Wo sich die Schatten in die Länge ziehen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d1943c54217a41091adc8d6f4632797c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260628",
             "fullstartdate": "202606282200",
