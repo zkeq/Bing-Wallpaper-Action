@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-30 01:23:16",
-    "Total": 1525,
+    "LastUpdate": "2026-07-01 01:29:54",
+    "Total": 1526,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260630",
+            "fullstartdate": "202606301600",
+            "enddate": "20260701",
+            "url": "/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DungeonPark_ZH-CN9544093701",
+            "copyright": "地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%B0%E7%89%A2%E7%9C%81%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "大西洋雕琢而成的加拿大",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_DungeonPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f62b9b3a63257a6066fec82f3c5eef25",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260629",
             "fullstartdate": "202606291600",
