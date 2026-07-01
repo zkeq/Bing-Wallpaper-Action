@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-30 01:23:34",
-    "Total": 1524,
+    "LastUpdate": "2026-07-01 01:30:10",
+    "Total": 1525,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260630",
+            "fullstartdate": "202606300400",
+            "enddate": "20260701",
+            "url": "/th?id=OHR.MasaiGiraffe_EN-CA5473733652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MasaiGiraffe_EN-CA5473733652",
+            "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0400%22",
+            "title": "Where shadows stretch tall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_MasaiGiraffe%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0027b9e168575a6e5b4282fd4b4a0c54",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260629",
             "fullstartdate": "202606290400",
