@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-06-30 01:23:29",
-    "Total": 1525,
+    "LastUpdate": "2026-07-01 01:30:06",
+    "Total": 1526,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260630",
+            "fullstartdate": "202606302200",
+            "enddate": "20260701",
+            "url": "/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
+            "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
+            "title": "Rebhänge im Abendlicht",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_NeckarVineyards%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260629",
             "fullstartdate": "202606292200",
