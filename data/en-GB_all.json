@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:30:14",
-    "Total": 1522,
+    "LastUpdate": "2026-07-02 01:23:32",
+    "Total": 1523,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607012300",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.TempleEsna_EN-GB9683013446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TempleEsna_EN-GB9683013446",
+            "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Temple+of+Esna+Egypt&form=hpcapt&filters=HpDate%3a%2220260701_2300%22",
+            "title": "Inside Esna's sacred universe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5366f02fc524aff6e08d2c13871cedea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606302300",
