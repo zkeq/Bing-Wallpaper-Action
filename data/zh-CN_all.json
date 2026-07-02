@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:29:54",
-    "Total": 1526,
+    "LastUpdate": "2026-07-02 01:23:11",
+    "Total": 1527,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607011600",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TempleEsna_ZH-CN9834689523",
+            "copyright": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E5%8F%8A%E5%9F%83%E6%96%AF%E7%BA%B3%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn",
+            "title": "走进埃斯纳神圣的世界",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f65ddd6a84f4c169a15d0c462c0b3498",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606301600",
