@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:30:02",
-    "Total": 1526,
+    "LastUpdate": "2026-07-02 01:23:20",
+    "Total": 1527,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607011500",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TempleEsna_JA-JP0629204284",
+            "copyright": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%8A%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220260701_1500%22",
+            "title": "古代神殿の壮麗な内部空間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7acaa0878d5418566b9b2994f3a4859",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606301500",
