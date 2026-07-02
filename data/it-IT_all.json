@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:30:26",
-    "Total": 1526,
+    "LastUpdate": "2026-07-02 01:23:45",
+    "Total": 1527,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607012200",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051",
+            "copyright": "Palio di Siena, Italia (© Dave Benett/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palio+di+Siena&form=hpcapt",
+            "title": "Una corsa fra contrade",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_SienaPalioToscana%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "56d4efb2db4724f52d2cc87dc295454e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606302200",
