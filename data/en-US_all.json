@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:29:58",
-    "Total": 1526,
+    "LastUpdate": "2026-07-02 01:23:16",
+    "Total": 1527,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607010700",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.DungeonPark_EN-US2499621341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DungeonPark_EN-US2499621341",
+            "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220260701_0700%22",
+            "title": "Canada, carved by the Atlantic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_DungeonPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95865323e32c3d492fbb703f6c35399a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606300700",
