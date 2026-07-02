@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-01 01:30:22",
-    "Total": 1526,
+    "LastUpdate": "2026-07-02 01:23:40",
+    "Total": 1527,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260701",
+            "fullstartdate": "202607012200",
+            "enddate": "20260702",
+            "url": "/th?id=OHR.TempleEsna_FR-FR7122811032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TempleEsna_FR-FR7122811032",
+            "copyright": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+            "title": "Dans l'univers sacré d'Esna",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88258a0dbc8b9e34a0de243d53049119",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260630",
             "fullstartdate": "202606302200",
