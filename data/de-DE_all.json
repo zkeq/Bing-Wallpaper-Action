@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-02 01:23:24",
-    "Total": 1527,
+    "LastUpdate": "2026-07-03 04:26:28",
+    "Total": 1528,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260702",
+            "fullstartdate": "202607022200",
+            "enddate": "20260703",
+            "url": "/th?id=OHR.FirefliesJapan_DE-DE4398668270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FirefliesJapan_DE-DE4398668270",
+            "copyright": "Leuchtende Glühwürmchen über einem Bach, Präfektur Okayama, Japan (© tdub303/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gl%C3%BChw%C3%BCrmchen&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+            "title": "Die Poesie des schwindenden Lichts",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c4d1de547ecd3aa8159e80cf6b4c256",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260701",
             "fullstartdate": "202607012200",
