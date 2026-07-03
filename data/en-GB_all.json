@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-02 01:23:32",
-    "Total": 1523,
+    "LastUpdate": "2026-07-03 04:26:36",
+    "Total": 1524,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260702",
+            "fullstartdate": "202607022300",
+            "enddate": "20260703",
+            "url": "/th?id=OHR.FirefliesJapan_EN-GB8401520779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FirefliesJapan_EN-GB8401520779",
+            "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260702_2300%22",
+            "title": "The poetry of vanishing light",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73a60d2053816d4a35a0c77bd6c55cb8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260701",
             "fullstartdate": "202607012300",
