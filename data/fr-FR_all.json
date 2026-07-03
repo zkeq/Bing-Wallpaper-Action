@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-02 01:23:40",
-    "Total": 1527,
+    "LastUpdate": "2026-07-03 04:26:44",
+    "Total": 1528,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260702",
+            "fullstartdate": "202607022200",
+            "enddate": "20260703",
+            "url": "/th?id=OHR.FirefliesJapan_FR-FR8593158782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FirefliesJapan_FR-FR8593158782",
+            "copyright": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+            "title": "La féerie des lucioles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ce3185a56076df60785fd507449f42b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260701",
             "fullstartdate": "202607012200",
