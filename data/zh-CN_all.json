@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-03 04:26:15",
-    "Total": 1528,
+    "LastUpdate": "2026-07-04 04:20:27",
+    "Total": 1529,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260703",
+            "fullstartdate": "202607031600",
+            "enddate": "20260704",
+            "url": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679",
+            "copyright": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%87%AF%E6%B3%BD%E6%96%AF%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "此行，不虚绕道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4504349c6e8fa14cfd46f887e438f6b0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260702",
             "fullstartdate": "202607021600",
