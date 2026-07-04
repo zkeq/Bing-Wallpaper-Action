@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-03 04:26:44",
-    "Total": 1528,
+    "LastUpdate": "2026-07-04 04:20:57",
+    "Total": 1529,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260703",
+            "fullstartdate": "202607032200",
+            "enddate": "20260704",
+            "url": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
+            "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+            "title": "Faire un Tour au village",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "194d9c22392893893a11df2c47bdc8d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260702",
             "fullstartdate": "202607022200",
