@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-03 04:26:36",
-    "Total": 1524,
+    "LastUpdate": "2026-07-04 04:20:49",
+    "Total": 1525,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260703",
+            "fullstartdate": "202607032300",
+            "enddate": "20260704",
+            "url": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875",
+            "copyright": "London (© TomasSereda/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Pride+in+London&form=hpcapt&filters=HpDate%3a%2220260703_2300%22",
+            "title": "London under a rainbow",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_PrideInLondon2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52fa2bdb267de75873c43d321b0fccf6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260702",
             "fullstartdate": "202607022300",
