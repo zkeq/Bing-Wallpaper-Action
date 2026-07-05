@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-04 04:20:41",
-    "Total": 1529,
+    "LastUpdate": "2026-07-05 04:41:25",
+    "Total": 1530,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260704",
+            "fullstartdate": "202607042200",
+            "enddate": "20260705",
+            "url": "/th?id=OHR.LavenderRows_DE-DE5950929230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LavenderRows_DE-DE5950929230",
+            "copyright": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lavendel&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+            "title": "Ein Meer aus Lila",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8e26d949a0a42db2296f82cfa8a4f1a3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260703",
             "fullstartdate": "202607032200",
