@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-04 04:20:27",
-    "Total": 1529,
+    "LastUpdate": "2026-07-05 04:41:12",
+    "Total": 1530,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260704",
+            "fullstartdate": "202607041600",
+            "enddate": "20260705",
+            "url": "/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LavenderRows_ZH-CN0676810895",
+            "copyright": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89%E5%B1%9E&form=hpcapt&mkt=zh-cn",
+            "title": "紫色花海",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "490c9611f01ef2aaa93c8291872d30a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260703",
             "fullstartdate": "202607031600",
