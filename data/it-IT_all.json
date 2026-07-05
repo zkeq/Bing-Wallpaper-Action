@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-04 04:21:01",
-    "Total": 1529,
+    "LastUpdate": "2026-07-05 04:41:45",
+    "Total": 1530,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260704",
+            "fullstartdate": "202607042200",
+            "enddate": "20260705",
+            "url": "/th?id=OHR.LavenderRows_IT-IT7009632566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LavenderRows_IT-IT7009632566",
+            "copyright": "Righe lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lavanda+pianta&form=hpcapt",
+            "title": "Mare di viola",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa1556f337a5e187df31c2edd6b0d29c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260703",
             "fullstartdate": "202607032200",
