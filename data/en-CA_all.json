@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-05 04:41:29",
-    "Total": 1530,
+    "LastUpdate": "2026-07-06 04:53:09",
+    "Total": 1531,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260706",
+            "fullstartdate": "202607060400",
+            "enddate": "20260707",
+            "url": "/th?id=OHR.SyracuseItaly_EN-CA4724586582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SyracuseItaly_EN-CA4724586582",
+            "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260706_0400%22",
+            "title": "A city written in centuries",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_SyracuseItaly%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5c9b050f7c8ad2cc946564d6e286332f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260705",
             "fullstartdate": "202607050400",
