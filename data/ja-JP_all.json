@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-06 04:53:01",
-    "Total": 1531,
+    "LastUpdate": "2026-07-07 04:33:38",
+    "Total": 1532,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260706",
+            "fullstartdate": "202607061500",
+            "enddate": "20260707",
+            "url": "/th?id=OHR.Tanabata2026_JA-JP9678732410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Tanabata2026_JA-JP9678732410",
+            "copyright": "七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%BB%99%E5%8F%B0%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260706_1500%22",
+            "title": "七夕の伝統行事",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_Tanabata2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d640a4f963886ca3fbdb19641c1d7c85",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260705",
             "fullstartdate": "202607051500",
