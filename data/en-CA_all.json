@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-06 04:53:09",
-    "Total": 1531,
+    "LastUpdate": "2026-07-07 04:33:46",
+    "Total": 1532,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260707",
+            "fullstartdate": "202607070400",
+            "enddate": "20260708",
+            "url": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121",
+            "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
+            "title": "Colour, craft and canopy life",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_MountainToucanOrchids%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "59e40f43174bd3f4f88177b1a4c276ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260706",
             "fullstartdate": "202607060400",
