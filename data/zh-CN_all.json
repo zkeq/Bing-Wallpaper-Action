@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-06 04:52:52",
-    "Total": 1531,
+    "LastUpdate": "2026-07-07 04:33:30",
+    "Total": 1532,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260706",
+            "fullstartdate": "202607061600",
+            "enddate": "20260707",
+            "url": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431",
+            "copyright": "板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9D%BF%E5%98%B4%E5%B1%B1%E5%B7%A8%E5%98%B4%E9%B8%9F&form=hpcapt&mkt=zh-cn",
+            "title": "林冠华彩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5dec9fd9a34fe28d450ef19ba8f0c2ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260705",
             "fullstartdate": "202607051600",
