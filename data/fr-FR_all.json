@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-06 04:53:21",
-    "Total": 1531,
+    "LastUpdate": "2026-07-07 04:33:58",
+    "Total": 1532,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260706",
+            "fullstartdate": "202607062200",
+            "enddate": "20260707",
+            "url": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
+            "copyright": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+            "title": "Un bec pas si plat",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "91336be912df85cd57286309a99c702e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260705",
             "fullstartdate": "202607052200",
