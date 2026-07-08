@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-07 04:33:58",
-    "Total": 1532,
+    "LastUpdate": "2026-07-08 03:55:29",
+    "Total": 1533,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260707",
+            "fullstartdate": "202607072200",
+            "enddate": "20260708",
+            "url": "/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
+            "copyright": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+            "title": "Échos d'un passé volcanique",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a3a903c1b4f05b9a55d28cee92f7a09d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260706",
             "fullstartdate": "202607062200",
