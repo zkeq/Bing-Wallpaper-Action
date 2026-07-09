@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-08 03:55:00",
-    "Total": 1533,
+    "LastUpdate": "2026-07-09 04:31:56",
+    "Total": 1534,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260708",
+            "fullstartdate": "202607081600",
+            "enddate": "20260709",
+            "url": "/th?id=OHR.SapaVietnam_ZH-CN2178893672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SapaVietnam_ZH-CN2178893672",
+            "copyright": "在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B6%8A%E5%8D%97%E8%80%81%E8%A1%97&form=hpcapt&mkt=zh-cn",
+            "title": "步步传承",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_SapaVietnam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9842a3d030dca94cc6b0839e5df38e05",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260707",
             "fullstartdate": "202607071600",
