@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-08 03:55:05",
-    "Total": 1533,
+    "LastUpdate": "2026-07-09 04:32:01",
+    "Total": 1534,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260708",
+            "fullstartdate": "202607080700",
+            "enddate": "20260709",
+            "url": "/th?id=OHR.LakeAtitlan_EN-US3747076006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeAtitlan_EN-US3747076006",
+            "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260708_0700%22",
+            "title": "Echoes of a volcanic past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_LakeAtitlan%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fc64498d57e2a9cde024bea93a122b6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260707",
             "fullstartdate": "202607070700",
