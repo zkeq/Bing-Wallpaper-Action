@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-08 03:55:21",
-    "Total": 1529,
+    "LastUpdate": "2026-07-09 04:32:18",
+    "Total": 1530,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260708",
+            "fullstartdate": "202607082300",
+            "enddate": "20260709",
+            "url": "/th?id=OHR.SapaVietnam_EN-GB9686207282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SapaVietnam_EN-GB9686207282",
+            "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=L%C3%A0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2300%22",
+            "title": "Tradition in every step",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_SapaVietnam%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "68afc17e6831b5520afc3b1ffba11967",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260707",
             "fullstartdate": "202607072300",
