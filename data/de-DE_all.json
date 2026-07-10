@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-09 04:32:09",
-    "Total": 1534,
+    "LastUpdate": "2026-07-10 04:34:35",
+    "Total": 1535,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260709",
+            "fullstartdate": "202607092200",
+            "enddate": "20260710",
+            "url": "/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VictoriaBeach_DE-DE7288099938",
+            "copyright": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+            "title": "Zwischen zwei Welten",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fcd80c0340a15b3192fa8099fd52f51e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260708",
             "fullstartdate": "202607082200",
