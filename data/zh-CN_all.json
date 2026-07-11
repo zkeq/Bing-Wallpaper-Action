@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-10 04:34:22",
-    "Total": 1535,
+    "LastUpdate": "2026-07-11 03:52:35",
+    "Total": 1536,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260710",
+            "fullstartdate": "202607101600",
+            "enddate": "20260711",
+            "url": "/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurayBrittany_ZH-CN5549157888",
+            "copyright": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%9B%BD%E6%AC%A7%E8%B5%96%E5%9C%A3%E5%8F%A4%E6%96%AF%E5%BD%93%E6%B8%AF&form=hpcapt&mkt=zh-cn",
+            "title": "布列塔尼的潮汐之约",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3bafa9b5e68b0b86a69bec810fbff9c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260709",
             "fullstartdate": "202607091600",
