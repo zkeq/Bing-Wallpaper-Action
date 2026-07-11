@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-10 04:34:35",
-    "Total": 1535,
+    "LastUpdate": "2026-07-11 03:52:48",
+    "Total": 1536,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260710",
+            "fullstartdate": "202607102200",
+            "enddate": "20260711",
+            "url": "/th?id=OHR.AurayBrittany_DE-DE3196003934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurayBrittany_DE-DE3196003934",
+            "copyright": "Hafen von Saint-Goustan, Auray, Bretagne, Frankreich (© Rolf E. Staerk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Hafen+von+Saint-Goustan&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+            "title": "Wo die Bretagne auf die Gezeiten trifft",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bc81e87baad97bcdf69eb0c0dbe17c0b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260709",
             "fullstartdate": "202607092200",
