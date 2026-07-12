@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-11 03:52:40",
-    "Total": 1536,
+    "LastUpdate": "2026-07-12 04:07:01",
+    "Total": 1537,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260711",
+            "fullstartdate": "202607110700",
+            "enddate": "20260712",
+            "url": "/th?id=OHR.AurayBrittany_EN-US7890619884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurayBrittany_EN-US7890619884",
+            "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260711_0700%22",
+            "title": "Where Brittany meets the tide",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_AurayBrittany%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b0f4e262ccbf644f7e0ff65479f3643d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260710",
             "fullstartdate": "202607100700",
