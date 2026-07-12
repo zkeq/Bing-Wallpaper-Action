@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-11 03:52:48",
-    "Total": 1536,
+    "LastUpdate": "2026-07-12 04:07:09",
+    "Total": 1537,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260711",
+            "fullstartdate": "202607112200",
+            "enddate": "20260712",
+            "url": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213",
+            "copyright": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument+Vereinigte+Staaten+Informationen&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+            "title": "Maine von seiner wilden Seite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "18d2f6b7da5c9dc2c30eba10ea66341e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260710",
             "fullstartdate": "202607102200",
