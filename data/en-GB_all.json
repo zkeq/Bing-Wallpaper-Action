@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-11 03:52:55",
-    "Total": 1532,
+    "LastUpdate": "2026-07-12 04:07:17",
+    "Total": 1533,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260711",
+            "fullstartdate": "202607112300",
+            "enddate": "20260712",
+            "url": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWWNM_EN-GB4389807993",
+            "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_2300%22",
+            "title": "A wilder side of Maine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cd0a74202389183454bb3f64061b489a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260710",
             "fullstartdate": "202607102300",
