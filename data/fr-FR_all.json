@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-11 03:53:03",
-    "Total": 1536,
+    "LastUpdate": "2026-07-12 04:07:26",
+    "Total": 1537,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260711",
+            "fullstartdate": "202607112200",
+            "enddate": "20260712",
+            "url": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
+            "copyright": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+            "title": "Le côté sauvage du Maine",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b749c69c51682d042f5ccb12a89a5f77",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260710",
             "fullstartdate": "202607102200",
