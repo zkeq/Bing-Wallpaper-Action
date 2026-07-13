@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-12 04:07:26",
-    "Total": 1537,
+    "LastUpdate": "2026-07-13 04:09:46",
+    "Total": 1538,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260712",
+            "fullstartdate": "202607122200",
+            "enddate": "20260713",
+            "url": "/th?id=OHR.NavajoSandstone_FR-FR2547131354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavajoSandstone_FR-FR2547131354",
+            "copyright": "Antelope Canyon, territoire Navajo, Arizona, États-Unis (© Mark Skalny/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Antelope+canyon+fente&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+            "title": "Ondes minérales",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a684022b2a636f30fb6ca7e48e1c8cdf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260711",
             "fullstartdate": "202607112200",
