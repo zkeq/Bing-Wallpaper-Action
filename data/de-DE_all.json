@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-12 04:07:09",
-    "Total": 1537,
+    "LastUpdate": "2026-07-13 04:09:31",
+    "Total": 1538,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260712",
+            "fullstartdate": "202607122200",
+            "enddate": "20260713",
+            "url": "/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MunichTwilight_DE-DE5540064188",
+            "copyright": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=M%C3%BCnchner+Opernfestspiele&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+            "title": "Im Festspielglanz",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_MunichTwilight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f3416c278f8f871d864ee38ab57f7e08",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260711",
             "fullstartdate": "202607112200",
