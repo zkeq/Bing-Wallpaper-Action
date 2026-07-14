@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-13 04:09:39",
-    "Total": 1534,
+    "LastUpdate": "2026-07-14 03:44:44",
+    "Total": 1535,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260713",
+            "fullstartdate": "202607132300",
+            "enddate": "20260714",
+            "url": "/th?id=OHR.LemonShark_EN-GB6406610577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LemonShark_EN-GB6406610577",
+            "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_2300%22",
+            "title": "Fin-tastic truths",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3c8d503f582eb6241f8a5ada92a72497",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260712",
             "fullstartdate": "202607122300",
