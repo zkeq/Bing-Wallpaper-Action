@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-13 04:09:23",
-    "Total": 1538,
+    "LastUpdate": "2026-07-14 03:44:28",
+    "Total": 1539,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260713",
+            "fullstartdate": "202607130700",
+            "enddate": "20260714",
+            "url": "/th?id=OHR.NavajoSandstone_EN-US9496264383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavajoSandstone_EN-US9496264383",
+            "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260713_0700%22",
+            "title": "Born to rock",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4b7ca0b29f813ff6e80811984bc38844",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260712",
             "fullstartdate": "202607120700",
