@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-13 04:09:18",
-    "Total": 1538,
+    "LastUpdate": "2026-07-14 03:44:23",
+    "Total": 1539,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260713",
+            "fullstartdate": "202607131600",
+            "enddate": "20260714",
+            "url": "/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LemonShark_ZH-CN4650331008",
+            "copyright": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%9F%A0%E6%AA%AC%E9%B2%A8&form=hpcapt&mkt=zh-cn",
+            "title": "奇妙的真相",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7c83e710ee6d1646d4975b9b5e37ead3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260712",
             "fullstartdate": "202607121600",
