@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-14 03:44:32",
-    "Total": 1539,
+    "LastUpdate": "2026-07-15 03:45:01",
+    "Total": 1540,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260714",
+            "fullstartdate": "202607141500",
+            "enddate": "20260715",
+            "url": "/th?id=OHR.MarieLake_JA-JP9898730602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarieLake_JA-JP9898730602",
+            "copyright": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%80%E3%83%8D%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260714_1500%22",
+            "title": "山々に囲まれた湖",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "94139723b1d0d0b5bf070cb6b6eba153",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260713",
             "fullstartdate": "202607131500",
