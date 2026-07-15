@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-14 03:44:56",
-    "Total": 1539,
+    "LastUpdate": "2026-07-15 03:45:25",
+    "Total": 1540,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260714",
+            "fullstartdate": "202607142200",
+            "enddate": "20260715",
+            "url": "/th?id=OHR.MarieLake_IT-IT8390636002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarieLake_IT-IT8390636002",
+            "copyright": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Area+selvaggia+John+Muir&form=hpcapt",
+            "title": "La ricompensa dopo la scalata",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d42b51e203e2cab943cfd298e869e684",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260713",
             "fullstartdate": "202607132200",
