@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-15 03:44:51",
-    "Total": 1540,
+    "LastUpdate": "2026-07-16 03:47:24",
+    "Total": 1541,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260715",
+            "fullstartdate": "202607151600",
+            "enddate": "20260716",
+            "url": "/th?id=OHR.NavyPier_ZH-CN4649271588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavyPier_ZH-CN4649271588",
+            "copyright": "海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn",
+            "title": "滨水变色龙",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_NavyPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8d375d366c3d1e97bda4d6a1711fba19",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260714",
             "fullstartdate": "202607141600",
