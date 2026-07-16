@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-15 03:45:09",
-    "Total": 1539,
+    "LastUpdate": "2026-07-16 03:47:41",
+    "Total": 1540,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260715",
+            "fullstartdate": "202607150400",
+            "enddate": "20260716",
+            "url": "/th?id=OHR.MarieLake_EN-CA6168691994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MarieLake_EN-CA6168691994",
+            "copyright": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0400%22",
+            "title": "The reward after the climb",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_MarieLake%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "146e156070a61eb64fb415c6bbf3f885",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260714",
             "fullstartdate": "202607140400",
