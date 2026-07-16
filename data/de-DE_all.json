@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-15 03:45:05",
-    "Total": 1540,
+    "LastUpdate": "2026-07-16 03:47:37",
+    "Total": 1541,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260715",
+            "fullstartdate": "202607152200",
+            "enddate": "20260716",
+            "url": "/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavyPier_DE-DE6672447932",
+            "copyright": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+            "title": "Ein Wahrzeichen Chicagos",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_NavyPier%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "637ec8b8ddaba2a65979ee6a6a1f2a65",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260714",
             "fullstartdate": "202607142200",
