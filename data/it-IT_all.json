@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-16 03:47:57",
-    "Total": 1541,
+    "LastUpdate": "2026-07-17 03:48:07",
+    "Total": 1542,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260716",
+            "fullstartdate": "202607162200",
+            "enddate": "20260717",
+            "url": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
+            "copyright": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
+            "title": "Hellas e Geometria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a496b9aaf9660f3ebad5b273d93722f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260715",
             "fullstartdate": "202607152200",
