@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-16 03:47:45",
-    "Total": 1537,
+    "LastUpdate": "2026-07-17 03:47:53",
+    "Total": 1538,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260716",
+            "fullstartdate": "202607162300",
+            "enddate": "20260717",
+            "url": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaiUmbrellas_EN-GB3361752741",
+            "copyright": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260716_2300%22",
+            "title": "A Greek escape",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "80ff6b456f8391bf1c6ed4c0f2e25619",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260715",
             "fullstartdate": "202607152300",
