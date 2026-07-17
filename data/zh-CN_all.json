@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-16 03:47:24",
-    "Total": 1541,
+    "LastUpdate": "2026-07-17 03:47:30",
+    "Total": 1542,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260716",
+            "fullstartdate": "202607161600",
+            "enddate": "20260717",
+            "url": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272",
+            "copyright": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E5%85%8B%E9%87%8C%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+            "title": "希腊式的逃离",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce5a5296567bdacfd05fd90a9f431038",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260715",
             "fullstartdate": "202607151600",
