@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-16 03:47:53",
-    "Total": 1541,
+    "LastUpdate": "2026-07-17 03:48:02",
+    "Total": 1542,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260716",
+            "fullstartdate": "202607162200",
+            "enddate": "20260717",
+            "url": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
+            "copyright": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cr%C3%A8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+            "title": "Quand l’évasion rime avec préservation",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ca5b1b0141cdfb1a34af72bb4b578b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260715",
             "fullstartdate": "202607152200",
