@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-17 03:47:49",
-    "Total": 1541,
+    "LastUpdate": "2026-07-18 03:42:01",
+    "Total": 1542,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260717",
+            "fullstartdate": "202607170400",
+            "enddate": "20260718",
+            "url": "/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186",
+            "copyright": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22",
+            "title": "The breadbasket of Canada",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_GrainSilosSK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c72a3c3df06c15b664fc27b97e3bf517",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260716",
             "fullstartdate": "202607160400",
