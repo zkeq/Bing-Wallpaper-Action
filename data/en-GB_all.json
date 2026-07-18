@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-17 03:47:53",
-    "Total": 1538,
+    "LastUpdate": "2026-07-18 03:42:05",
+    "Total": 1539,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260717",
+            "fullstartdate": "202607172300",
+            "enddate": "20260718",
+            "url": "/th?id=OHR.DevilsBridge_EN-GB3657419694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
+            "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
+            "title": "Going full circle",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_DevilsBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a26f5b1d4221ab328dd4b21f70f2e9a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260716",
             "fullstartdate": "202607162300",
