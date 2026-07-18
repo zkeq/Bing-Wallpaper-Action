@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-17 03:48:02",
-    "Total": 1542,
+    "LastUpdate": "2026-07-18 03:42:13",
+    "Total": 1543,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260717",
+            "fullstartdate": "202607172200",
+            "enddate": "20260718",
+            "url": "/th?id=OHR.DevilsBridge_FR-FR5259113427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DevilsBridge_FR-FR5259113427",
+            "copyright": "Pont du Diable dans le parc aux rhododendrons de Kromlau, en Saxe, Allemagne (© Mike Mareen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Parc+paysager+de+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+            "title": "La boucle du temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_DevilsBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e1f9b3b86ad44ae3ab6d5ab0501a991d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260716",
             "fullstartdate": "202607162200",
