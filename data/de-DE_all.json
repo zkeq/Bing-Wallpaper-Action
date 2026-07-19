@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-18 03:41:57",
-    "Total": 1543,
+    "LastUpdate": "2026-07-19 04:04:04",
+    "Total": 1544,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260718",
+            "fullstartdate": "202607182200",
+            "enddate": "20260719",
+            "url": "/th?id=OHR.HirundoRustica_DE-DE7127271974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HirundoRustica_DE-DE7127271974",
+            "copyright": "Rauchschwalben verschiedener Unterarten auf gemeinsamer Rast (© Oscar Dominguez/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Rauchschwalbe&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+            "title": "Moment der Ruhe",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f8f557048f97e3dba5a7391b07730042",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260717",
             "fullstartdate": "202607172200",
