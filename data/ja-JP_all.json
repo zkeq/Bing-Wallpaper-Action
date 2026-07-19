@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-18 03:41:53",
-    "Total": 1543,
+    "LastUpdate": "2026-07-19 04:04:00",
+    "Total": 1544,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260718",
+            "fullstartdate": "202607181500",
+            "enddate": "20260719",
+            "url": "/th?id=OHR.HirundoRustica_JA-JP1327555795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HirundoRustica_JA-JP1327555795",
+            "copyright": "ツバメ (© Oscar Dominguez/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%84%E3%83%90%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220260718_1500%22",
+            "title": "枯れ草にとまる小鳥の群れ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "79adb3f1f4ae526a4fd5b57cee9b35c4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260717",
             "fullstartdate": "202607171500",
