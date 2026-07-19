@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-18 03:42:09",
-    "Total": 1543,
+    "LastUpdate": "2026-07-19 04:04:16",
+    "Total": 1544,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260718",
+            "fullstartdate": "202607181830",
+            "enddate": "20260719",
+            "url": "/th?id=OHR.HirundoRustica_EN-IN8751353148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HirundoRustica_EN-IN8751353148",
+            "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Barn+swallow&form=hpcapt&filters=HpDate%3a%2220260718_1830%22",
+            "title": "Wings at rest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3be3d633cfac5e85b5c02c49a23ad55c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260717",
             "fullstartdate": "202607171830",
