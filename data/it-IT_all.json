@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-19 04:04:23",
-    "Total": 1544,
+    "LastUpdate": "2026-07-20 04:23:42",
+    "Total": 1545,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260719",
+            "fullstartdate": "202607192200",
+            "enddate": "20260720",
+            "url": "/th?id=OHR.Artemis_IT-IT9087187961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Artemis_IT-IT9087187961",
+            "copyright": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
+            "title": "L'altro lato della luna",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ce5bf38cd1bd1e81981e314898ca80d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260718",
             "fullstartdate": "202607182200",
