@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-19 04:04:04",
-    "Total": 1544,
+    "LastUpdate": "2026-07-20 04:23:22",
+    "Total": 1545,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260719",
+            "fullstartdate": "202607192200",
+            "enddate": "20260720",
+            "url": "/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Artemis_DE-DE7510070152",
+            "copyright": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+            "title": "Aus der Perspektive des Mondes",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38cebf1f767bea0003e76fa23958ac5b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260718",
             "fullstartdate": "202607182200",
