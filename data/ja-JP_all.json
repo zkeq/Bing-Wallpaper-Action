@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-19 04:04:00",
-    "Total": 1544,
+    "LastUpdate": "2026-07-20 04:23:19",
+    "Total": 1545,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260719",
+            "fullstartdate": "202607191500",
+            "enddate": "20260720",
+            "url": "/th?id=OHR.Artemis_JA-JP1736021856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Artemis_JA-JP1736021856",
+            "copyright": "月から見た地球 (© NASA)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E6%9C%88%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
+            "title": "今日は国際月の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "963aeddc07d487ce5f42775e237b3a9d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260718",
             "fullstartdate": "202607181500",
