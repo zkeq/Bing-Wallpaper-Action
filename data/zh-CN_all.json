@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-20 04:23:10",
-    "Total": 1545,
+    "LastUpdate": "2026-07-21 03:56:31",
+    "Total": 1546,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260720",
+            "fullstartdate": "202607201600",
+            "enddate": "20260721",
+            "url": "/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCatalina_ZH-CN6223370790",
+            "copyright": "圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%B1%E5%9C%B0%E9%A9%AC%E6%8B%89%E5%9C%A3%E5%8D%A1%E5%A1%94%E7%90%B3%E5%A8%9C%E6%8B%B1%E9%97%A8&form=hpcapt&mkt=zh-cn",
+            "title": "拱影寻踪",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_SantaCatalina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b9b7a1c3213a57697445d9dfff794c91",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260719",
             "fullstartdate": "202607191600",
