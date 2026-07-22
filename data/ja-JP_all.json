@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-21 03:56:39",
-    "Total": 1546,
+    "LastUpdate": "2026-07-22 03:57:48",
+    "Total": 1547,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260721",
+            "fullstartdate": "202607211500",
+            "enddate": "20260722",
+            "url": "/th?id=OHR.CoralAwareness_JA-JP2408708579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoralAwareness_JA-JP2408708579",
+            "copyright": "サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%B4%E7%A4%81%E5%95%93%E7%99%BA%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22",
+            "title": "今週は米国のサンゴ礁啓発週間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_CoralAwareness%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c3b8bf8d89f2e8497a4797a4ee2b0882",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260720",
             "fullstartdate": "202607201500",
