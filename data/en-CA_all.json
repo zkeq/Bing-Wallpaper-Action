@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-21 03:56:47",
-    "Total": 1545,
+    "LastUpdate": "2026-07-22 03:57:56",
+    "Total": 1546,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260721",
+            "fullstartdate": "202607210400",
+            "enddate": "20260722",
+            "url": "/th?id=OHR.SantaCatalina_EN-CA0068780262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCatalina_EN-CA0068780262",
+            "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0400%22",
+            "title": "Hidden in plain arch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_SantaCatalina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d54a2d4b0b27ad944f0b7e6cc9668ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260720",
             "fullstartdate": "202607200400",
