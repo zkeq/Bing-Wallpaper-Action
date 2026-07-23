@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-22 03:58:11",
-    "Total": 1547,
+    "LastUpdate": "2026-07-23 03:55:26",
+    "Total": 1548,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260722",
+            "fullstartdate": "202607222200",
+            "enddate": "20260723",
+            "url": "/th?id=OHR.PinkDahlia_IT-IT4710141441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkDahlia_IT-IT4710141441",
+            "copyright": "Fiore di Dalia rosa (© Harald Biebel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=dalia+fiore&form=hpcapt",
+            "title": "Una sinfonia di petali",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a2eba5d0d8f0a3587bbdab196e94722",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260721",
             "fullstartdate": "202607212200",
