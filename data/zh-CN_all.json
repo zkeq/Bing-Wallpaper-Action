@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-22 03:57:39",
-    "Total": 1547,
+    "LastUpdate": "2026-07-23 03:54:55",
+    "Total": 1548,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260722",
+            "fullstartdate": "202607221600",
+            "enddate": "20260723",
+            "url": "/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkDahlia_ZH-CN2259107800",
+            "copyright": "粉红色大丽花 (© Harald Biebel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E4%B8%BD%E8%8A%B1%E5%B1%9E%E6%A4%8D%E7%89%A9&form=hpcapt&mkt=zh-cn",
+            "title": "瓣叠交响",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b681a287ffe2ec9c04f9519765a33c33",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260721",
             "fullstartdate": "202607211600",
