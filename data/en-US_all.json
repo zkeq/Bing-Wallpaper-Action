@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-22 03:57:44",
-    "Total": 1547,
+    "LastUpdate": "2026-07-23 03:54:59",
+    "Total": 1548,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260722",
+            "fullstartdate": "202607220700",
+            "enddate": "20260723",
+            "url": "/th?id=OHR.CoralAwareness_EN-US1824657819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CoralAwareness_EN-US1824657819",
+            "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260722_0700%22",
+            "title": "Small footprint, big impact",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_CoralAwareness%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58ae11a40a0ac1ba1031eaee103aa5a5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260721",
             "fullstartdate": "202607210700",
