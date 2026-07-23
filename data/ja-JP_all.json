@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-22 03:57:48",
-    "Total": 1547,
+    "LastUpdate": "2026-07-23 03:55:02",
+    "Total": 1548,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260722",
+            "fullstartdate": "202607221500",
+            "enddate": "20260723",
+            "url": "/th?id=OHR.PinkDahlia_JA-JP3415436544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkDahlia_JA-JP3415436544",
+            "copyright": "ピンクのダリア (© Harald Biebel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%94%E3%83%B3%E3%82%AF%E3%81%AE%E3%83%80%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260722_1500%22",
+            "title": "華やかに開くダリアの花びら",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b55653681c319581d8caa41d3ba7c143",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260721",
             "fullstartdate": "202607211500",
