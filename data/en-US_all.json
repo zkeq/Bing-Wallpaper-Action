@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-23 03:54:59",
-    "Total": 1548,
+    "LastUpdate": "2026-07-24 03:54:28",
+    "Total": 1549,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260723",
+            "fullstartdate": "202607230700",
+            "enddate": "20260724",
+            "url": "/th?id=OHR.PinkDahlia_EN-US1957205704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PinkDahlia_EN-US1957205704",
+            "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0700%22",
+            "title": "A symphony of petals",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_PinkDahlia%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "318d4c64551cc89f13789130dd4766ae",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260722",
             "fullstartdate": "202607220700",
