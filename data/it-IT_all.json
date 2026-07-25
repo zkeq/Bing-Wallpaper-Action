@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-24 03:54:57",
-    "Total": 1549,
+    "LastUpdate": "2026-07-25 03:49:50",
+    "Total": 1550,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260724",
+            "fullstartdate": "202607242200",
+            "enddate": "20260725",
+            "url": "/th?id=OHR.SardegnaFaro_IT-IT8009785446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardegnaFaro_IT-IT8009785446",
+            "copyright": "Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Faro+Mangiabarche%2c+Sant%27Antioco%2c+Sulcis%2c+Sardegna&form=hpcapt",
+            "title": "Un unico luogo, un unico scopo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_SardegnaFaro%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "706b81a830cc4c4f5a8ad0a62e21d92f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260723",
             "fullstartdate": "202607232200",
