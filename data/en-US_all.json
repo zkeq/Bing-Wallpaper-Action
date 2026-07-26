@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-25 03:49:23",
-    "Total": 1550,
+    "LastUpdate": "2026-07-26 04:06:52",
+    "Total": 1551,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260725",
+            "fullstartdate": "202607250700",
+            "enddate": "20260726",
+            "url": "/th?id=OHR.GaliciaBeach_EN-US1635715019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GaliciaBeach_EN-US1635715019",
+            "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0700%22",
+            "title": "Into Galicia's hidden arches",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_GaliciaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2ee23806620742bb9c6928b9f60b011",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260724",
             "fullstartdate": "202607240700",
