@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-25 03:49:27",
-    "Total": 1550,
+    "LastUpdate": "2026-07-26 04:06:56",
+    "Total": 1551,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260725",
+            "fullstartdate": "202607251500",
+            "enddate": "20260726",
+            "url": "/th?id=OHR.RedMangroveSunrise_JA-JP3991738335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedMangroveSunrise_JA-JP3991738335",
+            "copyright": "アカマングローブ, ホンジュラス (© Mac Stone/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%9E%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260725_1500%22",
+            "title": "今日は国際マングローブの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_RedMangroveSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bfc7f4fbab83b71b33b0b0ba12f638a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260724",
             "fullstartdate": "202607241500",
