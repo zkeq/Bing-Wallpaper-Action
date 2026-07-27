@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-26 04:07:01",
-    "Total": 1551,
+    "LastUpdate": "2026-07-27 04:23:10",
+    "Total": 1552,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260726",
+            "fullstartdate": "202607262200",
+            "enddate": "20260727",
+            "url": "/th?id=OHR.ChicagoTiffany_DE-DE2141043635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChicagoTiffany_DE-DE2141043635",
+            "copyright": "Tiffany-Kuppel, Chicago Cultural Center, Illinois, USA (© Felix Lipov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tiffany-Kuppel+Chicago+Cultural+Center+Informationen&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
+            "title": "Wo Architektur strahlt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_ChicagoTiffany%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "186406dd5daf378eb8ff8541bba4dbbd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260725",
             "fullstartdate": "202607252200",
