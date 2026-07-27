@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-26 04:07:09",
-    "Total": 1547,
+    "LastUpdate": "2026-07-27 04:23:18",
+    "Total": 1548,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260726",
+            "fullstartdate": "202607262300",
+            "enddate": "20260727",
+            "url": "/th?id=OHR.ChicagoTiffany_EN-GB5292533317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChicagoTiffany_EN-GB5292533317",
+            "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260726_2300%22",
+            "title": "Chicago, look up!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_ChicagoTiffany%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "d374e6ed0c097b2b0d223d25b7c11c66",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260725",
             "fullstartdate": "202607252300",
