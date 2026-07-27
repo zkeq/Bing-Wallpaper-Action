@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-26 04:06:52",
-    "Total": 1551,
+    "LastUpdate": "2026-07-27 04:23:02",
+    "Total": 1552,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260726",
+            "fullstartdate": "202607260700",
+            "enddate": "20260727",
+            "url": "/th?id=OHR.RedMangroveSunrise_EN-US2034025633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedMangroveSunrise_EN-US2034025633",
+            "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=hpcapt&filters=HpDate%3a%2220260726_0700%22",
+            "title": "Between land and sea, life begins",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_RedMangroveSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "540565cc126cfe633f9cdf81a7e91c25",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260725",
             "fullstartdate": "202607250700",
