@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-26 04:07:21",
-    "Total": 1551,
+    "LastUpdate": "2026-07-27 04:23:29",
+    "Total": 1552,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260726",
+            "fullstartdate": "202607262200",
+            "enddate": "20260727",
+            "url": "/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GaliciaBeach_IT-IT8238080614",
+            "copyright": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Galizia+Spagna&form=hpcapt",
+            "title": "Gli archi nascosti della Galizia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_GaliciaBeach%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bcfb64b8d4277ffd00eeb709b90b6193",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260725",
             "fullstartdate": "202607252200",
