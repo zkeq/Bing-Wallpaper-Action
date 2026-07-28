@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-27 04:23:18",
-    "Total": 1548,
+    "LastUpdate": "2026-07-28 03:47:28",
+    "Total": 1549,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260727",
+            "fullstartdate": "202607272300",
+            "enddate": "20260728",
+            "url": "/th?id=OHR.ChannelKelp_EN-GB5530574227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChannelKelp_EN-GB5530574227",
+            "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_2300%22",
+            "title": "A balance in motion",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "54a5d4e2d77b0898f89878dd7e750ae4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260726",
             "fullstartdate": "202607262300",
