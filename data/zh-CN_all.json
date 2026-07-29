@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-28 03:47:07",
-    "Total": 1553,
+    "LastUpdate": "2026-07-29 03:50:05",
+    "Total": 1554,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260728",
+            "fullstartdate": "202607281600",
+            "enddate": "20260729",
+            "url": "/th?id=OHR.TigerFamily_ZH-CN9064744163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TigerFamily_ZH-CN9064744163",
+            "copyright": "孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%A8%E7%90%83%E8%80%81%E8%99%8E%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "虎啸归来，锐爪重临",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e4c933d78595f6fbf4d863099ff5fbb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260727",
             "fullstartdate": "202607271600",
