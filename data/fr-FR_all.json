@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-28 03:47:36",
-    "Total": 1553,
+    "LastUpdate": "2026-07-29 03:50:34",
+    "Total": 1554,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260728",
+            "fullstartdate": "202607282200",
+            "enddate": "20260729",
+            "url": "/th?id=OHR.TigerFamily_FR-FR7284476347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TigerFamily_FR-FR7284476347",
+            "copyright": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+            "title": "Un retour en force",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "da1164b7082dceb07e6dc3d1136ef98a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260727",
             "fullstartdate": "202607272200",
