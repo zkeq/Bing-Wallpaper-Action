@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-28 03:47:28",
-    "Total": 1549,
+    "LastUpdate": "2026-07-29 03:50:26",
+    "Total": 1550,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260728",
+            "fullstartdate": "202607282300",
+            "enddate": "20260729",
+            "url": "/th?id=OHR.TigerFamily_EN-GB5813190934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TigerFamily_EN-GB5813190934",
+            "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260728_2300%22",
+            "title": "A comeback with claws",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ff98901976c3f081301ee8c5c33e5310",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260727",
             "fullstartdate": "202607272300",
