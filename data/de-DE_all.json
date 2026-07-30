@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-29 03:50:18",
-    "Total": 1554,
+    "LastUpdate": "2026-07-30 03:41:52",
+    "Total": 1555,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260729",
+            "fullstartdate": "202607292200",
+            "enddate": "20260730",
+            "url": "/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearBavaria_DE-DE3681217161",
+            "copyright": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Braunb%C3%A4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+            "title": "Wild und wachsam",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_BearBavaria%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b6cd5eb3dc6cfaca26147f3bf570009",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260728",
             "fullstartdate": "202607282200",
