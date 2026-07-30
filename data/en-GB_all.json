@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-29 03:50:26",
-    "Total": 1550,
+    "LastUpdate": "2026-07-30 03:42:00",
+    "Total": 1551,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260729",
+            "fullstartdate": "202607292300",
+            "enddate": "20260730",
+            "url": "/th?id=OHR.NavajoNation_EN-GB6080318819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavajoNation_EN-GB6080318819",
+            "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22",
+            "title": "A landscape of living heritage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_NavajoNation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "df4318646bf822f6aac0c806dfefc5c0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260728",
             "fullstartdate": "202607282300",
