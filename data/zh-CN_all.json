@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-29 03:50:05",
-    "Total": 1554,
+    "LastUpdate": "2026-07-30 03:41:39",
+    "Total": 1555,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260729",
+            "fullstartdate": "202607291600",
+            "enddate": "20260730",
+            "url": "/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NavajoNation_ZH-CN9274387505",
+            "copyright": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+            "title": "旷野无声，活态传承之境",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_NavajoNation%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8f02210ba6e0a2dccd53375f097adbe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260728",
             "fullstartdate": "202607281600",
