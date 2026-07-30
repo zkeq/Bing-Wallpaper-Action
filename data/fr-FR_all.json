@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-29 03:50:34",
-    "Total": 1554,
+    "LastUpdate": "2026-07-30 03:42:08",
+    "Total": 1555,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260729",
+            "fullstartdate": "202607292200",
+            "enddate": "20260730",
+            "url": "/th?id=OHR.WildJackalFriends_FR-FR7398331328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildJackalFriends_FR-FR7398331328",
+            "copyright": "Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+de+l%E2%80%99amiti%C3%A9&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+            "title": "L’amitié, ça s’apprend",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_WildJackalFriends%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "61461be11da200cbc68d9995e5ef1134",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260728",
             "fullstartdate": "202607282200",
