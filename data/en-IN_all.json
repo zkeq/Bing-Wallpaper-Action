@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-30 03:42:04",
-    "Total": 1555,
+    "LastUpdate": "2026-07-31 04:01:51",
+    "Total": 1556,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260730",
+            "fullstartdate": "202607301830",
+            "enddate": "20260731",
+            "url": "/th?id=OHR.VirginiaTrail_EN-IN1200650554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VirginiaTrail_EN-IN1200650554",
+            "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_1830%22",
+            "title": "Trailing through time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3a7a3e083e68e5de909228c0de918f1a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260729",
             "fullstartdate": "202607291830",
