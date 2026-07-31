@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-30 03:41:39",
-    "Total": 1555,
+    "LastUpdate": "2026-07-31 04:01:25",
+    "Total": 1556,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260730",
+            "fullstartdate": "202607301600",
+            "enddate": "20260731",
+            "url": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599",
+            "copyright": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E7%88%AC%E5%B1%B1%E8%99%8E%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn",
+            "title": "穿越时光的足迹",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "60750f8b6dc2e76b7384ab59cb824277",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260729",
             "fullstartdate": "202607291600",
