@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-31 04:01:39",
-    "Total": 1556,
+    "LastUpdate": "2026-08-01 04:01:53",
+    "Total": 1557,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260731",
+            "fullstartdate": "202607312200",
+            "enddate": "20260801",
+            "url": "/th?id=OHR.HawaiiLava_DE-DE4111997666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
+            "copyright": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%C3%9Cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+            "title": "Die Kraft des Kīlauea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_HawaiiLava%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c7a47dca6202932fcf0dbe4939e1765",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260730",
             "fullstartdate": "202607302200",
