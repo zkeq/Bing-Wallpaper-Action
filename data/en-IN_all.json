@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-31 04:01:51",
-    "Total": 1556,
+    "LastUpdate": "2026-08-01 04:02:06",
+    "Total": 1557,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260731",
+            "fullstartdate": "202607311830",
+            "enddate": "20260801",
+            "url": "/th?id=OHR.HawaiiLava_EN-IN1784864041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HawaiiLava_EN-IN1784864041",
+            "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22",
+            "title": "The power of Kīlauea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_HawaiiLava%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "98180917a7c5ff292093468a6f16e7ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260730",
             "fullstartdate": "202607301830",
