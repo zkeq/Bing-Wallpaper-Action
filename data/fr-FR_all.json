@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-07-31 04:01:55",
-    "Total": 1556,
+    "LastUpdate": "2026-08-01 04:02:10",
+    "Total": 1557,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260731",
+            "fullstartdate": "202607312200",
+            "enddate": "20260801",
+            "url": "/th?id=OHR.SeaStacks_FR-FR4057620009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SeaStacks_FR-FR4057620009",
+            "copyright": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+            "title": "Debout face aux vagues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_SeaStacks%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f10951ad5b4237f4b55cdec010a91266",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260730",
             "fullstartdate": "202607302200",
