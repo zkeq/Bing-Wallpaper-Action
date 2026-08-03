@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-02 04:04:23",
-    "Total": 1558,
+    "LastUpdate": "2026-08-03 04:07:02",
+    "Total": 1559,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260802",
+            "fullstartdate": "202608020700",
+            "enddate": "20260803",
+            "url": "/th?id=OHR.HelsinkiBlue_EN-US4898215906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HelsinkiBlue_EN-US4898215906",
+            "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260802_0700%22",
+            "title": "Daughter of the Baltic",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_HelsinkiBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3133831c76a058051ed0273b6f51b1fa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260801",
             "fullstartdate": "202608010700",
