@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-02 04:04:46",
-    "Total": 1558,
+    "LastUpdate": "2026-08-03 04:07:25",
+    "Total": 1559,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260802",
+            "fullstartdate": "202608022200",
+            "enddate": "20260803",
+            "url": "/th?id=OHR.BoatsMalta_FR-FR8096449869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
+            "copyright": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+            "title": "Les couleurs de la tradition",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_BoatsMalta%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "22e4c4ec6d57e3d58545b60a7c98b2d1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260801",
             "fullstartdate": "202608012200",
