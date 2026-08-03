@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-02 04:04:27",
-    "Total": 1558,
+    "LastUpdate": "2026-08-03 04:07:06",
+    "Total": 1559,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260802",
+            "fullstartdate": "202608021500",
+            "enddate": "20260803",
+            "url": "/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
+            "copyright": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B5%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%83%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
+            "title": "エメラルドの海に浮かぶ色とりどりの船",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_BoatsMalta%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b3ff05ea4f72d7e0be7a9374bee2689",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260801",
             "fullstartdate": "202608011500",
