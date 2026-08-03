@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-02 04:04:39",
-    "Total": 1554,
+    "LastUpdate": "2026-08-03 04:07:18",
+    "Total": 1555,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260802",
+            "fullstartdate": "202608022300",
+            "enddate": "20260803",
+            "url": "/th?id=OHR.BoatsMalta_EN-GB7267750671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoatsMalta_EN-GB7267750671",
+            "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260802_2300%22",
+            "title": "Bright boats, timeless traditions",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_BoatsMalta%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ef6e072e9a55f0329284988cf857c124",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260801",
             "fullstartdate": "202608012300",
