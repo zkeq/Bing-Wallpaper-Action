@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-03 04:06:57",
-    "Total": 1559,
+    "LastUpdate": "2026-08-04 03:49:06",
+    "Total": 1560,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260803",
+            "fullstartdate": "202608031600",
+            "enddate": "20260804",
+            "url": "/th?id=OHR.AdorableOwlet_ZH-CN6929234033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdorableOwlet_ZH-CN6929234033",
+            "copyright": "佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%8C%AB%E5%A4%B4%E9%B9%B0&form=hpcapt&mkt=zh-cn",
+            "title": "呼呼，太棒了！",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260803_AdorableOwlet%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ceec1e17bd5453e6b8f1c763c4336483",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260802",
             "fullstartdate": "202608021600",
