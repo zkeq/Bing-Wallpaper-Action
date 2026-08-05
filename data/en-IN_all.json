@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-04 03:49:31",
-    "Total": 1560,
+    "LastUpdate": "2026-08-05 03:45:18",
+    "Total": 1561,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260804",
+            "fullstartdate": "202608041830",
+            "enddate": "20260805",
+            "url": "/th?id=OHR.FezMorocco_EN-IN3277799020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FezMorocco_EN-IN3277799020",
+            "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260804_1830%22",
+            "title": "Gates of a hidden kingdom",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "73019074f356353dc900634c3939edd8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260803",
             "fullstartdate": "202608031830",
