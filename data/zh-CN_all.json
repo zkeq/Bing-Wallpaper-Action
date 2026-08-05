@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-04 03:49:06",
-    "Total": 1560,
+    "LastUpdate": "2026-08-05 03:44:53",
+    "Total": 1561,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260804",
+            "fullstartdate": "202608041600",
+            "enddate": "20260805",
+            "url": "/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FezMorocco_ZH-CN7662339428",
+            "copyright": "非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%9D%9E%E6%96%AF%E7%9A%87%E5%AE%AB&form=hpcapt&mkt=zh-cn",
+            "title": "秘境之门，匠心传世",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2650e556e305b7ed29572d4cfc73108d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260803",
             "fullstartdate": "202608031600",
