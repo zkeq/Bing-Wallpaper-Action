@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-05 03:45:18",
-    "Total": 1561,
+    "LastUpdate": "2026-08-06 03:50:42",
+    "Total": 1562,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260805",
+            "fullstartdate": "202608051830",
+            "enddate": "20260806",
+            "url": "/th?id=OHR.MaraCrossing_EN-IN3635876531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaraCrossing_EN-IN3635876531",
+            "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_1830%22",
+            "title": "Where the river tests the brave",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d3027d02f78c8a0042133b45b146ab0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260804",
             "fullstartdate": "202608041830",
