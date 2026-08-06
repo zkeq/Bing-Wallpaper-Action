@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-05 03:44:53",
-    "Total": 1561,
+    "LastUpdate": "2026-08-06 03:50:18",
+    "Total": 1562,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260805",
+            "fullstartdate": "202608051600",
+            "enddate": "20260806",
+            "url": "/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaraCrossing_ZH-CN8816902094",
+            "copyright": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%A7%92%E9%A9%AC&form=hpcapt&mkt=zh-cn",
+            "title": "生死渡口，勇者的史诗",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1ca04759f20874cbd7d3dcd91be4b3a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260804",
             "fullstartdate": "202608041600",
