@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-05 03:45:27",
-    "Total": 1561,
+    "LastUpdate": "2026-08-06 03:50:50",
+    "Total": 1562,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260805",
+            "fullstartdate": "202608052200",
+            "enddate": "20260806",
+            "url": "/th?id=OHR.MaraCrossing_IT-IT0069962871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaraCrossing_IT-IT0069962871",
+            "copyright": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lo+Gnu&form=hpcapt",
+            "title": "La prova dei coraggiosi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe328d4a5b73277151ca1b10dd56059f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260804",
             "fullstartdate": "202608042200",
