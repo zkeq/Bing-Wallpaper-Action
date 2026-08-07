@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-06 03:50:18",
-    "Total": 1562,
+    "LastUpdate": "2026-08-07 03:30:07",
+    "Total": 1563,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260806",
+            "fullstartdate": "202608061600",
+            "enddate": "20260807",
+            "url": "/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LimeKiln_ZH-CN5664152522",
+            "copyright": "圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9F%B3%E7%81%B0%E7%AA%91%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+            "title": "指引船只穿越历史",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_LimeKiln%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "99bd355f271fd0ae62035f00be99de98",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260805",
             "fullstartdate": "202608051600",
