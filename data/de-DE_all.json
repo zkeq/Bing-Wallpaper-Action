@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-06 03:50:30",
-    "Total": 1562,
+    "LastUpdate": "2026-08-07 03:30:20",
+    "Total": 1563,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260806",
+            "fullstartdate": "202608062200",
+            "enddate": "20260807",
+            "url": "/th?id=OHR.LimeKiln_DE-DE5407156308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LimeKiln_DE-DE5407156308",
+            "copyright": "Leuchtturm Lime Kiln auf San Juan Island, Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Leuchtturm+Lime+Kiln+Wanderungen&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+            "title": "Schiffe durch die Geschichte führen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_LimeKiln%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "de05c5206e0c99361cce6004a9706cc6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260805",
             "fullstartdate": "202608052200",
