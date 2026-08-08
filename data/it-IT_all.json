@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-07 03:30:40",
-    "Total": 1563,
+    "LastUpdate": "2026-08-08 02:29:13",
+    "Total": 1564,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260807",
+            "fullstartdate": "202608072200",
+            "enddate": "20260808",
+            "url": "/th?id=OHR.StocktonInfinity_IT-IT2789649837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StocktonInfinity_IT-IT2789649837",
+            "copyright": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Stockton-on-Tees&form=hpcapt",
+            "title": "Attraversare l'infinito",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_StocktonInfinity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "12c700af1297d50378a24718bbc53c3f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260806",
             "fullstartdate": "202608062200",
