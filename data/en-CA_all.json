@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-07 03:30:24",
-    "Total": 1562,
+    "LastUpdate": "2026-08-08 02:28:57",
+    "Total": 1563,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260807",
+            "fullstartdate": "202608070400",
+            "enddate": "20260808",
+            "url": "/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LimeKiln_EN-CA4364402853",
+            "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260807_0400%22",
+            "title": "Guiding ships through history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_LimeKiln%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee9a52c4a4a31e6079f37efccb52418d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260806",
             "fullstartdate": "202608060400",
