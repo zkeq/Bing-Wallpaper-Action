@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-07 03:30:16",
-    "Total": 1563,
+    "LastUpdate": "2026-08-08 02:28:49",
+    "Total": 1564,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260807",
+            "fullstartdate": "202608071500",
+            "enddate": "20260808",
+            "url": "/th?id=OHR.StocktonInfinity_JA-JP6357248728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StocktonInfinity_JA-JP6357248728",
+            "copyright": "インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1500%22",
+            "title": "今日は無限大の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_StocktonInfinity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6fafb6119594a81f90952e7248218bc7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260806",
             "fullstartdate": "202608061500",
