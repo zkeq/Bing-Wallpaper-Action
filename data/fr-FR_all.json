@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-07 03:30:36",
-    "Total": 1563,
+    "LastUpdate": "2026-08-08 02:29:09",
+    "Total": 1564,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260807",
+            "fullstartdate": "202608072200",
+            "enddate": "20260808",
+            "url": "/th?id=OHR.ClothesBarjols_FR-FR4425384248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ClothesBarjols_FR-FR4425384248",
+            "copyright": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Provence-Alpes-C%C3%B4tes+d%E2%80%99Azur&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
+            "title": "L’art de prendre le temps",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_ClothesBarjols%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2725cf553a1538b37943b68c518b0233",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260806",
             "fullstartdate": "202608062200",
