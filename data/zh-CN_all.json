@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-07 03:30:07",
-    "Total": 1563,
+    "LastUpdate": "2026-08-08 02:28:39",
+    "Total": 1564,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260807",
+            "fullstartdate": "202608071600",
+            "enddate": "20260808",
+            "url": "/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StocktonInfinity_ZH-CN5941379745",
+            "copyright": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%97%A0%E9%99%90%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "迈向无限",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_StocktonInfinity%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5a41c3c666cdf4a74055fa03598ad720",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260806",
             "fullstartdate": "202608061600",
