@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-09 02:35:45",
-    "Total": 1565,
+    "LastUpdate": "2026-08-10 02:41:32",
+    "Total": 1566,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260809",
+            "fullstartdate": "202608092200",
+            "enddate": "20260810",
+            "url": "/th?id=OHR.SandPath_DE-DE5965414761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SandPath_DE-DE5965414761",
+            "copyright": "Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Joshua-Tree-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+            "title": "Wo zwei Wüsten aufeinandertreffen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_SandPath%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9c859c3dd8aadde3b4fdbeb7fb2535bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260808",
             "fullstartdate": "202608082200",
