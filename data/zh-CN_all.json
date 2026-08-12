@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-11 02:35:17",
-    "Total": 1567,
+    "LastUpdate": "2026-08-12 03:04:20",
+    "Total": 1568,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260811",
+            "fullstartdate": "202608111600",
+            "enddate": "20260812",
+            "url": "/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantDay_ZH-CN8350171749",
+            "copyright": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "值得守护的巨兽",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "705451920efb2a94942739e9b9de2e40",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260810",
             "fullstartdate": "202608101600",
