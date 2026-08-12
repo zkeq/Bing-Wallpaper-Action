@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-11 02:35:22",
-    "Total": 1567,
+    "LastUpdate": "2026-08-12 03:04:26",
+    "Total": 1568,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260811",
+            "fullstartdate": "202608110700",
+            "enddate": "20260812",
+            "url": "/th?id=OHR.ColorfulCop_EN-US3993977654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ColorfulCop_EN-US3993977654",
+            "copyright": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0700%22",
+            "title": "Copenhagen in full color",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ColorfulCop%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8195663d0d0b35e7c3be9e97495d3b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260810",
             "fullstartdate": "202608100700",
