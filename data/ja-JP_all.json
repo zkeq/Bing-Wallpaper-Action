@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-12 03:04:30",
-    "Total": 1568,
+    "LastUpdate": "2026-08-13 03:08:37",
+    "Total": 1569,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260812",
+            "fullstartdate": "202608121500",
+            "enddate": "20260813",
+            "url": "/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PerseidasTenerife_JA-JP5992050152",
+            "copyright": "テイデ天文台, スペイン (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7%E6%B5%81%E6%98%9F%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22",
+            "title": "ペルセウス座流星群が輝く夜空",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_PerseidasTenerife%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "78342e500d3ab0a039c5ce730f04ef24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260811",
             "fullstartdate": "202608111500",
