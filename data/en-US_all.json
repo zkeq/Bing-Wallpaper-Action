@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-12 03:04:26",
-    "Total": 1568,
+    "LastUpdate": "2026-08-13 03:08:33",
+    "Total": 1569,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260812",
+            "fullstartdate": "202608120700",
+            "enddate": "20260813",
+            "url": "/th?id=OHR.ElephantDay_EN-US4280370948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElephantDay_EN-US4280370948",
+            "copyright": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Elephant+Day&form=hpcapt&filters=HpDate%3a%2220260812_0700%22",
+            "title": "Giants worth protecting",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_ElephantDay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fbb1cee9a21049957f0e07a631c9229c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260811",
             "fullstartdate": "202608110700",
