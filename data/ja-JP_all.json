@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-13 03:08:37",
-    "Total": 1569,
+    "LastUpdate": "2026-08-14 03:06:52",
+    "Total": 1570,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260813",
+            "fullstartdate": "202608131500",
+            "enddate": "20260814",
+            "url": "/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Shimoda2026_JA-JP6266826592",
+            "copyright": "下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%8B%E7%94%B0%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220260813_1500%22",
+            "title": "灯りに彩られた歴史ある港町",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_Shimoda2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "413966a3ae667605703cdaceca25684e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260812",
             "fullstartdate": "202608121500",
