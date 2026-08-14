@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-13 03:08:27",
-    "Total": 1569,
+    "LastUpdate": "2026-08-14 03:06:43",
+    "Total": 1570,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260813",
+            "fullstartdate": "202608131600",
+            "enddate": "20260814",
+            "url": "/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246",
+            "copyright": "扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E9%80%9A%E9%81%93&form=hpcapt&mkt=zh-cn",
+            "title": "为动物脚掌而建，而非行人",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "eb1c571f1b833d70d20213fe78799b96",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260812",
             "fullstartdate": "202608121600",
