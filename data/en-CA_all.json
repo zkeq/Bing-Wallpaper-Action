@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-15 01:57:26",
-    "Total": 1570,
+    "LastUpdate": "2026-08-16 02:06:57",
+    "Total": 1571,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260815",
+            "fullstartdate": "202608150400",
+            "enddate": "20260816",
+            "url": "/th?id=OHR.ValleyDreams_EN-CA5979323627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ValleyDreams_EN-CA5979323627",
+            "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0400%22",
+            "title": "The great balancing act",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_ValleyDreams%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5b2d3df5f46bf24af251ff009d099c75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260814",
             "fullstartdate": "202608140400",
