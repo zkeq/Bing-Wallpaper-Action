@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-15 01:57:42",
-    "Total": 1571,
+    "LastUpdate": "2026-08-16 02:07:13",
+    "Total": 1572,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260815",
+            "fullstartdate": "202608152200",
+            "enddate": "20260816",
+            "url": "/th?id=OHR.RossErrillyRuins_IT-IT6009541490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RossErrillyRuins_IT-IT6009541490",
+            "copyright": "Rovine del convento Ross Errilly, Contea di Galway, Irlanda (© Maria Janus/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Contea+di+Galway&form=hpcapt",
+            "title": "Dove le mura raccontano leggende",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "bb8ede01e319b192976f818d77d6325b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260814",
             "fullstartdate": "202608142200",
