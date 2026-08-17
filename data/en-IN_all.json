@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-16 02:07:05",
-    "Total": 1572,
+    "LastUpdate": "2026-08-17 02:04:41",
+    "Total": 1573,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260816",
+            "fullstartdate": "202608161830",
+            "enddate": "20260817",
+            "url": "/th?id=OHR.CabilaoClowns_EN-IN1781663885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CabilaoClowns_EN-IN1781663885",
+            "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260816_1830%22",
+            "title": "A prime 'reef' estate",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b08ef738a9a2fb528e54fcf5a9e51352",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260815",
             "fullstartdate": "202608151830",
