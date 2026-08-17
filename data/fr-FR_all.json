@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-16 02:07:09",
-    "Total": 1572,
+    "LastUpdate": "2026-08-17 02:04:45",
+    "Total": 1573,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260816",
+            "fullstartdate": "202608162200",
+            "enddate": "20260817",
+            "url": "/th?id=OHR.CabilaoClowns_FR-FR3714615654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CabilaoClowns_FR-FR3714615654",
+            "copyright": "Trois faux poissons-clowns dans une anémone de mer, Île de Cabilao, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=faux+poisson-clown+esp%C3%A8ce&form=hpcapt&filters=HpDate%3a%2220260816_2200%22",
+            "title": "Nage droit devant toi !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75becc4fdc4badb1afca82b5a5e1f3b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260815",
             "fullstartdate": "202608152200",
