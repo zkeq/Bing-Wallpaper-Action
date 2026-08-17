@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-16 02:06:45",
-    "Total": 1572,
+    "LastUpdate": "2026-08-17 02:04:22",
+    "Total": 1573,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260816",
+            "fullstartdate": "202608160700",
+            "enddate": "20260817",
+            "url": "/th?id=OHR.RossErrillyRuins_EN-US5729358123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RossErrillyRuins_EN-US5729358123",
+            "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Ross+Errilly+Friary+Ireland&form=hpcapt&filters=HpDate%3a%2220260816_0700%22",
+            "title": "Where swans started a legend",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_RossErrillyRuins%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "ed8ec5d1b07e4e18b8af0cf6615a159c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260815",
             "fullstartdate": "202608150700",
