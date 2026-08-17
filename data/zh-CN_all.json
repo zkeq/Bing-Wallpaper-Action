@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-16 02:06:41",
-    "Total": 1572,
+    "LastUpdate": "2026-08-17 02:04:16",
+    "Total": 1573,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260816",
+            "fullstartdate": "202608161600",
+            "enddate": "20260817",
+            "url": "/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CabilaoClowns_ZH-CN0147033898",
+            "copyright": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9C%BC%E6%96%91%E5%8F%8C%E9%94%AF%E9%B1%BC&form=hpcapt&mkt=zh-cn",
+            "title": "珊瑚礁上的黄金地段",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6cc04d34456d5ae48f6f3939ad45af3c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260815",
             "fullstartdate": "202608151600",
