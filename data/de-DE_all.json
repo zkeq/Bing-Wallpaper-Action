@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-17 02:04:29",
-    "Total": 1573,
+    "LastUpdate": "2026-08-18 01:58:46",
+    "Total": 1574,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260817",
+            "fullstartdate": "202608172200",
+            "enddate": "20260818",
+            "url": "/th?id=OHR.Palmanova_DE-DE7108374282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Palmanova_DE-DE7108374282",
+            "copyright": "Luftaufnahme von Palmanova, einer Festungsstadt in Friaul, Italien (© Riccardo Saponi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palmanova+Italien&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
+            "title": "Geometrie einer Sternenstadt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ecb66b3054f251f812c6415a97ab9546",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260816",
             "fullstartdate": "202608162200",
