@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-18 01:58:37",
-    "Total": 1574,
+    "LastUpdate": "2026-08-19 02:03:12",
+    "Total": 1575,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260818",
+            "fullstartdate": "202608180700",
+            "enddate": "20260819",
+            "url": "/th?id=OHR.Palmanova_EN-US0340289339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Palmanova_EN-US0340289339",
+            "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260818_0700%22",
+            "title": "Geometry of a star city",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_Palmanova%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ebbc1e2cdd8b410d04f6544da8abaa59",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260817",
             "fullstartdate": "202608170700",
