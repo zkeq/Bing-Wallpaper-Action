@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-18 01:58:42",
-    "Total": 1574,
+    "LastUpdate": "2026-08-19 02:03:17",
+    "Total": 1575,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260818",
+            "fullstartdate": "202608181500",
+            "enddate": "20260819",
+            "url": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306",
+            "copyright": "エコダクト, ポーランド (© bbsferrari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8B%95%E7%89%A9%E7%94%A8%E3%81%AE%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260818_1500%22",
+            "title": "森をつなぐ動物専用橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b7d9169be67742d1a3a4104abd5937b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260817",
             "fullstartdate": "202608171500",
