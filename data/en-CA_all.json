@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-19 02:03:25",
-    "Total": 1574,
+    "LastUpdate": "2026-08-20 02:00:51",
+    "Total": 1575,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260819",
+            "fullstartdate": "202608190400",
+            "enddate": "20260820",
+            "url": "/th?id=OHR.WhyteCliffP_EN-CA6624264199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WhyteCliffP_EN-CA6624264199",
+            "copyright": "Whytecliff Park in West Vancouver, British Columbia (© Aolin Chen/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260819_0400%22",
+            "title": "A path between the waves",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_WhyteCliffP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c291ec40e33068c02f9e2b6df769ee8e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260818",
             "fullstartdate": "202608180400",
