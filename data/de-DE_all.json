@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-19 02:03:21",
-    "Total": 1575,
+    "LastUpdate": "2026-08-20 02:00:47",
+    "Total": 1576,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260819",
+            "fullstartdate": "202608192200",
+            "enddate": "20260820",
+            "url": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719",
+            "copyright": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Schwertwal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+            "title": "Klänge der Schwertwale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e429954273baaa9e2ffe0d5c8f6ce087",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260818",
             "fullstartdate": "202608182200",
