@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-20 02:00:55",
-    "Total": 1572,
+    "LastUpdate": "2026-08-21 02:08:32",
+    "Total": 1573,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260820",
+            "fullstartdate": "202608202300",
+            "enddate": "20260821",
+            "url": "/th?id=OHR.JulierPass_EN-GB1060938084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JulierPass_EN-GB1060938084",
+            "copyright": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_2300%22",
+            "title": "The climb is calling",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "727511e7beeb6683f2e485268f449fe3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260819",
             "fullstartdate": "202608192300",
