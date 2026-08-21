@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-20 02:00:47",
-    "Total": 1576,
+    "LastUpdate": "2026-08-21 02:08:24",
+    "Total": 1577,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260820",
+            "fullstartdate": "202608202200",
+            "enddate": "20260821",
+            "url": "/th?id=OHR.JulierPass_DE-DE4547078745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JulierPass_DE-DE4547078745",
+            "copyright": "Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Julierpass&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
+            "title": "Auf in die Berge!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "34183c051641a52d0bca28abef9d3aa9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260819",
             "fullstartdate": "202608192200",
