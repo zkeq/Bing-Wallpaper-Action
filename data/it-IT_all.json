@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-21 02:08:43",
-    "Total": 1577,
+    "LastUpdate": "2026-08-22 01:58:43",
+    "Total": 1578,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260821",
+            "fullstartdate": "202608212200",
+            "enddate": "20260822",
+            "url": "/th?id=OHR.NotteTaranta_IT-IT0811899295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NotteTaranta_IT-IT0811899295",
+            "copyright": "Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=La+Notte+della+Taranta&form=hpcapt",
+            "title": "Il suono della Taranta",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_NotteTaranta%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "37ba5e672606b3910747dbfc7620df7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260820",
             "fullstartdate": "202608202200",
