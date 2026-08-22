@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-21 02:08:24",
-    "Total": 1577,
+    "LastUpdate": "2026-08-22 01:58:23",
+    "Total": 1578,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260821",
+            "fullstartdate": "202608212200",
+            "enddate": "20260822",
+            "url": "/th?id=OHR.CommonBlue_DE-DE9673283581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CommonBlue_DE-DE9673283581",
+            "copyright": "Hauhechel-Bläuling, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Hauhechel-Bl%C3%A4uling&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+            "title": "Himmelblaue Flügel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CommonBlue%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2ea8efc7e6c62e70b1e2b768b63ed7e9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260820",
             "fullstartdate": "202608202200",
