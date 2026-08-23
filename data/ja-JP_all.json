@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-22 01:58:19",
-    "Total": 1578,
+    "LastUpdate": "2026-08-23 02:09:29",
+    "Total": 1579,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260822",
+            "fullstartdate": "202608221500",
+            "enddate": "20260823",
+            "url": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076",
+            "copyright": "夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8F%E3%81%AE%E6%A3%AE%E3%82%92%E6%BD%A4%E3%81%99%E6%B8%85%E6%B5%81&form=hpcapt&filters=HpDate%3a%2220260822_1500%22",
+            "title": "今日は処暑",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_ShizuokaSummer2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a945b76ff3691cd4972d745f154a3e6b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260821",
             "fullstartdate": "202608211500",
