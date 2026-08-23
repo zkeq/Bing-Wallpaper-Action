@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-22 01:58:39",
-    "Total": 1578,
+    "LastUpdate": "2026-08-23 02:09:48",
+    "Total": 1579,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260822",
+            "fullstartdate": "202608222200",
+            "enddate": "20260823",
+            "url": "/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatmaiBear_FR-FR3593143405",
+            "copyright": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Ours+brun&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+            "title": "Que la pêche commence !",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8663e49d2b2c621da5d68beea7ee4b75",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260821",
             "fullstartdate": "202608212200",
