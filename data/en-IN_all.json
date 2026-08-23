@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-22 01:58:35",
-    "Total": 1578,
+    "LastUpdate": "2026-08-23 02:09:44",
+    "Total": 1579,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260822",
+            "fullstartdate": "202608221830",
+            "enddate": "20260823",
+            "url": "/th?id=OHR.KatmaiBear_EN-IN9565722566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KatmaiBear_EN-IN9565722566",
+            "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Katmai+National+Park&form=hpcapt&filters=HpDate%3a%2220260822_1830%22",
+            "title": "Meet Katmai's fishing giants",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "50b38f3a32710813fc88ebd4eaeb31b1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260821",
             "fullstartdate": "202608211830",
