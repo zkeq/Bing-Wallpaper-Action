@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-23 02:09:48",
-    "Total": 1579,
+    "LastUpdate": "2026-08-24 02:08:24",
+    "Total": 1580,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260823",
+            "fullstartdate": "202608232200",
+            "enddate": "20260824",
+            "url": "/th?id=OHR.BKBridge_FR-FR7150855439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BKBridge_FR-FR7150855439",
+            "copyright": "Pont de Brooklyn, New York, États-Unis (© shayes17/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pont+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+            "title": "Bien plus qu’un pont",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "90ad7599ac379aefcc07a4fbac0b00d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260822",
             "fullstartdate": "202608222200",
