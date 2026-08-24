@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-23 02:09:44",
-    "Total": 1579,
+    "LastUpdate": "2026-08-24 02:08:20",
+    "Total": 1580,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260823",
+            "fullstartdate": "202608231830",
+            "enddate": "20260824",
+            "url": "/th?id=OHR.BKBridge_EN-IN9646645592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BKBridge_EN-IN9646645592",
+            "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_1830%22",
+            "title": "Crossing into history",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77f6e6c30f60c0288434b8a0fd711390",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260822",
             "fullstartdate": "202608221830",
