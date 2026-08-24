@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-23 02:09:20",
-    "Total": 1579,
+    "LastUpdate": "2026-08-24 02:07:56",
+    "Total": 1580,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260823",
+            "fullstartdate": "202608231600",
+            "enddate": "20260824",
+            "url": "/th?id=OHR.BKBridge_ZH-CN3870511222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BKBridge_ZH-CN3870511222",
+            "copyright": "布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+            "title": "跨越历史",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2e184557aadccc1145246c9a0102e950",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260822",
             "fullstartdate": "202608221600",
