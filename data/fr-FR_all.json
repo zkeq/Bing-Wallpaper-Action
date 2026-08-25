@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-24 02:08:24",
-    "Total": 1580,
+    "LastUpdate": "2026-08-25 02:03:52",
+    "Total": 1581,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260824",
+            "fullstartdate": "202608242200",
+            "enddate": "20260825",
+            "url": "/th?id=OHR.GlenanSummer_FR-FR4786744371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GlenanSummer_FR-FR4786744371",
+            "copyright": "Plage de sable blanc sur l’archipel des Glénan, Bretagne (© HadelProductions/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=archipel+des+Gl%C3%A9nan&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+            "title": "Sable blanc et lagons bretons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_GlenanSummer%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0a6e1f6fe9ec57d67aa99349873a7eea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260823",
             "fullstartdate": "202608232200",
