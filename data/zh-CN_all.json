@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-24 02:07:56",
-    "Total": 1580,
+    "LastUpdate": "2026-08-25 02:03:24",
+    "Total": 1581,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260824",
+            "fullstartdate": "202608241600",
+            "enddate": "20260825",
+            "url": "/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedwoodPark_ZH-CN9513051062",
+            "copyright": "红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E6%9D%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%B8%8E%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "守护美国瑰宝",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_RedwoodPark%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5695a0157a92fd7388c87fc97da7d3e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260823",
             "fullstartdate": "202608231600",
