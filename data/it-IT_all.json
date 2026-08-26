@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-25 02:03:56",
-    "Total": 1581,
+    "LastUpdate": "2026-08-26 02:09:41",
+    "Total": 1582,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260825",
+            "fullstartdate": "202608252200",
+            "enddate": "20260826",
+            "url": "/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurorasIceland_IT-IT1298284038",
+            "copyright": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Aurora+boreale&form=hpcapt",
+            "title": "Una tempesta di colori",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3cbf493497e5c9959e440db1ceed6eba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260824",
             "fullstartdate": "202608242200",
