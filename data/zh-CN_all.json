@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-25 02:03:24",
-    "Total": 1581,
+    "LastUpdate": "2026-08-26 02:09:09",
+    "Total": 1582,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260825",
+            "fullstartdate": "202608251600",
+            "enddate": "20260826",
+            "url": "/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurorasIceland_ZH-CN9781322454",
+            "copyright": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn",
+            "title": "流光溢彩的天空",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b620c7399820c5bdb0a11f6100d3ebe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260824",
             "fullstartdate": "202608241600",
