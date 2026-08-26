@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-25 02:03:45",
-    "Total": 1577,
+    "LastUpdate": "2026-08-26 02:09:30",
+    "Total": 1578,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260825",
+            "fullstartdate": "202608252300",
+            "enddate": "20260826",
+            "url": "/th?id=OHR.AurorasIceland_EN-GB1541173608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurorasIceland_EN-GB1541173608",
+            "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_2300%22",
+            "title": "A sky alive with colour",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5a8e46e66bf7b6e90b3b5845fa0332a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260824",
             "fullstartdate": "202608242300",
