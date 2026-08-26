@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-25 02:03:33",
-    "Total": 1581,
+    "LastUpdate": "2026-08-26 02:09:18",
+    "Total": 1582,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260825",
+            "fullstartdate": "202608251500",
+            "enddate": "20260826",
+            "url": "/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurorasIceland_JA-JP9970815507",
+            "copyright": "オーロラ, アイスランド (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260825_1500%22",
+            "title": "オーロラが描く幻想の空",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8401df2e318eba70155f055025e126c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260824",
             "fullstartdate": "202608241500",
