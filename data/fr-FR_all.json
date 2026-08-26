@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-25 02:03:52",
-    "Total": 1581,
+    "LastUpdate": "2026-08-26 02:09:37",
+    "Total": 1582,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260825",
+            "fullstartdate": "202608252200",
+            "enddate": "20260826",
+            "url": "/th?id=OHR.AurorasIceland_FR-FR6287537082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AurorasIceland_FR-FR6287537082",
+            "copyright": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=aurore+bor%C3%A9ale&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+            "title": "Comme un mirage céleste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95af4580757f0daab6cd05bfb0bec4cc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260824",
             "fullstartdate": "202608242200",
