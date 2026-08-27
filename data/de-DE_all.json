@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-26 02:09:22",
-    "Total": 1582,
+    "LastUpdate": "2026-08-27 10:10:28",
+    "Total": 1583,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260826",
+            "fullstartdate": "202608262200",
+            "enddate": "20260827",
+            "url": "/th?id=OHR.LakeMagadi_DE-DE5321228958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeMagadi_DE-DE5321228958",
+            "copyright": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Seen&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+            "title": "Wasser, Wildtiere und Wunder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0aad9848eb2a8e179a854bde8c8e79c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260825",
             "fullstartdate": "202608252200",
