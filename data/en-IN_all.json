@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-27 10:10:40",
-    "Total": 1583,
+    "LastUpdate": "2026-08-28 11:41:39",
+    "Total": 1584,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260827",
+            "fullstartdate": "202608271830",
+            "enddate": "20260828",
+            "url": "/th?id=OHR.MichelSunset_EN-IN0118589173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichelSunset_EN-IN0118589173",
+            "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260827_1830%22",
+            "title": "Where tides shape a legend",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4a7fa9e0863126c348314745eacf07f6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260826",
             "fullstartdate": "202608261830",
