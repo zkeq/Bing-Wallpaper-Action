@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-27 10:10:28",
-    "Total": 1583,
+    "LastUpdate": "2026-08-28 11:41:26",
+    "Total": 1584,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260827",
+            "fullstartdate": "202608272200",
+            "enddate": "20260828",
+            "url": "/th?id=OHR.MichelSunset_DE-DE7463636835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichelSunset_DE-DE7463636835",
+            "copyright": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mont-Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+            "title": "Zwischen Himmel und Meer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "836c24f1637bbb86413a04e2045064a0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260826",
             "fullstartdate": "202608262200",
