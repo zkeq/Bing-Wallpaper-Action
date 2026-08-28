@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-27 10:10:48",
-    "Total": 1583,
+    "LastUpdate": "2026-08-28 11:41:47",
+    "Total": 1584,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260827",
+            "fullstartdate": "202608272200",
+            "enddate": "20260828",
+            "url": "/th?id=OHR.MichelSunset_IT-IT1503723648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichelSunset_IT-IT1503723648",
+            "copyright": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Le+Mont-Saint-Michel&form=hpcapt",
+            "title": "La marea trasforma il paesaggio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7245e374f3b53573c2e132e8bf28308a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260826",
             "fullstartdate": "202608262200",
