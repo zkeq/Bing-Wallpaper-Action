@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-27 10:10:24",
-    "Total": 1583,
+    "LastUpdate": "2026-08-28 11:41:22",
+    "Total": 1584,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260827",
+            "fullstartdate": "202608271500",
+            "enddate": "20260828",
+            "url": "/th?id=OHR.MichelSunset_JA-JP0274204340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MichelSunset_JA-JP0274204340",
+            "copyright": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260827_1500%22",
+            "title": "海岸風景の中にそびえる修道院",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "bb1fc442088bb9262573ab8b0d9ce1ca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260826",
             "fullstartdate": "202608261500",
