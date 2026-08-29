@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-28 11:41:35",
-    "Total": 1580,
+    "LastUpdate": "2026-08-29 07:17:55",
+    "Total": 1581,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260828",
+            "fullstartdate": "202608282300",
+            "enddate": "20260829",
+            "url": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135",
+            "copyright": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)",
+            "copyrightlink": "https://www.bing.com/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220260828_2300%22",
+            "title": "A city painted in rhythm",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_NottingHillCarnival2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ee0d4734aa885e4f92a3a33a4d0292ba",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260827",
             "fullstartdate": "202608272300",
