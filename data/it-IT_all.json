@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-28 11:41:47",
-    "Total": 1584,
+    "LastUpdate": "2026-08-29 07:18:07",
+    "Total": 1585,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260828",
+            "fullstartdate": "202608282200",
+            "enddate": "20260829",
+            "url": "/th?id=OHR.SantaCatarina_IT-IT1605956723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCatarina_IT-IT1605956723",
+            "copyright": "Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=hpcapt",
+            "title": "Studiando le maree",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_SantaCatarina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "aa6d8839c41ca6ec27ec85237486f585",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260827",
             "fullstartdate": "202608272200",
