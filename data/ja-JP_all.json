@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-28 11:41:22",
-    "Total": 1584,
+    "LastUpdate": "2026-08-29 07:17:42",
+    "Total": 1585,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260828",
+            "fullstartdate": "202608281500",
+            "enddate": "20260829",
+            "url": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919",
+            "copyright": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220260828_1500%22",
+            "title": "今日は大曲の花火の開催日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_OmagariFireworks2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "711d33579d48eb83b3e57ea99d7994ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260827",
             "fullstartdate": "202608271500",
