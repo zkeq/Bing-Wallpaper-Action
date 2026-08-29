@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-28 11:41:26",
-    "Total": 1584,
+    "LastUpdate": "2026-08-29 07:17:46",
+    "Total": 1585,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260828",
+            "fullstartdate": "202608282200",
+            "enddate": "20260829",
+            "url": "/th?id=OHR.SantaCatarina_DE-DE7458345257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SantaCatarina_DE-DE7458345257",
+            "copyright": "Luftaufnahme von Surfern, Santa Catarina, Brasilien (© Wonderful Nature/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina+Brasilien&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+            "title": "Zwischen den Wellen lesen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_SantaCatarina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06403954aec20aa4fc3613656c96b5d2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260827",
             "fullstartdate": "202608272200",
