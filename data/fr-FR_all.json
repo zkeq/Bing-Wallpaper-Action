@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-30 05:41:59",
-    "Total": 1586,
+    "LastUpdate": "2026-08-31 05:58:33",
+    "Total": 1587,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260830",
+            "fullstartdate": "202608302200",
+            "enddate": "20260831",
+            "url": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737",
+            "copyright": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+            "title": "Quand la beauté du détail opère",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9c8bcb93ac2eed90bafd2967d946ec2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260829",
             "fullstartdate": "202608292200",
