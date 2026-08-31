@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-30 05:41:39",
-    "Total": 1586,
+    "LastUpdate": "2026-08-31 05:58:14",
+    "Total": 1587,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260830",
+            "fullstartdate": "202608301500",
+            "enddate": "20260831",
+            "url": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
+            "copyright": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%AC%E3%82%AE%E3%82%B9%E3%82%BF%E3%83%B3%E5%BA%83%E5%A0%B4%E3%81%AE%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22",
+            "title": "精緻な幾何学模様が彩る天井",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "64bf4e518df0cb18c4ec91f82dbcc0a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260829",
             "fullstartdate": "202608291500",
