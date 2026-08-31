@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-30 05:41:31",
-    "Total": 1586,
+    "LastUpdate": "2026-08-31 05:58:05",
+    "Total": 1587,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260830",
+            "fullstartdate": "202608301600",
+            "enddate": "20260831",
+            "url": "/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamarkandCeiling_ZH-CN1818913296",
+            "copyright": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%92%92%E9%A9%AC%E5%B0%94%E7%BD%95&form=hpcapt&mkt=zh-cn",
+            "title": "图案艺术的典范",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "13b00f4b5c95c67b066596d1da1d0c9f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260829",
             "fullstartdate": "202608291600",
