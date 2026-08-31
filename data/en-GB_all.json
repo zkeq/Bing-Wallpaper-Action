@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-30 05:41:51",
-    "Total": 1582,
+    "LastUpdate": "2026-08-31 05:58:26",
+    "Total": 1583,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260830",
+            "fullstartdate": "202608302300",
+            "enddate": "20260831",
+            "url": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SamarkandCeiling_EN-GB2027090405",
+            "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2300%22",
+            "title": "A master class in pattern",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "93e0ec0ea947ba389c8e34a2c2d39db0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260829",
             "fullstartdate": "202608292300",
