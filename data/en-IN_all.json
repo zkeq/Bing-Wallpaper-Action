@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-31 05:58:29",
-    "Total": 1587,
+    "LastUpdate": "2026-09-01 05:30:52",
+    "Total": 1588,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260831",
+            "fullstartdate": "202608311830",
+            "enddate": "20260901",
+            "url": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394",
+            "copyright": "The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate%3a%2220260831_1830%22",
+            "title": "The tide that carries tales",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_SurathkalBeach2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a1460d5a674ed560275afa70de681e53",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260830",
             "fullstartdate": "202608301830",
