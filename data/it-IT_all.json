@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-31 05:58:37",
-    "Total": 1587,
+    "LastUpdate": "2026-09-01 05:31:00",
+    "Total": 1588,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260831",
+            "fullstartdate": "202608312200",
+            "enddate": "20260901",
+            "url": "/th?id=OHR.CapodannoBizantino_IT-IT2305233649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CapodannoBizantino_IT-IT2305233649",
+            "copyright": "Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Capodanno+Bizantino+ad+Amalfi&form=hpcapt",
+            "title": "Buon Capodanno Bizantino!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_CapodannoBizantino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6ab7581c770f70414fc05a7e0b1e4fea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260830",
             "fullstartdate": "202608302200",
