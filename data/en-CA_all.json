@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-31 05:58:22",
-    "Total": 1587,
+    "LastUpdate": "2026-09-01 05:30:44",
+    "Total": 1588,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260901",
+            "fullstartdate": "202609010400",
+            "enddate": "20260902",
+            "url": "/th?id=OHR.HorseHairShroom_EN-CA6859526783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HorseHairShroom_EN-CA6859526783",
+            "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Fungus&form=hpcapt&filters=HpDate%3a%2220260901_0400%22",
+            "title": "A world beneath your feet",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a9202e6cfd24f92cac9cc0b5215189e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260831",
             "fullstartdate": "202608310400",
