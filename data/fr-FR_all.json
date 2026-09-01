@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-31 05:58:33",
-    "Total": 1587,
+    "LastUpdate": "2026-09-01 05:30:56",
+    "Total": 1588,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260831",
+            "fullstartdate": "202608312200",
+            "enddate": "20260901",
+            "url": "/th?id=OHR.HorseHairShroom_FR-FR3845055413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HorseHairShroom_FR-FR3845055413",
+            "copyright": "Gymnopus androsaceus, Biélorussie (© Máté/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=champignon+Gymnopus+androsaceus&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+            "title": "Un monde entier sous nos pieds",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5205a59cd37c481644a8d90d7a5b94f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260830",
             "fullstartdate": "202608302200",
