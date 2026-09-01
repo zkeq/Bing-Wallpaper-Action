@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-08-31 05:58:14",
-    "Total": 1587,
+    "LastUpdate": "2026-09-01 05:30:36",
+    "Total": 1588,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260831",
+            "fullstartdate": "202608311500",
+            "enddate": "20260901",
+            "url": "/th?id=OHR.HorseHairShroom_JA-JP2550807968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HorseHairShroom_JA-JP2550807968",
+            "copyright": "オチバタケ, ベラルーシ (© Máté/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3%E6%9C%88%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260831_1500%22",
+            "title": "9 月は米国のキノコ月間",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "77ff8b3ed94a5633159bc62a962121f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260830",
             "fullstartdate": "202608301500",
