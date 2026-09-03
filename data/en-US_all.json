@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-02 04:56:40",
-    "Total": 1589,
+    "LastUpdate": "2026-09-03 04:53:58",
+    "Total": 1590,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260902",
+            "fullstartdate": "202609020700",
+            "enddate": "20260903",
+            "url": "/th?id=OHR.SuffolkHuts_EN-US3987062531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SuffolkHuts_EN-US3987062531",
+            "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22",
+            "title": "Painted along the shore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_SuffolkHuts%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7a260c2728bf9356dba2e1678b6f4e1c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260901",
             "fullstartdate": "202609010700",
