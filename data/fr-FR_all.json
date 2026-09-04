@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-03 04:54:22",
-    "Total": 1590,
+    "LastUpdate": "2026-09-04 04:58:57",
+    "Total": 1591,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260903",
+            "fullstartdate": "202609032200",
+            "enddate": "20260904",
+            "url": "/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Westerheversand_FR-FR6860967880",
+            "copyright": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+            "title": "Rouge et blanc à l’horizon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3c04a92127322cbc82dec521847e814",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260902",
             "fullstartdate": "202609022200",
