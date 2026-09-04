@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-03 04:54:18",
-    "Total": 1590,
+    "LastUpdate": "2026-09-04 04:58:53",
+    "Total": 1591,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260903",
+            "fullstartdate": "202609031830",
+            "enddate": "20260904",
+            "url": "/th?id=OHR.Westerheversand_EN-IN6508979486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Westerheversand_EN-IN6508979486",
+            "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_1830%22",
+            "title": "Red and white on the horizon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c1520592942e5717f915921d1595100c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260902",
             "fullstartdate": "202609021830",
