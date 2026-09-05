@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-04 04:58:28",
-    "Total": 1591,
+    "LastUpdate": "2026-09-05 04:50:59",
+    "Total": 1592,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260904",
+            "fullstartdate": "202609041600",
+            "enddate": "20260905",
+            "url": "/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenCrowned_ZH-CN0697075036",
+            "copyright": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%9C%82%E9%B8%9F%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "小小鸟儿，巨大影响",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_GreenCrowned%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1b023726072d70d58ee0d8ed6eb7a984",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260903",
             "fullstartdate": "202609031600",
