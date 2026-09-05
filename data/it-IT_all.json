@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-04 04:59:01",
-    "Total": 1591,
+    "LastUpdate": "2026-09-05 04:51:31",
+    "Total": 1592,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260904",
+            "fullstartdate": "202609042200",
+            "enddate": "20260905",
+            "url": "/th?id=OHR.GreenCrowned_IT-IT8492187001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenCrowned_IT-IT8492187001",
+            "copyright": "Colibrì dalla fronte verde brillante, Costa Rica (© Paul Hobson/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=il+colibr%C3%AC+uccello&form=hpcapt",
+            "title": "Un piccolo spuntino per la giornata",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_GreenCrowned%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2dd7d81ca6430300ff8782dd1e9a054",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260903",
             "fullstartdate": "202609032200",
