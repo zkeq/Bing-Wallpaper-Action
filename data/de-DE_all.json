@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-04 04:58:41",
-    "Total": 1591,
+    "LastUpdate": "2026-09-05 04:51:11",
+    "Total": 1592,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260904",
+            "fullstartdate": "202609042200",
+            "enddate": "20260905",
+            "url": "/th?id=OHR.GreenCrowned_DE-DE8742495391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GreenCrowned_DE-DE8742495391",
+            "copyright": "Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica (© Paul Hobson/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Gr%C3%BCnscheitelbrillant&form=hpcapt&filters=HpDate%3a%2220260904_2200%22",
+            "title": "Kleine Vögel, große Wirkung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_GreenCrowned%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "624f1cb04405e190fec6f38adfd0b692",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260903",
             "fullstartdate": "202609032200",
