@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-06 04:59:18",
-    "Total": 1593,
+    "LastUpdate": "2026-09-07 05:06:30",
+    "Total": 1594,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260906",
+            "fullstartdate": "202609062200",
+            "enddate": "20260907",
+            "url": "/th?id=OHR.BambergTownhall_IT-IT3654533495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambergTownhall_IT-IT3654533495",
+            "copyright": "Vecchio Municipio, Bamberga, Germania (© SCStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Bamberga+Germania&form=hpcapt",
+            "title": "La storia attraverso il canale",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_BambergTownhall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7986879a9f84ff2d8924c35722dcd3a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260905",
             "fullstartdate": "202609052200",
