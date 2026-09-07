@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-06 04:58:50",
-    "Total": 1593,
+    "LastUpdate": "2026-09-07 05:06:01",
+    "Total": 1594,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260906",
+            "fullstartdate": "202609060700",
+            "enddate": "20260907",
+            "url": "/th?id=OHR.LakeFyans_EN-US4295341714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LakeFyans_EN-US4295341714",
+            "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260906_0700%22",
+            "title": "A reservoir of reflections",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_LakeFyans%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "49af7c689abbeb51ed46af5d668461a4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260905",
             "fullstartdate": "202609050700",
