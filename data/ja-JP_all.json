@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-06 04:58:54",
-    "Total": 1593,
+    "LastUpdate": "2026-09-07 05:06:06",
+    "Total": 1594,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260906",
+            "fullstartdate": "202609061500",
+            "enddate": "20260907",
+            "url": "/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambergTownhall_JA-JP4474746509",
+            "copyright": "バンベルク市街, ドイツ (© SCStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220260906_1500%22",
+            "title": "川の上に建つ旧市庁舎",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_BambergTownhall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "834518acfb24984d216d60f470b01371",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260905",
             "fullstartdate": "202609051500",
