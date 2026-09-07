@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-06 04:58:58",
-    "Total": 1593,
+    "LastUpdate": "2026-09-07 05:06:10",
+    "Total": 1594,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260906",
+            "fullstartdate": "202609062200",
+            "enddate": "20260907",
+            "url": "/th?id=OHR.MisurinaPeak_DE-DE8821401263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaPeak_DE-DE8821401263",
+            "copyright": "Cadini di Misurina, Dolomiten, Venetien, Italien (© Vithun Khamsong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomiten&form=hpcapt&filters=HpDate%3a%2220260906_2200%22",
+            "title": "Ein Riff über den Wolken",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_MisurinaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7991c50ccfde458d610746df1c90e29",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260905",
             "fullstartdate": "202609052200",
