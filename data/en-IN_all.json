@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-07 05:06:22",
-    "Total": 1594,
+    "LastUpdate": "2026-09-08 05:03:48",
+    "Total": 1595,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260907",
+            "fullstartdate": "202609071830",
+            "enddate": "20260908",
+            "url": "/th?id=OHR.BeechEngland_EN-IN6965523030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeechEngland_EN-IN6965523030",
+            "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Hampshire+England&form=hpcapt&filters=HpDate%3a%2220260907_1830%22",
+            "title": "Fields of gold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8911ed77999f0aa600b159f9211bffce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260906",
             "fullstartdate": "202609061830",
