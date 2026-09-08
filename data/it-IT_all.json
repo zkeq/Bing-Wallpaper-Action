@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-07 05:06:30",
-    "Total": 1594,
+    "LastUpdate": "2026-09-08 05:03:56",
+    "Total": 1595,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260907",
+            "fullstartdate": "202609072200",
+            "enddate": "20260908",
+            "url": "/th?id=OHR.BeechEngland_IT-IT3767842262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeechEngland_IT-IT3767842262",
+            "copyright": "Faggio in un campo di cereali, East Meon, Parco Nazionale dei South Downs, Hampshire, Inghilterra (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=East+Meon+Inghilterra&form=hpcapt",
+            "title": "Campi d'oro",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccde1ac7057093b1b4e34bb41fa00b6f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260906",
             "fullstartdate": "202609062200",
