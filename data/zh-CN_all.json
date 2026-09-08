@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-07 05:05:57",
-    "Total": 1594,
+    "LastUpdate": "2026-09-08 05:03:24",
+    "Total": 1595,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260907",
+            "fullstartdate": "202609071600",
+            "enddate": "20260908",
+            "url": "/th?id=OHR.BeechEngland_ZH-CN1807343872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeechEngland_ZH-CN1807343872",
+            "copyright": "东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B1%89%E6%99%AE%E9%83%A1&form=hpcapt&mkt=zh-cn",
+            "title": "金色田野",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a18e0e490a887155b8a95dc0ad42f6e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260906",
             "fullstartdate": "202609061600",
