@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-08 05:03:33",
-    "Total": 1595,
+    "LastUpdate": "2026-09-09 05:02:41",
+    "Total": 1596,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260908",
+            "fullstartdate": "202609081500",
+            "enddate": "20260909",
+            "url": "/th?id=OHR.ChungYang2026_JA-JP4920316432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChungYang2026_JA-JP4920316432",
+            "copyright": "菊の花 (© yanjf/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%87%8D%E9%99%BD%E3%81%AE%E7%AF%80%E5%8F%A5&form=hpcapt&filters=HpDate%3a%2220260908_1500%22",
+            "title": "今日は重陽の節句",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_ChungYang2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "944d2f1122d98bd04ec1a6579fb7a070",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260907",
             "fullstartdate": "202609071500",
