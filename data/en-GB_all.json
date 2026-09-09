@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-08 05:03:44",
-    "Total": 1591,
+    "LastUpdate": "2026-09-09 05:02:53",
+    "Total": 1592,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260908",
+            "fullstartdate": "202609082300",
+            "enddate": "20260909",
+            "url": "/th?id=OHR.GabitKeni_EN-GB6382808847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GabitKeni_EN-GB6382808847",
+            "copyright": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate%3a%2220260908_2300%22",
+            "title": "Life on India's west coast",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "854b931175fda7079810ae9ed13dad1d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260907",
             "fullstartdate": "202609072300",
