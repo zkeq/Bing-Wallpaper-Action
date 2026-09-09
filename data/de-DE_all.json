@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-08 05:03:37",
-    "Total": 1595,
+    "LastUpdate": "2026-09-09 05:02:45",
+    "Total": 1596,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260908",
+            "fullstartdate": "202609082200",
+            "enddate": "20260909",
+            "url": "/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GabitKeni_DE-DE7644159107",
+            "copyright": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Karnataka+Indien+Informationen&form=hpcapt&filters=HpDate%3a%2220260908_2200%22",
+            "title": "Leben an Indiens Westküste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "55c835e445da721f60f0e4b1c8fe8118",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260907",
             "fullstartdate": "202609072200",
