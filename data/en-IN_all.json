@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-09 05:02:57",
-    "Total": 1596,
+    "LastUpdate": "2026-09-10 05:05:42",
+    "Total": 1597,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260909",
+            "fullstartdate": "202609091830",
+            "enddate": "20260910",
+            "url": "/th?id=OHR.Olvera_EN-IN7126654941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Olvera_EN-IN7126654941",
+            "copyright": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260909_1830%22",
+            "title": "A patchwork from above",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "431fcd02ae5e85568d681e8fb42bb9c3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260908",
             "fullstartdate": "202609081830",
