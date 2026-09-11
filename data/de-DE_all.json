@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-10 05:05:31",
-    "Total": 1597,
+    "LastUpdate": "2026-09-11 05:03:10",
+    "Total": 1598,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260910",
+            "fullstartdate": "202609102200",
+            "enddate": "20260911",
+            "url": "/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127",
+            "copyright": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
+            "title": "Wo das Mittelmeer regiert",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9da5b4d732f39d32e86f2d70946df0c6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260909",
             "fullstartdate": "202609092200",
