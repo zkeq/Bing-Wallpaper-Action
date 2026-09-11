@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-10 05:05:49",
-    "Total": 1597,
+    "LastUpdate": "2026-09-11 05:03:30",
+    "Total": 1598,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260910",
+            "fullstartdate": "202609102200",
+            "enddate": "20260911",
+            "url": "/th?id=OHR.Castelmezzano_IT-IT4140249349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Castelmezzano_IT-IT4140249349",
+            "copyright": "Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Castelmezzano&form=hpcapt",
+            "title": "La bellezza dei villaggi",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_Castelmezzano%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4a0771aaf889029591d38f2e3ee28e6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260909",
             "fullstartdate": "202609092200",
