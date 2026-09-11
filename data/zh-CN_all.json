@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-10 05:05:19",
-    "Total": 1597,
+    "LastUpdate": "2026-09-11 05:02:56",
+    "Total": 1598,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260910",
+            "fullstartdate": "202609101600",
+            "enddate": "20260911",
+            "url": "/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422",
+            "copyright": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%BB%A8%E6%B5%B7%E8%87%AA%E7%94%B1%E5%9F%8E&form=hpcapt&mkt=zh-cn",
+            "title": "地中海风情尽显",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7870e23785fa736c7fe2424fa3bdc743",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260909",
             "fullstartdate": "202609091600",
