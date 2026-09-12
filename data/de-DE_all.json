@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-11 05:03:10",
-    "Total": 1598,
+    "LastUpdate": "2026-09-12 04:54:05",
+    "Total": 1599,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260911",
+            "fullstartdate": "202609112200",
+            "enddate": "20260912",
+            "url": "/th?id=OHR.SardineBait_DE-DE9091780632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardineBait_DE-DE9091780632",
+            "copyright": "Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Kalifornischer+Seel%C3%B6we&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+            "title": "Meister der Brandung",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3b54df2488ec4a1aeb774f45aef7a435",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260910",
             "fullstartdate": "202609102200",
