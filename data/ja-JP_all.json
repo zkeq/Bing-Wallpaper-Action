@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-11 05:03:06",
-    "Total": 1598,
+    "LastUpdate": "2026-09-12 04:54:01",
+    "Total": 1599,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260911",
+            "fullstartdate": "202609111500",
+            "enddate": "20260912",
+            "url": "/th?id=OHR.SardineBait_JA-JP5540649445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardineBait_JA-JP5540649445",
+            "copyright": "カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220260911_1500%22",
+            "title": "イワシの群れを狙うカリフォルニアアシカ",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f2ce3075014adfbfe993425d05c3cb0f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260910",
             "fullstartdate": "202609101500",
