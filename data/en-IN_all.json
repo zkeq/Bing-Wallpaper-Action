@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-11 05:03:22",
-    "Total": 1598,
+    "LastUpdate": "2026-09-12 04:54:17",
+    "Total": 1599,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260911",
+            "fullstartdate": "202609111830",
+            "enddate": "20260912",
+            "url": "/th?id=OHR.SardineBait_EN-IN7573319017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SardineBait_EN-IN7573319017",
+            "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260911_1830%22",
+            "title": "Masters of the surf and shore",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2023cad204b86a2f84257baf3a36b996",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260910",
             "fullstartdate": "202609101830",
