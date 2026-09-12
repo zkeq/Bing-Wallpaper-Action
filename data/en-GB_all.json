@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-11 05:03:18",
-    "Total": 1594,
+    "LastUpdate": "2026-09-12 04:54:13",
+    "Total": 1595,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260911",
+            "fullstartdate": "202609112300",
+            "enddate": "20260912",
+            "url": "/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139",
+            "copyright": "Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Night+of+the+Proms+London&form=hpcapt&filters=HpDate%3a%2220260911_2300%22",
+            "title": "A finale worth singing about",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_LastNightOfTheProms2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33fa4c0d498bfee8ff7cef0c9ab24831",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260910",
             "fullstartdate": "202609102300",
