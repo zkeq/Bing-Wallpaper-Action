@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-12 04:53:52",
-    "Total": 1599,
+    "LastUpdate": "2026-09-13 05:14:39",
+    "Total": 1600,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260912",
+            "fullstartdate": "202609121600",
+            "enddate": "20260913",
+            "url": "/th?id=OHR.MisurinaPeak_ZH-CN3877105161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaPeak_ZH-CN3877105161",
+            "copyright": "米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1%E8%84%89%E7%B1%B3%E8%8B%8F%E9%87%8C%E7%BA%B3%E7%BE%A4%E5%B3%B0&form=hpcapt&mkt=zh-cn",
+            "title": "高处的珊瑚礁",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_MisurinaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b059b4ae0a7834638a360cf1db512707",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260911",
             "fullstartdate": "202609111600",
