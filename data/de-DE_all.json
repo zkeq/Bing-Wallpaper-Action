@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-12 04:54:05",
-    "Total": 1599,
+    "LastUpdate": "2026-09-13 05:14:52",
+    "Total": 1600,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260912",
+            "fullstartdate": "202609122200",
+            "enddate": "20260913",
+            "url": "/th?id=OHR.BambergTownhall_DE-DE7159832274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BambergTownhall_DE-DE7159832274",
+            "copyright": "Altes Rathaus in Bamberg, Bayern (© SCStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Tag+des+offenen+Denkmals&form=hpcapt&filters=HpDate%3a%2220260912_2200%22",
+            "title": "Verbindungen über Jahrhunderte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_BambergTownhall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "11efe8108278b21e16053fa1e861f797",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260911",
             "fullstartdate": "202609112200",
