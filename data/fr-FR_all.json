@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-12 04:54:21",
-    "Total": 1599,
+    "LastUpdate": "2026-09-13 05:15:08",
+    "Total": 1600,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260912",
+            "fullstartdate": "202609122200",
+            "enddate": "20260913",
+            "url": "/th?id=OHR.MisurinaPeak_FR-FR3560016710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaPeak_FR-FR3560016710",
+            "copyright": "Cadini di Misurina, Dolomites, Vénétie, Italie (© Vithun Khamsong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cadini+di+Misurina+Italie&form=hpcapt&filters=HpDate%3a%2220260912_2200%22",
+            "title": "Un toit au-dessus de l’Italie",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_MisurinaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "878cdc0b0ba3f19e027a396e217a6c47",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260911",
             "fullstartdate": "202609112200",
