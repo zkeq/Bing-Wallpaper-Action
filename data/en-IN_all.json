@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-12 04:54:17",
-    "Total": 1599,
+    "LastUpdate": "2026-09-13 05:15:04",
+    "Total": 1600,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260912",
+            "fullstartdate": "202609121830",
+            "enddate": "20260913",
+            "url": "/th?id=OHR.MisurinaPeak_EN-IN7734195824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MisurinaPeak_EN-IN7734195824",
+            "copyright": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260912_1830%22",
+            "title": "A reef above its station",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_MisurinaPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8cc6190092d0c229cb32b521b90c37d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260911",
             "fullstartdate": "202609111830",
