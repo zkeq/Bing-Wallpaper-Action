@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-13 05:14:39",
-    "Total": 1600,
+    "LastUpdate": "2026-09-14 05:20:04",
+    "Total": 1601,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260913",
+            "fullstartdate": "202609131600",
+            "enddate": "20260914",
+            "url": "/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KochiaChina_ZH-CN4719995421",
+            "copyright": "地肤田，中国 (© lingqi xie/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%9C%B0%E8%82%A4&form=hpcapt&mkt=zh-cn",
+            "title": "坚韧在此扎根",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c4ce126fc7443a9885bd64539221a834",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260912",
             "fullstartdate": "202609121600",
