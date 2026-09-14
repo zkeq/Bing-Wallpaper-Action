@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-13 05:15:12",
-    "Total": 1600,
+    "LastUpdate": "2026-09-14 05:20:36",
+    "Total": 1601,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260913",
+            "fullstartdate": "202609132200",
+            "enddate": "20260914",
+            "url": "/th?id=OHR.KochiaChina_IT-IT4492706565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KochiaChina_IT-IT4492706565",
+            "copyright": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kochia+scoparia&form=hpcapt",
+            "title": "Dove la durezza radica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a1b784283f58d920531e3ecbf0801518",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260912",
             "fullstartdate": "202609122200",
