@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-13 05:14:48",
-    "Total": 1600,
+    "LastUpdate": "2026-09-14 05:20:13",
+    "Total": 1601,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260913",
+            "fullstartdate": "202609131500",
+            "enddate": "20260914",
+            "url": "/th?id=OHR.Cosmos2026_JA-JP5810317842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Cosmos2026_JA-JP5810317842",
+            "copyright": "川辺のコスモス (© iplan/a.collectionRF/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260913_1500%22",
+            "title": "今日はコスモスの日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_Cosmos2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b2be198baf2eb53f02927dfd27088f3d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260912",
             "fullstartdate": "202609121500",
