@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-14 05:20:21",
-    "Total": 1601,
+    "LastUpdate": "2026-09-15 05:11:11",
+    "Total": 1602,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260915",
+            "fullstartdate": "202609150400",
+            "enddate": "20260916",
+            "url": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RedMacawsFlight_EN-CA9501790458",
+            "copyright": "Red-and-green macaws (© markes51/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate%3a%2220260915_0400%22",
+            "title": "Survival of the flashiest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_RedMacawsFlight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4630092aa30dcca2464fdde016bbd26",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260914",
             "fullstartdate": "202609140400",
