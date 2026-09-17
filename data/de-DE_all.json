@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-16 05:06:26",
-    "Total": 1603,
+    "LastUpdate": "2026-09-17 05:10:30",
+    "Total": 1604,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260916",
+            "fullstartdate": "202609162200",
+            "enddate": "20260917",
+            "url": "/th?id=OHR.Santenay_DE-DE7807006506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Santenay_DE-DE7807006506",
+            "copyright": "Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santenay+Weinregion&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+            "title": "Ein Hoch auf die Ernte",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cedbdb6b125e91ae72eff2d34ce40a55",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260915",
             "fullstartdate": "202609152200",
