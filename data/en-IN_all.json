@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-16 05:06:39",
-    "Total": 1603,
+    "LastUpdate": "2026-09-17 05:10:42",
+    "Total": 1604,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260916",
+            "fullstartdate": "202609161830",
+            "enddate": "20260917",
+            "url": "/th?id=OHR.Santenay_EN-IN8437955164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Santenay_EN-IN8437955164",
+            "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_1830%22",
+            "title": "A toast to the harvest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "40d43b82de7c4b5c6319a4cc434c452a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260915",
             "fullstartdate": "202609151830",
