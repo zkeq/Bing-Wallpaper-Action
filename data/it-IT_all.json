@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-16 05:06:47",
-    "Total": 1603,
+    "LastUpdate": "2026-09-17 05:10:50",
+    "Total": 1604,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260916",
+            "fullstartdate": "202609162200",
+            "enddate": "20260917",
+            "url": "/th?id=OHR.Santenay_IT-IT4764829953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Santenay_IT-IT4764829953",
+            "copyright": "Mulino a vento e vigneti di Sorine, regione vinicola di Santenay, Côte de Beaune, Borgogna, Francia (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=C%C3%B4te+de+Beaune&form=hpcapt",
+            "title": "Un brindisi al raccolto",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cc1a24eee589f1665a036aebefa36b0d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260915",
             "fullstartdate": "202609152200",
