@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-16 05:06:13",
-    "Total": 1603,
+    "LastUpdate": "2026-09-17 05:10:18",
+    "Total": 1604,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260916",
+            "fullstartdate": "202609161600",
+            "enddate": "20260917",
+            "url": "/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Santenay_ZH-CN5676942384",
+            "copyright": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%A1%91%E7%89%B9%E5%A5%88%E8%91%A1%E8%90%84%E9%85%92%E4%BA%A7%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+            "title": "为丰收举杯",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afeed251674a914c13e0ae88bc065242",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260915",
             "fullstartdate": "202609151600",
