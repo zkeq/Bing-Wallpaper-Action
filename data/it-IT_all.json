@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-17 05:10:50",
-    "Total": 1604,
+    "LastUpdate": "2026-09-18 05:04:02",
+    "Total": 1605,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260917",
+            "fullstartdate": "202609172200",
+            "enddate": "20260918",
+            "url": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458",
+            "copyright": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Peak+District&form=hpcapt",
+            "title": "Attraverso il cuore del passo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5604d2671cfcb1658b5e521bd8291c0f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260916",
             "fullstartdate": "202609162200",
