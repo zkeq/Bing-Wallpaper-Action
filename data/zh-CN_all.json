@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-18 05:03:28",
-    "Total": 1605,
+    "LastUpdate": "2026-09-19 04:54:17",
+    "Total": 1606,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260918",
+            "fullstartdate": "202609181600",
+            "enddate": "20260919",
+            "url": "/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlphornBavaria_ZH-CN5896237112",
+            "copyright": "阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%85%95%E5%B0%BC%E9%BB%91%E5%95%A4%E9%85%92%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "慕尼黑啤酒节的阿尔卑斯之声",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "aa60b4eff899d1166af4abf256daaa9f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260917",
             "fullstartdate": "202609171600",
