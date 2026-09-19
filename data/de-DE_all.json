@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-18 05:03:42",
-    "Total": 1605,
+    "LastUpdate": "2026-09-19 04:54:30",
+    "Total": 1606,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260918",
+            "fullstartdate": "202609182200",
+            "enddate": "20260919",
+            "url": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623",
+            "copyright": "Oktoberfest München, Bayern (© FooTToo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+            "title": "O’zapft is!",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_OktoberfestMunich%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a73ebecc2c9034130ef5e0a4461d0f09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260917",
             "fullstartdate": "202609172200",
