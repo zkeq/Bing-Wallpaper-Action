@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-18 05:03:38",
-    "Total": 1605,
+    "LastUpdate": "2026-09-19 04:54:26",
+    "Total": 1606,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260918",
+            "fullstartdate": "202609181500",
+            "enddate": "20260919",
+            "url": "/th?id=OHR.AlphornBavaria_JA-JP7669654652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlphornBavaria_JA-JP7669654652",
+            "copyright": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%97%E3%83%9B%E3%83%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22",
+            "title": "今日はオクトーバーフェストの開幕日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "003fbd303794d58da739aabe1a13839d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260917",
             "fullstartdate": "202609171500",
