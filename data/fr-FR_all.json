@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-19 04:54:46",
-    "Total": 1606,
+    "LastUpdate": "2026-09-20 05:16:11",
+    "Total": 1607,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260919",
+            "fullstartdate": "202609192200",
+            "enddate": "20260920",
+            "url": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727",
+            "copyright": "Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9es+europ%C3%A9ennes+du+patrimoine&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+            "title": "Lumière sur un héritage commun",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_CastelnaudPatrimoine%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f6ac2f754cf7bdcca79ffbce459a05d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260918",
             "fullstartdate": "202609182200",
