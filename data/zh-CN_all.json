@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-19 04:54:17",
-    "Total": 1606,
+    "LastUpdate": "2026-09-20 05:15:43",
+    "Total": 1607,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260919",
+            "fullstartdate": "202609191600",
+            "enddate": "20260920",
+            "url": "/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisSunset_ZH-CN6050686638",
+            "copyright": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E&form=hpcapt&mkt=zh-cn",
+            "title": "终获巴黎青睐的铁塔",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "223a4f5afd837772060bf1f172590482",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260918",
             "fullstartdate": "202609181600",
