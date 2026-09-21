@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-20 05:15:48",
-    "Total": 1607,
+    "LastUpdate": "2026-09-21 05:18:52",
+    "Total": 1608,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260920",
+            "fullstartdate": "202609200700",
+            "enddate": "20260921",
+            "url": "/th?id=OHR.ParisSunset_EN-US6532307523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ParisSunset_EN-US6532307523",
+            "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0700%22",
+            "title": "The tower that won Paris over",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_ParisSunset%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fb8347266ccf05439d51bcf79941e738",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260919",
             "fullstartdate": "202609190700",
