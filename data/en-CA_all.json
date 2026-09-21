@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-20 05:15:59",
-    "Total": 1607,
+    "LastUpdate": "2026-09-21 05:19:04",
+    "Total": 1608,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260921",
+            "fullstartdate": "202609210400",
+            "enddate": "20260922",
+            "url": "/th?id=OHR.GroomingOtter_EN-CA5802555233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GroomingOtter_EN-CA5802555233",
+            "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260921_0400%22",
+            "title": "Life between fur and sea",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dcfbe1419fe8fd64e97dd8bb0ce18074",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260920",
             "fullstartdate": "202609200400",
