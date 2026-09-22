@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-21 05:19:00",
-    "Total": 1608,
+    "LastUpdate": "2026-09-22 05:17:25",
+    "Total": 1609,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260921",
+            "fullstartdate": "202609212200",
+            "enddate": "20260922",
+            "url": "/th?id=OHR.TolkienWeek_DE-DE1744424672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
+            "copyright": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+            "title": "Willkommen in Hobbiton",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_TolkienWeek%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36b71b854a7748d3c41a58a6a50b6f48",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260920",
             "fullstartdate": "202609202200",
