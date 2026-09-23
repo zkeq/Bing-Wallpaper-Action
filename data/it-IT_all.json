@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-22 05:17:44",
-    "Total": 1609,
+    "LastUpdate": "2026-09-23 05:02:37",
+    "Total": 1610,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260922",
+            "fullstartdate": "202609222200",
+            "enddate": "20260923",
+            "url": "/th?id=OHR.AutumnTrentino_IT-IT8118999546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnTrentino_IT-IT8118999546",
+            "copyright": "Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Equinozio+d%27autunno+2026&form=hpcapt",
+            "title": "I colori della stagione",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_AutumnTrentino%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e5a9cab543c9605ca804a8a0bd853dc7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260921",
             "fullstartdate": "202609212200",
