@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-22 05:17:25",
-    "Total": 1609,
+    "LastUpdate": "2026-09-23 05:02:16",
+    "Total": 1610,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260922",
+            "fullstartdate": "202609222200",
+            "enddate": "20260923",
+            "url": "/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FallAspens_DE-DE1894805045",
+            "copyright": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+            "title": "Die goldene Jahreszeit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1cd0f4539b97b5c43c058049dfc0ef5f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260921",
             "fullstartdate": "202609212200",
