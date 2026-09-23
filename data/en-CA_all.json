@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-22 05:17:28",
-    "Total": 1609,
+    "LastUpdate": "2026-09-23 05:02:20",
+    "Total": 1610,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260923",
+            "fullstartdate": "202609230400",
+            "enddate": "20260924",
+            "url": "/th?id=OHR.TolkienWeek_EN-CA7225706887_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TolkienWeek_EN-CA7225706887",
+            "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Tolkien+Week&form=hpcapt&filters=HpDate%3a%2220260923_0400%22",
+            "title": "Beyond the last page",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_TolkienWeek%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ff74e4981b8eb3d992fc24263c44a4c9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260922",
             "fullstartdate": "202609220400",
