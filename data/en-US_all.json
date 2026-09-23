@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-22 05:17:16",
-    "Total": 1609,
+    "LastUpdate": "2026-09-23 05:02:08",
+    "Total": 1610,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260922",
+            "fullstartdate": "202609220700",
+            "enddate": "20260923",
+            "url": "/th?id=OHR.FallAspens_EN-US7211031109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FallAspens_EN-US7211031109",
+            "copyright": "Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=september+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0700%22",
+            "title": "The golden season",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83d056fc2b902bc46273f8b18d081ada",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260921",
             "fullstartdate": "202609210700",
