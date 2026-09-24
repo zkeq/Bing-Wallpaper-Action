@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-23 05:02:12",
-    "Total": 1610,
+    "LastUpdate": "2026-09-24 05:13:12",
+    "Total": 1611,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260923",
+            "fullstartdate": "202609231500",
+            "enddate": "20260924",
+            "url": "/th?id=OHR.ElGolfo_JA-JP7674043520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElGolfo_JA-JP7674043520",
+            "copyright": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%AD%E3%83%BC%E3%83%86%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
+            "title": "黒い海岸に寄せる白波",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d7647344854e4c9bb43639fa62d6af84",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260922",
             "fullstartdate": "202609221500",
