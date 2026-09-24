@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-23 05:02:16",
-    "Total": 1610,
+    "LastUpdate": "2026-09-24 05:13:16",
+    "Total": 1611,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260923",
+            "fullstartdate": "202609232200",
+            "enddate": "20260924",
+            "url": "/th?id=OHR.ElGolfo_DE-DE2094132875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElGolfo_DE-DE2094132875",
+            "copyright": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+            "title": "Vulkanische Kontraste",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccbcbfe4314eae63225526621c9740ea",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260922",
             "fullstartdate": "202609222200",
