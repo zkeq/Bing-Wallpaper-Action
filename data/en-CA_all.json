@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-24 05:13:20",
-    "Total": 1611,
+    "LastUpdate": "2026-09-25 05:15:14",
+    "Total": 1612,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260925",
+            "fullstartdate": "202609250400",
+            "enddate": "20260926",
+            "url": "/th?id=OHR.MidAutumn2026_EN-CA8501373237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MidAutumn2026_EN-CA8501373237",
+            "copyright": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260925_0400%22",
+            "title": "When the moon joins the party",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_MidAutumn2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9d8d40a5a2622e6c5cba20f5a181ed02",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260924",
             "fullstartdate": "202609240400",
