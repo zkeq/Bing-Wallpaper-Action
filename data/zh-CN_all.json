@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-24 05:13:04",
-    "Total": 1611,
+    "LastUpdate": "2026-09-25 05:14:57",
+    "Total": 1612,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260924",
+            "fullstartdate": "202609241600",
+            "enddate": "20260925",
+            "url": "/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MidAutumn2026_ZH-CN8947536773",
+            "copyright": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "当月亮也来赴会",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_MidAutumn2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7343d22d2316a5ea34e9dace7c61cd12",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260923",
             "fullstartdate": "202609231600",
