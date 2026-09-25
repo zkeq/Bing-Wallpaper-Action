@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-24 05:13:09",
-    "Total": 1611,
+    "LastUpdate": "2026-09-25 05:15:02",
+    "Total": 1612,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260924",
+            "fullstartdate": "202609240700",
+            "enddate": "20260925",
+            "url": "/th?id=OHR.ElGolfo_EN-US9261454857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ElGolfo_EN-US9261454857",
+            "copyright": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0700%22",
+            "title": "Ash meets splash",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_ElGolfo%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6003174266d8e17aa9799a5d1ab6f21e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260923",
             "fullstartdate": "202609230700",
