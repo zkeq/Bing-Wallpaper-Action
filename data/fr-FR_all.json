@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-25 05:15:25",
-    "Total": 1612,
+    "LastUpdate": "2026-09-26 05:20:21",
+    "Total": 1613,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260925",
+            "fullstartdate": "202609252200",
+            "enddate": "20260926",
+            "url": "/th?id=OHR.BoriesPoppies_FR-FR9955316118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BoriesPoppies_FR-FR9955316118",
+            "copyright": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Village+des+Bories&form=hpcapt&filters=HpDate%3a%2220260925_2200%22",
+            "title": "Le savoir-faire provençal",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BoriesPoppies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "afc824de1be9f7026b5ec93516db6e92",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260924",
             "fullstartdate": "202609242200",
