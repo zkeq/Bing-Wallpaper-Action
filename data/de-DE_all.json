@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-25 05:15:10",
-    "Total": 1612,
+    "LastUpdate": "2026-09-26 05:20:05",
+    "Total": 1613,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260925",
+            "fullstartdate": "202609252200",
+            "enddate": "20260926",
+            "url": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754",
+            "copyright": "Luftaufnahme des Starnberger Sees im Herbst, Bayern (© Mystockimages/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Starnberger+See&form=hpcapt&filters=HpDate%3a%2220260925_2200%22",
+            "title": "Ein ruhiger Augenblick",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_StarnbergerseeAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8795d38f37697904532f0defdf955ff9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260924",
             "fullstartdate": "202609242200",
