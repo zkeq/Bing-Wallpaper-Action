@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-25 05:15:29",
-    "Total": 1612,
+    "LastUpdate": "2026-09-26 05:20:25",
+    "Total": 1613,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260925",
+            "fullstartdate": "202609252200",
+            "enddate": "20260926",
+            "url": "/th?id=OHR.BearsEars_IT-IT8450841263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearsEars_IT-IT8450841263",
+            "copyright": "Cedar Mesa e Muley Point vicino al Monumento Nazionale Bears Ears, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Monumento+Nazionale+Bears+Ears&form=hpcapt",
+            "title": "Le storie scritte in tutta la terra",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BearsEars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95e58ef5a3c954b8af22617bba320ad3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260924",
             "fullstartdate": "202609242200",
