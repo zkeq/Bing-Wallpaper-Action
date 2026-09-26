@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-25 05:15:06",
-    "Total": 1612,
+    "LastUpdate": "2026-09-26 05:20:01",
+    "Total": 1613,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260925",
+            "fullstartdate": "202609251500",
+            "enddate": "20260926",
+            "url": "/th?id=OHR.BearsEars_JA-JP8214752036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearsEars_JA-JP8214752036",
+            "copyright": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%BC%E3%83%80%E3%83%BC%E3%83%A1%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260925_1500%22",
+            "title": "標高約2,000mから見渡す大峡谷",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BearsEars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8eae43ec94cc824ae18fd5e9534a887a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260924",
             "fullstartdate": "202609241500",
