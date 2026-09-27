@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-26 05:20:09",
-    "Total": 1613,
+    "LastUpdate": "2026-09-27 05:37:03",
+    "Total": 1614,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260927",
+            "fullstartdate": "202609270400",
+            "enddate": "20260928",
+            "url": "/th?id=OHR.DecoCrab_EN-CA9118939695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DecoCrab_EN-CA9118939695",
+            "copyright": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22",
+            "title": "Night garden of the deep",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_DecoCrab%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b3bc557aef796d03f282bd2ffa9d7b2f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260926",
             "fullstartdate": "202609260400",
