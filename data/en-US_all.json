@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-26 05:19:57",
-    "Total": 1613,
+    "LastUpdate": "2026-09-27 05:36:51",
+    "Total": 1614,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260926",
+            "fullstartdate": "202609260700",
+            "enddate": "20260927",
+            "url": "/th?id=OHR.BearsEars_EN-US9429791451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BearsEars_EN-US9429791451",
+            "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22",
+            "title": "The stories written across the land",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_BearsEars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a36c7d6f20d817f8175abc123d762ff0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260925",
             "fullstartdate": "202609250700",
