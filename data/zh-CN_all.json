@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-27 05:36:46",
-    "Total": 1614,
+    "LastUpdate": "2026-09-28 05:44:17",
+    "Total": 1615,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260927",
+            "fullstartdate": "202609271600",
+            "enddate": "20260928",
+            "url": "/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmberHall_ZH-CN1223127100",
+            "copyright": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E6%8B%89%E8%B4%BE%E6%96%AF%E5%9D%A6%E9%82%A6%E6%96%8B%E6%B5%A6%E5%B0%94%E7%90%A5%E7%8F%80%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+            "title": "可览美景的历史胜地",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "924cf3bd5c06e1af66dec84b7bc2f927",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260926",
             "fullstartdate": "202609261600",
