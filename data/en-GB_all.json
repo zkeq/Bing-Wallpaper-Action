@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-27 05:37:07",
-    "Total": 1610,
+    "LastUpdate": "2026-09-28 05:44:38",
+    "Total": 1611,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260927",
+            "fullstartdate": "202609272300",
+            "enddate": "20260928",
+            "url": "/th?id=OHR.AmberHall_EN-GB9719100676_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmberHall_EN-GB9719100676",
+            "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2300%22",
+            "title": "History with a view",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "74776d199b79d0ca732bb8686cf75fcf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260926",
             "fullstartdate": "202609262300",
