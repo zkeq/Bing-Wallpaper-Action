@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-27 05:37:15",
-    "Total": 1614,
+    "LastUpdate": "2026-09-28 05:44:46",
+    "Total": 1615,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260927",
+            "fullstartdate": "202609272200",
+            "enddate": "20260928",
+            "url": "/th?id=OHR.AmberHall_FR-FR6136179100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AmberHall_FR-FR6136179100",
+            "copyright": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=fort+d%E2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+            "title": "Vue sur l’histoire",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ab2d87e5c4cb14f91d8f5ba4d4e26872",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260926",
             "fullstartdate": "202609262200",
