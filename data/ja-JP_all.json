@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-28 05:44:26",
-    "Total": 1615,
+    "LastUpdate": "2026-09-29 06:02:00",
+    "Total": 1616,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260928",
+            "fullstartdate": "202609281500",
+            "enddate": "20260929",
+            "url": "/th?id=OHR.KasilofRiver_JA-JP7219675730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KasilofRiver_JA-JP7219675730",
+            "copyright": "カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%82%B7%E3%83%AD%E3%83%95%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220260928_1500%22",
+            "title": "氷河の恵みをたたえる川",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260928_KasilofRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "86e8816fb8a4f0efba46c91decd64da9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260927",
             "fullstartdate": "202609271500",
