@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-28 05:44:50",
-    "Total": 1615,
+    "LastUpdate": "2026-09-29 06:02:23",
+    "Total": 1616,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260928",
+            "fullstartdate": "202609282200",
+            "enddate": "20260929",
+            "url": "/th?id=OHR.KasilofRiver_IT-IT8693387372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KasilofRiver_IT-IT8693387372",
+            "copyright": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Il+Fiume+Kasilof+Alaska&form=hpcapt",
+            "title": "Nato dai ghiacciai",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260928_KasilofRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fd3d8786f1b0925d3acf353e425d2b60",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260927",
             "fullstartdate": "202609272200",
