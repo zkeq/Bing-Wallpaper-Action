@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-29 06:01:56",
-    "Total": 1616,
+    "LastUpdate": "2026-09-30 05:51:01",
+    "Total": 1617,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260929",
+            "fullstartdate": "202609290700",
+            "enddate": "20260930",
+            "url": "/th?id=OHR.KasilofRiver_EN-US0047556055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KasilofRiver_EN-US0047556055",
+            "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0700%22",
+            "title": "Born of glaciers",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_KasilofRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6321e8dc83a5c3ce3eeff233dd18eea5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260928",
             "fullstartdate": "202609280700",
