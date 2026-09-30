@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-29 06:02:15",
-    "Total": 1616,
+    "LastUpdate": "2026-09-30 05:51:20",
+    "Total": 1617,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260929",
+            "fullstartdate": "202609291830",
+            "enddate": "20260930",
+            "url": "/th?id=OHR.BeardReedling_EN-IN8949803206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BeardReedling_EN-IN8949803206",
+            "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260929_1830%22",
+            "title": "A face you don't forget",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_BeardReedling%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3dc795646ebd5445e6d6759a7d9304cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260928",
             "fullstartdate": "202609281830",
