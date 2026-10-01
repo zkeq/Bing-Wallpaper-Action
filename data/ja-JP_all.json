@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-30 05:51:05",
-    "Total": 1617,
+    "LastUpdate": "2026-10-01 06:24:34",
+    "Total": 1618,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260930",
+            "fullstartdate": "202609301500",
+            "enddate": "20261001",
+            "url": "/th?id=OHR.OlmstedPoint_JA-JP0098463265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlmstedPoint_JA-JP0098463265",
+            "copyright": "オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%AB%E3%83%A0%E3%82%B9%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22",
+            "title": "夕日に染まるヨセミテの岩峰",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_OlmstedPoint%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1c0d732ad51491dd04c6c159eb11b23e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260929",
             "fullstartdate": "202609291500",
