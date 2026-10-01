@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-09-30 05:51:16",
-    "Total": 1613,
+    "LastUpdate": "2026-10-01 06:24:46",
+    "Total": 1614,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20260930",
+            "fullstartdate": "202609302300",
+            "enddate": "20261001",
+            "url": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434",
+            "copyright": "Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220260930_2300%22",
+            "title": "A place in the picture",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_BlackHistoryMonthUK2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6b93f6137bc093143e30ef1049417c9f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260929",
             "fullstartdate": "202609292300",
