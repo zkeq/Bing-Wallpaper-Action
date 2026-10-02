@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-01 06:24:38",
-    "Total": 1618,
+    "LastUpdate": "2026-10-02 06:02:31",
+    "Total": 1619,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261001",
+            "fullstartdate": "202610012200",
+            "enddate": "20261002",
+            "url": "/th?id=OHR.GrizzlySwim_DE-DE4187515695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
+            "copyright": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
+            "copyrightlink": "https://www.bing.com/search?q=Braunb%C3%A4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+            "title": "Kolosse des Nordens",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_GrizzlySwim%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0534e2ebbae494298a3d768906bd6cbc",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260930",
             "fullstartdate": "202609302200",
