@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-01 06:24:34",
-    "Total": 1618,
+    "LastUpdate": "2026-10-02 06:02:27",
+    "Total": 1619,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261001",
+            "fullstartdate": "202610011500",
+            "enddate": "20261002",
+            "url": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500",
+            "copyright": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AC%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
+            "title": "川面を流れる紅葉",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "52c852ac60a732683c1372199f1a8ec8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260930",
             "fullstartdate": "202609301500",
