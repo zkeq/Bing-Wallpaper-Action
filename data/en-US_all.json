@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-01 06:24:31",
-    "Total": 1618,
+    "LastUpdate": "2026-10-02 06:02:23",
+    "Total": 1619,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261001",
+            "fullstartdate": "202610010700",
+            "enddate": "20261002",
+            "url": "/th?id=OHR.OlmstedPoint_EN-US0964858045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.OlmstedPoint_EN-US0964858045",
+            "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+            "copyrightlink": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22",
+            "title": "Reading time in granite",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_OlmstedPoint%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9b27eae3ed17f70f8fc64fff402a6a37",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260930",
             "fullstartdate": "202609300700",
