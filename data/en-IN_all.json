@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-01 06:24:50",
-    "Total": 1618,
+    "LastUpdate": "2026-10-02 06:02:43",
+    "Total": 1619,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261001",
+            "fullstartdate": "202610011830",
+            "enddate": "20261002",
+            "url": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
+            "copyright": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220261001_1830%22",
+            "title": "The man who made peace powerful",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_GandhiJayanti2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e3a09fa30de7c1b0e1e9ac4f45c6f56c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260930",
             "fullstartdate": "202609301830",
