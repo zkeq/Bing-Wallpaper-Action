@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-01 06:24:26",
-    "Total": 1618,
+    "LastUpdate": "2026-10-02 06:02:18",
+    "Total": 1619,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261001",
+            "fullstartdate": "202610011600",
+            "enddate": "20261002",
+            "url": "/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChattoogaRiver_ZH-CN9453791496",
+            "copyright": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E9%98%BF%E5%B7%B4%E6%8B%89%E5%A5%91%E4%BA%9A%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn",
+            "title": "一条值得保护的河流",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ad02460978ae06c7c7d8d53dadaa94bf",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20260930",
             "fullstartdate": "202609301600",
