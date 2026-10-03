@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-02 06:02:35",
-    "Total": 1619,
+    "LastUpdate": "2026-10-03 05:37:28",
+    "Total": 1620,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261003",
+            "fullstartdate": "202610030400",
+            "enddate": "20261004",
+            "url": "/th?id=OHR.NuitBToro_EN-CA6592121527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NuitBToro_EN-CA6592121527",
+            "copyright": "Toronto City Hall illuminated at night (© EB Adventure Photography/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Nuit+Blanche&form=hpcapt&filters=HpDate%3a%2220261003_0400%22",
+            "title": "The midnight art marathon",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_NuitBToro%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "38fa7abefb09f1e8e752cc6fb8ec11bb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261002",
             "fullstartdate": "202610020400",
