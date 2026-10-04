@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-03 05:37:12",
-    "Total": 1620,
+    "LastUpdate": "2026-10-04 06:12:31",
+    "Total": 1621,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261003",
+            "fullstartdate": "202610031600",
+            "enddate": "20261004",
+            "url": "/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ArtemisRocket_ZH-CN1768541365",
+            "copyright": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%A9%BA%E9%97%B4%E5%91%A8&form=hpcapt&mkt=zh-cn",
+            "title": "宇宙在召唤",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "29bcf53aa5de2328f7af4f284b108f24",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261002",
             "fullstartdate": "202610021600",
