@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-04 06:12:31",
-    "Total": 1621,
+    "LastUpdate": "2026-10-05 06:05:06",
+    "Total": 1622,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261004",
+            "fullstartdate": "202610041600",
+            "enddate": "20261005",
+            "url": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
+            "copyright": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%95%99%E5%B8%88%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "纵身一跃，一次一课",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "70a754d46405850799ade2d1da5d4856",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261003",
             "fullstartdate": "202610031600",
