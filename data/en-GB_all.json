@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-04 06:12:53",
-    "Total": 1617,
+    "LastUpdate": "2026-10-05 06:05:28",
+    "Total": 1618,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261004",
+            "fullstartdate": "202610042300",
+            "enddate": "20261005",
+            "url": "/th?id=OHR.AdelieTeacher_EN-GB2790518533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdelieTeacher_EN-GB2790518533",
+            "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2300%22",
+            "title": "Taking the plunge, one lesson at a time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e06729d9a4d67f30b1f8149f5b93520d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261003",
             "fullstartdate": "202610032300",
