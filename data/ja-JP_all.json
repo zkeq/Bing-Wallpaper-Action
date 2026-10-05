@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-04 06:12:40",
-    "Total": 1621,
+    "LastUpdate": "2026-10-05 06:05:15",
+    "Total": 1622,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261004",
+            "fullstartdate": "202610041500",
+            "enddate": "20261005",
+            "url": "/th?id=OHR.AdelieTeacher_JA-JP9090254921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AdelieTeacher_JA-JP9090254921",
+            "copyright": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
+            "title": "海へ飛び込もうとするペンギンたち",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a8f683f0ee91c40cd0658207e3dbb53a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261003",
             "fullstartdate": "202610031500",
