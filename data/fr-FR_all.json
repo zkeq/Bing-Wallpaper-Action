@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-05 06:05:36",
-    "Total": 1622,
+    "LastUpdate": "2026-10-06 06:45:15",
+    "Total": 1623,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261005",
+            "fullstartdate": "202610052200",
+            "enddate": "20261006",
+            "url": "/th?id=OHR.DanxiaLandform_FR-FR1547265147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DanxiaLandform_FR-FR1547265147",
+            "copyright": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+internationale+de+la+g%C3%A9odiversit%C3%A9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+            "title": "La mémoire de la Terre",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5113e9a16f7852f9b720becc0cf7abb9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261004",
             "fullstartdate": "202610042200",
