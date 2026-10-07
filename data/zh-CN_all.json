@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-06 06:44:46",
-    "Total": 1623,
+    "LastUpdate": "2026-10-07 06:20:11",
+    "Total": 1624,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261006",
+            "fullstartdate": "202610061600",
+            "enddate": "20261007",
+            "url": "/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ForestofDean_ZH-CN2654753621",
+            "copyright": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E6%A0%BC%E6%B4%9B%E6%96%AF%E7%89%B9%E9%83%A1%E8%B0%9C%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "迷惑不解？沿着小径走",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_ForestofDean%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a1d23cf68b668a311237ebdb46f12180",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261005",
             "fullstartdate": "202610051600",
