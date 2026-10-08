@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-07 06:20:20",
-    "Total": 1624,
+    "LastUpdate": "2026-10-08 06:31:44",
+    "Total": 1625,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261007",
+            "fullstartdate": "202610071500",
+            "enddate": "20261008",
+            "url": "/th?id=OHR.Chestnut2026_JA-JP0900389061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Chestnut2026_JA-JP0900389061",
+            "copyright": "栗の実 (© y-studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%AF%92%E9%9C%B2&form=hpcapt&filters=HpDate%3a%2220261007_1500%22",
+            "title": "今日は寒露",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_Chestnut2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f923940988260220a8aa38e5fbf615d3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261006",
             "fullstartdate": "202610061500",
