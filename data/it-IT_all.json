@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-07 06:20:45",
-    "Total": 1624,
+    "LastUpdate": "2026-10-08 06:32:08",
+    "Total": 1625,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261007",
+            "fullstartdate": "202610072200",
+            "enddate": "20261008",
+            "url": "/th?id=OHR.MayotteOctopus_IT-IT1227542362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayotteOctopus_IT-IT1227542362",
+            "copyright": "Polpo in posizione difensiva, Mayotte, Francia, Oceano Indiano (© Gabriel Barathieu/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+del+polpo&form=hpcapt",
+            "title": "Ora mi vedi, ora no",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "88d043e1c8c554ab3785d932a2bd0777",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261006",
             "fullstartdate": "202610062200",
