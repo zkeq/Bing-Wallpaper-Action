@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-07 06:20:40",
-    "Total": 1624,
+    "LastUpdate": "2026-10-08 06:32:04",
+    "Total": 1625,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261007",
+            "fullstartdate": "202610072200",
+            "enddate": "20261008",
+            "url": "/th?id=OHR.MayotteOctopus_FR-FR2063163267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MayotteOctopus_FR-FR2063163267",
+            "copyright": "Poulpe en position défensive, Mayotte, océan Indien (© Gabriel Barathieu/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+du+poulpe&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+            "title": "Poulpe fiction",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "baeeb03654162a2eaa1439de2eee4b89",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261006",
             "fullstartdate": "202610062200",
