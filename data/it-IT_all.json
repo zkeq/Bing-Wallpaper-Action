@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-08 06:32:08",
-    "Total": 1625,
+    "LastUpdate": "2026-10-09 05:39:30",
+    "Total": 1626,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261008",
+            "fullstartdate": "202610082200",
+            "enddate": "20261009",
+            "url": "/th?id=OHR.IlesSanguinaires_IT-IT9763114016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IlesSanguinaires_IT-IT9763114016",
+            "copyright": "Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Isole+Sanguinarie&form=hpcapt",
+            "title": "Le sentinelle della Corsica",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d5f358af5d8fbabec3e5a804eaf84736",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261007",
             "fullstartdate": "202610072200",
