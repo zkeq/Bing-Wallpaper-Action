@@ -3,8 +3,8 @@
 README 生成器（v2）
 
 - README.md 只展示最近 30 天的图片，底部附「历史归档」按月索引
-- archive/YYYY-MM.md 每个月份一份归档 README，默认只重新生成最新月份
-- 首次迁移 / 需要重建全部归档时：python make_readme.py --backfill
+- archive/YYYY-MM.md 每个月份一份归档 README，每次运行全量重建
+  （归档内容确定性生成，数据不变时无 diff，不会产生无效提交）
 
 数据来源：data/{mkt}_all.json（9 个市场：zh-CN, en-US, ja-JP, de-DE, en-CA, en-GB, en-IN, fr-FR, it-IT）
 """
@@ -132,8 +132,9 @@ def write_month_archive(market_data, month, months_all):
 
 
 def main():
-    backfill = "--backfill" in sys.argv
-
+    # 每次运行都重建 README + 全部月份归档。
+    # 归档文件内容是确定性的（不含时间戳），数据不变时 git 无 diff，
+    # 因此每天全量重建也不会产生无效提交；--backfill 保留兼容。
     market_data = {}
     for mkt, _ in MARKETS:
         market_data[mkt] = load_market(mkt)
@@ -155,14 +156,9 @@ def main():
         write_archive_index(f, months)
     print("[{}] README.md 已生成（最近 {} 天）".format(get_now_time(), row_count))
 
-    # ---------- 按月归档 ----------
-    if backfill:
-        targets = months
-        print("[{}] backfill 模式：重建全部 {} 个月份归档".format(get_now_time(), len(targets)))
-    else:
-        targets = months[:1]
-        print("[{}] 增量模式：仅更新最新月份 {}".format(get_now_time(), month_label(targets[0])))
-    for m in targets:
+    # ---------- 按月归档：重建全部月份 ----------
+    print("[{}] 重建全部 {} 个月份归档".format(get_now_time(), len(months)))
+    for m in months:
         write_month_archive(market_data, m, months)
 
 
