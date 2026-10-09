@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-08 06:31:48",
-    "Total": 1625,
+    "LastUpdate": "2026-10-09 05:39:10",
+    "Total": 1626,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261008",
+            "fullstartdate": "202610082200",
+            "enddate": "20261009",
+            "url": "/th?id=OHR.IlesSanguinaires_DE-DE5457015089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IlesSanguinaires_DE-DE5457015089",
+            "copyright": "Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%8Eles+Sanguinaires+Frankreich&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+            "title": "Korsikas felsige Inseln",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4d8b1df31f0b6f0787362452051fc510",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261007",
             "fullstartdate": "202610072200",
