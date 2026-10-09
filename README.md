@@ -1,5 +1,5 @@
 # Bing Wallpaper
-<!--2026-10-09 05:39:34-->
+<!--2026-10-09 06:33:15-->
 ![科西嘉岛的岩石前哨](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg&w=1920) Today: [科西嘉岛的岩石前哨](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg)
 
 > 本页仅展示最近 30 天的壁纸，历史图片请查看下方「历史归档」。
