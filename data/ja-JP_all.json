@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-09 06:32:51",
-    "Total": 1626,
+    "LastUpdate": "2026-10-10 06:16:04",
+    "Total": 1627,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261009",
+            "fullstartdate": "202610091500",
+            "enddate": "20261010",
+            "url": "/th?id=OHR.CormorantsFlight_JA-JP1768857084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CormorantsFlight_JA-JP1768857084",
+            "copyright": "モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B8%A1%E3%82%8A%E9%B3%A5%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22",
+            "title": "今日は世界渡り鳥の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_CormorantsFlight%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7e4cfb9b6836a4d18b1842cc6f749b5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261008",
             "fullstartdate": "202610081500",
