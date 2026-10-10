@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-09 06:32:47",
-    "Total": 1626,
+    "LastUpdate": "2026-10-10 06:16:00",
+    "Total": 1627,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261009",
+            "fullstartdate": "202610090700",
+            "enddate": "20261010",
+            "url": "/th?id=OHR.IlesSanguinaires_EN-US5801644173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.IlesSanguinaires_EN-US5801644173",
+            "copyright": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0700%22",
+            "title": "Corsica's rocky outposts",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_IlesSanguinaires%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b02bb55839b1ae7a0c2ad29f2f800c04",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261008",
             "fullstartdate": "202610080700",
