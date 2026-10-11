@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-10 06:16:23",
-    "Total": 1627,
+    "LastUpdate": "2026-10-11 06:15:56",
+    "Total": 1628,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261010",
+            "fullstartdate": "202610102200",
+            "enddate": "20261011",
+            "url": "/th?id=OHR.BabcockSP_FR-FR9462539296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BabcockSP_FR-FR9462539296",
+            "copyright": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Babcock+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+            "title": "La roue des saisons",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BabcockSP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d141cfec65df3e4abce597994814c271",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261009",
             "fullstartdate": "202610092200",
