@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-10 06:16:08",
-    "Total": 1627,
+    "LastUpdate": "2026-10-11 06:15:40",
+    "Total": 1628,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261010",
+            "fullstartdate": "202610102200",
+            "enddate": "20261011",
+            "url": "/th?id=OHR.MouflonAutumn_DE-DE6144771164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MouflonAutumn_DE-DE6144771164",
+            "copyright": "Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4isches+Mufflon&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+            "title": "Symbol ursprünglicher Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_MouflonAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0e4330aadec483b158efba1a14fbe3ce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261009",
             "fullstartdate": "202610092200",
