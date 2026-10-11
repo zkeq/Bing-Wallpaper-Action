@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-10 06:16:12",
-    "Total": 1627,
+    "LastUpdate": "2026-10-11 06:15:44",
+    "Total": 1628,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261011",
+            "fullstartdate": "202610110400",
+            "enddate": "20261012",
+            "url": "/th?id=OHR.BabcockSP_EN-CA1944147188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BabcockSP_EN-CA1944147188",
+            "copyright": "Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Babcock+State+Park&form=hpcapt&filters=HpDate%3a%2220261011_0400%22",
+            "title": "Where autumn turns the wheel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_BabcockSP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e4bc51e6c0a953faeb12eb4125b1c4e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261010",
             "fullstartdate": "202610100400",
