@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-12 06:22:36",
-    "Total": 1629,
+    "LastUpdate": "2026-10-13 07:00:53",
+    "Total": 1630,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261012",
+            "fullstartdate": "202610122200",
+            "enddate": "20261013",
+            "url": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035",
+            "copyright": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+dei+laghi+di+Plitvice&form=hpcapt",
+            "title": "Sinfonia in blu e verde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "18b7b74c760a3de85546c5ed90fa5871",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261011",
             "fullstartdate": "202610112200",
