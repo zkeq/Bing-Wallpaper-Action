@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-13 07:00:30",
-    "Total": 1630,
+    "LastUpdate": "2026-10-14 05:15:03",
+    "Total": 1631,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261013",
+            "fullstartdate": "202610131500",
+            "enddate": "20261014",
+            "url": "/th?id=OHR.RailwayDay2026_JA-JP4058067313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RailwayDay2026_JA-JP4058067313",
+            "copyright": "嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E9%89%84%E9%81%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261013_1500%22",
+            "title": "今日は鉄道の日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_RailwayDay2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1aa3c70c5be0889e269a0cafaf1986e1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261012",
             "fullstartdate": "202610121500",
