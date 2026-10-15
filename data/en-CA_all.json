@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-14 05:15:11",
-    "Total": 1631,
+    "LastUpdate": "2026-10-15 05:02:15",
+    "Total": 1632,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261015",
+            "fullstartdate": "202610150400",
+            "enddate": "20261016",
+            "url": "/th?id=OHR.WroclawPoland_EN-CA2941585195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WroclawPoland_EN-CA2941585195",
+            "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22",
+            "title": "Bridges, rooftops and twilight",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_WroclawPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5644902e8004489c2e35160ce33b80fe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261014",
             "fullstartdate": "202610140400",
