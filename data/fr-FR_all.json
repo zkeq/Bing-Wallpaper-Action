@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-14 05:15:23",
-    "Total": 1631,
+    "LastUpdate": "2026-10-15 05:02:27",
+    "Total": 1632,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261014",
+            "fullstartdate": "202610142200",
+            "enddate": "20261015",
+            "url": "/th?id=OHR.WroclawPoland_FR-FR0061683282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WroclawPoland_FR-FR0061683282",
+            "copyright": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+            "title": "La ville aux cent ponts",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d8317c20d74cc9403a1b0c1806864626",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261013",
             "fullstartdate": "202610132200",
