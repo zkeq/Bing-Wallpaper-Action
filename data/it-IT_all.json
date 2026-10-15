@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-14 05:15:27",
-    "Total": 1631,
+    "LastUpdate": "2026-10-15 05:02:31",
+    "Total": 1632,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261014",
+            "fullstartdate": "202610142200",
+            "enddate": "20261015",
+            "url": "/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WroclawPoland_IT-IT1033829565",
+            "copyright": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Breslavia&form=hpcapt",
+            "title": "Ponti, tetti e crepuscolo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "87d49315333027ebc00787aeda7a1420",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261013",
             "fullstartdate": "202610132200",
