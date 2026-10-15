@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-14 05:14:55",
-    "Total": 1631,
+    "LastUpdate": "2026-10-15 05:01:57",
+    "Total": 1632,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261014",
+            "fullstartdate": "202610141600",
+            "enddate": "20261015",
+            "url": "/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.WroclawPoland_ZH-CN6042428292",
+            "copyright": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BC%97%E7%BD%97%E8%8C%A8%E7%93%A6%E5%A4%AB&form=hpcapt&mkt=zh-cn",
+            "title": "桥梁、屋顶与暮色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4ca868c84dea42c17e5d790158722de1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261013",
             "fullstartdate": "202610131600",
