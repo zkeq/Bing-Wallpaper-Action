@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-15 05:02:15",
-    "Total": 1632,
+    "LastUpdate": "2026-10-16 04:51:37",
+    "Total": 1633,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261016",
+            "fullstartdate": "202610160400",
+            "enddate": "20261017",
+            "url": "/th?id=OHR.MaligneFest_EN-CA6755477171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.MaligneFest_EN-CA6755477171",
+            "copyright": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22",
+            "title": "Under a blanket of stars",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_MaligneFest%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ff465b834b0c8483ec62cd479bc4e7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261015",
             "fullstartdate": "202610150400",
