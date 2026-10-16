@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-15 05:02:07",
-    "Total": 1632,
+    "LastUpdate": "2026-10-16 04:51:29",
+    "Total": 1633,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261015",
+            "fullstartdate": "202610151500",
+            "enddate": "20261016",
+            "url": "/th?id=OHR.SneffelsAutumn_JA-JP1327078827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SneffelsAutumn_JA-JP1327078827",
+            "copyright": "スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AB%E5%B1%B1+%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220261015_1500%22",
+            "title": "黄金色の森の先にそびえる山",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1953949b748911284e3647cf20365d90",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261014",
             "fullstartdate": "202610141500",
