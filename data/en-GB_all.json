@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-15 05:02:19",
-    "Total": 1628,
+    "LastUpdate": "2026-10-16 04:51:41",
+    "Total": 1629,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261015",
+            "fullstartdate": "202610152300",
+            "enddate": "20261016",
+            "url": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SneffelsAutumn_EN-GB4713580034",
+            "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2300%22",
+            "title": "'Peak' into Colorado",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9a40da48f91201e20c848ab31a32f7dd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261014",
             "fullstartdate": "202610142300",
