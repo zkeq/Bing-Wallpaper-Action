@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-16 04:51:49",
-    "Total": 1633,
+    "LastUpdate": "2026-10-17 04:53:08",
+    "Total": 1634,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261016",
+            "fullstartdate": "202610162200",
+            "enddate": "20261017",
+            "url": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584",
+            "copyright": "Écureuil roux (© Cédric GUERE/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+            "title": "Le jardinier des bois",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_SmilingSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "30caee2351acc2b7501d64ed30346445",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261015",
             "fullstartdate": "202610152200",
