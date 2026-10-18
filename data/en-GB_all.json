@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-17 04:53:01",
-    "Total": 1630,
+    "LastUpdate": "2026-10-18 04:59:51",
+    "Total": 1631,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261017",
+            "fullstartdate": "202610172300",
+            "enddate": "20261018",
+            "url": "/th?id=OHR.DolbadarnWales_EN-GB4918405829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolbadarnWales_EN-GB4918405829",
+            "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261017_2300%22",
+            "title": "75 and thriving",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_DolbadarnWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2256e4ce3390847ee1c800df252e3e09",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261016",
             "fullstartdate": "202610162300",
