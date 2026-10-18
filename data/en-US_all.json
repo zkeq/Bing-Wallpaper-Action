@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-17 04:52:45",
-    "Total": 1634,
+    "LastUpdate": "2026-10-18 04:59:35",
+    "Total": 1635,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261017",
+            "fullstartdate": "202610170700",
+            "enddate": "20261018",
+            "url": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
+            "copyright": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
+            "title": "The past, unearthed",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_ChauvetPaintingsFrance%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "b446a1745d30d372bc3f367affdcb648",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261016",
             "fullstartdate": "202610160700",
