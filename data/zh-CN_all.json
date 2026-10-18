@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-17 04:52:40",
-    "Total": 1634,
+    "LastUpdate": "2026-10-18 04:59:30",
+    "Total": 1635,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261017",
+            "fullstartdate": "202610171600",
+            "enddate": "20261018",
+            "url": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolbadarnWales_ZH-CN3649667806",
+            "copyright": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%96%AF%E8%AF%BA%E7%99%BB%E5%B0%BC%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "75载，风华正茂",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_DolbadarnWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "65461e4b90bf6915104c62b9a3ec91e7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261016",
             "fullstartdate": "202610161600",
