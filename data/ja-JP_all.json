@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-17 04:52:49",
-    "Total": 1634,
+    "LastUpdate": "2026-10-18 04:59:39",
+    "Total": 1635,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261017",
+            "fullstartdate": "202610171500",
+            "enddate": "20261018",
+            "url": "/th?id=OHR.DolbadarnWales_JA-JP2361140889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DolbadarnWales_JA-JP2361140889",
+            "copyright": "ドルバダーン城, ウェールズ (© joe daniel price/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%83%AA%E3%83%AA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261017_1500%22",
+            "title": "丘の上に佇む城跡",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_DolbadarnWales%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c5b2238b92a96bdcebfbd535f47b16f5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261016",
             "fullstartdate": "202610161500",
