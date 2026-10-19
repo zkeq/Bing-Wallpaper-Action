@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-18 04:59:43",
-    "Total": 1635,
+    "LastUpdate": "2026-10-19 05:07:50",
+    "Total": 1636,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261018",
+            "fullstartdate": "202610182200",
+            "enddate": "20261019",
+            "url": "/th?id=OHR.VeniceSunrise_DE-DE1204445748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceSunrise_DE-DE1204445748",
+            "copyright": "Canal Grande in Venedig, Italien (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Canal+Grande&form=hpcapt&filters=HpDate%3a%2220261018_2200%22",
+            "title": "Die Straße, die übers Wasser führt",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_VeniceSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "229cacb2c24c62e5b3cef560d50a0a14",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261017",
             "fullstartdate": "202610172200",
