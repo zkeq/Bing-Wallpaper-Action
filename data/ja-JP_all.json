@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-18 04:59:39",
-    "Total": 1635,
+    "LastUpdate": "2026-10-19 05:07:46",
+    "Total": 1636,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261018",
+            "fullstartdate": "202610181500",
+            "enddate": "20261019",
+            "url": "/th?id=OHR.VeniceSunrise_JA-JP2535499489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
+            "copyright": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
+            "title": "夕焼けに染まるヴェネツィアの大運河",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_VeniceSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e65aabb3d8da636f099bf137d3647b45",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261017",
             "fullstartdate": "202610171500",
