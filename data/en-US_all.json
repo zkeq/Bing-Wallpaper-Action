@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-19 05:07:42",
-    "Total": 1636,
+    "LastUpdate": "2026-10-20 05:08:36",
+    "Total": 1637,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261019",
+            "fullstartdate": "202610190700",
+            "enddate": "20261020",
+            "url": "/th?id=OHR.VeniceSunrise_EN-US6714393168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
+            "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22",
+            "title": "The road that runs on water",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_VeniceSunrise%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "726e7020a29b1793f29d81fa4457a0a6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261018",
             "fullstartdate": "202610180700",
