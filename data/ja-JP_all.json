@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-20 05:08:40",
-    "Total": 1637,
+    "LastUpdate": "2026-10-21 05:10:56",
+    "Total": 1638,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261020",
+            "fullstartdate": "202610201500",
+            "enddate": "20261021",
+            "url": "/th?id=OHR.VietnamBridge_JA-JP2833280767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VietnamBridge_JA-JP2833280767",
+            "copyright": "グエン・ホアン橋, ベトナム (© VU PHAM VAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220261020_1500%22",
+            "title": "ライトアップされたアーチ橋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7f1ddbc0e86dcb41de3c9d13610bbbce",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261019",
             "fullstartdate": "202610191500",
