@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-20 05:08:30",
-    "Total": 1637,
+    "LastUpdate": "2026-10-21 05:10:47",
+    "Total": 1638,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261020",
+            "fullstartdate": "202610201600",
+            "enddate": "20261021",
+            "url": "/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VietnamBridge_ZH-CN6134321119",
+            "copyright": "香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E8%B6%8A%E5%8D%97%E9%A1%BA%E5%8C%96%E5%B8%82&form=hpcapt&mkt=zh-cn",
+            "title": "飞掠河面",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a7a759485d043460ce495a296170a16d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261019",
             "fullstartdate": "202610191600",
