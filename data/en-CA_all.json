@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-21 05:11:04",
-    "Total": 1638,
+    "LastUpdate": "2026-10-22 05:14:33",
+    "Total": 1639,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261022",
+            "fullstartdate": "202610220400",
+            "enddate": "20261023",
+            "url": "/th?id=OHR.NaejangsanNP_EN-CA9328142735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaejangsanNP_EN-CA9328142735",
+            "copyright": "Fall in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0400%22",
+            "title": "Still waters, vivid colours",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_NaejangsanNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "991a897283a6f535e82bf8f04c08d5ee",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261021",
             "fullstartdate": "202610210400",
