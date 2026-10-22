@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-21 05:11:00",
-    "Total": 1638,
+    "LastUpdate": "2026-10-22 05:14:29",
+    "Total": 1639,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261021",
+            "fullstartdate": "202610212200",
+            "enddate": "20261022",
+            "url": "/th?id=OHR.NaejangsanNP_DE-DE1873468197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaejangsanNP_DE-DE1873468197",
+            "copyright": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Naejangsan-Nationalpark&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+            "title": "Stille Wasser, leuchtende Farben",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b7718fca32e311c95955a0eec6319c7d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261020",
             "fullstartdate": "202610202200",
