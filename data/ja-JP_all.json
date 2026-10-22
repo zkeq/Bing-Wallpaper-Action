@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-21 05:10:56",
-    "Total": 1638,
+    "LastUpdate": "2026-10-22 05:14:25",
+    "Total": 1639,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261021",
+            "fullstartdate": "202610211500",
+            "enddate": "20261022",
+            "url": "/th?id=OHR.NaejangsanNP_JA-JP7092803320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NaejangsanNP_JA-JP7092803320",
+            "copyright": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E8%94%B5%E5%B1%B1%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261021_1500%22",
+            "title": "紅葉に彩られた東屋",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b98333ed9cc7fda9e958bf351e624a0d",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261020",
             "fullstartdate": "202610201500",
