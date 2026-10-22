@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-21 05:10:52",
-    "Total": 1638,
+    "LastUpdate": "2026-10-22 05:14:21",
+    "Total": 1639,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261021",
+            "fullstartdate": "202610210700",
+            "enddate": "20261022",
+            "url": "/th?id=OHR.VietnamBridge_EN-US6907946681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VietnamBridge_EN-US6907946681",
+            "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261021_0700%22",
+            "title": "Winging it over the river",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_VietnamBridge%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8f0294e98273a80924fc03f029d9ba38",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261020",
             "fullstartdate": "202610200700",
