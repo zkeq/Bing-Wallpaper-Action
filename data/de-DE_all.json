@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-22 05:14:29",
-    "Total": 1639,
+    "LastUpdate": "2026-10-23 05:13:22",
+    "Total": 1640,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261022",
+            "fullstartdate": "202610222200",
+            "enddate": "20261023",
+            "url": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
+            "copyright": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+            "title": "Partner in freier Wildbahn",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "95a05e174a85c811538bc0ce91bb7939",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261021",
             "fullstartdate": "202610212200",
