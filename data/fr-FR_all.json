@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-22 05:14:44",
-    "Total": 1639,
+    "LastUpdate": "2026-10-23 05:13:37",
+    "Total": 1640,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261022",
+            "fullstartdate": "202610222200",
+            "enddate": "20261023",
+            "url": "/th?id=OHR.ReimsChampagne_FR-FR6230244152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ReimsChampagne_FR-FR6230244152",
+            "copyright": "Vignobles à Verzenay, montagne de Reims, Champagne (© Philippe TURPIN/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+du+champagne&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+            "title": "Là où naissent les bulles",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_ReimsChampagne%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a0b99ea03aaad92520cc50fed1b7751c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261021",
             "fullstartdate": "202610212200",
