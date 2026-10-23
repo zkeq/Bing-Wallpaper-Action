@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-22 05:14:48",
-    "Total": 1639,
+    "LastUpdate": "2026-10-23 05:13:40",
+    "Total": 1640,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261022",
+            "fullstartdate": "202610222200",
+            "enddate": "20261023",
+            "url": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
+            "copyright": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
+            "title": "La vita nel branco",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ccd5ba3c93eecf10148c17232e8b0854",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261021",
             "fullstartdate": "202610212200",
