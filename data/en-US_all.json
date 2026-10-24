@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-23 05:13:14",
-    "Total": 1640,
+    "LastUpdate": "2026-10-24 04:55:25",
+    "Total": 1641,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261023",
+            "fullstartdate": "202610230700",
+            "enddate": "20261024",
+            "url": "/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+            "copyright": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22",
+            "title": "Partners in the wild",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_YellowstoneWolves%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8abec359cbf3a5980614a3263fd4fc4f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261022",
             "fullstartdate": "202610220700",
