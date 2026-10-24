@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-23 05:13:09",
-    "Total": 1640,
+    "LastUpdate": "2026-10-24 04:55:20",
+    "Total": 1641,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261023",
+            "fullstartdate": "202610231600",
+            "enddate": "20261024",
+            "url": "/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PortugueseLibrary_ZH-CN7096893027",
+            "copyright": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=%E7%9A%87%E5%AE%B6%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD%E9%98%85%E8%A7%88%E5%AE%A4&form=hpcapt&mkt=zh-cn",
+            "title": "书香里的极致华美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_PortugueseLibrary%22&FORM=HPQUIZ",
+            "wp": false,
+            "hsh": "8b6a33956db57eaa614b800cd9e6c3d8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261022",
             "fullstartdate": "202610221600",
