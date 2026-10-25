@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-24 04:55:40",
-    "Total": 1637,
+    "LastUpdate": "2026-10-25 05:08:24",
+    "Total": 1638,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261024",
+            "fullstartdate": "202610242300",
+            "enddate": "20261026",
+            "url": "/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225",
+            "copyright": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22",
+            "title": "The clock strikes back",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_BSTEnds2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c844eb5517f3c2803ccb1670c3c67e0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261023",
             "fullstartdate": "202610232300",
