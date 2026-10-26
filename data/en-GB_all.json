@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-25 05:08:24",
-    "Total": 1638,
+    "LastUpdate": "2026-10-26 05:10:24",
+    "Total": 1639,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261026",
+            "fullstartdate": "202610260000",
+            "enddate": "20261027",
+            "url": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550",
+            "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0000%22",
+            "title": "Nature's autumn soundtrack",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_SitovoWaterfall%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a77243cea00cacb321bdd1edac434faa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261024",
             "fullstartdate": "202610242300",
