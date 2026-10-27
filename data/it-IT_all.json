@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-26 05:10:36",
-    "Total": 1643,
+    "LastUpdate": "2026-10-27 05:26:42",
+    "Total": 1644,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261026",
+            "fullstartdate": "202610262300",
+            "enddate": "20261027",
+            "url": "/th?id=OHR.PondCypress_IT-IT6320902214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PondCypress_IT-IT6320902214",
+            "copyright": "Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cipressi+delle+paludi&form=hpcapt",
+            "title": "Riflessi dorati",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "dd7e22cb0e0f990f654257e413b7bbeb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261025",
             "fullstartdate": "202610252300",
