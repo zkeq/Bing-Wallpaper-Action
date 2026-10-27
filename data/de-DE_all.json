@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-26 05:10:16",
-    "Total": 1643,
+    "LastUpdate": "2026-10-27 05:26:23",
+    "Total": 1644,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261026",
+            "fullstartdate": "202610262300",
+            "enddate": "20261027",
+            "url": "/th?id=OHR.PondCypress_DE-DE2656375905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PondCypress_DE-DE2656375905",
+            "copyright": "Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+            "title": "Goldener Spiegel der Natur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c0e571b79e9ba6a7c234e5dcfa84d91c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261025",
             "fullstartdate": "202610252300",
