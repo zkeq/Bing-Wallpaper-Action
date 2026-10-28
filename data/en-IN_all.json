@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-27 05:26:35",
-    "Total": 1644,
+    "LastUpdate": "2026-10-28 06:07:12",
+    "Total": 1645,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261027",
+            "fullstartdate": "202610271830",
+            "enddate": "20261028",
+            "url": "/th?id=OHR.KuneticeCastle_EN-IN9209042094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.KuneticeCastle_EN-IN9209042094",
+            "copyright": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Kuneticka+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261027_1830%22",
+            "title": "Where history stands watch",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_KuneticeCastle%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2d3eb9bb42d7313094ae4c8fdfb5b2aa",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261026",
             "fullstartdate": "202610261830",
