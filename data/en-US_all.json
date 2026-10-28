@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-27 05:26:15",
-    "Total": 1644,
+    "LastUpdate": "2026-10-28 06:06:54",
+    "Total": 1645,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261027",
+            "fullstartdate": "202610270700",
+            "enddate": "20261028",
+            "url": "/th?id=OHR.PondCypress_EN-US0123444779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
+            "copyright": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22",
+            "title": "Nature's golden mirror",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_PondCypress%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8c3480019357ff01bd574a7e13966224",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261026",
             "fullstartdate": "202610260700",
