@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-28 06:07:05",
-    "Total": 1645,
+    "LastUpdate": "2026-10-29 06:17:15",
+    "Total": 1646,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261029",
+            "fullstartdate": "202610290400",
+            "enddate": "20261030",
+            "url": "/th?id=OHR.AveburyStones_EN-CA3104504656_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AveburyStones_EN-CA3104504656",
+            "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0400%22",
+            "title": "Where mist meets millennia",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AveburyStones%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "36cef46d8a8305ffa53339d0aea8e423",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261028",
             "fullstartdate": "202610280400",
