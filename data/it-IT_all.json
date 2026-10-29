@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-28 06:07:19",
-    "Total": 1645,
+    "LastUpdate": "2026-10-29 06:17:31",
+    "Total": 1646,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261028",
+            "fullstartdate": "202610282300",
+            "enddate": "20261029",
+            "url": "/th?id=OHR.AveburyStones_IT-IT5634082753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AveburyStones_IT-IT5634082753",
+            "copyright": "Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Menhir+di+Avebury+Wiltshire&form=hpcapt",
+            "title": "Una passeggiata nella preistoria",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d02e6b5db3cf47f4878347a01c1da633",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261027",
             "fullstartdate": "202610272300",
