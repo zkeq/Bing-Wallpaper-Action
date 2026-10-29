@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-28 06:07:16",
-    "Total": 1645,
+    "LastUpdate": "2026-10-29 06:17:27",
+    "Total": 1646,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261028",
+            "fullstartdate": "202610282300",
+            "enddate": "20261029",
+            "url": "/th?id=OHR.AveburyStones_FR-FR0792308002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AveburyStones_FR-FR0792308002",
+            "copyright": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+            "title": "Des millénaires caressés par la brume",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b1c67b505596f327f29db1c78b0ac685",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261027",
             "fullstartdate": "202610272300",
