@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-29 06:17:27",
-    "Total": 1646,
+    "LastUpdate": "2026-10-30 06:17:39",
+    "Total": 1647,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261029",
+            "fullstartdate": "202610292300",
+            "enddate": "20261030",
+            "url": "/th?id=OHR.AutumnCranes_FR-FR2970535620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCranes_FR-FR2970535620",
+            "copyright": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Grue+du+Canada&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+            "title": "L'heure de prendre de la hauteur",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f15856096ad24efa5cd5406c49efaa99",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261028",
             "fullstartdate": "202610282300",
