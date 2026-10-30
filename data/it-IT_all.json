@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-29 06:17:31",
-    "Total": 1646,
+    "LastUpdate": "2026-10-30 06:17:43",
+    "Total": 1647,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261029",
+            "fullstartdate": "202610292300",
+            "enddate": "20261030",
+            "url": "/th?id=OHR.AutumnCranes_IT-IT0637151336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCranes_IT-IT0637151336",
+            "copyright": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=gru+canadesi&form=hpcapt",
+            "title": "È ora di spiccare il volo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f7a83e88b4a1c6d0c55f080ece5dd827",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261028",
             "fullstartdate": "202610282300",
