@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-29 06:17:07",
-    "Total": 1646,
+    "LastUpdate": "2026-10-30 06:17:19",
+    "Total": 1647,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261029",
+            "fullstartdate": "202610291500",
+            "enddate": "20261030",
+            "url": "/th?id=OHR.AutumnCranes_JA-JP2456396404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCranes_JA-JP2456396404",
+            "copyright": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%80%E3%83%85%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220261029_1500%22",
+            "title": "大空へ羽ばたく",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e939c4726f32f3cea26967b674bcf87a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261028",
             "fullstartdate": "202610281500",
