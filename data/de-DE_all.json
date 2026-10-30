@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-29 06:17:11",
-    "Total": 1646,
+    "LastUpdate": "2026-10-30 06:17:23",
+    "Total": 1647,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261029",
+            "fullstartdate": "202610292300",
+            "enddate": "20261030",
+            "url": "/th?id=OHR.AutumnCranes_DE-DE0229834342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCranes_DE-DE0229834342",
+            "copyright": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Kanadakranich&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+            "title": "Zeit für Höhenflüge",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "841ba314371c7bc580068cd37aca730c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261028",
             "fullstartdate": "202610282300",
