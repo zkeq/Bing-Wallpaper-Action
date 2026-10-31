@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-30 06:17:31",
-    "Total": 1643,
+    "LastUpdate": "2026-10-31 06:09:11",
+    "Total": 1644,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261031",
+            "fullstartdate": "202610310000",
+            "enddate": "20261101",
+            "url": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrankfurtHalloween_EN-GB3041218795",
+            "copyright": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0000%22",
+            "title": "Ghosts of empires past",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_FrankfurtHalloween%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "3284452e7a1f3aea4c3fcc2851593573",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261030",
             "fullstartdate": "202610300000",
