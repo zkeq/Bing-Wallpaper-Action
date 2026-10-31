@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-30 06:17:39",
-    "Total": 1647,
+    "LastUpdate": "2026-10-31 06:09:19",
+    "Total": 1648,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261030",
+            "fullstartdate": "202610302300",
+            "enddate": "20261031",
+            "url": "/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrankfurtHalloween_FR-FR8337402452",
+            "copyright": "Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+            "title": "Visiteurs d'un autre monde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8bcbde37bd0e519c0dba14a975e2a7d0",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261029",
             "fullstartdate": "202610292300",
