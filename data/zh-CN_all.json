@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-30 06:17:10",
-    "Total": 1647,
+    "LastUpdate": "2026-10-31 06:08:51",
+    "Total": 1648,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261030",
+            "fullstartdate": "202610301600",
+            "enddate": "20261031",
+            "url": "/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698",
+            "copyright": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E4%B8%87%E5%9C%A3%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "往昔帝国的幽影",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "d50b635f82614ecfde8e234c0f6d0631",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261029",
             "fullstartdate": "202610291600",
