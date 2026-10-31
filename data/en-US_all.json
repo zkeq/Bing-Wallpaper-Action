@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-30 06:17:15",
-    "Total": 1647,
+    "LastUpdate": "2026-10-31 06:08:56",
+    "Total": 1648,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261030",
+            "fullstartdate": "202610300700",
+            "enddate": "20261031",
+            "url": "/th?id=OHR.AutumnCranes_EN-US9795571462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnCranes_EN-US9795571462",
+            "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0700%22",
+            "title": "Time to fly high",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_AutumnCranes%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "5d23d8ca2501c88990d08bf23b12dd87",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261029",
             "fullstartdate": "202610290700",
