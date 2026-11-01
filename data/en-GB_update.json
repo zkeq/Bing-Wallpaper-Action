@@ -1,6 +1,23 @@
 {
     "images": [
         {
+            "startdate": "20261101",
+            "fullstartdate": "202611010000",
+            "enddate": "20261102",
+            "url": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438",
+            "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0000%22",
+            "title": "Mist among the trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e423e524d1e69cf9525a2dc013aca79e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
+        {
             "startdate": "20261031",
             "fullstartdate": "202610310000",
             "enddate": "20261101",
@@ -114,23 +131,6 @@
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_BSTEnds2026%22&FORM=HPQUIZ",
             "wp": true,
             "hsh": "6c844eb5517f3c2803ccb1670c3c67e0",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
-        },
-        {
-            "startdate": "20261023",
-            "fullstartdate": "202610232300",
-            "enddate": "20261024",
-            "url": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.PortugueseLibrary_EN-GB5432733315",
-            "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
-            "copyrightlink": "https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261023_2300%22",
-            "title": "Bookishly extravagant",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_PortugueseLibrary%22&FORM=HPQUIZ",
-            "wp": false,
-            "hsh": "9f84efd352828feebad945fcb3b9b204",
             "drk": 1,
             "top": 1,
             "bot": 1,
