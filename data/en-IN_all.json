@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-10-31 06:09:15",
-    "Total": 1648,
+    "LastUpdate": "2026-11-01 06:40:46",
+    "Total": 1649,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261031",
+            "fullstartdate": "202610311830",
+            "enddate": "20261101",
+            "url": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203",
+            "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261031_1830%22",
+            "title": "Mist among the trees",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "cdea8a27d35f6ff272d8e0de0f95f83e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261030",
             "fullstartdate": "202610301830",
