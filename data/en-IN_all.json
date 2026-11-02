@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-01 06:40:46",
-    "Total": 1649,
+    "LastUpdate": "2026-11-02 06:39:34",
+    "Total": 1650,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261101",
+            "fullstartdate": "202611011830",
+            "enddate": "20261102",
+            "url": "/th?id=OHR.HudsonBear_EN-IN9299365522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HudsonBear_EN-IN9299365522",
+            "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22",
+            "title": "A future written in ice",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "602aae97c36c429921091a890ec59a0a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261031",
             "fullstartdate": "202610311830",
