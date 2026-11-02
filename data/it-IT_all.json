@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-01 06:40:53",
-    "Total": 1649,
+    "LastUpdate": "2026-11-02 06:39:42",
+    "Total": 1650,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261101",
+            "fullstartdate": "202611012300",
+            "enddate": "20261102",
+            "url": "/th?id=OHR.HudsonBear_IT-IT6232079426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.HudsonBear_IT-IT6232079426",
+            "copyright": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=Orso+Polare&form=hpcapt",
+            "title": "Un futuro scolpito nel ghiaccio",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "869a7fd66be018a4b4df2a0166111c63",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261031",
             "fullstartdate": "202610312300",
