@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-02 06:39:42",
-    "Total": 1650,
+    "LastUpdate": "2026-11-03 07:08:18",
+    "Total": 1651,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261102",
+            "fullstartdate": "202611022300",
+            "enddate": "20261103",
+            "url": "/th?id=OHR.AlpineBraies_IT-IT4890299611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineBraies_IT-IT4890299611",
+            "copyright": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lago+di+Braies+Dolomiti&form=hpcapt",
+            "title": "Pace in cima al mondo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "85a1fe38450219142cb97cd3179acdb6",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261101",
             "fullstartdate": "202611012300",
