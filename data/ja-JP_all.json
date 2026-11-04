@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-03 07:07:54",
-    "Total": 1651,
+    "LastUpdate": "2026-11-04 06:53:58",
+    "Total": 1652,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261103",
+            "fullstartdate": "202611031500",
+            "enddate": "20261104",
+            "url": "/th?id=OHR.AutumnChina_JA-JP2275105446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnChina_JA-JP2275105446",
+            "copyright": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%82%AF%E3%82%A6%E3%82%B7%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220261103_1500%22",
+            "title": "秋色の森を水上散歩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AutumnChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75eefaf78810c15b2afe6d6173bb6bc1",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261102",
             "fullstartdate": "202611021500",
