@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-03 07:07:50",
-    "Total": 1651,
+    "LastUpdate": "2026-11-04 06:53:54",
+    "Total": 1652,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261103",
+            "fullstartdate": "202611030800",
+            "enddate": "20261104",
+            "url": "/th?id=OHR.AlpineBraies_EN-US6636326357_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AlpineBraies_EN-US6636326357",
+            "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0800%22",
+            "title": "Peace among the peaks",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AlpineBraies%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fac06918b8a8697c857ecbd3624bccd5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261102",
             "fullstartdate": "202611020800",
