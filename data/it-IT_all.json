@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-03 07:08:18",
-    "Total": 1651,
+    "LastUpdate": "2026-11-04 06:54:21",
+    "Total": 1652,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261103",
+            "fullstartdate": "202611032300",
+            "enddate": "20261104",
+            "url": "/th?id=OHR.AutumnChina_IT-IT6649354105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnChina_IT-IT6649354105",
+            "copyright": "Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=cipressi+calvi&form=hpcapt",
+            "title": "In kayak tra i colori d’autunno",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AutumnChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "17af283f9601a08e09707671b882d883",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261102",
             "fullstartdate": "202611022300",
