@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-04 06:53:54",
-    "Total": 1652,
+    "LastUpdate": "2026-11-05 07:12:18",
+    "Total": 1653,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261104",
+            "fullstartdate": "202611040800",
+            "enddate": "20261105",
+            "url": "/th?id=OHR.AutumnChina_EN-US0467722422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AutumnChina_EN-US0467722422",
+            "copyright": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0800%22",
+            "title": "Paddling a painted forest",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_AutumnChina%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e8c4754f441cfc007f83f56b14a81590",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261103",
             "fullstartdate": "202611030800",
