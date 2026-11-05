@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-04 06:54:02",
-    "Total": 1652,
+    "LastUpdate": "2026-11-05 07:12:26",
+    "Total": 1653,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261104",
+            "fullstartdate": "202611042300",
+            "enddate": "20261105",
+            "url": "/th?id=OHR.StileCrossing_DE-DE6131632165_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StileCrossing_DE-DE6131632165",
+            "copyright": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+District+Vereinigtes+K%C3%B6nigreich&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+            "title": "Ein Schritt näher am Gipfel",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_StileCrossing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c8b29159a3efaa56ffa39521c753aec3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261103",
             "fullstartdate": "202611032300",
