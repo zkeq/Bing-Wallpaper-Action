@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-04 06:53:58",
-    "Total": 1652,
+    "LastUpdate": "2026-11-05 07:12:22",
+    "Total": 1653,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261104",
+            "fullstartdate": "202611041500",
+            "enddate": "20261105",
+            "url": "/th?id=OHR.StileCrossing_JA-JP3443452365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.StileCrossing_JA-JP3443452365",
+            "copyright": "石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%B9%96%E6%B0%B4%E5%9C%B0%E6%96%B9&form=hpcapt&filters=HpDate%3a%2220261104_1500%22",
+            "title": "山頂へ、もう一歩",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_StileCrossing%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "0ea8942b14de59feb101818f8b8e127c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261103",
             "fullstartdate": "202611031500",
