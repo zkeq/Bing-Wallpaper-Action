@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-05 07:12:26",
-    "Total": 1653,
+    "LastUpdate": "2026-11-06 07:13:20",
+    "Total": 1654,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261105",
+            "fullstartdate": "202611052300",
+            "enddate": "20261106",
+            "url": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479",
+            "copyright": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+            "title": "Ein grüner Tunnel durch Maui",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "810b899ff51c2cd8b235520b75a69105",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261104",
             "fullstartdate": "202611042300",
