@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-05 07:12:13",
-    "Total": 1653,
+    "LastUpdate": "2026-11-06 07:13:07",
+    "Total": 1654,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261105",
+            "fullstartdate": "202611051600",
+            "enddate": "20261106",
+            "url": "/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PipiwaiTrail_ZH-CN1811194311",
+            "copyright": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%93%88%E8%8E%B1%E4%BA%9A%E5%8D%A1%E6%8B%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "穿越毛伊岛的绿色隧道",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "83e427360a433d9f9e12ebbb4317ff61",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261104",
             "fullstartdate": "202611041600",
