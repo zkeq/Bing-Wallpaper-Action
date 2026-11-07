@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-06 07:13:28",
-    "Total": 1650,
+    "LastUpdate": "2026-11-07 06:27:17",
+    "Total": 1651,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261107",
+            "fullstartdate": "202611070000",
+            "enddate": "20261108",
+            "url": "/th?id=OHR.DakotaBison_EN-GB4535875354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DakotaBison_EN-GB4535875354",
+            "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+            "copyrightlink": "https://www.bing.com/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261107_0000%22",
+            "title": "Roaming the grasslands",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2db865431ec244796c0285c213acf831",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261106",
             "fullstartdate": "202611060000",
