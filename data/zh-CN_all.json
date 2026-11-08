@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-07 06:26:57",
-    "Total": 1655,
+    "LastUpdate": "2026-11-08 06:33:13",
+    "Total": 1656,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261107",
+            "fullstartdate": "202611071600",
+            "enddate": "20261108",
+            "url": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
+            "copyright": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%8E%92%E7%81%AF%E8%8A%82&form=hpcapt&mkt=zh-cn",
+            "title": "光芒四射的节日",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DiwaliLamps%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8603d5f4458b499767e4c196511719c7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261106",
             "fullstartdate": "202611061600",
