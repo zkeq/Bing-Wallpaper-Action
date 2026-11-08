@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-07 06:27:25",
-    "Total": 1655,
+    "LastUpdate": "2026-11-08 06:33:41",
+    "Total": 1656,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261107",
+            "fullstartdate": "202611072300",
+            "enddate": "20261108",
+            "url": "/th?id=OHR.DiwaliLamps_FR-FR3288508792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliLamps_FR-FR3288508792",
+            "copyright": "Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+            "title": "Célébration qui scintille",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DiwaliLamps%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e864bd1a0279f80865bc413c5a775ae3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261106",
             "fullstartdate": "202611062300",
