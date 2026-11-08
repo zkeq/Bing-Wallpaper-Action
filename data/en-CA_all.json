@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-07 06:27:13",
-    "Total": 1655,
+    "LastUpdate": "2026-11-08 06:33:29",
+    "Total": 1656,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261108",
+            "fullstartdate": "202611080500",
+            "enddate": "20261109",
+            "url": "/th?id=OHR.DiwaliLamps_EN-CA5815375040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.DiwaliLamps_EN-CA5815375040",
+            "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0500%22",
+            "title": "A celebration that shines",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_DiwaliLamps%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1eb56b66ed63af9a94d83beba22ae8de",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261107",
             "fullstartdate": "202611070500",
