@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-08 06:33:45",
-    "Total": 1656,
+    "LastUpdate": "2026-11-09 07:02:56",
+    "Total": 1657,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261108",
+            "fullstartdate": "202611082300",
+            "enddate": "20261109",
+            "url": "/th?id=OHR.TrianaSpain_IT-IT6419651277_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrianaSpain_IT-IT6419651277",
+            "copyright": "Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Siviglia+Spagna&form=hpcapt",
+            "title": "Dove l’arte trova il suo ritmo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_TrianaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ec79de689919e64e8cfef2c4b155310f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261107",
             "fullstartdate": "202611072300",
