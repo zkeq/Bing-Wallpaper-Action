@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-08 06:33:37",
-    "Total": 1656,
+    "LastUpdate": "2026-11-09 07:02:48",
+    "Total": 1657,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261108",
+            "fullstartdate": "202611081830",
+            "enddate": "20261109",
+            "url": "/th?id=OHR.TrianaSpain_EN-IN5231956941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrianaSpain_EN-IN5231956941",
+            "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261108_1830%22",
+            "title": "Where art finds its rhythm",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_TrianaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "71ae1803f209c38d536e11db729085f4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261107",
             "fullstartdate": "202611071830",
