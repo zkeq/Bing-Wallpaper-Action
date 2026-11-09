@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-08 06:33:21",
-    "Total": 1656,
+    "LastUpdate": "2026-11-09 07:02:32",
+    "Total": 1657,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261108",
+            "fullstartdate": "202611081500",
+            "enddate": "20261109",
+            "url": "/th?id=OHR.TrianaSpain_JA-JP2076026093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrianaSpain_JA-JP2076026093",
+            "copyright": "セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%83%93%E3%83%AA%E3%82%A2+%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22",
+            "title": "芸術がリズムを刻む街",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_TrianaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "1c2d1936e9790d9e76b67d6a45d2ce6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261107",
             "fullstartdate": "202611071500",
