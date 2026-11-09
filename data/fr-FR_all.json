@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-08 06:33:41",
-    "Total": 1656,
+    "LastUpdate": "2026-11-09 07:02:52",
+    "Total": 1657,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261108",
+            "fullstartdate": "202611082300",
+            "enddate": "20261109",
+            "url": "/th?id=OHR.TrianaSpain_FR-FR5872801405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrianaSpain_FR-FR5872801405",
+            "copyright": "Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=S%C3%A9ville+Espagne&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+            "title": "Ici, l’art trouve son rythme",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_TrianaSpain%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4e178143859e04b0547cbce2d63333f2",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261107",
             "fullstartdate": "202611072300",
