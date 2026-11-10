@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-09 07:02:40",
-    "Total": 1657,
+    "LastUpdate": "2026-11-10 07:39:08",
+    "Total": 1658,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261110",
+            "fullstartdate": "202611100500",
+            "enddate": "20261111",
+            "url": "/th?id=OHR.RoseIsland_EN-CA5604124548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RoseIsland_EN-CA5604124548",
+            "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
+            "title": "Licensed to chill",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_RoseIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c72c17d84f0b942dbfd2aca767448c43",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261109",
             "fullstartdate": "202611090500",
