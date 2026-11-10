@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-09 07:02:52",
-    "Total": 1657,
+    "LastUpdate": "2026-11-10 07:39:20",
+    "Total": 1658,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261109",
+            "fullstartdate": "202611092300",
+            "enddate": "20261110",
+            "url": "/th?id=OHR.RoseIsland_FR-FR0867516842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.RoseIsland_FR-FR0867516842",
+            "copyright": "Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+            "title": "Permis de se relaxer",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_RoseIsland%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "c14b88616e2e7bece86b9f54b5de6f97",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261108",
             "fullstartdate": "202611082300",
