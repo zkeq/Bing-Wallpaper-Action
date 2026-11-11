@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-10 07:39:08",
-    "Total": 1658,
+    "LastUpdate": "2026-11-11 06:58:17",
+    "Total": 1659,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261111",
+            "fullstartdate": "202611110500",
+            "enddate": "20261112",
+            "url": "/th?id=OHR.Atlantica_EN-CA7496830701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Atlantica_EN-CA7496830701",
+            "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261111_0500%22",
+            "title": "A forest full of wonder",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_Atlantica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca439f4592e2a08b87459d6936018226",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261110",
             "fullstartdate": "202611100500",
