@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-10 07:38:52",
-    "Total": 1658,
+    "LastUpdate": "2026-11-11 06:58:01",
+    "Total": 1659,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261110",
+            "fullstartdate": "202611101600",
+            "enddate": "20261111",
+            "url": "/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Atlantica_ZH-CN6593995386",
+            "copyright": "大西洋森林，巴西 (© FG Trade/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn",
+            "title": "奇妙纷呈的森林",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2f8ec1b9756e84d222b20fd5fdf412b3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261109",
             "fullstartdate": "202611091600",
