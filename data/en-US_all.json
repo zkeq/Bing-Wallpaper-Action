@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-11 06:58:06",
-    "Total": 1659,
+    "LastUpdate": "2026-11-12 07:34:43",
+    "Total": 1660,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261111",
+            "fullstartdate": "202611110800",
+            "enddate": "20261112",
+            "url": "/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetFlags_EN-US1046151448",
+            "copyright": "American flags in a public park in upstate New York (© Matt Champlin/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220261111_0800%22",
+            "title": "A salute in red, white, and blue",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_SunsetFlags%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "44fd904fb552c2c90c9c58be8ad7154c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261110",
             "fullstartdate": "202611100800",
