@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-11 06:58:01",
-    "Total": 1659,
+    "LastUpdate": "2026-11-12 07:34:37",
+    "Total": 1660,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261111",
+            "fullstartdate": "202611111600",
+            "enddate": "20261112",
+            "url": "/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthWindow_ZH-CN6734579353",
+            "copyright": "北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%8B%B1%E9%97%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+            "title": "没有建筑师的建筑杰作",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "4cd78b6a40ab0d146b30dc1d5e26cd6e",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261110",
             "fullstartdate": "202611101600",
