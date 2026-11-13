@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-12 07:34:43",
-    "Total": 1660,
+    "LastUpdate": "2026-11-13 07:04:47",
+    "Total": 1661,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261112",
+            "fullstartdate": "202611120800",
+            "enddate": "20261113",
+            "url": "/th?id=OHR.NorthWindow_EN-US1170338293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.NorthWindow_EN-US1170338293",
+            "copyright": "North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220261112_0800%22",
+            "title": "Architecture without an architect",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_NorthWindow%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "2aac21b56f5b97586a221073599558e3",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261111",
             "fullstartdate": "202611110800",
