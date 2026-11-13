@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-12 07:34:50",
-    "Total": 1660,
+    "LastUpdate": "2026-11-13 07:04:55",
+    "Total": 1661,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261112",
+            "fullstartdate": "202611122300",
+            "enddate": "20261113",
+            "url": "/th?id=OHR.AbrahamCanada_DE-DE1158881043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.AbrahamCanada_DE-DE1158881043",
+            "copyright": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Stausee+Kanada&form=hpcapt&filters=HpDate%3a%2220261112_2300%22",
+            "title": "Verborgene Tiefen",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_AbrahamCanada%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "9e64cc7d2daae700b94079ffb9a177ef",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261111",
             "fullstartdate": "202611112300",
