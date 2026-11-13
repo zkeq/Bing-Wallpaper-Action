@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-12 07:35:02",
-    "Total": 1660,
+    "LastUpdate": "2026-11-13 07:05:06",
+    "Total": 1661,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261112",
+            "fullstartdate": "202611121830",
+            "enddate": "20261113",
+            "url": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581",
+            "copyright": "Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Chhath+Puja&form=hpcapt&filters=HpDate%3a%2220261112_1830%22",
+            "title": "Glow of Chhath Puja",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_ChhathPuja2026%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "170818bc8837c5b2b15d6dd347d418fe",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261111",
             "fullstartdate": "202611111830",
