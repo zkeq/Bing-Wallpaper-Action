@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-13 07:05:14",
-    "Total": 1661,
+    "LastUpdate": "2026-11-14 06:55:09",
+    "Total": 1662,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261113",
+            "fullstartdate": "202611132300",
+            "enddate": "20261114",
+            "url": "/th?id=OHR.BlueHK_IT-IT8939331622_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueHK_IT-IT8939331622",
+            "copyright": "Victoria Harbour, Hong Kong, Cina (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt",
+            "title": "Sempre più in alto",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "61c653a1c2453f5e5b575b6f5362610b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261112",
             "fullstartdate": "202611122300",
