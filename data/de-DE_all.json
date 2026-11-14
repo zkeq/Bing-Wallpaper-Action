@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-13 07:04:55",
-    "Total": 1661,
+    "LastUpdate": "2026-11-14 06:54:51",
+    "Total": 1662,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261113",
+            "fullstartdate": "202611132300",
+            "enddate": "20261114",
+            "url": "/th?id=OHR.BlueHK_DE-DE1662761141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueHK_DE-DE1662761141",
+            "copyright": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+            "title": "Hoch, höher, Hongkong",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "58304e0446787beabccd167e3c2262d9",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261112",
             "fullstartdate": "202611122300",
