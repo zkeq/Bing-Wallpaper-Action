@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-14 06:54:43",
-    "Total": 1662,
+    "LastUpdate": "2026-11-15 07:00:28",
+    "Total": 1663,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261114",
+            "fullstartdate": "202611140800",
+            "enddate": "20261115",
+            "url": "/th?id=OHR.BlueHK_EN-US7870996687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BlueHK_EN-US7870996687",
+            "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0800%22",
+            "title": "The only way is up",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_BlueHK%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "33e79839f41e9f007d5d05fb55d905b4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261113",
             "fullstartdate": "202611130800",
