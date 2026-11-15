@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-14 06:54:51",
-    "Total": 1662,
+    "LastUpdate": "2026-11-15 07:00:36",
+    "Total": 1663,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261114",
+            "fullstartdate": "202611142300",
+            "enddate": "20261115",
+            "url": "/th?id=OHR.FirstFrost_DE-DE6574553682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FirstFrost_DE-DE6574553682",
+            "copyright": "Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=Azaleen&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+            "title": "Frostige Blätter",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_FirstFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e2d55e28de5d51a87f0d260afc1c1b42",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261113",
             "fullstartdate": "202611132300",
