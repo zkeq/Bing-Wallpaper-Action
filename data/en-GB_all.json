@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-15 07:00:44",
-    "Total": 1659,
+    "LastUpdate": "2026-11-16 07:08:04",
+    "Total": 1660,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261116",
+            "fullstartdate": "202611160000",
+            "enddate": "20261117",
+            "url": "/th?id=OHR.GilaCliff_EN-GB1863069273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.GilaCliff_EN-GB1863069273",
+            "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261116_0000%22",
+            "title": "Built to last",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_GilaCliff%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e796acdf3fa2587dd77996bc659ac222",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261115",
             "fullstartdate": "202611150000",
