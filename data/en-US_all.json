@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-15 07:00:28",
-    "Total": 1663,
+    "LastUpdate": "2026-11-16 07:07:49",
+    "Total": 1664,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261115",
+            "fullstartdate": "202611150800",
+            "enddate": "20261116",
+            "url": "/th?id=OHR.FirstFrost_EN-US8881008245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FirstFrost_EN-US8881008245",
+            "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+            "copyrightlink": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0800%22",
+            "title": "Frosty foliage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_FirstFrost%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6c1b2ebce94f441a9a12cbcfecd61ca5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261114",
             "fullstartdate": "202611140800",
