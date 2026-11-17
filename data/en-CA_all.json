@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-16 07:08:00",
-    "Total": 1664,
+    "LastUpdate": "2026-11-17 08:20:18",
+    "Total": 1665,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261117",
+            "fullstartdate": "202611170500",
+            "enddate": "20261118",
+            "url": "/th?id=OHR.TrailCedars_EN-CA2369458166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.TrailCedars_EN-CA2369458166",
+            "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Trail+of+the+Cedars%2c+Glacier+National+Park%2c+Montana&form=hpcapt&filters=HpDate%3a%2220261117_0500%22",
+            "title": "Step into the great outdoors",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_TrailCedars%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7ec1b8006004af054c4e23e20ca4bdca",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261116",
             "fullstartdate": "202611160500",
