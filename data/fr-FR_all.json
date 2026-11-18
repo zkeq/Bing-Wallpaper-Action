@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-17 08:20:30",
-    "Total": 1665,
+    "LastUpdate": "2026-11-18 07:51:42",
+    "Total": 1666,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261117",
+            "fullstartdate": "202611172300",
+            "enddate": "20261118",
+            "url": "/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BarnOwlsUnite_FR-FR0018372456",
+            "copyright": "Couple de chouettes effraies  (© Zahoor Salmi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=chouette+effraie&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+            "title": "Chasser du crépuscule à l’aube",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_BarnOwlsUnite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "06ecb168febfa5930d8729e1cdce437c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261116",
             "fullstartdate": "202611162300",
