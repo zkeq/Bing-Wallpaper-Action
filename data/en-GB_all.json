@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-17 08:20:22",
-    "Total": 1661,
+    "LastUpdate": "2026-11-18 07:51:34",
+    "Total": 1662,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261118",
+            "fullstartdate": "202611180000",
+            "enddate": "20261119",
+            "url": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926",
+            "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0000%22",
+            "title": "Hunting from dusk till dawn",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_BarnOwlsUnite%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "609740cd3435c310124486dbb8c12a9b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261117",
             "fullstartdate": "202611170000",
