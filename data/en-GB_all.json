@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-19 07:47:34",
-    "Total": 1663,
+    "LastUpdate": "2026-11-20 07:39:38",
+    "Total": 1664,
     "Language": "en-GB",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261120",
+            "fullstartdate": "202611200000",
+            "enddate": "20261121",
+            "url": "/th?id=OHR.Megaptera_EN-GB2786065203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Megaptera_EN-GB2786065203",
+            "copyright": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0000%22",
+            "title": "Feasting in the fjords",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_Megaptera%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "606119e0d0e8ca71b542f6f26dc524cb",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261119",
             "fullstartdate": "202611190000",
