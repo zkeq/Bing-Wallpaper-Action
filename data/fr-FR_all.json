@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-19 07:47:42",
-    "Total": 1667,
+    "LastUpdate": "2026-11-20 07:39:46",
+    "Total": 1668,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261119",
+            "fullstartdate": "202611192300",
+            "enddate": "20261120",
+            "url": "/th?id=OHR.Megaptera_FR-FR4844041131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Megaptera_FR-FR4844041131",
+            "copyright": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=baleine+%C3%A0+bosse&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+            "title": "Festin dans les fjords",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fff63e094976f6b33fc53bd3182735e4",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261118",
             "fullstartdate": "202611182300",
