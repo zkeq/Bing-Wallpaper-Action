@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-19 07:47:14",
-    "Total": 1667,
+    "LastUpdate": "2026-11-20 07:39:16",
+    "Total": 1668,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261119",
+            "fullstartdate": "202611191600",
+            "enddate": "20261120",
+            "url": "/th?id=OHR.Megaptera_ZH-CN3361807823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.Megaptera_ZH-CN3361807823",
+            "copyright": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn",
+            "title": "在峡湾中大快朵颐",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "fe8250db00606968c8404f967f5a8b4a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261118",
             "fullstartdate": "202611181600",
