@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-21 07:36:49",
-    "Total": 1669,
+    "LastUpdate": "2026-11-22 07:18:18",
+    "Total": 1670,
     "Language": "ja-JP",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261121",
+            "fullstartdate": "202611211500",
+            "enddate": "20261122",
+            "url": "/th?id=OHR.JustaHermitage_JA-JP5350379708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JustaHermitage_JA-JP5350379708",
+            "copyright": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%95%E3%82%B9%E3%82%BF%E7%A4%BC%E6%8B%9D%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220261121_1500%22",
+            "title": "波間にたたずむ隠れ家",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "817c1206d091c9cb5ecefc8fa151b21c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261120",
             "fullstartdate": "202611201500",
