@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-21 07:36:53",
-    "Total": 1669,
+    "LastUpdate": "2026-11-22 07:18:22",
+    "Total": 1670,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261121",
+            "fullstartdate": "202611212300",
+            "enddate": "20261122",
+            "url": "/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JustaHermitage_DE-DE4182731523",
+            "copyright": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+            "title": "Kapelle im Fels",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e16513a5b7a739975bddd0f814335acd",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261120",
             "fullstartdate": "202611202300",
