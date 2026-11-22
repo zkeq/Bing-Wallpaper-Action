@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-21 07:37:12",
-    "Total": 1669,
+    "LastUpdate": "2026-11-22 07:18:41",
+    "Total": 1670,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261121",
+            "fullstartdate": "202611212300",
+            "enddate": "20261122",
+            "url": "/th?id=OHR.JustaHermitage_IT-IT2553496386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JustaHermitage_IT-IT2553496386",
+            "copyright": "Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=hpcapt",
+            "title": "Un rifugio tra le onde",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7527c7bc76fa9e24c962fa8460a0a88f",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261120",
             "fullstartdate": "202611202300",
