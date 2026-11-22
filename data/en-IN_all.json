@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-21 07:37:04",
-    "Total": 1669,
+    "LastUpdate": "2026-11-22 07:18:34",
+    "Total": 1670,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261121",
+            "fullstartdate": "202611211830",
+            "enddate": "20261122",
+            "url": "/th?id=OHR.JustaHermitage_EN-IN3031288581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JustaHermitage_EN-IN3031288581",
+            "copyright": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261121_1830%22",
+            "title": "Shelter among the waves",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca6c145b0f6c8d11949d86873c07bc7a",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261120",
             "fullstartdate": "202611201830",
