@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-21 07:37:08",
-    "Total": 1669,
+    "LastUpdate": "2026-11-22 07:18:38",
+    "Total": 1670,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261121",
+            "fullstartdate": "202611212300",
+            "enddate": "20261122",
+            "url": "/th?id=OHR.JustaHermitage_FR-FR2303317894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.JustaHermitage_FR-FR2303317894",
+            "copyright": "Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+            "title": "Refuge au milieu des vagues",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02fc32fbf8cbad06ff76a8144fd74438",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261120",
             "fullstartdate": "202611202300",
