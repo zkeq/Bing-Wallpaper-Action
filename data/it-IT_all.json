@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-22 07:18:41",
-    "Total": 1670,
+    "LastUpdate": "2026-11-23 08:01:46",
+    "Total": 1671,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261122",
+            "fullstartdate": "202611222300",
+            "enddate": "20261123",
+            "url": "/th?id=OHR.FibonacciFern_IT-IT3074319544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FibonacciFern_IT-IT3074319544",
+            "copyright": "Germoglio di felce (© Reza Saputra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt",
+            "title": "Geometria in natura",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "e617fe015ccaac39c7526ccf947436d5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261121",
             "fullstartdate": "202611212300",
