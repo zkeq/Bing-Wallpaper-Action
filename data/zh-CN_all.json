@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-22 07:18:10",
-    "Total": 1670,
+    "LastUpdate": "2026-11-23 08:01:14",
+    "Total": 1671,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261122",
+            "fullstartdate": "202611221600",
+            "enddate": "20261123",
+            "url": "/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
+            "copyright": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%97%A5&form=hpcapt&mkt=zh-cn",
+            "title": "自然中的几何之美",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8bcab12cbf53fd1c7b81ec7e9b34e20c",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261121",
             "fullstartdate": "202611211600",
