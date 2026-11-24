@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-23 08:01:42",
-    "Total": 1671,
+    "LastUpdate": "2026-11-24 10:18:51",
+    "Total": 1672,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261123",
+            "fullstartdate": "202611232300",
+            "enddate": "20261124",
+            "url": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770",
+            "copyright": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+            "title": "Camouflage d’automne",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a73e1266209fb640a3a4054a754c3f73",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261122",
             "fullstartdate": "202611222300",
