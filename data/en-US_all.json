@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-23 08:01:19",
-    "Total": 1672,
+    "LastUpdate": "2026-11-24 10:18:27",
+    "Total": 1673,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261124",
+            "fullstartdate": "202611240800",
+            "enddate": "20261125",
+            "url": "/th?id=OHR.CairngormsSquirrel_EN-US7053432564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CairngormsSquirrel_EN-US7053432564",
+            "copyright": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0800%22",
+            "title": "Autumnal camouflage",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_CairngormsSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "75a2fbfe8c20f538428ecf2aca696467",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261123",
             "fullstartdate": "202611230800",
