@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-23 08:01:14",
-    "Total": 1671,
+    "LastUpdate": "2026-11-24 10:18:23",
+    "Total": 1672,
     "Language": "zh-CN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261123",
+            "fullstartdate": "202611231600",
+            "enddate": "20261124",
+            "url": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
+            "copyright": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
+            "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+            "title": "秋日的保护色",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "f61be471a0e42e7718b05ee7817a4ef7",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261122",
             "fullstartdate": "202611221600",
