@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-24 10:18:27",
-    "Total": 1673,
+    "LastUpdate": "2026-11-25 08:59:57",
+    "Total": 1674,
     "Language": "en-US",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261125",
+            "fullstartdate": "202611250800",
+            "enddate": "20261126",
+            "url": "/th?id=OHR.SunsetPoint_EN-US0827880440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.SunsetPoint_EN-US0827880440",
+            "copyright": "Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261125_0800%22",
+            "title": "A southwestern snowfall",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_SunsetPoint%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "6a002d5147815a474454594663dd02a8",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261124",
             "fullstartdate": "202611240800",
