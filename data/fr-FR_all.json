@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-26 08:46:57",
-    "Total": 1674,
+    "LastUpdate": "2026-11-27 08:58:11",
+    "Total": 1675,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261126",
+            "fullstartdate": "202611262300",
+            "enddate": "20261127",
+            "url": "/th?id=OHR.FaceCanyon_FR-FR9763207069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FaceCanyon_FR-FR9763207069",
+            "copyright": "Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=Lac+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+            "title": "Rubans gris et or",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_FaceCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "48e0d1b384285179582d73c0f7566261",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261125",
             "fullstartdate": "202611252300",
