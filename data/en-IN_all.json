@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-26 08:46:53",
-    "Total": 1674,
+    "LastUpdate": "2026-11-27 08:58:07",
+    "Total": 1675,
     "Language": "en-IN",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261126",
+            "fullstartdate": "202611261830",
+            "enddate": "20261127",
+            "url": "/th?id=OHR.FaceCanyon_EN-IN7727815834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.FaceCanyon_EN-IN7727815834",
+            "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+            "copyrightlink": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261126_1830%22",
+            "title": "Ribbons of grey and gold",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_FaceCanyon%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "8ad31b2127144feb114297ae35f6bc6b",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261125",
             "fullstartdate": "202611251830",
