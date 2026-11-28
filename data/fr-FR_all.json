@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-27 08:58:11",
-    "Total": 1675,
+    "LastUpdate": "2026-11-28 08:19:06",
+    "Total": 1676,
     "Language": "fr-FR",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261127",
+            "fullstartdate": "202611272300",
+            "enddate": "20261128",
+            "url": "/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VltavaPrague_FR-FR4286783845",
+            "copyright": "Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Prague+ponts&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+            "title": "De pont en pont",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "02c220569bfe344dc3fc92c04825ae17",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261126",
             "fullstartdate": "202611262300",
