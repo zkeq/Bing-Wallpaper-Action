@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-27 08:58:15",
-    "Total": 1675,
+    "LastUpdate": "2026-11-28 08:19:10",
+    "Total": 1676,
     "Language": "it-IT",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261127",
+            "fullstartdate": "202611272300",
+            "enddate": "20261128",
+            "url": "/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VltavaPrague_IT-IT0736491794",
+            "copyright": "Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Ponti+di+Praga&form=hpcapt",
+            "title": "Ponti attraverso il tempo",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "a4bac70ee4041099f83c1a1dcd29d999",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261126",
             "fullstartdate": "202611262300",
