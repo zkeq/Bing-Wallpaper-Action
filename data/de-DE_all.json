@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-27 08:57:55",
-    "Total": 1675,
+    "LastUpdate": "2026-11-28 08:18:50",
+    "Total": 1676,
     "Language": "de-DE",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261127",
+            "fullstartdate": "202611272300",
+            "enddate": "20261128",
+            "url": "/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VltavaPrague_DE-DE9849101774",
+            "copyright": "Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Prager+Br%C3%BCcken&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+            "title": "Brücken in die Vergangenheit",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "ca4acc1151f4d08c56378a4926ef9ea5",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261126",
             "fullstartdate": "202611262300",
