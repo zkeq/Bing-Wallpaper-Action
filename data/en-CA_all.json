@@ -1,12 +1,29 @@
 {
-    "LastUpdate": "2026-11-27 08:57:59",
-    "Total": 1675,
+    "LastUpdate": "2026-11-28 08:18:54",
+    "Total": 1676,
     "Language": "en-CA",
     "message": "ok",
     "status": true,
     "success": true,
     "info": "https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json",
     "data": [
+        {
+            "startdate": "20261128",
+            "fullstartdate": "202611280500",
+            "enddate": "20261129",
+            "url": "/th?id=OHR.VltavaPrague_EN-CA3635435343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.VltavaPrague_EN-CA3635435343",
+            "copyright": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+            "copyrightlink": "https://www.bing.com/search?q=Prague+bridges&form=hpcapt&filters=HpDate%3a%2220261128_0500%22",
+            "title": "Bridges through time",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261128_VltavaPrague%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "b8b43a329500777c2e2fd5a08b450628",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
         {
             "startdate": "20261127",
             "fullstartdate": "202611270500",
